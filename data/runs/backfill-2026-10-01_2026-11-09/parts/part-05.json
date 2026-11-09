@@ -109,7 +109,7 @@
      "published_at": "2026-10-06T07:00:00.000Z",
      "amount_hint": "$250 Million",
      "snippet": "Vinci Raises $250 Million Series B At $1.5 Billion Valuation To Expand AI-Native Computational Platform Pulse 2.0",
-     "text_status": "skipped",
+     "text_status": "unresolved",
      "text": null
     }
    ]
@@ -124,12 +124,12 @@
      "group_key": "atomic machines",
      "title": "Atomic Machines Emerges from Stealth with $250 Million to Launch the Matter Compiler, an AI-Native Manufacturing System That Builds Micro-Machines from Code",
      "publisher": "Business Wire",
-     "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPNWxkRTRReHFDcTdObGs2a1pINXlvSXMtTV9LZTNiMWlrSG1tT2c0ZXlCMDktS3pjeDc1TTVjNFNJaFUtdVBtdHJJeWwtUmpOOG5ZcG9renF5WTI4bGlaSy15TE1hc1YyLUt1cnRtWHkwUFJKNEU1WkVyNWxha2htZVloRUhiQnJ4M2ZBU3dLOGhoamk3TVlmUWZ3Rlo3UERYa1Q5dktkY0xRd1UyZ05Xd2hYbU9iUElQNHBkM1lJTHFBRXRyWTVVbDU3cXNOUlJ4MWZPR0lXYjBkTElXeGxIS3BqT29UWU9zdS1XWUVVQ3hjdHBFLXdmN2g1Q0JVakIxUXBxaDNkUEtnR1FaTWVaS3A3b2FVLWJhMDN1ajdmWF9UckU1VUdrUlJSbzRuRTBxN3RPcjdKV0tQUQ?oc=5",
+     "url": "https://www.morningstar.com/news/business-wire/20261007902471/atomic-machines-emerges-from-stealth-with-250-million-to-launch-the-matter-compiler-an-ai-native-manufacturing-system-that-builds-micro-machines-from-code",
      "published_at": "2026-10-07T07:00:00.000Z",
      "amount_hint": "$250 Million",
      "snippet": "Atomic Machines Emerges from Stealth with $250 Million to Launch the Matter Compiler, an AI-Native Manufacturing System That Builds Micro-Machines from Code Business Wire",
-     "text_status": "unresolved",
-     "text": null
+     "text_status": "ok",
+     "text": "Home\nNews\nBusiness Wire\nAtomic Machines Emerges from Stealth with $250 Million to Launch the Matter Compiler, an AI-Native Manufacturing System That Builds Micro-Machines from Code\nAtomic Machines Emerges from Stealth with $250 Million to Launch the Matter Compiler, an AI-Native Manufacturing System That Builds Micro-Machines from Code\nProvided by Business Wire\nOct 7, 2026, 12:00:00 PM\nAtomic Machines Emerges from Stealth with $250 Million to Launch the Matter Compiler, an AI-Native Manufacturing System That Builds Micro-Machines from Code\nIts first product is PrimeSwitch, a previously unbuildable power relay that opens in microseconds for the 800-volt power systems of AI data centers\nAtomic Machines today emerged from six years in stealth to introduce the Matter Compiler , the first in a new class of AI-native, all-digital manufacturing systems that build working machines directly from code. The Matter Compiler is aimed at micro-machines: motors and gears the size of a grain of sand, robots small enough to work inside the body, cooling built directly into the chips that run AI, and the many devices like them that have been waiting on a way to build them. The company also announced PrimeSwitch, the first micro-machine produced by the Matter Compiler: an electromechanical power relay that opens in 50 microseconds, about a thousand times faster than a conventional contactor, with no sacrifice in conduction efficiency.\nAtomic Machines was founded by Jeff Holden, who joined Amazon as its tenth engineer, built Amazon Prime and rose to senior vice president, then became Uber's first chief product officer and founded its self-driving, AI labs and air-taxi divisions. The company has raised $250 million to date from investors including OneIM, Gigafund, XTX Ventures, KAS Venture Partners, Valor Equity Partners, Tru Arrow Partners, Construct Capital, Sozo Ventures and the Regents of the University of California. PrimeSwitch will be shown publicly for the first time at the Open Compute Project (OCP) Global Summit in San Jose, October 12–15.\nA gap in how the world makes things\nConventional manufacturing (casting, molding, machining) hits its limits in the low tens of microns. Below that, the dominant capability is semiconductor fabrication, built to do one thing extraordinarily well: pattern flat electronic circuits in silicon. The MEMS industry has coaxed about a dozen commercial device categories from that toolset, among them accelerometers, gyroscopes and micro-mirrors, but under the field's own maxim, \"one product, one process,\" each new device class takes years of custom process development. The result is that micro-machines, one of the most promising unexplored frontiers in hardware, have been blocked not by physics but by manufacturing.\nTwo breakthroughs\nThe Matter Compiler brings two breakthroughs to that problem. First, it is a general-purpose constructor: a single system in which code alone determines the device produced, building complete, functional, three-dimensional machines with moving parts, many materials and assembled subsystems, with features down to single-digit microns, and with no hard tooling of any kind. No new manufacturing process has to be engineered for a new device. Second, the entire physical manufacturing system sits inside the AI's loop: every operation is measured with high-precision metrology and corrected in real time, and the AI runs its own experiments on its own hardware to test what simulation proposes. Design "
     }
    ]
   },
@@ -143,12 +143,12 @@
      "group_key": "pigment",
      "title": "Pigment Raises $250 Million for Agentic AI Platform",
      "publisher": "PYMNTS.com",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX2dQM0tpSzBJcUJ6QjhpdFMtOS02b0FtTXJfS0tPaWMtdTEycXBLSjc0aDRfTGNpTTRoQWJ1RE5xOHBXMDVWT2tjdkVSbGw3S0tjdE5SWE9YMVhkanJsTkRZalhhX1MtenduRjlkaFhUOXctRXhkTmdQMnY2VFMwSTh5UllwMnFMTVhrMGVFYnIwZG5hZkZMTXRiV3F2eUpTOWlDQXJJUnVpWi13Nkxnb0JR?oc=5",
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/pigment-raises-250-million-dollars-agentic-ai-platform/",
      "published_at": "2026-10-21T07:00:00.000Z",
      "amount_hint": "$250 Million",
      "snippet": "Pigment Raises $250 Million for Agentic AI Platform PYMNTS.com",
-     "text_status": "unresolved",
-     "text": null
+     "text_status": "ok",
+     "text": "Pigment Raises $250 Million for Agentic AI Platform\nBy\nPYMNTS\n|\nOctober 21, 2026\n|\nListen to Article\nListen\nBusiness planning and performance management platform Pigment is worth $2.3 billion after raising $250 million in a Series E funding round , according to a Wednesday (Oct. 21) press release.\nGet the Full Story\nComplete the form to unlock this article and enjoy unlimited free access to all PYMNTS content — no additional logins required.\nyes Subscribe to our daily newsletter, PYMNTS Today.\nBy completing this form, you agree to receive marketing communications from PYMNTS and to the sharing of your information with our sponsor, if applicable, in accordance with our Privacy Policy and Terms and Conditions .\nΔ\nThe financing will help Pigment further develop its compute engine Graphite and the artificial intelligence agents running it, the release said.\n“Enterprise planning will change more in the next few years than it has in the last 30,” Pigment Co-Founders Eléonore Crespo and Romain Niccoli said in the release. “Legacy tools are being left behind, and the world’s most advanced AI companies now run their planning on Pigment. With the backing of our investors, we are moving fast to make autonomous planning a reality for every enterprise. With AI agents running planning workflows end to end and turning decisions into action, companies can respond to change as fast as it happens.”\nGet more PYMNTS in your Google feed\nGoogle News: PYMNTS headlines in your news feed. Follow PYMNTS\nGoogle Search: more PYMNTS in your results. Add as preferred source\nGraphite allows thousands of AI agents and people to work on the same governed model at the same time, “scaling to hundreds of billions of data points with deterministic, fully traceable results,” according to the release.\n“That is what makes autonomous planning possible,” the release said. “Agents can only be trusted to run planning workflows and act on the results when every number they produce is accurate and every action can be traced.”\nWith the new financing, Pigment will keep enhancing Graphite to be able to manage even larger and more complex workloads, while advancing its agents from constructing models and analyzing data to running planning workflows end to end, according to the release.\nThe Pigment platform is used by large enterprises such as Danone , DirecTV , Siemens , Snowflake , ServiceNow and Unilever , with companies including Anthropic , ElevenLabs and Uber using it to “serve as the reasoning runtime for their enterprise data,” the release said.\nMeanwhile, PYMNTS CEO Karen Webster wrote Wednesday that PYMNTS Intelligence has been researching what companies are doing to gain an agentic AI edge . The biggest move is letting agents do the work.\n“Leaders are far more willing to let agents carry out the work, with a person approving it, instead of keeping AI as a helper running a parallel set of tasks,” Webster wrote. “It’s the hardest step to take because it changes who does the work and who’s accountable for it. It’s also where leaders set themselves apart on agents, from how widely they run agentic AI to how much room they give it to act.”\nFor all PYMNTS AI coverage, subscribe to the daily AI newsletter .\nRecommended\nHow Better Payment Details Help Banks Screen Crypto Exposure\nCitizens Intros Treasury Intel For Commercial Clients\nVenmo Adds Receipt Scanning to Simplify Bill Splitting\nAmEx Takes Page From Trading Cards With Fanatics Deal\nSee More In:\nartificial intelligence , autom"
     }
    ]
   },
@@ -197,7 +197,7 @@
      "published_at": "2026-10-26T07:00:00.000Z",
      "amount_hint": "$237M",
      "snippet": "Pathos AI Raises $237M at $3B Valuation in Round Led by Bristol Myers Squibb citybiz",
-     "text_status": "skipped",
+     "text_status": "unresolved",
      "text": null
     }
    ]
@@ -228,7 +228,7 @@
      "published_at": "2026-10-21T07:00:00.000Z",
      "amount_hint": "$232 Million",
      "snippet": "Arda Emerges From Stealth With $232 Million To Automate Manufacturing Engineering Pulse 2.0",
-     "text_status": "skipped",
+     "text_status": "unresolved",
      "text": null
     },
     {

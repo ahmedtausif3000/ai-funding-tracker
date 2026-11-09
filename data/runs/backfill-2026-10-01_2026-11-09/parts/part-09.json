@@ -47,7 +47,7 @@
      "published_at": "2026-10-31T00:06:35.000Z",
      "amount_hint": "$86 million",
      "snippet": "Powerlattice raises $86 million to tackle AI's power delivery bottleneck news.lavx.hu",
-     "text_status": "skipped",
+     "text_status": "unresolved",
      "text": null
     }
    ]
@@ -62,11 +62,11 @@
      "group_key": "axonica",
      "title": "Ex-Qualcomm exec's AI chip startup Axonica raises $80M pre-seed",
      "publisher": "Dealroom",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnBLNUJpYTR5bXFHUURGTXNQSlRxUGhTQ3laRjZnbjNzeTZLN243emJWdlRRSGtnVUVuQzdKRlNhNTk4V1ZaZ3B1bmp4SzBqUS1pNFIzT0xkNlYtb3FGQkJRNXAxYTFwa05JZFg0Qm9zSlFZN1RINWZxbkVFNjBwa2tjTDJneVNyZEh5Nk5ZMUVaMi10d3dFX0tuc24?oc=5",
+     "url": "https://ecosystem.madrimasd.org/news/note/ex-qualcomm-exec-s-ai-chip-startup-axionic-raises-80m-pre-seed",
      "published_at": "2026-10-15T14:35:43.000Z",
      "amount_hint": "$80M",
      "snippet": "Ex-Qualcomm exec's AI chip startup Axonica raises $80M pre-seed Dealroom",
-     "text_status": "unresolved",
+     "text_status": "blocked:403",
      "text": null
     }
    ]
@@ -119,12 +119,12 @@
      "group_key": "this robotics",
      "title": "This robotics startup raised $75 million to automate drug manufacturing. See the pitch deck.",
      "publisher": "Business Insider",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMFlpUTlaU0ljYnlqel84dHRjcC01UXlHN0huRGxRa19MSjYyOUJwX2dPZEhCZG9vclVZWHdKc0tTN2NUTDVOM1hkVU1wMC1NZDdhMDVyNUhnZDlnUlFKWmFxU1RZYVRwWmpYTEtMTW5hckctcFJ4TDBtZ2NJX2pCc3FOVVB5ZllLcWJnNGd2bzdHS3N0VDNzRDZGRWFFeDJxRlE?oc=5",
+     "url": "https://dnyuz.com/2026/10/06/this-robotics-startup-raised-75-million-to-automate-drug-manufacturing-see-the-pitch-deck/",
      "published_at": "2026-10-06T07:00:00.000Z",
      "amount_hint": "$75 million",
      "snippet": "This robotics startup raised $75 million to automate drug manufacturing. See the pitch deck. Business Insider",
-     "text_status": "unresolved",
-     "text": null
+     "text_status": "thin",
+     "text": "News\nSupreme Court OKs border wall construction in Big Bend area of Texas\nby Los Angeles Times\nNovember 9, 2026\nWASHINGTON — The Supreme Court has cleared the way for the Trump administration to build a border wall through the scenic and ...\nRead more"
     }
    ]
   },
@@ -181,11 +181,11 @@
      "group_key": "truth",
      "title": "Truth emerges from stealth with $70M seed to mathematically prove code is safe",
      "publisher": "Dealroom",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXY4V1FtRGhiY1E0TmFoUzR0XzdGckxjREpYYWtGd2tqTzF5dnhEeXZvcThEWmRQVWptRjRxdklCSHFHdF9hMFF4eE9zcldxM1NxajVwbmdtdWlQeWY1S0Z0dElXOFIwdGFCLTZqVkVWRDlRcmtFd09RM0k2NDNhMzlqTEt5eElLOGNZRTV0cWEwNlJyeGFrQVZ4ODFKVWpTTVh4aFB6ZUZNUWZIMXJiVw?oc=5",
+     "url": "https://player.truthsocial.tv/",
      "published_at": "2026-10-30T07:57:11.000Z",
      "amount_hint": "$70M",
      "snippet": "Truth emerges from stealth with $70M seed to mathematically prove code is safe Dealroom",
-     "text_status": "unresolved",
+     "text_status": "thin",
      "text": null
     }
    ]
@@ -216,7 +216,7 @@
      "published_at": "2026-10-22T15:34:18.000Z",
      "amount_hint": "$66 Million",
      "snippet": "Blacksmith Raises $66 Million at $1 Billion Valuation as AI Coding Drives Testing Demand Konsulteer",
-     "text_status": "skipped",
+     "text_status": "unresolved",
      "text": null
     }
    ]
@@ -231,24 +231,24 @@
      "group_key": "secretive israeli",
      "title": "Secretive Israeli AI startup raises tens of millions backed by Bill Ackman and Eric Schmidt",
      "publisher": "CTech",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42eWxsZFdpQVdHbzRHRTZKTy10d1dLRmp2c0hPVnQtSUJaYkdBbngyWmdGbFI5NmZMblRGd2s4a3JwNVVPWXJyNE5QRm1lYXB4RWVCYXU2aGRDYW1BalRvN0oybzgxSW9S?oc=5",
+     "url": "https://www.calcalistech.com/ctechnews/article/rkpvzkuhmx",
      "published_at": "2026-10-22T07:00:00.000Z",
      "amount_hint": null,
      "snippet": "Secretive Israeli AI startup raises tens of millions backed by Bill Ackman and Eric Schmidt CTech",
-     "text_status": "unresolved",
-     "text": null
+     "text_status": "thin",
+     "text": "Photo: Jeenah Moon/Bloomberg"
     },
     {
      "id": "0cd3e867ddb0",
      "group_key": "secretive israeli",
      "title": "Israeli AI publishing co Spines raises $64m - Globes",
      "publisher": "Globes - Israel Business News",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSW55MVFMTndCMkZIRGtmbHNMT091TFV4SnRsWllNN25UNTJHUUJmLXh3Z29wODUxVmtBRTlqRnNKVlY1YU84cE1uMHB6aFVNNWoyOVdnTnNmd1dxc0o5V1NsXzVfdEhqOTRlaXJxeTV3WE1MNUJxeUhlY1Vqa090ZFlJbGlZbE14dzVkZ2UzOFNRZw?oc=5",
+     "url": "https://en.globes.co.il/en/article-israeli-ai-publishing-co-spines-raises-64m-1001562574",
      "published_at": "2026-11-09T14:06:55.000Z",
      "amount_hint": "$64m",
      "snippet": "Israeli AI publishing co Spines raises $64m Globes - Israel Business News",
-     "text_status": "skipped",
-     "text": null
+     "text_status": "ok",
+     "text": "Zeev Ventures, the Palo Alto-based venture capital firm founded by Israeli investor Oren Zeev, is leading another multi-million dollar investment round in Spines , a digital publishing company.\nSpines is now raising $29 million in equity from Zeev Ventures, Aleph, Dan Senor, and other investors, alongside $35 million in debt financing from Twelve - a new debt fund established by the Galai brothers, cofounders of Outbrain. While the company’s valuation for this round has not been disclosed, it is understood that it has not yet reached the $1 billion mark.\nTwo years ago, Spines closed its Series A funding round; at that time, its annual recurring revenue (ARR) was $3.5 million, with total revenue for that year reaching $5 million. Today, the company’s ARR is $50 million, with 8,000 authors in its portfolio who have collectively published over 12,000 books.\nSpines caters to thousands of amateur authors, willing to pay for self-publishing, who are not served by traditional publishing houses (which fully or partially fund the works of about50,000 professional authors annually). Authors upload their manuscripts to the platform, where the company’s AI agents edit and proofread the text, design the cover, and handle the book’s layout. Spines then distributes the titles across the market, including platforms like Amazon and Barnes & Noble, in digital, audio, and print formats. To avoid holding inventory, the company prints physical copies only when an individual order is placed. Audiobooks can be produced using a library of available voices, or by sampling the author’s own voice to train an AI model to narrate the story on their behalf.\nSpines does not accept books written by AI. The company employs technology specifically designed to detect AI-generated content. However, for an additional fee, users can hire a human editor to enhance the quality of their writing. The company currently serves the English-speaking market, while also enabling the translation of books from English into Spanish, Italian, French, German, Portuguese, Polish, and Hebrew. Translations are generated using AI and then reviewed by professionals for whom the target language is their native tongue. Over the next six months, the company plans to expand its service to 20 languages.\n\"In the US alone, there are about 50,000 professional authors who publish their books through established publishing houses like Penguin and Simon & Schuster; yet, around 2.5 to 3 million new books are published annually,\" Niv tells \"Globes\". \"The vast majority of these books - 99% - do not succeed in terms of sales. Publishers recoup their investments through the 1% that do become successful. We target a different market: amateur authors, publishing a book for the first time, who might otherwise approach established publishing houses only to be presented with a bill ranging from $10,000 to $150,000. Our typical package costs between $5,000 and $7,000 and within two weeks, these authors have a book of their own.\"\nUnlike large publishing houses, Spines is a commercial publisher that does not necessarily seek \"bestsellers\" and does not employ manuscript readers. Consequently, the company does not finance the publication of books for talented authors. Nevertheless, the company takes pride in having around 100 authors who have successfully sold several thousand copies of their books.\nSpines was founded in 2021 by CEO Yehuda Niv, CSO Lev David, CTO Nir Kenner, and CPO Niv Ovdat. In 2013, Yehuda Niv found"
     }
    ]
   }
