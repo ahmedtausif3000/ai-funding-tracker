@@ -66,6 +66,7 @@ export function parseFeed(xml = '') {
         published: tag(b, 'pubDate') || tag(b, 'dc:date'),
         description: tag(b, 'description') || tag(b, 'content:encoded'),
         publisher: tag(b, 'source') || tag(b, 'dc:creator'),
+        publisher_url: attr(b, 'source', 'url'),
       });
     }
   }

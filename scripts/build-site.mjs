@@ -14,7 +14,7 @@ const weekAgo = Date.now() - 7 * 86400e3;
 const week = inView.filter((r) => Date.parse(r.announced_date) >= weekAgo);
 const meta = {
   generated_at: new Date().toISOString(), last_run: store.last_run || null, total_rounds: store.rounds.length, in_view: inView.length,
-  week: { count: week.length, total_usd: week.reduce((s, r) => s + (r.amount_usd || 0), 0), largest: week[0] ? { company: week[0].company, amount_usd: week[0].amount_usd } : null },
+  week: { count: week.length, total_usd: week.reduce((s, r) => s + (r.amount_usd || 0), 0), largest: week.length ? (() => { const w = week.reduce((a, b) => ((b.amount_usd || 0) > (a.amount_usd || 0) ? b : a)); return { company: w.company, amount_usd: w.amount_usd }; })() : null },
   scope: { min_amount_usd: 15_000_000, country: 'US', industries: 'AI / ML', stages: ['Seed', 'Early Stage Venture', 'Late Stage Venture'] },
   runs: runSummaries.slice(-30),
 };

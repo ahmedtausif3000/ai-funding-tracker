@@ -59,7 +59,7 @@
       <td>${esc(fmtDate(r.announced_date))}</td>
       <td>${esc(r.round_type)}<div class="muted" style="font-size:12px">${esc(r.stage_bucket)}</div></td>
       <td>${chips(r.lead_investors)}</td>
-      <td><b>${r.website ? `<a href="https://${esc(r.website.replace(/^https?:\/\//, ''))}" target="_blank" rel="noopener">${esc(r.company)}</a>` : esc(r.company)}</b>${loc ? `<div class="muted" style="font-size:12px">${esc(loc)}</div>` : ''}<div class="desc">${esc(r.description || '')}</div></td>
+      <td><b>${r.website ? `<a href="https://${esc(r.website.replace(/^https?:\/\//, ''))}" target="_blank" rel="noopener">${esc(r.company)}</a>` : esc(r.company)}</b>${loc ? `<div class="muted" style="font-size:12px">${esc(loc)}</div>` : ''}<div class="desc" title="${esc(r.description || '')}">${esc(r.description || '')}</div></td>
       <td>${chips(r.investors)}</td>
       <td class="src">${(r.source_urls || []).slice(0, 4).map((u) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))}</a>`).join('')}</td>
     </tr>`;

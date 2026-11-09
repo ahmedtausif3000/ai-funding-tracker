@@ -7,7 +7,7 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { googleNewsQueries, STATIC_FEEDS, parseFeed, fetchText, BROWSER_UA } from './lib/feeds.mjs';
-import { decodeGoogleNewsUrl, isGoogleNewsLink, searchHeadlineUrl } from './lib/google-news.mjs';
+import { decodeGoogleNewsUrl, isGoogleNewsLink, searchHeadlineUrl, resolveViaPublisherFeed, resolveViaBing } from './lib/google-news.mjs';
 import { htmlToText, extractMainHtml, parseAmount, FUNDING_VERB_RE, FUNDING_CTX_RE, AI_HINT_RE, headlineCompany, normalizeName, tokenSimilarity, isoDate, sleep } from './lib/text.mjs';
 
 const args = Object.fromEntries(process.argv.slice(2).map((a, i, arr) => a.startsWith('--') ? [a.slice(2), arr[i + 1] && !arr[i + 1].startsWith('--') ? arr[i + 1] : true] : []).filter(Boolean));
@@ -52,7 +52,9 @@ for (const src of sources) {
 }
 
 // ---- prefilter ----
-const dropped = { not_funding: 0, no_ai_hint: 0, below_min: 0, seen: 0, duplicate_link: 0, known_round: 0 };
+const dropped = { not_funding: 0, no_ai_hint: 0, below_min: 0, fund_close: 0, seen: 0, duplicate_link: 0, known_round: 0 };
+const FUND_RE = /\b(fund\s+(?:[IVX]+|\d+|one|two|three)\b|(?:first|final|initial) close|closes? (?:its|a|an|new|\$[\d.]+\s?\w+ )?(?:\w+ ){0,3}fund\b|venture (?:capital )?firm|vc firm|capital raises|investment firm|asset manager|raises .{0,40}\bfund\b|fund of funds|for (?:its|new) fund)/i;
+const FX = { USD: 1, EUR: 1.1, GBP: 1.3, CAD: 0.72, AUD: 0.65 };
 const byLink = new Map();
 for (const it of raw) {
   const title = (it.title || '').trim();
@@ -63,8 +65,9 @@ for (const it of raw) {
   if (!FUNDING_VERB_RE.test(blob) || !FUNDING_CTX_RE.test(blob)) { dropped.not_funding++; continue; }
   const aiHint = AI_HINT_RE.test(blob);
   if (!aiHint && !it.ai_specific) { dropped.no_ai_hint++; continue; }
+  if (FUND_RE.test(title)) { dropped.fund_close++; continue; }
   const amt = parseAmount(blob);
-  if (amt && amt.currency === 'USD' && amt.amount < MIN_AMOUNT) { dropped.below_min++; continue; }
+  if (amt && amt.amount * (FX[amt.currency] || 1) < MIN_AMOUNT) { dropped.below_min++; continue; }
   if (seen.has(it.link)) { dropped.seen++; continue; }
   let publisher = it.publisher || '';
   let cleanTitle = title;
@@ -72,7 +75,7 @@ for (const it of raw) {
   if (m && it.kind === 'google-news') { publisher = publisher || m[1].trim(); cleanTitle = title.slice(0, m.index).trim(); }
   byLink.set(it.link, {
     id: hash(it.link), title: cleanTitle, publisher, link: it.link, published_at: it.published ? new Date(it.published).toISOString() : null,
-    snippet, source_feed: it.source_feed, ai_hint: aiHint, amount_hint: amt, company_guess: headlineCompany(cleanTitle),
+    publisher_url: it.publisher_url || null, snippet, source_feed: it.source_feed, ai_hint: aiHint, amount_hint: amt, company_guess: headlineCompany(cleanTitle),
   });
 }
 let cands = [...byLink.values()];
@@ -107,7 +110,7 @@ log(`groups ${groups.length} -> after known-round suppression ${kept.length} -> 
 // ---- resolve links + fetch article text (best article per group; gentle on Google) ----
 const cachePath = path.join(ROOT, 'data', 'url-cache.json');
 const urlCache = readJson(cachePath, {});
-let fetched = 0, blocked = 0, googleStop = false, searchStop = false, resolvedNow = 0, viaSearch = 0;
+let fetched = 0, blocked = 0, googleStop = false, bingStop = false, searchStop = false, resolvedNow = 0, viaSearch = 0, viaFeed = 0;
 for (const g of selected) {
   g.members.sort((a, b) => prio(a) - prio(b));
   for (const [i, c] of g.members.entries()) {
@@ -118,20 +121,25 @@ for (const g of selected) {
       if (isGoogleNewsLink(target)) {
         if (urlCache[target]) target = urlCache[target].url;
         else {
-          let r = null;
-          if (!googleStop) {
+          let r = await resolveViaPublisherFeed(c.title, c.publisher_url);
+          if (r) viaFeed++;
+          if (!r && !googleStop) {
             r = await decodeGoogleNewsUrl(target);
             await sleep(1100);
-            if (r === 'RATE_LIMITED') { googleStop = true; r = null; log('Google News rate limit hit; switching to search fallback'); }
+            if (r === 'RATE_LIMITED') { googleStop = true; r = null; log('Google News rate limit hit; using search fallbacks'); }
+          }
+          if (!r && !bingStop) {
+            r = await resolveViaBing(c.title, c.publisher);
+            await sleep(1500);
+            if (r === 'RATE_LIMITED') { bingStop = true; r = null; log('Bing rate limited'); } else if (r) viaSearch++;
           }
           if (!r && !searchStop) {
             r = await searchHeadlineUrl(c.title, c.publisher);
             await sleep(2000);
-            if (r === 'RATE_LIMITED') { searchStop = true; r = null; log('search fallback rate limited; stopping resolution'); }
-            else if (r) viaSearch++;
+            if (r === 'RATE_LIMITED') { searchStop = true; r = null; log('DuckDuckGo rate limited'); } else if (r) viaSearch++;
           }
           if (r) { target = r; urlCache[c.link] = { url: r, at: Date.now() }; resolvedNow++; }
-          else { c.text_status = googleStop && searchStop ? 'unresolved:rate-limited' : 'unresolved'; continue; }
+          else { c.text_status = 'unresolved'; continue; }
         }
       }
       c.resolved_url = target;
@@ -146,7 +154,7 @@ for (const g of selected) {
 }
 for (const [k, v] of Object.entries(urlCache)) if (Date.now() - v.at > 45 * 86400e3) delete urlCache[k];
 fs.writeFileSync(cachePath, JSON.stringify(urlCache, null, 0));
-log(`links resolved this run: ${resolvedNow} (${viaSearch} via search fallback)${googleStop ? '; Google rate limited' : ''}`);
+log(`links resolved this run: ${resolvedNow} (${viaFeed} via publisher feed, ${viaSearch} via search)${googleStop ? '; Google rate limited' : ''}`);
 log(`articles fetched ${fetched}, blocked ${blocked}`);
 
 const candidates = selected.flatMap((g) => g.members);

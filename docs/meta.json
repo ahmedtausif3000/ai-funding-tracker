@@ -1,0 +1,134 @@
+{
+  "generated_at": "2026-11-09T16:59:53.993Z",
+  "last_run": "2026-11-09",
+  "total_rounds": 62,
+  "in_view": 21,
+  "week": {
+    "count": 14,
+    "total_usd": 15895100000,
+    "largest": {
+      "company": "OpenAI",
+      "amount_usd": 11000000000
+    }
+  },
+  "scope": {
+    "min_amount_usd": 15000000,
+    "country": "US",
+    "industries": "AI / ML",
+    "stages": [
+      "Seed",
+      "Early Stage Venture",
+      "Late Stage Venture"
+    ]
+  },
+  "runs": [
+    {
+      "run_date": "2026-11-09",
+      "inserted": 62,
+      "merged": 0,
+      "excluded_on_insert": 41,
+      "total_rounds": 62,
+      "in_view": 21,
+      "fetch": {
+        "feeds": [
+          {
+            "id": "gnews-1",
+            "status": 200,
+            "items": 28
+          },
+          {
+            "id": "gnews-2",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-3",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-4",
+            "status": 200,
+            "items": 32
+          },
+          {
+            "id": "gnews-5",
+            "status": 200,
+            "items": 26
+          },
+          {
+            "id": "gnews-6",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-7",
+            "status": 200,
+            "items": 28
+          },
+          {
+            "id": "gnews-8",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "prnewswire-vc",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "alleywatch",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "techcrunch-venture",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-funding",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-ai",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techfundingnews",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "crunchbase-news",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "crunchbase-news-ai",
+            "status": 200,
+            "items": 10
+          }
+        ],
+        "raw_items": 270,
+        "prefiltered": 72,
+        "dropped": {
+          "not_funding": 115,
+          "no_ai_hint": 10,
+          "below_min": 27,
+          "fund_close": 2,
+          "seen": 0,
+          "duplicate_link": 44,
+          "known_round": 0
+        },
+        "groups": 59,
+        "selected_groups": 59,
+        "candidates": 72,
+        "articles_fetched": 19,
+        "google_rate_limited": true
+      }
+    }
+  ]
+}

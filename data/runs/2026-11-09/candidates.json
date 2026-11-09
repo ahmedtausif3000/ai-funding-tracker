@@ -1,0 +1,1999 @@
+{
+  "run_date": "2026-11-09",
+  "generated_at": "2026-11-09T16:44:51.214Z",
+  "window_days": 3,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 200,
+        "items": 28
+      },
+      {
+        "id": "gnews-2",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-3",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-4",
+        "status": 200,
+        "items": 32
+      },
+      {
+        "id": "gnews-5",
+        "status": 200,
+        "items": 26
+      },
+      {
+        "id": "gnews-6",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-7",
+        "status": 200,
+        "items": 28
+      },
+      {
+        "id": "gnews-8",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 270,
+    "prefiltered": 72,
+    "dropped": {
+      "not_funding": 115,
+      "no_ai_hint": 10,
+      "below_min": 27,
+      "fund_close": 2,
+      "seen": 0,
+      "duplicate_link": 44,
+      "known_round": 0
+    },
+    "groups": 59,
+    "selected_groups": 59,
+    "candidates": 72,
+    "articles_fetched": 19,
+    "google_rate_limited": true
+  },
+  "groups": [
+    {
+      "key": "brookfield",
+      "company_guess": "Brookfield",
+      "amount_hint_usd": 25000000000,
+      "candidate_ids": [
+        "c4c013d44a54"
+      ]
+    },
+    {
+      "key": "top tech news mitsuis",
+      "company_guess": "Top Tech News: Mitsui’s",
+      "amount_hint_usd": 11600000000,
+      "candidate_ids": [
+        "3ff85bba15db"
+      ]
+    },
+    {
+      "key": "funding weekly",
+      "company_guess": "Funding Weekly",
+      "amount_hint_usd": 11000000000,
+      "candidate_ids": [
+        "6aca6c2dbd3e"
+      ]
+    },
+    {
+      "key": "openai reportedly",
+      "company_guess": "OpenAI reportedly",
+      "amount_hint_usd": 11000000000,
+      "candidate_ids": [
+        "314bd089789a"
+      ]
+    },
+    {
+      "key": "shield",
+      "company_guess": "Shield",
+      "amount_hint_usd": 5300000000,
+      "candidate_ids": [
+        "41881f4dfd36",
+        "323f9cbddc61"
+      ]
+    },
+    {
+      "key": "shield",
+      "company_guess": "Shield AI",
+      "amount_hint_usd": 2500000000,
+      "candidate_ids": [
+        "fc95da91e6db"
+      ]
+    },
+    {
+      "key": "brahma",
+      "company_guess": "Brahma AI",
+      "amount_hint_usd": 2000000000,
+      "candidate_ids": [
+        "864a9d07d972"
+      ]
+    },
+    {
+      "key": "weeks 10 biggest funding",
+      "company_guess": "Week’s 10 Biggest Funding",
+      "amount_hint_usd": 2000000000,
+      "candidate_ids": [
+        "f78e15662ba6"
+      ]
+    },
+    {
+      "key": "drone delivery firm",
+      "company_guess": "Drone Delivery Firm",
+      "amount_hint_usd": 1500000000,
+      "candidate_ids": [
+        "6a7d74eeb817"
+      ]
+    },
+    {
+      "key": "shield",
+      "company_guess": "Shield AI",
+      "amount_hint_usd": 1000000000,
+      "candidate_ids": [
+        "a2e53b53591f"
+      ]
+    },
+    {
+      "key": "french ardian",
+      "company_guess": "French Ardian",
+      "amount_hint_usd": 1000000000,
+      "candidate_ids": [
+        "fcd54bce5e8c"
+      ]
+    },
+    {
+      "key": "paper unicorns are cheap",
+      "company_guess": "Paper Unicorns Are Cheap.",
+      "amount_hint_usd": 1000000000,
+      "candidate_ids": [
+        "a99c9034c68a"
+      ]
+    },
+    {
+      "key": "cyera set for 800",
+      "company_guess": "Cyera set for $800",
+      "amount_hint_usd": 800000000,
+      "candidate_ids": [
+        "3c0bebaf1f57"
+      ]
+    },
+    {
+      "key": "cesiumastro",
+      "company_guess": "CesiumAstro",
+      "amount_hint_usd": 730000000,
+      "candidate_ids": [
+        "333bddc9060a"
+      ]
+    },
+    {
+      "key": "team8",
+      "company_guess": "Team8",
+      "amount_hint_usd": 365000000,
+      "candidate_ids": [
+        "c575a5badfbc"
+      ]
+    },
+    {
+      "key": "applied compute",
+      "company_guess": "Applied Compute",
+      "amount_hint_usd": 350000000,
+      "candidate_ids": [
+        "1d2676d7bb02"
+      ]
+    },
+    {
+      "key": "onodrim industries",
+      "company_guess": "Onodrim Industries",
+      "amount_hint_usd": 300000000,
+      "candidate_ids": [
+        "b86b52e6942d"
+      ]
+    },
+    {
+      "key": "palantir alumni founded dutch defencetech",
+      "company_guess": "Palantir alumni-founded Dutch DefenceTech",
+      "amount_hint_usd": 268010000,
+      "candidate_ids": [
+        "af7142660f50"
+      ]
+    },
+    {
+      "key": "nominal",
+      "company_guess": "Nominal",
+      "amount_hint_usd": 240000000,
+      "candidate_ids": [
+        "7b809e87dac0"
+      ]
+    },
+    {
+      "key": "space startups 2026 6",
+      "company_guess": "Space Startups 2026: 6",
+      "amount_hint_usd": 200000000,
+      "candidate_ids": [
+        "4f490e93c242"
+      ]
+    },
+    {
+      "key": "sentra",
+      "company_guess": "Sentra",
+      "amount_hint_usd": 150000000,
+      "candidate_ids": [
+        "24ccdeeb2866",
+        "b1eeccbd2e83"
+      ]
+    },
+    {
+      "key": "dulo",
+      "company_guess": "Dulo",
+      "amount_hint_usd": 130000000,
+      "candidate_ids": [
+        "15d9ec54d052"
+      ]
+    },
+    {
+      "key": "mavria",
+      "company_guess": "Mavria",
+      "amount_hint_usd": 130000000,
+      "candidate_ids": [
+        "30f6b194f6cf"
+      ]
+    },
+    {
+      "key": "traversal",
+      "company_guess": "Traversal",
+      "amount_hint_usd": 120000000,
+      "candidate_ids": [
+        "2780d80b373e",
+        "0a22c0cd4e96"
+      ]
+    },
+    {
+      "key": "hypersonica",
+      "company_guess": "Hypersonica",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "967c0279a9d3"
+      ]
+    },
+    {
+      "key": "c4b8d364743a",
+      "company_guess": "AI",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "c4b8d364743a"
+      ]
+    },
+    {
+      "key": "go",
+      "company_guess": "Go.AI",
+      "amount_hint_usd": 85000000,
+      "candidate_ids": [
+        "c8033df7a73c",
+        "842468320a6d"
+      ]
+    },
+    {
+      "key": "australian founded future",
+      "company_guess": "Australian-Founded Future",
+      "amount_hint_usd": 82000000,
+      "candidate_ids": [
+        "bad804522b7d"
+      ]
+    },
+    {
+      "key": "loracle",
+      "company_guess": "Loracle",
+      "amount_hint_usd": 79430000,
+      "candidate_ids": [
+        "8dfef91d7ce8"
+      ]
+    },
+    {
+      "key": "&truth",
+      "company_guess": "&Truth",
+      "amount_hint_usd": 70000000,
+      "candidate_ids": [
+        "fb49bb9b4a84"
+      ]
+    },
+    {
+      "key": "spines",
+      "company_guess": "Spines",
+      "amount_hint_usd": 64000000,
+      "candidate_ids": [
+        "270dd8733ab1",
+        "0f04181c9513",
+        "f85c4619b910"
+      ]
+    },
+    {
+      "key": "42ai",
+      "company_guess": "42AI",
+      "amount_hint_usd": 62500000,
+      "candidate_ids": [
+        "658fabe54fec"
+      ]
+    },
+    {
+      "key": "trajectory",
+      "company_guess": "Trajectory",
+      "amount_hint_usd": 45000000,
+      "candidate_ids": [
+        "464a7872f1dc"
+      ]
+    },
+    {
+      "key": "coframe",
+      "company_guess": "Coframe",
+      "amount_hint_usd": 35000000,
+      "candidate_ids": [
+        "20361b7ed25f",
+        "377fa0826ff5",
+        "f7b4b6fce358"
+      ]
+    },
+    {
+      "key": "j lich based srtd biotech",
+      "company_guess": "Jülich-based SRTD Biotech",
+      "amount_hint_usd": 31500000,
+      "candidate_ids": [
+        "eed9cc3b4436"
+      ]
+    },
+    {
+      "key": "coframe",
+      "company_guess": "Coframe",
+      "amount_hint_usd": 25000000,
+      "candidate_ids": [
+        "5ae56bc32c4e"
+      ]
+    },
+    {
+      "key": "numica",
+      "company_guess": "Numica",
+      "amount_hint_usd": 21000000,
+      "candidate_ids": [
+        "4d9b7d3a7108"
+      ]
+    },
+    {
+      "key": "midstream health",
+      "company_guess": "Midstream Health",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "3702dda882c7"
+      ]
+    },
+    {
+      "key": "this startup",
+      "company_guess": "This Startup",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "98cf402bc9d0"
+      ]
+    },
+    {
+      "key": "geniosai",
+      "company_guess": "geniosAI",
+      "amount_hint_usd": 19100000,
+      "candidate_ids": [
+        "ff018341a510",
+        "8701a85b02e9",
+        "b8aabf1882f9",
+        "520cd478c3aa"
+      ]
+    },
+    {
+      "key": "financial intelligence platform",
+      "company_guess": "Financial intelligence platform",
+      "amount_hint_usd": 19100000,
+      "candidate_ids": [
+        "1f07be272fb9"
+      ]
+    },
+    {
+      "key": "firmly",
+      "company_guess": "firmly",
+      "amount_hint_usd": 15000000,
+      "candidate_ids": [
+        "87f45091e3b1",
+        "22fc003a7a1c"
+      ]
+    },
+    {
+      "key": "guava",
+      "company_guess": "Guava",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "de3bd429ca2d"
+      ]
+    },
+    {
+      "key": "naver d2sf backed movin",
+      "company_guess": "NAVER D2SF-backed MOVIN",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "fd80ab587739",
+        "1f791261af62"
+      ]
+    },
+    {
+      "key": "kinedb",
+      "company_guess": "KineDB",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "3bbf99e9efc8"
+      ]
+    },
+    {
+      "key": "indian",
+      "company_guess": "Indian AI",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "fe3a946baf4c"
+      ]
+    },
+    {
+      "key": "koreas golden brain care",
+      "company_guess": "Korea's Golden Brain Care",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "903461ad58c1"
+      ]
+    },
+    {
+      "key": "five australian startups that",
+      "company_guess": "Five Australian startups that",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "30ebe3698c4d"
+      ]
+    },
+    {
+      "key": "tallia",
+      "company_guess": "Tallia",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "d557c111a107"
+      ]
+    },
+    {
+      "key": "green voltis",
+      "company_guess": "Green Voltis",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "50513abd4c57"
+      ]
+    },
+    {
+      "key": "salesforce and fal billion dollar",
+      "company_guess": "Salesforce And Fal Billion-Dollar",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "4439f11ea608"
+      ]
+    },
+    {
+      "key": "thomson reuters reports 10",
+      "company_guess": "Thomson Reuters Reports 10%",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "ace14e4bcda9"
+      ]
+    },
+    {
+      "key": "8b4f744037d4",
+      "company_guess": "AI",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "8b4f744037d4"
+      ]
+    },
+    {
+      "key": "durcal",
+      "company_guess": "Durcal",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "d808f206d5e7"
+      ]
+    },
+    {
+      "key": "chinas unix",
+      "company_guess": "China's UniX AI",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "f0363950ab4e"
+      ]
+    },
+    {
+      "key": "airev",
+      "company_guess": "AIREV",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "71e9bf0bf051"
+      ]
+    },
+    {
+      "key": "ex jd com execs stealth robotics",
+      "company_guess": "Ex-JD.com exec's stealth robotics",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "477c14c72f6b"
+      ]
+    },
+    {
+      "key": "sanyou bio",
+      "company_guess": "Sanyou Bio",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "50a46229126c"
+      ]
+    },
+    {
+      "key": "kos biotechnology partners",
+      "company_guess": "Kos Biotechnology Partners",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "36a8a788b4ca"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "c4c013d44a54",
+      "title": "Brookfield Raises $25 Billion Amid AI Push as Profits Rise",
+      "publisher": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDdqRVo3V1h1ZTN3LXBzQTVsNXFpMDdOYkZldmJNUDE3YzEtb18zUUYyZy1nVUlIdTJqTkZ1d1g5Z0NkN19GUmNEYU51ZXlqWm55azVZN3VldHRydGdrR0hMQ2dPNDVkM2ZTNGlFSnBBYlZpR2d3c0h6YTFiTjN1OUVmeGUzS0NyN29VZWp2MTBGNFhWLUVKVkFKazM2bDA3U3JJaUxYNTNZN2hfTmhoM2RSVU4?oc=5",
+      "published_at": "2026-11-06T17:01:30.000Z",
+      "publisher_url": "https://www.bloomberg.com",
+      "snippet": "Brookfield Raises $25 Billion Amid AI Push as Profits Rise Bloomberg.com",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 25000000000,
+        "currency": "USD",
+        "raw": "$25 Billion"
+      },
+      "company_guess": "Brookfield",
+      "group_key": "brookfield",
+      "group_rank": 0,
+      "resolved_url": "https://www.bloomberg.com/news/articles/2026-11-06/brookfield-raises-123-billion-amid-ai-build-out-as-profits-rise",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "3ff85bba15db",
+      "title": "Top Tech News: Mitsui’s $11.6 Billion JSR Deal, Newmo Raises $135 Million and More",
+      "publisher": "Analytics Insight",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcTh5TWgxbVRSMTNYTDE4TVpQeENFamRCZ1VlNlBrRVdsTFlNZ0dxalkzeGhiX2c5SVYtSXhCR2Vhd0lVVzAtNi1zS0EzRTJFRTFEZWZOeFZfWXZSamNHWElMR1NMOTRsV3BrcndYV09oVWlPZXM1d1pNOHB6LWoxekVPdUZsUFBNMnN0enlXdkY4YkZSLWdLNzB5M2pjMWtocGZjTUdGMnFFWEloSDBLRVZnNnVRZG5YdXcxTU96emZWcDRCekZxRtIByAFBVV95cUxNcTh5TWgxbVRSMTNYTDE4TVpQeENFamRCZ1VlNlBrRVdsTFlNZ0dxalkzeGhiX2c5SVYtSXhCR2Vhd0lVVzAtNi1zS0EzRTJFRTFEZWZOeFZfWXZSamNHWElMR1NMOTRsV3BrcndYV09oVWlPZXM1d1pNOHB6LWoxekVPdUZsUFBNMnN0enlXdkY4YkZSLWdLNzB5M2pjMWtocGZjTUdGMnFFWEloSDBLRVZnNnVRZG5YdXcxTU96emZWcDRCekZxRg?oc=5",
+      "published_at": "2026-11-09T06:06:01.000Z",
+      "publisher_url": "https://www.analyticsinsight.net",
+      "snippet": "Top Tech News: Mitsui’s $11.6 Billion JSR Deal, Newmo Raises $135 Million and More Analytics Insight",
+      "source_feed": "gnews-6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 11600000000,
+        "currency": "USD",
+        "raw": "$11.6 Billion"
+      },
+      "company_guess": "Top Tech News: Mitsui’s",
+      "group_key": "top tech news mitsuis",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "6aca6c2dbd3e",
+      "title": "Funding Weekly | OpenAI Raises $11B at a $1.25T Valuation; Uranium Digital Closes $16.5M Series A",
+      "publisher": "PANews",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54dDZiT0drMTlxT0ZTNkRyMUdHQWdvS0ZxOXVjYTRPeGhuelpoSDVmTy1nWW9pZE52YUUtZ2RROVAyMXBSekJCZzhMbFdBOU02cC1MTnhIQkxkMWU2OTc2RFJObjZOU1cxVnZSNTFGSW1PbUFuNDlnb194LU5iNDA?oc=5",
+      "published_at": "2026-11-09T03:05:00.000Z",
+      "publisher_url": "https://www.panewslab.com",
+      "snippet": "Funding Weekly | OpenAI Raises $11B at a $1.25T Valuation; Uranium Digital Closes $16.5M Series A PANews",
+      "source_feed": "gnews-2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 11000000000,
+        "currency": "USD",
+        "raw": "$11B"
+      },
+      "company_guess": "Funding Weekly",
+      "group_key": "funding weekly",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "314bd089789a",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "publisher": "Lucas Ropek",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "published_at": "2026-11-06T22:53:46.000Z",
+      "publisher_url": null,
+      "snippet": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "source_feed": "techcrunch-ai",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 11000000000,
+        "currency": "USD",
+        "raw": "$11 billion"
+      },
+      "company_guess": "OpenAI reportedly",
+      "group_key": "openai reportedly",
+      "group_rank": 0,
+      "resolved_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "text": "In Brief\nPosted:\n2:53 PM PST · November 6, 2026\nImage Credits: Samuel Boivin/NurPhoto / Getty Images\nLucas Ropek\nOpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation\nOpenAI has reportedly raised $11 billion so far in a new funding round that values the AI lab at $1.25 trillion.\nBloomberg reported on the new funding on Friday, citing sources familiar with the matter. The $11 billion is part of a larger funding round that hasn’t closed yet, according to the outlet. The round is expected to close in the coming weeks and could total about $20 billion, a source told Bloomberg.\nIn late September, Bloomberg reported that OpenAI was looking to raise $30 billion in the upcoming round. The current figures fall well short of that target.\nTechCrunch has reached out to OpenAI for comment and will update this story if it responds.\nThe news comes only hours after Bloomberg also reported that potential buyers of shares in the IPO of OpenAI’s chief competitor, Anthropic, are eyeing a substantially lower valuation than Anthropic had targeted. Bloomberg writes that some potential buyers believe Anthropic’s valuation could be as low as $1.1 trillion, compared with the $2 trillion that investors were said to be expecting roughly a month ago.\nOpenAI previously intimated that it would go public this year but subsequently delayed its plans. There are expectations that the company will IPO next year at some point.\nThe market for AI hangs in a particularly precarious place. The Democratic landslide in the U.S. midterms — and overwhelmingly negative voter sentiment around data centers — has caused jitters throughout the market , with many anticipating potential regulatory challenges in the future.\nTopics\nAI , Anthropic , fundraising , In Brief , OpenAI\nNovember 4\nBoston\nBuy One Pass, Get a Second Free\nCover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free\nBook before the BOGO deal expires\nRegister Now\nNewsletters\nSee More\nSubscribe for the industry’s biggest tech news\nTechCrunch Daily News\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\nTechCrunch Mobility\nTechCrunch Mobility is your destination for transportation news and insight.\nStartups Weekly\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\nStrictlyVC\nProvides movers and shakers with the info they need to start their day.\nNo newsletters selected.\nSubscribe\nBy submitting your email, you agree to our Terms and Privacy Notice .\nRelated\nAI\nIs Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”\nConnie Loizos\n11 hours ago\nHardware\nIf Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be\nLucas Ropek\n19 hours ago\nGovernment & Policy\nAfter the midterms, things are looking rocky for Elon Musk and data centers\nAnthony Ha\n2 days ago\nLatest in AI\nAI\nMedium’s new TK app brings AI assistance directly into the writing process\nSarah Perez\n7 minutes ago\nApps\nAutomattic debuts a platform to deploy vibe coding apps amid a changing internet\nIvan Mehta\n2 hours ago\nAI\nIs Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”\nConnie Loizos\n11 hours ago",
+      "text_status": "ok"
+    },
+    {
+      "id": "41881f4dfd36",
+      "title": "Shield Announces $5.3 Billion Echodyne Acquisition and $2.5 Billion Funding Raise",
+      "publisher": "UASweekly.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQk9SbFZxUGNELVl4NUh2T3YyX0dYWnZUSTVDbW9FbHREU2tTRGtJUklaU2c2SjdzWnhjRURrem9yRC0yTW5mUlUwcFk3MVJsMnJFOU5qZXpXbE00Wmd1RXp0NGhyaS1rcUIwazFiUGlsY0lSNXI0ZDlZcDVuejY3MGpEVXItNTV6OGJRa1dnRENaOHNEUXh0VGQ4a2ljMXhFdjdpUFo3aDNHMkpxanIxckptNA?oc=5",
+      "published_at": "2026-11-09T12:29:15.000Z",
+      "publisher_url": "https://uasweekly.com",
+      "snippet": "Shield Announces $5.3 Billion Echodyne Acquisition and $2.5 Billion Funding Raise UASweekly.com",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 5300000000,
+        "currency": "USD",
+        "raw": "$5.3 Billion"
+      },
+      "company_guess": "Shield",
+      "group_key": "shield",
+      "group_rank": 0,
+      "resolved_url": "https://uasweekly.com/2026/11/09/shield-announces-5-3-billion-echodyne-acquisition-and-2-5-billion-funding-raise/?utm_source=rss&utm_medium=rss&utm_campaign=shield-announces-5-3-billion-echodyne-acquisition-and-2-5-billion-funding-raise",
+      "text": " UASweekly.com\nMenu\nHome\nAbout Us\nAdvertise With Us\nForums\nSubmit News\nNewsletter Sign Up\nContact Us\nCategories\nNews\nMapping and Surveying\nMilitary\nCounter UAS\nDrone Racing\nDrones At Work\nFAA & Drone Laws\nPhotography & Videography\nEvents\nFeatured Articles\nInterviews\nProduct Reviews\nKnowledge Base\nNewsHub\nNovember 9, 2026\nNews\nShield Announces $5.3 Billion Echodyne Acquisition and $2.5 Billion Funding Raise\nShield AI has announced a definitive agreement to acquire radar technology manufacturer Echodyne Corporation in a transaction valued at up to $5.3 billion, alongside a $2.5 billion financing package intended to support the acquisition and expand the company’s autonomous defense and counter-unmanned aircraft systems capabilities.\nThe Shield Echodyne acquisition will bring Echodyne’s compact, software-defined radar technology into Shield AI’s Mission Systems business, strengthening its portfolio of autonomous aircraft, artificial intelligence software and advanced sensing systems.\nThe financing includes $1 billion in Series H funding at a $28.8 billion post-money valuation, a $1 billion structured equity investment from funds managed by Blackstone and $500 million in debt financing led by JPMorgan Chase Bank.\nThe transaction is expected to close in early 2027, subject to regulatory approvals and customary closing conditions.\nShield Echodyne Acquisition Valued at $5.3 Billion\nUnder the definitive agreement, Shield AI will acquire Echodyne in a transaction valued at up to $5.3 billion.\nThe purchase consideration includes $4.8 billion payable or issuable at closing, with an additional $500 million contingent on Echodyne meeting agreed performance targets.\nEchodyne develops compact radar systems used in counter-drone operations, airspace security and defense applications.\nIts products are integrated into hundreds of counter-UAS and security systems serving defense, government and commercial customers in more than 40 countries.\nThe acquisition is intended to expand Shield AI’s capabilities in sensing, threat detection and autonomous defense systems.\nBoth companies expect triple-digit revenue growth during the current fiscal year, according to the announcement.\nShield AI Raises $2.5 Billion to Support Acquisition\nShield AI is assembling a $2.5 billion financing package to support the transaction.\nThe financing consists of three components:\nFinancing Source Amount\nSeries H equity funding $1 billion\nBlackstone-managed structured equity investment $1 billion\nDebt financing led by JPMorgan Chase $500 million\nTotal financing $2.5 billion\nThe Series H round values Shield AI at $28.8 billion on a post-money basis.\nThe round is co-led by Disruptive and Innovation X Capital, with participation from Advent, JPMorganChase’s Strategic Investment Group, Snowpoint Ventures, Apandion, Center15 Capital and other investors.\nShield AI said the Series H proceeds will be used primarily to finance the acquisition.\nEchodyne Radar Technology Expands Counter-UAS Capabilities\nEchodyne designs and manufactures compact, solid-state radar systems using its patented Metamaterials Electronically Scanned Array (MESA) technology.\nThe radar systems are designed to detect and track aerial objects, including small unmanned aircraft that can be difficult to identify using conventional sensing technologies.\nEchodyne’s products support several counter-UAS applications:\nDrone detection and tracking\nMilitary base protection\nBorder security\nCritical infrastructure protection\nAirport and stadium airspace monitoring\nCounter-drone interceptor cueing\nIntegration with remote weapon stations\nHigh-energy laser and microwave defense systems\nThe company’s radars provide sensing information that can be integrated with command-and-control platforms and counter-drone effectors.\nEchodyne Holds $250 Million Counter-UAS Contract Ceiling\nIn September 2026, Echodyne received a contract with a ceiling of $250 million from Joint Interagency Task Force 401 (JIATF-401).\nThe contract supports the supply of counter-drone radar technology to U.S. and allied military forces.\nEchodyne’s radar systems are used to support detection and tracking functions across different counter-UAS architectures.\nThe technology can provide targeting information to defensive systems, including interceptors, remote weapon stations and directed-energy platforms.\nThe $250 million figure represents the contract’s maximum ordering ceiling rather than a confirmed amount of revenue or guaranteed purchases.\nShield AI Expands Mission Systems Business\nThe acquisition supports Shield AI’s strategy of building three complementary defense technology businesses:\nAutonomy Software: Artificial intelligence and autonomous mission technologies.\nAutonomous Systems: Unmanned aircraft and other autonomous platforms.\nMission Systems: Sensors and related technologies supporting defense operations.\nShield AI’s existing portfolio includes Hivemind autonomy software, Aechelon simulation technology and the V-BAT and X-BAT autonomous aircraft systems.\nAdding Echodyne’s radar technology will expand the company’s sensing capabilities and provide access to established counter-UAS customers and integration partners.\n“We are building a new-generation defense technology company consisting of three fast-growing, high-margin, mutually supporting business units: autonomy software, autonomous systems, and mission systems,” said Gary Steele, CEO of Shield AI.\nSteele said the acquisition will accelerate the company’s efforts to meet demand for multi-mission capabilities while expanding its presence in the counter-drone market.\nRadar Integration Supports Autonomous Defense Systems\nAdvanced autonomous systems depend on accurate sensing information to identify objects and understand their operating environment.\nEchodyne’s radar technology is designed to provide detection and tracking information that can support autonomous platforms and integrated defense systems.\nThe acquisition brings together Shield AI’s autonomy so",
+      "text_status": "ok"
+    },
+    {
+      "id": "323f9cbddc61",
+      "title": "Shield AI to Acquire Radar Maker Echodyne for $5.3B, Raising $2.5B at a $28.8B Valuation",
+      "publisher": "Wowtale",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5naGpjY2NXWDNEYzVMZmtvdXVERGZxbl8wMnlUamFqTUlIa3N3ajdBR0dfaDdGVkdsRWJzRmMxaktlQkl6Mk96M21UMm9ZX1FBbFlR?oc=5",
+      "published_at": "2026-11-06T20:47:15.000Z",
+      "publisher_url": "https://en.wowtale.net",
+      "snippet": "Shield AI to Acquire Radar Maker Echodyne for $5.3B, Raising $2.5B at a $28.8B Valuation Wowtale",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 5300000000,
+        "currency": "USD",
+        "raw": "$5.3B"
+      },
+      "company_guess": "Shield AI",
+      "group_key": "shield",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "fc95da91e6db",
+      "title": "Shield AI Funding: $2.5B Raise, $28.8B Valuation and Echodyne Deal",
+      "publisher": "AI Funding Tracker",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80bzhycWQ0YXllV04tQ2lLNENTQjVsQ3dLamRfenVwMUdJaXNZTTV6cFc3bTI4VmI3ODNrUGR1bk9hRU9QbGx6OFRWZU5XTXNlRmdPcFpTcXRqUE0?oc=5",
+      "published_at": "2026-11-07T19:11:49.000Z",
+      "publisher_url": "https://aifundingtracker.com",
+      "snippet": "Shield AI Funding: $2.5B Raise, $28.8B Valuation and Echodyne Deal AI Funding Tracker",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 2500000000,
+        "currency": "USD",
+        "raw": "$2.5B"
+      },
+      "company_guess": "Shield AI",
+      "group_key": "shield",
+      "group_rank": 0,
+      "resolved_url": "https://aifundingtracker.com/shield-ai-funding/",
+      "text": "Shield AI agreed on November 5, 2026, to buy radar maker Echodyne in a deal valued at $5.3 billion. To pay for it, the San Diego defense company is raising $2.5 billion in new capital.\nThe package includes a $1 billion Series H at a $28.8 billion post-money valuation. That is more than double the $12.7 billion valuation Shield AI recorded in March 2026.\nCrunchbase News ranked the $2 billion equity portion as the largest U.S. startup round for the week of October 31 to November 6.\nShield AI funding: how the $2.5 billion package breaks down\nThe financing has three parts, according to Shield AI’s announcement. Two are equity and one is debt.\nComponent Amount Provider Terms disclosed\nSeries H equity $1.0 billion Co-led by Disruptive and Innovation X Capital $28.8 billion post-money valuation\nStructured equity $1.0 billion Funds managed by Blackstone Not disclosed\nDebt financing $0.5 billion JPMorgan Chase Bank, sole arranger Not disclosed\nTotal $2.5 billion Three sources Proceeds go mainly to the Echodyne deal\nShield AI said Series H proceeds will go mainly toward the Echodyne purchase. The $2.5 billion raised equals about 47% of the $5.3 billion deal value.\nBlackstone has backed Shield AI before. In March 2026, its funds provided $500 million in fixed-return preferred equity next to the Series G.\nShield AI valuation history from 2022 to 2026\nShield AI’s valuation rose from $2.3 billion in mid-2022 to $28.8 billion in November 2026. Most of that gain came in the past 20 months.\nDate Round Amount raised Post-money valuation\nJune 2022 Series E $165 million $2.3 billion\nOctober 2023 Series F $200 million $2.7 billion\nMarch 2025 Series F-1 $240 million $5.3 billion\nMarch 2026 Series G $1.5 billion plus $500 million preferred $12.7 billion\nNovember 2026 Series H $1.0 billion plus $1.5 billion other capital $28.8 billion\nThe move from $12.7 billion to $28.8 billion is a 127% increase in about eight months. Against the March 2025 mark of $5.3 billion, the valuation has grown about 5.4 times.\nShield AI’s March round placed it among the top-funded AI startups of Q1 2026 . Advent International and the Strategic Investment Group of JPMorganChase’s Security and Resiliency Initiative co-led that round. Part of the money went toward buying flight simulation company Aechelon.\nWhy Shield AI is buying Echodyne\nCEO Gary Steele described the company as three business units: autonomy software, autonomous systems and mission systems. Echodyne joins the mission systems unit.\nShield AI already sells Hivemind autonomy software, the V-BAT and X-BAT aircraft, and Aechelon simulation tools. Echodyne adds radars that detect and track drones, which counter-drone systems need before they can act.\nEchodyne’s radar business and contracts\nEchodyne is based in Kirkland, Washington. It builds solid-state radars with its patented Metamaterials Electronically Scanned Array (MESA) design.\nIts radars sit inside hundreds of counter-drone and security systems. Defense, government and commercial customers in more than 40 countries use them.\nIn September, Echodyne won a contract with a $250 million ceiling from Joint Interagency Task Force 401. The contract covers counter-drone radar for U.S. and allied forces.\nThe same radars have civilian uses. Stadiums and airports use them to spot unauthorized drones, and police and fire departments use them to fly their own drones in shared airspace.\nEchodyne recently opened an 86,350-square-foot factory, a $40 million investment. The plant can produce about 30,000 radars per year. Shield AI named Washington in September as the production home for its X-BAT aircraft.\nShield AI said both companies expect triple-digit revenue growth this fiscal year. It did not disclose Echodyne’s revenue.\nDeal terms and closing timeline\nOf the $5.3 billion deal value, $4.8 billion will be paid and issued at closing. Up to $500 million more depends on Echodyne meeting agreed performance targets.\nShield AI did not say how the closing payment splits between cash and stock. The company expects the deal to close in early 2027, pending regulatory approvals.\nEchodyne’s team will stay in place, and its MESA radars will remain on sale as standalone products. Echodyne CEO Eben Frankenberg will report to Steele.\nJ.P. Morgan Securities was Shield AI’s exclusive financial advisor, with Wachtell, Lipton, Rosen & Katz as legal counsel. Morgan Stanley and Baird advised Echodyne, and Fenwick & West served as its legal counsel.\nWho invested in the Shield AI Series H\nDisruptive and Innovation X Capital co-led the Series H. Advent, Snowpoint Ventures, Apandion and Center15 Capital also joined.\nThe Strategic Investment Group of JPMorganChase’s Security and Resiliency Initiative took part as well. JPMorganChase now appears in three places in this deal: as an equity investor, as debt arranger and, through J.P. Morgan Securities, as financial advisor.\nAdvent and JPMorganChase both co-led the March Series G. Earlier backers include Andreessen Horowitz, while Hanwha Aerospace and L3Harris Technologies led the March 2025 Series F-1.\nHow the Shield AI funding round compares with other defense tech deals\nDefense and space companies took four of the five largest U.S. rounds in the week ending November 6, according to Crunchbase News.\nDrone delivery company Zipline raised $1.5 billion at a $21.5 billion valuation. CesiumAstro, which builds satellites and defense communications systems, closed $730 million at more than $4.5 billion.\nAnduril is the closest comparison to Shield AI. It raised $5 billion at a $61 billion valuation in May 2026, and Reuters reported in July that it was in talks at about $100 billion.\nShield AI’s new valuation is less than half of Anduril’s May figure. Both companies remain private, and Anduril sits in the 2026 AI IPO pipeline with no confirmed filing.\nFAQ\nHow much did Shield AI raise in November 2026?\nShield AI is raising $2.5 billion. The total includes a $1 billion Series H, $1 billion in structured equity from Bla",
+      "text_status": "ok"
+    },
+    {
+      "id": "864a9d07d972",
+      "title": "Brahma AI raises $150 Mn at $2 Bn valuation; PFL retains 66% stake",
+      "publisher": "scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNEl4ekUzejRaOXRFUFBFaHpVcWNLUFdCdjVqcTlDSFlvOEVuUmJLZHpFRTNSc0E4QWp2WUo4X3FOWkJLaE1Nd3owb3M2S3Nub1p0aF9QR0hrNUdUMEg4LUVjVl85TTI1Y1M5dzhKcnNsSU1WUThFUEt3WXlXc3pNcEQ5anNBb0l5eE00SUJPNVgyUUdKQ0Z2R3lhbGFYRFB0YjhHY0RVVmlOS0hTdDJubEREb2d6X3JRNTVhajJpV0lWdw?oc=5",
+      "published_at": "2026-11-08T02:33:34.000Z",
+      "publisher_url": "https://scanx.trade",
+      "snippet": "Brahma AI raises $150 Mn at $2 Bn valuation; PFL retains 66% stake scanx.trade",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 2000000000,
+        "currency": "USD",
+        "raw": "$2 Bn"
+      },
+      "company_guess": "Brahma AI",
+      "group_key": "brahma",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "f78e15662ba6",
+      "title": "The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds",
+      "publisher": "Joanna Glasner",
+      "link": "https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/",
+      "published_at": "2026-11-06T19:29:06.000Z",
+      "publisher_url": null,
+      "snippet": "This week brought another plethora of large funding rounds for startups and growth-stage companies. Shield AI, a defense tech player focused on autonomy and virtual simulations, secured the largest financing, bringing in $2 billion. Next on the list was drone delivery provider Zipline International, which pulled in a fresh $1.5 billion.",
+      "source_feed": "crunchbase-news",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 2000000000,
+        "currency": "USD",
+        "raw": "$2 billion"
+      },
+      "company_guess": "Week’s 10 Biggest Funding",
+      "group_key": "weeks 10 biggest funding",
+      "group_rank": 0,
+      "resolved_url": "https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/",
+      "text": "Artificial intelligence &bull; Communications tech &bull; Defense tech &bull; E-commerce &bull; Robotics &bull; Startups &bull; Transportation & Logistics &bull; Venture\nThe Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds\nJoanna Glasner\nNovember 6, 2026\nJoanna Glasner\njglasner\n3\nShares\nEmail\nFacebook\nX\nLinkedIn\nWant to keep track of the largest startup funding deals in 2026 with our curated list of $100 million-plus venture deals to U.S.-based companies? Check out The Crunchbase Megadeals Board .\nThis is a weekly feature that runs down the week’s Top 10 announced funding rounds in the U.S. Check out last week’s biggest funding deal roundup here .\nThis week brought another plethora of large funding rounds for startups and growth-stage companies. Shield AI , a defense tech player focused on autonomy and virtual simulations, secured the largest financing, bringing in $2 billion. Next on the list was drone delivery provider Zipline International , which pulled in a fresh $1.5 billion.\nRounding out the ranks were good-sized financings for sectors including agentic AI, space tech and AI infrastructure.\n1. Shield AI , $2B, defense tech: Shield AI, a developer of autonomy software and systems for the defense sector, along with simulation and synthetic reality technologies, secured $2 billion in equity funding and $500 million in debt financing. The equity included a $1 billion Series H led by Disruptive and Innovation X Capital along with a $1 billion structured equity investment from funds managed by Blackstone . The $500 million debt financing was led by JPMorganChase . San Diego-based Shield also said it is acquiring radar company Echodyne in a transaction valued at $5.3 billion.\n2. Zipline International , $1.5B, drones: Drone delivery provider Zipline International raised $1.5 billion in late-stage funding at a $21.5 billion post-money valuation. Paradigm , WCM Investment Management and Layer Global led the financing for the South San Francisco, California-based company, which plans to use the money to expand its U.S. manufacturing facilities and increase hiring as it builds a nationwide drone delivery network.\n3. CesiumAstro , $730M, space tech: Austin-based CesiumAstro, a developer of space and defense communications systems and satellites, closed on $730 million in Series D financing at a valuation of more than $4.5 billion. Janus Henderson led the equity round, and the company also secured $100 million in debt financing through the Export-Import Bank of the United States and JP Morgan .\n4. Northwood Space , $375M, space tech: Torrance, California-based Northwood Space, a developer of ground infrastructure to support satellite systems, picked up $375 million in Series C funding. Andreessen Horowitz and DFJ Growth led the financing for the 3-year-old startup, which raised its Series B about nine months ago.\n5. Applied Compute , $350M, AI models: Applied Compute, provider of a cloud computing platform that enterprises and developers use to train and run large AI models, announced $350 million in new funding at a $3.25 billion valuation. Elad Gil led the financing, joined by a long list of investors including Nvidia . The San Francisco-based company, which launched 18 months ago, said its annual recurring revenue has already topped $100 million.\n6. Harbinger , $240M, electric trucks: Harbinger, a startup known for electric truck technology that has been expanding into battery storage and defense applications, secured $240 million in Series D funding. Tiger Global , Capricorn Investment Group and Ridgeline led the financing for the Garden Grove, California-based company.\n7. Sentra , $150M, AI data security: Sentra, a provider of agentic data security tools, closed on $150 million in a strategic investment led by Capital One Ventures . Founded in 2021, Sentra has headquarters in New York and Tel Aviv.\n8. Traversal , $120M, agentic AI: Traversal, a startup building AI agents for enterprise site reliability engineering, secured $120 million in new funding at a $1 billion valuation. Kleiner Perkins , Redpoint and Khosla Ventures co-led the round for the New York-based startup.\n9. Ocient , $100M, agentic AI: Chicago-based Ocient, a provider of agentic AI for enterprise with a focus on data analytics, picked up $100 million in Series C funding co-led by BOKA Capital and OCA Ventures .\n10. (tied) Tutor Intelligence , $75M, robotics: Watertown, Massachusetts-based Tutor Intelligence, a startup focused on robot foundation model training and building robot workers, raised $75 million in Series B funding led by Andreessen Horowitz .\n10. (tied) Kalepa , $75M, insurtech: Kalepa, a provider of AI tools for the insurance industry, secured $75 million in Series B funding at a $470 million valuation. Updata Partners led the round for the New York-based startup.\nMethodology\nWe tracked the largest announced rounds in the Crunchbase database that were raised by U.S.-based companies for the period of Oct. 31-Nov. 6, 2026. Although most announced rounds are in the database, there may be a small time lag, as some rounds are reported late in the week.\nIllustration: Dom Guzman\nTags unicorn\nStay up to date with recent funding rounds, acquisitions, and more with the\nCrunchbase Daily.\nYou may also like\nSeed funding &bull; Startups &bull; Venture\nSeries A In 2026: Capital Is Flowing Faster, But Fewer Startups Are Making The Cut\nGené Teare\nNovember 9, 2026\nMore money is pouring into Series A rounds, but it isn’t opening the door to more startups. U.S. companies have raised $42 billion at that stage this...",
+      "text_status": "ok"
+    },
+    {
+      "id": "6a7d74eeb817",
+      "title": "Drone Delivery Firm Zipline Raises $1.5B at $21.5B Valuation",
+      "publisher": "Wowtale",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54T01zX0FCeXAtaVN5SGJmeTJoMVJxUTE3c0ZSNzdabmVZVG9BTWp2UkVpM2E0OWtMS2xpY2JDb2V2cTF4aXV3YnRkTGRER3ljdmJR?oc=5",
+      "published_at": "2026-11-06T20:59:35.000Z",
+      "publisher_url": "https://en.wowtale.net",
+      "snippet": "Drone Delivery Firm Zipline Raises $1.5B at $21.5B Valuation Wowtale",
+      "source_feed": "gnews-6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 1500000000,
+        "currency": "USD",
+        "raw": "$1.5B"
+      },
+      "company_guess": "Drone Delivery Firm",
+      "group_key": "drone delivery firm",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "a2e53b53591f",
+      "title": "Shield AI Raises $1 Billion in Series H Funding and Boosts Valuation to $28.8 Billion",
+      "publisher": "entARABI",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTDZCT3RaZW1hcDIwNkV3X3ZuSUNCYmZ5NXJwbWh6a3JxZ1pBbmxvQzBsQ0swYXRVRGJWYWU1bFRrekZzdTlUMmZScjB3MHpxUld0dXN2WUp6cFhBTFhjY01iZ3ozRWc4RWxZLVBLa054UjVlemVTMnZRRGVJUFNmNUE5SE4walZnVG5fRC1wWXVycUJOT3NWeEE5Q1Z0eU9tZEJwSmNUcUdySHN2?oc=5",
+      "published_at": "2026-11-07T12:13:45.000Z",
+      "publisher_url": "https://entarabi.com",
+      "snippet": "Shield AI Raises $1 Billion in Series H Funding and Boosts Valuation to $28.8 Billion entARABI",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 1000000000,
+        "currency": "USD",
+        "raw": "$1 Billion"
+      },
+      "company_guess": "Shield AI",
+      "group_key": "shield",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "fcd54bce5e8c",
+      "title": "French Ardian raises over $1 billion to invest in semiconductor makers",
+      "publisher": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONms3LUpQbVF4NkpWdElZUHM5SlpDTTlhX1RPYWJXbzFLWVJ1d1dyOE9CaC1pWGZxMEx4VWt6aWJZbzFXa2dWUGxVZEtyQmVIS1NyNjNZSnFFNTY1NzRhcmRSZ2syQUJmb0FacmRyY0lJaWFhOWV4S2pDdW5tOWhlSDlmYTF0NjEtcGJwZGNfa0hXVE93OXNtTlR5NGEyRHZtSWV2MmZXT0FxV1plby1DX3FPaG94bzBFcEtmUjJ4Z3hLNXVWNTZDMUV4cGRCNmloTG9rTWlabmp5X2JBUVBnZXlTRS13VDDSAewBQVVfeXFMTWhndkZUQmJ4N1FPLUFybjZiOE54YVJjMUNNV1N3ek82UXBuTEE4a05lUC1VeEI0Q1AtQjdnR2RHTUJfRndhMDc1VGNkVE5DYTU4SmswU1lveEpjZmlpSHhRNjhmVXlYRWdHOXphOHZTbVZFbTZsVHFzbExDV0p6T2NzOFBzbjJHLVdPaEl2bXN5Ym9sT08tQnhrT0tHNzlHNWlpSWdsZWZCS1dTLVg2Qmg2Y2gtM19XQ3BBc0hPdG9OSUVFR2ZrbXJZQl9SejBoNWgzc05EVjNzdENNeDlfRHhFTTRiXzYtZlR2Qkk?oc=5",
+      "published_at": "2026-11-09T14:15:03.000Z",
+      "publisher_url": "https://m.economictimes.com",
+      "snippet": "French Ardian raises over $1 billion to invest in semiconductor makers The Economic Times",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 1000000000,
+        "currency": "USD",
+        "raw": "$1 billion"
+      },
+      "company_guess": "French Ardian",
+      "group_key": "french ardian",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "a99c9034c68a",
+      "title": "Paper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table",
+      "publisher": "Guest Author",
+      "link": "https://news.crunchbase.com/ai/building-unicorn-multimarket-cap-table-shazhaev-dizzaract/",
+      "published_at": "2026-11-09T12:00:32.000Z",
+      "publisher_url": null,
+      "snippet": "AI startups should be judged by durable revenue, full-price renewals and healthy margins after delivery costs, with embedded customer workflows providing stronger defensibility as model access gets cheaper, rather than their paper valuation, writes guest author Ilman Shazhaev, founder and CEO of Dizzaract, who suggests that founders should build global investor bases that support customer acquisition and market entry while weighing venture growth expectations against sovereign-backed investors’ localization, governance and other obligations.",
+      "source_feed": "crunchbase-news",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 1000000000,
+        "currency": "USD",
+        "raw": "$1B"
+      },
+      "company_guess": "Paper Unicorns Are Cheap.",
+      "group_key": "paper unicorns are cheap",
+      "group_rank": 0,
+      "resolved_url": "https://news.crunchbase.com/ai/building-unicorn-multimarket-cap-table-shazhaev-dizzaract/",
+      "text": "Artificial intelligence &bull; SaaS &bull; Sales & Marketing &bull; Venture\nPaper Unicorns Are Cheap. Building A $1B Revenue AI Company Takes A Multimarket Cap Table\nGuest Author\nNovember 9, 2026\nGuest Author\n0\nShares\nEmail\nFacebook\nX\nLinkedIn\nBy Ilman Shazhaev\nA $1 billion valuation still makes a startup a unicorn on paper. Yet when 250 companies joined The Crunchbase Unicorn Board in the first half of 2026, the speed of wealth creation raised another question : How many of these businesses can keep their customers once the initial excitement fades?\nI would set a higher benchmark for unicorns with $1 billion in revenue sustained by customers who keep paying.\nI spent five years at Harbin Institute of Technology and Shanghai Jiao Tong University , where “fail fast, improve faster” shaped my approach to building technology. Having studied in China before building an AI company in Abu Dhabi, I have also seen how the same growth story can raise different questions among investors, eventually boiling down to: “What will customers keep paying for?”\nThe revenue test investors should demand\nIlman Shazhaev, founder and CEO of Dizzaract.\nFast revenue deserves attention. Founders who turn pilots into paying deployments are solving a real problem, and strong sales can make the next round easier. An annualized run rate built from discounts, experimental budgets or generous compute subsidies, however, offers little assurance that customers will stay.\nSince 2023, the price of hitting a fixed level of AI performance has dropped thirteenfold every year. Startups that just resell model access now face brutal price competition. Look at OpenRouter and its $113 million Series B: developers can already swap between models through one shared interface.\nBusinesses built around proprietary workflows face a different test. Software embedded in a company’s approvals, records and daily decisions can be far harder to replace than the model doing the underlying work. I would check whether customers renew at full price and expand their contracts. Then I would see whether margins stay healthy after inference costs.\nWhy the cap table should cross borders\nOnce founders know who keeps buying, they should raise across regions, because a local backer can double as market entry. Borders barely slow an AI product down. Enterprise sales still depend on local budgets, procurement procedures and relationships. A foreign investor becomes valuable when those connections turn a product demonstration into a paid contract.\nThe $30 million Series A for London- and Gulf-based 1001 AI offers a useful example . U.S. venture firm Lux Capital led the financing, alongside Saudi PIF-backed Sanabil Investments . The deal cannot establish future retention by itself, but it shows how capital, talent and customers can sit on different maps, with engineers in London and customers in the Gulf.\nAsk every investor what they bring besides money. One warm introduction to the right buyer can beat a higher valuation if it turns into a contract you can actually deliver and renew.\nDifferent money, different obligations\nThe choice between traditional venture funding and sovereign-backed money is often framed as a choice between fast and patient capital. I find the more practical distinction lies in the obligations attached to each check.\nIn conversations with U.S. and European venture investors, I have often been asked how quickly we could turn product adoption into repeatable sales before competitors caught up.\nVenture firms need returns within their fund’s life. That puts commercial momentum and a sizable exit at the center of their investment decisions. The pressure can sharpen execution. It can also backfire when founders who chase fast expansion without counting delivery costs may fill their pipeline with discounted experiments instead of enduring enterprise relationships.\nSovereign-backed investors usually ask me a very different set of questions. They want to know where user data gets processed and which technical capabilities stay in the country. Will local customers still be able to rely on the service years from now?\nSome funds carry an explicit domestic development mandate. For them, those concerns can count as investment criteria alongside financial returns. The upside is a partner who cares about local infrastructure and enterprise adoption. The price can be longer diligence and localization spending. Contract terms that make it harder to expand elsewhere can also cause a problem.\nNeither mandate is universal. Many sovereign-backed funds pursue conventional financial returns, while traditional VCs can support long enterprise sales cycles. Government-affiliated capital doesn’t guarantee procurement wins, either.\nFounders should read the fine print: governance rights, exclusivity requests, promised commercial introductions. Then judge whether the investor’s regional reach is worth the constraints.\nFund what customers will keep\nThe best capital strategy follows the customer’s path, from a working product to a renewal. Venture money speeds up development and sales once the business model works. Regional strategic investors earn their place when a new market’s infrastructure and procurement rules call for local expertise.\nI would rather show an investor a small cohort of customers renewing without discounts than a glossy revenue forecast that depends on the next funding round. The numbers to watch are net revenue retention, production deployments and margins after delivery costs.\nMarket sentiment will keep minting and erasing paper unicorns every quarter. The founding teams that build $1 billion in lasting annual revenue will likely balance venture momentum with regional obligations. Their global cap tables will mirror the enterprise markets they serve.\nIlman Shazhaev is the founder and CEO of Dizzaract , an AI and gaming infrastructure company headquartered in Abu Dhabi and the largest game development studio in the Middle East. His work focuses o",
+      "text_status": "ok"
+    },
+    {
+      "id": "3c0bebaf1f57",
+      "title": "Cyera set for $800 million raise at $20 billion valuation, including $300 million from Cyberstarts",
+      "publisher": "CTech",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wWWoxdVBGd0piZ3RpUDBYTHowSVZXRkpTdkNHWllPNGhNVmJiOUY4Y3lFOHNHNWVLc0s4cUpoMXpoRUtjMkY2Q3FCMVFqTEpwVTBsUDZ2ZERKZlVvOEpUV19mOGxJc2M?oc=5",
+      "published_at": "2026-11-09T05:09:00.000Z",
+      "publisher_url": "https://www.calcalistech.com",
+      "snippet": "Cyera set for $800 million raise at $20 billion valuation, including $300 million from Cyberstarts CTech",
+      "source_feed": "gnews-2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 800000000,
+        "currency": "USD",
+        "raw": "$800 million"
+      },
+      "company_guess": "Cyera set for $800",
+      "group_key": "cyera set for 800",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "333bddc9060a",
+      "title": "CesiumAstro Raises $730 Million In Series D Funding At Over $4.5 Billion Valuation To Build 737-Satellite AI Constellation",
+      "publisher": "Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQWItSXY4dHVwdktEMDBxVGYtbnFIaHgyQ1Fpd3NNNnAxN3lRVzgyMmFua0VQcmNxakdXUUp5eTVyZ3hBa3VjbnFhYnVQNVJoenN3a0YwWWFweGkwMmt4c29Cd2hGYjJ2aTdQWFlReFpoeUkwbVNKUFA3RWxKQmpKWVFXTEd4VTQtanR3RG1yRkVVRUVtR2NLNXVXV3ZoUmZkN3FlZk9mWlNRUV80M25qSmlGWERDeXc0dFJTSVo0MDk1QjFtSzhxME1wQkVKNXpzcVBNbFd3SQ?oc=5",
+      "published_at": "2026-11-06T20:16:35.000Z",
+      "publisher_url": "https://pulse2.com",
+      "snippet": "CesiumAstro Raises $730 Million In Series D Funding At Over $4.5 Billion Valuation To Build 737-Satellite AI Constellation Pulse 2.0",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 730000000,
+        "currency": "USD",
+        "raw": "$730 Million"
+      },
+      "company_guess": "CesiumAstro",
+      "group_key": "cesiumastro",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "c575a5badfbc",
+      "title": "Team8 raises $365 million to back the next generation of AI-native enterprise companies",
+      "publisher": "ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZY3hvVkpSdFlpRjJ1M1VBU1luaXJOR0dfTFRXaVNjNmEtczhJMlpCa0tCZ0pwWDlva3BGdGhFNWxqT1RaUjZ2YkNUUm1vQXJSajN2Zy0yQ1JMTFU1WGVhR1Jn?oc=5",
+      "published_at": "2026-11-08T16:12:51.000Z",
+      "publisher_url": "https://www.ynetnews.com",
+      "snippet": "Team8 raises $365 million to back the next generation of AI-native enterprise companies ynetnews",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 365000000,
+        "currency": "USD",
+        "raw": "$365 million"
+      },
+      "company_guess": "Team8",
+      "group_key": "team8",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "1d2676d7bb02",
+      "title": "Applied Compute Raises $350 Million At $3.25 Billion Valuation After Reaching $100 Million Annualized Revenue Run Rate",
+      "publisher": "Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTTMxR1NjbTZyY0Jha0tYbTNNclkxRG9CZXVuc0tsX3VDaHRnX1RwWHl2b3lCNmJiSjRpNjZmYmkycXFGRC1FSEtRTXlGcFFpNFRqN0VEblVNRFo3cjZlRUJ2OWlCdGVCR0ZhOTI4T0Rsa3daak00d3lYWi1seEEyY1RQTWVLMzFwOVowX285dU9Db2Foc2FnMVN4dHJXMmxxNm93XzJGRWp6cTdhWGJPclVuQ0pJNGtXRGFMOUx6RXlmOXhtS21ZeHgwVF9qcUpB?oc=5",
+      "published_at": "2026-11-08T14:27:36.000Z",
+      "publisher_url": "https://pulse2.com",
+      "snippet": "Applied Compute Raises $350 Million At $3.25 Billion Valuation After Reaching $100 Million Annualized Revenue Run Rate Pulse 2.0",
+      "source_feed": "gnews-3",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 350000000,
+        "currency": "USD",
+        "raw": "$350 Million"
+      },
+      "company_guess": "Applied Compute",
+      "group_key": "applied compute",
+      "group_rank": 0,
+      "resolved_url": "https://www.applied.com/store-finder/position?country=US&hideDistances=true",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "b86b52e6942d",
+      "title": "Onodrim Industries raises $300 million Series A at a $1.3 billion valuation to buy European defence suppliers",
+      "publisher": "MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbmgxd3hfcE95ck1QSzFoZi14UTdFcDREcU1UOTZFRDQyejNNYkNzR1Y0Tm5vTnJFTWdDMExicmhYcUZBSU5TRjIwMEZUWkQyd3FqZDJ2WV9aUEI1czItcnFGbnFnRFVudXRfa2VzalMxakFjWEtxVFpZSHo3VGd1MWpFWVBUZjF6RGxybUhneGZkNkIwUGNxTDU0R0dkSHc0d3hyUFYtUVMwSW9EYmN6aTN1VUhXWUotWXdCakl5TVM3cThMZWc?oc=5",
+      "published_at": "2026-11-09T09:56:36.000Z",
+      "publisher_url": "https://mlq.ai",
+      "snippet": "Onodrim Industries raises $300 million Series A at a $1.3 billion valuation to buy European defence suppliers MLQ.ai",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 300000000,
+        "currency": "USD",
+        "raw": "$300 million"
+      },
+      "company_guess": "Onodrim Industries",
+      "group_key": "onodrim industries",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "af7142660f50",
+      "title": "Palantir alumni-founded Dutch DefenceTech scale-up Onodrim hits unicorn status after raising €268.01 million - EU-Startups",
+      "publisher": "EU-Startups",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNLTItNXpQRmwwaHp1VGsxMXFwNUZYR1RTQ0wxR19Va0Q1Qm5NeFV1WTN1ZDN2NFRURGFoUnRadml5R09ZRlRWWnVzUm50dFljZUxNNmlCc2Ewc2RINTFLU255eEFkZXJFQ1RTdDVkYnNaRnBIUGxRQ3kzcHlKMGJQN3RySTNUUnJXejFKVFFrYWtSUG1fZktDQU5qNnZrVzdpNlJMT0s4TF9VZ1d1bVpqX1BiNmFhdGdFNm9IT2lYTlZsY0pBbDVjcndHYTM0eUJiNzEyUVJzcVVNMGtiRFE?oc=5",
+      "published_at": "2026-11-09T10:30:26.000Z",
+      "publisher_url": "https://www.eu-startups.com",
+      "snippet": "Palantir alumni-founded Dutch DefenceTech scale-up Onodrim hits unicorn status after raising €268.01 million EU-Startups",
+      "source_feed": "gnews-2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 268010000,
+        "currency": "EUR",
+        "raw": "€268.01 million"
+      },
+      "company_guess": "Palantir alumni-founded Dutch DefenceTech",
+      "group_key": "palantir alumni founded dutch defencetech",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "7b809e87dac0",
+      "title": "Nominal Secures $240 Million in Lightspeed-Led Financing at $3 Billion Valuation",
+      "publisher": "Securities.io",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQemx1WS15YTFNbjBDanpMS2NrZFJFQTd3MEtud0p1NnVaSzJpdU5LNXVOczdEdDk1emlldGdpREhoSDJKUkwtSkhmY0RpbFhDX3lIOTJ5YnA3T2I2clR4Ulk4YS05SkFjWWJ4NTlHZURHUEFNWG5XUUxmcTZNUy03dHMxa0dTRDFRdFA1WVdVQ3A0V3Fra1g3cnBhb3l1SkhIUHNSXzFzMkw?oc=5",
+      "published_at": "2026-11-09T14:07:01.000Z",
+      "publisher_url": "https://www.securities.io",
+      "snippet": "Nominal Secures $240 Million in Lightspeed-Led Financing at $3 Billion Valuation Securities.io",
+      "source_feed": "gnews-3",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 240000000,
+        "currency": "USD",
+        "raw": "$240 Million"
+      },
+      "company_guess": "Nominal",
+      "group_key": "nominal",
+      "group_rank": 0,
+      "resolved_url": "https://www.securities.io/nominal-secures-240-million-in-lightspeed-led-financing-at-3-billion-valuation/",
+      "text": "Funding\nNominal Secures $240 Million in Lightspeed-Led Financing at $3 Billion Valuation\nPublished\nNovember 9, 2026\nBy\nHana Mori Enterprise Data & AI Platforms, AI Research Agent\nAdd Securities.io to your preferred sources on Google\nTable Of Contents\nNominal announced on November 9, 2026 that it had raised $240 million at a $3 billion valuation, in a financing led by Lightspeed Venture Partners and co-led by Insight Partners. The financing is intended to give hardware engineering teams a platform on which they can build.\nThe valuation is three times the $1 billion valuation Nominal disclosed on March 5, 2026, calculated from the two announced figures. That earlier financing brought an additional $80 million and was led by Founders Fund, with continued support from Sequoia, General Catalyst, Lux Capital, Red Glass and Lightspeed.\nFrom Test Data to Engineering Applications\nNominal describes its platform as a system built around the data produced by physical hardware. It ingests telemetry, video, logs and files from test stands, vehicles and other tools, keeping each run’s channels and metadata together. Data sources can be synchronized on a single timeline, while search, streaming monitors, data-driven procedures, cross-run trending and reports connect day-to-day analysis to the underlying engineering record.\nNominal’s Analyst agent searches engineering data, compares runs and shows the steps behind its answers. APIs, software-development kits and MCP connections let customers build their own applications and agents. The platform can run in Nominal’s cloud, a customer’s virtual private cloud, on premises or fully offline, covering both connected development environments and disconnected field sites.\nIn its March announcement, Nominal reported that more than 60 organizations used its software, revenue had grown sevenfold during the preceding 10 months and its team had more than tripled to 135 people.\nA May 21, 2026 profile by Sequoia Capital subsequently described 75 global customers across aerospace, defense, energy and transportation. That provides a later marker of adoption between the two financings, although the customer figures come from different company and investor disclosures.\nExpansion Through Acquisitions and Government Work\nNominal said in March that its expansion plan included strategic acquisitions in the United States and Europe and a move beyond aerospace and defense into automotive, energy, manufacturing and robotics.\nOn November 6, 2026, Nominal acquired Pull Systems , whose Workbench telemetry platform was developed with Porsche and other Volkswagen Group brands. It serves field-monitoring, quality and service teams investigating new vehicle programs. Nominal said those teams could use Workbench to identify root causes in minutes rather than months. Pull Systems co-founder Henry joined work on Nominal for Developers, while co-founder Manny is helping develop Analyst.\nA separate funding disclosure came on October 26, 2026, when Nominal announced its selection for a $71.2 million Strategic Funding Increase package under the competitive AFWERX program. That package consists of $30 million of private matching and $41.2 million of government funding across Air Force and Navy programs. It supports the capture, organization, analysis and sharing of aircraft test and telemetry data for Collaborative Combat Aircraft development and other work involving AFWERX, the Air Force Test Pilot School and the Navy Program Executive Office for Unmanned Aviation and Strike Weapons.\nTogether, the disclosures show Nominal extending one engineering-data model from test stands to deployed vehicles and military flight programs. The practical task behind the higher valuation is to integrate Pull Systems’ automotive expertise and new agents such as Analyst while preserving the traceability between an answer and its underlying data. That integration is central to making the platform useful across the wider range of hardware industries Nominal has targeted.\nHana Mori, Enterprise Data & AI Platforms, AI Research Agent\nHana Mori is an AI-generated markets research agent at Securities.io , covering Enterprise Data & AI Platforms and the public companies, market infrastructure and investable technologies shaping that field.\nHana Mori monitors data platforms, analytics, databases, observability, MLOps and enterprise AI infrastructure; consumption growth, cloud partnerships, switching costs, margins and large customer deployments. Coverage follows a operational, product-aware, infrastructure-minded perspective, prioritizing first-party announcements, company fundamentals, competitive positioning and developments with material relevance for investors.\nArticles authored by Hana Mori are AI-generated and reviewed by Securities.io's editorial team to ensure factual accuracy, source quality and responsible coverage. Content is provided for educational purposes and does not constitute investment advice.\nYou may like\nSpines Raises $64 Million via $29 Million Series A-1, $35 Million Facility\nCoreWeave Announces Multi-Year AI Training Agreement With Wayve\nADC Therapeutics Q3 Product Revenue Totals $21 Million as Loss Narrows\nCeva Royalties Rise 18% Sequentially as AI Licensing Sets Record\nRebellions, SK Telecom Eye 2028 For R200 Sovereign AI Systems\nGoogle Buys Crusoe’s Southeast Wyoming Data Center Site",
+      "text_status": "ok"
+    },
+    {
+      "id": "4f490e93c242",
+      "title": "Space Startups 2026: 6 Companies That Raised $200M+ Rounds",
+      "publisher": "AI Funding Tracker",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uOUlWdU1rYk9KbVBoRFkwRjRhRDRrN1FUTnRXSTJpTWoyNDA2dHFiTlctU1Z0Zmd5emdrdTgzaUxwV1Q3OWFXNlphM3Y1ZEFZalNzTmdqNA?oc=5",
+      "published_at": "2026-11-06T18:30:09.000Z",
+      "publisher_url": "https://aifundingtracker.com",
+      "snippet": "Space Startups 2026: 6 Companies That Raised $200M+ Rounds AI Funding Tracker",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 200000000,
+        "currency": "USD",
+        "raw": "$200M"
+      },
+      "company_guess": "Space Startups 2026: 6",
+      "group_key": "space startups 2026 6",
+      "group_rank": 0,
+      "resolved_url": "https://aifundingtracker.com/space-startups/",
+      "text": "Space startups raised a record amount of private capital in the third quarter of 2026. Seraphim Space counted $20.8 billion invested in Q3, more than two and a half times the prior quarterly high of $8.0 billion set in Q1.\nThis list covers six companies that closed priced rounds of $200 million or more between June and September 2026. Each round was announced by the company or reported by a named outlet. The companies are grouped by where they sit in the space supply chain.\nStartup Supply-chain layer Latest round Milestone tied to the round\nStoke Space Launch $1B Series E, Sep 2026 First orbital Nova launch targeted for early 2027\nThe Exploration Company Cargo transport and return $450M Series C, Sep 2026 ESA service contract for Nyx, Sep 2026\nK2 Space Satellite manufacturing $500M Series D at $6.8B, Jul 2026 Gravitas spacecraft launched March 2026\nVarda Space Industries In-orbit manufacturing $251M Series D at $1.6B, Sep 2026 Six reentry missions completed\nICEYE Radar imaging €450M primary Series F at over €10B, Jun 2026 Systems supplied to seven European governments\nHubble Network Satellite connectivity $200M Series C at $1.6B, Sep 2026 Network opened to all Bluetooth LE devices\nLaunch capacity set the pace for 2026 space funding\nSpace Capital described Q3 2026 as the quarter the space economy ran out of launch capacity. The firm tracked $22.2 billion invested across 132 companies in the quarter and $92.5 billion through the first nine months of the year.\nThat nine-month total already beat 2025’s full-year record of $55.3 billion. Space Capital counts a wider set of deals than Seraphim, so the two trackers report different totals for the same period.\nCapital is also concentrated. The top 10 rounds took 78% of all money deployed in Q3, up from 57% in Q2, according to Seraphim.\nThe quarter’s largest deals were Blue Origin’s $10 billion late-stage raise, Hadrian’s $1.37 billion Series D, and Stoke Space’s $1 billion Series E. Blue Origin took outside capital for the first time in 26 years.\nSpace sits alongside other frontier sectors, such as autonomous systems and physical AI, that EmergeFolio follows as emerging technology areas.\nSpace startups building transport to orbit and back\nStoke Space\nStoke Space is building Nova, a rocket designed to be fully and rapidly reusable. The Kent, Washington company completed an initial close of a $1 billion Series E on September 8, 2026, co-led by Point72 Ventures and Spark Capital.\nThe round brought total capital raised to $2.3 billion since its 2020 founding. Stoke did not publish a valuation, though a person familiar with the deal put it at roughly $10 billion. Nova has not yet reached orbit, and Stoke is targeting its first orbital launch in early 2027.\nThe Exploration Company\nThe Exploration Company raised $450 million (about €387 million) in a Series C announced on September 8, 2026. Bessemer Venture Partners, Atomico, and the EQT-managed Scaleup Europe Fund co-led the round. The company called it the largest Series C ever raised by a European space company.\nThe money funds Nyx, a reusable capsule for cargo to and from low Earth orbit, and Storm, a reusable rocket engine. Two days later, the European Space Agency signed a service contract for Nyx under its ALADDIN cargo capsule project. Total funding stands at about $680 million.\nSpacecraft makers scaling orbital production\nK2 Space\nK2 Space builds large, high-power satellites. Its Mega Class bus produces 20 kW of power, and its Torrance, California factory is tooled for 100 satellites a year.\nKleiner Perkins and ICONIQ co-led K2’s $500 million Series D on July 30, 2026, at a $6.8 billion valuation. That was more than double the $3 billion valuation from its $250 million Series C in December 2025.\nK2’s first production spacecraft, Gravitas, flew in March 2026 with 12 payloads, backed by a $60 million US Space Force contract. K2 reported $1 billion in signed government and commercial contracts at the time of the Series D. SES plans to build its meoSphere network on an initial 28 K2 platforms.\nRunning a factory built for 100 satellites a year is an operations task as much as an engineering one. Maia Lafortezza is one consultancy that advises growth-stage companies on scaling processes and teams.\nVarda Space Industries\nVarda Space Industries processes drugs in microgravity and returns them to Earth in capsules. The El Segundo company has completed six reentry missions since its first launch in 2023.\nLux Capital and Natural Capital co-led Varda’s $251 million Series D on September 30, 2026. Reuters reported a $1.6 billion valuation, and total funding reached $598 million.\nSelling imagery and connectivity from orbit\nICEYE\nICEYE operates synthetic aperture radar satellites, which capture images of Earth through clouds and at night. The Finnish company has supplied sovereign satellite systems to seven European governments.\nICEYE announced a €450 million primary Series F on June 9, 2026, led by General Atlantic at a valuation above €10 billion. A secondary sale took the full round past €1 billion. The new mark was more than four times the €2.4 billion valuation from its Series E in December 2025.\nThe deal ranked among the biggest AI and AI-adjacent funding rounds of Q2 2026 alongside raises by Anduril and NEURA Robotics.\nHubble Network\nHubble Network lets standard Bluetooth Low Energy chips connect straight to satellites. The Seattle company runs six satellites in low Earth orbit and plans to reach 60 by 2030.\nSmith Point Capital led Hubble’s $200 million Series C on September 23, 2026, at a $1.6 billion valuation. Total funding reached $300 million. Hubble opened its network to any Bluetooth LE device on the same day.\nBecause Hubble uses standard Bluetooth LE chips, existing consumer devices can join without new radios. GadgetStripe covers the phones and gadgets that carry those chips.\nSelection criteria and sources\nEach company had to close a priced equity round of $200 million or more between June 1 ",
+      "text_status": "ok"
+    },
+    {
+      "id": "24ccdeeb2866",
+      "title": "Sentra raises $150 mn in Series C led by Capital One Ventures",
+      "publisher": "Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsTDNrLTk0cVctNEJhUWJNTk5kT0M2Smk5LXhlOFZmRkFfYUtsZFo2cHppYV9zTnMzSm16NTE4UTFrV092YXB1NnViTm1GU0hZWUVpeWJUc1FGaFBCckxVd3JKUjVvNWNYWGc?oc=5",
+      "published_at": "2026-11-06T21:50:43.000Z",
+      "publisher_url": "https://beinsure.com",
+      "snippet": "Sentra raises $150 mn in Series C led by Capital One Ventures Beinsure",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Sentra",
+      "group_key": "sentra",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "b1eeccbd2e83",
+      "title": "Sentra Secures $150M Funding Led by Capital One Ventures",
+      "publisher": "n24.com.tr",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaG1FMWllT0dTM0NiV18tRm1PdWMtQXRDeWZtWVppQ2p1VDZZT00xa3JJcUVER2VPT2o0bVl1RVNjWHJzQ1RUMl9oR3B5V2pvdEdWM3dfcnRPMGpES0RPNlBPN2hJZmdrU3BIcVNLeXREX0pEanFOMjNSd1FBMzFUb3lwUm1BMU5GNjBKdUpoMEJ2MG5scGc?oc=5",
+      "published_at": "2026-11-06T16:53:46.000Z",
+      "publisher_url": "https://n24.com.tr",
+      "snippet": "Sentra Secures $150M Funding Led by Capital One Ventures n24.com.tr",
+      "source_feed": "gnews-3",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 150000000,
+        "currency": "USD",
+        "raw": "$150M"
+      },
+      "company_guess": "Sentra",
+      "group_key": "sentra",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "15d9ec54d052",
+      "title": "Dulo Raises $130M Seed Round to Develop AI Models for Engineering, Hardware Design",
+      "publisher": "citybiz",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOGd4QTZ5NWc2ZU5EUElETTNKOVdFWDA3V3RvcmtpT1MwSmE3QzBiYVFkWVNzdkVMU3Rxc3UxMVdrWmxHUlpUTUYyNmZkWmUzbG93OUJObHZYc0FIY09LRTltcFBoUW41eldRZ3l5R21yT0pQalVTU3FWOXRrWWV4UDEwWkxRRUptbWh0c2VNWmRrV1NNeXlUNE8takxObk1ZdjdUZ0RaZURFajdaU0F0RFdEREUxY3RjOHhZ?oc=5",
+      "published_at": "2026-11-09T11:13:55.000Z",
+      "publisher_url": "https://www.citybiz.co",
+      "snippet": "Dulo Raises $130M Seed Round to Develop AI Models for Engineering, Hardware Design citybiz",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 130000000,
+        "currency": "USD",
+        "raw": "$130M"
+      },
+      "company_guess": "Dulo",
+      "group_key": "dulo",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "30f6b194f6cf",
+      "title": "Former Energy Department officials' startup Mavria raises $130 million to build data centers in a factory",
+      "publisher": "MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQU9BWjJGOFB1LUNlcDJZeDVVUnpwTHFyeWtJYkNWTVRQem5wRUd4Q3pheXlWMjRDZU9pS3JHRUg5YnVqNlNlSGJpT0E5UWEzWWJvelpXYk9zMFhwNzFlTllaQ1BpWHFpdkFwZ2pPSldqNnhweDZpaDVoX290U0NYcGE4dUNqVC1sWXEwdjNHNzZHTV9pRnUtQ1VWUzFvZFRYOHVvb0tybmo2UTRIUTV2VWtidUV1ZllmaHMycmk2TDVWUQ?oc=5",
+      "published_at": "2026-11-09T15:21:42.000Z",
+      "publisher_url": "https://mlq.ai",
+      "snippet": "Former Energy Department officials' startup Mavria raises $130 million to build data centers in a factory MLQ.ai",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 130000000,
+        "currency": "USD",
+        "raw": "$130 million"
+      },
+      "company_guess": "Mavria",
+      "group_key": "mavria",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "2780d80b373e",
+      "title": "Traversal Raises $120 Million In Series B Funding At $1 Billion Valuation To Expand AI-Powered Software Reliability Platform",
+      "publisher": "Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeUk3N3R0d3RGRHhYSGZ3Q0VqUDc4MGYyX0QzbFFrY0lNZW52cXAtc3J0Q1BjeEtnQjVDMUx1eG5DVEw0SjMycDFVQmRMTk1zSFhveko4eEx4YVhnN3ZGNjd4LWJ0TDNOVk5tbmFqQy05TnJzcWl0cnA4ZE91SVlxeFBJSFNoNjBRRU1EMndMaExLMnBBU1NjOS1pQXJwdHpEekItTVVjY0ZnazM3MGFQQ1FNWVlmR0l2RTRJaEZUeTVpdWtMREN2dnFyRXhMckpadEFVQUt5Vk9uQQ?oc=5",
+      "published_at": "2026-11-08T15:06:22.000Z",
+      "publisher_url": "https://pulse2.com",
+      "snippet": "Traversal Raises $120 Million In Series B Funding At $1 Billion Valuation To Expand AI-Powered Software Reliability Platform Pulse 2.0",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 120000000,
+        "currency": "USD",
+        "raw": "$120 Million"
+      },
+      "company_guess": "Traversal",
+      "group_key": "traversal",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "0a22c0cd4e96",
+      "title": "Traversal raises $120 million at $1 billion valuation",
+      "publisher": "The American Bazaar",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOXzRUQUlQREsxdTNUV3BTcHAwcDJDUnBtVGFmbzROM1hiaHBjdkJYcG1VVHhtUURVZTRxYTh6QzlrQmYweFE5dEVySEZrd0N5RS1iQ255bWhYbndyQjJENTJaOHNsaFhOUVg0S0ZxeDViRW1UVWZBRGZKbzVqc2M2LWlkR2JPOE1BcmVKZTFIR2lBTTVrZFB1b0lBNTJ1QWkyOWFiNzBhSEx3QQ?oc=5",
+      "published_at": "2026-11-08T19:04:09.000Z",
+      "publisher_url": "https://americanbazaaronline.com",
+      "snippet": "Traversal raises $120 million at $1 billion valuation The American Bazaar",
+      "source_feed": "gnews-2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 120000000,
+        "currency": "USD",
+        "raw": "$120 million"
+      },
+      "company_guess": "Traversal",
+      "group_key": "traversal",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "967c0279a9d3",
+      "title": "Hypersonica Raises €100M: Europe Startup Funding [2026]",
+      "publisher": "shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0FvU0I0V1Y3V01jN0FTbGlMTGd0SFcwQ1hILUpYeVdadDJiTXNCbDBBZ3lVVVk4MUVyVXNTQ3ZWU1pVZDhqQ0ZOREZvYzhYX2QyeDB2NnhjZ0NaaFB0ZExLbWFPTERvWUhUWS1McGs1RFhHaUpESGctVTROT2c4OGtsOENNVjFv?oc=5",
+      "published_at": "2026-11-06T23:33:33.000Z",
+      "publisher_url": "https://shattered.io",
+      "snippet": "Hypersonica Raises €100M: Europe Startup Funding [2026] shattered.io",
+      "source_feed": "gnews-2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "EUR",
+        "raw": "€100M"
+      },
+      "company_guess": "Hypersonica",
+      "group_key": "hypersonica",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "c4b8d364743a",
+      "title": "AI Accounting Unicorn Rillet Launches in UK Following $100M Series C Raise",
+      "publisher": "FF News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNclIwU1NyaDVHWUhGVlhHNkEzSGtkcW9wekRJVHZRVUtQY01IbXllb0R0d25PRDBSZ3Q0LTVWZXRGLWZ3T1N6c3V4OVpmcG95VVB5N0p2ZXJYMUwyZnJxZWZRMVMzZmV3bmJrRmlhZzlfcjVUTVNtOEVndXFfNzhXOGVENVROdDItNmIyRnlUbFloWndXTmVGUWQxaDU?oc=5",
+      "published_at": "2026-11-09T08:44:33.000Z",
+      "publisher_url": "https://ffnews.com",
+      "snippet": "AI Accounting Unicorn Rillet Launches in UK Following $100M Series C Raise FF News",
+      "source_feed": "gnews-5",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100M"
+      },
+      "company_guess": "AI",
+      "group_key": "c4b8d364743a",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "c8033df7a73c",
+      "title": "Go.AI Raises $85 Million in Series A Funding to Expand Private AI Infrastructure for Regulated Industries",
+      "publisher": "The Kingman Daily Miner",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVVZXQTVJY1hQMWFxY0lPa011TXRzV1NlYVBpSzluNk04U1VWZEx4TU4yUi1CM1NXNG4zSU5wS2wzYXlQdEV3MkxRdjRQLVBENXlfbG1hQTNHTXJHcE9HLWUzZmp4VGw4ZldnRGdYSFBOZXV0bzFuT1d3YnFPSFJqT2lOalRaZ3AxZ01Ncl9POXp1M0l0OG9pazNqTHdIUGJETUxKckJOYXR2VG43THJHcGk5akJmSDNuTjQyRUZ1Y09EbVFyMTJpX19oNVd0eEc1YUNCS0NuTFVuRmRBYnFLQU0waGtSNWpuZW9YaUpVRUlodE5qUXNaUUc2MmRtQmM2dmxDZ3JZc3Y4aDBwaUhrZjdCNXNaYnc?oc=5",
+      "published_at": "2026-11-07T06:00:02.000Z",
+      "publisher_url": "https://www.kdminer.com",
+      "snippet": "Go.AI Raises $85 Million in Series A Funding to Expand Private AI Infrastructure for Regulated Industries The Kingman Daily Miner",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 85000000,
+        "currency": "USD",
+        "raw": "$85 Million"
+      },
+      "company_guess": "Go.AI",
+      "group_key": "go",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "842468320a6d",
+      "title": "Go.AI Raises $85 Million in Series A Funding to Expand Private AI Infrastructure for Regulated Industries",
+      "publisher": "openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeHRJR3BvTlgya0FCRkpQZEctTXprR3h4d05rR2dncGt3T3RrZGt3QjhGclJhMUtDb1M3Z25BR0diMmo3d1U0ZGRNVF9rSXoyWlpXR3Nia3puVENkZnY0UWVhWXpYMHZGb3Y3dXNKRDFiYnpyUTk4aU5KRkplN3AxazRLQmVkWTJmUnlENHRYQzlmSndfbF8wRnNzR21ab0dnQ3c?oc=5",
+      "published_at": "2026-11-07T06:00:03.000Z",
+      "publisher_url": "https://www.openpr.com",
+      "snippet": "Go.AI Raises $85 Million in Series A Funding to Expand Private AI Infrastructure for Regulated Industries openPR.com",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 85000000,
+        "currency": "USD",
+        "raw": "$85 Million"
+      },
+      "company_guess": "Go.AI",
+      "group_key": "go",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "bad804522b7d",
+      "title": "Australian-Founded Future Secure AI Pulls In US$82 Million For Enterprise AI Co-Worker Expansion",
+      "publisher": "SMBtech",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT3NnSEFfRWkwcTNMZlp0QVZ6ZFJzd1l6UUtpNzNMNnRzZmNKb3ZHUmY1bHIxWnRKWHlTNDRLaHpFSjdCd1V3YUh1RVBpMWpJM3lLZ096Z3RUNHhqei1pdXZJNHNLTXZzVkR2RmZsODk5THJmRVVtOHB5VDNlc2V4dlk1eGlfRWI5S3UzQ19KV0xnbEZSdUZoQ3JJYm5XTnI5Um56SVM4ODU4YzNmQzVwOW9DN2VxRDNEVWc1YQ?oc=5",
+      "published_at": "2026-11-08T09:10:22.000Z",
+      "publisher_url": "https://smbtech.au",
+      "snippet": "Australian-Founded Future Secure AI Pulls In US$82 Million For Enterprise AI Co-Worker Expansion SMBtech",
+      "source_feed": "gnews-5",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 82000000,
+        "currency": "USD",
+        "raw": "US$82 Million"
+      },
+      "company_guess": "Australian-Founded Future",
+      "group_key": "australian founded future",
+      "group_rank": 0,
+      "resolved_url": "https://smbtech.au/news/australian-founded-future-secure-ai-pulls-in-us82-million-for-enterprise-ai-co-worker-expansion/",
+      "text": "Home\nNews\nAustralian-Founded Future Secure AI Pulls In US$82 Million For Enterprise AI Co-Worker Expansion\nAustralian-Founded Future Secure AI Pulls In US$82 Million For Enterprise AI Co-Worker Expansion\nStaff Writer November 8, 2026 News\nSurprisingly Useful AI Article Enhancements\nFuture Secure AI, the enterprise AI company founded in Australia and now headquartered in Austin, Texas, has closed a US$82 million funding round to accelerate its international expansion and deploy its AI Co-Worker technology across more large organisations.\nThe round drew new investors including Square Peg, Yarra Capital Management and Firetrail, alongside existing backer Macquarie Asset Management.\nWhat Future Secure AI does\nThe company designs, builds and runs what it calls AI Co-Workers – autonomous AI agents that carry out complex business processes from start to finish. These Co-Workers operate alongside human staff and within customers’ existing systems, handling work that ranges from month-end close and tax calculations to customer service.\nFuture Secure AI focuses on what it terms “Red Zone” AI: complex workflows that cross multiple systems and teams, where accuracy, security and oversight are essential.\nIts approach combines proprietary technology with delivery teams who work closely with customers to understand the business, build the Co-Workers and keep them running at scale.\nGrowth and public market ambitions\nThe company has expanded over the last 24 months and now maintains offices in its key global markets. With the fresh capital and what it describes as a strong balance sheet, the company is targeting profitability during the next quarter.\nIt has also flagged a planned transition to public markets in 2027.\nCo-Founders and Co-CEOs, Mehrdad Baghai and Michael Hunter, explained: “What matters to a customer is whether an AI Co-Worker can do the job reliably and fit into the way their business runs. We have built our approach around that.”\n“We see a future where AI Co-Workers are part of every large organization, giving teams the capacity to achieve much more,” the pair added. “This investment will help us bring that approach to more customers around the world.”\nInvestor backing\nSquare Peg’s, Ed Barker, outlined the firm’s rationale for backing the company.\n“Future Secure AI is tackling one of the biggest opportunities in AI – changing how large enterprises get work done,” Barker commented. “What stands out is Michael and Mehrdad’s understanding of how these organizations operate, and their ability to build tailored AI Co-Workers that take on complex, valuable work.”\n“We see a future where people and AI work side by side in every enterprise, and we’re excited to back Future Secure AI in making that happen,” he added.\nNew board appointments\nThe company has appointed, Alex Harvey, former Chief Financial Officer of Macquarie Group, as Non-Executive Chair.\nHe joins a board that includes Alcoa Chair, Tom Gorman; commercial astronaut and Chair and CEO of Voyager Technologies, Dylan Taylor; and Chair of Patagonia and Founder of CitySearch, Charles Conn.\nSenior advisory board\nFuture Secure AI’s Senior Advisory Board includes former Macquarie Group CEO, Nicholas Moore; former Secretary of Health and Human Services under President Obama, Sylvia Matthews Burwell; Founder and CEO of AirTrunk, Robin Khuda; and former Australian Minister for Health, the Honourable Greg Hunt, along with a number of other global leaders.\nRelated: Best Laptops Group Test\nRelated: Best Business Laptops for work & school\nRelated: Best Gaming Laptops\nRelated: Best Portable Laptop\nCompany background\nFuture Secure AI was founded in Australia in 2023 by Michael Hunter and Mehrdad Baghai. The company is now headquartered in Austin, Texas, with customers and operations across North America, Australia, New Zealand, Asia, the UK and the Nordics.\nLast Updated on November 8, 2026 by Nick Ross\nSurprisingly Useful AI Article Enhancements\nPlease leave this field empty\nSign-up to the SMBtech Daily Newsletter\nWe will not spam you. You can easily unsubscribe any time. Read our privacy policy .\nPlease check your inbox or spam folder to confirm your subscription.\nShare Share Pin it Reddit Tweet WhatsApp\nRelated Posts\nme&u Launches AI-Native Reservations Platform To Challenge Global Hospitality Tech Giants",
+      "text_status": "ok"
+    },
+    {
+      "id": "8dfef91d7ce8",
+      "title": "Loracle Raises Long Exposure to $79.43 Million, Led by Sandisk",
+      "publisher": "TOKENPOST",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RZGJ1Z1hZU01PbkE4UHpoOVd4R2NvVUxxS3JmRGplRTBkalROdEtVV2Zkb3R5cGpxWXV2M2dXNlByV2hnRTNUbDRBMERYOVl1WUk2MnBTQ0pDdw?oc=5",
+      "published_at": "2026-11-08T02:17:00.000Z",
+      "publisher_url": "https://www.tokenpost.com",
+      "snippet": "Loracle Raises Long Exposure to $79.43 Million, Led by Sandisk TOKENPOST",
+      "source_feed": "gnews-3",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 79430000,
+        "currency": "USD",
+        "raw": "$79.43 Million"
+      },
+      "company_guess": "Loracle",
+      "group_key": "loracle",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "fb49bb9b4a84",
+      "title": "&Truth Emerges From Stealth With $70 Million In Seed Funding To Develop Mathematical Software Verification Technology",
+      "publisher": "Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZW1ZeHhkY0VpVHY5dWZXSXduYjVCSEpDMkp5aXhjMmVSMWVRZEs2M2hIMHVsdlBSaFlrcHR2OVFqYXJEUzAyN2g5NDRmbTBlYnIzeGlQbEpDbEZOQTdTUERPQTg2WjAxLXA2Y0dwdUd2emFITzE5UDktRk5YRGF5WkVjV09SR3k4THhGQkxwaEFvYWJZbVRnYXUtRkF6YWlGYzNEbXlxQXZ5UUdMSW10QWNDbjBEWFpuelpJbk5GRV9hdVZqZ2FXUmlISnhjaVln?oc=5",
+      "published_at": "2026-11-08T13:51:53.000Z",
+      "publisher_url": "https://pulse2.com",
+      "snippet": "&Truth Emerges From Stealth With $70 Million In Seed Funding To Develop Mathematical Software Verification Technology Pulse 2.0",
+      "source_feed": "gnews-8",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70 Million"
+      },
+      "company_guess": "&Truth",
+      "group_key": "&truth",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "270dd8733ab1",
+      "title": "Exclusive: Spines, a 'hybrid publisher,' raises $64 million in funding for book publishing platform powered by AI agents",
+      "publisher": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbE02cUFIUEhNcll6NzhqNVN5N29jYzM0NGV2eXBzTTg4SEtqcmdVekdVMkxVbUU4MXVIUHpRMUxBVEhmSUVZNTlHMk1tZU8yOGE5MWw5enZkSG5iQlkwUUI1eXhKSDZOWDFYaTJSakNPaWNCWGJOdXdJaWpxeTI2cXpZZmFodFhOS1lzcUo5WUtscmhCU0RJdzV3LUN6SzJqcFFYRXVYTFdQNkFwSmJzUHhfTnBJZVoyWFBQTkktb1VpdVJJRVY0dmJZZTNhZmZaREJvbThMYzJPZnJ1T2c?oc=5",
+      "published_at": "2026-11-09T16:16:00.000Z",
+      "publisher_url": "https://fortune.com",
+      "snippet": "Exclusive: Spines, a 'hybrid publisher,' raises $64 million in funding for book publishing platform powered by AI agents Fortune",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 64000000,
+        "currency": "USD",
+        "raw": "$64 million"
+      },
+      "company_guess": "Spines",
+      "group_key": "spines",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "0f04181c9513",
+      "title": "Spines Raises $64M Through Series A-1 Equity and Growth Financing",
+      "publisher": "Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRUFVOFZIT0hCT1ZEcTRuVnh5S1BxdDdyc00xUEx2alhibVNmZWRvRUlzc1pUV2F1ODZPQWZXUlpNZTVjaUV5T2QxdUtIUnF6RkgtbXFKTGgwUDhZZkFOVmZGY0VERlpJODFDSG1QOGQzanBHcWZFVEZfWGlTeFFqR3NiRnV3Ni1WQWkwaWFpdw?oc=5",
+      "published_at": "2026-11-09T14:47:25.000Z",
+      "publisher_url": "https://www.unite.ai",
+      "snippet": "Spines Raises $64M Through Series A-1 Equity and Growth Financing Unite.AI",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 64000000,
+        "currency": "USD",
+        "raw": "$64M"
+      },
+      "company_guess": "Spines",
+      "group_key": "spines",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "f85c4619b910",
+      "title": "Spines raises $64 million to automate book publishing with AI",
+      "publisher": "CTech",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iV29ueGJWSlA4VTJ2dUd4MDlvVnZIZkxBOExhc0NoNFIzOHF3SGFkTjVqc3lDckp3Q0Nzc0dQd2xuVm5NbEdWMHhDeUhOazBJUE5aYlcxamxmN1BaTVIyMXNLdWc3allv?oc=5",
+      "published_at": "2026-11-09T14:27:00.000Z",
+      "publisher_url": "https://www.calcalistech.com",
+      "snippet": "Spines raises $64 million to automate book publishing with AI CTech",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 64000000,
+        "currency": "USD",
+        "raw": "$64 million"
+      },
+      "company_guess": "Spines",
+      "group_key": "spines",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "658fabe54fec",
+      "title": "42AI Raises $62.5M Seed for a World Model That Predicts Human Behavior",
+      "publisher": "Wowtale",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pM3ZhYzZfUTc5anR4UGtuLU8tWGR0UjdaZnZ6dVVmTG5uVk9aaWlnSUJuNjBBNGo4TXA3a1J3cVNhX0ZjLW5rSl9RYW5nTWFsQ3FF?oc=5",
+      "published_at": "2026-11-06T22:48:36.000Z",
+      "publisher_url": "https://en.wowtale.net",
+      "snippet": "42AI Raises $62.5M Seed for a World Model That Predicts Human Behavior Wowtale",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 62500000,
+        "currency": "USD",
+        "raw": "$62.5M"
+      },
+      "company_guess": "42AI",
+      "group_key": "42ai",
+      "group_rank": 0,
+      "resolved_url": "https://en.wowtale.net/2026/11/07/235888/?utm_source=rss&utm_medium=rss&utm_campaign=42ai-raises-62-5m-seed-for-a-world-model-that-predicts-human-behavior",
+      "text": "Today’s AI can read, write and generate images, but predicting what a person will do in an unfamiliar situation is a different problem. Human behavior is never fixed. It can only be described in probabilities, and two people react differently to the same news. A startup that wants to predict those reactions has just come out of stealth.\n42AI , an Israeli-American startup, said on Nov. 2 that it has secured $62.5 million in seed funding. It is not a conventional outside round. CEO Amit Gal-Or told TechCrunch the money came from the founders and Infinity Group over three years. Infinity Group is an Israeli investment group founded by Amit’s father, Amir Gal-Or. The company plans to raise outside capital later. Its website describes 42AI as a U.S.-Israeli “frontier AI lab” born from more than a decade of Infinity Group research and cites an initial investment of $15 million, so how that figure relates to $62.5 million is unclear.\n42AI calls its product a “Behavioral World Model.” A world model is an AI system that simulates how the world will change, and it is usually applied to robots and self-driving cars that must anticipate the physical world. 42AI applies the idea to people instead. It estimates what a person would decide in a situation they have never faced, as probabilities across the possible choices. The company says the model simulates and predicts how people and AI agents behave “in volatile, unprecedented environments.”\nIt works in two stages. Behavioral observations are first converted into a mathematical representation of a person’s tendencies. A transformer-based world model then uses that representation to output the probability of each decision in a given situation. A separate language model only explains which traits and context drove the prediction. The company says the world model responds in 1 to 10 milliseconds and its “Large Behavior Model” in 2 to 12 milliseconds. Its site says the technology rests on a “behavioral ontology,” a structured map of concepts and relationships linking individual traits, situations, world events and the model.\nTraining data comes in three tiers. In research it used psychological assessments of thousands of people plus government and biobank datasets covering more than 2 million people, and for customers it uses client data covering about 30 million people. The company says it combined psychology, neuroscience and genetics research over three years. The research is summarized in a February paper on high-precision behavioral prediction for strategic forecasting. The paper fine-tuned Meta’s Llama 3.1 8B on trait profiles from psychological testing to predict individuals’ strategic choices, and reported that predictions improved as more trait dimensions were added. The training data is not public, and there has been no independent validation.\nThe first market is brokerages. The company says its system lets a brokerage forecast each client’s trades up to 24 hours ahead by security, direction and size, so the firm can see its risk exposure before volatility hits, hedge (take offsetting positions to limit losses), and manage liquidity and margin. Gal-Or says 10 large brokerages use it and that revenue is in the seven figures. One brokerage reportedly made about $30 million in gains from dynamic hedging. Pricing is either a flat fee or a share of the value the platform creates. Customer names have not been disclosed.\nThe performance numbers need careful reading. The company advertises 98% accuracy on market trade prediction, but Gal-Or explained that this measures whether trading flows landed within the predicted range, not whether individual trades were called correctly. For each client’s trade direction and size, he put the F1 score, a combined precision-and-recall measure where 1 is perfect, at 0.8 to 0.85. The evaluation method and data are not public. Gal-Or acknowledged a “natural limit,” since the model cannot know everything a person experiences.\nPrivacy concerns remain. Gal-Or said the model does not need personally identifiable information and that “the model doesn’t know who the person is.” TechCrunch noted, however, that the company builds individual behavioral profiles from connected customer activity. CTO Ehud Ezra conceded that the risk of a brokerage using predicted behavior against its own customers is a “valid concern.” The company pointed to regulation, monitoring and an internal ethics committee as safeguards but did not describe specific measures against misuse.\nAfter brokerages, the company plans to expand into gaming, fraud prevention and cybersecurity. Its website lists fraud prevention, “Behavioral Cyber,” alpha strategies and personalized AI as applications. The longer-term idea is to help robots and AI agents understand people. Ezra said each new domain has to be trained separately on that domain’s rules and context.\nThere are three co-founders. Gal-Or is a serial entrepreneur and investor. Ezra has 17 years in AI and has served as CTO at two unicorns. Chairman Amir Gal-Or is a managing partner at Infinity Group and is described as having led more than 75 exits and public listings. The team includes Technion AI associate dean Prof. Roi Reichart on cognitive AI and Prof. Eyal Fruchter, a psychiatrist and former head of mental health for the Israel Defense Forces, on behavioral research. Nobel laureate Prof. Dan Shechtman (chemistry, 2011) is senior advisor and Cambridge’s Prof. Ariel Goldstein advises on neuroscience. Press reports place the company in Tel Aviv.\nCompetitive Landscape\nWorld models drew heavy investment this year, and most target the physical world. Yann LeCun’s AMI Labs raised $1 billion, and Odyssey raised a $310 million Series B to build a general-purpose world model. 42AI differs by modeling people’s decisions rather than the physical world.\nIn finance, it starts from a narrow use case, predicting brokerage customer behavior. The company’s website lists capital markets, payments, cybersecurity, foundati",
+      "text_status": "ok"
+    },
+    {
+      "id": "464a7872f1dc",
+      "title": "Trajectory Raises $45 Million In Series A Funding At $300 Million Valuation To Expand Continual Learning AI Platform",
+      "publisher": "Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2NZMkxrckZadjI1U3V2QWFGZzQ3UWRLd3ZPdUxmSWIybGZyT0JjbVhGX3Y1WEljU05Xb2toenU3STZGTzM1STFYWV96SFhzMmNSR1FXb2dzMHVCN3BCTElXNDBmcnJ1VV8zell6c2hNMndudFBNZW5Kekh4Z3lzWHpjVW92WXBLRXNfNUVTajhwQ0s3WFp6ZnlXLUlTS2NpNzFiSTVVNGFaclF2R01PUGp4MnZzWlJVU09Nb3dXWTJIZjRucVhJc1F1VG5helk?oc=5",
+      "published_at": "2026-11-08T13:34:40.000Z",
+      "publisher_url": "https://pulse2.com",
+      "snippet": "Trajectory Raises $45 Million In Series A Funding At $300 Million Valuation To Expand Continual Learning AI Platform Pulse 2.0",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 45000000,
+        "currency": "USD",
+        "raw": "$45 Million"
+      },
+      "company_guess": "Trajectory",
+      "group_key": "trajectory",
+      "group_rank": 0,
+      "resolved_url": "https://www.trajectory.ai/",
+      "text": "One unified training platform\nTrain, evaluate, and deploy improvements on your own platform, without waiting for a lab or the next big model release.",
+      "text_status": "thin"
+    },
+    {
+      "id": "20361b7ed25f",
+      "title": "Coframe Raises $35 Million to Build the \"Living Internet\"",
+      "publisher": "",
+      "link": "https://www.prnewswire.com/news-releases/coframe-raises-35-million-to-build-the-living-internet-302933460.html",
+      "published_at": "2026-11-09T14:40:00.000Z",
+      "publisher_url": null,
+      "snippet": "Khosla Ventures and Hanabi Capital co-lead funding for autonomous AI platform that continuously builds, tests and improves digital experiences SAN FRANCISCO, Nov. 9, 2026 /PRNewswire/ -- Coframe, the company building websites, landing pages, and ads that continuously generate, test and...",
+      "source_feed": "prnewswire-vc",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 35000000,
+        "currency": "USD",
+        "raw": "$35 Million"
+      },
+      "company_guess": "Coframe",
+      "group_key": "coframe",
+      "group_rank": 0,
+      "resolved_url": "https://www.prnewswire.com/news-releases/coframe-raises-35-million-to-build-the-living-internet-302933460.html",
+      "text": "Coframe Raises $35 Million to Build the \"Living Internet\"\nNews provided by\nCoframe Inc.\nNov 09, 2026, 09:40 ET\nShare this article\nSHARE A PRE-MADE POST\nShare this article\nSHARE A PRE-MADE POST\nKhosla Ventures and Hanabi Capital co-lead funding for autonomous AI platform that continuously builds, tests and improves digital experiences\nSAN FRANCISCO , Nov. 9, 2026 /PRNewswire/ -- Coframe, the company building websites, landing pages, and ads that continuously generate, test and improve themselves, today announced it has raised $35 million in total funding, including a $25 million Series A co-led by Khosla Ventures and Hanabi Capital, with participation from leaders at OpenAI, Anthropic, and Google DeepMind.\nContinue Reading\nCoframe AI Raises $35 Million to Build the \"Living Internet\" led by Khosla Ventures\nPost this\nJosh Payne, CEO & Founder of Coframe, previously co-founded Autograph with Tom Brady that reached $2B+\nFounder and CEO Josh Payne calls the company's vision \"the living internet.\" Instead of every visitor seeing the same static website, Coframe plugs into a company's website or advertising campaigns and continuously generates, tests and deploys new variations, personalizing what each visitor sees and improving performance in real time. Apps, email, and other digital experiences are next on the roadmap.\nBehind it is a specialized transformer model trained on user interactions, and a team of AI agents: a strategist, a designer, a software engineer, a QA specialist, and a data scientist, that can ideate, build, test and optimize hundreds of website and ad variations in minutes.\nCoframe has generated more than $300 million in incremental revenue for its customers, including conversion rate increases of 158% for Dropbox, 410% for Replit, and 60% for Cash App. And the results come fast: for one Fortune 500 customer, Coframe launched dozens of variations and delivered a 70% lift in conversion within 30 days of contract signature. Across its customer base, which includes Dropbox, BCG, Block, Backcountry, Sur La Table, and other leading brands, conversion rates have improved by more than 20% on average.\nAt Dropbox, an experiment that previously required four weeks of engineering, design, and QA work was built and deployed in 30 minutes with Coframe. Across thousands of variants, the platform has achieved a 39% experiment win rate, more than three times the industry average, while increasing customers' testing velocity ten times or more.\n\"We're building an internet that improves itself,\" said Josh Payne, founder and CEO of Coframe. \"A digital experience should understand what it is trying to accomplish, adapt to the person interacting with it and learn from every result. Instead of waiting months for the next redesign, companies should have websites and applications that get better every day.\"\n\"For decades, the web has been frozen in place, showing every visitor essentially the same page,\" said Vinod Khosla, founder of Khosla Ventures. \"Coframe is building the living internet, where two people can visit the same website and have completely different experiences, personalized to who they are and what they need. These interfaces continuously learn and improve themselves. This is a huge leap beyond traditional A/B testing and the next iteration of the internet.\"\n\"The way most companies build and manage their user interfaces today is wrong, and in a year or two it will be obvious why that is,\" said Pavlo Razumovskyi, co-founder and VP of Engineering of Coframe. \"User interfaces should improve themselves, and be personalized to every user.\"\nCoframe is also building for a future where a growing share of web traffic comes from AI agents that research, compare and buy on people's behalf. That work is already underway through a collaboration with OpenAI on its ChatGPT ads offering, enabling customers to optimize the ad and the landing page as one continuously learning experience, building on an earlier partnership between the companies on training a specialized model for generating on-brand code and creative assets. Coframe is also baking agent best practices directly into every website it builds.\nPayne founded Coframe in 2023 after studying Mathematics and Computer Science at Stanford University with a focus in AI, where he completed undergrad and dropped out of the MS and MBA programs. He previously co-founded Autograph with Tom Brady, which reached a valuation of more than $2 billion, and created GPT-Migrate, an early autonomous coding agent that became the top-ranked project on GitHub globally.\nCoframe has acquired companies founded by two early Optimizely executives: Bo Mohazzabi, now VP of Go-to-Market, and Steven Ebin, now General Manager of Revenue Optimization.\nAbout Coframe\nCoframe is building the living internet: digital experiences that continuously generate, test, learn and improve themselves for humans and AI agents. Its autonomous AI agents combine strategy, design, software engineering and data analysis to optimize websites, landing pages and advertising. They are powered by Coframe's proprietary foundation model of user behavior, a custom transformer trained on how people move through digital experiences across hundreds of millions of sessions each month, so every experiment makes the next one smarter. Founded in 2023 by AI researcher and entrepreneur Josh Payne, Coframe has generated more than $300 million in incremental revenue for its customers. The company is backed by Khosla Ventures, Hanabi Capital, Nat Friedman, Antler, and other leading technology investors. Learn more at coframe.com.\nMedia Contact\n[email protected]\nSOURCE Coframe Inc.\n&times;\nModal title",
+      "text_status": "ok"
+    },
+    {
+      "id": "377fa0826ff5",
+      "title": "Coframe Raises $35 Million to Build the \"Living Internet\"",
+      "publisher": "StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPckNSRlVjMWR5d2tkMVRGMlJVX213bFc5THJBR3VuTVBOMTBxUFIxQTFGbnptNWJ0T0RZYXkxdjhyaGxMbVpIVUJDVC0xaENybjF0bFpTWGlzTUx6Nl81TlJiUlJvN3Q5Xy1rZHRPNy1vMVdHTmdnR1VkaTVhTHBwWk1aLWhlQ290R1RTZ1JUQ0NrOHplVE81LUF1VDltSDYxNFBGNDRIa1Y1eVN3UGE2ckFqX2VaSVBLSW1EbDFUbXRTd3dvS3B5cDVjc0w?oc=5",
+      "published_at": "2026-11-09T14:43:11.000Z",
+      "publisher_url": "https://www.streetinsider.com",
+      "snippet": "Coframe Raises $35 Million to Build the \"Living Internet\" StreetInsider",
+      "source_feed": "gnews-3",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 35000000,
+        "currency": "USD",
+        "raw": "$35 Million"
+      },
+      "company_guess": "Coframe",
+      "group_key": "coframe",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "f7b4b6fce358",
+      "title": "Coframe Raises $35 Million to Build AI-Powered Websites That Continuously Optimize Themselves",
+      "publisher": "citybiz",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM1FDZkVwMDBfZTMtbWJzQkF6aEZvVndCelFvRG40NEZubU1aQmtiRVlfbE1PS3ZNRjVaaWxWeGFCTkpONDZxTUphRmJGRUpURWlNaUFBTlF3RDh6VVl1MHF1OEdwWmJZS0VUZ1V4WFE1U21GdmJkSXI2U1JKLUhVZHhQN21BMkRxaTdybmpsOW5VQXRBMzZTTmpmUHBpaHkyLU5vZFZzYnVlbTVMdkhHc3ptdEpQWXRWenljTzdfWnI4RVgzOERQTFpiOA?oc=5",
+      "published_at": "2026-11-09T16:10:02.000Z",
+      "publisher_url": "https://www.citybiz.co",
+      "snippet": "Coframe Raises $35 Million to Build AI-Powered Websites That Continuously Optimize Themselves citybiz",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 35000000,
+        "currency": "USD",
+        "raw": "$35 Million"
+      },
+      "company_guess": "Coframe",
+      "group_key": "coframe",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "eed9cc3b4436",
+      "title": "Jülich-based SRTD Biotech secures €31.5 million to develop precision mRNA therapies targeting diseased cells - EU-Startups",
+      "publisher": "EU-Startups",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWRGMWhTU3VoMlRoWDUyckVjazZ2bElxZEJ3MGVIeEZMV1ZrdmNYOU5zWUxoWWhvQjlXZEZTWEtZWXA5R0thOUNiVWJKVkRSLU1SMWZaSG1ibEJhcFcwWnlTSTJNTldRSUFOWjVEUWZKTlRVa1dXalVudGRfenZYNDVJMHU4MWhhUlZETjNwLTcyUkFRU1Y5M21rRHNyZHNfY2JxNHREUFJsa0NwSlFOVEphSzNtOVdGTGJUTGtkSjhuVkpjQWVDNEl2Sk9TSHVVUW9DSGlSNFZodmxCU3c?oc=5",
+      "published_at": "2026-11-09T12:43:19.000Z",
+      "publisher_url": "https://www.eu-startups.com",
+      "snippet": "Jülich-based SRTD Biotech secures €31.5 million to develop precision mRNA therapies targeting diseased cells EU-Startups",
+      "source_feed": "gnews-6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 31500000,
+        "currency": "EUR",
+        "raw": "€31.5 million"
+      },
+      "company_guess": "Jülich-based SRTD Biotech",
+      "group_key": "j lich based srtd biotech",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "5ae56bc32c4e",
+      "title": "Coframe Raises $25M Series A, Bringing Total Funding to $35M",
+      "publisher": "Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSHBNU09wOHZJeFNTN3NsSGkyM2lKbEZpLXhCSVZmX1ZPQTM4MXJIU0dJd0wxNXM4bVM0N29yMGp3MC1MbkdCMDZWa0VxNWUxeXREVVRYUU1DTzFxQk5JNWJodWRxUG5qcjAwbFhhSzRuX2pKQnRmZ0xuY0NSU0IyaHJJRG1VUQ?oc=5",
+      "published_at": "2026-11-09T15:34:22.000Z",
+      "publisher_url": "https://www.unite.ai",
+      "snippet": "Coframe Raises $25M Series A, Bringing Total Funding to $35M Unite.AI",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 25000000,
+        "currency": "USD",
+        "raw": "$25M"
+      },
+      "company_guess": "Coframe",
+      "group_key": "coframe",
+      "group_rank": 0,
+      "resolved_url": "https://www.unite.ai/coframe-raises-25m-series-a-bringing-total-funding-to-35m/",
+      "text": "Funding\nCoframe Raises $25M Series A, Bringing Total Funding to $35M\nPublished\nNovember 9, 2026\nBy\nEvan Mercer, AI Startups & Venture Capital AI Research Agent\nAdd Unite.AI to your preferred sources on Google\nCoframe announced on November 9, 2026 that it had raised $35 million in total funding, including a $25 million Series A co-led by Khosla Ventures and Hanabi Capital, according to its funding release .\nLeaders at OpenAI, Anthropic and Google DeepMind also participated in the round, while Nat Friedman and Antler are listed among Coframe’s broader backers. Josh Payne founded the company in 2023. Coframe is developing websites, landing pages and advertisements that generate, test and improve variations of themselves rather than remaining static between redesigns.\nPayne calls the underlying vision the living internet. “A digital experience should understand what it is trying to accomplish, adapt to the person interacting with it and learn from every result,” he said. The approach shifts website work from periodic redesigns toward ongoing experiments whose results inform subsequent changes.\nHow Coframe Automates Website Experiments\nThe system assigns AI agents to strategy, design, software engineering, quality assurance and data analysis. Coframe says they can ideate, build, test and optimize hundreds of website and advertising variations in minutes. Its proprietary user-behavior model is trained on interactions across hundreds of millions of sessions each month, allowing results from one experiment to inform later ones.\nCoframe’s product overview describes a workflow that scores and ranks proposed experiments by expected conversion and revenue impact. The system then creates on-brand interfaces, writes code and runs automated quality assurance across devices. Customers approve variations before they go live. Installation uses a JavaScript snippet, and Coframe can operate alongside existing testing tools.\nCompany-Reported Customer Results\nCoframe reports more than $300 million in incremental revenue generated for customers and an average conversion-rate improvement above 20% across a customer base that includes Dropbox , BCG, Block, Backcountry and Sur La Table. The revenue figure measures customer gains, not Coframe’s own sales.\nCoframe reports a 158% conversion lift for Dropbox over six months and a 39% experiment win rate across thousands of variants. At Dropbox, an experiment that previously required four weeks of engineering, design and quality-assurance work was built and deployed in 30 minutes. Together, the figures present the company’s case that automating production and analysis can increase both the pace and the outcome of experimentation.\nOpenAI Work and Agent-Facing Pages\nCoframe says it is also working with OpenAI on the ChatGPT ads offering, aiming to let customers optimize an advertisement and its landing page as one continuously learning experience. The work builds on an earlier collaboration to train a specialized model for generating on-brand code and creative assets.\nOpenAI’s October 1, 2024 vision fine-tuning announcement provides an example of that earlier work. OpenAI reported that Coframe fine-tuned GPT-4o with images and code, producing a 26% improvement in generating websites with consistent visual style and correct layout compared with base GPT-4o. That project focused on generating digital content; Coframe’s newly described user-behavior model instead learns from interactions across digital experiences.\nCoframe is also preparing for AI agents that research, compare and buy on people’s behalf. It says agent best practices are being incorporated into every website it builds, while its product overview describes agent-facing pages designed for AI systems to read, understand and cite. Apps, email and other digital experiences remain roadmap items rather than capabilities announced as generally available.\nThe central challenge is extending the reported speed and conversion gains from website experiments to advertising and agent-readable pages, while preserving the customer approval controls that govern what goes live.\nEvan Mercer · AI Startups & Venture Capital AI Research Agent\nFollow\nEvan Mercer is an AI-generated research agent at Unite.AI , covering AI startups, venture capital, and the funding dynamics shaping the next generation of technology companies. His reporting focuses on early-stage innovation, capital flows, and the strategic decisions founders and investors make as AI companies scale from concept to global impact.\nWith a strategic and analytical lens, Evan examines funding rounds, market positioning, and emerging trends across the AI startup ecosystem. He tracks how venture capital, corporate investment, and public markets intersect with breakthroughs in artificial intelligence, separating durable signals from short-term hype.\nArticles authored by Evan Mercer are AI-generated and reviewed by Unite.AI’s editorial team to ensure accuracy, context, and responsible coverage of the global AI investment landscape\nDiscover More\ngeniosAI Raises $19.1M in Combined Seed and Series A Funding\nSpines Raises $64M Through Series A-1 Equity and Growth Financing\nAstral Raises $5.5M in Total Funding to Expand AI Math Tutoring\nArdian Raises €1B for Semiconductor Platform to Scale Chip Companies\nNVIDIA Backs Point2 and Plans Three More Korean AI Startup Investments\nSolidUltra Secures €3 Million for Modular Power Transformers Built for AI Data Centers",
+      "text_status": "ok"
+    },
+    {
+      "id": "4d9b7d3a7108",
+      "title": "Numica Raises $21 Million From Roosh And Flashpoint Capital To Acquire Accounting Firms And Expand AI-Native Platform",
+      "publisher": "Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMmtxRjR5RzdHVlg5ZkZyS2hTWm5BNjZzZ1hSQ3ZPc0tVaHFtMlM0Yzh6UmZOOF9mMmRGUHEydk1jRWRoeWpreGhTa0FyRml5OFE0eGc0T0tWbnZFcGg1RVVaaVgxcmVqQVNUV0xFUTZOaEhyakdYa2FjQldqbElQcTlQOUFfTl85ZVA2SFJpcEV4a2RuczlvbmtMbjBYT19XR0IzM185VzdTemtPZ0xsOWNvb2dHNlRLb2VMZUI5THBiM1Vla3Q2SE1OSEE2a3dNZ3c?oc=5",
+      "published_at": "2026-11-06T23:00:39.000Z",
+      "publisher_url": "https://pulse2.com",
+      "snippet": "Numica Raises $21 Million From Roosh And Flashpoint Capital To Acquire Accounting Firms And Expand AI-Native Platform Pulse 2.0",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 21000000,
+        "currency": "USD",
+        "raw": "$21 Million"
+      },
+      "company_guess": "Numica",
+      "group_key": "numica",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "3702dda882c7",
+      "title": "Midstream Health Raises $20M Series A | nPhase Secures $30 Million in Series D Funding",
+      "publisher": "Healthcare IT Today",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdFdPTENMdHU4QkVLZDlwRjhiazRHVzR3YUFRc1BLUVB0d29BMUNBUTJjeWFuYU8yQm83SHJwQ2hOTkVxd1lnT3liQ08zdDBsRTJ1eS1GT0dMeWcyZWozQ1lZR3MzV0Q4dW85aTlhM2QwdUIxcFNjVFF3bE9oTkFDeU5ydTZ5NTlMakdSemFPV195OVhrV09QOTJSdUZZOHhoVEhqSEdYZWtJVTk1Z3JKOHpjTGgycHpyS1gzOFMzX0VPQmJiN2lF?oc=5",
+      "published_at": "2026-11-06T16:55:33.000Z",
+      "publisher_url": "https://www.healthcareittoday.com",
+      "snippet": "Midstream Health Raises $20M Series A | nPhase Secures $30 Million in Series D Funding Healthcare IT Today",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20M"
+      },
+      "company_guess": "Midstream Health",
+      "group_key": "midstream health",
+      "group_rank": 0,
+      "resolved_url": "https://www.healthcareittoday.com/2026/11/06/midstream-health-raises-20m-series-a-nphase-secures-30-million-in-series-d-funding/",
+      "text": "Midstream Health Raises $20M Series A | nPhase Secures $30 Million in Series D Funding\nNovember 6, 2026\nHealthcare IT News\n4 Min Read\nHealthcare IT News\nShare This!\nFacebook X Pinterest LinkedIn\nCheck out today’s featured companies who have recently raised a round of funding, and be sure to check out the full list of past healthcare IT fundings .\nMidstream Health Raises $20M Series A to Strengthen the Financial Sustainability of America’s Health Systems\nAI Platform Now Optimizes Financial Decision-Making Across Health Systems Representing More Than $100 Billion in Annual Operating Expenses and 250 Hospitals\nMidstream Health , the autonomous financial operations platform for health systems, today announced a $20 million Series A as it expands across a customer network representing more than $100 billion in annual operating expenses and over 250 hospitals nationwide. Midstream helps these institutions find and recover margin across both revenue and cost, strengthening the financial capacity required to continue investing in care and serving their communities.\nThe financing round was led by Valtruis with continued participation from Andreessen Horowitz (a16z), Foundry, and CommonSpirit Ventures, bringing Midstream’s total funding to $29.2 million. Fairview Health Services and Keck Medicine of USC are among the newest health systems to join the platform, alongside CommonSpirit Health, Mount Sinai Health System and Houston Methodist.\nThis announcement comes as health systems are facing a financial sustainability crisis, fighting to protect razor-thin margins. More than 110 rural hospitals have closed over the past 20 years, and another 720 — representing roughly a third of all rural hospitals — are at risk of closure. Much of what’s slipping away is money health systems have already earned, buried in their own contracts and spend. Recovering that margin is about more than improving the bottom line; it gives health systems greater capacity to invest in care, serve their communities, and deliver on the mission their patients depend on.\n“In this environment, health systems need solutions that can improve their financial position quickly,” said Mike Spadafore, Managing Director of Valtruis…\nFull release here , originally announced October 29th, 2026.\nnPhase Secures $30 Million in Series D Funding to Drive Global Expansion of AI-Native Clinical Data Platform for Life Sciences\nInvestment Will Scale nPhase’s Enterprise Clinical Data Business and Accelerate Expansion of Its Statistical Computing Environment (SCE), Unified Data Management System (UDMS), and Agentic AI Capabilities Across the Clinical Data Lifecycle\nnPhase, Inc. , today announced the closing of a $30 million Series D funding round led by Viking Global Investors to accelerate the company’s AI-native clinical data platform for pharmaceutical sponsors seeking to unlock the full potential of their data and power AI at scale. Viking Global Investors is an investment firm managing more than $54 billion in capital across public and private investments. The financing represents nPhase’s first equity capital raise since 2017, reflecting the company’s disciplined approach to capital management and its ability to build and expand its business without additional equity financing for nearly a decade.\n“We see a significant opportunity to modernize how the life sciences industry manages and uses clinical data,” said Levi Malik, a Principal at Viking Global Investors. “nPhase combines something rare in the AI market: an established foundation in clinical research, deep understanding of regulatory requirements, and a clear vision for enterprise-scale AI. We believe this combination positions the company well for its next stage of growth.”\nThe funding follows the launch of the nPhase.ai clinical data platform, which unifies its Unified Data Management System ( UDMS ) and Statistical Computing Environment ( SCE ) to connect the clinical data lifecycle from study startup through regulatory submission. Today, that journey can take months and require navigating numerous disconnected systems and manual handoffs. nPhase has built a unified platform that connects the clinical data lifecycle end to end, so data becomes…\nFull release here , originally announced November 2nd, 2026.\nGet Fresh Healthcare & IT Stories Delivered Daily\nJoin thousands of your healthcare & HealthIT peers who subscribe to our daily newsletter.\nWe respect your privacy and will never sell or give out your contact information\nYou may also like\nXRHealth Acquires Living Brain | Equiti Acquires Lexi AI",
+      "text_status": "ok"
+    },
+    {
+      "id": "98cf402bc9d0",
+      "title": "This Startup Raised $20 Million to Help Police Sift Through Evidence. Can Its AI Be Trusted?",
+      "publisher": "1 Smart Business Story",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVjF2Nmx6c0EtTWtxNWpqOG9KUEl4bXFZWnJGZm40ZFdMUW5Ma0VLWjBUYXRteVp2RHNETUQwa1g5djhhQ0c0bnh4TS1xQ0NmVnpTWFo0MGsyQWxiRC1qLTdPT24wUS1BaTBTRzdGZFctbXI4bFlaLUZHMmZ1Qm15elB4U3lrblozYkxPdkxxRWJrRkJpZHFCZXVZNlRHWnpLdmQzekEtWHJ4WWhscnJPUmtQQjJLc1ZseDZkOEhPaGNMVzBOYkdxaHp0ckNyWWQxSnJzXw?oc=5",
+      "published_at": "2026-11-07T21:31:46.000Z",
+      "publisher_url": "https://inc-1-smart-business-story.beehiiv.com",
+      "snippet": "This Startup Raised $20 Million to Help Police Sift Through Evidence. Can Its AI Be Trusted? 1 Smart Business Story",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20 Million"
+      },
+      "company_guess": "This Startup",
+      "group_key": "this startup",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "ff018341a510",
+      "title": "geniosAI Raises $19.1M in Combined Seed and Series A Funding",
+      "publisher": "Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnlJUVg4anIzTW9ZemhybG43V201NFd1Zl9NY1BiNEJzS2VHZXM4bi1Fb3dWcmRwVEF5TDlFX0FKazJxWGpxZFVRLUhzVUQxRWNYRXNmUXVNYm1MVXl2S0xtdlhMdWQyaHVhNHRncWdCb2tuTnZiLW9HUHFpa25uZXdITy0xQ1ow?oc=5",
+      "published_at": "2026-11-09T15:24:03.000Z",
+      "publisher_url": "https://www.unite.ai",
+      "snippet": "geniosAI Raises $19.1M in Combined Seed and Series A Funding Unite.AI",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 19100000,
+        "currency": "USD",
+        "raw": "$19.1M"
+      },
+      "company_guess": "geniosAI",
+      "group_key": "geniosai",
+      "group_rank": 0,
+      "resolved_url": "https://www.unite.ai/geniosai-raises-19-1m-in-combined-seed-and-series-a-funding/",
+      "text": "Funding\ngeniosAI Raises $19.1M in Combined Seed and Series A Funding\nPublished\nNovember 9, 2026\nBy\nEvan Mercer, AI Startups & Venture Capital AI Research Agent\nAdd Unite.AI to your preferred sources on Google\nFinancial intelligence startup geniosAI announced on November 9, 2026 that it had raised $19.1 million in combined seed and Series A funding and emerged from stealth. FactSet led the Series A, with Zoom and General Catalyst also investing as geniosAI brings products to market for corporate finance and investment teams.\nThe San Jose, California, company is co-founded and led by chief executive Prabhdeep Singh. Its products are aimed at the office of the CFO and at investment professionals on both the buy side and sell side. geniosAI says finance and investment teams at Fortune 500 global banks and technology companies already use the platform for earnings preparation, including peer and analyst-expectation comparisons, identifying notable items and anticipating questions from analysts.\nA Platform Built for Review\ngeniosAI says its platform is designed to preserve institutional context across investment research and modeling assignments, with reasoning shown and figures linked to their sources. Singh described the mechanism as a persistent record of the work: “geniosAI keeps the sources, calculations, assumptions, and review decisions attached to the work, so the institution can trace every number, challenge it, and build on it the next time.”\nExamples Across Finance Workflows\nOn geniosAI’s website , the company divides its illustrated agent roles into two groups. System 1 is described as quick, certain and narrow, with a Junior Analyst, Controller and Accountant; System 2 is slow, thorough and deep, with a Chief of Staff, Deep Researcher and Senior Reviewer. Both groups answer to the user.\nIn an office-of-the-CFO example, a Controller opens the ledger, an Accountant reconciles 412 lines, the Controller flags two variances and a Chief of Staff drafts a board summary. An investment-banking workflow shows a Deep Researcher reading new guidance, a Junior Analyst changing three drivers and rebuilding the model, and a Senior Reviewer checking it against the previous version. Another example follows a requested figure back to its filing, replays the calculation and identifies who produced it.\nStrategic Backers and Their Roles\nFactSet is also geniosAI’s strategic partner. CEO Sanoke Viswanathan said the partnership combines his company’s data with geniosAI’s traceable analysis to help teams move from insight to decision. Zoom Chief Strategy Officer Abhisht Arora said the investment fits Zoom’s focus on moving work from conversation to completion and builds on its work with finance teams and financial institutions.\nGeneral Catalyst managing director Madhu Namburi said the larger opportunity is a higher, more consistent level of intelligence across an organization, with judgment remaining with the business. That thesis also frames the central question for geniosAI’s market entry: whether source tracing and retained context can become embedded in recurring institutional work, making analysis easier to review and reuse across teams.\nEvan Mercer · AI Startups & Venture Capital AI Research Agent\nFollow\nEvan Mercer is an AI-generated research agent at Unite.AI , covering AI startups, venture capital, and the funding dynamics shaping the next generation of technology companies. His reporting focuses on early-stage innovation, capital flows, and the strategic decisions founders and investors make as AI companies scale from concept to global impact.\nWith a strategic and analytical lens, Evan examines funding rounds, market positioning, and emerging trends across the AI startup ecosystem. He tracks how venture capital, corporate investment, and public markets intersect with breakthroughs in artificial intelligence, separating durable signals from short-term hype.\nArticles authored by Evan Mercer are AI-generated and reviewed by Unite.AI’s editorial team to ensure accuracy, context, and responsible coverage of the global AI investment landscape\nDiscover More\nCoframe Raises $25M Series A, Bringing Total Funding to $35M\nExpedera Demonstrates Edge AI Subsystem Pairing with Cadence\nSpines Raises $64M Through Series A-1 Equity and Growth Financing\nNVIDIA Introduces GR00T 2 for Robots Learning From Human Video\nAstral Raises $5.5M in Total Funding to Expand AI Math Tutoring\nQ.ANT Opens Photonic AI Hardware Pilot on IONOS Bare Metal",
+      "text_status": "ok"
+    },
+    {
+      "id": "8701a85b02e9",
+      "title": "geniosAI Emerges From Stealth With $19.1 Million in Funding Led by FactSet",
+      "publisher": "citybiz",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalVpS3JQdGtFaXJUaXJRNG0yay11TnpsTGxmRkxTcVJ0bnlRVVlUWlhtR2VZQ3lFaTRrOUQ2VTRka01DSUlnMDM2RmI5cEhodnNFXzdfdnVOME1RTWRUY1pTVmpWc2dzN1poY0lUZmRqT0s4WjBDTEJFejE5Q003ZEhxUURNWFhPVVA0Q0xja1lvamR5NldocU01ei1BSl82aXM5X1hNOW4xdG00LXlOYTN3?oc=5",
+      "published_at": "2026-11-09T15:54:06.000Z",
+      "publisher_url": "https://www.citybiz.co",
+      "snippet": "geniosAI Emerges From Stealth With $19.1 Million in Funding Led by FactSet citybiz",
+      "source_feed": "gnews-8",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 19100000,
+        "currency": "USD",
+        "raw": "$19.1 Million"
+      },
+      "company_guess": "geniosAI",
+      "group_key": "geniosai",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "b8aabf1882f9",
+      "title": "geniosAI Emerges From Stealth With $19.1M In Funding To Give Financial Institutions Analysis They Can Trace, Defend, and Build On",
+      "publisher": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORFRfTDJBZWZza3R6YXFYTjl0U0xvay12cFVBYTM4eldYbnloUUoybVBxbmZUZkFFbk5EU3Z6QnI1SjdvaGkzMjdkc1p6WmdqbmxzWEswZ2RDdi1vM0dDcTY2aUU4SEdJa3d2NTBhaUxuS3JMLVFZQmxsMkJsdUJCZUxPNmhVeFBXX1F1WDluWWt6bWViUlpVbTh3?oc=5",
+      "published_at": "2026-11-09T15:00:00.000Z",
+      "publisher_url": "https://finance.yahoo.com",
+      "snippet": "geniosAI Emerges From Stealth With $19.1M In Funding To Give Financial Institutions Analysis They Can Trace, Defend, and Build On Yahoo Finance",
+      "source_feed": "gnews-8",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 19100000,
+        "currency": "USD",
+        "raw": "$19.1M"
+      },
+      "company_guess": "geniosAI",
+      "group_key": "geniosai",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "520cd478c3aa",
+      "title": "geniosAI Emerges from Stealth with $19.1M to Transform Institutional Financial Intelligence",
+      "publisher": "FF News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWVoSWEtMlFNd0FJZG5qcmlSeWFlTUp4X3FESmlTSkQ2UndtZ3FPc2FaQzUyVGJsMnB3MGhPeENpbjE1Zk9iNnktaGhrUVdTSFM2Y0gzMXNhX2NpNWpDeWZGZ2ZJb0Q2OHdJNDl2SGsxUTA1akMwbnk2QjhUZW0xQmlJS3JKWGpKNm5nSHhha1RZdGlkb2pOOHRGZXBEckJPbHlfNGxyVW9rU200R3F4ejU3bw?oc=5",
+      "published_at": "2026-11-09T15:39:48.000Z",
+      "publisher_url": "https://ffnews.com",
+      "snippet": "geniosAI Emerges from Stealth with $19.1M to Transform Institutional Financial Intelligence FF News",
+      "source_feed": "gnews-8",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 19100000,
+        "currency": "USD",
+        "raw": "$19.1M"
+      },
+      "company_guess": "geniosAI",
+      "group_key": "geniosai",
+      "group_rank": 3,
+      "text_status": "skipped"
+    },
+    {
+      "id": "1f07be272fb9",
+      "title": "Financial intelligence platform geniosAI raises $19.1m",
+      "publisher": "Finextra Research",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0RNaXhHWmRtSWpRTERZRkFDc1I1Vm5jMmJhMkVoamp4NFBxNmlobTk3YXdXN3QwTE5aQkZldWhtUzJxV3BUN1NUc1lKNXQwNWZzTGhaYW9fdnJjelpJaFA1RHBheC1mNUhEajhxclZ0ZVdidUdCeG9HZ0ZLaGxldGJ6N01LSGExdUNVU2VUMW4ya3V0VmxuSDZISQ?oc=5",
+      "published_at": "2026-11-09T15:40:00.000Z",
+      "publisher_url": "https://www.finextra.com",
+      "snippet": "Financial intelligence platform geniosAI raises $19.1m Finextra Research",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 19100000,
+        "currency": "USD",
+        "raw": "$19.1m"
+      },
+      "company_guess": "Financial intelligence platform",
+      "group_key": "financial intelligence platform",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "87f45091e3b1",
+      "title": "firmly Raises $15 Million In Series A Funding Led By Squarepoint Capital To Expand Agentic Commerce Infrastructure",
+      "publisher": "Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdVpqUDBqTzFncWVkbF9yTl93bWdqdGNNM3lKZGpYR2N4bTU5YUFvcEdXWkIzM3YxT2RUMHNqZkZtSzB5N0liLTJKcDNoQzA4VWhueWZROG1nemwtVllTOG0wT0NyUTgtMUhNT3A0N3Rqc0NOdFktQ29HM0JSMC1ucmFtTE9FY2djY1dXMks0MjBBWldPTE5xR0cwdDdiVFozVno3cWNvWjQ5XzFwVnlIVDVEbHNMZDh1Y3ZsSWVBWmdVclpqa0tnZTBOVlVvZw?oc=5",
+      "published_at": "2026-11-06T23:07:07.000Z",
+      "publisher_url": "https://pulse2.com",
+      "snippet": "firmly Raises $15 Million In Series A Funding Led By Squarepoint Capital To Expand Agentic Commerce Infrastructure Pulse 2.0",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 15000000,
+        "currency": "USD",
+        "raw": "$15 Million"
+      },
+      "company_guess": "firmly",
+      "group_key": "firmly",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "22fc003a7a1c",
+      "title": "Firmly raises $15 million from Squarepoint, J.P. Morgan Payments and Mastercard to connect merchants to AI shopping agents",
+      "publisher": "MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa2d3Yk1LUksxRDUtc0ktOU5WMGs5bFZ2NUtZcnBQcV83NzFjdXV5WjlkTnlQZS0tekZldzZIU2swTy1hQmQ3R2Y0bzctWTdyNGFTZFN5b1ltdEZvaTF1R1JJb3dOX1JELXpLUzNZSUNFc0JaRXpqZjJjWkRCcTdUb0x6WUc4OWVSd09UNVBoaFpyb3BTeGNlTEM2SnpNNnRHVTZJUUE1Yzd0eF9SS1VQSE9NeUtucDF3VjZ5Yy1kRVRtMHZNVTVPdmtDMXM0V1gzLXo1dS1n?oc=5",
+      "published_at": "2026-11-07T20:05:29.000Z",
+      "publisher_url": "https://mlq.ai",
+      "snippet": "Firmly raises $15 million from Squarepoint, J.P. Morgan Payments and Mastercard to connect merchants to AI shopping agents MLQ.ai",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 15000000,
+        "currency": "USD",
+        "raw": "$15 million"
+      },
+      "company_guess": "Firmly",
+      "group_key": "firmly",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "de3bd429ca2d",
+      "title": "Guava raises $12.5 mn in seed funding to expand enterprise voice AI agents",
+      "publisher": "Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aV2h5SExUVHhiYUh4VXVJVTc4cDh1X1pYWHhucUNSdk4zMUdvQVJ0eHdfdjhRY2V5ekxwemx3WF9JM3JBTzQxOVEwT0xQUUN3bVJ6dlBCaG9mekRRUlFSNzlFOENtcldrNWxxRDZ0eFQ?oc=5",
+      "published_at": "2026-11-09T11:53:41.000Z",
+      "publisher_url": "https://beinsure.com",
+      "snippet": "Guava raises $12.5 mn in seed funding to expand enterprise voice AI agents Beinsure",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Guava",
+      "group_key": "guava",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "fd80ab587739",
+      "title": "NAVER D2SF-backed MOVIN Raises KRW 10 Billion Series A to Expand from Motion Capture to Motion Data Infrastructure",
+      "publisher": "",
+      "link": "https://www.prnewswire.com/news-releases/naver-d2sf-backed-movin-raises-krw-10-billion-series-a-to-expand-from-motion-capture-to-motion-data-infrastructure-302933028.html",
+      "published_at": "2026-11-09T16:00:00.000Z",
+      "publisher_url": null,
+      "snippet": "MOVIN TRACIN reaches KRW 1 billion in global revenue within a year of launch, with expansion into robotics, live entertainment, sports and rehabilitation MOVIN extends its technology from ultra-light devices to large-space, multi-person environments and plans to build a 330㎡ R&D center...",
+      "source_feed": "prnewswire-vc",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "NAVER D2SF-backed MOVIN",
+      "group_key": "naver d2sf backed movin",
+      "group_rank": 0,
+      "resolved_url": "https://www.prnewswire.com/news-releases/naver-d2sf-backed-movin-raises-krw-10-billion-series-a-to-expand-from-motion-capture-to-motion-data-infrastructure-302933028.html",
+      "text": "NAVER D2SF-backed MOVIN Raises KRW 10 Billion Series A to Expand from Motion Capture to Motion Data Infrastructure\nNews provided by\nNAVER D2SF\nNov 09, 2026, 11:00 ET\nShare this article\nShare this article\nMOVIN TRACIN reaches KRW 1 billion in global revenue within a year of launch, with expansion into robotics, live entertainment, sports and rehabilitation\nMOVIN extends its technology from ultra-light devices to large-space, multi-person environments and plans to build a 330㎡ R&D center\nSEOUL, South Korea , Nov. 9, 2026 /PRNewswire/ -- NAVER D2SF-backed MOVIN, a LiDAR-based 3D motion data AI company led by CEO Byeoli Choi, has raised KRW 10 billion in a Series A round. The round was led by IMM Investment, with participation from Industrial Bank of Korea (IBK) and Voyager Ventures. Existing investors Atinum Investment, NAVER D2SF, and Schmidt also made follow-on investments. This marks NAVER D2SF's third consecutive investment in MOVIN, following its seed investment in 2023 and the pre-Series A round in 2025. With the new funding, MOVIN plans to grow its motion capture business and build an R&D center of approximately 330 square meters to strengthen its technology development in physical AI.\nFounded in 2023, MOVIN develops technology that converts human movement into precise 3D data. Its flagship solution, MOVIN TRACIN, combines LiDAR sensors and camera vision with the company's proprietary AI to capture movement in real time without suits or markers, replacing the complex setup and reducing the cost associated with conventional motion capture equipment. Building on this, MOVIN has secured global customers primarily in content production, including games, film, and virtual creators. Within a year of the product's commercial launch, overseas sales accounted for 70% of total revenue, reflecting growing demand in international markets.\nBuilding on its core technology, MOVIN is developing industry-specific solutions to address evolving market needs. Global robotics companies and research institutes such as Boston Dynamics and the RAI Institute have used MOVIN's technology for robot teleoperation and training, and MOVIN TRACIN Lite, is being used by partners to collect human motion data for robot learning. MOVIN was also selected as the only South Korean Launching Adoption Partner for NVIDIA SOMA, integrating its technology to support robot learning with real-world human motion data. In live entertainment, MOVIN unveiled MOVIN TRACIN Stage, which tracks the movements of multiple performers simultaneously, at the 2026 NAB Show in the U.S. this April, where it also demonstrated integrations with Disguise and Notch. Based on these use cases, MOVIN plans to expand into live interactive content and shows, as well as sports, rehabilitation, and other industries that utilize human movement as data.\nMOVIN, which raised a KRW 4 billion pre-Series A round last year, plans to use the new funding to advance its technology and grow its global business. Starting with MOVIN TRACIN, its single-person markerless motion capture solution, the company plans to extend its technology into on-device multimodal AI-based motion data infrastructure that supports everything from ultra-light devices to large-space, multi-person environments.\nMOVIN is also expanding its R&D infrastructure. The planned R&D center will focus on collecting real-world multimodal datasets for world-model development and advancing MOVIN's AI and motion data processing technologies.\n\"AI is moving beyond understanding text and images toward understanding and learning from movement in the real world,\" said Byeoli Choi, CEO of MOVIN. \"Having seen the potential of our accessible motion capture technology in the global market, we will continue growing our content and entertainment business while building the motion data infrastructure the physical AI era needs.\"\nSOURCE NAVER D2SF\n&times;\nModal title",
+      "text_status": "ok"
+    },
+    {
+      "id": "1f791261af62",
+      "title": "NAVER D2SF-backed MOVIN Raises KRW 10 Billion Series A to Expand from Motion Capture to Motion Data Infrastructure",
+      "publisher": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVUsxWGE5YlhxS3JnMDBTc2lMRC1UQVZLYUZYeDdyc1hpTHR0NU9pSDN0NnB2NHVEMXcwMkpiM3haUkVXWHp2UVlwVWZER1RaczhzZW9hc1FmOFZObldvX1BkZjhpa3pBVGtzdVNYSDRaUUVjRFZmSjd1YjBGMnJDNXF4cUJrTDRseVFWcFRreVV4RnlTbjEyQnlB?oc=5",
+      "published_at": "2026-11-09T16:00:00.000Z",
+      "publisher_url": "https://finance.yahoo.com",
+      "snippet": "NAVER D2SF-backed MOVIN Raises KRW 10 Billion Series A to Expand from Motion Capture to Motion Data Infrastructure Yahoo Finance",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "NAVER D2SF-backed MOVIN",
+      "group_key": "naver d2sf backed movin",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "3bbf99e9efc8",
+      "title": "KineDB raises EUR €850K pre-seed to back offline database",
+      "publisher": "IT Brief UK",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS0VJOFFHZS16Wl9pUFNxVWU2TExFMWpsTVpuSjBBYkZ0RVZvcnpUa3RyWGZ5a2ZIdHFtMEdoRDBTLTJmWno4d1B1VW1udS1QR09DcWJyNlA0S2RCRE5GRHNEaHBzd3o1T19MSFZUV3JsckM5ZGJHVmF6UFlTeHJ5T1BQcThuQzloRUpSNQ?oc=5",
+      "published_at": "2026-11-09T09:15:00.000Z",
+      "publisher_url": "https://itbrief.co.uk",
+      "snippet": "KineDB raises EUR €850K pre-seed to back offline database IT Brief UK",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "KineDB",
+      "group_key": "kinedb",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "fe3a946baf4c",
+      "title": "Indian AI Fashion Discovery App Slayd Raises $156,400 in Pre-Seed Funding",
+      "publisher": "Retail News Asia",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdklvbWtnQ2wxTkFfX0EyYlZJQW96dTh0c0p6YUpwOXZKcVBhelN2ZXFDazVxZkZRUHlLbXU0SWtHS044YlRnQmtFOU00VkN4TlNsRHcySjNvQ0xZQ0ZCWF9OYjhaUjY0THRuUmhCcHllRTdVcnpoWV9FVURuM3NsRTB6a2lfLUlzcXRZN3pjZ0VXSlJMZEJhSlQ1WQ?oc=5",
+      "published_at": "2026-11-09T06:18:22.000Z",
+      "publisher_url": "https://retailnews.asia",
+      "snippet": "Indian AI Fashion Discovery App Slayd Raises $156,400 in Pre-Seed Funding Retail News Asia",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Indian AI",
+      "group_key": "indian",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "903461ad58c1",
+      "title": "Korea's Golden Brain Care raises seed round for AI speech therapy",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWmFwaGlaX2dFMHZPcFI0NWdJbHI3NVdWNkE3T1k5SUpGQkx4QTZRQkt5X2lCeGRIOTVLZ1F6WjBmZ21WVmEtSXJldVphMVJVNUg5ZFNlMEJsTWFIRkg3RWNCWnM5RnctQl94N0F6Zk5fUGUwQ0l3SUFURFY3dHJRam5OQ3A5VVdhaF9JNmtXcHRJRGlvQ3FuMmgtZ3BYSlJy?oc=5",
+      "published_at": "2026-11-06T20:09:27.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Korea's Golden Brain Care raises seed round for AI speech therapy Dealroom",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Korea's Golden Brain Care",
+      "group_key": "koreas golden brain care",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "30ebe3698c4d",
+      "title": "Five Australian startups that raised funding last week",
+      "publisher": "Dynamic Business",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmtmMjZfazBkdmc1Y1J6Q2NtUkU2YzZ1Q1BGZmJSbGp4OWZQTHBpTEhxNnl4OE1Wb1dreFI4OUk2TnNYSnBGUjlDVkVhSjBfNW8yeXA1cnFZaXhENEM1cjNtSXpTQnhYS1hSVl9yZVIzVC16RlVETHV2WHRXaEpPTmhMZGFtQVRfNXFZUzVZLTc?oc=5",
+      "published_at": "2026-11-08T23:01:13.000Z",
+      "publisher_url": "https://dynamicbusiness.com",
+      "snippet": "Five Australian startups that raised funding last week Dynamic Business",
+      "source_feed": "gnews-2",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Five Australian startups that",
+      "group_key": "five australian startups that",
+      "group_rank": 0,
+      "resolved_url": "https://dynamicbusiness.com/news/five-australian-startups-that-raised-funding-last-week",
+      "text": "Home\n/ News\nFive Australian startups that raised funding last week\nFrom a $115 million raise for an AI “co-worker” platform to a $750,000 pre-seed for a trucking camera system, here’s who banked funding across the Australian startup scene last week.\nYajush Gupta\nNews · 8 Nov 2026 · 2 min read\n☆ Save\nAbove Five Australian startups that raised funding last week . Dynamic Business\nFive Australian startups closed funding rounds last week, ranging from a nine-figure raise that created the country’s newest tech unicorn down to early pre-seed cheques for logistics and national security tech. Here’s who raised what, who backed them, and what each company actually does.\nFuture Secure AI raised $115.3 million\nSydney-born startup Future Secure AI raised US$80 million (A$115.3 million) via convertible notes, in a round valuing the business at $1.7 billion and making it Australia’s newest tech unicorn, according to the Australian Financial Review. Square Peg, Yarra Capital Management and Firetrail led the round, alongside Macquarie Asset Management. It’s the company’s third funding round since it was founded three years ago, following a previous raise in June 2025.\nFuture Secure AI builds AI “co-workers” for large organisations, assembling teams of AI agents, each given a name and face, to handle complex tasks across investment banking, consulting, healthcare and law, overseen by a human supervisor. The company is reportedly targeting annual recurring revenue approaching $100 million by the end of 2026, and now operates out of Sydney, Melbourne, New York, Chicago, Austin, Toronto and São Paulo.\ni14 raised $9 million\nMelbourne AI infrastructure company i14 raised $9 million in a seed round from Salus Ventures, IP Group, Tin Alley Ventures, Hostplus, Archangel Ventures and Virescent Ventures, according to the Australian Financial Review.\ni14 is developing technology that helps enterprises train large AI models while cutting compute energy use, an efficiency play aimed at reducing the escalating hardware and power costs that come with training frontier-scale models. The round lands amid a global chip and memory shortage, with i14 targeting neoclouds, hyperscalers and other heavy AI users looking to cut their compute bills.\nCopy Geek raised $2 million\nSydney startup Copy Geek raised a $2 million pre-seed round for its non-custodial crypto trading platform, which lets professional traders automatically copy trades across partner exchanges. The round came from a group of angel investors, led by Dr David Issa and Thomas Boga. The funding will go toward product development, engineering, and signing further exchange partnerships.\nForward Deployed raised $1 million\nMelbourne-based Forward Deployed raised $1 million from Innovation Victoria and Swinburne University of Technology to take its portable chemical threat detection platform into production. The company builds field-ready sensors designed to let defence and security teams identify hazards within seconds.\nIndrus raised $750,000\nPerth startup Indrus raised a $750,000 pre-seed round led by Purpose Ventures, with Melt Ventures and Curtin University also participating. Founders Ryan Liebregts and Dre Siwela met in a robotics class while studying mechatronics engineering at Curtin University. Indrus uses a site’s existing security cameras to automate yard and dock orchestration, helping logistics operators track trucks, trailers and equipment and cut truck turnaround times without installing new hardware. The funding will go toward expanding the team and deploying the technology in more logistics yards.\nClutch Industries won $6.77 million\nClutch Industries, a 75-year-old Victorian auto parts maker, won $6.77 million from the Australian Renewable Energy Agency (ARENA) toward a $19.35 million pilot production line for PowerNet, a 20kg, 4kWh solid-state battery pack designed to stack into a home battery system or detach for use while camping. The grant is aimed at helping an established manufacturer pivot into next-generation battery production rather than funding a brand-new startup, a slightly different story than the rest of the roundup (a legacy manufacturer retooling, rather than an early-stage company raising venture capital), but it fits the same week and the same “who got funded” format if you want to swap it in or add it as a sixth.\nTags\n# funding\n✦ Ask DB about this story\n\"What does this mean for my business?\"\nAsk the desk a follow-up and every answer comes grounded in 27 years of Dynamic Business reporting — with citations to the stories that back it up.\nAsk AI\nAsk\nYajush Gupta\nYajush Gupta is the Editorial Lead and a business journalist for Dynamic Business, an Australian media platform focused on small and medium enterprises (SMEs) and startups.\nFrom the floor\nCloser to this story than we are?\nIf you're building in this space — or watching it reshape your market — pitch us. We edit it; you get the byline. Pitch a story →",
+      "text_status": "ok"
+    },
+    {
+      "id": "d557c111a107",
+      "title": "Tallia Raises 4 Million Euros to Automate Tax Research",
+      "publisher": "n24.com.tr",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTFU1bUJROHlBLVpoLVlVdUFEUTNUTGdmVlBVQWJhS0Z1c0VDc1FRTXdDR1BtQlRZS05mbkQwODZGSWRDVlVfMzdNbE1YWE5pcnI2OTZTZ0xEOEZDamxycUdtNE0wS05ONHZEMF9jcGtvWjluUE1VUHQtUWN5dXh1RlRoQUV3b1U5YzBCV2kxb2pPdW9zTndFNmt0OA?oc=5",
+      "published_at": "2026-11-06T16:54:05.000Z",
+      "publisher_url": "https://n24.com.tr",
+      "snippet": "Tallia Raises 4 Million Euros to Automate Tax Research n24.com.tr",
+      "source_feed": "gnews-2",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Tallia",
+      "group_key": "tallia",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "50513abd4c57",
+      "title": "Green Voltis Secures 13.5 Million Euros for AI Energy Trading",
+      "publisher": "n24.com.tr",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2pCeDVKZFBWVUwwQnFIWEFqQkRGOE4wZDFjNFRkT1BIeWhlNzN2UXJNak5JN3lqTTJRVW9ZQU9abFBFMXVTREF1NVlQa2Zab0hxdzhhcmJhcHdhOHI5cVhQMjRUdVc3VnE5YTdpV0ZwZE9INGVaYXNfMUFwU1hnY2RKdkM3Y05fMExJR0k4U3hVcmJLMGJhcmZaYw?oc=5",
+      "published_at": "2026-11-09T07:29:05.000Z",
+      "publisher_url": "https://n24.com.tr",
+      "snippet": "Green Voltis Secures 13.5 Million Euros for AI Energy Trading n24.com.tr",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Green Voltis",
+      "group_key": "green voltis",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "4439f11ea608",
+      "title": "Salesforce And Fal Billion-Dollar Deals Lead Last Week's Fintech Raises And Acquisitions",
+      "publisher": "Crowdfund Insider",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTTF5X3dzOGprbGNPMWx2d0NDTjV5RXRqVUxhQnZ4YnozM3ZQcVdMWmVZdWRFb0RqNm5kbWhWQV8tWUtheTJ6TEtmZF9rX2lvMHBLbngwYy13MjhHMlF6Ykl6eElIbXltLUloZVNrUmlBOHRMX1cxbXRrcG1NMTFmMDZxbnlfOGh5aGhPOTJ4UlRQdHdmZG5NeVJKMnQ4UmIzV2g2WXoyNGVETW1FVjJPZzd6YzljTlNlVVJ2WU1YUi1tRkN5aWdpblB5VlRUd0Fha0E?oc=5",
+      "published_at": "2026-11-09T03:23:42.000Z",
+      "publisher_url": "https://www.crowdfundinsider.com",
+      "snippet": "Salesforce And Fal Billion-Dollar Deals Lead Last Week's Fintech Raises And Acquisitions Crowdfund Insider",
+      "source_feed": "gnews-3",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Salesforce And Fal Billion-Dollar",
+      "group_key": "salesforce and fal billion dollar",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "ace14e4bcda9",
+      "title": "Thomson Reuters Reports 10% Revenue Growth, but AI Investment Raises Questions About Profitability",
+      "publisher": "EU Today",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNE9EYXB3Yi1iaHdFOWFrTEdYUTJ0alVRRS1aTmJFakRhQ0VmVmE1N05ZVDhMcUpwRmY3NzJMRFFYV0NTMXRiMU9qZVF4aTdSTXZLZjJGYy1XSG5vN01ZckxWelFielRqQzl5RVJUQTB2VGdyYnRZOTN4MHE0eUxxNDEtNEF6UHRZUTJCTg?oc=5",
+      "published_at": "2026-11-09T09:00:13.000Z",
+      "publisher_url": "https://eutoday.net",
+      "snippet": "Thomson Reuters Reports 10% Revenue Growth, but AI Investment Raises Questions About Profitability EU Today",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Thomson Reuters Reports 10%",
+      "group_key": "thomson reuters reports 10",
+      "group_rank": 0,
+      "resolved_url": "https://eutoday.net/thomson-reuters-ai-investment-revenue-growth-profitability-2026/",
+      "text": "Thomson Reuters Reports 10% Revenue Growth, but AI Investment Raises Questions About Profitability\nby EUToday Correspondents\nNovember 9, 2026\nwritten by EUToday Correspondents\nNovember 9, 2026\n358\nThomson Reuters has reported a 10 per cent increase in third-quarter revenue, supported by its legal, corporate and accounting businesses, but a decline in its share price has highlighted growing investor concerns over the financial consequences of expanding artificial intelligence investment.\nThe Toronto-based information and technology company announced on Tuesday, 3 November, that quarterly revenue had reached $1.83 billion, compared with $1.66 billion during the corresponding period in 2025.\nThe company also raised its forecast for organic revenue growth in 2026 to between 8.5 and 9 per cent, reflecting stronger performance across its principal business divisions.\nHowever, its shares fell approximately 7 per cent during trading as investors examined the effect of increased technology expenditure on margins and cash generation.\nThe contrasting developments illustrate the changing expectations surrounding AI investment. Revenue growth alone is no longer sufficient to resolve questions about how quickly substantial expenditure on new technology will generate financial returns.\nStrong performance across professional services\nAccording to the company’s official financial results , its three principal business divisions — Legal Professionals, Corporates, and Tax, Audit & Accounting Professionals — recorded combined organic revenue growth of 10 per cent.\nThese operations account for approximately 88 per cent of total company revenue.\nThe results were supported by recurring subscriptions and increased transaction-based sales.\nRecurring revenue is particularly important for professional information businesses because customers depend on continuous access to specialist data, research, software and compliance services.\nThis commercial model provides more predictable income than one-off technology purchases.\nThomson Reuters has also been expanding its AI-enabled professional products, including CoCounsel Legal and CoCounsel Tax, Audit & Accounting.\nChief executive Steve Hasker said customer engagement with the company’s latest AI applications had been encouraging.\nThe company is also exploring commercial opportunities for Thomson LLM, its specialised language-model technology.\nThese developments demonstrate how established information providers are attempting to incorporate generative AI into products already used by professional customers.\nRevenue growth does not guarantee higher profitability\nDespite higher sales, Thomson Reuters reported a 22 per cent decline in operating profit to $402 million.\nThe comparison was affected substantially by a gain recorded in the previous year from the disposal of an investment, rather than solely by deterioration in ongoing operations.\nNevertheless, other financial indicators reveal additional pressure.\nAdjusted earnings before interest, taxation, depreciation and amortisation increased by 10 per cent to $651 million, but the adjusted margin declined slightly from 35.8 to 35.5 per cent.\nFree cash flow fell from $526 million to $408 million.\nThe company’s legal division also experienced margin pressure associated with higher AI investment.\nThese figures require careful interpretation.\nThe decline in reported operating profit cannot be attributed entirely to artificial intelligence expenditure. Changes in investment gains, software amortisation, working capital and taxation also affected the results.\nHowever, the performance indicates that AI development and deployment are becoming important considerations in evaluating the profitability of professional information services.\nWhy enterprise AI is expensive\nThe commercial cost of AI extends beyond purchasing access to a language model.\nBusinesses developing AI products for professional customers must integrate them with existing databases, software environments and workflows.\nLegal and accounting applications require particular attention to accuracy, confidentiality, data security and the traceability of generated information.\nThis creates development and operating costs that may not be immediately recovered through higher subscription fees.\nProfessional customers must also be convinced that AI products offer improvements over established research and workflow systems.\nA technically advanced application has limited commercial value if users do not adopt it or if productivity gains fail to justify its additional cost.\nFor Thomson Reuters, integrating AI into widely used platforms provides an existing customer base and substantial proprietary information resources.\nIt does not eliminate the financial challenges of developing, maintaining and supporting new services.\nAn important change in investor expectations\nThe market reaction reflects a broader shift in how technology companies are being evaluated.\nInvestors initially rewarded businesses that announced ambitious artificial intelligence strategies, often placing considerable emphasis on expected future growth.\nAttention is increasingly turning towards implementation costs, commercial adoption and measurable financial results.\nThe market reaction to Thomson Reuters’ results demonstrates that even companies reporting stronger revenue can face pressure when expenditure raises questions about future returns.\nThe same scrutiny applies to companies outside the technology sector.\nFinancial institutions, professional services firms and corporate communications businesses are investing in AI tools to automate research, document production, customer support and internal processes.\nEach investment creates a requirement to establish whether productivity gains justify licensing, training, integration and oversight costs.\nWhat this means for corporate communications\nThe financial results carry implications for organisations using AI to manage information and communications.\nAI-enabl",
+      "text_status": "ok"
+    },
+    {
+      "id": "8b4f744037d4",
+      "title": "AI investment cycle may have peaked, Jefferies warns; raises India allocation to 14%",
+      "publisher": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOem5JeEoyczVDSWtZbXJacGZwU05ST0hiZGpxeHZtbEI5NHN0YzJlYjdzRWRuRzJvMV9YSVM2dG5nVkdkbUozY1Rkc3RaS1dfYy1ocGRVUlFkUFM0b25rdmFfd185RW80b05rWkViMDJwV2s5b3VqZzhfaHpmRkdrclpydW15RkRjdkZ0VXdoaHdTNHRPYmlhQW1GV3B4WEdnUkxqZTFDTGNEUnhOT1lHSHZTclhwc2RCTEtuZWVzNHJoeENEZENYRnpTVl82ZG1jOGRTbW54UWNYTlZ4MkZvdjc5NFlvNklNSF9nbDFONGRvZE5Ob0hZRTZVOGTSAfwBQVVfeXFMTnpuSXhKMnM1Q0lrWW1yWnBmcFNOUk9IYmRqcXh2bWxCOTRzdGMyZWI3c0VkbkcybzFfWElTNnRuZ1ZHZG1KM2NUZHN0WktXX2MtaHBkVVJRZFBTNG9ua3ZhX3dfOUVvNG9Oa1pFYjAycFdrOW91amc4X2h6ZkZHa3JacnVteUZEY3ZGdFV3aGh3UzR0T2JpYUFtRldweFhHZ1JMamUxQ0xjRFJ4Tk9ZR0h2U3JYcHNkQkxLbmVlczRyaHhDRGRDWEZ6U1ZfNmRtYzhkU21ueFFjWE5WeDJGb3Y3OTRZbzZJTUhfZ2wxTjRkb2ROTm9IWUU2VThk?oc=5",
+      "published_at": "2026-11-07T09:41:00.000Z",
+      "publisher_url": "https://m.economictimes.com",
+      "snippet": "AI investment cycle may have peaked, Jefferies warns; raises India allocation to 14% The Economic Times",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "AI",
+      "group_key": "8b4f744037d4",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "d808f206d5e7",
+      "title": "Durcal raises three million in a round to drive its international leap",
+      "publisher": "Demócrata",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVRSTmNRMmc0ejJaU2FlLXhKUlV0U3pBdVRMbTYwcjd3QktHOVI4Skg3MUd3R1BfZjZ6NVktbXpqNlJrS09kTGE4aDRzVTgta2RlQnBTSnF3UkY5OU5faFVtZnVDUmVSVDBwendzeU0xNnlGSTFyeWI5YkhrQ1ZBOVVpOWpTNWxsdllDcG5ZMGNqSWpQR0IzMmJyOWN3V2d5ZTExYnFYVFVGOVRtdWMzZ9IBsAFBVV95cUxQaVRSTmNRMmc0ejJaU2FlLXhKUlV0U3pBdVRMbTYwcjd3QktHOVI4Skg3MUd3R1BfZjZ6NVktbXpqNlJrS09kTGE4aDRzVTgta2RlQnBTSnF3UkY5OU5faFVtZnVDUmVSVDBwendzeU0xNnlGSTFyeWI5YkhrQ1ZBOVVpOWpTNWxsdllDcG5ZMGNqSWpQR0IzMmJyOWN3V2d5ZTExYnFYVFVGOVRtdWMzZw?oc=5",
+      "published_at": "2026-11-09T13:48:25.000Z",
+      "publisher_url": "https://www.democrata.es",
+      "snippet": "Durcal raises three million in a round to drive its international leap Demócrata",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Durcal",
+      "group_key": "durcal",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "f0363950ab4e",
+      "title": "China's UniX AI raises 500 million yuan in Pre-A round, with client Greenland Group taking a stake",
+      "publisher": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Xdl9RbEFzc040M2pYY2VOSG8tdTBvMGhyckdCQklWdVhER2xzRHpwZlhmT3NiakUtTERhVHNreXJpeFdrX0pldW4tWUtPRmpXMWk3THgwTUk3YjVOelRXUGRfSzRFeHZOYko4Y2Y3UlZQSXI1cHc?oc=5",
+      "published_at": "2026-11-09T12:05:00.000Z",
+      "publisher_url": "https://finance.biggo.com",
+      "snippet": "China's UniX AI raises 500 million yuan in Pre-A round, with client Greenland Group taking a stake BigGo Finance",
+      "source_feed": "gnews-5",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "China's UniX AI",
+      "group_key": "chinas unix",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "71e9bf0bf051",
+      "title": "AIREV Secures Strategic Investment From Singapore’s Terra Invest",
+      "publisher": "CairoScene",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVd6LWRvUDdUVE5NNmkxa01lZkx6VWNla05mSUZmVlJiczN3ZjZTUHVleF8tX2N2Y2c2ZVJGTnVDV25xU1pOWTk4NEdqTEVZQkV0VzdzbUtSX3F3aG1RWm5NNEZVbWo5RmJKN3RpelBuekN1UFhuaTlpU0JkQngwei1odkhydndOOS1saVM3X200aTJUc2tXcXJGSUk?oc=5",
+      "published_at": "2026-11-08T09:36:44.000Z",
+      "publisher_url": "https://cairoscene.com",
+      "snippet": "AIREV Secures Strategic Investment From Singapore’s Terra Invest CairoScene",
+      "source_feed": "gnews-5",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "AIREV",
+      "group_key": "airev",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "477c14c72f6b",
+      "title": "Ex-JD.com exec's stealth robotics startup lands hundreds of millions in Series A",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDZOTG00eS10TzFIWHhTRXFkY1RVRUdoQVdMazgxeEt6ajdvVGJ5RTRBNW9pdHdHOFNhN1Z2Ym9SRVh5XzYwc0pPclYzY0g5aTFuNnFBTVJWdVdzLUVYTE83bzVCN0VoS1psZXkxbk9VTlRIaW1TX21NS3FXQ3Y0ZGxybjNPOGVCcVEwOUZvb0FhNGlVRW5TSGdGeE5lZFhGM29Xblhhc0JDQi1JRmxESFlEd1c?oc=5",
+      "published_at": "2026-11-06T20:21:51.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Ex-JD.com exec's stealth robotics startup lands hundreds of millions in Series A Dealroom",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Ex-JD.com exec's stealth robotics",
+      "group_key": "ex jd com execs stealth robotics",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "50a46229126c",
+      "title": "Sanyou Bio Secures Exclusive Series C Investment from Zero2IPO Industry Investment, Bringing Total Funding to Nearly RMB 300 Million",
+      "publisher": "",
+      "link": "https://www.prnewswire.com/news-releases/sanyou-bio-secures-exclusive-series-c-investment-from-zero2ipo-industry-investment-bringing-total-funding-to-nearly-rmb-300-million-302932833.html",
+      "published_at": "2026-11-09T14:00:00.000Z",
+      "publisher_url": null,
+      "snippet": "Accelerating the Development of an AI-Driven Ecosystem for Innovative Drug R&D and Translation SHANGHAI, Nov. 9, 2026 /PRNewswire/ -- Sanyou Biopharmaceuticals Co., Ltd. (\"Sanyou Bio\") recently announced the completion of a Series C financing round worth nearly RMB 100 million. The round...",
+      "source_feed": "prnewswire-vc",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Sanyou Bio",
+      "group_key": "sanyou bio",
+      "group_rank": 0,
+      "resolved_url": "https://www.prnewswire.com/news-releases/sanyou-bio-secures-exclusive-series-c-investment-from-zero2ipo-industry-investment-bringing-total-funding-to-nearly-rmb-300-million-302932833.html",
+      "text": "Sanyou Bio Secures Exclusive Series C Investment from Zero2IPO Industry Investment, Bringing Total Funding to Nearly RMB 300 Million\nNews provided by\nSanyou Bio\nNov 09, 2026, 09:00 ET\nShare this article\nShare this article\nAccelerating the Development of an AI-Driven Ecosystem for Innovative Drug R&D and Translation\nSHANGHAI , Nov. 9, 2026 /PRNewswire/ -- Sanyou Biopharmaceuticals Co., Ltd. (\"Sanyou Bio\") recently announced the completion of a Series C financing round worth nearly RMB 100 million. The round was exclusively funded by Zero2IPO Industry Investment, a fund managed by Zero2IPO Group.\nThis financing represents strong recognition from the capital markets of Sanyou Bio's technological capabilities, innovative drug R&D system, and future growth potential. It also marks a new stage in the company's development in innovative drug R&D and commercialization.\nWith the vision of becoming a front-runner in global innovative drug R&D, Sanyou Bio has built a world-leading AI-Super-Trillion Antibody Library (AI-STAL), an integrated wet-lab and dry-lab Sanyou AI-Drug Accelerator (SAI-DA), and Clicklinks, a collaborative innovation platform for original drug discovery and development. Driven by three interconnected pillars—innovation at the source, intelligent acceleration, and pipeline-driven development—the company is systematically addressing bottlenecks in early-stage drug discovery, connecting the entire preclinical R&D value chain, and joining forces with partners to build a new ecosystem for innovative drug development.\nFrom technology platform development to innovation ecosystem building, and from enhancing R&D capabilities to advancing drug pipeline translation, Sanyou Bio is exploring new pathways to improve the efficiency of innovative drug R&D and enhance industrial value through a systematic, intelligent, and global development strategy.\nPreviously, Sanyou Bio completed its Series A financing in May 2020, Series B financing in June 2021, and Series B+ financing in August 2022. The completion of this Series C financing marks another significant milestone in the company's development, bringing its total funding raised to nearly RMB 300 million.\nSynergy Across Three Core Platforms: Building an AI-Driven Innovative Drug R&D System\nIn recent years, the deep integration of artificial intelligence and life sciences has been reshaping the technological pathways and industrial landscape of innovative drug development. Advancing innovative drug R&D requires not only continuous breakthroughs in the efficiency of early-stage molecular discovery, but also the integration of critical links spanning drug design, experimental validation, R&D advancement, and commercialization.\nIn response to these industry needs, Sanyou Bio has progressively established a business model driven by AI technology, supported by intelligent R&D platforms, and guided by its innovative drug pipeline. This financing will further accelerate the development and refinement of this integrated system, supporting the company's evolution from providing innovative drug R&D services toward building pipeline-driven, platform-based, and systematic capabilities for drug innovation and translation.\nAI-STAL features a proprietary 11-trillion-scale molecular library, providing a powerful foundation for the discovery of novel molecules at the source of innovative drug development.\nSAI-DA integrates dozens of AI algorithms with wet-lab capabilities covering the entire preclinical R&D process, creating an integrated wet-lab and dry-lab drug development accelerator characterized by automation and intelligence.\nClicklinks serves as an open innovation hub for original drug discovery, bringing together global innovation resources and industry partners to foster a collaborative ecosystem for innovative drug R&D.\nTogether, the three platforms form an integrated, end-to-end system spanning early-stage molecular discovery, R&D acceleration, and the translation of innovative discoveries into tangible outcomes.\nFrom Platform Development to Pipeline-Driven Growth: Turning Innovative Achievements into Industrial Value\nBuilding on its platform capabilities, Sanyou Bio will further focus on pipeline-driven drug development and translation, accelerating the transformation of technological advantages into innovative achievements and industrial value.\nTo date, the company has established partnerships with more than 2,000 pharmaceutical and biotechnology companies worldwide and completed more than 100 collaborative R&D projects, with over 10 innovative drug projects having entered clinical research. In addition, the company has completed 1,000+ drug discovery and stage-specific R&D projects, as well as deliveries of thousands of branded products.\nLooking ahead, Sanyou Bio will leverage its three core platforms, global partnership network, and accumulated R&D expertise to further strengthen its independent innovation capabilities and pipeline portfolio. Through platform synergy, project-driven development, and open collaboration, the company aims to improve overall efficiency throughout the drug development process, from early-stage research to downstream translation, and enable more innovative discoveries to realize their industrial value.\nDr. Guojun Lang, Founder and CEO of Sanyou Bio, commented: \"Innovative drug development is a systematic undertaking that requires long-term investment, technological accumulation, and industrial collaboration. Sanyou Bio has always remained committed to its mission of 'To make it easy to develop new drugs worldwide.' Through technological innovation and the development of systematic capabilities, we aim to help the industry improve the efficiency of innovative drug R&D, lower barriers to innovation, and empower more partners in drug development.\"\n\"This financing represents recognition of our technological achievements and strategic direction to date, while also providing important momentum as we move into our next stage",
+      "text_status": "ok"
+    },
+    {
+      "id": "36a8a788b4ca",
+      "title": "Kos Biotechnology Partners Announces Investment in Fathom Therapeutics to Advance Novel, AI-Driven Drug Discovery Platform",
+      "publisher": "",
+      "link": "https://www.prnewswire.com/news-releases/kos-biotechnology-partners-announces-investment-in-fathom-therapeutics-to-advance-novel-ai-driven-drug-discovery-platform-302931959.html",
+      "published_at": "2026-11-06T11:00:00.000Z",
+      "publisher_url": null,
+      "snippet": "Kos joins Sutter Hill Ventures and other leading investors in backing Fathom Therapeutics's pioneering physics- and AI-powered drug discovery platform NEW YORK and ATHENS, Greece, Nov. 6, 2026 /PRNewswire/ -- Kos Biotechnology Partners (\"Kos\"), a global life sciences investment firm...",
+      "source_feed": "prnewswire-vc",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Kos Biotechnology Partners",
+      "group_key": "kos biotechnology partners",
+      "group_rank": 0,
+      "resolved_url": "https://www.prnewswire.com/news-releases/kos-biotechnology-partners-announces-investment-in-fathom-therapeutics-to-advance-novel-ai-driven-drug-discovery-platform-302931959.html",
+      "text": "Kos Biotechnology Partners Announces Investment in Fathom Therapeutics to Advance Novel, AI-Driven Drug Discovery Platform\nNews provided by\nKos Biotechnology Partners\nNov 06, 2026, 06:00 ET\nShare this article\nShare this article\nKos joins Sutter Hill Ventures and other leading investors in backing Fathom Therapeutics's pioneering physics- and AI-powered drug discovery platform\nNEW YORK and ATHENS, Greece , Nov. 6, 2026 /PRNewswire/ -- Kos Biotechnology Partners (\"Kos\"), a global life sciences investment firm bridging the U.S. and European biopharma ecosystems, today announced its investment in Fathom Therapeutics, a leading drug design company pioneering the application of quantum chemistry, physics-based molecular simulations, and artificial intelligence to discover and develop next-generation small molecule medicines.\nThe investment was made through Kos BioVentures, the firm's inaugural life sciences fund, as part of Fathom Therapeutics's Series A financing. Sutter Hill Ventures led the oversubscribed $55 million financing, along with other leading investors.\nFathom Therapeutics was founded by a team of world-renowned computational scientists, led by Chief Executive Officer Dr. Huafeng Xu, a pioneer in the field of computational drug design. The company is developing a new paradigm for drug discovery through its proprietary Microcosmos platform, which combines advanced physics-based simulations and AI to predict how proteins move and interact with drug molecules at atomic resolution.\n\" Fathom Therapeutics possesses industry-leading expertise in two of the most crucial areas in next-generation drug discovery: quantum chemistry and artificial intelligence ,\" said Dr. Simos Simeonidis, Co-Founder and Managing Partner of Kos Biotechnology Partners. \"The ability to model molecular interactions with unprecedented speed and precision has the potential to fundamentally change how we discover medicines, particularly against biological targets that have historically been considered undruggable. We are very excited to invest in Huafeng and his truly exceptional team, alongside a distinguished group of investors, to help advance this groundbreaking technology and translate its potential into meaningful therapeutic breakthroughs for patients.\"\n\" We welcome Simos, Alex and the deeply experienced Kos team to our syndicate of investors, and we are looking forward to working with them as we push forward with our mission to develop innovative therapeutics ,\" said Dr. Huafeng Xu, co-founder and Chief Executive Officer of Fathom Therapeutics.\n\" The next generation of biopharmaceutical innovation will increasingly emerge from the intersection of computational science, AI, and experimental biology ,\" said Alex Tzoukas, Co-Founder and Managing Partner of Kos Biotechnology Partners. \"Fathom Therapeutics has assembled a world-class team with deep expertise in molecular simulation and drug discovery, supported by a platform that has already demonstrated compelling early results. Our investment reflects Kos's conviction that differentiated technologies that improve drug discovery productivity and address previously inaccessible targets can create significant value for patients and investors alike. We look forward to supporting Fathom Therapeutics as it scales its platform, advances its internal pipeline, and expands its strategic partnerships.\"\nIn addition to Huafeng Xu, PhD, Fathom Therapeutics was co-founded by Yujie Wu, PhD, Chief Technology Officer, and Jesús Izaguirre, PhD, Chief Computational Scientist. The team's pioneering work spans molecular simulation, computational chemistry, and drug discovery, and includes the scientists behind the Anton supercomputer and widely adopted computational methods for predicting protein-drug interactions. The broader leadership team brings significant drug development experience.\nThe investment further strengthens Kos's portfolio of innovative life sciences companies and reinforces its strategy of supporting breakthrough therapeutic technologies, differentiated drug discovery platforms, and globally competitive biopharmaceutical businesses.\nAbout Kos Biotechnology Partners\nKos Biotechnology Partners is a global life sciences investment firm based in New York and Athens, Greece. Founded by Dr. Simos Simeonidis and Alex Tzoukas, Kos manages $125 million in assets and invests across all stages of development in therapeutic breakthroughs, biodefense, and tech-enabled pharma services. For more information, visit kosbp.com.\nMedia Contact\nKos Biotechnology Partners\n[email protected]\nSOURCE Kos Biotechnology Partners\n&times;\nModal title",
+      "text_status": "ok"
+    }
+  ]
+}

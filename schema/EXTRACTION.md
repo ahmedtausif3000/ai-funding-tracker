@@ -34,9 +34,9 @@ Round-up articles ("Week's 10 biggest rounds", "Funding Weekly") may yield sever
 | `hq_city` | string or null | |
 | `hq_state` | string or null | two-letter US state when US |
 | `hq_country` | string | ISO-2, e.g. "US", "GB", "IL". "unknown" if truly unknown |
-| `is_ai_ml` | boolean | true when the company's core product is AI/ML, robotics/autonomy driven by AI, AI infrastructure (chips, inference, GPU cloud, data centers for AI), or AI-native vertical software. False for companies merely "using AI" as a feature, for VC funds, and for public companies |
+| `is_ai_ml` | boolean | true when the company's core product is AI/ML, robotics/autonomy driven by AI, AI infrastructure (chips, inference, GPU cloud, data centers for AI), or AI-native vertical software. Match Crunchbase's tagging, which follows the company's own description: if the company or its press release calls the product "AI-powered", "AI-native" or built on machine learning, that counts. False only when AI is absent or a minor mention, and always false for VC funds and public companies |
 | `ai_ml_rationale` | string | one short sentence |
-| `description` | string | what the company does, max 200 characters |
+| `description` | string | what the company does, max 200 characters. No process notes (put those in the top-level `notes`) |
 | `confidence` | number | 0 to 1 for the row as a whole |
 | `evidence` | object | `{ "amount": "<exact quoted span>", "round": "<span or null>", "lead": "<span or null>", "investors": "<span or null>" }`. Spans must appear verbatim in the article text, snippet or title |
 | `source_urls` | string[] | publisher URLs (resolved_url when present, else the feed link) |
