@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI/ML Funding Rounds</title>
+<meta name="description" content="Daily record of US AI/ML startup funding rounds of $15M and above, rebuilt from public announcements.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231f6feb'/%3E%3Cpath d='M9 22l5-9 4 6 5-11' stroke='%23fff' stroke-width='3' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <h1>AI/ML Funding Rounds</h1>
+    <p class="sub">US companies · AI / ML · $15M and above · Seed, early and late stage venture. Rebuilt daily from public announcements and press releases.</p>
+  </div>
+  <div class="stats" id="stats" aria-live="polite"></div>
+</header>
+
+<section class="controls" aria-label="Filters">
+  <input id="q" type="search" placeholder="Search company, investor, description…" autocomplete="off">
+  <select id="stage" aria-label="Stage">
+    <option value="">All stages</option>
+    <option>Seed</option>
+    <option>Early Stage Venture</option>
+    <option>Late Stage Venture</option>
+  </select>
+  <select id="range" aria-label="Date range">
+    <option value="7">Last 7 days</option>
+    <option value="30" selected>Last 30 days</option>
+    <option value="90">Last 90 days</option>
+    <option value="0">All time</option>
+  </select>
+  <label class="amt">Min $<input id="min" type="number" min="0" step="5" value="15"><span>M</span></label>
+  <label class="toggle"><input id="showall" type="checkbox"> show out-of-scope rows</label>
+  <a class="btn" href="rounds.csv" download>CSV</a>
+  <a class="btn" href="rounds.json" download>JSON</a>
+</section>
+
+<main>
+  <div class="tablewrap">
+    <table id="t">
+      <thead>
+        <tr>
+          <th data-k="transaction_name">Transaction</th>
+          <th data-k="amount_usd" class="num">Money raised</th>
+          <th data-k="announced_date">Announced</th>
+          <th data-k="round_type">Funding type</th>
+          <th data-k="lead_investors">Lead investors</th>
+          <th data-k="company">Organization</th>
+          <th data-k="investors">Investor names</th>
+          <th>Sources</th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <div id="more" class="more"></div>
+    <p id="empty" class="empty" hidden>No rounds match these filters.</p>
+  </div>
+</main>
+
+<footer>
+  <p id="foot"></p>
+  <p class="fine">Facts are extracted from linked public sources and may contain errors; undisclosed amounts and unnamed lead investors are shown as "not disclosed". Not investment advice.</p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

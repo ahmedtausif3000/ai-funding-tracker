@@ -1,0 +1,17 @@
+{
+  "name": "ai-funding-tracker",
+  "version": "0.1.0",
+  "description": "Daily self-hosted feed of US AI/ML startup funding rounds >= $15M, rebuilt from public feeds and SEC data. Zero runtime dependencies.",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "fetch": "node scripts/fetch-candidates.mjs",
+    "validate": "node scripts/validate-extracted.mjs",
+    "merge": "node scripts/merge-rounds.mjs",
+    "build": "node scripts/build-site.mjs",
+    "serve": "node scripts/serve-docs.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "license": "MIT"
+}
