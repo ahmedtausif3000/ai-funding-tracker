@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { parseAmount, headlineCompany, normalizeName, tokenSimilarity, htmlToText } from '../scripts/lib/text.mjs';
+import { parseAmount, headlineCompany, normalizeName, tokenSimilarity, htmlToText, FUNDING_CTX_RE, FUNDING_VERB_RE, AI_HINT_RE } from '../scripts/lib/text.mjs';
 
 test('parseAmount handles $, millions, billions and other currencies', () => {
   assert.equal(parseAmount('Coframe Raises $35 Million to Build').amount, 35e6);
@@ -25,4 +25,12 @@ test('normalizeName and tokenSimilarity match the same company across spellings'
 
 test('htmlToText strips scripts and tags', () => {
   assert.equal(htmlToText('<p>Hi <b>there</b></p><script>x()</script>'), 'Hi there');
+});
+
+test('prefilter regexes accept bare-dollar headlines and drone/unmanned companies', () => {
+  const t1 = 'Exclusive: Corridian raises $38M to build underwater "stealth logistics"';
+  assert.ok(FUNDING_VERB_RE.test(t1) && FUNDING_CTX_RE.test(t1), 'bare $38M must count as funding context');
+  assert.ok(AI_HINT_RE.test('Corridian Raises $38M Seed to Build Ultra-Large Underwater Drones'));
+  assert.ok(AI_HINT_RE.test('Boston startup raises $38 million for its ultra-large Autonomous Underwater Vehicles'));
+  assert.ok(!FUNDING_CTX_RE.test('Castelion gets green light to work Blackbeard missile onto F-16'));
 });

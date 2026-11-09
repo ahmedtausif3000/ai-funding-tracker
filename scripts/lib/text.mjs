@@ -54,8 +54,8 @@ export function parseAmount(text = '') {
 }
 
 export const FUNDING_VERB_RE = /\b(raises?|raised|raising|secures?|secured|closes?|closed|lands?|landed|nabs|bags|snags|scores|pulls in|brings in|announces?|emerges? from stealth with|gets|receives?|attracts?)\b/i;
-export const FUNDING_CTX_RE = /\b(funding|round|series\s?[a-h]\b|seed|pre-seed|investment|financ\w+|million|billion|\$\s?\d|valuation|venture|capital|backed|led by|investors?)\b/i;
-export const AI_HINT_RE = /(\bAI\b|\bA\.I\.|artificial intelligence|machine learning|\bML\b|\bLLMs?\b|large language|foundation model|generative|\bGenAI\b|agentic|\bAI agents?\b|autonomous|robotics|\brobots?\b|computer vision|deep learning|neural|inference|\bGPUs?\b|copilot|speech recognition|voice AI|humanoid|self-driving|\bautonomy\b|data center|datacenter)/i;
+export const FUNDING_CTX_RE = /(\b(funding|round|series\s?[a-h]|seed|pre-seed|investment|financ\w+|million|billion|valuation|venture|capital|backed|led by|investors?)\b|[$€£]\s?\d)/i;
+export const AI_HINT_RE = /(\bAI\b|\bA\.I\.|artificial intelligence|machine learning|\bML\b|\bLLMs?\b|large language|foundation model|generative|\bGenAI\b|agentic|\bAI agents?\b|autonomous|robotics|\brobots?\b|computer vision|deep learning|neural|inference|\bGPUs?\b|copilot|speech recognition|voice AI|humanoid|self-driving|\bautonomy\b|data center|datacenter|\bdrones?\b|unmanned|uncrewed|\bUAVs?\b|\bAUVs?\b|perception|simulation|digital twin|edge AI|AI-powered|AI-native|AI-driven|intelligent automation)/i;
 
 const STOP_SUFFIX = /\b(inc|incorporated|corp|corporation|co|company|llc|ltd|limited|plc|gmbh|holdings|technologies|technology|labs|lab|ai|io|hq)\b\.?/gi;
 export function normalizeName(name = '') {
