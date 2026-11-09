@@ -1,0 +1,1433 @@
+{
+  "run_date": "backfill-2026-10-01_2026-11-09",
+  "extractor": "parallel agent parts 09-12",
+  "notes": "Parts 09-12 (40 groups). Lookups used: 25/25 (17 WebSearch + 8 WebFetch; citybiz Wabi fetch returned 403). SKIPPED as already stored in data/rounds.json with the same amount: 'indias eloelo' (EloElo Group $80M), 'truth' (&Truth $70M seed), 'secretive israeli' article 0cd3e867ddb0 (Spines $64M), 'ultra' Series A $50M and 'warehouse workstation robot maker' (Ultra $50M Series A). No CONFLICTs found. MERGED groups: 'multiply' + 'this robotics' (same Multiply Labs $75M Series B); 'nevis' 3 articles; 'wabi' + '4179996c13af' (same Wabi $55M round); 'sabi' + 'mind reading baseball cap startup' (same Sabi $50M seed); 'hyphenate' + 'maximor' (Hyphenate, formerly Maximor, $45M Series A); 'applied' + 'baba' (same Baba $40M Series A). SPLIT rounds: Ultra -> emitted only the earlier $12M seed (Fortune), Series A already stored; Broccoli $52M -> Series A $22M + Series B $30M per Fortune-derived coverage (Pulse2 only gives the $52M total; Seedtable lists a $25M Series A in July 2026 - split uncertain; both rows dated to the Oct 28 announcement, Series A actually closed ~9 months earlier). AIR $50M -> $10M seed (Sequoia) + $40M seed (Greenoaks). Pluto Security $42M -> $8.5M seed (TLV Partners) + $34M Series A (Jump Capital). Jazz: the $61M (seed + Series A) was actually announced 2026-03-11, outside the 120-day window; the Google News item dated 2026-10-03 is a re-surfaced story. Row kept with the article date and exclude_reason 'duplicate' so the merge drops it; round_type set to Venture - Unspecified because it is a combined seed+Series A total. Evidence spans for rows whose part-file text was thin/unresolved come verbatim from WebSearch result summaries or WebFetch extracts of the URLs listed in source_urls (Volantis, Powerlattice, Axonica, Multiply Labs, Nevis investors, Blacksmith, Hone, Mecka extra investors, Albert, Wabi extra investors, Broccoli, Gallatin, Reach Security, Different, Coherence, Baba, Jazz, TeddyHoldings HQ). The validator may not find them in part-file text. HQ 'unknown' where no source I read stated it (likely US but unverified, please check): Volantis, Hone, Reach Security; Mecka AI described as 'Toronto- and New York City-based' so left unknown. Nevis: most sources say New York, some say London and New York. Blacksmith: 'US-based' per Inc42 title, city not stated. Harmonic Security: dateline San Francisco and London, set US. Baba: New York (one source says Miami). Gallatin AI: El Segundo (one aggregator says San Francisco). Scarlet GB/London is from general knowledge, not from the text read. Judgment calls on is_ai_ml: TeddyHoldings.AI false (founder: 'Teddy is not an AI company'); Blacksmith true but borderline (CI infrastructure marketed as AI code testing); Scarlet false (certifies AI medical devices); Coherence Neuro false (implant; AI not described in text read); Dougs false (accounting firm). Coherence round type: cofounder says Series A, WIRED says seed. Axonica: round described as 'up to $80M' and still being finalized as of mid-October; $50M was in hand. Rebel Audio: Series A 'targets a $10M close' at ~$50M post-money valuation - amount set to the $10M target. 'Secretive Israeli' CTech article (Ackman/Schmidt-backed) is a different, unnamed company from Spines; emitted with amount null. Airwallex-backed start-up (AFR): company not identified, amount 'nearly $50m' likely AUD, left null. Currency conversions at 1.08: Metaview EUR 53.1M -> $57.35M; Dougs EUR 50M -> $54M.",
+  "rows": [
+    {
+      "group_key": "volantis",
+      "candidate_ids": [
+        "d78d2d4c0237"
+      ],
+      "company": "Volantis",
+      "website": "volantis.co",
+      "amount_usd": 88000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-01",
+      "lead_investors": [
+        "Lachy Groom",
+        "Abstract Ventures"
+      ],
+      "investors": [
+        "Lachy Groom",
+        "Abstract Ventures",
+        "John Doerr",
+        "Naveen Rao",
+        "Susa Ventures"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Builds photonic memory interconnects and an inference-optimized chip architecture for AI accelerators (AI infrastructure).",
+      "description": "Develops VCSEL-based photonic interconnects that link AI compute chips to large pools of memory chiplets for inference-optimized accelerators.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Volantis raises $88 million for tech to connect AI, memory chips",
+        "round": "The Series A deal also drew more than a half-dozen other participants.",
+        "lead": "has raised a $88 million funding round led by prominent angel investor Lachy Groom and Abstract Ventures",
+        "investors": "The group included Kleiner Perkins Chair John Doerr and Naveen Rao | Participation came from John Doerr, Susa Ventures and others."
+      },
+      "source_urls": [
+        "https://www.thestar.com.my/tech/tech-news/2026/10/01/volantis-raises-88-million-for-tech-to-connect-ai-memory-chips-",
+        "https://siliconangle.com/2026/10/01/volantis-raises-88m-to-develop-photonic-inference-systems/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "powerlattice",
+      "candidate_ids": [
+        "d76d19d3b8a3",
+        "e05182a2dc2e"
+      ],
+      "company": "Powerlattice",
+      "website": null,
+      "amount_usd": 86000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-30",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Vancouver",
+      "hq_state": "WA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Makes power-delivery chiplets for AI processors; AI semiconductor infrastructure.",
+      "description": "Chip startup building power-delivery chiplets that sit next to AI processors to cut the power needed for AI compute.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Filing: Chip startup Powerlattice raises $86M to ease AI’s power crunch",
+        "round": "the filing doesn't name them or the round",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/",
+        "https://www.unite.ai/powerlattice-raises-86m-in-equity-offering-sec-filing-shows"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "axonica",
+      "candidate_ids": [
+        "9a6cb68f98d8"
+      ],
+      "company": "Axonica Labs",
+      "website": null,
+      "amount_usd": 80000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-10-14",
+      "lead_investors": [
+        "Amplify Partners",
+        "Wing VC",
+        "Qualcomm Ventures"
+      ],
+      "investors": [
+        "Amplify Partners",
+        "Wing VC",
+        "Qualcomm Ventures",
+        "Pitango",
+        "Viola",
+        "10D"
+      ],
+      "hq_city": "Herzliya Pituah",
+      "hq_state": null,
+      "hq_country": "IL",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Designs an AI inference chip for running models and agents.",
+      "description": "Israeli semiconductor startup founded by an ex-Qualcomm executive, building an energy-efficient AI inference chip to compete with GPUs.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "Ex-Qualcomm exec's AI chip startup Axonica raises $80M pre-seed",
+        "round": "Ex-Qualcomm exec's AI chip startup Axonica raises $80M pre-seed",
+        "lead": "Amplify Partners, Wing VC, and Qualcomm Ventures lead the round, alongside Israeli funds Pitango, Viola, and 10D.",
+        "investors": "Amplify Partners, Wing VC, and Qualcomm Ventures lead the round, alongside Israeli funds Pitango, Viola, and 10D."
+      },
+      "source_urls": [
+        "https://ecosystem.madrimasd.org/news/note/ex-qualcomm-exec-s-ai-chip-startup-axionic-raises-80m-pre-seed",
+        "https://dealroom.co/news/162607-ex-qualcomm-execs-ai-chip-startup-axonica-raises-80m-pre-seed/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "multiply",
+      "candidate_ids": [
+        "8e27005149a3",
+        "9c1bbd4ac2ce"
+      ],
+      "company": "Multiply Labs",
+      "website": "multiplylabs.com",
+      "amount_usd": 75000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-06",
+      "lead_investors": [
+        "NantWorks"
+      ],
+      "investors": [
+        "NantWorks",
+        "AstraZeneca",
+        "Lingotto",
+        "Teradyne",
+        "Strange Ventures"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Robotics and automation platform for drug manufacturing (robotics counts under the contract).",
+      "description": "Builds robotic biomanufacturing systems that automate production of advanced therapies and biologics for pharma.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "Multiply Labs Raises $75 Million Series B to Close the Gap Between Drug Discovery and Drug Manufacturing",
+        "round": "Multiply Labs Raises $75 Million Series B to Close the Gap Between Drug Discovery and Drug Manufacturing",
+        "lead": "The $75 million Series B was led by NantWorks, the holding company of Dr. Patrick Soon-Shiong.",
+        "investors": "The round included AstraZeneca, Lingotto, Teradyne, and Strange Ventures as new investors, according to Pulse 2."
+      },
+      "source_urls": [
+        "https://pulse2.com/multiply-labs-raises-75-million-series-b-to-scale-robotic-biomanufacturing-platform/",
+        "https://www.pharmamanufacturing.com/industry-news/news/55410700/multiply-labs-raises-75m-in-series-b-funding-for-robotic-biomanufacturing",
+        "https://dnyuz.com/2026/10/06/this-robotics-startup-raised-75-million-to-automate-drug-manufacturing-see-the-pitch-deck/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "nevis",
+      "candidate_ids": [
+        "c5790b72bf57",
+        "06d57cf230d8",
+        "c661fe6f9316"
+      ],
+      "company": "Nevis",
+      "website": "neviswealth.com",
+      "amount_usd": 70000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-26",
+      "lead_investors": [
+        "EQT Ventures"
+      ],
+      "investors": [
+        "EQT Ventures",
+        "The Charles Schwab Corporation",
+        "QuantumLight",
+        "Sequoia Capital",
+        "ICONIQ",
+        "Ribbit Capital"
+      ],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Self-described AI operating system with agents for wealth management firms.",
+      "description": "AI operating system for wealth management firms: agents, data connectors and workflow automation for advisors and back office.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Nevis Raises $70 Million Series B to Grow its AI Operating System for Wealth Management",
+        "round": "Nevis Raises $70 Million Series B to Grow its AI Operating System for Wealth Management",
+        "lead": "Nevis Raises $70M Series B Led by EQT Ventures to Expand AI Platform for Wealth Management",
+        "investors": "The round also included new strategic investors The Charles Schwab Corporation and QuantumLight, | Existing investors Sequoia Capital, ICONIQ, and Ribbit Capital also increased their commitments."
+      },
+      "source_urls": [
+        "https://www.neviswealth.com/",
+        "https://pulse2.com/nevis-raises-70-million-series-b-as-assets-on-platform-reach-700-billion/",
+        "https://www.wealthmanagement.com/artificial-intelligence/nevis-lands-70-million-to-expand-ai-wealth-platform"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "blacksmith",
+      "candidate_ids": [
+        "24d8ec5077b1",
+        "ddf2c1c9de59"
+      ],
+      "company": "Blacksmith",
+      "website": "blacksmith.sh",
+      "amount_usd": 66000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-21",
+      "lead_investors": [
+        "Sequoia Capital"
+      ],
+      "investors": [
+        "Sequoia Capital",
+        "Premji Invest",
+        "Peak XV Partners",
+        "GV",
+        "Y Combinator"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Press frames it as AI code testing infrastructure; CI compute platform built for the flood of AI-written code (borderline).",
+      "description": "Provides purpose-built infrastructure for continuous integration (CI) workloads, testing and validating AI-generated code.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "AI code testing startup Blacksmith raises $66 million at $1 billion valuation",
+        "round": "Blacksmith Raises $66 Million Series C At $1 Billion Valuation To Expand CI Infrastructure",
+        "lead": "The round was led by Sequoia Capital, with participation from Premji Invest and existing investors",
+        "investors": "The round was led by Sequoia Capital, with participation from Premji Invest and existing investors | Peak XV Partners, GV, and Y Combinator."
+      },
+      "source_urls": [
+        "https://pulse2.com/blacksmith-raises-66-million-series-c-at-1-billion-valuation-to-expand-ci-infrastructure/",
+        "https://siliconangle.com/2026/10/21/code-testing-startup-blacksmith-becomes-a-unicorn-after-raising-66m-in-series-c-funding/",
+        "https://inc42.com/buzz/peak-xv-leads-45-mn-bet-on-us-based-ai-code-testing-startup-blacksmith/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "secretive israeli",
+      "candidate_ids": [
+        "8f5d82b91992"
+      ],
+      "company": "Undisclosed Israeli AI startup (CTech; Ackman/Schmidt-backed)",
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-22",
+      "lead_investors": [],
+      "investors": [
+        "Bill Ackman",
+        "Eric Schmidt"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "IL",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Described as an AI startup.",
+      "description": "Stealth Israeli AI startup; product not disclosed.",
+      "confidence": 0.3,
+      "evidence": {
+        "amount": "Secretive Israeli AI startup raises tens of millions backed by Bill Ackman and Eric Schmidt",
+        "round": null,
+        "lead": null,
+        "investors": "Secretive Israeli AI startup raises tens of millions backed by Bill Ackman and Eric Schmidt"
+      },
+      "source_urls": [
+        "https://www.calcalistech.com/ctechnews/article/rkpvzkuhmx"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "ultra",
+      "candidate_ids": [
+        "0eff3a7c0257"
+      ],
+      "company": "Ultra",
+      "website": null,
+      "amount_usd": 12000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-10-09",
+      "lead_investors": [
+        "Framework Ventures",
+        "Next View"
+      ],
+      "investors": [
+        "Framework Ventures",
+        "Next View"
+      ],
+      "hq_city": "Brooklyn",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Warehouse robotics (robots-as-a-service) with a Physical Intelligence AI partnership.",
+      "description": "Leases packing robots to warehouses and 3PLs under a monthly robots-as-a-service model.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "an earlier $12 million seed round led by the latter and Next View",
+        "round": "an earlier $12 million seed round led by the latter and Next View",
+        "lead": "a $50 million Series A led by Framework Ventures with participation from Y Combinator, and an earlier $12 million seed round led by the latter and Next View",
+        "investors": "a $50 million Series A led by Framework Ventures with participation from Y Combinator, and an earlier $12 million seed round led by the latter and Next View"
+      },
+      "source_urls": [
+        "https://fortune.com/2026/10/09/ultra-raises-62-million-fast-growing-robots-service-tie-up-ai-research-firm-physical-inte"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "jazz",
+      "candidate_ids": [
+        "9668f702ca6a"
+      ],
+      "company": "Jazz",
+      "website": null,
+      "amount_usd": 61000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-03",
+      "lead_investors": [
+        "Glilot Capital Partners",
+        "Team8"
+      ],
+      "investors": [
+        "Glilot Capital Partners",
+        "Team8",
+        "Ten Eleven Ventures",
+        "Merlin Ventures",
+        "Encoded Ventures",
+        "MassMutual Ventures"
+      ],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI-powered data loss prevention platform.",
+      "description": "Cybersecurity startup rebuilding data loss prevention (DLP) around AI-powered understanding of data.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "Cybersecurity startup Jazz raises $61M to reinvent data loss prevention with AI",
+        "round": "emerged from stealth in March 2026 with $61 million in seed and Series A funding",
+        "lead": "Glilot Capital Partners and Team8 led the round.",
+        "investors": "Ten Eleven Ventures, Merlin Ventures, Encoded Ventures, and MassMutual Ventures also participated."
+      },
+      "source_urls": [
+        "https://healsecurity.com/cybersecurity-startup-jazz-raises-61m-to-reinvent-data-loss-prevention-with-ai-ynetnews/",
+        "https://www.ynetnews.com/business/article/rkafhkttbx",
+        "https://fintech.global/2026/03/11/data-security-firm-jazz-lands-61m-to-reinvent-dlp/"
+      ],
+      "exclude_reason": "duplicate"
+    },
+    {
+      "group_key": "teddyholdings",
+      "candidate_ids": [
+        "7ab775587af5",
+        "eb9d1ba3fb64",
+        "d82919a78870"
+      ],
+      "company": "TeddyHoldings.AI",
+      "website": null,
+      "amount_usd": 60000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-10-07",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Founder states Teddy is not an AI company; it is a compliance-focused legal services rollup platform.",
+      "description": "Compliance and client-focused legal services platform incubated by Tucker's Farm Corporation, rolling up law-firm back offices.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "today announced it has raised $60 million in Seed funding from leading investors and passed $25 million in revenue",
+        "round": "today announced it has raised $60 million in Seed funding from leading investors and passed $25 million in revenue",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.morningstar.com/news/business-wire/20261007705816/teddyholdingsai-raises-60-million-in-seed-funding-from-leading-investors-to-transform-compliance-and-client-service-in-legal-services-and-announces-over-25-million-in-revenue",
+        "https://www.morningstar.com/news/business-wire/20261007705816/teddyholdingsai-raises-60-million-in-seed-funding-from-lea",
+        "https://dealroom.co/news/160722-teddy-ai-raises-60m-seed-to-roll-up-law-firms-back-offices/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "mecka",
+      "candidate_ids": [
+        "b063b19006d3",
+        "85b7e8b2ab24",
+        "48c9242d7393",
+        "326b0707165c"
+      ],
+      "company": "Mecka AI",
+      "website": null,
+      "amount_usd": 60000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-07",
+      "lead_investors": [
+        "Sequoia"
+      ],
+      "investors": [
+        "Sequoia",
+        "Nvidia",
+        "M12",
+        "Qualcomm Ventures",
+        "Samsung"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Collects human motion data to train humanoid and other robots (physical AI training data).",
+      "description": "Collects and analyzes human motion data via body sensors and smartphones to train humanoid robots and other robots.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "announced it has raised a $60 million Series B round led by Sequoia, with participation from Nvidia, Microsoft’s venture fund M12, and others",
+        "round": "announced it has raised a $60 million Series B round led by Sequoia, with participation from Nvidia, Microsoft’s venture fund M12, and others",
+        "lead": "announced it has raised a $60 million Series B round led by Sequoia, with participation from Nvidia, Microsoft’s venture fund M12, and others",
+        "investors": "announced it has raised a $60 million Series B round led by Sequoia, with participation from Nvidia, Microsoft’s venture fund M12, and others | Nvidia, Microsoft's M12, Qualcomm Ventures and Samsung are also among the new investors."
+      },
+      "source_urls": [
+        "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+        "https://betakit.com/mecka-ai-reveals-60-million-usd-series-b-round-backed-by-sequoia-nvidia/",
+        "https://pulse2.com/mecka-raises-60-million-to-build-the-data-and-deployment-layer-for-physical-ai/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "hone austrian founder moritz",
+      "candidate_ids": [
+        "bbd383b8cbb9"
+      ],
+      "company": "Hone",
+      "website": null,
+      "amount_usd": 60000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-10-08",
+      "lead_investors": [
+        "Benchmark",
+        "Index Ventures"
+      ],
+      "investors": [
+        "Benchmark",
+        "Index Ventures",
+        "Scott Wu"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Builds AI agents that run business operations over weeks or months.",
+      "description": "Startup by former OpenAI and Cognition staff building AI agents that own business workflows such as evaluating sales leads.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "Hone: Austrian Founder Moritz Stephan Raises $60 Million for A.I. Agents",
+        "round": "Hone's $60 million seed round was led by Benchmark, with Index Ventures as co-lead, according to most of the coverage.",
+        "lead": "Benchmark and Index Ventures led the round, which valued the five-month-old company at $285 million, according to Hone.",
+        "investors": "Benchmark and Index Ventures led the round, which valued the five-month-old company at $285 million, according to Hone. | Cognition CEO Scott Wu is a personal investor."
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iaC1TMFZzTi1IeHhtd2RXbGRPaWEtbS1sQVc0ODdOZjBxOGxqVXhiUmVJRWlteElFSk41NnFmbmNxTmFneHR0bGs2cF9qV29JRmVEVThNZXhYV040WnI2bk9vRjFlVklVUXFYSi1R?oc=5",
+        "https://cryptobriefing.com/hone-ai-agents-60-million-seed/",
+        "https://www.indexventures.com/perspectives/ai-that-owns-business-outcomes-our-investment-in-hone/",
+        "https://www.trendingtopics.eu/hone-moritz-stephan-60-million/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "by venture partners",
+      "candidate_ids": [
+        "99f8863d0254"
+      ],
+      "company": "BY Venture Partners",
+      "website": null,
+      "amount_usd": 60000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-10-29",
+      "lead_investors": [],
+      "investors": [
+        "Dubai Future District Fund",
+        "Multi Lane",
+        "Transmed Capital",
+        "Idriss Family Office"
+      ],
+      "hq_city": "Dubai",
+      "hq_state": null,
+      "hq_country": "AE",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Venture capital fund close, not an operating company.",
+      "description": "Dubai-headquartered early-stage venture capital firm; Fund III backs AI-native enterprise startups globally.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "today announced the successful $60 million close of its third vehicle, Fund III",
+        "round": "today announced the successful $60 million close of its third vehicle, Fund III",
+        "lead": null,
+        "investors": "The fund is anchored by the Dubai Future District Fund (DFDF), with participation from established regional institutions, corporate venture arms, and prominent family offices, including leading regional player in AI and high-speed data infrastructure Multi Lane, Transmed Capital, and the Idriss Family Office (KSA)."
+      },
+      "source_urls": [
+        "https://mystartupworld.com/by-venture-partners-raises-60-million-to-back-ai-startups/"
+      ],
+      "exclude_reason": "fund"
+    },
+    {
+      "group_key": "albert",
+      "candidate_ids": [
+        "fd036b298578",
+        "162fb7dc2992",
+        "6f8ab92bd9f7"
+      ],
+      "company": "Albert Invent",
+      "website": "albertinvent.com",
+      "amount_usd": 55000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-13",
+      "lead_investors": [
+        "TCV"
+      ],
+      "investors": [
+        "TCV",
+        "Delta-v Capital",
+        "Socium Ventures",
+        "HighSage Ventures",
+        "Coral Capital",
+        "Legion VC",
+        "Coatue",
+        "J.P. Morgan"
+      ],
+      "hq_city": "Oakland",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Self-described chemistry-native AI operating system for R&D.",
+      "description": "Chemistry-native AI operating system for R&D in the chemicals and materials industries.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Albert Raises $55M Series B to Scale the First Chemistry-Native AI",
+        "round": "Albert Raises $55M Series B to Scale the First Chemistry-Native AI",
+        "lead": "Albert Raises $55 Million Series B Led By TCV To Scale Chemistry-Native AI For R&D",
+        "investors": "Delta-v Capital, Socium Ventures, HighSage Ventures, Coral Capital and Legion VC joined existing investors Coatue and J.P. Morgan."
+      },
+      "source_urls": [
+        "https://pulse2.com/albert-raises-55-million-series-b-led-by-tcv-to-scale-chemistry-native-ai-for-rd/",
+        "https://aiweekly.co/alerts/albert-invent-lands-55m-series-b-led-by-tcv-at-340m-valuation"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "wabi",
+      "candidate_ids": [
+        "818a6bc476dd",
+        "cc9b57c64747",
+        "4179996c13af"
+      ],
+      "company": "Wabi",
+      "website": null,
+      "amount_usd": 55000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-29",
+      "lead_investors": [
+        "IVP"
+      ],
+      "investors": [
+        "IVP",
+        "Andreessen Horowitz",
+        "Forerunner",
+        "Amazon Alexa Fund"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI assistant / AI messenger that lets groups coordinate with an agent.",
+      "description": "AI assistant that joins group chats to plan trips, align schedules, build shared mini-apps and handle tasks like bookings and returns.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "AI Assistant Startup Wabi Raises $55 Million at $1.25 Billion Value",
+        "round": null,
+        "lead": "Wabi Raises $55 Million Led by IVP at $1.25 Billion Valuation",
+        "investors": "Among the investors in the round was Andreessen Horowitz. | Other investors include Andreessen Horowitz, Forerunner, and Amazon Alexa Fund."
+      },
+      "source_urls": [
+        "https://www.citybiz.co/article/926515/wabi-raises-55-million-led-by-ivp-at-1-25-billion-valuation/",
+        "https://www.pymnts.com/news/investment-tracker/2026/wabi-raises-55-million-for-ai-assistant-to-coordinate-groups/",
+        "https://www.bloomberg.com/news/articles/2026-10-29/ai-assistant-startup-wabi-raises-55-million-at-1-25-billion-value",
+        "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1.25b-after-latest-round/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "londons metaview",
+      "candidate_ids": [
+        "9a8031880214"
+      ],
+      "company": "Metaview",
+      "website": "metaview.ai",
+      "amount_usd": 57348000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 53.1M converted at 1.08",
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-01",
+      "lead_investors": [
+        "Insight Partners"
+      ],
+      "investors": [
+        "Insight Partners"
+      ],
+      "hq_city": "London",
+      "hq_state": null,
+      "hq_country": "GB",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Agentic AI recruiting platform.",
+      "description": "Agentic recruiting platform that uses AI to run and document hiring processes.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "London's Metaview raises €53.1 million Series C led by Insight Partners to scale its agentic recruiting platform",
+        "round": "London's Metaview raises €53.1 million Series C led by Insight Partners to scale its agentic recruiting platform",
+        "lead": "London's Metaview raises €53.1 million Series C led by Insight Partners to scale its agentic recruiting platform",
+        "investors": "London's Metaview raises €53.1 million Series C led by Insight Partners to scale its agentic recruiting platform"
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMEh1Uk1MUUpLV3F3NE9GWWpVbXJRTF92NWxZLVF0UlhyaWJpa1ZKdzc3TjFsQ25TcHFCNzFCVmUtaEVjR3ZTZ2JGWll5OGJWeFYxYU1SdzlMTjk2TFNhaFdycjAzcXV4b0k2c1JDeGRJUTFNRkQyVmN6LVFhY0lrQmR2ajVXR1FoS0VmaE1qcnpQOEtZa0p4TGtPSXh4ekpfR29xVktoaUV5MFpPUUpfN0JMaEVKZjRsbXEwLXNsZVFMTF9hbDdJZGI0SkVYcnlMRkphLWl0UXczNk52aDlBY3pn?oc=5"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "home services",
+      "candidate_ids": [
+        "59d832909d9e"
+      ],
+      "company": "Broccoli",
+      "website": null,
+      "amount_usd": 30000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-28",
+      "lead_investors": [
+        "Khosla Ventures"
+      ],
+      "investors": [
+        "Khosla Ventures",
+        "Y Combinator",
+        "Operator Partners"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI agents that handle customer interactions for home-services businesses.",
+      "description": "AI agents that book jobs and handle customer interactions across the lifecycle for plumbing, HVAC and other home-services businesses.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "Broccoli AI raised $22 million in a Series A and $30 million in a Series B, both led by Khosla Ventures",
+        "round": "Broccoli AI raised $22 million in a Series A and $30 million in a Series B, both led by Khosla Ventures",
+        "lead": "Broccoli has raised $52 million across its Series A and Series B funding rounds, both led by Khosla Ventures",
+        "investors": "with participation from Y Combinator and Operator Partners."
+      },
+      "source_urls": [
+        "https://pulse2.com/broccoli-raises-52-million-across-series-a-and-series-b-led-by-khosla-ventures/",
+        "https://fortune.com/2026/10/28/broccoli-ai-funding-khosla-ventures-marcelle-flowers-plumbing-gen-z-founders/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "home services",
+      "candidate_ids": [
+        "59d832909d9e"
+      ],
+      "company": "Broccoli",
+      "website": null,
+      "amount_usd": 22000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-28",
+      "lead_investors": [
+        "Khosla Ventures"
+      ],
+      "investors": [
+        "Khosla Ventures",
+        "Y Combinator",
+        "Operator Partners"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI agents that handle customer interactions for home-services businesses.",
+      "description": "AI agents that book jobs and handle customer interactions across the lifecycle for plumbing, HVAC and other home-services businesses.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "Broccoli AI raised $22 million in a Series A and $30 million in a Series B, both led by Khosla Ventures",
+        "round": "Broccoli AI raised $22 million in a Series A and $30 million in a Series B, both led by Khosla Ventures",
+        "lead": "Broccoli has raised $52 million across its Series A and Series B funding rounds, both led by Khosla Ventures",
+        "investors": "with participation from Y Combinator and Operator Partners."
+      },
+      "source_urls": [
+        "https://pulse2.com/broccoli-raises-52-million-across-series-a-and-series-b-led-by-khosla-ventures/",
+        "https://fortune.com/2026/10/28/broccoli-ai-funding-khosla-ventures-marcelle-flowers-plumbing-gen-z-founders/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "gallatin",
+      "candidate_ids": [
+        "e7d73522eaf1",
+        "9b789c21d94d"
+      ],
+      "company": "Gallatin AI",
+      "website": "gallatin.ai",
+      "amount_usd": 50000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-08",
+      "lead_investors": [
+        "8VC",
+        "Silent Ventures"
+      ],
+      "investors": [
+        "8VC",
+        "Silent Ventures"
+      ],
+      "hq_city": "El Segundo",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI-enabled military logistics and sustainment software (Navigator).",
+      "description": "Builds Navigator, an AI-enabled military logistics platform used by US Army and Air Force units for contested logistics.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Gallatin AI Raises $50M in Series A Funding",
+        "round": "Gallatin AI Raises $50M in Series A Funding",
+        "lead": "Gallatin AI's $50M Series A was led by 8VC and Silent Ventures, according to several reports.",
+        "investors": "Gallatin AI's $50M Series A was led by 8VC and Silent Ventures, according to several reports."
+      },
+      "source_urls": [
+        "https://www.gallatin.ai/",
+        "https://www.citybiz.co/article/916757/gallatin-ai-raises-50m-series-a-to-expand-military-logistics-platform/",
+        "https://pulse2.com/gallatin-ai-raises-50-million-series-a-to-expand-military-logistics-platform/",
+        "https://axios.com/2026/10/08/gallatin-seriesa-8vc-contested-logistics-army"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "rebel audio",
+      "candidate_ids": [
+        "bff083488b95"
+      ],
+      "company": "Rebel Audio",
+      "website": null,
+      "amount_usd": 10000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-08",
+      "lead_investors": [
+        "HardScope"
+      ],
+      "investors": [
+        "HardScope"
+      ],
+      "hq_city": "Nashville",
+      "hq_state": "TN",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Self-described AI-powered podcasting platform.",
+      "description": "AI-powered podcasting platform to record, edit, publish, translate, distribute and monetize podcasts.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "targets a $10M close, valuing Rebel Audio at approximately $50M post-money",
+        "round": "today announced the closing of its Series A funding round, led by creator media company and studio HardScope",
+        "lead": "today announced the closing of its Series A funding round, led by creator media company and studio HardScope",
+        "investors": "today announced the closing of its Series A funding round, led by creator media company and studio HardScope"
+      },
+      "source_urls": [
+        "https://www.aol.com/articles/rebel-audio-raises-series-50-172800000.html"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "airwallex backed start up",
+      "candidate_ids": [
+        "31a42c5232bc"
+      ],
+      "company": "Undisclosed Airwallex-backed start-up (AFR)",
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": "AFR says 'nearly $50m' (likely AUD); no exact figure",
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-10-04",
+      "lead_investors": [],
+      "investors": [
+        "Airwallex"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Company and sector not identified in the available text.",
+      "description": "Unnamed start-up backed by Airwallex; SEC filings reveal a seed round of nearly $50m.",
+      "confidence": 0.2,
+      "evidence": {
+        "amount": "Airwallex-backed start-up raises nearly $50m in seed round",
+        "round": "Airwallex-backed start-up raises nearly $50m in seed round",
+        "lead": null,
+        "investors": "Airwallex-backed start-up raises nearly $50m in seed round"
+      },
+      "source_urls": [
+        "https://www.afr.com/topic/airwallex-6hby"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "harmonic security",
+      "candidate_ids": [
+        "f4a738dc8dcf",
+        "1aa0e018c31d",
+        "6869f66fc5c3",
+        "7036219a7436"
+      ],
+      "company": "Harmonic Security",
+      "website": "harmonic.security",
+      "amount_usd": 50000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-14",
+      "lead_investors": [
+        "Crosspoint Capital Partners"
+      ],
+      "investors": [
+        "Crosspoint Capital Partners"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI usage security platform built on custom small language models.",
+      "description": "Platform that classifies, monitors and controls employee AI tool usage in real time using custom small language models.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "raised a $50 million Series B round led by Crosspoint Capital Partners, with participation from existing investors",
+        "round": "raised a $50 million Series B round led by Crosspoint Capital Partners, with participation from existing investors",
+        "lead": "raised a $50 million Series B round led by Crosspoint Capital Partners, with participation from existing investors",
+        "investors": "raised a $50 million Series B round led by Crosspoint Capital Partners, with participation from existing investors"
+      },
+      "source_urls": [
+        "https://www.unite.ai/harmonic-security-raises-50m-series-b-to-expand-us-and-uk-teams/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "scarlet",
+      "candidate_ids": [
+        "d26cebb560f7",
+        "a534f851f3ab"
+      ],
+      "company": "Scarlet",
+      "website": "usescarlet.com",
+      "amount_usd": 50000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-12",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "London",
+      "hq_state": null,
+      "hq_country": "GB",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Regulatory certification body for AI medical devices; AI refers to the devices it certifies rather than its own core product (unclear).",
+      "description": "Digital notified body / certification platform that speeds regulatory certification of AI and software medical devices.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "Scarlet raises $50M Series B to accelerate AI medical device certification",
+        "round": "Scarlet raises $50M Series B to accelerate AI medical device certification",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://usescarlet.com/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "reach security",
+      "candidate_ids": [
+        "03226b979106",
+        "9f462f9e9629"
+      ],
+      "company": "Reach Security",
+      "website": "reach.security",
+      "amount_usd": 50000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-13",
+      "lead_investors": [
+        "Top Tier Capital Partners"
+      ],
+      "investors": [
+        "Top Tier Capital Partners",
+        "Ballistic Ventures",
+        "In-Q-Tel",
+        "M12"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI-powered security platform that autonomously finds and closes defensive gaps.",
+      "description": "AI-powered security platform that autonomously finds and closes defensive gaps and hardens existing security controls.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "Reach Security Raises More Than $50M Series B to Stop AI-Powered Attacks by Autonomously Closing the Gaps They Target",
+        "round": "Reach Security Raises More Than $50M Series B to Stop AI-Powered Attacks by Autonomously Closing the Gaps They Target",
+        "lead": "Top Tier Capital Partners led the round, which also drew in Ballistic Ventures, In-Q-Tel, M12, Microsoft's Venture Fund, and existing investors.",
+        "investors": "Top Tier Capital Partners led the round, which also drew in Ballistic Ventures, In-Q-Tel, M12, Microsoft's Venture Fund, and existing investors."
+      },
+      "source_urls": [
+        "https://www.reach.security/",
+        "https://pulse2.com/reach-security-raises-more-than-50-million-series-b/",
+        "https://dealroom.co/news/162194-reach-security-lands-50m-series-b-to-fight-ai-powered-attacks/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "sabi",
+      "candidate_ids": [
+        "440867f58189",
+        "e1b99e6c2d13"
+      ],
+      "company": "Sabi",
+      "website": null,
+      "amount_usd": 50000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-10-09",
+      "lead_investors": [
+        "Khosla Ventures"
+      ],
+      "investors": [
+        "Khosla Ventures",
+        "Accel",
+        "Initialized Capital",
+        "Kevin Weil",
+        "DST Global",
+        "Collaborative Fund",
+        "Ascend"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Non-invasive brain-AI interface with a custom EEG chip and a Brain Foundation Model.",
+      "description": "Non-invasive brain-AI interface hidden in a baseball cap that translates imagined speech and intent into commands for AI.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "Sabi today announced it has raised a $50 million seed round, led by Khosla Ventures, to develop a brain-AI interface designed for everyday wear.",
+        "round": "Sabi today announced it has raised a $50 million seed round, led by Khosla Ventures, to develop a brain-AI interface designed for everyday wear.",
+        "lead": "Sabi today announced it has raised a $50 million seed round, led by Khosla Ventures, to develop a brain-AI interface designed for everyday wear.",
+        "investors": "Accel, Initialized Capital, former OpenAI Chief Product Officer Kevin Weil, DST Global, Collaborative Fund and Ascend also participated."
+      },
+      "source_urls": [
+        "https://markets.businessinsider.com/news/currencies/sabi-raises-50-million-seed-round-led-by-khosla-ventures-to-put-a-br",
+        "https://www.ratednews.com/story/mind-reading-baseball-cap-startup-sabi-raises-50-million-fro-d5cb21a3"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "dougs",
+      "candidate_ids": [
+        "001676355b2e"
+      ],
+      "company": "Dougs",
+      "website": "dougs.fr",
+      "amount_usd": 54000000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 50M converted at 1.08",
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-15",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "FR",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Online accounting firm; AI automation is a use of funds, not the core product.",
+      "description": "Profitable French online accounting company for small businesses, investing in AI automation.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "Profitable French accounting company Dougs raises €50 million to accelerate AI automation",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa3BnTDJuVlVVbndET3A2VjQ1WlZpNWZSbUVfU01ydXFYRWxtX0lnTDVVNmVXb29KeExodlN5U2d6QU8zVlhGTU9QV2xmUGFkc0NjRkdUYjdwOVVkZTRwZE9Na2RYSlVKdm1YczFqcFJSTFhpa1NhaDNwNEoyaFo0bVZxam5mVTl3RGFBVkZWT0JKa2NoSlo4eW9VZVR6YzMtcll2N1RQTTdRNkRESXhualAwUkJ3cGN0UVYxVUpFZHgxTzlD?oc=5"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "air",
+      "candidate_ids": [
+        "3ed676feeeec"
+      ],
+      "company": "AIR",
+      "website": null,
+      "amount_usd": 40000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-10-30",
+      "lead_investors": [
+        "Greenoaks"
+      ],
+      "investors": [
+        "Greenoaks"
+      ],
+      "hq_city": "Tel Aviv",
+      "hq_state": null,
+      "hq_country": "IL",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Security layer for enterprise AI agents and their add-ons.",
+      "description": "Security layer for enterprise AI agents that vets skills, plugins and MCP servers, enforces runtime policies and offers a vetted marketplace.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "Sequoia led a $10 million round and Greenoaks led a $40 million round.",
+        "round": "after raising $50 million across two seed rounds",
+        "lead": "Sequoia led a $10 million round and Greenoaks led a $40 million round.",
+        "investors": "Sequoia led a $10 million round and Greenoaks led a $40 million round."
+      },
+      "source_urls": [
+        "https://dealroom.co/news/168439-ai-agent-security-startup-air-raises-50m-seed-lands-on-fortune-cyber-60/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "air",
+      "candidate_ids": [
+        "3ed676feeeec"
+      ],
+      "company": "AIR",
+      "website": null,
+      "amount_usd": 10000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-10-30",
+      "lead_investors": [
+        "Sequoia"
+      ],
+      "investors": [
+        "Sequoia"
+      ],
+      "hq_city": "Tel Aviv",
+      "hq_state": null,
+      "hq_country": "IL",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Security layer for enterprise AI agents and their add-ons.",
+      "description": "Security layer for enterprise AI agents that vets skills, plugins and MCP servers, enforces runtime policies and offers a vetted marketplace.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "Sequoia led a $10 million round and Greenoaks led a $40 million round.",
+        "round": "after raising $50 million across two seed rounds",
+        "lead": "Sequoia led a $10 million round and Greenoaks led a $40 million round.",
+        "investors": "Sequoia led a $10 million round and Greenoaks led a $40 million round."
+      },
+      "source_urls": [
+        "https://dealroom.co/news/168439-ai-agent-security-startup-air-raises-50m-seed-lands-on-fortune-cyber-60/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "different",
+      "candidate_ids": [
+        "14efb436c8e6"
+      ],
+      "company": "Different",
+      "website": null,
+      "amount_usd": 48000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-10-20",
+      "lead_investors": [
+        "General Catalyst"
+      ],
+      "investors": [
+        "General Catalyst",
+        "Lightspeed Venture Partners"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI system that runs end-to-end B2B demand generation.",
+      "description": "AI that runs end-to-end demand generation for lean B2B marketing teams: plans campaigns, creates ads, emails and landing pages, shifts spend.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Different Emerges from Stealth with $48M for AI that Runs Demand Generation for Lean B2B Marketing Teams",
+        "round": "Different launched from stealth with a $48 million seed round led by General Catalyst, with participation from Lightspeed Venture Partners.",
+        "lead": "Different launched from stealth with a $48 million seed round led by General Catalyst, with participation from Lightspeed Venture Partners.",
+        "investors": "Different launched from stealth with a $48 million seed round led by General Catalyst, with participation from Lightspeed Venture Partners."
+      },
+      "source_urls": [
+        "https://pulse2.com/different-raises-48-million-seed-to-automate-b2b-demand-generation-with-ai/",
+        "https://dealroom.co/news/164349-different-exits-stealth-with-48m-seed-to-automate-b2b-demand-generation/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "hyphenate",
+      "candidate_ids": [
+        "b1159c9f2631",
+        "34ce44b72ae7",
+        "67f4faa90544",
+        "c8c7ec388b1c",
+        "fa14e4d211b6"
+      ],
+      "company": "Hyphenate",
+      "website": "hyphenate.ai",
+      "amount_usd": 45000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-27",
+      "lead_investors": [
+        "Nexus Venture Partners"
+      ],
+      "investors": [
+        "Nexus Venture Partners",
+        "B Capital",
+        "Foundation Capital",
+        "BoldCap",
+        "Gaia Ventures"
+      ],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Autonomous finance platform run by self-learning AI agents.",
+      "description": "Autonomous finance platform (formerly Maximor) whose self-learning agents reconcile cash, process orders, run invoicing and close the books for CFO teams.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "today announced a $45 million Series A led by Nexus Venture Partners, with participation from B Capital and existing investors including Foundation Capital, BoldCap and Gaia Ventures",
+        "round": "today announced a $45 million Series A led by Nexus Venture Partners, with participation from B Capital and existing investors including Foundation Capital, BoldCap and Gaia Ventures",
+        "lead": "today announced a $45 million Series A led by Nexus Venture Partners, with participation from B Capital and existing investors including Foundation Capital, BoldCap and Gaia Ventures",
+        "investors": "today announced a $45 million Series A led by Nexus Venture Partners, with participation from B Capital and existing investors including Foundation Capital, BoldCap and Gaia Ventures"
+      },
+      "source_urls": [
+        "https://hyphenate.ai/press/hyphenate-series-a-fundraise",
+        "https://www.forbes.com/sites/davidprosser/2026/10/27/hyphenate-raises-45-million-to-scale-its-ai-for-finance-platform/",
+        "https://dealroom.co/news/167132-maximor-raises-45m-series-a-to-build-ai-finance-agents/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "coherence",
+      "candidate_ids": [
+        "94bf8a7abbbf"
+      ],
+      "company": "Coherence Neuro",
+      "website": null,
+      "amount_usd": 45000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-23",
+      "lead_investors": [
+        "Founders Fund",
+        "OpenAI Startup Fund"
+      ],
+      "investors": [
+        "Founders Fund",
+        "OpenAI Startup Fund"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Implantable cancer-monitoring/treatment device based on electrical biomarkers; AI not described as core in sources read.",
+      "description": "Neurotech startup developing SOMA, an implantable device that monitors and treats glioblastoma using electrical biomarkers; first chronic human trial planned.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "Coherence raises USD $45 million for cancer implant",
+        "round": "Coherence Neuro cofounder Ben Woodington calls the $45 million financing a Series A, while WIRED calls it a seed round.",
+        "lead": "Coherence Neuro raised $45 million, and the round was co-led by Founders Fund and the OpenAI Startup Fund.",
+        "investors": "Coherence Neuro raised $45 million, and the round was co-led by Founders Fund and the OpenAI Startup Fund."
+      },
+      "source_urls": [
+        "https://ground.news/article/coherence-raises-usd-45-million-for-cancer-implant",
+        "https://itbrief.com.au/story/coherence-raises-usd-45-million-for-cancer-implant",
+        "https://www.mobihealthnews.com/news/coherence-neuro-raises-45m-implantable-cancer-technology"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "zenzap",
+      "candidate_ids": [
+        "fa9db3fad4fc",
+        "24f9c3e9e021",
+        "b84b2b9a0877"
+      ],
+      "company": "Zenzap",
+      "website": null,
+      "amount_usd": 44000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-14",
+      "lead_investors": [
+        "Bessemer Venture Partners",
+        "Lightspeed Venture Partners"
+      ],
+      "investors": [
+        "Bessemer Venture Partners",
+        "Lightspeed Venture Partners",
+        "The Garage"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "IL",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Collaborative workplace platform where employees and AI agents work together.",
+      "description": "Collaborative workplace platform where employees and AI agents share conversations, manage tasks and automate business processes.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "Israeli artificial intelligence startup Zenzap has emerged from stealth with $44 million in total funding, led jointly by Bessemer Venture Partners and Lightspeed Venture Partners, with participation from The Garage.",
+        "round": null,
+        "lead": "led jointly by Bessemer Venture Partners and Lightspeed Venture Partners, with participation from The Garage",
+        "investors": "led jointly by Bessemer Venture Partners and Lightspeed Venture Partners, with participation from The Garage"
+      },
+      "source_urls": [
+        "https://www.ynetnews.com/tech-and-digital/article/s111r10njgx"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "pluto security",
+      "candidate_ids": [
+        "d8cb9161d76b",
+        "1f7820e491cb",
+        "b6f06d0b2021"
+      ],
+      "company": "Pluto Security",
+      "website": null,
+      "amount_usd": 34000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-13",
+      "lead_investors": [
+        "Jump Capital"
+      ],
+      "investors": [
+        "Jump Capital",
+        "Skinos",
+        "Ansa Capital"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "IL",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Security for employee AI tool usage and AI agents in the enterprise.",
+      "description": "AI workspace security: gives enterprises context, risk analysis, visibility and control over how employees use AI tools, connectors and vibe-coded apps.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "The company recently raised a Series A of $34 million led by Jump Capital, with Skinos (Check Point co-founder Shlomo Kramer’s venture firm), Ansa Capital, and other angel investors participating.",
+        "round": "The company recently raised a Series A of $34 million led by Jump Capital, with Skinos (Check Point co-founder Shlomo Kramer’s venture firm), Ansa Capital, and other angel investors participating.",
+        "lead": "The company recently raised a Series A of $34 million led by Jump Capital, with Skinos (Check Point co-founder Shlomo Kramer’s venture firm), Ansa Capital, and other angel investors participating.",
+        "investors": "The company recently raised a Series A of $34 million led by Jump Capital, with Skinos (Check Point co-founder Shlomo Kramer’s venture firm), Ansa Capital, and other angel investors participating."
+      },
+      "source_urls": [
+        "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "pluto security",
+      "candidate_ids": [
+        "d8cb9161d76b"
+      ],
+      "company": "Pluto Security",
+      "website": null,
+      "amount_usd": 8500000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-10-13",
+      "lead_investors": [
+        "TLV Partners"
+      ],
+      "investors": [
+        "TLV Partners"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "IL",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Security for employee AI tool usage and AI agents in the enterprise.",
+      "description": "AI workspace security: gives enterprises context, risk analysis, visibility and control over how employees use AI tools, connectors and vibe-coded apps.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "Pluto’s funding spans an $8.5 million seed round led by TLV Partners, with cybersecurity firm Armis’ founders also investing.",
+        "round": "Pluto’s funding spans an $8.5 million seed round led by TLV Partners, with cybersecurity firm Armis’ founders also investing.",
+        "lead": "Pluto’s funding spans an $8.5 million seed round led by TLV Partners, with cybersecurity firm Armis’ founders also investing.",
+        "investors": "Pluto’s funding spans an $8.5 million seed round led by TLV Partners, with cybersecurity firm Armis’ founders also investing."
+      },
+      "source_urls": [
+        "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "baba",
+      "candidate_ids": [
+        "5dc6d7d735d3",
+        "b7c43753199d"
+      ],
+      "company": "Baba",
+      "website": null,
+      "amount_usd": 40000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-20",
+      "lead_investors": [
+        "FirstMark Capital"
+      ],
+      "investors": [
+        "FirstMark Capital",
+        "CVS Health Ventures",
+        "Valtruis",
+        "General Catalyst",
+        "Genius Ventures",
+        "Ground Up Ventures"
+      ],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Self-described applied AI company for Medicare patient navigation.",
+      "description": "Applied AI company providing AI-powered care navigation and advocacy for Medicare and Medicaid members, alongside clinical care teams.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Applied AI Company Baba Raises $40 Million Series A to Improve the Medicare Experience",
+        "round": "Applied AI Company Baba Raises $40 Million Series A to Improve the Medicare Experience",
+        "lead": "FirstMark Capital led the round.",
+        "investors": "CVS Health Ventures and Valtruis joined it, and General Catalyst, Genius Ventures, and Ground Up Ventures returned as investors."
+      },
+      "source_urls": [
+        "https://www.fiercehealthcare.com/finance/baba-nabs-40m-series-backed-firstmark-capital-and-cvs-health-ventures-medicare-",
+        "https://pulse2.com/baba-raises-40-million-series-a-to-expand-ai-powered-medicare-and-medicaid-care-platform/",
+        "https://hlth.com/insights/news/baba-secures-40m-to-expand-ai-powered-medicare-care-navigation-and-launches-bababench"
+      ],
+      "exclude_reason": null
+    }
+  ]
+}

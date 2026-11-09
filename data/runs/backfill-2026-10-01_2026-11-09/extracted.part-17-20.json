@@ -1,0 +1,1358 @@
+{
+  "run_date": "backfill-2026-10-01_2026-11-09",
+  "extractor": "parallel agent parts 17-20",
+  "notes": "Parts 17-20 (40 groups) processed; 33 rows emitted. Merged groups: 'melius' + 'ramp veterans' + 'ex ramp engineers' = one Melius row ($25M total = $20M Series A led by CRV + earlier $5M seed from General Catalyst; row records the $20M Series A). 'luxor' + 'bitcoin mining firm' = one Luxor Technology row. 'mogul' + 'real estate investing platform' = one Mogul row. 'rapidapi founder' + 'mickey haslavskys' = one enso row (Mickey Haslavsky is enso's founder/CEO; Forbes Israel item is the same $15M MoreTech-led Series A). Not emitted (already stored in data/rounds.json with the same amount): 'supa' (Supa £21M seed, stored as $28M on 2026-11-06). 'three aussie startups that' (part 19): the resolved URL points to the Nov 6 SmartCompany round-up (Future Secure AI, i14, Indrus) which is already stored; the Oct 2 '$18.75 million' round-up itself could not be read and no lookup was spent (Australian). No row emitted for that group. CONFLICT: Future Secure AI stored $82,000,000, SmartCompany (Nov 6) says US$80 million (AU$115.3 million); difference is small, no row re-emitted. Jedify: Ynetnews item dated 2026-10-06 but the $24M Series A press coverage (SiliconANGLE, Pulse 2.0) is dated 2026-06-10, outside the 120-day window. Row kept with the true date and exclude_reason 'not-funding' (stale re-coverage) so the parent can drop it. Basalt Health: press release dated 2026-09-24 (before the backfill window); HQ sources conflict (Nashville TN vs New York), Nashville used. Nirva: TechCrunch did not name the lead; Preqin/other outlets say co-led by Lightspeed and South Park Commons. lead_investors left empty, both listed as investors. Causa Prima: company employs people in Madrid and Munich; Munich used as HQ (Munich Startup covered its pre-seed), medium confidence. 'startup' group also contains a Business Insider item ('This startup raised $21 million to clean up the AI agent mess') which is most likely the Opsin $21M round, not Causa Prima; it was not attached to a row. Scimplify HQ (Bengaluru, IN) and Rein Security HQ (Tel Aviv, IL; also has a New York office) are from the articles' context plus general knowledge, not an explicit HQ span. Ozlo marked is_ai_ml=false (sleep earbuds, no AI claim in sources read). Navra and Mural marked true on self-described 'AI-native' / 'agentic finance' positioning with lower confidence; reviewer may disagree. Ex-OpenAI researcher group: Moneycontrol report of talks only, company unnamed; emitted with exclude_reason 'not-funding'. Several part-file 'ok' texts were wrong pages (performcarenj.org, Wikipedia Firefly, RapidAPI docs, company homepages); lookups were used instead. 25 lookups used (all WebSearch).",
+  "rows": [
+    {
+      "website": "mave.security",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Red Dot Capital Partners"
+      ],
+      "investors": [
+        "Red Dot Capital Partners",
+        "Lumir Growth Partners"
+      ],
+      "hq_city": "Tel Aviv",
+      "hq_state": null,
+      "hq_country": "IL",
+      "exclude_reason": null,
+      "group_key": "mave",
+      "candidate_ids": [
+        "7f101283721e",
+        "2e02a2a28f19",
+        "6106fdf4c850"
+      ],
+      "company": "Mave",
+      "amount_usd": 28000000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-22",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Agentic AI platform that investigates security alerts across existing tools.",
+      "description": "Agentic SecOps platform whose AI investigates alerts across a company's existing security tools without centralizing data.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "Mave Raises $28M Series A, Bringing Total Funding to $34M for Agentic SecOps",
+        "round": "$28 million Series A",
+        "lead": "Red Dot Capital Partners led Mave's $28 million Series A",
+        "investors": "Lumir Growth Partners also took part in the round"
+      },
+      "source_urls": [
+        "https://pulse2.com/mave-raises-34-million-including-28-million-series-a-to-expand-ai-powered-security-operations/",
+        "https://www.prnewswire.com/il/news-releases/mave-raises-34-million-to-build-the-agentic-secops-system-for-the-modern-enterprise-302916859.html",
+        "https://www.calcalistech.com/ctechnews/article/h1sq8ip2mx"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": "EUR 28M converted at 1.08 (article says 'over €28 million')",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Lisbon",
+      "hq_state": null,
+      "hq_country": "PT",
+      "exclude_reason": null,
+      "group_key": "lisbons beyond vision",
+      "candidate_ids": [
+        "9d0d28a5bc2c"
+      ],
+      "company": "Beyond Vision",
+      "amount_usd": 30240000,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-22",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI drones for civilian and defence markets.",
+      "description": "Lisbon-based maker of AI-powered drones for civilian and defence markets.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "raises over €28 million",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUEVNZURMb2ROeks2MFZQaXJ1dHJQVVZmeE9ucWdKYnhCX2NaQlMwVEY0d2VPbllmYlpjZmlxXzUwSTJyLWhkVU1tNUxGektXMDVwOWI1RmxjWFQtUlBBM3lLQnNGNHNrdXdRUEhVWlVVZkl4V2dIb1d0XzZyUFhqMnZwZnZtZHJMMTBkdHFNMFp4U0ZVOUtoRUl2SzJ3dExNSWNBTGhibEJvLTRmdHlGZDhrWjYwQ1pwYkd4UVBaR2tGc05LdmVXYjNNcWxTZEU?oc=5"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Rally Ventures",
+        "Skyward Group"
+      ],
+      "investors": [
+        "Rally Ventures",
+        "Skyward Group",
+        "Jim Hays"
+      ],
+      "hq_city": "Minneapolis",
+      "hq_state": "MN",
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "slingshot insurance",
+      "candidate_ids": [
+        "5a9065ae9328",
+        "df18d0707e5f"
+      ],
+      "company": "Slingshot Insurance",
+      "amount_usd": 27000000,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-10-22",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Self-described AI-native embedded insurance infrastructure.",
+      "description": "AI-native embedded insurance startup connecting vertical SaaS businesses with insurers to offer small policies at checkout.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "emerging from stealth with $27 million in seed funding",
+        "round": "$27 million in seed funding",
+        "lead": "Rally Ventures and Skyward Group co-led the round",
+        "investors": "Rally Ventures and Skyward Group co-led the round, with participation from insurance industry veterans including Jim Hays"
+      },
+      "source_urls": [
+        "https://news.dropstab.com/aggregator/vmeid7uo-exclusive-slingshot-raises-usd27m-in-seed-funding-to-build-an-insurer-for-those-small-policies-sold",
+        "https://www.tmcnet.com/usubmit/2026/10/22/10468301.htm"
+      ]
+    },
+    {
+      "website": "whitelabgx.com",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "AVP"
+      ],
+      "investors": [
+        "AVP",
+        "Omnes Capital",
+        "Yaday Health",
+        "Blast Club",
+        "Debiopharm Innovation Fund"
+      ],
+      "hq_city": "Paris",
+      "hq_state": null,
+      "hq_country": "FR",
+      "exclude_reason": null,
+      "group_key": "whitelab genomics",
+      "candidate_ids": [
+        "d0345ab7cb70",
+        "90251e7d4785"
+      ],
+      "company": "WhiteLab Genomics",
+      "amount_usd": 26000000,
+      "round_type": "Series B",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-05",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Alfred platform uses AI to design genomic medicine delivery vehicles and payloads.",
+      "description": "AI platform (Alfred) that designs viral and non-viral delivery vehicles and genetic payloads for genomic medicines, partnering with pharma.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "has raised a $26 million Series B led by AVP",
+        "round": "$26 million Series B",
+        "lead": "Series B led by AVP",
+        "investors": "Omnes Capital Dealroom has a profile for this one. Try Dealroom → , Yaday Health, Blast Club Dealroom has a profile for this one. Try Dealroom → , and Debiopharm Innovation Fund"
+      },
+      "source_urls": [
+        "https://dealroom.co/news/160078-whitelab-genomics-raises-26m-series-b-to-design-genomic-medicines-with-a/"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Glilot Capital",
+        "Sienna Venture Capital"
+      ],
+      "investors": [
+        "Glilot Capital",
+        "Sienna Venture Capital",
+        "Corner Ventures",
+        "Atlacle",
+        "RNP Capital Advisors"
+      ],
+      "hq_city": "Tel Aviv",
+      "hq_state": null,
+      "hq_country": "IL",
+      "exclude_reason": null,
+      "group_key": "rein security",
+      "candidate_ids": [
+        "a56bcba8dd5c"
+      ],
+      "company": "Rein Security",
+      "amount_usd": 25000000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-08",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Security platform for controlling enterprise AI agents.",
+      "description": "Security platform that lets companies control and protect the AI agents they deploy across business systems.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "Rein Security has raised $25 million in a Series A funding round",
+        "round": "Series A funding round",
+        "lead": "The round was co-led by Glilot Capital and Sienna Venture Capital",
+        "investors": "co-led by Glilot Capital and Sienna Venture Capital, with participation from Corner Ventures, Atlacle and RNP Capital Advisors"
+      },
+      "source_urls": [
+        "https://newsscore.com/story/195165"
+      ]
+    },
+    {
+      "website": "melius.com",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "CRV"
+      ],
+      "investors": [
+        "CRV",
+        "General Catalyst",
+        "Genius Ventures",
+        "Vine Ventures",
+        "Anti Fund"
+      ],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "melius",
+      "candidate_ids": [
+        "1539e585a044",
+        "c6199adbb4c3",
+        "0a04845de599"
+      ],
+      "company": "Melius",
+      "amount_usd": 20000000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-06",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Agents lab: teams of AI agents produce ad creative assets.",
+      "description": "Agents lab for creative work: AI agents generate ad campaigns, images and video for creative and marketing teams.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "a $20 million Series A led by CRV and a $5 million seed round from General Catalyst",
+        "round": "$20 million Series A led by CRV",
+        "lead": "$20 million Series A led by CRV",
+        "investors": "$5 million in seed funding led by General Catalyst, and $20 million Series A led by CRV. Genius Ventures, Vine Ventures, and Anti Fund also participated"
+      },
+      "source_urls": [
+        "https://discernion.com/article/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first",
+        "https://pulse2.com/melius-raises-25-million-to-expand-ai-agents-lab-for-creative-work/",
+        "https://techcrunch.com/?p=3174722"
+      ]
+    },
+    {
+      "website": "scimplify.com",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Bengaluru",
+      "hq_state": null,
+      "hq_country": "IN",
+      "exclude_reason": null,
+      "group_key": "scimplify",
+      "candidate_ids": [
+        "57e22be31e17",
+        "d4e87dc4b45e"
+      ],
+      "company": "Scimplify",
+      "amount_usd": 25000000,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-14",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI-led discovery and manufacturing of specialty chemicals and critical materials.",
+      "description": "AI-led specialty chemicals and critical materials company that discovers molecules, develops processes and manufactures at scale.",
+      "confidence": 0.55,
+      "evidence": {
+        "amount": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.scimplify.com/",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQanhSMlJUVEt6SmFJNVo2VEYzNV9DUW15Z1MxejFyZVhnNGRIY1dlTVBUWkJ1RDVDeFVLQTg4X3owVGZ4M0E5elNKR2hWZF9VZXYxdC1qd2tpaFRFRUJSV2xnTUpCazBRRktkSjVPS3k3QTRTaURMUGlySUtRdmF6SUsxak9mMlZYZnVFLTZ6anpjOUVoMmQxMXpKdw?oc=5"
+      ]
+    },
+    {
+      "website": "qualitate.io",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Insight Partners"
+      ],
+      "investors": [
+        "Insight Partners",
+        "IA Ventures",
+        "Crew Capital"
+      ],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "qualitate",
+      "candidate_ids": [
+        "bae6aa124e4c"
+      ],
+      "company": "Qualitate",
+      "amount_usd": 25000000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-20",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI-native continuous intelligence system with AI-moderated expert interviews.",
+      "description": "AI-native continuous intelligence system for primary research, combining expert evidence, research agents and AI-moderated interviews.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "Qualitate Raises $25 Million Series A Led by Insight Partners",
+        "round": "$25 Million Series A",
+        "lead": "Series A Led by Insight Partners",
+        "investors": "The round also included participation from existing investors IA Ventures and Crew Capital"
+      },
+      "source_urls": [
+        "https://www.qualitate.io/",
+        "https://pulse2.com/qualitate-raises-25-million-series-a-led-by-insight-partners-for-continuous-primary-research-ai/"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [
+        "Lightspeed Venture Partners",
+        "South Park Commons"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "nirva",
+      "candidate_ids": [
+        "5b3342b092dd"
+      ],
+      "company": "Nirva",
+      "amount_usd": 25000000,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-22",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI pendant that models the wearer's speech and surfaces personal insights.",
+      "description": "Wearable AI pendant that listens only to its wearer and a companion app that turns speech into personal insights and reminders.",
+      "confidence": 0.65,
+      "evidence": {
+        "amount": "announced a new $25 million pre-Series A round",
+        "round": "pre-Series A round",
+        "lead": null,
+        "investors": "Preqin describes the round as co-led by South Park Commons and Lightspeed Venture Partners"
+      },
+      "source_urls": [
+        "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+        "https://www.preqin.com/data/profile/asset/nirva/812541"
+      ]
+    },
+    {
+      "website": "jedify.ai",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Norwest"
+      ],
+      "investors": [
+        "Norwest",
+        "Snowflake Ventures",
+        "S Capital VC",
+        "Cerca Partners",
+        "Oceans Ventures"
+      ],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "exclude_reason": "not-funding",
+      "group_key": "jedify",
+      "candidate_ids": [
+        "e42c2f9024f0"
+      ],
+      "company": "Jedify",
+      "amount_usd": 24000000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-06-10",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Context graphs that give enterprise AI agents business knowledge.",
+      "description": "Builds context graphs that give enterprise AI agents the business knowledge they need to operate accurately in production.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "Jedify raised $24 million in Series A funding led by Norwest",
+        "round": "Series A funding led by Norwest",
+        "lead": "Series A funding led by Norwest",
+        "investors": "Jedify raised $24 million in Series A funding led by Norwest, with a strategic investment from Snowflake Ventures. Existing backers S Capital VC and Cerca Partners took part, and Oceans Ventures joined as a new investor"
+      },
+      "source_urls": [
+        "https://www.ynetnews.com/business/article/sjw944pbfe",
+        "https://siliconangle.com/2026/06/10/jedify-raises-24m-give-enterprise-ai-agents-business-context-lack/",
+        "https://pulse2.com/jedify-raises-24-million-series-a-to-build-context-graphs-for-enterprise-ai-agents/amp/"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": "EUR 22M converted at 1.08",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Paris",
+      "hq_state": null,
+      "hq_country": "FR",
+      "exclude_reason": null,
+      "group_key": "frances rivercell",
+      "candidate_ids": [
+        "98d2f0748eb7",
+        "75614e59ee71"
+      ],
+      "company": "Rivercell",
+      "amount_usd": 23760000,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-10-07",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI virtual cell for drug discovery infrastructure.",
+      "description": "Paris-based startup building an AI virtual cell as infrastructure for AI-powered drug discovery.",
+      "confidence": 0.65,
+      "evidence": {
+        "amount": "emerges from stealth with €22 million",
+        "round": "Rivercell raises €22M seed",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.konsulteer.com/article/paris-based-rivercell-emerges-from-stealth-with-22m-seed-to-build-an-ai-virtual-cell"
+      ]
+    },
+    {
+      "website": "ozlosleep.com",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Modi Ventures"
+      ],
+      "investors": [
+        "Modi Ventures"
+      ],
+      "hq_city": "Boston",
+      "hq_state": "MA",
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "ozlo",
+      "candidate_ids": [
+        "4cdc21f83c10"
+      ],
+      "company": "Ozlo",
+      "amount_usd": 22000000,
+      "round_type": "Series B",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-29",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Consumer sleep earbuds and sleep-health hardware; no AI-native claim in the sources read.",
+      "description": "Boston-based maker of Sleepbuds sleep earbuds, expanding into broader sleep and nighttime health products.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "Ozlo Raises $22 Million Series B Led by Modi Ventures",
+        "round": "$22 Million Series B",
+        "lead": "Series B Led by Modi Ventures",
+        "investors": "Series B funding led by Modi Ventures"
+      },
+      "source_urls": [
+        "https://www.citybiz.co/?p=926295",
+        "https://insider.fitt.co/ozlo-raises-22m-to-advance-sleep-tech/"
+      ]
+    },
+    {
+      "website": "opsinsecurity.com",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "SYN Ventures",
+        "Race Capital"
+      ],
+      "investors": [
+        "SYN Ventures",
+        "Race Capital"
+      ],
+      "hq_city": "San Jose",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "opsin",
+      "candidate_ids": [
+        "286d817eb519",
+        "e0b944558857"
+      ],
+      "company": "Opsin",
+      "amount_usd": 21000000,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-15",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI agent governance and security platform.",
+      "description": "AI agent governance and security platform giving security teams visibility and control over agents built on Copilot, ChatGPT, Claude and Gemini.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "Opsin Raises $21M Led by SYN Ventures and Race Capital to Expand AI Agent Security Platform",
+        "round": null,
+        "lead": "Led by SYN Ventures and Race Capital",
+        "investors": "raised $21 million led by SYN Ventures and Race Capital"
+      },
+      "source_urls": [
+        "https://www.opsinsecurity.com/",
+        "https://pulse2.com/opsin-raises-21-million-led-by-syn-ventures-and-race-capital-for-ai-agent-security/",
+        "https://newswire.com/news/opsin-raises-21m-to-keep-ai-agents-on-task-and-out-of-trouble"
+      ]
+    },
+    {
+      "website": "auxoai.com",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "NTTVC"
+      ],
+      "investors": [
+        "NTTVC",
+        "George Still Jr.",
+        "Amit Zavery",
+        "Giacomo Sonnino"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "auxoai",
+      "candidate_ids": [
+        "8887bb99569a",
+        "861c70eaf8c2",
+        "811d6b7e1e1c"
+      ],
+      "company": "AuxoAI",
+      "amount_usd": 20700000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-20",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Forward-deployed enterprise AI deployment company.",
+      "description": "Forward-deployed AI company that embeds AI teams inside enterprises to deliver Gemini- and AWS-based AI transformations.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "AuxoAI Raises $20.7M Series A Led by NTTVC",
+        "round": "$20.7M Series A",
+        "lead": "Series A Led by NTTVC",
+        "investors": "Other investors named include George Still Jr., Amit Zavery, Giacomo Sonnino"
+      },
+      "source_urls": [
+        "https://www.citybiz.co/?p=922695",
+        "https://inc42.com/buzz/enterprise-ai-startup-auxoai-nets-20-7m-to-strengthen-its-fde-team/",
+        "https://theaiinsider.tech/2026/10/22/auxoai-secures-20-7m-series-a-to-scale-the-forward-deployed-ai-company/"
+      ]
+    },
+    {
+      "website": "procuros.io",
+      "amount_disclosed": true,
+      "currency_note": "EUR 20M converted at 1.08",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Hamburg",
+      "hq_state": null,
+      "hq_country": "DE",
+      "exclude_reason": null,
+      "group_key": "hamburgs procuros",
+      "candidate_ids": [
+        "72c8b83e22b1",
+        "b234979cbc1a"
+      ],
+      "company": "Procuros",
+      "amount_usd": 21600000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-06",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI-native infrastructure for autonomous B2B trade.",
+      "description": "Hamburg-based startup building AI-native infrastructure for autonomous B2B trade between trading partners.",
+      "confidence": 0.65,
+      "evidence": {
+        "amount": "raises €20 million Series A",
+        "round": "€20 million Series A",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNmxLXy1iRURxX0pMcU1QR053Y0lPTGNvdk9sN0RGVkItYUhOc2ZhRm93VVI1blRicmlGSnJwOEtkc09SeUhRUEQ0aVpmVWdHTFJaekJxSlAtdzdXMW1Ya015U1hiVU41Q3U2UHF2YU15ZDl4Ylp3NlVHclJDdDlvbkJOYW1SV3FiRm1SZklmTkk3eU4tTjNWdDhVRGt1UVBRdWdtOVU1LWloMVV5aVpISzJwdnBJN2NjY1pwWDNCYlZNbFdoTTEtWGtUYkhYYy1DSE03dWlSZ1A?oc=5"
+      ]
+    },
+    {
+      "website": "onebyzero.ai",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Jungle Ventures"
+      ],
+      "investors": [
+        "Jungle Ventures"
+      ],
+      "hq_city": "Singapore",
+      "hq_state": null,
+      "hq_country": "SG",
+      "exclude_reason": null,
+      "group_key": "onebyzero",
+      "candidate_ids": [
+        "30e45fa3fbb9"
+      ],
+      "company": "OneByZero",
+      "amount_usd": 20000000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-05",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Enterprise AI deployment company with its NEO platform.",
+      "description": "Singapore-based AI deployment company that implements enterprise AI across Asia Pacific via its NEO platform.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "OneByZero Raises $20 Million Series A Led By Jungle Ventures",
+        "round": "$20 Million Series A",
+        "lead": "Series A Led By Jungle Ventures",
+        "investors": "Series A Led By Jungle Ventures"
+      },
+      "source_urls": [
+        "https://pulse2.com/onebyzero-raises-20-million-series-a-led-by-jungle-ventures/",
+        "https://www.dealstreetasia.com/?p=497083"
+      ]
+    },
+    {
+      "website": "basalthealth.com",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "NEA"
+      ],
+      "investors": [
+        "NEA",
+        "Frist Cressey Ventures",
+        "25m Health"
+      ],
+      "hq_city": "Nashville",
+      "hq_state": "TN",
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "basalt health",
+      "candidate_ids": [
+        "dc2619ce8b94"
+      ],
+      "company": "Basalt Health",
+      "amount_usd": 20000000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-09-24",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI platform that processes post-acute care referrals and admissions.",
+      "description": "AI platform that processes post-acute care referrals arriving by fax, portal or EMR and checks patients against facility clinical criteria.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "Basalt Health Raises $20 Million Series A Led By NEA",
+        "round": "$20 Million Series A",
+        "lead": "Series A Led By NEA",
+        "investors": "The round also included existing investors Frist Cressey Ventures and 25m Health"
+      },
+      "source_urls": [
+        "https://pulse2.com/basalt-health-raises-20-million-series-a-led-by-nea/",
+        "https://hitconsultant.net/2026/09/24/basalt-health-raises-20m-series-a-nea-post-acute-admissions-lifepoint-scionhealth/",
+        "https://www.mobihealthnews.com/news/basalt-health-raises-20m-speed-post-acute-admissions"
+      ]
+    },
+    {
+      "website": "causaprima.com",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Base10 Partners"
+      ],
+      "investors": [
+        "Base10 Partners",
+        "QED Investors",
+        "FJ Labs"
+      ],
+      "hq_city": "Munich",
+      "hq_state": null,
+      "hq_country": "DE",
+      "exclude_reason": null,
+      "group_key": "startup",
+      "candidate_ids": [
+        "afa01d53e753",
+        "735ff171e297"
+      ],
+      "company": "Causa Prima",
+      "amount_usd": 20000000,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-10-13",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI agents that resolve B2B billing disputes and negotiate payments.",
+      "description": "AI agents representing buyers and suppliers that resolve B2B billing disputes and negotiate early payments between companies.",
+      "confidence": 0.65,
+      "evidence": {
+        "amount": "Startup Causa Prima raises $20 million to tackle billing disputes with AI agents",
+        "round": "closed a $20 million seed round led by Base10 Partners",
+        "lead": "seed round led by Base10 Partners",
+        "investors": "closed a $20 million seed round led by Base10 Partners, reaching $30 million in total funding. QED Investors and FJ Labs also joined as new investors"
+      },
+      "source_urls": [
+        "https://fortune.com/2026/10/13/startup-causa-prima-20-million-billing-disputes-ai-agents/",
+        "https://tech.eu/2026/10/13/causa-prima-lands-20m-seed-just-three-months-after-pre-seed/",
+        "https://computebulletin.com/story/1501/startup-causa-prima-raises-20-million-to-tackle-billing-disputes-with-ai-agents"
+      ]
+    },
+    {
+      "website": "altadaily.com",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Forerunner"
+      ],
+      "investors": [
+        "Forerunner",
+        "Menlo Ventures",
+        "Aglaé Ventures",
+        "Benchstrength",
+        "Meredith Koop",
+        "Paris Johnson Jr.",
+        "Rylee Martell",
+        "Karlie Kloss",
+        "Nico Rosberg"
+      ],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "alta",
+      "candidate_ids": [
+        "332db0f39b05",
+        "1d2ab692f8bc"
+      ],
+      "company": "Alta",
+      "amount_usd": 20000000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-22",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Trained 12 in-house AI models for fashion styling and avatars.",
+      "description": "AI styling app and B2B fashion AI service (outfits, avatars) with 12 in-house models, powering features inside Rent the Runway.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "has raised a $20 million Series A led by Forerunner",
+        "round": "$20 million Series A",
+        "lead": "Series A led by Forerunner",
+        "investors": "Menlo Ventures and Aglaé Ventures Dealroom has a profile for this one. Try Dealroom → , the Arnault family firm behind LVMH , returned as investors. Angels include stylist Meredith Koop, NFL player Paris Johnson Jr., Rylee Martell, and Karlie Kloss. Other participants include returning investors Menlo Ventures, Aglaé Ventures, and Benchstrength, plus angel investors such as Nico Rosberg"
+      },
+      "source_urls": [
+        "https://dealroom.co/news/165146-alta-raises-20m-series-a-to-power-ai-across-fashion/",
+        "https://fortune.com/2026/10/22/alta-ai-fashion-app-series-a-20-million-forerunner-rent-the-runway/",
+        "https://traded.co/vc/deal/alta-secures-20-million-in-series-a-funding-led-by-forerunner-ventures/"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Definition Capital"
+      ],
+      "investors": [
+        "Definition Capital",
+        "BoxGroup",
+        "Susa Ventures"
+      ],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "firefly",
+      "candidate_ids": [
+        "8cb7f3460fc7",
+        "5c543e8c181d"
+      ],
+      "company": "Firefly",
+      "amount_usd": 20000000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-20",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Physical AI safety platform combining hardware, AI software and existing sensors.",
+      "description": "Physical AI safety platform that combines purpose-built hardware, AI software and existing cameras, radios and sensors for workplace safety.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "Firefly Raises $20 Million Series A Led By Definition Capital To Build Physical AI Safety Platform",
+        "round": "$20 Million Series A",
+        "lead": "Series A Led By Definition Capital",
+        "investors": "a $20 million Series A led by Definition Capital, with BoxGroup and Susa Ventures also participating"
+      },
+      "source_urls": [
+        "https://pulse2.com/firefly-raises-20-million-series-a/",
+        "https://www.securitysystemsnews.com/article/firefly-raises-20-million-to-expand-ai-powered-safety-platform",
+        "https://www.citybiz.co/?p=921381"
+      ]
+    },
+    {
+      "website": "superme.ai",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Forerunner Ventures"
+      ],
+      "investors": [
+        "Forerunner Ventures",
+        "Greylock Partners"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "superme",
+      "candidate_ids": [
+        "bd8aab8cdb68"
+      ],
+      "company": "SuperMe",
+      "amount_usd": 20000000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-29",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI-native professional network of AI expert profiles.",
+      "description": "AI-native professional network that builds AI profiles from real experts' knowledge and lets users query them individually or in group chats.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "SuperMe raises $20M for its network of AI expert profiles",
+        "round": "the $20 million Series A was led by Forerunner Ventures partner Kirsten Green",
+        "lead": "led by Forerunner Ventures partner Kirsten Green, with Greylock Partners also participating",
+        "investors": "led by Forerunner Ventures partner Kirsten Green, with Greylock Partners also participating"
+      },
+      "source_urls": [
+        "https://www.superme.ai/superme",
+        "https://techcrunch.com/?p=3183042",
+        "https://www.forerunnerventures.com/explore/forerunner-ventures-superme"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Ribbit"
+      ],
+      "investors": [
+        "Ribbit",
+        "Baseline",
+        "DCM",
+        "Jump Crypto",
+        "Figure Technology Solutions"
+      ],
+      "hq_city": "Las Vegas",
+      "hq_state": "NV",
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "mike cagneys navra",
+      "candidate_ids": [
+        "1104d07df4d5"
+      ],
+      "company": "Navra",
+      "amount_usd": 19000000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-06",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Self-described AI-native blockchain access platform; AI is positioning, core is blockchain finance access.",
+      "description": "AI-native blockchain access platform bridging traditional finance onto blockchain, founded by SoFi and Figure co-founder Mike Cagney.",
+      "confidence": 0.65,
+      "evidence": {
+        "amount": "Mike Cagney's Navra Raises $19 Million Series A Led by Ribbit",
+        "round": "$19 Million Series A",
+        "lead": "Series A Led by Ribbit",
+        "investors": "Lead Investor: Ribbit Additional Investors: Baseline, DCM, Jump Crypto, Figure Technology Solutions"
+      },
+      "source_urls": [
+        "https://www.advfn.com/stock-market/stock-news/99444247/mike-cagneys-navra-raises-19-million-series-a-led",
+        "https://cryptobriefing.com/navra-raises-19m-series-a-ribbit-capital/",
+        "https://cryptorank.io/insights/deals/navra-series-a-2026-10-06"
+      ]
+    },
+    {
+      "website": "siena.cx",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "York IE"
+      ],
+      "investors": [
+        "York IE",
+        "Joyance Ventures",
+        "Aglaé Ventures",
+        "Sierra Ventures"
+      ],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "siena",
+      "candidate_ids": [
+        "78e0174edb66",
+        "29fdb9c226bd"
+      ],
+      "company": "Siena",
+      "amount_usd": 17000000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-06",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI agents (Agent of Record) for consumer brands' customer interactions.",
+      "description": "Agent of Record platform: AI agents and a shared intelligence layer handling support, shopping, social, voice and retention for consumer brands.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "Siena Raises $17M Series A to Expand Its Agent of Record Platform for Consumer Brands",
+        "round": "$17M Series A",
+        "lead": "a $17 million Series A led by York IE",
+        "investors": "Joyance Ventures and existing investors Aglaé Ventures and Sierra Ventures also participated"
+      },
+      "source_urls": [
+        "https://www.morningstar.com/news/business-wire/20261006840248/siena-raises-17m-series-a-to-expand-its-agent-of-record-platform-for-consumer-brands",
+        "https://pulse2.com/siena-raises-17-million-series-a-bringing-total-funding-to-29-7-million/",
+        "https://thenextweb.com/news/siena-17m-series-a-york-ie-ai-agents"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "OlivTree"
+      ],
+      "investors": [
+        "OlivTree",
+        "Seth Merrin",
+        "David Phelps"
+      ],
+      "hq_city": "Tel Aviv",
+      "hq_state": null,
+      "hq_country": "IL",
+      "exclude_reason": null,
+      "group_key": "modelyo",
+      "candidate_ids": [
+        "a3f91cfaa091"
+      ],
+      "company": "Modelyo",
+      "amount_usd": 17000000,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-22",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Confidential cloud that keeps data encrypted while AI and agents process it.",
+      "description": "Sovereign Confidential Cloud that keeps customer data encrypted during cloud and AI processing while the customer holds the keys.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "Modelyo raises $17 million to let companies use AI without exposing their secrets",
+        "round": null,
+        "lead": "The round was led by OlivTree",
+        "investors": "Seth Merrin, David Phelps and other investors also participated"
+      },
+      "source_urls": [
+        "https://www.calcalistech.com/ctechnews/article/rju100ow2ml",
+        "https://israelhayom.com/2026/10/22/modelyo-raises-approximately-17-million-to-secure-next-generation-of-cloud-ai/"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Andreessen Horowitz"
+      ],
+      "investors": [
+        "Andreessen Horowitz",
+        "SV Angel",
+        "XYZ",
+        "Zigg Capital"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "dream",
+      "candidate_ids": [
+        "a3a6fa1cdefb",
+        "aa74121c166a",
+        "226b655d8e1e"
+      ],
+      "company": "Dream",
+      "amount_usd": 17000000,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-10-29",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Built world models: AI that automates architecture, engineering and construction design.",
+      "description": "Builds 'built world models', AI trained on permitted US buildings to automate architecture, engineering and construction design.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "Dream Raises $17 Million in Seed Funding for Building Design AI",
+        "round": "$17 Million in Seed Funding",
+        "lead": "The round was led by Andreessen Horowitz (a16z)",
+        "investors": "SV Angel, XYZ, and Zigg Capital also invested"
+      },
+      "source_urls": [
+        "https://www.citybiz.co/article/926733/dream-raises-17-million-in-seed-funding-for-building-design-ai/",
+        "https://www.morningstar.com/news/business-wire/20261029712156/dream-raises-17m-in-seed-to-teach-ai-how-to-understand-and-build-the-physical-world",
+        "https://pulse2.com/dream-raises-17-million-seed-funding-for-ai-built-world-models/"
+      ]
+    },
+    {
+      "website": "ravical.com",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "MMC Ventures"
+      ],
+      "investors": [
+        "MMC Ventures",
+        "Lakestar",
+        "Pitchdrive",
+        "Shapers"
+      ],
+      "hq_city": "Ghent",
+      "hq_state": null,
+      "hq_country": "BE",
+      "exclude_reason": null,
+      "group_key": "ravical",
+      "candidate_ids": [
+        "d4dd29ba7c08"
+      ],
+      "company": "Ravical",
+      "amount_usd": 17000000,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-10-29",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Shared AI workflows for accounting and tax firms.",
+      "description": "Platform that turns an accounting or tax firm's expertise into shared AI workflows across its client base.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Ravical Raises $17M Seed to Scale Accounting Expertise With AI",
+        "round": "$17M Seed",
+        "lead": "raised a $17M seed round led by MMC Ventures",
+        "investors": "Lakestar and Pitchdrive, which were already investors, took part, and Shapers joined as a new investor"
+      },
+      "source_urls": [
+        "https://tech.eu/2026/10/29/ravical-raises-17m-to-break-the-link-between-accounting-firms-growth-and-hiring/",
+        "https://thenextweb.com/news/ravical-17m-seed-ai-accounting"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Andreessen Horowitz"
+      ],
+      "investors": [
+        "Andreessen Horowitz",
+        "SignalFire",
+        "South Park Commons",
+        "Scale Angel Group",
+        "Fei-Fei Li",
+        "Ian Goodfellow",
+        "Julian Schrittwieser"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "preference model",
+      "candidate_ids": [
+        "4a135e1dd40e"
+      ],
+      "company": "Preference Model",
+      "amount_usd": 16000000,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-10-07",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Builds reinforcement learning environments for frontier AI labs.",
+      "description": "Builds robust reinforcement learning environments for frontier AI labs and open-sourced Karotte, its RL environment framework.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "Preference Model raised $16 million in seed funding led by Andreessen Horowitz",
+        "round": "$16 million in seed funding",
+        "lead": "seed funding led by Andreessen Horowitz",
+        "investors": "led by Andreessen Horowitz, with participation from SignalFire, South Park Commons, Scale Angel Group, and researchers including Fei-Fei Li, Ian Goodfellow, and Julian Schrittwieser"
+      },
+      "source_urls": [
+        "https://pulse2.com/preference-model-raises-16-million-seed-round-led-by-andreessen-horowitz/",
+        "https://www.wsgr.com/print/v2/content/49078022/Wilson-Sonsini-Advises-Preference-Model-on-$16-Million-Seed-Funding-as-it-Emerges-from-Stealth.pdf"
+      ]
+    },
+    {
+      "website": "luxor.tech",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "CMT Digital"
+      ],
+      "investors": [
+        "CMT Digital",
+        "Canaan",
+        "MicroBT",
+        "Halo",
+        "Steelhead"
+      ],
+      "hq_city": "Seattle",
+      "hq_state": "WA",
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "luxor",
+      "candidate_ids": [
+        "1256cf37f957",
+        "24e0b2620863",
+        "9e581132cefe"
+      ],
+      "company": "Luxor Technology",
+      "amount_usd": 16000000,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-27",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI compute infrastructure: agentic cloud, AI hardware brokerage and compute derivatives.",
+      "description": "Bitcoin-mining infrastructure company expanding into AI compute: agentic cloud platform, GPU/AI hardware brokerage, energy and compute derivatives.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "Luxor Technology has raised $16 million in strategic financing led by CMT Digital",
+        "round": "strategic financing",
+        "lead": "strategic financing led by CMT Digital",
+        "investors": "Canaan, MicroBT, Halo, Steelhead, and additional angel investors participated in the round"
+      },
+      "source_urls": [
+        "https://pulse2.com/luxor-technology-raises-16-million-strategic-round-led-by-cmt-digital/",
+        "https://news.bitcoin.com/crypto-news/bitcoin-mining-firm-luxor-raises-16-million-accelerate-ai-expansion/"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Nava Ventures"
+      ],
+      "investors": [
+        "Nava Ventures",
+        "Gradient Ventures",
+        "Transpose Platform",
+        "Mustafa Suleyman"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "plato",
+      "candidate_ids": [
+        "a9f415deb951",
+        "ba22cba57f9d"
+      ],
+      "company": "Plato",
+      "amount_usd": 16000000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-28",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Simulated workplaces for training AI agents.",
+      "description": "Builds simulated workplace environments where AI agents practice real jobs such as customer support, people ops, finance and healthcare admin.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "Plato Raises $16 Million Series A Led By Nava Ventures For AI Training Simulations",
+        "round": "$16 Million Series A",
+        "lead": "Series A Led By Nava Ventures",
+        "investors": "Gradient Ventures and Transpose Platform participated, along with Microsoft AI CEO Mustafa Suleyman"
+      },
+      "source_urls": [
+        "https://www.axios.com/pro/enterprise-software-deals/2026/10/28/workplace-simulation-plato-16-million-nava",
+        "https://pulse2.com/plato-raises-16-million-series-a-led-by-nava-ventures-for-ai-training-simulations/"
+      ]
+    },
+    {
+      "website": "mogul.club",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Draper Associates"
+      ],
+      "investors": [
+        "Draper Associates",
+        "Draper Dragon",
+        "Avalanche Blizzard Fund",
+        "LAUNCH",
+        "Venture Togethers",
+        "Gaingels"
+      ],
+      "hq_city": "Washington",
+      "hq_state": "DC",
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "mogul",
+      "candidate_ids": [
+        "f0c6b9ac69c6",
+        "59035f70b174",
+        "39f165c1e8d9",
+        "9f517b3df318"
+      ],
+      "company": "Mogul",
+      "amount_usd": 15500000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-13",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Self-described AI-powered real estate investing platform.",
+      "description": "AI-powered real estate investing platform enabling fractional investment and portfolio management at scale.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "Mogul has raised an oversubscribed $15.5 million Series A funding round led by Draper Associates",
+        "round": "$15.5 million Series A",
+        "lead": "Series A funding round led by Draper Associates",
+        "investors": "Investors Draper Associates Draper Dragon Avalanche Blizzard Fund LAUNCH Venture Togethers Gaingels"
+      },
+      "source_urls": [
+        "https://streetzero.com/deals/mogul-technologies-inc-37137e",
+        "https://www.crowdfundinsider.com/2026/10/316182-real-estate-investing-platform-mogul-raises-15-5-million-led-by-draper-associatesreal-estate-investing-platform-mogul-raises-15-5-million-in-round-led-by-draper-associates/feed/"
+      ]
+    },
+    {
+      "website": "enso.bot",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "MoreTech Ventures"
+      ],
+      "investors": [
+        "MoreTech Ventures",
+        "NFX",
+        "Phenomen VC",
+        "Gil Hirsch"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "IL",
+      "exclude_reason": null,
+      "group_key": "rapidapi founder",
+      "candidate_ids": [
+        "2cd49367de39",
+        "38f92d1fa2ed"
+      ],
+      "company": "enso",
+      "amount_usd": 15000000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-01",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI agent systems for marketing and sales (agentic growth hacking).",
+      "description": "AI agent systems for marketing and sales that help companies get discovered across search, social and AI platforms like ChatGPT.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "RapidAPI co-founder raises $15 million for AI marketing startup enso",
+        "round": "raised $15 million in a Series A round led by MoreTech Ventures",
+        "lead": "Series A round led by MoreTech Ventures",
+        "investors": "a $15 million Series A led by MoreTech Ventures, with NFX, Phenomen VC, and Gil Hirsch participating"
+      },
+      "source_urls": [
+        "https://www.ynetnews.com/business/article/h1fs0ra5gg",
+        "https://www.calcalistech.com/ctechnews/article/sy2ks2o9ml",
+        "https://dealroom.co/news/158277-enso-raises-15m-series-a-for-ai-growth-hacking-agents/"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [
+        "Peak XV",
+        "Bessemer"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "exclude_reason": "not-funding",
+      "group_key": "ex openai researcher in talks",
+      "candidate_ids": [
+        "ff5e8f359d1f"
+      ],
+      "company": "Unnamed startup (ex-OpenAI researcher)",
+      "amount_usd": 15000000,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-13",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "New AI startup by an ex-OpenAI researcher.",
+      "description": "New AI startup founded by a former OpenAI researcher; reported to be in talks to raise from Peak XV and Bessemer.",
+      "confidence": 0.3,
+      "evidence": {
+        "amount": "in talks to raise $15 million from Peak XV, Bessemer",
+        "round": null,
+        "lead": null,
+        "investors": "in talks to raise $15 million from Peak XV, Bessemer for new AI startup"
+      },
+      "source_urls": [
+        "https://www.moneycontrol.com/news/business/startup/ex-openai-researcher-in-talks-to-raise-15-million-from-peak-xv-bessemer-for-new-ai-startup-14050662.html"
+      ]
+    },
+    {
+      "website": "muralpay.com",
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Tether"
+      ],
+      "investors": [
+        "Tether",
+        "North Island Ventures"
+      ],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "exclude_reason": null,
+      "group_key": "mural",
+      "candidate_ids": [
+        "814397124bc5",
+        "69979c4298dd"
+      ],
+      "company": "Mural",
+      "amount_usd": 15000000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-20",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Positions its payments infrastructure for agentic finance where AI agents share financial accounts; AI is positioning rather than the core product.",
+      "description": "Fintech system of record giving businesses one account across dollars, local currencies and stablecoins, built for fintechs and AI-agent (agentic) finance.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "Mural Raises $15 Million Series A Led by Tether, Bringing Funding to $28 Million",
+        "round": "$15 Million Series A",
+        "lead": "Series A Led by Tether",
+        "investors": "North Island Ventures and existing investors also participated"
+      },
+      "source_urls": [
+        "https://pulse2.com/mural-raises-15-million-series-a-led-by-tether-bringing-total-funding-to-28-million/",
+        "https://www.citybiz.co/?p=921792",
+        "https://cryptobriefing.com/mural-raises-28m-tether-series-a/"
+      ]
+    }
+  ]
+}

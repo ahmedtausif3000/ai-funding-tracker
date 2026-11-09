@@ -1,0 +1,1619 @@
+{
+  "run_date": "backfill-2026-10-01_2026-11-09",
+  "extractor": "parallel agent parts 05-08",
+  "notes": "Groups 'armadin' and 'exclusive' (WSJ) are the same $255.5M Series B; emitted one row under group_key 'armadin' with all four candidate ids. | Group 'mavria' (part-07) skipped: rounds.json already stores Mavria at $100M (2026-11-09). Crypto Briefing says $130M is the cumulative total including the $100M round led by Paradigm, so the stored figure is the round amount; no conflict. | Group 'funding and m&a roundup': the Mercom URL in the part resolved to the Nov 4 roundup (Group14 €150M Series D ext., Two Point O Capital, Noak, Otovo), not the Voltus article named in the title. Voltus $225M Series D row is from the title only. Two Point O Capital ($10M) not re-emitted; already stored. | Arda Industries: headline $232M is cumulative ($72M prior seed led by Accel and Founders Fund + $160M Series A). Emitted the Series A at $160M. HQ city not stated in sources read; country set to US. | Atomic Machines: text says 'raised $250 million to date' with no round type; emitted as Venture - Unspecified. Morningstar/Business Wire fetch returned 403 so HQ city unverified (country US inferred from US-only investors/venue). | Micronano Core: Dealroom headline says $300M, but a TechNode search result describes a Hangzhou AI inference chip maker raising 'over RMB 1 billion' Series C2 (~$140M). Kept the headline $300M with low confidence; non-US. | Quartermaster AI: $140M = $100M Series B equity + $40M Stifel debt facility; TechCrunch says the round was 'preempted by' Insight Partners (other outlets say led by). Announced 2026-09-28 per TechCrunch. | Nous Research: fetched Ventureburn page names no lead; search summaries cite TechCrunch naming Robot Ventures as lead. Left lead_investors empty since that page was not fetched. | Suki: fetched Pulse 2.0 page names no lead; Axios reportedly says led by Healthier Capital. Left lead empty. | Reliable Robotics: $115M = $90M equity (led by Nimble Partners) + $25M SVB debt, as a Series D extension; emitted as Series D at $115M. | Warp Sciences and Warhound: no round type stated; emitted as Venture - Unspecified. Warp HQ city not stated (text says U.S.-based CRO). | HQ cities from general knowledge rather than fetched text: Pathos AI (Chicago), Arena (San Francisco), Serval (San Francisco), Parallel Systems (Los Angeles), Nous Research (San Francisco), Suki (Redwood City), VEIR (Woburn), Pigment (Paris), Verda (Helsinki), Vinci (Palo Alto, from search summary). | VEIR is_ai_ml set false (superconducting power hardware; AI data centers are the market) - borderline under the AI-infrastructure rule. | Supabase is_ai_ml set false (developer backend platform; AI coding agents are customers) - borderline. | Tractian HQ set to BR per LatamList ('Brazilian AI startup'); the company also reports half its revenue from the US. | Roundup groups with no identifiable companies (two Instagram Indian weekly roundups, Open Magazine 'Four AI Startups', Construction Dive '6 contech firms' whose fetch failed) emitted as single rows with exclude_reason not-funding. | Lookups used: 25 of 25 (12 WebSearch, 13 WebFetch). Failures: startupresearcher.com Arda (429, retried via tectonicdefense.com), Morningstar Atomic Machines (403).",
+  "rows": [
+    {
+      "group_key": "micronano core",
+      "candidate_ids": [
+        "b18df1eb0fbc"
+      ],
+      "company": "Micronano Core",
+      "website": null,
+      "amount_usd": 300000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-29",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "CN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI inference chip developer.",
+      "description": "AI chip startup selling compute services ahead of shipping its own silicon.",
+      "confidence": 0.4,
+      "evidence": {
+        "amount": "Micronano Core raises $300M as AI chip startup sells services before silicon ships",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ1FZb1FsYklvUHlWR1I0RGZjRzFJMllkVmFNaFMtQnJ3M3R4OVZLQlgwclVIbnJrdWh0ZzJKOVZsLVUyUWxwWVNYTmFoRGNwVVlIc1Q1YWtuLTJRWlc4OW5UUmRTZF8wTFdUODVxeHlET3FfekMwUnc4T2lObGppTkctSWdpbEVWYXIyQjEyWUdObXRWN0syenNCR2pGVVFCLTBZTGNRRDRoLVRkcFA0aVJPRk4wQQ?oc=5",
+        "https://technode.com/2026/10/30/ai-inference-chip-startup-nano-core-chip-raises-over-rmb-1-billion-in-series-c2-funding/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "armadin",
+      "candidate_ids": [
+        "05db56a01975",
+        "ee4e45903650",
+        "e15b87b1c9b2",
+        "1a3bcbf08ef8"
+      ],
+      "company": "Armadin",
+      "website": "armadin.com",
+      "amount_usd": 255500000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-01",
+      "lead_investors": [
+        "Andreessen Horowitz",
+        "Accel"
+      ],
+      "investors": [
+        "Andreessen Horowitz",
+        "Accel",
+        "Bain Capital Ventures",
+        "Redpoint",
+        "8VC",
+        "Ballistic Ventures",
+        "Google Ventures",
+        "In-Q-Tel",
+        "Kleiner Perkins",
+        "Menlo Ventures"
+      ],
+      "hq_city": "Palo Alto",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Self-described AI-native cybersecurity company running autonomous agent swarms for offensive security.",
+      "description": "AI-native cybersecurity company deploying autonomous agent swarms that chain weaknesses into validated attack paths so enterprises and governments can fix them first.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "raised $255.5 million in Series B funding co-led by Andreessen Horowitz (a16z) and Accel",
+        "round": "Series B funding",
+        "lead": "co-led by Andreessen Horowitz (a16z) and Accel",
+        "investors": "participation from new investors Bain Capital Ventures (BCV) and Redpoint. Existing investors 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner Perkins, and Menlo Ventures also returned"
+      },
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/armadin-raises-255-5-million-series-b-to-scale-effective-autonomous-security-302895278.html"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "vinci",
+      "candidate_ids": [
+        "5c00d4d693e1",
+        "fd89fc848ab4"
+      ],
+      "company": "Vinci",
+      "website": null,
+      "amount_usd": 250000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-06",
+      "lead_investors": [
+        "Advent",
+        "Temasek",
+        "Xora"
+      ],
+      "investors": [
+        "Advent",
+        "Temasek",
+        "Xora",
+        "AMD Ventures",
+        "Madrona",
+        "Eclipse",
+        "Khosla Ventures"
+      ],
+      "hq_city": "Palo Alto",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI-native computational physics platform for hardware and chip engineering.",
+      "description": "AI-native computational platform that lets hardware engineers simulate how complex physical products and chips will behave while still being designed.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "Vinci has raised $250 million in Series B funding at a $1.5 billion valuation",
+        "round": "Series B funding",
+        "lead": "Advent, Temasek and Xora co-led the financing.",
+        "investors": "AMD Ventures and Madrona participated alongside existing investors Eclipse and Khosla Ventures and other investors."
+      },
+      "source_urls": [
+        "https://pulse2.com/vinci-raises-250-million-series-b-at-1-5-billion-valuation/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "atomic machines",
+      "candidate_ids": [
+        "a5476ed7c1eb"
+      ],
+      "company": "Atomic Machines",
+      "website": "atomicmachines.com",
+      "amount_usd": 250000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-07",
+      "lead_investors": [],
+      "investors": [
+        "OneIM",
+        "Gigafund",
+        "XTX Ventures",
+        "KAS Venture Partners",
+        "Valor Equity Partners",
+        "Tru Arrow Partners",
+        "Construct Capital",
+        "Sozo Ventures",
+        "Regents of the University of California"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Self-described AI-native manufacturing system with the AI running the physical build loop.",
+      "description": "Builder of the Matter Compiler, an AI-native all-digital manufacturing system that builds working micro-machines directly from code; first product is the PrimeSwitch power relay.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "The company has raised $250 million to date from investors including OneIM",
+        "round": null,
+        "lead": null,
+        "investors": "raised $250 million to date from investors including OneIM, Gigafund, XTX Ventures, KAS Venture Partners, Valor Equity Partners, Tru Arrow Partners, Construct Capital, Sozo Ventures and the Regents of the University of California"
+      },
+      "source_urls": [
+        "https://www.morningstar.com/news/business-wire/20261007902471/atomic-machines-emerges-from-stealth-with-250-million-to-launch-the-matter-compiler-an-ai-native-manufacturing-system-that-builds-micro-machines-from-code"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "pigment",
+      "candidate_ids": [
+        "25c62e918e14"
+      ],
+      "company": "Pigment",
+      "website": "pigment.com",
+      "amount_usd": 250000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series E",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-21",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Paris",
+      "hq_state": null,
+      "hq_country": "FR",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Self-described agentic AI planning platform with AI agents running planning workflows end to end.",
+      "description": "Business planning and performance management platform whose Graphite compute engine lets AI agents and people run enterprise planning on one governed model.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "raising $250 million in a Series E funding round",
+        "round": "Series E funding round",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.pymnts.com/news/artificial-intelligence/2026/pigment-raises-250-million-dollars-agentic-ai-platform/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "ibis",
+      "candidate_ids": [
+        "2aa8fdc038ce"
+      ],
+      "company": "Ibis",
+      "website": null,
+      "amount_usd": 250000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-10-28",
+      "lead_investors": [],
+      "investors": [
+        "FalconX"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Title describes a credit line from crypto prime broker FalconX; no AI product indicated.",
+      "description": "Company emerging from stealth with a $250 million credit line from FalconX.",
+      "confidence": 0.4,
+      "evidence": {
+        "amount": "Ibis Emerges From Stealth With $250 Million FalconX Credit Line",
+        "round": "Credit Line",
+        "lead": null,
+        "investors": "FalconX Credit Line"
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sam9RcE95aGVqamRzU09BSWx1Zl9XaTFnWTBiRnM5N1NKelBfMWRHT1lZYlVKR3lLUzRfYk5wTkJnZjgxamRyYXJuX09RYzJwdkdyai1meEQ?oc=5"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "pathos",
+      "candidate_ids": [
+        "3cd4b96a13e3",
+        "06650c635499"
+      ],
+      "company": "Pathos AI",
+      "website": "pathos.com",
+      "amount_usd": 237000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series E",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-23",
+      "lead_investors": [
+        "Bristol Myers Squibb"
+      ],
+      "investors": [
+        "Bristol Myers Squibb"
+      ],
+      "hq_city": "Chicago",
+      "hq_state": "IL",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Agentic AI drug development platform.",
+      "description": "AI drug developer whose agentic Foundry platform drives a portfolio of clinical-stage oncology programs.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "Pathos AI has raised $237 million in Series E financing at a post-money valuation of approximately $3 billion",
+        "round": "Series E financing",
+        "lead": "The financing was led by Bristol Myers Squibb, with participation from existing investors.",
+        "investors": "led by Bristol Myers Squibb"
+      },
+      "source_urls": [
+        "https://pulse2.com/pathos-ai-raises-237-million-series-e-at-3-billion-valuation-to-advance-ai-driven-oncology-pipeline/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "arda industries",
+      "candidate_ids": [
+        "8d9d85e7c533",
+        "46f3efa6f8db",
+        "a7b9b849aac6"
+      ],
+      "company": "Arda Industries",
+      "website": null,
+      "amount_usd": 160000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-20",
+      "lead_investors": [
+        "Altimeter",
+        "Accel",
+        "Khosla Ventures"
+      ],
+      "investors": [
+        "Altimeter",
+        "Accel",
+        "Khosla Ventures",
+        "XYZ Venture Capital",
+        "8VC",
+        "SVAngel",
+        "Felicis"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Manufacturing-AI software founded by ex-OpenAI research chief; automates engineering of assembly lines.",
+      "description": "AI software that helps manufacturers turn new product designs into working assembly lines; Anduril is the first design partner.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "Arda's most recent raise is a $160M Series A at a $1.5B valuation",
+        "round": "$160M Series A",
+        "lead": "co-led by Altimeter, Accel, and Khosla Ventures",
+        "investors": "with participation from XYZ Venture Capital, 8VC, SVAngel, and Felicis"
+      },
+      "source_urls": [
+        "https://tectonicdefense.com/arda-emerges-from-stealth-with-232m-for-automated-manufacturing/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "funding and m&a roundup",
+      "candidate_ids": [
+        "f9ccb6ea0af6"
+      ],
+      "company": "Voltus",
+      "website": "voltus.co",
+      "amount_usd": 225000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series D",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-14",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Distributed energy / demand response software platform; AI not indicated in the source.",
+      "description": "Distributed energy resource and demand response platform connecting commercial and industrial loads to power markets.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "Voltus Raises $225 Million in Series D Funding",
+        "round": "Series D Funding",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://mercomcapital.com/funding-ma-roundup-group14-raises-169-million-series-d/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "funding and m&a roundup",
+      "candidate_ids": [
+        "f9ccb6ea0af6"
+      ],
+      "company": "Group14 Technologies",
+      "website": "group14.technology",
+      "amount_usd": 169000000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 150M; article gives ~$169M",
+      "round_type": "Series D",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-04",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Silicon-anode battery materials manufacturer; no AI component.",
+      "description": "Manufacturer of SCC55 silicon-anode battery material, expanding manufacturing with a 10 GWh facility in Sagunto, Spain.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "has closed a €150 million (~$169 million) Series D equity funding extension",
+        "round": "Series D equity funding extension",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://mercomcapital.com/funding-ma-roundup-group14-raises-169-million-series-d/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "funding and m&a roundup",
+      "candidate_ids": [
+        "f9ccb6ea0af6"
+      ],
+      "company": "Noak",
+      "website": null,
+      "amount_usd": 5570000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 5M; article gives $5.57M",
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-04",
+      "lead_investors": [],
+      "investors": [
+        "The Helios Foundation",
+        "Nuhma",
+        "V2HFin"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "BE",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Perovskite-silicon tandem solar technology; no AI.",
+      "description": "Start-up developing perovskite-silicon tandem solar solutions.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "has raised €5 million ($5.57 million) in seed funding",
+        "round": "seed funding",
+        "lead": null,
+        "investors": "The Helios Foundation, Nuhma, and V2HFin provided the funding."
+      },
+      "source_urls": [
+        "https://mercomcapital.com/funding-ma-roundup-group14-raises-169-million-series-d/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "funding and m&a roundup",
+      "candidate_ids": [
+        "f9ccb6ea0af6"
+      ],
+      "company": "Otovo",
+      "website": null,
+      "amount_usd": 3000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-04",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "NO",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Listed company; public companies are always false.",
+      "description": "AI-enabled platform providing behind-the-meter energy services for homes and businesses.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "has completed a $3 million private placement",
+        "round": "private placement",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://mercomcapital.com/funding-ma-roundup-group14-raises-169-million-series-d/"
+      ],
+      "exclude_reason": "public-company"
+    },
+    {
+      "group_key": "warp sciences",
+      "candidate_ids": [
+        "d09c1b4284bf",
+        "89669b2a9823",
+        "f7acf7446d6a"
+      ],
+      "company": "Warp Sciences",
+      "website": null,
+      "amount_usd": 215000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-22",
+      "lead_investors": [
+        "Lightspeed"
+      ],
+      "investors": [
+        "Lightspeed",
+        "IVP",
+        "Mayfield",
+        "Lux",
+        "Premji Invest",
+        "Menlo Ventures"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI- and robotics-powered chemistry labs that learn from the experiments they run.",
+      "description": "U.S.-based chemistry contract research organization combining chemists, AI and robotics to synthesize research compounds for biotech and pharma customers.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "Warp Sciences has emerged from stealth with $215 million in funding",
+        "round": null,
+        "lead": "Lightspeed led the financing",
+        "investors": "Lightspeed led the financing, with participation from IVP , Mayfield , Lux , Premji Invest , and Menlo Ventures , among others."
+      },
+      "source_urls": [
+        "https://www.unite.ai/warp-sciences-215m-ai-robotics-chemistry-labs/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "palebluedot",
+      "candidate_ids": [
+        "4fd443ef7075",
+        "e905950ebfcc",
+        "1b372f0c3222"
+      ],
+      "company": "PaleBlueDot AI",
+      "website": null,
+      "amount_usd": 200000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-01",
+      "lead_investors": [
+        "ComputeCore"
+      ],
+      "investors": [
+        "ComputeCore",
+        "B Capital"
+      ],
+      "hq_city": "Palo Alto",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI infrastructure platform operating GPU clusters (neocloud).",
+      "description": "AI infrastructure platform combining company-owned GPU clusters to supply compute for large-scale AI workloads.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "PaleBlueDot AI has raised $200 million in Series C financing at a $3.2 billion valuation",
+        "round": "Series C financing",
+        "lead": "ComputeCore led the round, with participation from existing investor B Capital and other global investors.",
+        "investors": "ComputeCore led the round, with participation from existing investor B Capital and other global investors."
+      },
+      "source_urls": [
+        "https://pulse2.com/palebluedot-ai-raises-200-million-series-c-at-3-2-billion-valuation/",
+        "https://www.finsmes.com/2026/10/palebluedot-ai-raises-200m-in-series-c-funding.html"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "ledgebrook",
+      "candidate_ids": [
+        "d237d2f73e2d"
+      ],
+      "company": "Ledgebrook",
+      "website": "ledgebrook.com",
+      "amount_usd": 200000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-07",
+      "lead_investors": [
+        "Allianz X",
+        "Rockefeller Capital Management"
+      ],
+      "investors": [
+        "Allianz X",
+        "Rockefeller Capital Management"
+      ],
+      "hq_city": "Boston",
+      "hq_state": "MA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Self-described AI-native specialty insurance platform with proprietary AI underwriting engine Blackbird.",
+      "description": "AI-native specialty insurance platform writing E&S general and professional liability for mid-sized businesses via its Blackbird underwriting engine.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "raised USD 200 million in primary equity financing co-led by Allianz X",
+        "round": "primary equity financing",
+        "lead": "co-led by Allianz X, the strategic investment arm of the Allianz Group, and Rockefeller Capital Management",
+        "investors": "co-led by Allianz X, the strategic investment arm of the Allianz Group, and Rockefeller Capital Management"
+      },
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/ledgebrook-raises-usd-200-million-in-primary-equity-financing-co-led-by-allianz-x-to-scale-ai-native-specialty-insurance-platform-302899921.html"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "arena",
+      "candidate_ids": [
+        "a50a3defbebc"
+      ],
+      "company": "Arena",
+      "website": "lmarena.ai",
+      "amount_usd": 200000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-08",
+      "lead_investors": [
+        "Lightspeed Venture Partners",
+        "Khosla Ventures"
+      ],
+      "investors": [
+        "Lightspeed Venture Partners",
+        "Khosla Ventures",
+        "Salesforce Ventures",
+        "01 Advisors",
+        "Dell Technologies Capital",
+        "Endeavor Catalyst",
+        "a16z",
+        "Felicis"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Crowdsourced AI model evaluation leaderboard and platform (formerly LMArena).",
+      "description": "Crowdsourced AI model evaluation platform and leaderboard (formerly LMArena), free for consumers, expanding into AI safety measurement.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "has raised a $200 million Series B round at a $3.1 billion valuation",
+        "round": "Series B round",
+        "lead": "The round was led by Lightspeed Venture Partners and Khosla Ventures",
+        "investors": "with Salesforce Ventures, 01 Advisors, Dell Technologies Capital, Endeavor Catalyst, a16z, Felicis, and others joining in."
+      },
+      "source_urls": [
+        "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3.1b-valuation-in-10-months",
+        "https://mezha.net/eng/news/85944ada_arena_raises_-200/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "warhound",
+      "candidate_ids": [
+        "00a0baaa6fef"
+      ],
+      "company": "Warhound",
+      "website": null,
+      "amount_usd": 200000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-22",
+      "lead_investors": [],
+      "investors": [
+        "Sequoia",
+        "8VC",
+        "Corner Ventures",
+        "In-Q-Tel"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Genetic engineering of working dogs plus Anduril gear; AI is only a background mention about Colossal.",
+      "description": "Colossal Biosciences spinout genetically engineering enhanced working dogs for the U.S. military and law enforcement, equipped with Anduril hardware.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "backed by $200 million in funding from investors including Sequoia, 8VC, Corner Ventures, and In-Q-Tel",
+        "round": null,
+        "lead": null,
+        "investors": "funding from investors including Sequoia, 8VC, Corner Ventures, and In-Q-Tel"
+      },
+      "source_urls": [
+        "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "verda",
+      "candidate_ids": [
+        "83c6161e3f80"
+      ],
+      "company": "Verda",
+      "website": "verda.com",
+      "amount_usd": 189000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-05",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Helsinki",
+      "hq_state": null,
+      "hq_country": "FI",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI cloud (GPU compute) provider.",
+      "description": "AI cloud startup providing GPU compute infrastructure (formerly DataCrunch).",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "AI cloud startup Verda raises $189m in Series B funding round",
+        "round": "Series B funding round",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.datacenterdynamics.com/en/news/ai-cloud-startup-verda-raises-189m-in-series-b-funding-round/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "between october 26 and",
+      "candidate_ids": [
+        "d8a4737d3866"
+      ],
+      "company": "Indian startups weekly roundup (Oct 26-31, 2026)",
+      "website": null,
+      "amount_usd": 171000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-02",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Aggregate roundup post, not a company.",
+      "description": "Instagram roundup post: 29 Indian startups raised over $171 million in the week of Oct 26-31, 2026; no individual rounds named.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "29 Indian startups from diverse sectors raised over $171 million",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnNmhGRDBJRUJKZHJMYl9XY0FWc3JpeHlPX0UtbWxwT3l6RmZZY0FWNjRCV0pZalduWUtNZTJ0aFFYN3pQbzlDVnhzWTg1c0hNUnc?oc=5"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "6 contech firms",
+      "candidate_ids": [
+        "cec1c2a3f352"
+      ],
+      "company": "Construction Dive contech roundup (6 firms)",
+      "website": null,
+      "amount_usd": 154000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-10-21",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Aggregate roundup article; text unavailable so no individual rounds could be extracted.",
+      "description": "Construction Dive roundup of six construction-tech firms raising a combined $154M; article text could not be fetched.",
+      "confidence": 0.3,
+      "evidence": {
+        "amount": "6 contech firms raise $154M in recent funding",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://finance.yahoo.com/technology/articles/6-contech-firms-raise-154m-152900007.html"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "sima",
+      "candidate_ids": [
+        "9989b22905e0"
+      ],
+      "company": "SiMa.ai",
+      "website": "sima.ai",
+      "amount_usd": 150000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-05",
+      "lead_investors": [
+        "Fidelity Management & Research Company",
+        "Amplify"
+      ],
+      "investors": [
+        "Fidelity Management & Research Company",
+        "Amplify",
+        "Alter Venture Partners",
+        "Dell Technologies Capital",
+        "Maverick Capital",
+        "+ND Capital",
+        "Point72",
+        "StepStone Group",
+        "AllianceBernstein",
+        "Baron Capital",
+        "J.P. Morgan",
+        "State of Michigan"
+      ],
+      "hq_city": "San Jose",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Physical AI silicon and software platform for edge AI.",
+      "description": "Full-stack Physical AI platform combining purpose-built silicon and the Palette Neat agentic software environment for humanoids, automotive and drones.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "SiMa.ai has announced USD 150 million in Series C financing",
+        "round": "Series C financing",
+        "lead": "The round was co-led by Fidelity Management & Research Company and Amplify",
+        "investors": "co-led by Fidelity Management & Research Company and Amplify, with participation from Alter Venture Partners, Dell Technologies Capital, Maverick Capital, +ND Capital, Point72 and StepStone Group. AllianceBernstein, Baron Capital, J.P. Morgan, and the State of Michigan also joined the round as new investors"
+      },
+      "source_urls": [
+        "https://evertiq.com/news/2026-10-05-simaai-raises-150-million-in-series-c-to-scale-physical-ai"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "supabase",
+      "candidate_ids": [
+        "530c51115b14"
+      ],
+      "company": "Supabase",
+      "website": "supabase.com",
+      "amount_usd": 150000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-05",
+      "lead_investors": [
+        "GIC"
+      ],
+      "investors": [
+        "GIC",
+        "CapitalG"
+      ],
+      "hq_city": "Singapore",
+      "hq_state": null,
+      "hq_country": "SG",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Postgres backend-as-a-service for developers; AI agents are a customer segment, not the core product.",
+      "description": "Backend-as-a-service database platform (Postgres, auth, storage) that developers and AI coding agents use to build apps; also acquired Turso.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "closed a $150 million funding round",
+        "round": null,
+        "lead": "The round is led by GIC, the Singapore sovereign fund",
+        "investors": "The round is led by GIC, the Singapore sovereign fund, and it includes Google’s CapitalG fund for the first time."
+      },
+      "source_urls": [
+        "https://www.asiatechreview.com/p/supabase-raises-another-150m-to-build"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "eka robotics",
+      "candidate_ids": [
+        "b79fdd5515a3",
+        "088b42a7188e",
+        "f72fea7d1aa4"
+      ],
+      "company": "Eka Robotics",
+      "website": "ekarobotics.com",
+      "amount_usd": 150000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-20",
+      "lead_investors": [
+        "a16z",
+        "F-Prime"
+      ],
+      "investors": [
+        "a16z",
+        "F-Prime",
+        "Obvious Ventures",
+        "E14 Fund"
+      ],
+      "hq_city": "Cambridge",
+      "hq_state": "MA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Vision-Force-Action robot foundation model for physical AI.",
+      "description": "Physical AI startup building a Vision-Force-Action foundation model so industrial robots can manipulate unfamiliar objects with force feedback.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "Eka Robotics announced a $150M Series A led by a16z and F-Prime.",
+        "round": "$150M Series A",
+        "lead": "Andreessen Horowitz (a16z) and F-Prime led the round",
+        "investors": "with continued backing from seed lead investors Obvious Ventures and E14 Fund."
+      },
+      "source_urls": [
+        "https://techfundingnews.com/eka-robotics-raises-150m-at-1-45b-valuation-led-by-a16z-and-f-prime-for-dexterous-robots/",
+        "https://ekarobotics.com/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "serval",
+      "candidate_ids": [
+        "e02ccf52ff64",
+        "ed1d69c8d42e",
+        "e5d0c36c16a7",
+        "be97bb094a4d"
+      ],
+      "company": "Serval",
+      "website": "serval.com",
+      "amount_usd": 150000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-29",
+      "lead_investors": [
+        "Sequoia"
+      ],
+      "investors": [
+        "Sequoia"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI-driven enterprise service management that builds and runs IT automations with agents.",
+      "description": "AI enterprise service management platform that automates employee IT requests, onboarding, access and remediation with agent-built workflows.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "Serval Raises $150M Series C at $3B Valuation Led by Sequoia",
+        "round": "Series C",
+        "lead": "Led by Sequoia",
+        "investors": "Led by Sequoia"
+      },
+      "source_urls": [
+        "https://www.serval.com/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "cscale",
+      "candidate_ids": [
+        "e9133c7ef007",
+        "7be730f5d1b3",
+        "ad2b7210f313"
+      ],
+      "company": "CScale",
+      "website": null,
+      "amount_usd": 145000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-01",
+      "lead_investors": [
+        "Atreides Management",
+        "Valor Equity Partners",
+        "Premji Invest"
+      ],
+      "investors": [
+        "Atreides Management",
+        "Valor Equity Partners",
+        "Premji Invest",
+        "NVIDIA",
+        "Intel Capital"
+      ],
+      "hq_city": "Palo Alto",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Optical interconnect chips for AI scale-up infrastructure (AI hardware infrastructure).",
+      "description": "Developer of optical interconnect light engines for gigawatt-scale AI scale-up systems, designed to contain laser failures without interrupting compute.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "CScale emerged from stealth with $145 million in Series C funding",
+        "round": "Series C funding",
+        "lead": "The financing was co-led by Atreides Management, Valor Equity Partners, and Premji Invest.",
+        "investors": "NVIDIA and Intel Capital joined the round as CScale’s first strategic investors."
+      },
+      "source_urls": [
+        "https://pulse2.com/cscale-raises-145-million-in-series-c-funding-to-build-optical-interconnect-for-gigawatt-scale-ai/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "arlington maritime startup",
+      "candidate_ids": [
+        "1fefa1ab22d8",
+        "17790ede6400"
+      ],
+      "company": "Quartermaster AI",
+      "website": "quartermaster.ai",
+      "amount_usd": 140000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-09-28",
+      "lead_investors": [
+        "Insight Partners"
+      ],
+      "investors": [
+        "Insight Partners",
+        "Overmatch Ventures",
+        "First Round Capital",
+        "Stifel"
+      ],
+      "hq_city": "Arlington",
+      "hq_state": "VA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI-driven maritime sensing: weather-hardened SmartMast sensors generating insights about ocean activity.",
+      "description": "Maritime AI startup whose ship-mounted SmartMast sensors capture data and generate insights about maritime activity across a growing vessel network.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Quartermaster has already closed a much larger Series B, bringing in $140 million this time.",
+        "round": "Series B",
+        "lead": "the round was preempted by software-focused venture firm Insight Partners",
+        "investors": "new investor, defense-focused firm Overmatch Ventures, as well as existing backers like First Round Capital. The remaining $40 million came in the form of a debt facility from investment bank Stifel."
+      },
+      "source_urls": [
+        "https://virginiabusiness.com/arlington-maritime-startup-140m-series-b-funding/",
+        "https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "tractian",
+      "candidate_ids": [
+        "6f937b0df91e",
+        "0722fc22bff3"
+      ],
+      "company": "Tractian",
+      "website": "tractian.com",
+      "amount_usd": 130000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series D",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-23",
+      "lead_investors": [
+        "Sapphire Ventures",
+        "Catalyst"
+      ],
+      "investors": [
+        "Sapphire Ventures",
+        "Catalyst",
+        "N47",
+        "General Catalyst",
+        "Bosch Ventures",
+        "53 Stations",
+        "Monashees",
+        "Endeavor Catalyst",
+        "Norte Ventures",
+        "Y Combinator"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "BR",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI condition monitoring and predictive maintenance for industrial equipment.",
+      "description": "Industrial AI platform that monitors equipment, detects failures and recommends maintenance actions across 2,000+ facilities.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "Brazilian AI startup Tractian raised $130M in a Series D round at a $1.4B valuation.",
+        "round": "Series D round",
+        "lead": "The round was led by Sapphire Ventures and Catalyst , M&G’s growth equity division.",
+        "investors": "N47 , General Catalyst , Bosch Ventures , 53 Stations , Monashees , Endeavor Catalyst , Norte Ventures , and Y Combinator also participated."
+      },
+      "source_urls": [
+        "https://latamlist.com/tractian-raises-130m-series-d-at-1-4b-valuation/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "four",
+      "candidate_ids": [
+        "ecd350701033"
+      ],
+      "company": "Open Magazine roundup (four AI startups)",
+      "website": null,
+      "amount_usd": 125700000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-10-22",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Aggregate roundup article; individual companies not named in title and text unavailable.",
+      "description": "Open Magazine (India) roundup of four AI startups raising a combined $125.7 million; companies not identifiable from the feed.",
+      "confidence": 0.3,
+      "evidence": {
+        "amount": "Four AI Startups Raise $125.7 Million",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNGwzejRFSmYyNENNUzZ6QWZTYUl6bnkzRGFCbEhuYXFXX0N0ZEZjNFBhb3NTR0VRQlhqLXdlNDZIX21TdUdsOWRzVk9vLTBCazZKRTNrQkc1Z05lMEdGZ1RNQ2dtc1UzZHJWd09MWjh3OWhWVkZNa0dEWVR6V2p1eS1VV2xla2FhYjlYSVNnVG9DNEg5Tzc3VFpKVlZZUUxxdXhZ?oc=5"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "between october 05 and",
+      "candidate_ids": [
+        "1f96d9f18b93"
+      ],
+      "company": "Indian startups weekly roundup (Oct 5-10, 2026)",
+      "website": null,
+      "amount_usd": 116000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-10-12",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Aggregate roundup post, not a company.",
+      "description": "Instagram roundup post: 27 Indian startups raised over $116 million in the week of Oct 5-10, 2026; no individual rounds named.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "27 Indian startups from diverse sectors raised over $116 million",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zaklXYVFJSXR2ZkF6NHdyTm81ZF80MVZuemRqUlhFWVZ4UWtXS1VacGJhRG9IZDZnaW85Y0lPOGZQcU5HbGlCblA0QmF1dXpzWVE?oc=5"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "clay",
+      "candidate_ids": [
+        "d9f9bd572fb5"
+      ],
+      "company": "Clay",
+      "website": "clay.com",
+      "amount_usd": 115000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series D",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-02",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Self-described AI-powered GTM infrastructure with the Claygent AI research agent.",
+      "description": "AI-powered go-to-market infrastructure platform whose Claygent agent automates research, data enrichment and outreach for sales, marketing and recruiting.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "closed a $115 million Series D round in September 2026",
+        "round": "Series D round",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.saasrise.com/deals/clay-raises-115m-in-series-d-funding-round-at-71b-valuation-cd63efc8-adac-4a3d-80ed-7968094095d8"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "spacex alums aviation startup",
+      "candidate_ids": [
+        "8f568edbae49"
+      ],
+      "company": "Reliable Robotics",
+      "website": "reliable.co",
+      "amount_usd": 115000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series D",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-20",
+      "lead_investors": [
+        "Nimble Partners"
+      ],
+      "investors": [
+        "Nimble Partners",
+        "Silicon Valley Bank",
+        "Gideon Strategic Partners",
+        "RockCreek",
+        "Geek Ventures",
+        "Gold Hill Capital",
+        "Sparkwave Capital"
+      ],
+      "hq_city": "Mountain View",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Autonomous flight systems for existing aircraft (autonomy).",
+      "description": "Developer of autonomous flight systems retrofitted onto existing aircraft, pursuing FAA certification for continuous autopilot and remote piloting.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "with a $115 million funding boost",
+        "round": "The financing is an extension of its Series D round and includes $90 million in equity funding led by Nimble Partners and $25 million in debt from Silicon Valley Bank.",
+        "lead": "$90 million in equity funding led by Nimble Partners",
+        "investors": "led by Nimble Partners and $25 million in debt from Silicon Valley Bank. The Series D round, which now totals $275 million, has pushed the startup’s valuation beyond the $1 billion mark. Other investors include Gideon Strategic Partners, RockCreek, Geek Ventures, Gold Hill Capital, Sparkwave Capital, and others."
+      },
+      "source_urls": [
+        "https://traderleaks.com/technology-news/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "veir",
+      "candidate_ids": [
+        "ad8d311b78dc",
+        "524067e2d8a2"
+      ],
+      "company": "VEIR",
+      "website": "veir.com",
+      "amount_usd": 110000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-08",
+      "lead_investors": [
+        "Matter Venture Partners",
+        "Tyche Partners"
+      ],
+      "investors": [
+        "Matter Venture Partners",
+        "Tyche Partners"
+      ],
+      "hq_city": "Woburn",
+      "hq_state": "MA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Superconducting power delivery hardware; AI data centers are the end market but the product is electrical infrastructure, not AI.",
+      "description": "Developer of superconducting power delivery systems that raise power density and cut copper use for AI data centers.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "VEIR Raises $110 Million Series C to Accelerate Commercialization of Superconducting Power Delivery Technology for AI Data Centers",
+        "round": "Series C",
+        "lead": "Co-Led By Matter Venture Partners And Tyche Partners",
+        "investors": "Co-Led By Matter Venture Partners And Tyche Partners"
+      },
+      "source_urls": [
+        "https://veir.com/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "parallel",
+      "candidate_ids": [
+        "2616c952c2cf"
+      ],
+      "company": "Parallel Systems",
+      "website": "moveparallel.com",
+      "amount_usd": 100000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-07",
+      "lead_investors": [
+        "AVP"
+      ],
+      "investors": [
+        "AVP",
+        "Hillspire",
+        "Agility Global",
+        "Cobalt Capital",
+        "Anthos Capital",
+        "Congruent Ventures",
+        "Riot Capital",
+        "Collaborative Fund"
+      ],
+      "hq_city": "Los Angeles",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Autonomous battery-electric freight rail vehicles (autonomy).",
+      "description": "Developer of battery-electric autonomous freight rail vehicles (Panther) that haul freight on short-haul routes without an operator.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "has raised $100 million in Series C funding",
+        "round": "Series C funding",
+        "lead": "AVP led the round, with new investors Hillspire, Agility Global and Cobalt Capital also participating.",
+        "investors": "AVP led the round, with new investors Hillspire, Agility Global and Cobalt Capital also participating. Existing investors Anthos Capital, Congruent Ventures, Riot Capital and Collaborative Fund returned for the financing."
+      },
+      "source_urls": [
+        "https://pulse2.com/parallel-systems-raises-100-million-series-c/",
+        "https://www.axios.com/pro/supply-chain-deals/2026/10/07/autonomous-freight-rail-startup-parallel-raises-100m"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "general compute",
+      "candidate_ids": [
+        "d4b5e28a2f91",
+        "17ee3157845d"
+      ],
+      "company": "General Compute",
+      "website": "generalcompute.com",
+      "amount_usd": 100000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-27",
+      "lead_investors": [
+        "Blackbird Ventures",
+        "Abstract Ventures"
+      ],
+      "investors": [
+        "Blackbird Ventures",
+        "Abstract Ventures"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Neocloud renting AI inference capacity on specialized chips (AI infrastructure).",
+      "description": "Neocloud renting AI inference capacity built on SambaNova, Cerebras, Positron AI and d-Matrix chips run in colocation data centers.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "General Compute raised a $100 million Series A co-led by Blackbird Ventures and Abstract Ventures at an $800 million post-money valuation",
+        "round": "Series A",
+        "lead": "co-led by Blackbird Ventures and Abstract Ventures",
+        "investors": "co-led by Blackbird Ventures and Abstract Ventures"
+      },
+      "source_urls": [
+        "https://stockanalysis.com/private/general-compute/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "solink",
+      "candidate_ids": [
+        "d901a19ade84",
+        "fb072ca5a02f"
+      ],
+      "company": "Solink",
+      "website": "solink.com",
+      "amount_usd": 100000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-29",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Ottawa",
+      "hq_state": null,
+      "hq_country": "CA",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI video intelligence platform.",
+      "description": "AI video intelligence platform bringing vision AI to physical business operations such as retail and restaurants.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "Solink raises US$100M in new funding to grow AI video intelligence platform",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://solinkcloud.com/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "biogeometry",
+      "candidate_ids": [
+        "97ff6f2aaa51"
+      ],
+      "company": "BioGeometry",
+      "website": null,
+      "amount_usd": 100000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-29",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "CN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI drug-design models.",
+      "description": "Developer of AI models for drug and protein design.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "BioGeometry raises $100M in Series A extension for its AI drug-design models",
+        "round": "Series A extension",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXJkTnZscWRtbFE1S0V4Q0ZwcnpMX01UU1lUOU1pZU1Ld3pnNXJBSExzZXpHc0JMNW1Fc2pfd0UxSXFBcDRocHp2eno0eHRWT0pXNWpTTkVpQkYwaERxNkhVaHZuWHZDUnlJZ0pfQ3JDQUdGUEZyLU1CMTJacDNKaTBfamZvUEhTeEkxUW92ZkF0NWtjNXZsVE9wcXgtb0lGNHRvdDN2RHVOR0hZWVE?oc=5"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "agrani in talks",
+      "candidate_ids": [
+        "f91177af433e"
+      ],
+      "company": "Agrani Labs",
+      "website": null,
+      "amount_usd": 100000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-03",
+      "lead_investors": [],
+      "investors": [
+        "Stargazer",
+        "Google",
+        "HCLTech"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Indian AI lab (reported); round is still in talks.",
+      "description": "Indian AI startup reported to be in talks to raise $100 million from the Groww founders' Stargazer fund, Google and HCLTech.",
+      "confidence": 0.4,
+      "evidence": {
+        "amount": "Agrani Labs in talks to raise $100 million from Groww founders’ Stargazer fund, Google, HCLTech",
+        "round": null,
+        "lead": null,
+        "investors": "from Groww founders’ Stargazer fund, Google, HCLTech"
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcHV1aDF6SmRjRUcwckJ5RkhYVjhmWmZxRzlqWjQtb0dmWjRUeUx4dnVFdkJrVTJmN1NqNVlYcWpGb25kZFNZMDN2VURMek1ybC16dDZQaXdWa045UVJvMnJVbE5GbXl6U1R3YUhoLXk5clUwSldEQTMtREItTm5JdHZhYkpHT1NDLVByM0hmYTRHNnQwN0pxUF9qeG5fdUl1VGpYWXZSdGVBYVEzSGc5STFrUmVkVGh6dTFYX1VXVkFGejU0VmFFNy0zNWwyT094RENUQ29rRWhTcUxpUDFFNU5vaVFmMEJ0ZXNiMHo2QTVnVVlVVFVnSXR4cnh3UVdO0gGGAkFVX3lxTE1vR2FKZEV4bU9WN0luX3ppWWNTeGZfcFZyWDVTQzVSLVJxR1FYV2lvcmQ1bHBMM0NPRVNqZUlqNGFyZlNobDl5Ukh3OGR1TzNUVjVjWXE2T0hrUnJwczVrNlZMcmFCeDBJT2hud0JWaFVJeEVmejR0X0xlQmVjSVRRcE5LVmkyMGtXLVFBUnRtTEJDTGk2MVdJRVJGbkRFMkdEa1NTeTVxQ2NwNVY5aDhiQmFzNEFkZXNuN0d4LUc2MVlSRGVpbmdnY0tISzBiUzFRX1NweDNHbmRRREFUbE1SXzkxcXV0eV85VHU5UnNTU3Fib3FvUTkzdjBGNWJzWHVpNUhPNFE?oc=5"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "spiko",
+      "candidate_ids": [
+        "fd2bce44e861",
+        "c011c51fcb06"
+      ],
+      "company": "Spiko",
+      "website": "spiko.io",
+      "amount_usd": 90000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-06",
+      "lead_investors": [
+        "NEA"
+      ],
+      "investors": [
+        "NEA"
+      ],
+      "hq_city": "Paris",
+      "hq_state": null,
+      "hq_country": "FR",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Fintech putting idle cash into yield products; no AI component indicated.",
+      "description": "Paris- and London-based fintech that helps businesses and individuals put idle cash to work in yield-bearing products.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "Spiko Raises $90M Series B Led by NEA to Make Yield Universal",
+        "round": "Series B",
+        "lead": "Led by NEA",
+        "investors": "Led by NEA"
+      },
+      "source_urls": [
+        "https://www.businesswire.com/news/home/20261006901425/en/Spiko-Raises-%2490M-Series-B-Led-by-NEA-to-Make-Yield-Universal"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "maker",
+      "candidate_ids": [
+        "cd42fa910079"
+      ],
+      "company": "Nous Research",
+      "website": "nousresearch.com",
+      "amount_usd": 90000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-07",
+      "lead_investors": [],
+      "investors": [
+        "Nvidia",
+        "Microsoft's M12",
+        "Samsung",
+        "Robot Ventures",
+        "Union Square Ventures",
+        "Y Combinator"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Open-source AI model and agent developer (Hermes).",
+      "description": "Open-source AI lab behind the Hermes models and Hermes AI agent, now building enterprise-grade versions of the agent.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Nous Research raises $90 million to catapult its celebrated Hermes AI agent straight into the corporate mainstream.",
+        "round": "This Series B round is backed by absolute heavyweights like Nvidia, Microsoft's M12, Samsung, and Y Combinator.",
+        "lead": null,
+        "investors": "We're talking about Nvidia, Microsoft's M12 fund, Samsung, Robot Ventures, Union Square Ventures, and Y Combinator."
+      },
+      "source_urls": [
+        "https://ventureburn.com/nous-research-raises-90-million-scale-hermes-enterprise-ai/",
+        "https://www.wsj.com/pro/venture-capital/maker-of-open-source-ai-assistant-hermes-secures-90-million-a061c1d7"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "dream",
+      "candidate_ids": [
+        "1b2790343207",
+        "fa5a2a91176e",
+        "e0f1e6974556",
+        "3f3f8574dfc6",
+        "bd5b01c2c5f9",
+        "93a35e9f0c97"
+      ],
+      "company": "Dream Labs",
+      "website": null,
+      "amount_usd": 90000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-10-19",
+      "lead_investors": [
+        "B Capital"
+      ],
+      "investors": [
+        "B Capital",
+        "Kindred Ventures",
+        "A.Capital",
+        "Unusual Ventures",
+        "SV Angel",
+        "Wing VC",
+        "Scribble VC",
+        "Adrian Aoun"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Robot foundation model (Dream-1) and API for controlling any robot hardware.",
+      "description": "Robotics AI startup building Dream-1, a robot foundation model offered via Dream API that converts camera feeds and plain-English instructions into motor commands on unseen hardware.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "announced that it has raised $90 million in seed funding",
+        "round": "seed funding",
+        "lead": "The round, led by B Capital",
+        "investors": "led by B Capital with participation from Kindred Ventures, A.Capital, Unusual Ventures, SV Angel, Wing VC, Scribble VC, and angel investor Adrian Aoun"
+      },
+      "source_urls": [
+        "https://shattered.io/dream-labs-90m-seed-robot-foundation-model-2026/",
+        "https://finance.yahoo.com/technology/ai/articles/dream-labs-raises-90m-seed-170000245.html"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "suki",
+      "candidate_ids": [
+        "bc9f56e760d3"
+      ],
+      "company": "Suki",
+      "website": "suki.ai",
+      "amount_usd": 90000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series E",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-10-13",
+      "lead_investors": [],
+      "investors": [
+        "Healthier Capital",
+        "Crosslink Capital",
+        "Hercules Capital"
+      ],
+      "hq_city": "Redwood City",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Healthcare AI platform for ambient clinical documentation and AI agents.",
+      "description": "Healthcare AI platform built around ambient clinical documentation, expanding into clinical reasoning, revenue cycle and operational AI agents.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Suki has secured $90 million in financing as part of its Series E",
+        "round": "Series E",
+        "lead": null,
+        "investors": "The financing includes new investors Healthier Capital, Crosslink Capital, and Hercules Capital,"
+      },
+      "source_urls": [
+        "https://pulse2.com/suki-secures-90-million-series-e/"
+      ],
+      "exclude_reason": null
+    }
+  ]
+}

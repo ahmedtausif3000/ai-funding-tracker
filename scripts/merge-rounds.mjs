@@ -35,7 +35,10 @@ for (const r of validated.rows) {
   const now = new Date().toISOString();
   // Same company, same window, materially different amount: treat as the same round and keep the better-sourced figure.
   if (!match) {
-    const alt = store.rounds.find((x) => tokenSimilarity(x.company, r.company) >= 0.85 && daysApart(x.announced_date, r.announced_date) <= 21 && x.round_type !== 'Debt' && r.round_type !== 'Debt');
+    const compatible = (a, b) => a === b || a === 'Venture - Unspecified' || b === 'Venture - Unspecified';
+    const rawName = (n) => String(n || '').toLowerCase().replace(/\b(inc|corp|corporation|llc|ltd|limited|co)\b\.?/g, '').replace(/[^a-z0-9]/g, '');
+    const sameArticle = (x) => (x.candidate_ids || []).some((id) => (r.candidate_ids || []).includes(id));
+    const alt = !r.exclude_reason && store.rounds.find((x) => rawName(x.company) === rawName(r.company) && !sameArticle(x) && daysApart(x.announced_date, r.announced_date) <= 21 && compatible(x.round_type, r.round_type) && x.round_type !== 'Debt' && r.round_type !== 'Debt' && !x.exclude_reason);
     if (alt && r.amount_usd != null) {
       const pressWire = (urls) => (urls || []).some((u) => /prnewswire|businesswire|globenewswire|newswire|accesswire/i.test(u));
       const newBetter = pressWire(r.source_urls) && !pressWire(alt.source_urls) || ((r.confidence ?? 0) > (alt.confidence ?? 0) + 0.15);
@@ -55,6 +58,7 @@ for (const r of validated.rows) {
     if (match.round_type === 'Venture - Unspecified' && r.round_type !== 'Venture - Unspecified') { match.round_type = r.round_type; match.stage_bucket = r.stage_bucket; }
     if (Date.parse(r.announced_date) < Date.parse(match.announced_date)) match.announced_date = r.announced_date;
     if (match.hq_country === 'unknown' && r.hq_country !== 'unknown') match.hq_country = r.hq_country;
+    if (r.is_ai_ml && !match.is_ai_ml && (r.confidence ?? 0) >= (match.confidence ?? 0)) { match.is_ai_ml = true; match.ai_ml_rationale = r.ai_ml_rationale || match.ai_ml_rationale; }
     match.confidence = Math.max(match.confidence ?? 0, r.confidence ?? 0);
     match.runs = [...new Set([...(match.runs || []), RUN_DATE])];
     match.updated_at = now;
