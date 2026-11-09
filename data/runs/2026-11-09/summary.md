@@ -1,7 +1,7 @@
-# Run 2026-11-09 (seed run, local)
-
-- Window: 3 days. Feeds: 16/16 returned 200. Raw items 270 → 72 candidates in 59 groups after prefilter (115 not funding, 27 below $15M, 2 fund closes, 44 duplicate links).
-- Link resolution: Google News and DuckDuckGo rate-limited this IP after earlier test runs; 13 links resolved (11 via publisher feeds, 2 via Bing), 19 articles fetched. Extraction used web lookups for 19 unresolved high-value groups.
-- Extracted 62 rows → validator accepted 62, rejected 0, no dropped names → merged 62 new rounds, 21 in view (US, AI/ML, ≥ $15M, venture stage).
-- In-scope rounds added: OpenAI $11B (reported), Zipline $1.5B, fal $1.3B Series F, Shield AI $1B Series H, Applied Compute $350M, Nominal $240M, Sentra $150M Series C, Dulo $130M Seed, Traversal $120M Series B, Rillet $100M Series C, Go.AI $85M Series A, Future Secure AI $82M, &Truth $70M Seed, Spines $64M Series A, Trajectory $45M Series A, nPhase $30M Series D, Coframe $25M Series A, Midstream Health $20M Series A, Longeye $20M Series A, geniosAI $19.1M Series A, firmly $15M Series A.
-- Judgment calls: Sentra flipped to AI/ML (matches Crunchbase tagging). CesiumAstro left as not-AI. Cyera $800M marked not-funding (talks only). Mavria $130M could not be sourced beyond the headline.
+# Daily run 2026-11-09 — feed outage
+- Run date: 2026-11-09
+- Feed health: all 16 feeds (gnews-1..8, prnewswire-vc, alleywatch, techcrunch x3, techfundingnews, crunchbase-news x2) errored with "fetch failed".
+- Cause: the sandbox egress proxy refuses CONNECT tunnels to the feed hosts (HTTP 403, confirmed with curl to techcrunch.com). Not a feed-side problem.
+- Counts: candidates 0, rows extracted 0, inserted 0, merged 0. Site not rebuilt.
+- In-scope rounds added today: none.
+- Action: check the routine environment's network policy (allow the feed domains) and rerun; today's rounds will be picked up by the next run's --days 2 window if it is within range.
