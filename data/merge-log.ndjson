@@ -126,3 +126,65 @@
 {"run":"2026-11-09","action":"inserted","id":"3aec09b300","company":"Agility Robotics","in_view":false,"exclude_reason":"public-company"}
 {"run":"2026-11-09","action":"inserted","id":"639fedd55d","company":"MNT-Halan","in_view":false,"exclude_reason":"public-company"}
 {"run":"2026-11-09","action":"inserted","id":"8fc9a0fe63","company":"Qinghua-Stanford team","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"453926b7af","company":"Crunchbase News analysis (billionaire-led companies)","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"e1d28c731e","company":"Nooks","in_view":false,"exclude_reason":"stage"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"32604b42bb","company":"Titan OS","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"fd3ec38d66","company":"Supa","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"0b762e7729","company":"Archera","in_view":false,"exclude_reason":"not-ai"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"f640b4ea5f","company":"Bedrock Robotics","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"7ca00887e0","company":"Icon","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"6a0ec80d06","company":"Gravis Robotics","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"f09f0016f4","company":"Reframe Systems","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"5c7acbfd61","company":"Monumental","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"129591c1a2","company":"Gritt","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"13e4c9f4e3","company":"Origin","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"e47e695544","company":"Ramp","in_view":false,"exclude_reason":"not-ai"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"dfdd2dfb4e","company":"Kalshi","in_view":false,"exclude_reason":"not-ai"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"53d224b1b7","company":"Modal Labs","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"b09368d5b4","company":"Whop","in_view":false,"exclude_reason":"not-ai"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"a4e8cebb68","company":"Valon","in_view":false,"exclude_reason":"not-ai"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"06acf90d1c","company":"Capitolis","in_view":false,"exclude_reason":"not-ai"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"395a59cfbd","company":"TriGemX Bio","in_view":false,"exclude_reason":"not-ai"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"50f7fb2df5","company":"North.cloud","in_view":false,"exclude_reason":"not-ai"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"9791ba5775","company":"Daytona","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"4e91b76333","company":"Stuut","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"90722265c4","company":"Ultra","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"20be4a22b4","company":"FuriosaAI","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"5cc9e11124","company":"aSand.ai","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"7d033f6fc7","company":"Moffett AI","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"d1581203f1","company":"Laza Medical","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"eadd102d5f","company":"Explorium","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"b794c19480","company":"Ocient","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"amount-corrected","id":"9512f76613","company":"Mavria","stored_amount":130000000,"incoming_amount":100000000,"incoming_sources":["https://www.securities.io/factory-built-ai-data-center-startup-mavria-raises-100-million-seed-at-1-billion-valuation/","https://www.mavria.com/introducing","https://www.datacenterdynamics.com/en/news/former-us-doe-staffers-launch-modular-data-center-firm-mavria/"]}
+{"run":"2026-11-09-backfill","action":"merged","id":"9512f76613","company":"Mavria","from":"Mavria"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"9cbc73644b","company":"GenRobot AI","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"92003ff4cf","company":"Nature Select","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"304cc96ac0","company":"Foundry Robotics","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"d87cfe0432","company":"Pliant","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"67f0ba85f0","company":"EloElo Group","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"edbc5cdd93","company":"Kalepa","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"ef8f93f322","company":"Tutor Intelligence","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"20bf8a1f1c","company":"Casap","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"b210aa4368","company":"Humble Robotics","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"1fe890b0cc","company":"Formic","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"12402207d4","company":"Lazarus AI","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"2008b8268b","company":"Machenta","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"19c3b85061","company":"Corridian","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"bfe563d019","company":"Larridin","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"7d29fbc851","company":"URobotics","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"c3f535037b","company":"MAX","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"5dea003e5f","company":"Evertrue Capital","in_view":false,"exclude_reason":"fund"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"f79e4ed8b7","company":"Brava Security","in_view":true,"exclude_reason":null}
+{"run":"2026-11-09-backfill","action":"inserted","id":"b1fc65b64b","company":"PORT","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"0aefc322c2","company":"Cephable","in_view":false,"exclude_reason":"undisclosed"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"b410965fd2","company":"Simulacra","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"ed7793345c","company":"Venomics AI","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"e5fb986a1d","company":"Potential Sciences","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"44f8254061","company":"Two Point O Capital","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"9b28416b97","company":"Clinics On Cloud","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"42a48b0166","company":"GIVA","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"9ec35caa25","company":"Let's Game Now","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"2eabdbff71","company":"PowerUp Money","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"83b027c122","company":"Peppermint Robotics","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"6b8b782f44","company":"altM","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-09-backfill","action":"inserted","id":"20aa2095ac","company":"Bitzhilu","in_view":false,"exclude_reason":"non-us"}

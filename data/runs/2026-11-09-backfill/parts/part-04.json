@@ -1,0 +1,232 @@
+{
+ "run_date": "2026-11-09-backfill",
+ "part": 4,
+ "groups": [
+  {
+   "group_key": "lazarus",
+   "company_guess": "Lazarus AI",
+   "amount_hint_usd": 43000000,
+   "articles": [
+    {
+     "id": "23239dc5be1d",
+     "group_key": "lazarus",
+     "title": "Lazarus AI Raises $43 Million To Expand Independent AI Platform For Enterprises And Governments",
+     "publisher": "Pulse 2.0",
+     "url": "https://pulse2.com/lazarus-ai-raises-43-million-to-expand-independent-ai-platform-for-enterprises-and-governments/",
+     "published_at": "2026-11-03T19:13:43.000Z",
+     "amount_hint": "$43 Million",
+     "snippet": "Lazarus AI Raises $43 Million To Expand Independent AI Platform For Enterprises And Governments Pulse 2.0",
+     "text_status": "ok",
+     "text": "Lazarus AI Raises $43 Million To Expand Independent AI Platform For Enterprises And Governments\nBy Amit Chowdhry\nNov 3, 2026\nLazarus AI Raises $43 Million To Expand Independent AI Platform For Enterprises And Governments\nLazarus AI has raised $43 million in funding to expand its artificial intelligence platform for enterprises and governments that want greater control over their data, models, infrastructure, and deployment economics. Investors participating in the financing include QBE, Mucker Capital, Motivate Ventures, State Farm Ventures, Wave Function Ventures, Indelible Solutions, Joyance Partners, AllegisNL Capital, One Way Ventures, AngelList, Techstars, Plug and Play, and others.\nThe Boston-based company describes its approach as independent AI, allowing customers to deploy systems on-premises, within sovereign environments, or inside their own cloud infrastructure.\nLazarus said customers retain control over sensitive data and can approve model changes while reviewing the evidence supporting AI-generated results.\nThe company currently focuses on three primary areas: complex document analysis, cybersecurity, and modernization of legacy technology.\nIts Applied Intelligence System analyzes complex documents while citing findings back to their source pages. Lazarus said the technology has increased field-level accuracy by 12.5 percentage points compared with standalone models across 150 customer use cases.\nIts Clearwing cybersecurity product identifies vulnerabilities in source code, reproduces them, evaluates supporting evidence, and proposes potential fixes while leaving implementation decisions to engineers.\nConstructor is designed to recover business logic from legacy systems and generate modernized code that can be demonstrated as equivalent to the original software. Lazarus said it is currently piloting the technology with two major mainframe manufacturers.\nThe company said its platform does not charge customers per token and does not require applications to be rebuilt when underlying models or computing hardware change.\nIn one modeled high-volume deployment, Lazarus said its architecture reduced annual operating costs by 78% compared with pay-per-use frontier AI models.\nThe company plans to use the financing to expand strategic partnerships, invest in research and development, and introduce additional products.\nLazarus serves customers across insurance, healthcare, government, financial services, and technology in North America, Asia-Pacific, and Europe.\nKEY QUOTE:\n“The opportunity in AI is enormous. So is the question of control: who chooses the models, where data runs, how costs behave, and whether an organization can still change direction. Our customers keep sensitive data inside their walls, approve every model change and see the evidence behind every result.”\nAlex Panait, CEO Of Lazarus AI\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "imperial robotics",
+   "company_guess": "Imperial robotics",
+   "amount_hint_usd": 40000000,
+   "articles": [
+    {
+     "id": "35218454f325",
+     "group_key": "imperial robotics",
+     "title": "Imperial robotics AI spinout Machenta breaks seed funding record raising £40 million",
+     "publisher": "FelixOnline",
+     "url": "https://felixonline.co.uk/articles/imperial-spinout-machenta-40-million/",
+     "published_at": "2026-11-03T12:06:12.000Z",
+     "amount_hint": "£40 million",
+     "snippet": "Imperial robotics AI spinout Machenta breaks seed funding record raising £40 million FelixOnline",
+     "text_status": "ok",
+     "text": "News\nImperial robotics AI spinout Machenta breaks seed funding record raising £40 million\nCristina Carrillo\n3 Nov 2026\n— 1 min read\nMachenta, an Imperial spinout focused on the field of Instant Robot Learning, has raised £40 million in seed funding, the most ever by a UK robotics startup. This funding round was created by early Spotify backer VC firm Creandum and Union Square Ventures, who have also backed major tech startups like Etsy or Duolingo.\nLike for humans, intelligence for robots doesn’t mean knowing as much as it does being able to learn quickly and independently. This means robots could ideally recognise and recover from mistakes, react, and swiftly adapt to changing conditions and challenges, known as instant robot learning. Machenta claims its AI model allows robots to learn a task after it is shown it just once, a significant change from robots that have to be trained for hours or days. The company says a single model has already learned varied tasks such as packing and tidying across different robots, including humanoids.\nAn AI model now allows robots to learn a physical task after they are shown it once\nThe training approach also differs from the norm. Instead of relying on large real-world datasets of human demonstrations, Machenta’s model is trained only on simulated data, which could pose an advantage when considering privacy constraints of collecting human data at scale.\nMachenta’s work began six years ago at Imperial, researching an answer to how far we can mimic human learning processes for physical skills onto robots. The company was developed by Founder & CEO Professor Edward Johns and his team, who work at the Robot Learning Lab based in Imperial’s Department of Computing.\nThis new funding is expected to be used to scale this artificial intelligence model, as well as to expand the company to a new office space in King’s Cross.\nFeature image: Thomas Angus for Imperial College London\nTagged in:\nNews\nIssue 1906"
+    }
+   ]
+  },
+  {
+   "group_key": "boston startup",
+   "company_guess": "Boston startup",
+   "amount_hint_usd": 38000000,
+   "articles": [
+    {
+     "id": "e4d0b677036e",
+     "group_key": "boston startup",
+     "title": "Boston startup raises $38 million for its ultra-large Autonomous Underwater Vehicles",
+     "publisher": "DC Velocity",
+     "url": "https://www.dcvelocity.com/material-handling/robotics/boston-startup-raises-38-million-for-its-ultra-large-autonomous-underwater-vehicles",
+     "published_at": "2026-11-04T21:32:30.000Z",
+     "amount_hint": "$38 million",
+     "snippet": "Boston startup raises $38 million for its ultra-large Autonomous Underwater Vehicles DC Velocity",
+     "text_status": "thin",
+     "text": "Boston startup raises $38 million for its ultra-large Autonomous Underwater Vehicles\nCorridian says it will build an undersea stealth logistics fleet to haul containerized payloads across vast distances.\nBy DC Velocity Staff Nov 04, 2026\nDC Velocity Staff\nSee Full Bio"
+    }
+   ]
+  },
+  {
+   "group_key": "corridian",
+   "company_guess": "Corridian",
+   "amount_hint_usd": 38000000,
+   "articles": [
+    {
+     "id": "d187fcf67a20",
+     "group_key": "corridian",
+     "title": "Corridian Emerges From Stealth with $38M in Funding for Military Autonomous Underwater Vehicles",
+     "publisher": "AI Insider",
+     "url": "https://theaiinsider.tech/2026/11/03/corridian-emerges-from-stealth-with-38m-in-funding-for-military-autonomous-underwater-vehicles/",
+     "published_at": "2026-11-03T15:10:48.000Z",
+     "amount_hint": "$38M",
+     "snippet": "Corridian Emerges From Stealth with $38M in Funding for Military Autonomous Underwater Vehicles AI Insider",
+     "text_status": "ok",
+     "text": "Physical AI · Defence & Autonomous Systems\nCorridian Emerges From Stealth with $38M in Funding for Military Autonomous Underwater Vehicles\nBy Greg Bock · 3 November 2026 · 3 min read\nInsider Brief\nCorridian has emerged from stealth with $38 million in seed funding to develop large autonomous underwater vehicles capable of transporting military cargo and other payloads across thousands of nautical miles without a crew.\nLed by Point72 Ventures, the funding round will support development of the company’s first underwater vehicle, expansion of its research facility and engineering team, with a flagship model planned for unveiling in 2027.\nFounded by former General Dynamics executives, Corridian is designing vehicles to carry large payloads through contested waters while using suppliers outside the traditional submarine industrial base.\nCorridian has emerged from stealth with $38 million in seed funding to develop large autonomous underwater vehicles designed to transport military cargo and other payloads across thousands of nautical miles without a crew.\nAccording to the New England defense technology company , the round was led by Point72 Ventures , with participation from Balerion Space Ventures , Harpoon Ventures, DCVC , Marlinspike and other defense and technology investors.\nThe funding will go to development of Corridian’s first autonomous underwater vehicle (AUV), expansion of its research and development facility and hiring for its undersea engineering team. The company plans to unveil its flagship vehicle in 2027.\nCorridian is developing underwater vehicles capable of carrying large payloads in standard shipping containers over long distances while remaining difficult to detect in waters where military ships and aircraft face threats. Corridian’s initial development efforts focus on military cargo delivery, intelligence gathering, surveillance and reconnaissance.\n“America’s dependence on the surface and air domains to move mass at scale is an acute vulnerability,” co-founder and CEO Mike Guay sad in the announcement. “The United States and its allies are buying drones, sensors, effects, and supplies that need a way to reach the fight, even when operating in heavily contested and denied environments. That’s stealth logistics: carrying that cargo underwater, out of sight, autonomously, thousands of nautical miles at a time. Corridian adds the undersea capacity commanders need, working alongside the submarines that operate at the tip of the spear today.”\nThe company also plans to use suppliers outside the traditional submarine industrial base, allowing it to develop and manufacture its vehicles without competing directly for the shipyards and suppliers used to build crewed submarines.\nFounded in September 2025, Corridian was established by former General Dynamics executives Guay, Greg Barrow, Kyle Arace and Mark Bodnar. Guay serves as CEO, Barrow as president, Arace as chief technology officer and Bodnar as chief operating officer. The founders previously led a major portfolio of autonomous underwater systems at General Dynamics, including programs that entered service with the U.S. Navy, Royal Australian Navy and other military partners.\nCorridian has also assembled an advisory board that includes retired Adm. Lisa Franchetti, former U.S. chief of naval operations, who serves as a senior military adviser. Other advisers include Jason Potter, former acting assistant secretary of the Navy for research, development and acquisition; retir"
+    }
+   ]
+  },
+  {
+   "group_key": "larridin",
+   "company_guess": "Larridin",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "44c087991466",
+     "group_key": "larridin",
+     "title": "Larridin Raises $30 Million Series A to Measure AI Spending and Workforce Impact",
+     "publisher": "Unite.AI",
+     "url": "https://www.unite.ai/larridin-30-million-series-a-ai-spending-workforce-impact/",
+     "published_at": "2026-11-02T18:19:45.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Larridin Raises $30 Million Series A to Measure AI Spending and Workforce Impact Unite.AI",
+     "text_status": "ok",
+     "text": "Funding\nLarridin Raises $30 Million Series A to Measure AI Spending and Workforce Impact\nPublished\nNovember 2, 2026\nBy\nEvan Mercer, AI Startups & Venture Capital AI Research Agent\nAdd Unite.AI to your preferred sources on Google\nLarridin has raised $30 million in Series A funding led by Pelion Ventures , bringing its total financing to $47 million. The company measures how AI spending translates into work across employees and software agents, targeting enterprises seeking clearer evidence of return on their AI investments.\nExisting investors Andreessen Horowitz and Gradient Ventures participated alongside new investors GFT , W23 , Thayer , DG Daiwa Ventures , Alumni Ventures , and Cougar Capital .\nIn its November 2 announcement , Larridin said it has measured more than 2 billion AI sessions and tracked over 82,000 workflows. The funding will support product development and team expansion.\nConnecting AI Bills to Business Output\nThe financial challenge goes beyond counting active users. An organization can pay for seats, consume model tokens, and run automated agents without knowing which activities improve its work. Measuring adoption shows whether tools are being used; measuring value requires connecting that usage to a useful result and the cost of producing it.\nLarridin’s AI Impact product documentation describes combining invoiced licenses, token usage, and cloud-model costs with observed workflows and engineering-system data. It maps spend to departments and compares the work produced against that investment.\nThe methodology distinguishes AI-supported capacity from realized cash savings. Human-equivalent hours can estimate the work AI contributes, but their financial value depends on the baseline and how an organization uses that capacity. More available time does not automatically reduce a budget or staffing requirement.\nThat distinction is especially important when reading dashboard examples. Larridin explicitly labels its illustrative figures, including example ROI multiples and hours returned. Those demonstrations explain the calculation rather than establish a particular customer’s result.\nHow Workflow Intelligence Observes Work\nThe company’s Workflow Intelligence platform uses a browser extension and desktop agent to observe activity in applications selected by administrators. Larridin says it collects metadata such as active applications, their sequence, time spent in each step, and transitions between tools.\nThe product documentation says message bodies, document contents, screen recordings, and keystrokes are not collected. Views aggregate at team level by default, with individual views disabled unless enabled by administrators.\nThose observations are grouped into workflows so teams can examine duration, repetition, friction, and where AI is involved. The platform ranks automation opportunities and tracks them through pilots and completed deployments against captured baselines.\nSeparating potential, modeled, and realized capacity matters here. A workflow identified as an automation candidate has not yet delivered the same benefit as one already running successfully in production.\nEngineering Measurement Includes Quality and Review\nLarridin’s Developer Intelligence offering connects engineering output with AI cost, delivery speed, and code quality. Its measures include output per $1,000 of AI spend, defect rates, and pull-request cycle time compared with a team’s own baseline.\nThe product also examines agent sessions and the"
+    },
+    {
+     "id": "4ba64468ffff",
+     "group_key": "larridin",
+     "title": "Larridin Raises $30 Million in Series A to Prove AI’s Impact Across the Human and Agent Workforce",
+     "publisher": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV1JJbnhyNkhDdWZxYXFlV2dkcEdiUkdPYkxBYjY0MDNnLTcyZ0RRcG9zSDAzSEVIcVd3S3QzYWNyM1UzaEttOVB1V0c5WnhvakxrSDE0cUdxcjZ5S1Y5WkNEcEI4N0pGbmgyWFhHLUt0ZEZnUGxpQ3VkVG9IMTZRMVJjbkZBRWlTZGRiZjd3ZW1CemFhTzJWZUlYZjUydw?oc=5",
+     "published_at": "2026-11-02T17:00:00.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Larridin Raises $30 Million in Series A to Prove AI’s Impact Across the Human and Agent Workforce Yahoo Finance",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "23822091102a",
+     "group_key": "larridin",
+     "title": "Larridin Raises $30 Million Series A Led By Pelion Ventures To Measure Enterprise AI Returns",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUN1MjZpNklQaW16NDNuTGpVSVlrSVgwc2NYeEFwcFVDLXFmUUNPNkxqOFdFdG9KN2kzeTNjbU45RENoWno5OFdWRDBaT2RDWTd1RFpyandNc1Zvc1gzbGV1T0dGdjRiMTRQZUhHUXFnVmszeFFIMmtQU1FyVEt2WncwUklQR0RwRV8yckRlLTdhWmVxeW9DOWtTOXlYOW5Lc2NvajhYYmVFaWpoZm5XRw?oc=5",
+     "published_at": "2026-11-04T14:29:12.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Larridin Raises $30 Million Series A Led By Pelion Ventures To Measure Enterprise AI Returns Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "7e23e263c10c",
+     "group_key": "larridin",
+     "title": "Larridin Raises $30 Million to Expand Enterprise AI Measurement",
+     "publisher": "Ventureburn",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObGhtV09vYUY1a2xKYkxMVkdkZlUyNnluWVRJeVNwV3hkR3NETGNTWjVRLTZxdDBKakNwVUxQWF9wRGVCX29rRnRscEhsZk03RlJFejEwRzU0aXFEM2Nsa1lKUURGMkxrVG9sTk1KSmtsNTZQWW1qMU9PeTJhaS15WDBkWdIBgwFBVV95cUxObGhtV09vYUY1a2xKYkxMVkdkZlUyNnluWVRJeVNwV3hkR3NETGNTWjVRLTZxdDBKakNwVUxQWF9wRGVCX29rRnRscEhsZk03RlJFejEwRzU0aXFEM2Nsa1lKUURGMkxrVG9sTk1KSmtsNTZQWW1qMU9PeTJhaS15WDBkWQ?oc=5",
+     "published_at": "2026-11-02T21:37:43.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Larridin Raises $30 Million to Expand Enterprise AI Measurement Ventureburn",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "corporate americas",
+   "company_guess": "Corporate America's AI",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "52e982b71280",
+     "group_key": "corporate americas",
+     "title": "Corporate America's AI bill is ballooning. This startup raised $30 million to make sense of where the money is going.",
+     "publisher": "Business Insider",
+     "url": "https://www.businessinsider.com/larridin-ai-spending-measurement-series-a-30-million-2026-11",
+     "published_at": "2026-11-02T14:00:00.000Z",
+     "amount_hint": "$30 million",
+     "snippet": "Corporate America's AI bill is ballooning. This startup raised $30 million to make sense of where the money is going. Business Insider",
+     "text_status": "thin",
+     "text": "Business Insider tells the innovative stories you want to know"
+    }
+   ]
+  },
+  {
+   "group_key": "urobotics",
+   "company_guess": "URobotics",
+   "amount_hint_usd": 29900000,
+   "articles": [
+    {
+     "id": "f56876984efe",
+     "group_key": "urobotics",
+     "title": "Robot autonomy startup URobotics raises $29.9M Series A at a tenfold valuation jump",
+     "publisher": "Dealroom",
+     "url": "https://app.dealroom.co/news/note/robot-autonomy-startup-urobotics-raises-29-9m-series-a-at-a-tenfold-valuation-jump",
+     "published_at": "2026-11-06T00:45:54.000Z",
+     "amount_hint": "$29.9M",
+     "snippet": "Robot autonomy startup URobotics raises $29.9M Series A at a tenfold valuation jump Dealroom",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "nigerian e mobility startup",
+   "company_guess": "Nigerian E-Mobility Startup",
+   "amount_hint_usd": 29000000,
+   "articles": [
+    {
+     "id": "f0d9735269fe",
+     "group_key": "nigerian e mobility startup",
+     "title": "Nigerian E-Mobility Startup MAX Secures Nithio Funding, Raises Series B3 Round to $29 Million",
+     "publisher": "Tech In Africa",
+     "url": "https://www.techinafrica.com/nigerian-e-mobility-startup-max-secures-nithio-funding-raises-series-b3-round-to-29-million/",
+     "published_at": "2026-11-05T08:15:19.000Z",
+     "amount_hint": "$29 Million",
+     "snippet": "Nigerian E-Mobility Startup MAX Secures Nithio Funding, Raises Series B3 Round to $29 Million Tech In Africa",
+     "text_status": "thin",
+     "text": "Egypt’s MNT-Halan Doubles Quarterly Profit to EGP 836 Million, Raises EGP 4 Billion Through IPO"
+    }
+   ]
+  },
+  {
+   "group_key": "yvonne bajela is bringing",
+   "company_guess": "Yvonne Bajela is bringing",
+   "amount_hint_usd": 17000000,
+   "articles": [
+    {
+     "id": "30f668a27daa",
+     "group_key": "yvonne bajela is bringing",
+     "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+     "publisher": "Dominic-Madori Davis",
+     "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+     "published_at": "2026-11-03T08:01:00.000Z",
+     "amount_hint": "$17M",
+     "snippet": "Evertrue Capital announces $17M debut fund to back early-stage AI and fintech.",
+     "text_status": "ok",
+     "text": "Yvonne Bajela knew it was time to launch her own fund. She spent more than a decade as a VC, most recently at LocalGlobe and Impact X Capital Partners, where she made bets on now-unicorn companies like the fintech Wise, the insurance company Marshmallow, and robotaxi Mooves.\nOn Tuesday, she announced that her own fund, Evertrue Capital , officially closed an oversubscribed $17 million Fund I.\n“After more than a decade backing founders who bet everything on their ideas, it felt like time to make a bet of my own,” she said. “I wanted the independence to act on those convictions and build something that reflected my own approach to investing.”\nThe firm, which has already backed seven companies, will focus on early-stage investing across the U.K. and Europe. The average check size will be around £350,000, she said, with plans to back at least 20 companies over the next three years.\nPerhaps unsurprisingly, she said this AI boom helped her realize that this was the right time to launch her own fund. Not only has it changed the economics of launching a company, she said, but it has created new opportunities for early-stage investors like herself. “The ability to build has been democratized,” she said. “But the ability to build something enduring remains rare.”\nAs TechCrunch has previously reported, the U.K.’s startup scene is having a moment. King’s Cross, for example, is one of the world’s top AI hubs, while companies like Revolut, Synthesia, ElevenLabs, and the Bezos-backed CuspAI are redefining what it means to scale and attract success in the U.K. market. For someone like Bajela, this moment means there is an opportunity to snap up investments in the next generation of top British talent early. “I think more globally significant businesses will emerge from a wider range of starting points,” she said.\nHowever, this is also a tough market for emerging fund managers. In the U.S., it has been described as a barbell market where capital is concentrated at the top and among firms led by those who already have solid track records. Things may be slightly rosier in the U.K., as PitchBook data through the end of September shows that emerging fund managers in this region raised $7.4 billion, already surpassing the $6.2 billion they raised in all of 2025.\nStill, Bajela said fundraising was a grind. The hardest rejections weren’t necessarily the outright nos. “They were the ones that came after months of conversations and significant time invested, only for the answer to ultimately be no,” she said. “Time is one of the most valuable resources a founder has, and a prolonged process without clarity has a real cost.”\nStill, she said the fund nabbed five institutional backers, including the British Business Bank and Basecamp, the fund-of-funds of the investment firm Phoenix Court, which is also home to LocalGlobe. Evertrue was part of the £400 million British Business Bank’s Investor Pathways capital initiative, which saw it distribute £90 million to 10 first-time fund managers. Bajela said Evertrue wanted to raise around $13 million but saw a lot of investor interest. She decided to turn down additional investors rather than expand the fund size.\n“Fund size is a strategic decision, not a measure of success in itself,” she said. “I wanted enough capital to build meaningful positions in my highest-conviction investments without creating pressure to deploy capital simply because it was available.”\nAround 80% of Evertrue’s LPs are U.K. based, with the rest sc"
+    }
+   ]
+  },
+  {
+   "group_key": "brava security",
+   "company_guess": "Brava Security",
+   "amount_hint_usd": 15000000,
+   "articles": [
+    {
+     "id": "7e5948eaf97c",
+     "group_key": "brava security",
+     "title": "Brava Security Raises $15M Seed to Expand AI SecOps in North America",
+     "publisher": "Unite.AI",
+     "url": "https://www.unite.ai/brava-security-raises-15m-seed-to-expand-ai-secops-in-north-america/",
+     "published_at": "2026-11-04T17:18:02.000Z",
+     "amount_hint": "$15M",
+     "snippet": "Brava Security Raises $15M Seed to Expand AI SecOps in North America Unite.AI",
+     "text_status": "ok",
+     "text": "Funding\nBrava Security Raises $15M Seed to Expand AI SecOps in North America\nPublished\nNovember 4, 2026\nBy\nEvan Mercer, AI Startups & Venture Capital AI Research Agent\nAdd Unite.AI to your preferred sources on Google\nBrava Security announced on November 4, 2026 that it was emerging from stealth with $15 million in seed funding led by F2 Venture Capital and Pitango, alongside a multi-agent platform designed to test whether security tools would actually detect an attack.\nThe round includes angel investors who are executives at Anthropic, Microsoft and Check Point . The capital is designated for Brava’s technology and growth across North America, including financial services, government and energy. Brava says it already works with Fortune 100 companies in retail, energy and hospitality.\nThe launch addresses a weakness in AI-driven security operations : an agent can make decisions about threats it recognizes while remaining unaware of attacks that its underlying defenses fail to detect. Brava identifies missing log collection, silently broken telemetry pipelines and flawed detection logic as potential causes.\nGenerating Evidence Without Running Attacks\nBrava’s cooperating AI agents model attacker behavior and synthesize the telemetry an attack would produce across a customer’s environment without executing it. The process operates independently of existing detection rules and predefined tests, establishing what defenses should recognize before testing what they currently catch.\nThe platform works alongside the customer’s existing SIEM. Its detection-engineering function checks which attack steps current defenses recognize, identifies rules that stay silent, and writes missing detections in the SIEM’s own query language using only fields present in the generated evidence. It then replays that evidence to confirm that a real alert appears.\nScheduled game days repeat the validation after environmental changes. Evidence-backed maps show validated, partial, blind and missing-telemetry areas, while surfaced failures include broken detections, schema drift and dead log sources.\nAquarium, the investigation agent, accepts plain-English questions, plans and adjusts queries, and searches the SIEM, archived logs, EDR and cloud audit trails. Its reports link each finding to the underlying raw events.\nThe data-pipeline function sends events needed by detections to the SIEM and moves other data to searchable, low-cost storage rather than deleting it. Brava reports that this routing has cut SIEM costs by 65–85% across customers.\nReported Scale and Early Deployments\nBrava says the platform supports more than 70 sources and destinations, including Splunk, Microsoft Sentinel, Google SecOps, CrowdStrike NG-SIEM , Elastic Security and IBM QRadar, with initial insights available 10–15 minutes after a SIEM is connected.\nThe company reports the following rounded daily measurements across customer environments: 2.4 trillion events read and fingerprinted, 1,100 attack techniques replayed, 3,800 detections retested and 140,000 fields mapped each day.\nWELL Health CISO Iain Paterson said in a testimonial published by Brava that the platform helped his organization build and operationalize a new SIEM in weeks. “The continuous detection engineering makes sure that we never have dead rules and constantly have new detections being added,” he said.\nFounders Behind the Platform\nThe founder biographies identify Idan Basre as co-founder and CEO in New York and Itay Gabbay as c"
+    }
+   ]
+  }
+ ]
+}

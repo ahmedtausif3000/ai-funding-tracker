@@ -31,8 +31,20 @@ const mergeLog = [];
 let inserted = 0, merged = 0, excluded = 0;
 
 for (const r of validated.rows) {
-  const match = store.rounds.find((x) => tokenSimilarity(x.company, r.company) >= 0.85 && amountClose(x.amount_usd, r.amount_usd) && daysApart(x.announced_date, r.announced_date) <= 21);
+  let match = store.rounds.find((x) => tokenSimilarity(x.company, r.company) >= 0.85 && amountClose(x.amount_usd, r.amount_usd) && daysApart(x.announced_date, r.announced_date) <= 21);
   const now = new Date().toISOString();
+  // Same company, same window, materially different amount: treat as the same round and keep the better-sourced figure.
+  if (!match) {
+    const alt = store.rounds.find((x) => tokenSimilarity(x.company, r.company) >= 0.85 && daysApart(x.announced_date, r.announced_date) <= 21 && x.round_type !== 'Debt' && r.round_type !== 'Debt');
+    if (alt && r.amount_usd != null) {
+      const pressWire = (urls) => (urls || []).some((u) => /prnewswire|businesswire|globenewswire|newswire|accesswire/i.test(u));
+      const newBetter = pressWire(r.source_urls) && !pressWire(alt.source_urls) || ((r.confidence ?? 0) > (alt.confidence ?? 0) + 0.15);
+      mergeLog.push({ run: RUN_DATE, action: newBetter ? 'amount-corrected' : 'amount-conflict', id: alt.id, company: alt.company, stored_amount: alt.amount_usd, incoming_amount: r.amount_usd, incoming_sources: r.source_urls });
+      alt.alt_amounts = [...new Set([...(alt.alt_amounts || []), newBetter ? alt.amount_usd : r.amount_usd].filter((v) => v != null))];
+      if (newBetter) { alt.amount_usd = r.amount_usd; alt.amount_disclosed = true; if (r.round_type !== 'Venture - Unspecified') { alt.round_type = r.round_type; alt.stage_bucket = r.stage_bucket; } alt.transaction_name = `${alt.round_type} - ${alt.company}`; }
+      match = alt;
+    }
+  }
   if (match) {
     const before = JSON.stringify(match);
     match.investors = uniq([...(match.investors || []), ...(r.investors || [])]);
