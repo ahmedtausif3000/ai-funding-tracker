@@ -17,6 +17,8 @@ Steps, in order:
 
 5. Write `data/runs/<run_date>/summary.md`: 5 to 15 lines with the run date, feed health, counts (candidates, rows extracted, inserted, merged, in view), the in-scope rounds added today as a bullet list (company, amount, round, lead), and anything suspicious.
 
-6. Configure git identity if needed (`git config user.name "ai-funding-tracker bot"`, `git config user.email "ahmedtausif3000@users.noreply.github.com"`). Commit everything under `data/` and `docs/` with message `daily: <run_date> — <n> in-scope rounds added` and `git push origin main`. If the push is rejected, create branch `daily/<run_date>`, push it, and open a pull request with the summary as the body.
+6. Configure git identity if needed (`git config user.name "ai-funding-tracker bot"`, `git config user.email "ahmedtausif3000@users.noreply.github.com"`). The checkout may be a detached HEAD, so never push a branch by name. Commit everything under `data/` and `docs/` with the message `daily: <run_date> — <n> in-scope rounds added`, then run exactly:
+   `git pull --rebase origin main && git push origin HEAD:main`
+   If that push is rejected, run `git push origin HEAD:refs/heads/daily/<run_date>` and open a pull request against main with the summary as the body.
 
 Quality bar: correctness over coverage. A missing round is better than a wrong amount or an invented investor. Never scrape crunchbase.com or any site that returns 403 or a captcha. Never log in to anything.
