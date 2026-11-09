@@ -53,16 +53,17 @@
     const isNew = r.first_seen_run === lastRun;
     const chips = (arr) => arr && arr.length ? arr.map((x) => `<span class="chip">${esc(x)}</span>`).join('') : '<span class="muted">not disclosed</span>';
     const loc = [r.hq_city, r.hq_state || (r.hq_country !== 'US' ? r.hq_country : '')].filter(Boolean).join(', ');
+    const sources = (r.source_urls || []).slice(0, 4).map((u) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))}</a>`).join('');
+    const notes = [r.currency_note, r.ai_ml_rationale, (r.confidence != null && r.confidence < 0.6) ? `low confidence (${Math.round(r.confidence * 100)}%)` : null].filter(Boolean).join(' · ');
     return `<tr class="${r.in_view ? '' : 'out'}">
       <td class="tx">${esc(r.transaction_name || `${r.round_type} - ${r.company}`)}${isNew ? '<span class="badge">NEW</span>' : ''}</td>
       <td class="num">${fmtUsd(r.amount_usd)}</td>
       <td>${esc(fmtDate(r.announced_date))}</td>
       <td>${esc(r.round_type)}<div class="muted" style="font-size:12px">${esc(r.stage_bucket)}</div></td>
       <td>${chips(r.lead_investors)}</td>
-      <td><b>${r.website ? `<a href="https://${esc(r.website.replace(/^https?:\/\//, ''))}" target="_blank" rel="noopener">${esc(r.company)}</a>` : esc(r.company)}</b>${loc ? `<div class="muted" style="font-size:12px">${esc(loc)}</div>` : ''}</td>
-      <td class="desc">${esc(r.description || '')}</td>
+      <td class="org"><b>${r.website ? `<a href="https://${esc(r.website.replace(/^https?:\/\//, ''))}" target="_blank" rel="noopener">${esc(r.company)}</a>` : esc(r.company)}</b>${loc ? `<div class="muted" style="font-size:12px">${esc(loc)}</div>` : ''}${sources ? `<div class="src">${sources}</div>` : ''}</td>
+      <td class="desc">${esc(r.description || '')}${notes ? `<div class="notes">${esc(notes)}</div>` : ''}</td>
       <td>${chips(r.investors)}</td>
-      <td class="src">${(r.source_urls || []).slice(0, 4).map((u) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))}</a>`).join('')}</td>
     </tr>`;
   }
 

@@ -21,6 +21,16 @@ const meta = {
 fs.mkdirSync(path.join(ROOT, 'docs'), { recursive: true });
 fs.writeFileSync(path.join(ROOT, 'docs', 'rounds.json'), JSON.stringify({ updated_at: store.updated_at, rounds: store.rounds }));
 fs.writeFileSync(path.join(ROOT, 'docs', 'meta.json'), JSON.stringify(meta, null, 2));
+// Cache-bust versioned assets (GitHub Pages caches for 10 minutes)
+import('node:crypto').then(({ createHash }) => {
+  const idx = path.join(ROOT, 'docs', 'index.html');
+  let html = fs.readFileSync(idx, 'utf8');
+  for (const f of ['app.js', 'styles.css']) {
+    const h = createHash('sha1').update(fs.readFileSync(path.join(ROOT, 'docs', f))).digest('hex').slice(0, 8);
+    html = html.replace(new RegExp(`${f.replace('.', '\\.')}\\?v=[a-z0-9]+`), `${f}?v=${h}`);
+  }
+  fs.writeFileSync(idx, html);
+});
 // CSV export for spreadsheets
 const cols = ['transaction_name', 'company', 'amount_usd', 'announced_date', 'round_type', 'stage_bucket', 'lead_investors', 'investors', 'hq_city', 'hq_state', 'hq_country', 'is_ai_ml', 'description', 'website', 'source_urls', 'in_view', 'first_seen_run'];
 const esc = (v) => { const s = Array.isArray(v) ? v.join('; ') : v == null ? '' : String(v); return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s; };
