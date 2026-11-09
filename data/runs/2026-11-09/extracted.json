@@ -1,7 +1,7 @@
 {
  "run_date": "2026-11-09",
- "extractor": "local dry run (agent)",
- "notes": "Local dry run. Merged groups: 'shield' x3 + Crunchbase round-up -> one Shield AI Series H row (plus a $500M Debt row and an Echodyne acquisition row); 'drone delivery firm' + 'weeks 10 biggest funding' -> Zipline; 'cesiumastro' + round-up -> CesiumAstro; 'applied compute' + round-up -> Applied Compute; 'onodrim industries' + 'palantir alumni founded dutch defencetech' -> Onodrim; 'coframe' x2 -> Coframe ($25M Series A within $35M total); 'geniosai' + 'financial intelligence platform' -> geniosAI; 'australian founded future' + 'five australian startups that' -> Future Secure AI; 'funding weekly' OpenAI item folded into 'openai reportedly'. Previously announced rounds re-surfaced by later coverage (dates kept as original announcement): Brahma AI (2026-09-23), Rillet (2026-08-18), Go.AI (2026-09-22), Dulo/&Truth/Midstream (late Oct), Longeye (2026-10-21), Trajectory/42AI/fal/Traversal/Applied Compute (Nov 2-3). Skipped: space round-up items without exact dates (K2 Space, Varda, Hubble Network) and ICEYE (June, >120 days); Salesforce/Fin $3.6B acquisition (June 2026); 'ex jd com execs stealth robotics' (company unnamed, amount undisclosed); Crunchbase round-up items 7-10 (text truncated). Unsure: Mavria (no web coverage found; hq unknown), Spines (lookups found no $64M coverage), Sentra/CesiumAstro is_ai_ml set false as judgment calls, Cyera marked not-funding (reported talks), Shield AI $1B Blackstone structured equity not emitted as a separate row (would merge with the Series H row by company/amount/date). Web lookups: 19 targets, 23 searches + 16 fetches; Mavria (3 attempts) and Spines (2) failed; Dulo secondary page 403; Google News redirect URLs not fetchable.",
+ "extractor": "claude-code routine",
+ "notes": "Local dry run. Merged groups: 'shield' x3 + Crunchbase round-up -> one Shield AI Series H row (plus a $500M Debt row and an Echodyne acquisition row); 'drone delivery firm' + 'weeks 10 biggest funding' -> Zipline; 'cesiumastro' + round-up -> CesiumAstro; 'applied compute' + round-up -> Applied Compute; 'onodrim industries' + 'palantir alumni founded dutch defencetech' -> Onodrim; 'coframe' x2 -> Coframe ($25M Series A within $35M total); 'geniosai' + 'financial intelligence platform' -> geniosAI; 'australian founded future' + 'five australian startups that' -> Future Secure AI; 'funding weekly' OpenAI item folded into 'openai reportedly'. Previously announced rounds re-surfaced by later coverage (dates kept as original announcement): Brahma AI (2026-09-23), Rillet (2026-08-18), Go.AI (2026-09-22), Dulo/&Truth/Midstream (late Oct), Longeye (2026-10-21), Trajectory/42AI/fal/Traversal/Applied Compute (Nov 2-3). Skipped: space round-up items without exact dates (K2 Space, Varda, Hubble Network) and ICEYE (June, >120 days); Salesforce/Fin $3.6B acquisition (June 2026); 'ex jd com execs stealth robotics' (company unnamed, amount undisclosed); Crunchbase round-up items 7-10 (text truncated). Unsure: Mavria (no web coverage found; hq unknown), Spines (lookups found no $64M coverage), Sentra/CesiumAstro is_ai_ml set false as judgment calls, Cyera marked not-funding (reported talks), Shield AI $1B Blackstone structured equity not emitted as a separate row (would merge with the Series H row by company/amount/date). Web lookups: 19 targets, 23 searches + 16 fetches; Mavria (3 attempts) and Spines (2) failed; Dulo secondary page 403; Google News redirect URLs not fetchable. | Cloud run: appended Panthalassa, Agility, MNT-Halan, Qinghua-Stanford; Spines/Newmo already present.",
  "rows": [
   {
    "group_key": "brookfield",
@@ -2312,6 +2312,142 @@
     "https://www.prnewswire.com/news-releases/kos-biotechnology-partners-announces-investment-in-fathom-therapeutics-to-advan"
    ],
    "exclude_reason": "duplicate"
+  },
+  {
+   "website": "panthalassa.com",
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Peter Thiel"
+   ],
+   "investors": [
+    "Peter Thiel"
+   ],
+   "hq_city": "Portland",
+   "hq_state": "OR",
+   "is_ai_ml": true,
+   "exclude_reason": null,
+   "confidence": 0.85,
+   "group_key": "floating",
+   "candidate_ids": [
+    "699307ac0901"
+   ],
+   "company": "Panthalassa",
+   "amount_usd": 140000000,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-09",
+   "hq_country": "US",
+   "ai_ml_rationale": "Builds autonomous offshore wave-powered platforms for AI compute (AI infrastructure).",
+   "description": "Autonomous floating offshore platforms that generate wave power and host AI compute hardware cooled by seawater.",
+   "evidence": {
+    "amount": "Peter Thiel leads a $140 million Series B",
+    "round": "Peter Thiel leads a $140 million Series B",
+    "lead": "Peter Thiel leads a $140 million Series B",
+    "investors": "Peter Thiel leads a $140 million Series B"
+   },
+   "source_urls": [
+    "https://www.gadgetreview.com/floating-ai-data-centers-powered-by-ocean-waves-just-raised-140-million"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Salem",
+   "hq_state": "OR",
+   "is_ai_ml": false,
+   "exclude_reason": "public-company",
+   "confidence": 0.7,
+   "group_key": "agility robotics",
+   "candidate_ids": [
+    "0be613787ba9"
+   ],
+   "company": "Agility Robotics",
+   "amount_usd": 465000000,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-04",
+   "hq_country": "US",
+   "ai_ml_rationale": "Public company after Nasdaq listing.",
+   "description": "Maker of Digit, a bipedal humanoid warehouse robot.",
+   "evidence": {
+    "amount": "raised 465 million dollars through a private investment agreement",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://suaragarut.id/en/agility-robotics-nasdaq-debut"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "exclude_reason": "public-company",
+   "confidence": 0.6,
+   "group_key": "egypts mnt halan doubles quarterly",
+   "candidate_ids": [
+    "35e79e7c8c4e"
+   ],
+   "company": "MNT-Halan",
+   "amount_usd": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-09",
+   "hq_country": "EG",
+   "ai_ml_rationale": "Fintech IPO, not AI.",
+   "description": "Egyptian fintech that raised EGP 4 billion through an IPO.",
+   "evidence": {
+    "amount": "Raises EGP 4 Billion Through IPO",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.techinafrica.com/egypts-mnt-halan-doubles-quarterly-profit-to-egp-836-million-raises-egp-4-billion-through-ipo/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "exclude_reason": null,
+   "confidence": 0.4,
+   "group_key": "qinghua stanford team",
+   "candidate_ids": [
+    "e06f40473cc2"
+   ],
+   "company": "Qinghua-Stanford team",
+   "amount_usd": 15000000,
+   "round_type": "Other",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-09",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Building an AI research \"superfactory\".",
+   "description": "Team building an AI research superfactory; only the headline was available (source blocked).",
+   "evidence": {
+    "amount": "raises $15M angel round",
+    "round": "angel round",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/qinghua-stanford-team-raises-15m-angel-round-to-build-an-ai-research-superfactory"
+   ]
   }
  ]
 }

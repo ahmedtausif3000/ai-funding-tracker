@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-09T16:59:53.993Z",
+  "generated_at": "2026-11-09T18:16:49.812Z",
   "last_run": "2026-11-09",
-  "total_rounds": 62,
-  "in_view": 21,
+  "total_rounds": 66,
+  "in_view": 22,
   "week": {
-    "count": 14,
-    "total_usd": 15895100000,
+    "count": 15,
+    "total_usd": 16035100000,
     "largest": {
       "company": "OpenAI",
       "amount_usd": 11000000000
@@ -24,17 +24,17 @@
   "runs": [
     {
       "run_date": "2026-11-09",
-      "inserted": 62,
-      "merged": 0,
-      "excluded_on_insert": 41,
-      "total_rounds": 62,
-      "in_view": 21,
+      "inserted": 4,
+      "merged": 62,
+      "excluded_on_insert": 3,
+      "total_rounds": 66,
+      "in_view": 22,
       "fetch": {
         "feeds": [
           {
             "id": "gnews-1",
             "status": 200,
-            "items": 28
+            "items": 22
           },
           {
             "id": "gnews-2",
@@ -54,17 +54,17 @@
           {
             "id": "gnews-5",
             "status": 200,
-            "items": 26
+            "items": 25
           },
           {
             "id": "gnews-6",
             "status": 200,
-            "items": 30
+            "items": 27
           },
           {
             "id": "gnews-7",
             "status": 200,
-            "items": 28
+            "items": 27
           },
           {
             "id": "gnews-8",
@@ -112,22 +112,22 @@
             "items": 10
           }
         ],
-        "raw_items": 270,
-        "prefiltered": 72,
+        "raw_items": 236,
+        "prefiltered": 11,
         "dropped": {
-          "not_funding": 115,
-          "no_ai_hint": 10,
-          "below_min": 27,
+          "not_funding": 94,
+          "no_ai_hint": 7,
+          "below_min": 32,
           "fund_close": 2,
-          "seen": 0,
-          "duplicate_link": 44,
-          "known_round": 0
+          "seen": 87,
+          "duplicate_link": 3,
+          "known_round": 5
         },
-        "groups": 59,
-        "selected_groups": 59,
-        "candidates": 72,
-        "articles_fetched": 19,
-        "google_rate_limited": true
+        "groups": 10,
+        "selected_groups": 6,
+        "candidates": 6,
+        "articles_fetched": 5,
+        "google_rate_limited": false
       }
     }
   ]

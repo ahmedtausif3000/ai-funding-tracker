@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-09T16:59:39.410Z",
+ "updated_at": "2026-11-09T18:16:49.615Z",
  "rounds": [
   {
    "id": "b11b69c29f",
@@ -41,7 +41,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.401Z",
-   "updated_at": "2026-11-09T16:59:39.401Z",
+   "updated_at": "2026-11-09T18:16:49.594Z",
    "in_view": false
   },
   {
@@ -83,7 +83,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.597Z",
    "in_view": false
   },
   {
@@ -128,7 +128,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.597Z",
    "in_view": false
   },
   {
@@ -171,7 +171,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.598Z",
    "in_view": false
   },
   {
@@ -219,7 +219,53 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.598Z",
+   "in_view": true
+  },
+  {
+   "id": "746c40f7b1",
+   "website": "panthalassa.com",
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Peter Thiel"
+   ],
+   "investors": [
+    "Peter Thiel"
+   ],
+   "hq_city": "Portland",
+   "hq_state": "OR",
+   "is_ai_ml": true,
+   "exclude_reason": null,
+   "confidence": 0.85,
+   "group_key": "floating",
+   "candidate_ids": [
+    "699307ac0901"
+   ],
+   "company": "Panthalassa",
+   "amount_usd": 140000000,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-09",
+   "hq_country": "US",
+   "ai_ml_rationale": "Builds autonomous offshore wave-powered platforms for AI compute (AI infrastructure).",
+   "description": "Autonomous floating offshore platforms that generate wave power and host AI compute hardware cooled by seawater.",
+   "evidence": {
+    "amount": "Peter Thiel leads a $140 million Series B",
+    "round": "Peter Thiel leads a $140 million Series B",
+    "lead": "Peter Thiel leads a $140 million Series B",
+    "investors": "Peter Thiel leads a $140 million Series B"
+   },
+   "source_urls": [
+    "https://www.gadgetreview.com/floating-ai-data-centers-powered-by-ocean-waves-just-raised-140-million"
+   ],
+   "transaction_name": "Series B - Panthalassa",
+   "first_seen_run": "2026-11-09",
+   "runs": [
+    "2026-11-09"
+   ],
+   "created_at": "2026-11-09T18:16:49.604Z",
+   "updated_at": "2026-11-09T18:16:49.604Z",
    "in_view": true
   },
   {
@@ -261,7 +307,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.401Z",
-   "updated_at": "2026-11-09T16:59:39.401Z",
+   "updated_at": "2026-11-09T18:16:49.594Z",
    "in_view": false
   },
   {
@@ -303,7 +349,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.599Z",
    "in_view": false
   },
   {
@@ -347,7 +393,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.404Z",
-   "updated_at": "2026-11-09T16:59:39.404Z",
+   "updated_at": "2026-11-09T18:16:49.604Z",
    "in_view": false
   },
   {
@@ -391,7 +437,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.600Z",
    "in_view": true
   },
   {
@@ -433,7 +479,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.601Z",
    "in_view": false
   },
   {
@@ -485,7 +531,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.601Z",
    "in_view": true
   },
   {
@@ -537,7 +583,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.602Z",
    "in_view": true
   },
   {
@@ -579,7 +625,49 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.401Z",
-   "updated_at": "2026-11-09T16:59:39.401Z",
+   "updated_at": "2026-11-09T18:16:49.595Z",
+   "in_view": false
+  },
+  {
+   "id": "8fc9a0fe63",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "exclude_reason": null,
+   "confidence": 0.4,
+   "group_key": "qinghua stanford team",
+   "candidate_ids": [
+    "e06f40473cc2"
+   ],
+   "company": "Qinghua-Stanford team",
+   "amount_usd": 15000000,
+   "round_type": "Other",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-09",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Building an AI research \"superfactory\".",
+   "description": "Team building an AI research superfactory; only the headline was available (source blocked).",
+   "evidence": {
+    "amount": "raises $15M angel round",
+    "round": "angel round",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/qinghua-stanford-team-raises-15m-angel-round-to-build-an-ai-research-superfactory"
+   ],
+   "transaction_name": "Other - Qinghua-Stanford team",
+   "first_seen_run": "2026-11-09",
+   "runs": [
+    "2026-11-09"
+   ],
+   "created_at": "2026-11-09T18:16:49.606Z",
+   "updated_at": "2026-11-09T18:16:49.606Z",
    "in_view": false
   },
   {
@@ -621,7 +709,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.404Z",
-   "updated_at": "2026-11-09T16:59:39.404Z",
+   "updated_at": "2026-11-09T18:16:49.603Z",
    "in_view": false
   },
   {
@@ -667,7 +755,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.404Z",
-   "updated_at": "2026-11-09T16:59:39.404Z",
+   "updated_at": "2026-11-09T18:16:49.604Z",
    "in_view": false
   },
   {
@@ -709,7 +797,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.602Z",
    "in_view": false
   },
   {
@@ -761,7 +849,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.602Z",
    "in_view": false
   },
   {
@@ -803,7 +891,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.404Z",
-   "updated_at": "2026-11-09T16:59:39.404Z",
+   "updated_at": "2026-11-09T18:16:49.604Z",
    "in_view": false
   },
   {
@@ -845,7 +933,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.602Z",
    "in_view": false
   },
   {
@@ -887,7 +975,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.603Z",
    "in_view": false
   },
   {
@@ -929,7 +1017,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.597Z",
    "in_view": false
   },
   {
@@ -971,7 +1059,49 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.404Z",
-   "updated_at": "2026-11-09T16:59:39.404Z",
+   "updated_at": "2026-11-09T18:16:49.604Z",
+   "in_view": false
+  },
+  {
+   "id": "639fedd55d",
+   "website": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "exclude_reason": "public-company",
+   "confidence": 0.6,
+   "group_key": "egypts mnt halan doubles quarterly",
+   "candidate_ids": [
+    "35e79e7c8c4e"
+   ],
+   "company": "MNT-Halan",
+   "amount_usd": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-09",
+   "hq_country": "EG",
+   "ai_ml_rationale": "Fintech IPO, not AI.",
+   "description": "Egyptian fintech that raised EGP 4 billion through an IPO.",
+   "evidence": {
+    "amount": "Raises EGP 4 Billion Through IPO",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.techinafrica.com/egypts-mnt-halan-doubles-quarterly-profit-to-egp-836-million-raises-egp-4-billion-through-ipo/"
+   ],
+   "transaction_name": "Other - MNT-Halan",
+   "first_seen_run": "2026-11-09",
+   "runs": [
+    "2026-11-09"
+   ],
+   "created_at": "2026-11-09T18:16:49.606Z",
+   "updated_at": "2026-11-09T18:16:49.606Z",
    "in_view": false
   },
   {
@@ -1013,7 +1143,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.598Z",
    "in_view": false
   },
   {
@@ -1066,7 +1196,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.600Z",
    "in_view": true
   },
   {
@@ -1115,7 +1245,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.404Z",
-   "updated_at": "2026-11-09T16:59:39.404Z",
+   "updated_at": "2026-11-09T18:16:49.603Z",
    "in_view": false
   },
   {
@@ -1157,7 +1287,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.404Z",
-   "updated_at": "2026-11-09T16:59:39.404Z",
+   "updated_at": "2026-11-09T18:16:49.603Z",
    "in_view": false
   },
   {
@@ -1202,7 +1332,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.404Z",
-   "updated_at": "2026-11-09T16:59:39.404Z",
+   "updated_at": "2026-11-09T18:16:49.603Z",
    "in_view": false
   },
   {
@@ -1250,7 +1380,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.404Z",
-   "updated_at": "2026-11-09T16:59:39.404Z",
+   "updated_at": "2026-11-09T18:16:49.603Z",
    "in_view": false
   },
   {
@@ -1292,7 +1422,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.600Z",
    "in_view": false
   },
   {
@@ -1336,7 +1466,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.404Z",
-   "updated_at": "2026-11-09T16:59:39.404Z",
+   "updated_at": "2026-11-09T18:16:49.604Z",
    "in_view": false
   },
   {
@@ -1378,7 +1508,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.404Z",
-   "updated_at": "2026-11-09T16:59:39.404Z",
+   "updated_at": "2026-11-09T18:16:49.604Z",
    "in_view": false
   },
   {
@@ -1420,7 +1550,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.400Z",
-   "updated_at": "2026-11-09T16:59:39.400Z",
+   "updated_at": "2026-11-09T18:16:49.594Z",
    "in_view": false
   },
   {
@@ -1463,7 +1593,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.401Z",
-   "updated_at": "2026-11-09T16:59:39.401Z",
+   "updated_at": "2026-11-09T18:16:49.595Z",
    "in_view": true
   },
   {
@@ -1511,7 +1641,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.597Z",
    "in_view": false
   },
   {
@@ -1553,7 +1683,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.597Z",
    "in_view": false
   },
   {
@@ -1600,7 +1730,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.404Z",
-   "updated_at": "2026-11-09T16:59:39.404Z",
+   "updated_at": "2026-11-09T18:16:49.604Z",
    "in_view": false
   },
   {
@@ -1646,7 +1776,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.602Z",
    "in_view": true
   },
   {
@@ -1691,7 +1821,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.601Z",
    "in_view": false
   },
   {
@@ -1733,7 +1863,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.404Z",
-   "updated_at": "2026-11-09T16:59:39.404Z",
+   "updated_at": "2026-11-09T18:16:49.603Z",
    "in_view": false
   },
   {
@@ -1775,7 +1905,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.404Z",
-   "updated_at": "2026-11-09T16:59:39.404Z",
+   "updated_at": "2026-11-09T18:16:49.603Z",
    "in_view": false
   },
   {
@@ -1820,7 +1950,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.596Z",
    "in_view": false
   },
   {
@@ -1879,7 +2009,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.597Z",
    "in_view": true
   },
   {
@@ -1939,7 +2069,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.401Z",
-   "updated_at": "2026-11-09T16:59:39.401Z",
+   "updated_at": "2026-11-09T18:16:49.595Z",
    "in_view": true
   },
   {
@@ -1996,7 +2126,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.598Z",
    "in_view": false
   },
   {
@@ -2046,7 +2176,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.401Z",
-   "updated_at": "2026-11-09T16:59:39.401Z",
+   "updated_at": "2026-11-09T18:16:49.596Z",
    "in_view": false
   },
   {
@@ -2097,8 +2227,50 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.602Z",
    "in_view": true
+  },
+  {
+   "id": "3aec09b300",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Salem",
+   "hq_state": "OR",
+   "is_ai_ml": false,
+   "exclude_reason": "public-company",
+   "confidence": 0.7,
+   "group_key": "agility robotics",
+   "candidate_ids": [
+    "0be613787ba9"
+   ],
+   "company": "Agility Robotics",
+   "amount_usd": 465000000,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-04",
+   "hq_country": "US",
+   "ai_ml_rationale": "Public company after Nasdaq listing.",
+   "description": "Maker of Digit, a bipedal humanoid warehouse robot.",
+   "evidence": {
+    "amount": "raised 465 million dollars through a private investment agreement",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://suaragarut.id/en/agility-robotics-nasdaq-debut"
+   ],
+   "transaction_name": "Other - Agility Robotics",
+   "first_seen_run": "2026-11-09",
+   "runs": [
+    "2026-11-09"
+   ],
+   "created_at": "2026-11-09T18:16:49.606Z",
+   "updated_at": "2026-11-09T18:16:49.606Z",
+   "in_view": false
   },
   {
    "id": "b09f05d77b",
@@ -2150,7 +2322,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.599Z",
    "in_view": true
   },
   {
@@ -2201,7 +2373,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.404Z",
-   "updated_at": "2026-11-09T16:59:39.404Z",
+   "updated_at": "2026-11-09T18:16:49.603Z",
    "in_view": true
   },
   {
@@ -2255,7 +2427,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.598Z",
    "in_view": true
   },
   {
@@ -2309,7 +2481,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.599Z",
    "in_view": true
   },
   {
@@ -2352,7 +2524,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.599Z",
    "in_view": false
   },
   {
@@ -2396,7 +2568,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.600Z",
    "in_view": false
   },
   {
@@ -2446,7 +2618,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.601Z",
    "in_view": true
   },
   {
@@ -2493,7 +2665,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.599Z",
    "in_view": true
   },
   {
@@ -2536,7 +2708,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.600Z",
    "in_view": true
   },
   {
@@ -2585,7 +2757,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.601Z",
    "in_view": true
   },
   {
@@ -2633,7 +2805,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.602Z",
    "in_view": true
   },
   {
@@ -2676,7 +2848,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.597Z",
    "in_view": false
   },
   {
@@ -2726,7 +2898,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.600Z",
    "in_view": true
   },
   {
@@ -2774,7 +2946,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.599Z",
    "in_view": false
   },
   {
@@ -2824,7 +2996,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-09T16:59:39.402Z",
+   "updated_at": "2026-11-09T18:16:49.599Z",
    "in_view": false
   },
   {
@@ -2867,7 +3039,7 @@
     "2026-11-09"
    ],
    "created_at": "2026-11-09T16:59:39.403Z",
-   "updated_at": "2026-11-09T16:59:39.403Z",
+   "updated_at": "2026-11-09T18:16:49.600Z",
    "in_view": true
   }
  ],
