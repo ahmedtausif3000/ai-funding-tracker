@@ -5,8 +5,8 @@ export const USER_AGENT = 'ai-funding-tracker/0.1 (personal research feed; conta
 export const BROWSER_UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36';
 
 // Google News RSS search. `when:Nd` restricts recency; max ~100 items per query.
-export function googleNewsQueries(days) {
-  const when = `when:${days}d`;
+export function googleNewsQueries(days, range) {
+  const when = range ? `after:${range.from} before:${range.to}` : `when:${days}d`;
   const qs = [
     `"raises" ("Series A" OR "Series B" OR "Series C" OR "Series D" OR "seed") AI`,
     `AI startup raises million funding round`,
@@ -18,7 +18,7 @@ export function googleNewsQueries(days) {
     `"emerges from stealth" AI million`,
   ];
   return qs.map((q, i) => ({
-    id: `gnews-${i + 1}`,
+    id: range ? `gnews-${i + 1}-${range.from}` : `gnews-${i + 1}`,
     kind: 'google-news',
     ai_specific: true,
     url: `https://news.google.com/rss/search?q=${encodeURIComponent(q + ' ' + when)}&hl=en-US&gl=US&ceid=US:en`,

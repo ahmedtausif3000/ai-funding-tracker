@@ -7,8 +7,20 @@ on:
   workflow_dispatch:
     inputs:
       days:
-        description: "Lookback window in days"
+        description: "Lookback window in days (ignored when from is set)"
         default: "2"
+      from:
+        description: "Backfill start date YYYY-MM-DD (optional)"
+        default: ""
+      to:
+        description: "Backfill end date YYYY-MM-DD (optional, defaults to today)"
+        default: ""
+      label:
+        description: "Run directory name for a backfill (optional)"
+        default: ""
+      max_groups:
+        description: "Max candidate groups"
+        default: "150"
 
 permissions:
   contents: write
@@ -20,7 +32,7 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
         with:
@@ -32,8 +44,12 @@ jobs:
         id: fetch
         run: |
           set -o pipefail
-          node scripts/fetch-candidates.mjs --days "${{ github.event.inputs.days || '2' }}" 2>&1 | tee fetch.log
-          echo "run_date=$(date -u +%F)" >> "$GITHUB_OUTPUT"
+          ARGS=(--days "${{ github.event.inputs.days || '2' }}" --max-groups "${{ github.event.inputs.max_groups || '150' }}")
+          if [ -n "${{ github.event.inputs.from }}" ]; then ARGS+=(--from "${{ github.event.inputs.from }}"); fi
+          if [ -n "${{ github.event.inputs.to }}" ]; then ARGS+=(--to "${{ github.event.inputs.to }}"); fi
+          if [ -n "${{ github.event.inputs.label }}" ]; then ARGS+=(--date "${{ github.event.inputs.label }}"); fi
+          node scripts/fetch-candidates.mjs "${ARGS[@]}" 2>&1 | tee fetch.log
+          echo "run_date=${{ github.event.inputs.label }}" | sed "s/run_date=$/run_date=$(date -u +%F)/" >> "$GITHUB_OUTPUT"
       - name: Commit candidates
         run: |
           git config user.name "ai-funding-tracker bot"

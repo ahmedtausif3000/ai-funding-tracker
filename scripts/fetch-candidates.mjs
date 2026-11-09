@@ -12,6 +12,8 @@ import { htmlToText, extractMainHtml, parseAmount, FUNDING_VERB_RE, FUNDING_CTX_
 
 const args = Object.fromEntries(process.argv.slice(2).map((a, i, arr) => a.startsWith('--') ? [a.slice(2), arr[i + 1] && !arr[i + 1].startsWith('--') ? arr[i + 1] : true] : []).filter(Boolean));
 const DAYS = Number(args.days || 2);
+const FROM = args.from || null; // YYYY-MM-DD inclusive
+const TO = args.to || null;     // YYYY-MM-DD inclusive
 const RUN_DATE = args.date || isoDate();
 const FETCH_ARTICLES = !args['no-articles'];
 const MAX_GROUPS = Number(args['max-groups'] || 150);
@@ -28,9 +30,17 @@ const rounds = readJson(path.join(ROOT, 'data', 'rounds.json'), { rounds: [] }).
 
 const log = (...m) => console.error(`[fetch ${new Date().toISOString().slice(11, 19)}]`, ...m);
 const hash = (s) => crypto.createHash('sha1').update(s).digest('hex').slice(0, 12);
-const cutoff = Date.now() - (DAYS + 0.5) * 86400e3;
+const cutoff = FROM ? Date.parse(FROM + 'T00:00:00Z') : Date.now() - (DAYS + 0.5) * 86400e3;
+const ceiling = TO ? Date.parse(TO + 'T00:00:00Z') + 86400e3 : Infinity;
+// Weekly windows for date-range backfills (Google News returns at most ~100 items per query).
+const windows = [];
+if (FROM) {
+  let a = Date.parse(FROM + 'T00:00:00Z'); const end = Date.parse((TO || isoDate()) + 'T00:00:00Z');
+  while (a <= end) { const b = Math.min(a + 6 * 86400e3, end); windows.push({ from: isoDate(a), to: isoDate(b + 86400e3) }); a = b + 86400e3; }
+  log(`date range ${FROM}..${TO || isoDate()} in ${windows.length} weekly windows`);
+}
 
-const sources = [...googleNewsQueries(DAYS), ...STATIC_FEEDS];
+const sources = [...(windows.length ? windows.flatMap((w) => googleNewsQueries(DAYS, w)) : googleNewsQueries(DAYS)), ...STATIC_FEEDS];
 const feedStats = [];
 const raw = [];
 for (const src of sources) {
@@ -41,7 +51,7 @@ for (const src of sources) {
     log(`${src.id}: ${res.status} ${items.length} items`);
     for (const it of items) {
       const pub = it.published ? Date.parse(it.published) : NaN;
-      if (!Number.isNaN(pub) && pub < cutoff) continue;
+      if (!Number.isNaN(pub) && (pub < cutoff || pub > ceiling)) continue;
       raw.push({ ...it, source_feed: src.id, ai_specific: src.ai_specific, kind: src.kind });
     }
   } catch (e) {
@@ -169,7 +179,7 @@ log(`articles fetched ${fetched}, blocked ${blocked}`);
 
 const candidates = selected.flatMap((g) => g.members);
 const out = {
-  run_date: RUN_DATE, generated_at: new Date().toISOString(), window_days: DAYS, min_amount_usd: MIN_AMOUNT,
+  run_date: RUN_DATE, generated_at: new Date().toISOString(), window_days: DAYS, range: FROM ? { from: FROM, to: TO || isoDate() } : null, min_amount_usd: MIN_AMOUNT,
   stats: { feeds: feedStats, raw_items: raw.length, prefiltered: cands.length, dropped, groups: groups.length, selected_groups: selected.length, candidates: candidates.length, articles_fetched: fetched, google_rate_limited: googleStop },
   groups: selected.map((g) => ({ key: g.key, company_guess: g.company_guess, amount_hint_usd: g.amount, candidate_ids: g.members.map((m) => m.id) })),
   candidates,
