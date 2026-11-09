@@ -1,0 +1,256 @@
+{
+ "run_date": "backfill-2026-10-01_2026-11-09",
+ "part": 18,
+ "groups": [
+  {
+   "group_key": "jedify",
+   "company_guess": "Jedify",
+   "amount_hint_usd": 24000000,
+   "articles": [
+    {
+     "id": "e42c2f9024f0",
+     "group_key": "jedify",
+     "title": "Jedify raises $24 million in Series A funding to expand enterprise AI platform",
+     "publisher": "Ynetnews",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwd3BsNi0zaXZ0V3BnOUhMZ084cFJrT0NKZnZLUUYxUy1sNk05QUt3NjhhdHFnV2dOOFdRYi1EZ05TWmFkRjJCOGRlWkJteVpNZ2s2NDZ5Qk44ZGhNcWtJdGFR?oc=5",
+     "published_at": "2026-10-06T07:00:00.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Jedify raises $24 million in Series A funding to expand enterprise AI platform Ynetnews",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "frances rivercell",
+   "company_guess": "France's Rivercell",
+   "amount_hint_usd": 22000000,
+   "articles": [
+    {
+     "id": "98d2f0748eb7",
+     "group_key": "frances rivercell",
+     "title": "France's Rivercell emerges from stealth with €22 million for AI-powered drug discovery infrastructure - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUDVtd2wwYWNlTndqWEhjVGF5cW11MFpPejZfOHFBVG1iSWN0R3ZaSkJpWWlfWnhnR0lFS0wwdnlodjFsazdCVU1sclBXYUpxcHhhSTgwTzhHOHMxM1dNSG51eTduUGgtTS0wbUpEMlllX2NSZ1R3UEtuT25FdlZKX0M4TmtjcEN0MzU2R1E2d2cxNU1CZk1IcTlsWFV2OGR3YzZxalpGYmpvLTJsOTlXUnVabHdscDRYRldNdk1ZMkdfNUROa3pQeFpLS3Riejk5Ulpr?oc=5",
+     "published_at": "2026-10-07T07:00:00.000Z",
+     "amount_hint": "€22 million",
+     "snippet": "France's Rivercell emerges from stealth with €22 million for AI-powered drug discovery infrastructure EU-Startups",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "75614e59ee71",
+     "group_key": "frances rivercell",
+     "title": "Rivercell raises €22M seed for AI virtual cell in Paris",
+     "publisher": "Konsulteer",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPajFLd0Z5aUZJcWZSdnBhbHMzZGNqdzZNQ1BMbDVtVXdicktrTks5X0xvQjlSV0o5Ymk4NlhsMHRLT0FSLW5VLXVFSE53U2x1VzhzV1VnY0pWRXBkZjNnTUdPenVMalJFSjhBT2xqS015djlhWm5QbDBBQ2FlOE12Q3ZneVJ4aGlqOVBUM2JfZmRSamsyT2VxQ09hZ2JlZmRpVHlMUVFxUy16UEdDT3pwTTJIaHhUXzI5cnVB?oc=5",
+     "published_at": "2026-10-08T07:00:00.000Z",
+     "amount_hint": "€22M",
+     "snippet": "Rivercell raises €22M seed for AI virtual cell in Paris Konsulteer",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "ozlo",
+   "company_guess": "Ozlo",
+   "amount_hint_usd": 22000000,
+   "articles": [
+    {
+     "id": "4cdc21f83c10",
+     "group_key": "ozlo",
+     "title": "Ozlo Raises $22 Million Series B Led by Modi Ventures to Expand Its Sleep Technology Ecosystem",
+     "publisher": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcXptVjZjUFBWajYwd2pqcno1M0tSNVYzekR3N09qYXg2N0psU182Wi1uQ1FNRjJmajJIS1VNeURuTUJFMjhmaklPMUhhVHFEbXhfd280QWhBd3NqTGNQLVl5SmMtWVVoaWJrR1lKY05DTThVNVhJM0ppN2d6Yzh2NTR0cUMtM3k3aFZ5Z2lpWXhyaThP?oc=5",
+     "published_at": "2026-10-29T07:00:00.000Z",
+     "amount_hint": "$22 Million",
+     "snippet": "Ozlo Raises $22 Million Series B Led by Modi Ventures to Expand Its Sleep Technology Ecosystem Yahoo Finance",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "opsin",
+   "company_guess": "Opsin",
+   "amount_hint_usd": 21000000,
+   "articles": [
+    {
+     "id": "286d817eb519",
+     "group_key": "opsin",
+     "title": "Opsin Raises $21M Led by SYN Ventures and Race Capital to Expand AI Agent Security Platform",
+     "publisher": "citybiz",
+     "url": "https://www.opsinsecurity.com/",
+     "published_at": "2026-10-15T07:00:00.000Z",
+     "amount_hint": "$21M",
+     "snippet": "Opsin Raises $21M Led by SYN Ventures and Race Capital to Expand AI Agent Security Platform citybiz",
+     "text_status": "ok",
+     "text": "Opsin raises $21M to secure the agentic enterprise.\nHear from our founders →\nWhy Opsin\nSolutions\nAI Agent Discovery\nThis is some text inside of a div block.\nAgent Runtime Security\nThis is some text inside of a div block.\nAI Agent Governance\nThis is some text inside of a div block.\nMCP Governance\nThis is some text inside of a div block.\nAgent Identity Security\nThis is some text inside of a div block.\nAI Risk Assessment\nThis is some text inside of a div block.\nOngoing Oversharing Protection\nThis is some text inside of a div block.\nBy Industry\nHealthcare & Life Sciences\nFinancial Services\nManufacturing & Industrial\nIT Services\nEnergy\nAI Platforms\nClaude Enterprise\nChatGPT Enterprise\nMicrosoft Copilot\nCopilot Studio\nGoogle Gemini\nCustomer Stories\nThis is some text inside of a div block.\nLearn how Barry-Wehmiller reduced data oversharing and safely scaled Microsoft Copilot across terabytes of legacy M365 data with Opsin.\nThis is some text inside of a div block.\nExplore how Cascade protected CMMC data, reduced oversharing, and safely prepared for Microsoft Copilot deployment using Opsin.\nThis is some text inside of a div block.\nDiscover how Culligan cut sensitive data in Copilot results from 80% to under 15% using Opsin to govern AI at scale.\nThis is some text inside of a div block.\nLearn how Encore strengthened data controls, uncovered oversharing, and prepared for secure Microsoft Copilot deployment with Opsin.\nThis is some text inside of a div block.\nExplore how UiPath gained visibility into custom GPTs and secured ChatGPT Enterprise deployment with proactive AI agent governance and Opsin.\nThis is some text inside of a div block.\nDiscover how Wellstar gained visibility into Copilot risk, protected healthcare data, and enabled safe AI expansion using Opsin.\nResources\nCategories\nView all →\nBlog\nNews\nQuick Guides\nWhitepapers\nReport\nWebcasts\nVideos\nProduct Updates\nThis is some text inside of a div block.\nThis is some text inside of a div block.\nThis is some text inside of a div block.\nThis is some text inside of a div block.\nBy Resource Type\nThis is some text inside of a div block.\nThis is some text inside of a div block.\nThis is some text inside of a div block.\nThis is some text inside of a div block.\nThis is some text inside of a div block.\nThis is some text inside of a div block.\nThis is some text inside of a div block.\nThis is some text inside of a div block. About Careers Get a Demo →\nGet a demo\nControl agents. Intelligently.\nOpsin’s risk graph continuously maps intent, identity, data, and access, learning from activity to control agent risk.\nSee Opsin in action →\nTrusted by leaders\nSee what they say ↓\nAgent Era Challenge\nWorkforce AI tools require a new  security model\nTraditional security tools produce fragmented signals, making it difficult to understand  which agent behaviors actually create business risks.\n60%\nworkforce has access to sanctioned AI tools, which grew from 40% in one year.\nSource: Deloitte\n82%\nenterprises have unknown AI agents across their environments.\nSource: 2026 Cloud Security Alliance survey\n74%\nreport over-permissioned agents , and 79% report hard-to-monitor access pathways created by agents.\nSource: CSA\nOpsin Platform\nUnderstand and fix the risks that matter most\nOpsin sees the full picture behind AI and agent activity to classify and surface the highest-priority risks.\nAgent Visibility\nFind every employee-built agent across the enterprise, with a continuously updated inventory as your AI environment changes.\nOp"
+    },
+    {
+     "id": "e0b944558857",
+     "group_key": "opsin",
+     "title": "Opsin Raises $21 Million Led By SYN Ventures And Race Capital For AI Agent Security",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM2tmQ2RqYm1xUXJDeDMxMFV5VWZCNmMyY2xIWGZta1VsY2lLV2lNQ2MwZmxES0Y3aGZlT1ViQkFUUFZUTnpwYTNvbFNBWk05dFJUMlNMcVNWejBzeHBRbVlJa09mM3RzS092X2EzczZMeUh6eHlualpVOWJuTFdSY2k3aUpTYzlLWVhOR0V3OUVIWW1veTlvQk01aTU4MXJQd1FoNw?oc=5",
+     "published_at": "2026-10-15T07:00:00.000Z",
+     "amount_hint": "$21 Million",
+     "snippet": "Opsin Raises $21 Million Led By SYN Ventures And Race Capital For AI Agent Security Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "supa",
+   "company_guess": "Supa",
+   "amount_hint_usd": 21000000,
+   "articles": [
+    {
+     "id": "e0713ae84271",
+     "group_key": "supa",
+     "title": "Supa raises £21M in seed funding to transform UK residential block management",
+     "publisher": "Tech.eu",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaVBzdENpZnM1NnZzYmlocDYzX1EyVGh2QkYzOEdvQmZjWkp0Vy1rVE9DZWM5aUtBREd3YlY2YnUyOHBYUm5xSmttV2FsckpmeHFzTktlLU1GbjROazBfcXB1MmJJY1l4NHAxRkd5aU1JQUIxd1J4clNvQk5hTUxMQ0JXZ1ZIUko4M2NOQjN5OXhET0tIcHNPS2JvV2lDX1JnMmtjdHE4bFp6Zw?oc=5",
+     "published_at": "2026-11-04T09:36:16.000Z",
+     "amount_hint": "£21M",
+     "snippet": "Supa raises £21M in seed funding to transform UK residential block management Tech.eu",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "auxoai",
+   "company_guess": "AuxoAI",
+   "amount_hint_usd": 20700000,
+   "articles": [
+    {
+     "id": "8887bb99569a",
+     "group_key": "auxoai",
+     "title": "AuxoAI Raises $20.7M Series A Led by NTTVC to Scale Enterprise AI Deployments",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHdQbDRmU2wzcXV1LXA5djZaWEFibExyNHZubi1TbHlFX0tGdnB2N0VPVXhJSk10Um9iLUh4UFBUTXJtTEp1N25ZVGRwLW1qVXRTNGl3WEpqV1BDLU5ZcHdoQmpHSzlOMC1xUzgwYy10VklWdmFZSFRSbkZ4UVdvUFkwb2lQdVppMmFxeUVNbVh3YXhHNlBwYk84UFZSS0R6dnVxbWZKUUkxblF0Ui1uRVNpc3lGZw?oc=5",
+     "published_at": "2026-10-22T07:00:00.000Z",
+     "amount_hint": "$20.7M",
+     "snippet": "AuxoAI Raises $20.7M Series A Led by NTTVC to Scale Enterprise AI Deployments citybiz",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "861c70eaf8c2",
+     "group_key": "auxoai",
+     "title": "Forward deployed AI startup AuxoAI raises $20.7 Mn in Series A round led by NTTVC",
+     "publisher": "Entrackr",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1VtUDJUWGdPTi03M05wdkVldFlHc0RCUUJWUW13alB5OEVyS2xZZ3pOb0V3cVJnUmlJbUVzQ1ZNX1lYY2M0UldPU2R2anpOc0FVeUkzWEJMSXlQUm1BRS1JeW9DMG5WSFFPbXA5ODhzbXJCWjRJVTBCdjFBUUg1SFpuLW9XRzNyNFJ2a0o0d0ZNMzRGcWlzWjJCSVUzLXo5ZXRPWHhXMEFfTTBGOU9hdVpOWTTSAbQBQVVfeXFMTU9VbVAyVFhnT04tNzNOcHZFZXRZR3NEQlFCVlFtd2pQeThFcktsWWd6Tm9Fd3FSZ1JpSW1Fc0NWTV9ZWGNjNFJXT1Nkdmp6TnNBVXlJM1hCTEl5UFJtQUUtSXlvQzBuVkhRT21wOTg4c21yQlo0SVUwQnYxQVFINUhabi1vV0czcjRSdmtKNHdGTTM0RnFpc1oyQklVMy16OWV0T1h4VzBBX00wRjlPYXVaTlk0?oc=5",
+     "published_at": "2026-10-21T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Forward deployed AI startup AuxoAI raises $20.7 Mn in Series A round led by NTTVC Entrackr",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "811d6b7e1e1c",
+     "group_key": "auxoai",
+     "title": "Enterprise AI startup AuxoAI raises $20.7 million in Series A funding led by NTTVC",
+     "publisher": "Indian Startup News",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdEtTNkRWdWVGaklYdnFYS1R4UkwzNm5kVGZWVFFOcEYzeVhGcDRETy1iUE1UUUN2d2xZSzVLcWViaklzN1Roay01RzlDMXVZYlp6Q0dBSjEwLUtiNDhFTnl3UWMtd2tUVDhzTGkweV9pVkVPdGRHNjM3akZXLXVndkQ3WXpaN3VKYXpBVUU2cmxTaG1nQmJmWk0wb1JMZ3FyOXlyelA0QkduUkdOV1ZueXRKMHFORVlyV2ozcXU0ZkF5eXZTRkHSAcYBQVVfeXFMTXRLUzZEVnVlRmpJWHZxWEtUeFJMMzZuZFRmVlRRTnBGM3lYRnA0RE8tYlBNVFFDdndsWUs1S3FlYmpJczdUaGstNUc5QzF1WWJaekNHQUoxMC1LYjQ4RU55d1FjLXdrVFQ4c0xpMHlfaVZFT3RkRzYzN2pGVy11Z3ZEN1l6Wjd1SmF6QVVFNnJsU2htZ0JiZlpNMG9STGdxcjl5cnpQNEJHblJHTldWbnl0SjBxTkVZcldqM3F1NGZBeXl2U0ZB?oc=5",
+     "published_at": "2026-10-21T07:00:00.000Z",
+     "amount_hint": "$20.7 million",
+     "snippet": "Enterprise AI startup AuxoAI raises $20.7 million in Series A funding led by NTTVC Indian Startup News",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "hamburgs procuros",
+   "company_guess": "Hamburg’s Procuros",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "72c8b83e22b1",
+     "group_key": "hamburgs procuros",
+     "title": "Hamburg’s Procuros raises €20 million Series A to build AI-native infrastructure for autonomous B2B trade - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNmxLXy1iRURxX0pMcU1QR053Y0lPTGNvdk9sN0RGVkItYUhOc2ZhRm93VVI1blRicmlGSnJwOEtkc09SeUhRUEQ0aVpmVWdHTFJaekJxSlAtdzdXMW1Ya015U1hiVU41Q3U2UHF2YU15ZDl4Ylp3NlVHclJDdDlvbkJOYW1SV3FiRm1SZklmTkk3eU4tTjNWdDhVRGt1UVBRdWdtOVU1LWloMVV5aVpISzJwdnBJN2NjY1pwWDNCYlZNbFdoTTEtWGtUYkhYYy1DSE03dWlSZ1A?oc=5",
+     "published_at": "2026-10-06T07:00:00.000Z",
+     "amount_hint": "€20 million",
+     "snippet": "Hamburg’s Procuros raises €20 million Series A to build AI-native infrastructure for autonomous B2B trade EU-Startups",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "b234979cbc1a",
+     "group_key": "hamburgs procuros",
+     "title": "Hamburg-based startup Procuros raises €20 million Series A for autonomous b2b trade push",
+     "publisher": "Retail Technology Innovation Hub",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWQtOUVwLVN2VEw4WWNJWU5Ebk1oQlowRndzU1BuZXVxTml3VFpVZVJIb2NlcFd3WkxZSmZBWUdScXVsZ2IwWmlRYzVXamM2QzdMTlZSam1FbHV1WnNvOFRmWVJXcXQyV1VmY2loLTFtRHRMUHRtTlh0aVRkZlllMk9RRV9KdVN2bWZLSVRzS1drVklGWUdmaFQ3TVg3WW1CZnJFcko4Qks4NTBYSDBidVhoNFF2MGlkNkRBeEJianZyRU5xamtUd09lQ3g5TURESmwzZw?oc=5",
+     "published_at": "2026-10-06T07:00:00.000Z",
+     "amount_hint": "€20 million",
+     "snippet": "Hamburg-based startup Procuros raises €20 million Series A for autonomous b2b trade push Retail Technology Innovation Hub",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "ex ramp engineers",
+   "company_guess": "Ex-Ramp engineers",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "0a04845de599",
+     "group_key": "ex ramp engineers",
+     "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+     "publisher": "TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmo0STBBRXR6WVE0WG1nTHp6eW93NWxGN3FKSmxMWlFlVExSWkZnNk9sS3BZZE5SQmtOT29RY2lHbWRiaHZaUk54aEs1b0daZHBVUm1HeGt2U2FXeTEzbXBhazhzanlWSTZlN01OcE1zazdqNEZVaDRaZnctN1B5b3YtUVgtbkhlTkllLVZXVGJxYTlWTnV0d253S25rWS0yUEVsSThQWS00U0lXUnN1bi1OSjBnalFOaEE?oc=5",
+     "published_at": "2026-10-06T07:00:00.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product TechCrunch",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "onebyzero",
+   "company_guess": "OneByZero",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "30e45fa3fbb9",
+     "group_key": "onebyzero",
+     "title": "OneByZero Raises $20 Million Series A Led By Jungle Ventures",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbk1idldPSTlaX0piR1NNOHZPVTZlcV84Si1mM2ZiNktsaUc2YVkyWlB5YXFRbklYOV8tTWVtS0NLaEMwQmx1SXp4cDYwanZTWHltUFA3WE5XYkhFX2dxTjF1eGI3Uks4eUdsWGtjSVRBR3V5dExweWxLZ1ZWb3hRZkY4cEFaQdIBiwFBVV95cUxOTWRmNVU2Qkwzem5ZZmZiaUw3NUVVZGVSZVJpNWpnaUhiOGwyelAyamNiaVRDMzZtLVpYUDEtSTZzQkpQY1ZUQmY2aDFKS0JodGc0ZnhLZEpBaHB6OHE0czY1UVFpSDhrNExXOWJ6cDUzX2doSjQwaG1kVjQzUHl3VDV1YzhpQ2l1QmdV?oc=5",
+     "published_at": "2026-10-05T07:00:00.000Z",
+     "amount_hint": "$20 Million",
+     "snippet": "OneByZero Raises $20 Million Series A Led By Jungle Ventures Pulse 2.0",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "basalt health",
+   "company_guess": "Basalt Health",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "dc2619ce8b94",
+     "group_key": "basalt health",
+     "title": "Basalt Health Raises $20 Million Series A Led By NEA",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82RVlGNVNzd05qLW5ibEVDOU1PRzF5R0V1V3lrR3FTaVc1UEJYMkVXQkZ6ZkFHVndyalJ5eC02RzQ1RzlISE5UQnd2YlBhYlZFX0Q0TW55SEppQzl5eFhwX3JLcllwSm80b1hFeVV5ajNIa2laSW94MGQ0NNIBgAFBVV95cUxOODJBNk1xeDk0Q1NWaGhFQklMb0dBVno0RERTU28zRkFIejg3LW12d3R2eHlnUlU3Zml2TUJIZ19WbXVqQlhfbGtBR2JiUl9TZWViWVVDVGtxSkNFXzZENlhoRm9kSkhJX0FPeEN2WDgtMFp1b0o2THBwdjlma3lJZw?oc=5",
+     "published_at": "2026-10-04T07:00:00.000Z",
+     "amount_hint": "$20 Million",
+     "snippet": "Basalt Health Raises $20 Million Series A Led By NEA Pulse 2.0",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

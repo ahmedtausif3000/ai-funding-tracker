@@ -1,0 +1,256 @@
+{
+ "run_date": "backfill-2026-10-01_2026-11-09",
+ "part": 17,
+ "groups": [
+  {
+   "group_key": "mave",
+   "company_guess": "Mave",
+   "amount_hint_usd": 28000000,
+   "articles": [
+    {
+     "id": "7f101283721e",
+     "group_key": "mave",
+     "title": "Cyber startup Mave raises $28 million Series A to automate threat investigations",
+     "publisher": "CTech",
+     "url": "https://www.performcarenj.org/cyber",
+     "published_at": "2026-10-22T07:00:00.000Z",
+     "amount_hint": "$28 million",
+     "snippet": "Cyber startup Mave raises $28 million Series A to automate threat investigations CTech",
+     "text_status": "ok",
+     "text": "Home\nCYBER\nCYBER\nAccess requirements\nCYBER FAQs\nLaunch CYBER\nCYBER\nPlease be aware that CYBER will be down for maintenance on %%END_DATE%% , between 3 a.m. and 6 a.m. . Please save your work and exit out of CYBER before the start of the outage on Saturday. You can log back into CYBER at the end of the maintenance window.\nWe apologize for the inconvenience. If you have any questions, please call the PerformCare Service Desk at 1-877-652-7624 .\n<a href=\\\"https://apps.performcarenj.org/CyberAng/PROD/CYBER\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\" class=\\\"cmp-text__external\\\">Launch CYBER</a></p>\"}}\" id=\"text-368ede40f2\">\nLaunch CYBER\nOnline:</h2>\\n<p>Complete this online Customer Service Request Form to address CYBER technical issues, and questions regarding clinical, billing, eligibility, and reporting issues. You will need your Provider Agency ID available to submit a request.</p>\\n<p><a title=\\\"Customer Service Request Form\\\" href=\\\"https://apps.performcarenj.org/ServiceDeskReq/Production/SVCDesk-Req-Form/index.html\\\" class=\\\"cmp-text__external\\\">Customer Service Request Form</a></p>\"}}\" id=\"text-8f5749d04b\">\nOnline:\nComplete this online Customer Service Request Form to address CYBER technical issues, and questions regarding clinical, billing, eligibility, and reporting issues. You will need your Provider Agency ID available to submit a request.\nCustomer Service Request Form\n\\n//This script relies on ISO 8601 format to support specific times in the JSON file but for more generalized dates where time specification isn't needed it supports YYYY/MM/DD for generalized Dates in your local timezone. \\n//ISO 8061 timecodes can be created at this url https://www.timestamp-converter.com\\n\\nconst targetRoot = \\\"performcarenj.org\\\";\\nconst hostname = window.location.hostname;\\n\\nif (hostname === targetRoot || hostname.endsWith(\\\".\\\" + targetRoot)) {\\nconst cyberdowntimeDiv = document.getElementById('cyberdowntime');\\nasync function runDateScript() {\\n try {\\n // Fetch and parse the JSON data\\n const response = await fetch('/content/dam/amerihealth-caritas/performcare-nj/json/date.json'); // Use fetch in a browser environment\\n if (!response.ok) {\\n throw new Error(`HTTP error! Status: ${response.status}`);\\n }\\n const dateRanges = await response.json();\\n\\n // Get the current date for comparison\\n const today = new Date();\\n // Set time to start of day for comparison purposes to match YYYY-MM-DD strings\\n // today.setHours(0, 0, 0, 0);\\n\\n // Find the active date range\\n const activeRange = dateRanges.find(range => {\\n const startDate = new Date(range.startDate);\\n const endDate = new Date(range.endDate);\\n // Check if today is within the start and end dates (inclusive)\\n return today >= startDate && today <= endDate;\\n });\\n\\n if (activeRange) {\\n // Format the end date\\n const endDateObj = new Date(activeRange.endDate);\\n const formattedDate = formatEndDate(endDateObj);\\n\\n // Use regex to replace text in HTML\\n const placeholderRegex = /%%END_DATE%%/g;\\n const bodyHtml = document.body.innerHTML;\\n document.body.innerHTML = bodyHtml.replace(placeholderRegex, formattedDate);\\n \\n } else {\\n cyberdowntimeDiv.style.display = 'none';\\n \\n }\\n\\n } catch (error) {\\n console.error(\\\"Error fetching or processing dates:\\\", error);\\n }\\n}\\n\\n// Function to format the date as \\\"Day, Month Day\\\"\\nfunction formatEndDate(dateObj) {\\n const daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];\\n const months = ['Jan"
+    },
+    {
+     "id": "2e02a2a28f19",
+     "group_key": "mave",
+     "title": "Mave Raises $28M Series A, Bringing Total Funding to $34M for Agentic SecOps",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45QktZZnlFd3UyZWNXNTQyVlFWMWhiemdKSGREZU5iVnptUFVYdXIyMkN1ZWVJVUE1MDVkU3J5SEZwc0QyX1h0Zl9yblNWMXprOUZiZUxGZDc0Smt3cEhrVzJ5XzlGTkh1eGd2SnhoXzlLUF9fRHNTR2pzeE9oQQ?oc=5",
+     "published_at": "2026-10-22T07:00:00.000Z",
+     "amount_hint": "$28M",
+     "snippet": "Mave Raises $28M Series A, Bringing Total Funding to $34M for Agentic SecOps Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "6106fdf4c850",
+     "group_key": "mave",
+     "title": "Mave Security raises 34 million dollars to advance agentic security operations",
+     "publisher": "MSSP Alert",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMDluT005TlVoSFBZZklCcW9ra0tvMEJuNFNSNHN5ZmZGUng1ZzBtaDNGM3B2LURhODd2dHAzajRSdTNLYWNZMUdnQ3JYRzBuUHRvUkwzX2FRUjZicWRFeUVzZjRWRWYxazNxeWFRTkdJa1l6LXdZcENSc0phai1nUS1QbEFCazR4V1dVemZVbmVqRHYtVlNvS2FqaUFiVDdVUjNTWXhSMmRHcWNzdFh3?oc=5",
+     "published_at": "2026-10-23T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Mave Security raises 34 million dollars to advance agentic security operations MSSP Alert",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "lisbons beyond vision",
+   "company_guess": "Lisbon’s Beyond Vision",
+   "amount_hint_usd": 28000000,
+   "articles": [
+    {
+     "id": "9d0d28a5bc2c",
+     "group_key": "lisbons beyond vision",
+     "title": "Lisbon’s Beyond Vision raises over €28 million to scale AI drones for civilian and defence markets - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUEVNZURMb2ROeks2MFZQaXJ1dHJQVVZmeE9ucWdKYnhCX2NaQlMwVEY0d2VPbllmYlpjZmlxXzUwSTJyLWhkVU1tNUxGektXMDVwOWI1RmxjWFQtUlBBM3lLQnNGNHNrdXdRUEhVWlVVZkl4V2dIb1d0XzZyUFhqMnZwZnZtZHJMMTBkdHFNMFp4U0ZVOUtoRUl2SzJ3dExNSWNBTGhibEJvLTRmdHlGZDhrWjYwQ1pwYkd4UVBaR2tGc05LdmVXYjNNcWxTZEU?oc=5",
+     "published_at": "2026-10-22T07:00:00.000Z",
+     "amount_hint": "€28 million",
+     "snippet": "Lisbon’s Beyond Vision raises over €28 million to scale AI drones for civilian and defence markets EU-Startups",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "slingshot insurance",
+   "company_guess": "Slingshot Insurance",
+   "amount_hint_usd": 27000000,
+   "articles": [
+    {
+     "id": "5a9065ae9328",
+     "group_key": "slingshot insurance",
+     "title": "Slingshot Insurance Emerges from Stealth with $27 Million Seed Investment to Build AI-Native Infrastructure for Embedded Insurance",
+     "publisher": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNLXd5dG5NdnZYUVFmZFlWWVR1T29KQVlyNXR6V0ZkT2l6RWVjNlhTbC1fNlVRcUEzS0JuT1l6UlRjVExGZnJ4Z0RuMnI5N1I1RC1lZ1p3YzVLT3RkbUY0TzlHb3lEYU5YUVQ0YmZwVG9MMHVCa2pKZi05cml1LUpUaXNlQko1bkk3VWJFZElaQlZRS2xQNU5oV1hmM3Foc2NaWG01dUVaX3pQWi1MMkc1c21ORHpqbks2LUYtT3Z6eEV1RERIQjlGOEhGODlQamdEWGpyNHVvQ1N1bVVoNDZ4M3N6a2ptdElZbW5JOFZmeGVOYzlobERNSENrQXRESlBCQzIzWUJQVjJ1UnF2NWZMN25yWQ?oc=5",
+     "published_at": "2026-10-22T07:00:00.000Z",
+     "amount_hint": "$27 Million",
+     "snippet": "Slingshot Insurance Emerges from Stealth with $27 Million Seed Investment to Build AI-Native Infrastructure for Embedded Insurance PR Newswire",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "df18d0707e5f",
+     "group_key": "slingshot insurance",
+     "title": "Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout",
+     "publisher": "Crunchbase News",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONWlRM0pEOHY1MmZRamRLbDdVTldyUXJ6YlN3RDZhZml4VnREYUtNWkdpNERGZVF4U3lPN1M4V0JFTXNxQ1Q3N3lZZzBIc0JhTUFLZ0pfMVJXMmxOMVNNSTB5Q1pzWDZMaEd2V2QxNWZzRTMwckloRzBySVNURjRGNUxDbnZMRXIwUzlMbXJuUExsdWdMWU5XYVJqa0FBU1UyQzhISzQtb2FVZVE?oc=5",
+     "published_at": "2026-10-22T13:00:23.000Z",
+     "amount_hint": "$27M",
+     "snippet": "Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout Crunchbase News",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "whitelab genomics",
+   "company_guess": "WhiteLab Genomics",
+   "amount_hint_usd": 26000000,
+   "articles": [
+    {
+     "id": "d0345ab7cb70",
+     "group_key": "whitelab genomics",
+     "title": "WhiteLab Genomics raises $26M Series B to design genomic medicines with AI",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkZKeTBJOTdtYU1KYjNtcHN6cWNwMTVWRmhzQkxoWFlTb2JIbXhnVHB1SmdSeXo1Q2JsaU02NGFkb2FpNHBkSVU2Q0tqdWlQYm82ZnR6SFVST2tEb2lnWlVTT0NTVFRJczBmaWVlajFmMjkweU4xdzRkNjNGbGtuUEdOQzBaMUFVZkpheU84YXA1OXk3d0JYcnItSXg1NEUtLW53dXYybHRLRms?oc=5",
+     "published_at": "2026-10-05T21:31:23.000Z",
+     "amount_hint": "$26M",
+     "snippet": "WhiteLab Genomics raises $26M Series B to design genomic medicines with AI Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "90251e7d4785",
+     "group_key": "whitelab genomics",
+     "title": "WhiteLab Genomics Raises $26 Million Series B To Build AI-Designed Bio-Assets",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MbzhpVFhjTFBLNEJzWmY5Q2JqeDBhU1lUVEQtM0FUMjRGUVRZY1ZPNnJVbUhsdmd1ZUd6aWpqR2RDbk14S1ptVWFaLUlWMEx4NXVHUXdIa3BoYy1UeXlDWjk1RGgycHVBdmFseUtpVkJJd9IBd0FVX3lxTE5hSFhTREJpbzBlUlpza0dfdERIMFMzUmdYZ2NmQ1VCUGxSQUczWU5ZWHNPY0VjN2hvZ1d2S0JnVl8xZ09EcjJIZmZmZ29qUXVndnRWWDFDZ0MydjF6RmVITERtSG45YjdiOWg0RGRPV3B4Wld4Y1FV?oc=5",
+     "published_at": "2026-10-06T07:00:00.000Z",
+     "amount_hint": "$26 Million",
+     "snippet": "WhiteLab Genomics Raises $26 Million Series B To Build AI-Designed Bio-Assets Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "rein security",
+   "company_guess": "Rein Security",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "a56bcba8dd5c",
+     "group_key": "rein security",
+     "title": "Rein Security raises $25 million Series A as companies struggle to control their AI agents",
+     "publisher": "CTech",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ETzBJMDNYRXUwdmtLSEZnOXNYV3ZDNURsV0hQN1FSNXRubzJGNXJ6MUlCMHpIMDhMUXJSWnpKbGpESWNzbFVnSGxDRWhtdlQzM2hkZ2pHMENiTVY4NXlvLWNuc0FnWWVP?oc=5",
+     "published_at": "2026-10-08T07:00:00.000Z",
+     "amount_hint": "$25 million",
+     "snippet": "Rein Security raises $25 million Series A as companies struggle to control their AI agents CTech",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "melius",
+   "company_guess": "Melius",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "1539e585a044",
+     "group_key": "melius",
+     "title": "Melius Raises $25 Million for the First Agents Lab for Creative Work",
+     "publisher": "GlobeNewswire",
+     "url": "https://app.melius.com/home/",
+     "published_at": "2026-10-06T07:00:00.000Z",
+     "amount_hint": "$25 Million",
+     "snippet": "Melius Raises $25 Million for the First Agents Lab for Creative Work GlobeNewswire",
+     "text_status": "thin",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "ramp veterans",
+   "company_guess": "Ramp Veterans",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "c6199adbb4c3",
+     "group_key": "ramp veterans",
+     "title": "Ramp Veterans Raise $25 Million for AI Creative Platform Melius",
+     "publisher": "PYMNTS.com",
+     "url": "https://ramp.com/",
+     "published_at": "2026-10-07T07:00:00.000Z",
+     "amount_hint": "$25 Million",
+     "snippet": "Ramp Veterans Raise $25 Million for AI Creative Platform Melius PYMNTS.com",
+     "text_status": "thin",
+     "text": "Shannon McCormick\nInternational Workplace Experience Lead , Notion\nAs soon as I texted my first Ramp receipt, I realized Ramp is a game-changer. It’s incredibly intuitive."
+    }
+   ]
+  },
+  {
+   "group_key": "scimplify",
+   "company_guess": "Scimplify",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "57e22be31e17",
+     "group_key": "scimplify",
+     "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+     "publisher": "TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSlM0dXZQdUppR2lxOGRtQURuZ09ybmJEQlMzd1RoUUdCUjhCWmF1bVhuRGcwTWhvZFRmZXRvR3dtcGg1WVBZbHFiNVI2VmJTdkpnaEtITVpuVF8tYk1CV0pxWFZyOVJFMy1WclhFQ3Bhb0dmVktPOVptN29XVzhYN1ZKaXRoMDVkWHhZdExxdm5HR3cyRC1qNkVMY1dQelBlLXhCaUxpQV9qTGo0dENF?oc=5",
+     "published_at": "2026-10-14T07:00:00.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Scimplify raises $25M to challenge China’s grip on critical materials with AI TechCrunch",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "d4e87dc4b45e",
+     "group_key": "scimplify",
+     "title": "Scimplify raises $25 million to expand AI-led critical materials business in U.S.",
+     "publisher": "Traders Union",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQanhSMlJUVEt6SmFJNVo2VEYzNV9DUW15Z1MxejFyZVhnNGRIY1dlTVBUWkJ1RDVDeFVLQTg4X3owVGZ4M0E5elNKR2hWZF9VZXYxdC1qd2tpaFRFRUJSV2xnTUpCazBRRktkSjVPS3k3QTRTaURMUGlySUtRdmF6SUsxak9mMlZYZnVFLTZ6anpjOUVoMmQxMXpKdw?oc=5",
+     "published_at": "2026-10-14T07:00:00.000Z",
+     "amount_hint": "$25 million",
+     "snippet": "Scimplify raises $25 million to expand AI-led critical materials business in U.S. Traders Union",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "qualitate",
+   "company_guess": "Qualitate",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "bae6aa124e4c",
+     "group_key": "qualitate",
+     "title": "Qualitate Raises $25 Million Series A Led by Insight Partners to Scale the First Continuous Intelligence System for Primary Research",
+     "publisher": "Business Wire",
+     "url": "https://www.qualitate.io/",
+     "published_at": "2026-10-20T07:00:00.000Z",
+     "amount_hint": "$25 Million",
+     "snippet": "Qualitate Raises $25 Million Series A Led by Insight Partners to Scale the First Continuous Intelligence System for Primary Research Business Wire",
+     "text_status": "ok",
+     "text": "NEW Qualitate raises $25M from Insight Partners to scale AI-native primary research\nHuman expertise for every s s t t r r a a t t e e g g y y\nd d e e c c i i s s i i o o n n b u s i n e s s\nd e c i s i o n i n v e s t m e n t\nd e c i s i o n\nQualitate connects expert evidence, research agents, and your organization’s context in one continuous intelligence system.\nBook a Demo Join Expert Panel\n1M+ minutes of AI-moderated interviews\nThe research partner for the world’s leading investors and enterprises\nAlger grows 10 CIO conversations into 100 perspectives as Qualitate becomes part of its investment research. 10 → 100\n“Qualitate automates the painful stuff about doing primary research while maintaining the quality of the conversations that we would have ourselves.” +\nQualitate gives UiPath repeatable market evidence across four decision areas: product, pricing, competitive strategy, and acquisitions. 4 AREAS\nFeedback from more than 20 threat intelligence buyers helped Flashpoint choose its AI monetization model and inform leadership and board discussions. 20+\nAlger grows 10 CIO conversations into 100 perspectives as Qualitate becomes part of its investment research. 10 → 100\n“Qualitate automates the painful stuff about doing primary research while maintaining the quality of the conversations that we would have ourselves.” +\nQualitate gives UiPath repeatable market evidence across four decision areas: product, pricing, competitive strategy, and acquisitions. 4 AREAS\nFeedback from more than 20 threat intelligence buyers helped Flashpoint choose its AI monetization model and inform leadership and board discussions. 20+\nAlger grows 10 CIO conversations into 100 perspectives as Qualitate becomes part of its investment research. 10 → 100\nQualitate gives UiPath repeatable market evidence across four decision areas: product, pricing, competitive strategy, and acquisitions. 4 AREAS\n“Qualitate automates the painful stuff about doing primary research while maintaining the quality of the conversations that we would have ourselves.” +\nFeedback from more than 20 threat intelligence buyers helped Flashpoint choose its AI monetization model and inform leadership and board discussions. 20+\nQualitate is the first continuous primary intelligence system .\nQualitate is the first continuous primary intelligence system .\nAlways-on research agents that interview experts, track changes, and analyze evidence to answer your most important questions.\nExpert\npanel Research\nlibrary AI Your\nresearch Your\ncontext\nExpert Panel Our proprietary network of vetted industry experts. Expert panel\nAI Interviewer In-depth, adaptive expert interviews at scale. AI interviewer\nQualitate Research Library Thousands of expert interviews our AI Interviewer conducts each month. Library\nYour Organization’s Context Your documents and priorities guiding the research. Your context\nYour Proprietary Research Your custom, private calls and findings, never added to our library. Your research\nExpert Panel Our proprietary network of vetted industry experts.\nAI Interviewer In-depth, adaptive expert interviews at scale.\nQualitate Research Library Thousands of expert interviews our AI Interviewer conducts each month.\nYour Organization’s Context Your documents and priorities guiding the research.\nYour Proprietary Research Your custom, private calls and findings, never added to our library.\nExpert Panel 1 / 5\nOur proprietary network of vetted industry experts.\nAI Interviewer 2 / 5\nIn-depth, adaptive e"
+    }
+   ]
+  },
+  {
+   "group_key": "nirva",
+   "company_guess": "Nirva",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "5b3342b092dd",
+     "group_key": "nirva",
+     "title": "Nirva Raises $25M Pre-Series A for an AI Pendant That Listens only to its Wearer",
+     "publisher": "AI Funding Tracker",
+     "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+     "published_at": "2026-10-25T07:00:00.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Nirva Raises $25M Pre-Series A for an AI Pendant That Listens only to its Wearer AI Funding Tracker",
+     "text_status": "ok",
+     "text": "Ambient AI is having a moment. Amazon launched a new wrist-worn device with Bee; a former Plaud exec launched ambient apps through a startup called Ambi, which aims to also build its own hardware; and Apple launched Voice Intelligence features during its iPhone launch in September. Now, a company called Nirva is betting on a jewelry-like pendant and its ability to listen only to the wearer.\nThe startup today announced a new $25 million pre-Series A round, adding to the $8 million it raised earlier in the year from investors like Lightspeed and South Park Commons, bringing its total raise to $33 million.\nNirva was founded in 2025 by two former Meta Reality Labs employees, Wei Lyu and Jason Chen, along with Hanying Hu, who founded a fashion and jewelry brand.\nThe company’s first device is a pendant, which can also be worn as a bracelet. The device weighs only around eight grams, making it easy to wear all day. Its battery lasts up to three days on a single charge.\nLonger term, Nirva aims to release more devices.\nImage Credits: Nirva\nIn a call with TechCrunch, Nirva CEO Lyu said that the company wanted to build a wearable that blends in with fashion, but also provides value to users.\n“This is a piece of jewelry that only focuses on listening to your own speech. We are not like a voice recorder or like a meeting note taker. One key difference between us, Taya, Vocci, or Sandbar Ring is that we’re always passively listening to your own speech. So it’s always on. It keeps modeling the user and modeling your mind,” Lyu said.\nFor ambient devices, privacy is a big question, as people might not like to be recorded all the time. Plus, devices like the Ray-Ban Meta have instilled fear in those who are around the person wearing the smart glasses that they are being recorded too.\nNirva gets around this problem by asking users to record snippets of their voice during onboarding and building its model based on that. During use, the device filters out conversations or data captured from the other people around the device. That means it’s only recording the wearer.\nIn addition, Nirva by default doesn’t keep any audio data or transcripts after processing the conversations.\nNirva is positioning itself as a personal insights company rather than a productivity startup. However, its app shows you reminders or action items and ways to act on them. Lyu said that through its app, the startup wants to help users show up for others in a better way in their lives.\n“I think there’s no universal way to help everyone to solve their problems. We are building a tool to help people to improve their self-understanding, self-compassion, and self-awareness,” Lyu said.\nImage Credits: Nirva\nThe companion app parses users’ speech and creates insights that it infers are related to the user’s personality, including patterns, the people who tend to be around them, the places they’ve been to, and other daily notes. Lyu emphasized that the app shows users insights around their emotions, communication style, and ways they can improve.\nLyu gave an example of an incident when she forgot to thank her mother for something, and the app later nudged her with a reminder about this.\nThe company also said that, before it discards the audio, it’s able to track the tone, pitch, volume, and speed, which are useful for deriving emotion-related understandings that are then surfaced in the app.\nNirva will start taking orders for its devices in November, with an aim to ship them to early users by t"
+    }
+   ]
+  }
+ ]
+}

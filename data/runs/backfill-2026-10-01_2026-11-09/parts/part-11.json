@@ -1,0 +1,268 @@
+{
+ "run_date": "backfill-2026-10-01_2026-11-09",
+ "part": 11,
+ "groups": [
+  {
+   "group_key": "home services",
+   "company_guess": "Home-Services AI",
+   "amount_hint_usd": 52000000,
+   "articles": [
+    {
+     "id": "59d832909d9e",
+     "group_key": "home services",
+     "title": "Home-Services AI Broccoli Raises $52M in Series A and B Led by Khosla Ventures",
+     "publisher": "Wowtale",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GeFlpZVR3ZzJOTHRhSHprTXMtZVhmN1d4SW1hQS11VWsySVpkUWtLaWpQb0xrZy10SzEtQk03REZRTy02Qnh2d25vUzBxNzVObnVF?oc=5",
+     "published_at": "2026-10-30T20:46:24.000Z",
+     "amount_hint": "$52M",
+     "snippet": "Home-Services AI Broccoli Raises $52M in Series A and B Led by Khosla Ventures Wowtale",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "gallatin",
+   "company_guess": "Gallatin AI",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "e7d73522eaf1",
+     "group_key": "gallatin",
+     "title": "Gallatin AI Raises $50M in Series A Funding",
+     "publisher": "FinSMEs",
+     "url": "https://www.gallatin.ai/",
+     "published_at": "2026-10-08T07:00:00.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Gallatin AI Raises $50M in Series A Funding FinSMEs",
+     "text_status": "thin",
+     "text": null
+    },
+    {
+     "id": "9b789c21d94d",
+     "group_key": "gallatin",
+     "title": "Gallatin AI Raises $50M Series A to Expand Military Logistics Platform",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLXowbjl2ODlRcU5QSk90eWZSUWRxaklKWG50SGFIc2I1M210UXpLTThRa0VaSzlvTkRyVWEtRzNxUEpoSjg5SGpVY2YyUzRJMXA4RTRZWDJuNmttZjE2NGhiRmpNQWhqLWFvYU8zZEtJX0NNNmYtSWhKZy1VWWJnRklwN2hiTFZhZUd6QTRzWnAzX1JqMHJFdnpxcGVJc1BOSnV4azZlTmpXZ0pX?oc=5",
+     "published_at": "2026-10-09T07:00:00.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Gallatin AI Raises $50M Series A to Expand Military Logistics Platform citybiz",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "rebel audio",
+   "company_guess": "Rebel Audio",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "bff083488b95",
+     "group_key": "rebel audio",
+     "title": "Rebel Audio Raises Series A at $50 Million Valuation Post-Money, Backed by Creator Media Company HardScope",
+     "publisher": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWZJelMwT3hYaUR6SkxHLWRYMHZSYjNIVmdGSWxwY1ZJVm1YdDRLb25HQzVISjBwMFNmX09qaEo1WjIycGxSTEtHbEV6RElMQXZ4aERiaUtwMWdxdGdJUUkzYnBHeWp5em1MTXZFck9TcUt3eXNOOURzS0hFZUQ0TTU2THZZQ3JrdThOa0hHVEhIMzg5Rk9n?oc=5",
+     "published_at": "2026-10-08T07:00:00.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Rebel Audio Raises Series A at $50 Million Valuation Post-Money, Backed by Creator Media Company HardScope Yahoo Finance",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "airwallex backed start up",
+   "company_guess": "Airwallex-backed start-up",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "31a42c5232bc",
+     "group_key": "airwallex backed start up",
+     "title": "Airwallex-backed start-up raises nearly $50m in seed round",
+     "publisher": "AFR",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT3RBM1NPS3R3MDY0d2dWQUROb25MRW41em42eThpLW9RVXFLWnEtYm5JTzM4dVVZX3ZGbENBMkt3Q1BZakpBQkNNWDBObzBMaW1UaE04ZEtxdUw1Zk1oTVBMTlBha25NRDFDS2ZfSHN2dkNLTUtVMEdJenlvNDc4UkQ2WE82N2o3OFJLTWdkcVg5dTdibHBfM3Q3VE12T1NjSElMNzIxdw?oc=5",
+     "published_at": "2026-10-04T07:00:00.000Z",
+     "amount_hint": "$50m",
+     "snippet": "Airwallex-backed start-up raises nearly $50m in seed round AFR",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "harmonic security",
+   "company_guess": "Harmonic Security",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "f4a738dc8dcf",
+     "group_key": "harmonic security",
+     "title": "Harmonic Security Raises $50M Series B to Expand US and UK Teams",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZEJqanRBTG5kQ0txZnVoQXhqejEtWndlR3NiTUtycUZyQVZIOFpuemFhTFFZQldPUkI4bXMyV19MUW5lVkFSN2k3dHNwOFpyd3pQSkdyN0IyalhJcFlXRnpJQTRjNkNRcURmRFk2SXBCRFAyNndjUWxhZGtrSEUxeG1RamZ2QU5hODZCUndR?oc=5",
+     "published_at": "2026-10-14T07:00:00.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Harmonic Security Raises $50M Series B to Expand US and UK Teams Unite.AI",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "1aa0e018c31d",
+     "group_key": "harmonic security",
+     "title": "Harmonic Security Raises $50 Million Series B, Enabling Safe AI Adoption for Millions More Employees",
+     "publisher": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUXBXeFFfSUw2YmxXSVBhY2VNNjJfaE1fOEtGc0dfXy13NjJwNUJ5dEJkQW1jdThxUmgzMXdZbmJnTTJBdGpYVlFBaGt4V19NMTdERGU2ZzRyV25RakVtSzI4N2VQUEx2cGFLOF9QR1RmS1B4WlZncE5RUnlZdFJoQllGRzZSb3lDTkFPWmZUendxQVBRNS16OERzZ1RTWVZGY0tFQXFQUWVTbWE5WDhHcnU5bWFmUzFQMUUtc2xWMHNLRnFTaTl1bUdzVWRIczRUaVZlR29IOXZ6MWlhLUJjVlJnM29FZUlxSF9jUDlQQQ?oc=5",
+     "published_at": "2026-10-14T07:00:00.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Harmonic Security Raises $50 Million Series B, Enabling Safe AI Adoption for Millions More Employees Business Wire",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "6869f66fc5c3",
+     "group_key": "harmonic security",
+     "title": "Harmonic Security Raises $50M to Expand AI Security Platform",
+     "publisher": "Ventureburn",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xTzNNZlZ2dDd5dHNZeUVSZUYzeS0zNzVtYXo4RnFDOHE0MlFTMUN3TmFnN0c2UDlKUzJ5aEtvWVZVaWs5ZGduWlEtS2NlU21LN0wxLUhMM0hIZWNXZk54RUdjVXcyOHAtaGJaeThzblJ3VlXSAXNBVV95cUxOMU8zTWZWdnQ3eXRzWXlFUmVGM3ktMzc1bWF6OEZxQzhxNDJRUzFDd05hZzdHNlA5SlMyeWhLb1lWVWlrOWRnblpRLUtjZVNtSzdMMS1ITDNISGVjV2ZOeEVHY1V3MjhwLWhiWnk4c25Sd1ZV?oc=5",
+     "published_at": "2026-10-15T07:00:00.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Harmonic Security Raises $50M to Expand AI Security Platform Ventureburn",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "7036219a7436",
+     "group_key": "harmonic security",
+     "title": "Harmonic Security raises $50 million to govern employee AI tool usage",
+     "publisher": "SC Media",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTUprdk1vWktIdlBvbURtTFFqZEhRQVJQNllHYmpOVmVib05adjdUS0pFU1NUVzhHUmJrOFRGWlU1NnJaTlZ0bnVhWkJxVzJZekp3TnVGWkpRSHlyU2xoVHJLTE1qSXVRcmx3ODhDclA4UUstRWNkREdKcjZDWDdLbGdmMWFVeC16b1kwQmkxYzRIR2Ntd0pfa25CRnA0Y3M?oc=5",
+     "published_at": "2026-10-15T07:00:00.000Z",
+     "amount_hint": "$50 million",
+     "snippet": "Harmonic Security raises $50 million to govern employee AI tool usage SC Media",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "scarlet",
+   "company_guess": "Scarlet",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "d26cebb560f7",
+     "group_key": "scarlet",
+     "title": "Scarlet raises $50M Series B to accelerate AI medical device certification",
+     "publisher": "Tech.eu",
+     "url": "https://usescarlet.com/",
+     "published_at": "2026-10-12T07:00:00.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Scarlet raises $50M Series B to accelerate AI medical device certification Tech.eu",
+     "text_status": "blocked:403",
+     "text": null
+    },
+    {
+     "id": "a534f851f3ab",
+     "group_key": "scarlet",
+     "title": "Scarlet Raises $50 Million In Series B Funding To Expand AI Medical Device Certification Platform",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbk8wX0pxaVNMZEJCR2NkcWM4aThxT3poMnl0blFzLXVfUGJxVVVDZ1ozaFJka1AtdnZVLWd2bzdDdWFhQy1VempIYkdhWjZOU1Fsb0VvU2FjMlNDM3hpLUhoVUxGMjlEWTBVQ0VzSk9ETjNlY0F3ZTA3OFVYUXplYnpjakhaNXBYSUxlcWE2YTlqTkJ6UWtRVWNQaFlSTWJLQjZibEN5cFR1RGhMS0t6UjVoWWJFV28?oc=5",
+     "published_at": "2026-10-12T07:00:00.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Scarlet Raises $50 Million In Series B Funding To Expand AI Medical Device Certification Platform Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "reach security",
+   "company_guess": "Reach Security",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "03226b979106",
+     "group_key": "reach security",
+     "title": "Reach Security Raises More Than $50M Series B to Stop AI-Powered Attacks by Autonomously Closing the Gaps They Target",
+     "publisher": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLUNpZ0hfbUhMTXlYaXNkNGNCZjNDMXlEcUhzbDB4SW05U0JILTA4Q0JMSWFFMHNjdFpyV1dRM1pydW5rWXhPNElhOXVpQ1Bpb3pvSUU0ZHpmWFdTdllrc1Q3djBtNW5ia29ZLU9PNmJiejNmMnZSaVVETldVci1yU05MVHNkZTJhMUlKdE5nWUJIZHA0QXJGNHl3?oc=5",
+     "published_at": "2026-10-13T07:00:00.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Reach Security Raises More Than $50M Series B to Stop AI-Powered Attacks by Autonomously Closing the Gaps They Target Yahoo Finance",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "9f462f9e9629",
+     "group_key": "reach security",
+     "title": "Reach Security raises $50M Series B to fight AI-driven cyberattacks by automating defense gap closures.",
+     "publisher": "Pluang",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2swMVYxdHVxZmVQVW56dTZIalRwNS1TRkppbEwyeEVpQkRPT1B0VlZmaWxPelBsSGhLOTFReUNPUHlGRVU3WXhybUxqVHFwZV9pa3djS0N3dzYtVmxMYTdWM2VNeVg0XzlIdHRmaVFkSVlhU2RtNEhEQ190MEg1M1E2Szd1MmhrcTdFUVVYcFdVMWRRdDBpRXpjOTZkeG9XTHpOMTJuQ05FbW1OaFE?oc=5",
+     "published_at": "2026-10-13T07:00:00.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Reach Security raises $50M Series B to fight AI-driven cyberattacks by automating defense gap closures. Pluang",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "sabi",
+   "company_guess": "Sabi",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "440867f58189",
+     "group_key": "sabi",
+     "title": "Sabi Raises $50 Million Seed Round Led by Khosla Ventures to Put a Brain-AI Interface Inside a Baseball Cap",
+     "publisher": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMUY0OGpyMGhremdPLW10YVZ0ZGltX3lzNG9BYnJnU2JxdnB2c1RwdHRXVmVPd2t6RjIwRjlkdUR3bC1OaDlVOUJybW1oU3pUNXhMVmdhSUV3Y1dFZFBjR1BvcnU0OW1jRFhscXo0N2VlN1NpYVI4ZS05UEp4dUpVYlMta082Yk85cEZWNUJTa1NLSXFRVWFoWnloSktsd2d5aHV3REVzbXk2WVcwNDZqOFNFaVpGd1pVRFkwUVdreWxTWFVjQkZyT3AtY0d5TmxyOHRaMnFQeWljbzNWSUdiN05NN1lhWjk1ZVlhSkhIbUhsNFB1ejVDRk0ybkQ5YUpwdlFpX2hkQjk0QQ?oc=5",
+     "published_at": "2026-10-09T07:00:00.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Sabi Raises $50 Million Seed Round Led by Khosla Ventures to Put a Brain-AI Interface Inside a Baseball Cap GlobeNewswire",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "mind reading baseball cap startup",
+   "company_guess": "Mind-Reading Baseball Cap Startup",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "e1b99e6c2d13",
+     "group_key": "mind reading baseball cap startup",
+     "title": "Mind-Reading Baseball Cap Startup Sabi Raises $50 Million From Billionaire Vinod Khosla",
+     "publisher": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMlVDaDNXZm92VlBYNXhjaEk0aTdUbXNWM2k4UndEb19NTUdhY04wZjdOU2xNWVJyTHJra3BTMW0wWFN6RHdJWDNLNnZsc0w0X1NxeU9ITTMyUkd6bWhZWFFrWHBIS3FRSVBveHY0VmhtUllBbjk3bURqdmlsUW94R0paYzFQR0ZwdmZJMVhnTlV1QllPVm5XZm9fOGFSSmRVeXJhR1VrcXk5UEpkNml1T3VrclBfZ2tUeEFjb0g0SWlsaGdJemc?oc=5",
+     "published_at": "2026-10-09T07:00:00.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Mind-Reading Baseball Cap Startup Sabi Raises $50 Million From Billionaire Vinod Khosla Forbes",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "dougs",
+   "company_guess": "Dougs",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "001676355b2e",
+     "group_key": "dougs",
+     "title": "Profitable French accounting company Dougs raises €50 million to accelerate AI automation - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa3BnTDJuVlVVbndET3A2VjQ1WlZpNWZSbUVfU01ydXFYRWxtX0lnTDVVNmVXb29KeExodlN5U2d6QU8zVlhGTU9QV2xmUGFkc0NjRkdUYjdwOVVkZTRwZE9Na2RYSlVKdm1YczFqcFJSTFhpa1NhaDNwNEoyaFo0bVZxam5mVTl3RGFBVkZWT0JKa2NoSlo4eW9VZVR6YzMtcll2N1RQTTdRNkRESXhualAwUkJ3cGN0UVYxVUpFZHgxTzlD?oc=5",
+     "published_at": "2026-10-15T07:00:00.000Z",
+     "amount_hint": "€50 million",
+     "snippet": "Profitable French accounting company Dougs raises €50 million to accelerate AI automation EU-Startups",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

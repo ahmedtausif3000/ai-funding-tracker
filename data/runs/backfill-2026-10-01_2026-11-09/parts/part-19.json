@@ -1,0 +1,280 @@
+{
+ "run_date": "backfill-2026-10-01_2026-11-09",
+ "part": 19,
+ "groups": [
+  {
+   "group_key": "startup",
+   "company_guess": "Startup",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "afa01d53e753",
+     "group_key": "startup",
+     "title": "Startup Causa Prima raises $20 million to tackle billing disputes with AI agents",
+     "publisher": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONms3WE94ejlPZGFmQ3JpaE1kZ1JOdGRpRmJEdFh2UTRreENHM2hnY1lGajh6WEVYdmxLbzVQZTJBTEh2QjdkbnBaOFQ1elctRzlmUm05YWx2MnUyWkZSbUFuLTNkY3BjTWpyNW96eVJhV19OdEVheXVQQWJ6THhOWXVFczlHdWRGX1RLR3dqSDd0ZVk?oc=5",
+     "published_at": "2026-10-13T07:00:00.000Z",
+     "amount_hint": "$20 million",
+     "snippet": "Startup Causa Prima raises $20 million to tackle billing disputes with AI agents Fortune",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "1e3b7aa2f002",
+     "group_key": "startup",
+     "title": "This startup raised $21 million to clean up the AI agent mess hitting companies",
+     "publisher": "Business Insider",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS1g5c2NIbW16WFZkZkN6UjNVRDdycnpWaUctX1ZuN0FDWW9lRHdHejBwUkk2d3lSOTNNMmhYWUJhT2lsVWs2VjBTNFNWU3NRRThvZFY3WVBwWnRiZjNCQ2k2aE5xbDA5TUdfaERFcFN3V21lbC1RZ21aR1VwX05uUUZHdm4tTVpMaDV5ZlVOU1lTMlZTa0w4?oc=5",
+     "published_at": "2026-10-15T07:00:00.000Z",
+     "amount_hint": "$21 million",
+     "snippet": "This startup raised $21 million to clean up the AI agent mess hitting companies Business Insider",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "735ff171e297",
+     "group_key": "startup",
+     "title": "Startup Causa Prima raises $20 million to tackle billing disputes with AI agents",
+     "publisher": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenZqbzg3VmRKcHlXeVBZQ0NvV2ZDMzdSdk9YZGpnVEdaT2pNQzk5ampSVW1GZVV3QzljdXpxcEZwbHBEVWk4Ujd6a044ZVlaUVZJaXltMGxNVGU2WXk2RnR1QWZvSmFSOUFIcHJLMjZpVWZsamtrYl8wTXlXbUxRcWtNT0JFem1hMVhiWXA1WXhDSlowS0hXbA?oc=5",
+     "published_at": "2026-10-13T07:00:00.000Z",
+     "amount_hint": "$20 million",
+     "snippet": "Startup Causa Prima raises $20 million to tackle billing disputes with AI agents Yahoo Finance",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "alta",
+   "company_guess": "Alta",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "332db0f39b05",
+     "group_key": "alta",
+     "title": "Exclusive: Alta raises $20 million Series A from Forerunner",
+     "publisher": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3k1cmNBT1BneVJ0VzFWUVp2a0pNdzVOaFJmU1BkaG1yeEZpZUVlYzJmN1dHXzhqWjFVLUs4UlFWVjc4TGFiZVZwQmtvSEdmbl9aUDZoR0h2cXU4djRQdFJhMjlmaUxaQmhMNXFqZmN3WnFVeExKYmhYT0tzTHRITUMxT2ZveXNXUXdncDhpWTM0M1pZdHdWSU11dGFBaE0?oc=5",
+     "published_at": "2026-10-22T07:00:00.000Z",
+     "amount_hint": "$20 million",
+     "snippet": "Exclusive: Alta raises $20 million Series A from Forerunner Fortune",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "1d2ab692f8bc",
+     "group_key": "alta",
+     "title": "Alta raises $20M Series A to power AI across fashion",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1J6SE91VTNQaHB5Tm9MWTBFaUdYZW5qS2s0bnRGMXlndE9fNEZkNW5BQVJFVXI4TjlBSVAwT1lvSzk4TVYyRzJ6VE1URFdyTWJKdjRSZWdJTy1QdzE2WlFEWE91WDZtWUdyQUEzeUF2endESV84VWVKdjRWUnp2ekJJdS1IS2FBc1lPY2dB?oc=5",
+     "published_at": "2026-10-23T20:18:34.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Alta raises $20M Series A to power AI across fashion Dealroom",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "firefly",
+   "company_guess": "Firefly",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "8cb7f3460fc7",
+     "group_key": "firefly",
+     "title": "Firefly Raises $20M Series A to Build a New Standard for Safety",
+     "publisher": "Business Wire",
+     "url": "https://en.m.wikipedia.org/wiki/Firefly_(TV_series)",
+     "published_at": "2026-10-20T07:00:00.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Firefly Raises $20M Series A to Build a New Standard for Safety Business Wire",
+     "text_status": "ok",
+     "text": "Toggle the table of contents\nFirefly (TV series)\n38 languages\nAfrikaans\nالعربية\nБеларуская\nBrezhoneg\nCatalà\nکوردی\nČeština\nDansk\nDeutsch\nEspañol\nEuskara\nفارسی\nSuomi\nFrançais\nGaeilge\nעברית\nहिन्दी\nMagyar\nÍslenska\nItaliano\n日本語\n한국어\nLietuvių\nLatviešu\nNederlands\nNorsk bokmål\nPolski\nPortuguês\nRomână\nРусский\nSimple English\nSlovenčina\nСрпски / srpski\nSvenska\nTürkçe\nУкраїнська\n粵語\n中文\nEdit links\nArticle\nTalk\nEnglish\nRead\nEdit\nView history\nSave\nTools\nTools\nmove to sidebar\nhide\nActions\nRead\nEdit\nView history\nSave\nGeneral\nWhat links here\nRelated changes\nUpload file\nPermanent link\nPage information\nCite this page\nGet shortened URL\nSwitch to legacy parser\nPrint/export\nDownload as PDF\nPrintable version\nIn other projects\nWikimedia Commons\nWikiquote\nWikidata item\nAppearance\nmove to sidebar\nhide\nFrom Wikipedia, the free encyclopedia\nAmerican space Western television series\nFirefly\nGenre\nSpace Western\nDrama\nCreated by Joss Whedon\nShowrunner Tim Minear\nStarring\nNathan Fillion\nGina Torres\nAlan Tudyk\nMorena Baccarin\nAdam Baldwin\nJewel Staite\nSean Maher\nSummer Glau\nRon Glass\nTheme music composer Joss Whedon\nOpening theme \"The Ballad of Serenity\" performed by Sonny Rhodes\nComposer Greg Edmonson\nCountry of origin United States\nOriginal language English\nNumber</span>\"}]]}'>No. of seasons 1\nNumber</span>\"}]]}'>No. of episodes 14\nProduction\nExecutive producers\nJoss Whedon\nTim Minear\nProducer Ben Edlund\nCinematography David Boyd\nEditor Lisa Lassek\nCamera setup Single-camera\nRunning time 43–45 minutes\nProduction companies\nMutant Enemy Productions\n20th Century Fox Television\nOriginal release\nNetwork Fox\nRelease September 20 ( 2002-09-20 ) –\nDecember 20, 2002 ( 2002-12-20 )\nRelated\nSerenity (film)\nSerenity (comics)\nFirefly is a 2002 American space Western drama television series, created by writer and director Joss Whedon , under his Mutant Enemy Productions label. Whedon served as an executive producer , along with Tim Minear . The series is set in the year 2517, after the arrival of humans in a new star system, [ 1 ] and follows the adventures of the renegade crew of Serenity , a \" Firefly -class\" spaceship . The ensemble cast portrays the nine characters living aboard Serenity . Whedon pitched the show as \"nine people looking into the blackness of space and seeing nine different things.\" [ 2 ]\nThe show explores the lives of a group of people, some of whom fought on the losing side of a civil war , making a living on the fringes of society as part of their star system's pioneer culture. The two surviving superpowers, the United States and China, united to form the central federal government, called the Alliance . According to Whedon's vision, \"Nothing will change in the future: Technology will advance, but we will still have the same political, moral, and ethical problems as today.\" [ 3 ]\nFirefly premiered in the United States on the Fox network on September 20, 2002. By mid-December, it had averaged 4.7 million viewers per episode and was 98th in Nielsen ratings . [ 4 ] It was canceled after 11 of the 14 produced episodes were aired. Despite its short run, it received strong sales when it was released on DVD and has large fan support campaigns. [ 5 ] [ 6 ] It won a Primetime Emmy Award in 2003 for Outstanding Special Visual Effects for a Series . TV Guide ranked it No. 5 on their 2013 list of 60 \"shows that were canceled too soon\". [ 7 ] [ 8 ]\nThe show's post-airing success led Whedon and Universal Pictures to produce Serenity , a 2005 film that continues the story from"
+    },
+    {
+     "id": "5c543e8c181d",
+     "group_key": "firefly",
+     "title": "Firefly Raises $20 Million Series A Led By Definition Capital To Build Physical AI Safety Platform",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tRHBJQjhLd0FxVVpUeE9zM0tJTEMxalVTMUNMZC02QTAxWlhoRGtsZFY0cjVvNGczY2VuZDRmOXpNcjd4TXFfQ0ozUTBTbXk3R2UyVWdqaFlzNXRlaER0ZERTdW8?oc=5",
+     "published_at": "2026-10-20T07:00:00.000Z",
+     "amount_hint": "$20 Million",
+     "snippet": "Firefly Raises $20 Million Series A Led By Definition Capital To Build Physical AI Safety Platform Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "superme",
+   "company_guess": "SuperMe",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "bd8aab8cdb68",
+     "group_key": "superme",
+     "title": "SuperMe raises $20M for its network of AI expert profiles",
+     "publisher": "TechCrunch",
+     "url": "https://www.superme.ai/superme",
+     "published_at": "2026-10-29T07:00:00.000Z",
+     "amount_hint": "$20M",
+     "snippet": "SuperMe raises $20M for its network of AI expert profiles TechCrunch",
+     "text_status": "thin",
+     "text": "SuperMe\n21.9M insights\nVisible to SuperMe\nSuperMe won't be able to see or reply to your conversation in incognito mode\nAbout\nSuperMe is the network for builders that want to think it through with people who have been there.\nhttps://www.superme.ai/careers\nOpportunities\nTimeline"
+    }
+   ]
+  },
+  {
+   "group_key": "mike cagneys navra",
+   "company_guess": "Mike Cagney's Navra",
+   "amount_hint_usd": 19000000,
+   "articles": [
+    {
+     "id": "1104d07df4d5",
+     "group_key": "mike cagneys navra",
+     "title": "Mike Cagney's Navra Raises $19 Million Series A Led by Ribbit to Bridge Traditional Finance Onto Blockchain",
+     "publisher": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVVMyM2FXbE1Vc0FJcTBvenZDS2JEOXFTaGkwVnJTNzVRc0ZvQ1JaUEQ2Qi1PNG9OQW4xVFAyQ1NENWRES0hVNGUwM2xDamZqZHRNVzRZa1R5c0s1dUo1MnBfejQzTEk4WVdrNkswQ1RCNFE5QkhIcTZCM191UWRwRTVzdHp2Z05lR0oxeWtLMjF6YnpEYWJUVnJUcmlzQWdhUHRFZG1rbFhod1M2VXNFaTVmNnc4dkJ6Z0NwUmx4LVY1cDNMcDczenpETzdJejBvWlFtYmpmcVQ3RjN4N21obzI3Tk5UREsyU0VMSkc1UXlLQXM4OE1hcg?oc=5",
+     "published_at": "2026-10-06T07:00:00.000Z",
+     "amount_hint": "$19 Million",
+     "snippet": "Mike Cagney's Navra Raises $19 Million Series A Led by Ribbit to Bridge Traditional Finance Onto Blockchain Business Wire",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "three aussie startups that",
+   "company_guess": "Three Aussie startups that",
+   "amount_hint_usd": 18750000,
+   "articles": [
+    {
+     "id": "36fbb5ce5759",
+     "group_key": "three aussie startups that",
+     "title": "Three Aussie startups that raised $18.75 million this week",
+     "publisher": "SmartCompany",
+     "url": "https://www.smartcompany.com.au/startupsmart/three-australian-startups-that-raised-125-million-this-week/",
+     "published_at": "2026-10-02T07:00:00.000Z",
+     "amount_hint": "$18.75 million",
+     "snippet": "Three Aussie startups that raised $18.75 million this week SmartCompany",
+     "text_status": "ok",
+     "text": "Share this article\nIf you like this article, share it with your friends.\nFacebook\nX\nLinkedIn\nBluesky\nCopy to Clipboard\nCopy\nStartups\nThree Australian startups that raised $125 million this week\nKeep reading to learn more about Future Secure AI, i14, and Indrus.\nDavid Adams\nSimon Thomsen\nNov 6, 2026\n3 min read\nShare\n0\nPrefer SmartCompany\nFuture Secure AI co-founders and co-CEOs Mehrdad Baghai and Michael Hunter. Source: Future Secure AI\nAnother week, another batch of Australian-born AI startups securing millions of dollars in new equity funding.\nKeep reading to learn more about Future Secure AI, i14, and Indrus, which have collectively raised $125 million.\nFuture Secure AI: $115.3 million\nFuture Secure AI, a Sydney-born startup that develops and operates AI “co-workers”, has secured US$80 million (AU$115.3 million) in a funding round valuing the business at $1.7 billion.\nThe Australian Financial Review reports Square Peg, Yarra Capital Management, and Firetrail led a round creating Australia’s newest tech unicorn.\nRelated Article Block Placeholder\nArticle ID: 347665\nFour Aussie startups that raised $31 million this week\nEloise Keating\nSimon Thomsen\n+ 1 MORE"
+    }
+   ]
+  },
+  {
+   "group_key": "siena",
+   "company_guess": "Siena",
+   "amount_hint_usd": 17000000,
+   "articles": [
+    {
+     "id": "78e0174edb66",
+     "group_key": "siena",
+     "title": "Siena Raises $17M Series A to Expand Its Agent of Record Platform for Consumer Brands",
+     "publisher": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTDNLWnUzV0ppNTNwdGZ4Rmg3WGcxcG9PVmlNTWh1a1pqeHgweUJnV0FadVJwZXhsQUhoVUIzVmlsZi1td2ZKVDlFa0F1dTFxOU5FSjFVSjUwand1dm13VFc1bk5uZTNocTYzazdHLXZkWDl5S1k3TkNrWmlBakR4WjEwLUlzTnEyVGt6RDZRTWlHRDFrdnhHTVZYZjdLblVlb3NHYkJ1VTdtbkVncVh4NWNsSEpDM0VrQUtHS3lpckpOeUZjd2tVbEE1R3VOMG03eW41U1REenJyV0Fk?oc=5",
+     "published_at": "2026-10-06T07:00:00.000Z",
+     "amount_hint": "$17M",
+     "snippet": "Siena Raises $17M Series A to Expand Its Agent of Record Platform for Consumer Brands Business Wire",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "29fdb9c226bd",
+     "group_key": "siena",
+     "title": "Romanian-founded AI startup Siena raises USD 17 million in Series A funding",
+     "publisher": "Romania Insider",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZG9RZXU4RW9ZUXhsUkpvLV9zVF9UUHhjVk5LNEwxZHd0ZTJMVUtFNzlzN0FjRkZUZjJSOS0tUHRYMEh2dWJPMHZVVkhJZFlra1d1cTZYVWFCSVQyMUhhRXBJclY1ZDFJTUZoTjU5Umdkam9BVmpnUHB4cjRxa19YNGZYcG0ySUN4eHNHVUN6WVF1Y0NlWFo1Skl3d00?oc=5",
+     "published_at": "2026-10-09T07:00:00.000Z",
+     "amount_hint": "USD 17 million",
+     "snippet": "Romanian-founded AI startup Siena raises USD 17 million in Series A funding Romania Insider",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "modelyo",
+   "company_guess": "Modelyo",
+   "amount_hint_usd": 17000000,
+   "articles": [
+    {
+     "id": "a3f91cfaa091",
+     "group_key": "modelyo",
+     "title": "Modelyo raises $17 million to let companies use AI without exposing their secrets",
+     "publisher": "CTech",
+     "url": "https://www.calcalistech.com/ctechnews/article/rju100ow2ml",
+     "published_at": "2026-10-22T07:00:00.000Z",
+     "amount_hint": "$17 million",
+     "snippet": "Modelyo raises $17 million to let companies use AI without exposing their secrets CTech",
+     "text_status": "thin",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "dream",
+   "company_guess": "Dream",
+   "amount_hint_usd": 17000000,
+   "articles": [
+    {
+     "id": "a3a6fa1cdefb",
+     "group_key": "dream",
+     "title": "Dream Raises $17 Million in Seed Funding for Building Design AI",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXJjM2RrTG15bFZBOS1tLW9uN0R5QTB5ZlFFZFhUVXl4NmM0UXBNSXdPRDRZcnlGQU4zVnZyeUZGbXZrWWhTeWU5Z1ZUc2ZSeGdhTUtzblE4ZkpFcDBBR3ItWmZzRUxua3BWOENkWmtvdkVZdVpfMFd2WWVxb2gzT0dIeGx4al9qWTVyaGIzeDNLekZ3TzlKNWVZbkl3dkVwVUtV?oc=5",
+     "published_at": "2026-10-29T07:00:00.000Z",
+     "amount_hint": "$17 Million",
+     "snippet": "Dream Raises $17 Million in Seed Funding for Building Design AI citybiz",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "aa74121c166a",
+     "group_key": "dream",
+     "title": "Dream Raises $17M in Seed to Teach AI How to Understand – and Build – the Physical World",
+     "publisher": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbG5GYVBIU2dBZjJGYVAwUy1id0JzQzE3UlFSRlFPcUZMMFdqSjA2a0ppd0wtMTk4NVhKMWJxWXNVMmk2em9UMjBtV2ZUOWIwUnZmdDlaU2RNTUZjWkdQN0lBTnk2dzBmUW03ZFlrenZPTlFfUUF0Qk1yTUpMZlIzOHVqMW00WkNfRWdkaEtUbzQ0eWZCWTVpVGJyc2cxNkF0QmN3Sk4wRVRTdXM3eGtOTVYyN0NsMkF4cjAyNHZHVGRJOTBaZUppTzVyRzQyMTZyQ2s4Unpha29kaGc?oc=5",
+     "published_at": "2026-10-29T07:00:00.000Z",
+     "amount_hint": "$17M",
+     "snippet": "Dream Raises $17M in Seed to Teach AI How to Understand – and Build – the Physical World Business Wire",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "226b655d8e1e",
+     "group_key": "dream",
+     "title": "Dream Raises $17 Million Seed Funding For AI Built World Models",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR20yT18yMDhHOWZJRmRtQWswZGZ3alFtalYwTld5aWc0WjZKYnVDOUdMSVBuWVEzdG1FWkoxM2JfczVuYkE2amJRemRvRW0xNEZRZW5PcEtnXzFZVjl5UE9SUDkzZW1OVFh5TkU4Snp0Q0JXWHFNS1lUSmlPT0o5akNuUUR3MTJXSXc?oc=5",
+     "published_at": "2026-10-30T15:56:33.000Z",
+     "amount_hint": "$17 Million",
+     "snippet": "Dream Raises $17 Million Seed Funding For AI Built World Models Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "ravical",
+   "company_guess": "Ravical",
+   "amount_hint_usd": 17000000,
+   "articles": [
+    {
+     "id": "d4dd29ba7c08",
+     "group_key": "ravical",
+     "title": "Ravical Raises $17M Seed to Scale Accounting Expertise With AI",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FTlJnWC1SU2pYMmdQSnBxdzQ0cUNEYlZmSEpFaTFZWXVFZXRhOWNscnNTOFVhSElfUFFIdlFCMGsyY1IyV3BNOVlRMm41NkVHclBhejhaLU9rVDcxczRzZjdYMjdhZ1JaTW9KWk5fMFR5NFVRbWFj?oc=5",
+     "published_at": "2026-10-29T15:01:03.000Z",
+     "amount_hint": "$17M",
+     "snippet": "Ravical Raises $17M Seed to Scale Accounting Expertise With AI Unite.AI",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

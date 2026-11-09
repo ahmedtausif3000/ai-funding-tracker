@@ -1,0 +1,268 @@
+{
+ "run_date": "backfill-2026-10-01_2026-11-09",
+ "part": 5,
+ "groups": [
+  {
+   "group_key": "micronano core",
+   "company_guess": "Micronano Core",
+   "amount_hint_usd": 300000000,
+   "articles": [
+    {
+     "id": "b18df1eb0fbc",
+     "group_key": "micronano core",
+     "title": "Micronano Core raises $300M as AI chip startup sells services before silicon ships",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ1FZb1FsYklvUHlWR1I0RGZjRzFJMllkVmFNaFMtQnJ3M3R4OVZLQlgwclVIbnJrdWh0ZzJKOVZsLVUyUWxwWVNYTmFoRGNwVVlIc1Q1YWtuLTJRWlc4OW5UUmRTZF8wTFdUODVxeHlET3FfekMwUnc4T2lObGppTkctSWdpbEVWYXIyQjEyWUdObXRWN0syenNCR2pGVVFCLTBZTGNRRDRoLVRkcFA0aVJPRk4wQQ?oc=5",
+     "published_at": "2026-10-29T00:39:15.000Z",
+     "amount_hint": "$300M",
+     "snippet": "Micronano Core raises $300M as AI chip startup sells services before silicon ships Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "armadin",
+   "company_guess": "Armadin",
+   "amount_hint_usd": 255500000,
+   "articles": [
+    {
+     "id": "05db56a01975",
+     "group_key": "armadin",
+     "title": "Armadin Raises $255.5 Million Series B to Scale Effective Autonomous Security",
+     "publisher": "PR Newswire",
+     "url": "https://www.prnewswire.com/news-releases/armadin-raises-255-5-million-series-b-to-scale-effective-autonomous-security-302895278.html",
+     "published_at": "2026-10-01T07:00:00.000Z",
+     "amount_hint": "$255.5 Million",
+     "snippet": "Armadin Raises $255.5 Million Series B to Scale Effective Autonomous Security PR Newswire",
+     "text_status": "ok",
+     "text": "Armadin Raises $255.5 Million Series B to Scale Effective Autonomous Security\nNews provided by\nArmadin\nOct 01, 2026, 06:00 ET\nShare this article\nShare this article\nFunding brings Armadin's valuation to over $2.5 billion just seven months after its launch as AI compresses the time between vulnerability discovery and exploitation\nPALO ALTO, Calif. , Oct. 1, 2026 /PRNewswire/ -- Armadin, an AI-native cybersecurity company building effective autonomous security, today announced it has raised $255.5 million in Series B funding co-led by Andreessen Horowitz (a16z) and Accel that brings the company's valuation to over $2.5 billion. The round includes participation from new investors Bain Capital Ventures (BCV) and Redpoint. Existing investors 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner Perkins, and Menlo Ventures also returned, reflecting their continued confidence, bringing Armadin's total funding to $445 million.\nSeven months after emerging from stealth, Armadin is running agentic attack campaigns in production for Fortune 500 enterprises and government customers. As frontier AI models compress the time between vulnerability disclosure and working exploit, periodic penetration tests cannot keep pace. Scanner output fails in a different way, because it scores each finding in isolation. Armadin deploys an autonomous swarm of specialized agents that reason like a skilled adversary across the attack surface, chaining individually low-severity weaknesses into validated kill chains. Those chains run from unauthenticated remote code execution at the perimeter through lateral movement to full cloud compromise. Enterprise and government security teams see the exact attack paths an adversary would use in production today, along with the blast radius of each, and sever them before they are exploited.\n\"Offense is uniquely advantaged right now,\" said Kevin Mandia, CEO of Armadin. \"AI lets an attacker find and chain weaknesses faster than any human team can respond. The only way to build a defense that keeps pace is to train it against the best offense available, every day. That is what we built. With a16z and Accel co-leading and the support of every investor in this round, we are going to put that offense to work for the enterprises and government agencies defending the world's most critical systems.\"\nArmadin will use the investment to scale its agentic security platform, and to scale its research, training, and go-to-market efforts.\n\"Against agentic adversaries, the best defense is a great offense powered by AI. That was our conviction when we led Armadin's Series A, and it's even more pressing today,\" said Ping Li, Partner at Accel. \"In less than a year, Armadin has set the standard for AI-powered offensive security and remediation across enterprises and governments, and we're excited to keep partnering with them.\"\n\"Every major platform shift creates a new generation of security leaders, and AI is the biggest shift we've seen,\" said David George, General Partner at Andreessen Horowitz. \"Kevin has been on the front lines of the most consequential breaches in history, and he has built a team that pairs elite red teamers with world-class AI engineers. We invested because we believe Armadin will become the defining security company of the AI era.\"\nAbout Armadin\nArmadin is an AI-native cybersecurity company delivering the definitive offensive security platform to identify and eliminate an organization's exploitable risks. As the threat of A"
+    },
+    {
+     "id": "ee4e45903650",
+     "group_key": "armadin",
+     "title": "Kevin Mandia's new 'agent swarm' security startup Armadin raises $255.5M at $2.5B valuation",
+     "publisher": "TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdWJxZ1FsdHZMeGhINjFRanotdEdmcHFvM09DLWx5bGMzcTBWczN0YkRYSlNFZkFWUHZxano3OGNpVGVzbm9iRGVRSVJqRF80RGQ1c3QzdUdyN1phYmJnZlM1NDcwN3E4NXlRRjJiMmR6NWYwOXlJbjA0aUFwdHpNSVpSRURYOTl3Qko3TG81a2QyUmtSS2NURWNpSVc5LXZWbVB6MUJPZ05TTXhQcFV0S2JmbXo4NmlQRUdwRWNn?oc=5",
+     "published_at": "2026-10-01T07:00:00.000Z",
+     "amount_hint": "$255.5M",
+     "snippet": "Kevin Mandia's new 'agent swarm' security startup Armadin raises $255.5M at $2.5B valuation TechCrunch",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "e15b87b1c9b2",
+     "group_key": "armadin",
+     "title": "Armadin raises $255.5 million for AI-powered cybersecurity platform",
+     "publisher": "SC Media",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ2dPU1lrdUdYSnJ1SkF1enJrbnBIeHVVZVZBX3A2aTh3UjZwLWs4YXJFTzB2Q3hmVFdWei1QaG9QUEhWWmRWdVpLODRvejNxWjhmUzV3emtxMDJnT1I3RjhLUklwYnRqM2JGNFZUTFVvcWFfd04wNzR0eDJnbXRzSkItVnFNNXJUek9NZmdIYmpjd0pWYzBuckZqbEU?oc=5",
+     "published_at": "2026-10-02T07:00:00.000Z",
+     "amount_hint": "$255.5 million",
+     "snippet": "Armadin raises $255.5 million for AI-powered cybersecurity platform SC Media",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "exclusive",
+   "company_guess": "Exclusive",
+   "amount_hint_usd": 255000000,
+   "articles": [
+    {
+     "id": "1a3bcbf08ef8",
+     "group_key": "exclusive",
+     "title": "Exclusive | AI Cyber Startup Armadin Raises $255 Million",
+     "publisher": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaTUxbFJBdVZjek1MWHpMTXpySHQwZE5WaGl5VUoxS0QzTjFaanBoc1o0dkJySkRGTHNLSHVRRGhhODJ5ZE1kcHBZNndkZWJJS0dlX1NZY05jVXRjdzUyQXgxN0RRQURQMEJpX1FhQV9aUEhBZmI2SklKZlRlV1J0eGdiS1BDUVJKd3NoU2lld0RadlFR?oc=5",
+     "published_at": "2026-10-02T07:00:00.000Z",
+     "amount_hint": "$255 Million",
+     "snippet": "Exclusive | AI Cyber Startup Armadin Raises $255 Million WSJ",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "vinci",
+   "company_guess": "Vinci",
+   "amount_hint_usd": 250000000,
+   "articles": [
+    {
+     "id": "5c00d4d693e1",
+     "group_key": "vinci",
+     "title": "Vinci Raises $250M Series B at $1.5B Valuation to Build the Intelligence Infrastructure for a New Era of Hardware Engineering",
+     "publisher": "Yahoo Finance",
+     "url": "https://www.vinci.com/en/vinci-group",
+     "published_at": "2026-10-06T07:00:00.000Z",
+     "amount_hint": "$250M",
+     "snippet": "Vinci Raises $250M Series B at $1.5B Valuation to Build the Intelligence Infrastructure for a New Era of Hardware Engineering Yahoo Finance",
+     "text_status": "thin",
+     "text": "Featured\nNew contracts\n28 October 2026\nVINCI wins contract to build Poland’s largest symphony hall\nRead the press release"
+    },
+    {
+     "id": "fd89fc848ab4",
+     "group_key": "vinci",
+     "title": "Vinci Raises $250 Million Series B At $1.5 Billion Valuation To Expand AI-Native Computational Platform",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTnBiZTF4SzU4b0tkTjZBUmtCWDh6SXgtbURaTlo4QkZhSE5PU056Z01sU0ZYX0hMaTl2OVFtQkJGZ3hxUEo0cS1COTRqU1NfeDZlWE1LcmdWWDIxQlNaV2JtaHUxVFE4TDNBTUo1UTJvZnlTdENlSDBHYXpEUFBQeE9uaW7SAYoBQVVfeXFMTzhqSl9VMXBDeDY1a04wYUc2TjN0SHMxOHNVWmh0aktvenB2eERiX0lDVW02b3BfU0dLUGVmNVhqdERFTnZqOEgydE13dWV4ellKSjloN0d3a1c3TGJiMGRQWmkxWUtWcUJOVU5SSU1PNHhScnBhbEFIUkZvdFpBelYtSVUxRnNwVS13?oc=5",
+     "published_at": "2026-10-06T07:00:00.000Z",
+     "amount_hint": "$250 Million",
+     "snippet": "Vinci Raises $250 Million Series B At $1.5 Billion Valuation To Expand AI-Native Computational Platform Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "atomic machines",
+   "company_guess": "Atomic Machines",
+   "amount_hint_usd": 250000000,
+   "articles": [
+    {
+     "id": "a5476ed7c1eb",
+     "group_key": "atomic machines",
+     "title": "Atomic Machines Emerges from Stealth with $250 Million to Launch the Matter Compiler, an AI-Native Manufacturing System That Builds Micro-Machines from Code",
+     "publisher": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPNWxkRTRReHFDcTdObGs2a1pINXlvSXMtTV9LZTNiMWlrSG1tT2c0ZXlCMDktS3pjeDc1TTVjNFNJaFUtdVBtdHJJeWwtUmpOOG5ZcG9renF5WTI4bGlaSy15TE1hc1YyLUt1cnRtWHkwUFJKNEU1WkVyNWxha2htZVloRUhiQnJ4M2ZBU3dLOGhoamk3TVlmUWZ3Rlo3UERYa1Q5dktkY0xRd1UyZ05Xd2hYbU9iUElQNHBkM1lJTHFBRXRyWTVVbDU3cXNOUlJ4MWZPR0lXYjBkTElXeGxIS3BqT29UWU9zdS1XWUVVQ3hjdHBFLXdmN2g1Q0JVakIxUXBxaDNkUEtnR1FaTWVaS3A3b2FVLWJhMDN1ajdmWF9UckU1VUdrUlJSbzRuRTBxN3RPcjdKV0tQUQ?oc=5",
+     "published_at": "2026-10-07T07:00:00.000Z",
+     "amount_hint": "$250 Million",
+     "snippet": "Atomic Machines Emerges from Stealth with $250 Million to Launch the Matter Compiler, an AI-Native Manufacturing System That Builds Micro-Machines from Code Business Wire",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "pigment",
+   "company_guess": "Pigment",
+   "amount_hint_usd": 250000000,
+   "articles": [
+    {
+     "id": "25c62e918e14",
+     "group_key": "pigment",
+     "title": "Pigment Raises $250 Million for Agentic AI Platform",
+     "publisher": "PYMNTS.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX2dQM0tpSzBJcUJ6QjhpdFMtOS02b0FtTXJfS0tPaWMtdTEycXBLSjc0aDRfTGNpTTRoQWJ1RE5xOHBXMDVWT2tjdkVSbGw3S0tjdE5SWE9YMVhkanJsTkRZalhhX1MtenduRjlkaFhUOXctRXhkTmdQMnY2VFMwSTh5UllwMnFMTVhrMGVFYnIwZG5hZkZMTXRiV3F2eUpTOWlDQXJJUnVpWi13Nkxnb0JR?oc=5",
+     "published_at": "2026-10-21T07:00:00.000Z",
+     "amount_hint": "$250 Million",
+     "snippet": "Pigment Raises $250 Million for Agentic AI Platform PYMNTS.com",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "ibis",
+   "company_guess": "Ibis",
+   "amount_hint_usd": 250000000,
+   "articles": [
+    {
+     "id": "2aa8fdc038ce",
+     "group_key": "ibis",
+     "title": "Ibis Emerges From Stealth With $250 Million FalconX Credit Line",
+     "publisher": "TOKENPOST",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sam9RcE95aGVqamRzU09BSWx1Zl9XaTFnWTBiRnM5N1NKelBfMWRHT1lZYlVKR3lLUzRfYk5wTkJnZjgxamRyYXJuX09RYzJwdkdyai1meEQ?oc=5",
+     "published_at": "2026-10-28T18:56:03.000Z",
+     "amount_hint": "$250 Million",
+     "snippet": "Ibis Emerges From Stealth With $250 Million FalconX Credit Line TOKENPOST",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "pathos",
+   "company_guess": "Pathos",
+   "amount_hint_usd": 237000000,
+   "articles": [
+    {
+     "id": "3cd4b96a13e3",
+     "group_key": "pathos",
+     "title": "AI drug firm Pathos raises $237 million, pushing valuation to $3 billion",
+     "publisher": "STAT",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV3FLQ1U2aGpZSDdvWE5fQ0lrbkFBRnVhR1hJcnZ2TG8wN3VObGF5TEg2RWFCaDF1a0hiV2FFQ1BxRjUxT2p6VTdYWk9FdFJHYTJLS3J1ZzBMLURHTWRDLThhMXMzbk9VQ0V1d1dmTkpsR3E5VHJuVlpHUVNZY3piaTlsZnVtdw?oc=5",
+     "published_at": "2026-10-23T07:00:00.000Z",
+     "amount_hint": "$237 million",
+     "snippet": "AI drug firm Pathos raises $237 million, pushing valuation to $3 billion STAT",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "06650c635499",
+     "group_key": "pathos",
+     "title": "Pathos AI Raises $237M at $3B Valuation in Round Led by Bristol Myers Squibb",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlNtTndKd0pQajE1ODZlN2tuZXhGNUVpVlQxRHdTekU1dHM2SGt1XzJNWDRKcE1iQ0dNSXlQSVJ1YlNpOXNDYzhpX1QySW1XNXVIRFVjSXAycXdCdGpaX2V3THRteGNuYm1FcXVPMFYtc3ZsSWpRTW1PUUM1SlNIbnpqOW8tR1hENlVsOHk2U3ZZb1A4TUt6eXRtWFdxWVI0Y21fclBMMnJHaFhLTFdKeFg4dw?oc=5",
+     "published_at": "2026-10-26T07:00:00.000Z",
+     "amount_hint": "$237M",
+     "snippet": "Pathos AI Raises $237M at $3B Valuation in Round Led by Bristol Myers Squibb citybiz",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "arda industries",
+   "company_guess": "Arda Industries",
+   "amount_hint_usd": 232000000,
+   "articles": [
+    {
+     "id": "8d9d85e7c533",
+     "group_key": "arda industries",
+     "title": "Arda Industries Emerges from Stealth with $232 Million to Automate U.S. Manufacturing",
+     "publisher": "citybiz",
+     "url": "https://portal.arda.nl/",
+     "published_at": "2026-10-20T07:00:00.000Z",
+     "amount_hint": "$232 Million",
+     "snippet": "Arda Industries Emerges from Stealth with $232 Million to Automate U.S. Manufacturing citybiz",
+     "text_status": "thin",
+     "text": null
+    },
+    {
+     "id": "46f3efa6f8db",
+     "group_key": "arda industries",
+     "title": "Arda Emerges From Stealth With $232 Million To Automate Manufacturing Engineering",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTjI3bzNvZlMycUJ4SURVdjJWRkgtaEphd3diTXZHU2twTEx2OFRzMmxkS0RCWHR0N3BnMm9NSWVvb21ScnFjWVM0dTRBU1VxaEUzVEpYV1pPVF9EdEZjTXdOdEdFWktoeWlsenJFekQ5aHhjZ3dQcFlCQWlieGJiZHpfX3Fuc3M1ZWg1aTE5RTNBQ3BtVzRaamRWODN6c2xfUEE?oc=5",
+     "published_at": "2026-10-21T07:00:00.000Z",
+     "amount_hint": "$232 Million",
+     "snippet": "Arda Emerges From Stealth With $232 Million To Automate Manufacturing Engineering Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "a7b9b849aac6",
+     "group_key": "arda industries",
+     "title": "Arda Emerges from Stealth with $232M for Automated Manufacturing",
+     "publisher": "Tectonic Defense",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDlwaDdPRTVXeUFnMnVBOFhsdy0zTFRNWUx0SXRsLVk0ZlYyY2s3WU1fZXNGOWh3czdpQ1FwQ3ZIWGEwZEtlVVJXMkRrcC0zel9uNGowX1dtMVVWQzA3Vmc5Q282a2ZXT0FQSHVRMjB6dXdRTXZKSUpIV2ZrYzljbHV5MmtHbndtM0lyekdaNFZCNzdJTmFfem5BLWM?oc=5",
+     "published_at": "2026-10-23T14:26:52.000Z",
+     "amount_hint": "$232M",
+     "snippet": "Arda Emerges from Stealth with $232M for Automated Manufacturing Tectonic Defense",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "funding and m&a roundup",
+   "company_guess": "Funding and M&A Roundup:",
+   "amount_hint_usd": 225000000,
+   "articles": [
+    {
+     "id": "f9ccb6ea0af6",
+     "group_key": "funding and m&a roundup",
+     "title": "Funding and M&A Roundup: Voltus Raises $225 Million in Series D Funding",
+     "publisher": "Mercom Capital Group",
+     "url": "https://mercomcapital.com/funding-ma-roundup-group14-raises-169-million-series-d/",
+     "published_at": "2026-10-14T07:00:00.000Z",
+     "amount_hint": "$225 Million",
+     "snippet": "Funding and M&A Roundup: Voltus Raises $225 Million in Series D Funding Mercom Capital Group",
+     "text_status": "ok",
+     "text": "November 04, 2026\nStaff\nSolar , Storage\nGroup14 Technologies, a manufacturer of silicon-anode battery technology, has closed a €150 million (~$169 million) Series D equity funding extension to support its global manufacturing expansion, including a 10 GWh silicon battery materials manufacturing facility in Sagunto, Spain. The planned facility, designated BAM-4, will manufacture the company’s SCC55 silicon battery material and establish a production base in Europe.\nClean energy deployment platform for commercial and industrial businesses, Two Point O Capital, has raised $10 million (~₹949 million) in a funding round led by Transition Venture Capital. The transaction also saw participation from existing investor Omnivore and angel investors Chiranjeev Singh Saluja and Sudhir M Reddy. The company plans to use the funding to expand into new asset classes, including battery energy storage, and increase its presence in solar, energy efficiency, and wastewater treatment segments.\nNoak, a start-up focused on perovskite-silicon tandem solutions, has raised €5 million ($5.57 million) in seed funding to scale and industrialize its technology. The Helios Foundation, Nuhma, and V2HFin provided the funding. Noak plans to use the proceeds to accelerate technology development using existing infrastructure at EnergyVille in Genk, Belgium, and prepare for scaling through gigawatt-scale manufacturing partnerships.\nOtovo, an artificial intelligence-enabled platform providing behind-the-meter energy services for homes and businesses, has completed a $3 million private placement to fund strategic acquisitions, merger and acquisition opportunities, costs related to its contemplated U.S. dual listing, and general corporate purposes. The latest financing brings Otovo’s total capital raised over a little more than 12 months to approximately $40 million.\nSunergise, a solar energy company specializing in commercial solar installations, project development, financing, and operations and maintenance services in New Zealand and the Pacific, has signed an agreement to acquire Infratec New Zealand Limited from WEL Networks to expand its solar and battery storage business in New Zealand and the Pacific.\nFor reports and trackers on funding and M&A transactions in solar, energy storage, and smart grid sectors, click here .\nRead last week’s funding roundup .\nEnergy Storage Funding Group14 Technologies M&A Noak Smart Grid Solar\n0\n0"
+    }
+   ]
+  }
+ ]
+}

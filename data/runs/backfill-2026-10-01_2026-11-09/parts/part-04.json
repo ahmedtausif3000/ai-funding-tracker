@@ -1,0 +1,256 @@
+{
+ "run_date": "backfill-2026-10-01_2026-11-09",
+ "part": 4,
+ "groups": [
+  {
+   "group_key": "stord",
+   "company_guess": "Stord",
+   "amount_hint_usd": 400000000,
+   "articles": [
+    {
+     "id": "a47d53d100bf",
+     "group_key": "stord",
+     "title": "Stord Secures $400 Million Credit Facility Led by Citi to Scale Its Network, Robotics, and AI Investment, Expands Leadership Team",
+     "publisher": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMjBpRklQa3QyN2VYWlp5cXJIeEdsWHdMMWlYd0lLMFV6LWlvdkdPVjVlQXZCMXNOQnhSU3NFN2poTjB2V0xIX1NFQUdiUTRWNkZlVnktN2oyYmJ1YzRXVGg3QVNqLTYxWklzaWpUaTk3YmktMk1RM2RNRWJxS3UwVHdjQkk3ZlNuMTRpNS1abERmSjFtS3FCdXMwaHNNY0E0SHVVQ1l2aTlYLW5DYUlybUhGSXJ5VjViRUkzZDUyOUlMTmVQa1pMcG0xQ3dtajJhX29ueGdPTTczQjFRdmxCeWR0N2NNYUg4WVc3MlR5bnhLY2hSNkFRc2xhbTdrZ0FIbGlIRjdjMkg1WUdkU3c?oc=5",
+     "published_at": "2026-10-08T07:00:00.000Z",
+     "amount_hint": "$400 Million",
+     "snippet": "Stord Secures $400 Million Credit Facility Led by Citi to Scale Its Network, Robotics, and AI Investment, Expands Leadership Team PR Newswire",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "signsplit",
+   "company_guess": "SignSplit",
+   "amount_hint_usd": 400000000,
+   "articles": [
+    {
+     "id": "0920894d02b4",
+     "group_key": "signsplit",
+     "title": "SignSplit Raises $400 Million From W Group At $1 Billion Valuation",
+     "publisher": "https://ascendants.in/",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMTJDSFJkYjIxN3FESHRGWEdzQ2JGS2lGSFR0eDRoRTFBckR2bGVvVTZQbUU5TXZfdWtlVkU5cXkzbzQzNlNFcTFhX2RUTlk3OVRnc2xKU2VrU0M3ZWxBZTlSV2xJUHRJZ0QxZHd4dGF0SlpLdjMzOU16TTZld25FSU9LTFdwMEJ1SmhheGdSYkp6N2R5THBTeXZlX184QQ?oc=5",
+     "published_at": "2026-10-11T07:00:00.000Z",
+     "amount_hint": "$400 Million",
+     "snippet": "SignSplit Raises $400 Million From W Group At $1 Billion Valuation https://ascendants.in/",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "bc0794bf8f76",
+     "group_key": "signsplit",
+     "title": "SignSplit attracts 400 million US Dollars from W Group",
+     "publisher": "BeBeez International",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUNVVEpWdnZ5cGtTMlRaNnlNY0lkR1RnenRfYlM0QWl5bWplY0ZrLWJjOUt6ZEtLeEFzem1KQTBTR2ZjYkNWaVhsQ0FZc01XYkZYekN3R3dIN3RMODZScHl5WE4ycG0zcTV3MjBuTmw5NFNHR2dIYWRNNFh3Ql9YRk5TaUU4TjZoaFhCMQ?oc=5",
+     "published_at": "2026-11-06T10:18:36.000Z",
+     "amount_hint": null,
+     "snippet": "SignSplit attracts 400 million US Dollars from W Group BeBeez International",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "upwinds 400m series c",
+   "company_guess": "Upwind’s $400m Series C",
+   "amount_hint_usd": 400000000,
+   "articles": [
+    {
+     "id": "cc5aea318483",
+     "group_key": "upwinds 400m series c",
+     "title": "Upwind’s $400m Series C raises the stakes in AI security",
+     "publisher": "FinTech Global",
+     "url": "https://login.upwind.io/",
+     "published_at": "2026-10-29T07:00:00.000Z",
+     "amount_hint": "$400m",
+     "snippet": "Upwind’s $400m Series C raises the stakes in AI security FinTech Global",
+     "text_status": "thin",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "upwind",
+   "company_guess": "Upwind",
+   "amount_hint_usd": 400000000,
+   "articles": [
+    {
+     "id": "6af6c226c863",
+     "group_key": "upwind",
+     "title": "AI cybersecurity startup Upwind raised $400 million, more than doubling its valuation",
+     "publisher": "Quartz",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04Z2JNN0k1V1g1Q20xNWN6VHdBNkhTb3l0eVF3dWp3V3hvMUIzdjZ6Vkdzc0Jyd1hrd09wTlJRT0N1Z2JhWEhsbmxaSkpOUGVyb05RRU1odmJyQUplZXRKSUFwNjRvcDhUcFJSZU1ybEhXcUhTT0E?oc=5",
+     "published_at": "2026-10-28T07:00:00.000Z",
+     "amount_hint": "$400 million",
+     "snippet": "AI cybersecurity startup Upwind raised $400 million, more than doubling its valuation Quartz",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "974541d3655e",
+     "group_key": "upwind",
+     "title": "Upwind Security Raises $400 Million Series C Led by Bessemer",
+     "publisher": "Securities.io",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQclRkbXgxV0c4a1dOUG9DUGRiQkMzdmpxU1FkLWR1ZC0yS0FDNTV1ZlFrWkJvc2FnMm5uSmtOcnBWVDNFMk5ZbUphelNETTBDakhLb01rcV94QlA4Rll1My1DZmNaU1VFbFZtZ1otb0luR21IbS1uamdZeWgxbG93X0pWaExfc1lWSmVkbzJWZw?oc=5",
+     "published_at": "2026-10-28T11:52:02.000Z",
+     "amount_hint": "$400 Million",
+     "snippet": "Upwind Security Raises $400 Million Series C Led by Bessemer Securities.io",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "90179a870401",
+     "group_key": "upwind",
+     "title": "Cloud security startup Upwind raises $400M at $3.8B valuation as revenue quadruples",
+     "publisher": "SiliconANGLE",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSE1XQjJEQVpqc1E5SEJyVk0wanRUQ0NpZVMzZnRUbFVfcVNqZXZEbXdTVzFsUVBhd2p2NDRrZTdINDdlWnd1WEt5OVZnMWk1ZFRPc0dIc0pjWE0zRElOT1NPQTlaZlNPbFczYkUzMFRUQjdZZnNNRkVxV3B0YllBZnlMZUcxbEFIa0FSUnJzWkZQZHdsZW9zQTZxNWNMU0p1UnlwTTlqWjN2RXkwZEd2THU3SnBvWWlTRXc?oc=5",
+     "published_at": "2026-10-28T07:00:00.000Z",
+     "amount_hint": "$400M",
+     "snippet": "Cloud security startup Upwind raises $400M at $3.8B valuation as revenue quadruples SiliconANGLE",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "reed jobs yosemite",
+   "company_guess": "Reed Jobs’ Yosemite",
+   "amount_hint_usd": 350000000,
+   "articles": [
+    {
+     "id": "7845e2e48b43",
+     "group_key": "reed jobs yosemite",
+     "title": "Reed Jobs’ Yosemite Raises $350 Million to Support Cancer Research",
+     "publisher": "Oncodaily",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IRXlIdnhKbUxvRm1EWTNtdVZuRFNjYklFOWprSVJXMFhaUlNpNDZxNmxjMkJ5RExNMWtoSFZ4elBzYkRCZ2NQSHM0cWlQWXM5Y1hFVlN6ZWtZSWNjREpkX21SbnJkcnlQUzh3?oc=5",
+     "published_at": "2026-11-05T17:49:03.000Z",
+     "amount_hint": "$350 Million",
+     "snippet": "Reed Jobs’ Yosemite Raises $350 Million to Support Cancer Research Oncodaily",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "infinigence",
+   "company_guess": "Infinigence AI",
+   "amount_hint_usd": 344000000,
+   "articles": [
+    {
+     "id": "61fddefa169b",
+     "group_key": "infinigence",
+     "title": "Infinigence AI raises record 2.3b yuan in Series C funding round",
+     "publisher": "China Daily",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOVhVeU5iTWdJbmVLekk3VWxVczZ0LUI0YXRHR0NySTdTenhpeEhsa1N5QTN5bVRxaTY5RVZLelhGQVppejRZTXZtOEtDWWVieVVXSm0xSkJ0YVVfUEQybnBXTmVVVm0xQXkwVExUX3Z5S3EtV1lnUWM2cDFXd2ZkSUhuaWszN2d4R3B5S1I3YzA?oc=5",
+     "published_at": "2026-10-14T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Infinigence AI raises record 2.3b yuan in Series C funding round China Daily",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "2c67c4292a9a",
+     "group_key": "infinigence",
+     "title": "Infinigence AI Raises $344 Million as Chinese AI Infrastructure Funding Accelerates",
+     "publisher": "Konsulteer",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY25FWjdfOTRxbFdNUVY1OFBTbFUtNHVPeWZKX055cUVoeE5fM2FWUFRUaUhWMzFyRmx2SXh0emhJcG02TVZUNDBCZ3p4bUw5a1pHS0ZOXzY2cVdwd3NqUWRMelp4V3czVE9LVV9icHlmVnBMeVRHTXFxc2JjVjNKcERmSGZiQnhlZWxZNklEOFkzajhpMldIVF9mRjdtWEJIQ2Q5T1YwTW9raXNDcGhQMk16ZEVxWjhL?oc=5",
+     "published_at": "2026-10-14T07:00:00.000Z",
+     "amount_hint": "$344 Million",
+     "snippet": "Infinigence AI Raises $344 Million as Chinese AI Infrastructure Funding Accelerates Konsulteer",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "asi",
+   "company_guess": "ASI",
+   "amount_hint_usd": 325000000,
+   "articles": [
+    {
+     "id": "a2b333a072e9",
+     "group_key": "asi",
+     "title": "ASI Raises $325 Million at a $3 Billion Valuation",
+     "publisher": "Spherical Insights",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNEljZmNxWmVoM2t5c0s3MXlsODdKdW9kcjg0RHRZNzBLSlZIUGNwY2ptQnoyWmM4RzdFRlNlUDFjckxkWnBreWxrbDhGTGlLeTdnR2hZckh5blZGdUhQTXI5clpCRjZwdkk0ZTg5YmZjaTJzQTRvVHlBTlRxNEZWa0Jfc2JXUFpHR2VZRHpJdG92WGp0dTIwdko3TlU0MXRrWS11ajl2dXA5SnVUNHMzTVRqaGJtMl9lTnhmWDRyVmdEeXZiU2QwYXptN01HalE?oc=5",
+     "published_at": "2026-10-06T07:00:00.000Z",
+     "amount_hint": "$325 Million",
+     "snippet": "ASI Raises $325 Million at a $3 Billion Valuation Spherical Insights",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "dca2fcc99980",
+     "group_key": "asi",
+     "title": "ASI Raises $325 Million Series C at $3 Billion Valuation to Expand Infrastructure AI",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNUJZMlp5aFNiNUdXSzJPaDlrLW5hbkJuSEdvY2FkSU5QdXJUeG1YRV9YZE5PWkFaM1UzTkE1NXdYRm1sU2hmdmhIdnpjQVZIZzZQNm5GVmNtOFlncUwzTXgwcFBPWW9TUXpRUFZEckxORllEQVR6STlxdEx4Y3RrT25jNnNzUm9IWG43cjZEcXNjM05YbjNfSHpJNl8yVEZuMTJ6c0xNTDktYlBQSWh2SEhrQXo3bl9UeHFWUGJR?oc=5",
+     "published_at": "2026-10-20T07:00:00.000Z",
+     "amount_hint": "$325 Million",
+     "snippet": "ASI Raises $325 Million Series C at $3 Billion Valuation to Expand Infrastructure AI citybiz",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "41e99a5b7d47",
+   "company_guess": "AI",
+   "amount_hint_usd": 325000000,
+   "articles": [
+    {
+     "id": "41e99a5b7d47",
+     "group_key": "41e99a5b7d47",
+     "title": "AI Startup ASI Raises $325 Million, Hits $3 Billion Valuation",
+     "publisher": "https://ascendants.in/",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXczbU5HOGJQdWxKNUx2MjUxNXpYQ0VWZ1JoZFNwa3RSNkoxbTdkV2N2SlBsR0VreGpBNVJ0RnhNVUkySEJ3LWVfSHBhRVNZSkduaGstUy1KVzNHYmRuRU85a1FSaUNTZWZlTFJZdExNb0FrRVhXWk5DSWNma00xVXl4US1KTm1Pc0pWZ1JsYlQtbk9qeklvWXdB?oc=5",
+     "published_at": "2026-10-20T07:00:00.000Z",
+     "amount_hint": "$325 Million",
+     "snippet": "AI Startup ASI Raises $325 Million, Hits $3 Billion Valuation https://ascendants.in/",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "sarvam",
+   "company_guess": "Sarvam AI",
+   "amount_hint_usd": 300000000,
+   "articles": [
+    {
+     "id": "fd98951878dd",
+     "group_key": "sarvam",
+     "title": "Sarvam AI in talks to raise up to $300 million at $3 billion valuation",
+     "publisher": "ET Enterprise AI",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUHBFVVlISnVKVkVsS0dGN2FxRG0tYU81bE1oRmRVQXJWUjZ3blR1aTI1XzlDOXpTb3h6cjh2UmNRVlpmbGJOZGR4eGVyOGUtVUZxRVlmU05FUXZ0bnM4UmszanZWSEd2YXlzaTJGTXlWV0VfUUo2VGdJRG5OTDg3Zkp0b1ZrWkpHREt6NjdPNEI0QUs4VkRydHpyVDN4Sm4zS3p3U1dvRnlkeXVfb2JMWXQ1MDVHdXJFbGcwS0tsbEVCWGlDdkt6U2dSb2hEU2tUVzNSb252dEhwZ9IB3wFBVV95cUxNc0laT0xZd1ItT2VtQ0RsTnlrT3FJV3E5TlEwWXpKNk0weW94N2ZqQ3V3RjJnSmxEeUlEOHBqd3pKOXpBVkpiTS1NYnU1WEhvYmhzSExfcmRtekxGTDFseV9Pc2MtaTdPcHRSN2VoMkJtTjk3ajM4Zi1XRWhLcDZMQ1YtY3FfWjJtYzUwbFA3dGEwOVZCajBISE54WnJHQ1FoX1dpYmdPQ1RGeUVrLWNWQVNzX1k1T3ByRy1hT3RVUGZfdk02NHZrNUxXbTN0RnVfaFF3bDZYaUJxRGJWT0pV?oc=5",
+     "published_at": "2026-10-13T07:00:00.000Z",
+     "amount_hint": "$300 million",
+     "snippet": "Sarvam AI in talks to raise up to $300 million at $3 billion valuation ET Enterprise AI",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "this",
+   "company_guess": "This AI",
+   "amount_hint_usd": 300000000,
+   "articles": [
+    {
+     "id": "ee657df09193",
+     "group_key": "this",
+     "title": "This AI startup raised $300 million to build digital versions of consumers",
+     "publisher": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeWE2N3lpd1c5NmM4NldJWDFYUmtLMlVNWmVnTUZ6Z2RKREtSRm10ZE1SSmc3ZUIzalpfVnJOUTVKZEs1NXR2ODB3em11SzAyZzhidkFZblUtcE8wVjMzMnhWUXRjaEtJSTVoOG9lRGs4enZTdU9PeXZXTmNLSEM3OFY0R2VESFgybVEyTzhxS3NLLV9WQlEtaA?oc=5",
+     "published_at": "2026-10-26T07:00:00.000Z",
+     "amount_hint": "$300 million",
+     "snippet": "This AI startup raised $300 million to build digital versions of consumers Yahoo Finance",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

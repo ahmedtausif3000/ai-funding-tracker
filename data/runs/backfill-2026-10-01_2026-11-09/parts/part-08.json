@@ -1,0 +1,304 @@
+{
+ "run_date": "backfill-2026-10-01_2026-11-09",
+ "part": 8,
+ "groups": [
+  {
+   "group_key": "veir",
+   "company_guess": "VEIR",
+   "amount_hint_usd": 110000000,
+   "articles": [
+    {
+     "id": "ad8d311b78dc",
+     "group_key": "veir",
+     "title": "VEIR Raises $110 Million Series C to Accelerate Commercialization of Superconducting Power Delivery Technology for AI Data Centers",
+     "publisher": "Business Wire",
+     "url": "https://veir.com/",
+     "published_at": "2026-10-08T07:00:00.000Z",
+     "amount_hint": "$110 Million",
+     "snippet": "VEIR Raises $110 Million Series C to Accelerate Commercialization of Superconducting Power Delivery Technology for AI Data Centers Business Wire",
+     "text_status": "ok",
+     "text": "Defining a New Category of Power Delivery Solutions About VEIR\nWhy VEIR Technology\nV E I R u n l o c k s t h e n e x t g e n e r a t i o n o f A I c o m p u t i n g i n f r a s t r u c t u r e w i t h s u p e r c o n d u c t i n g p o w e r s o l u t i o n s .\nW e d e l i v e r e l e c t r i c i t y i n f u n d a m e n t a l l y n e w w a y s , e n a b l i n g h i g h e r p o w e r d e n s i t y , a c c e l e r a t e d d e p l o y m e n t , a n d i m p r o v e d p e r f o r m a n c e .\nPlay Video\nEnabling\nGrowth\nVEIR’s platform for superconducting power solutions is designed to meet increasing demand with confidence, removing power as a constraint, so ambition, infrastructure, and growth can scale without compromise.\nCapacity\n10x\nThe power density of traditional (copper) solutions\nUptime\n99.999%\nAvailability\nReduced Materials\n80%\nReduction in copper tonnage (up to)\nCompressed Timeline\n35%\nShortened timeline compared to current solutions (up to)\nLabor Impact\n60%\nLess installation labor (up to)\nEfficiency\n99.95%\nReduction of resistive losses\nBacked by Industry-Leading Investors\nFeatured News\nVEIR Raises $110 Million Series C to Accelerate Commercialization of Superconducting Power Delivery Technology for AI Data Centers Read More\nVEIR Successfully Demonstrates 3-Megawatt Superconducting Power Delivery for AI Data Centers, Eliminating Critical Growth Bottleneck Read More\nAI has a power delivery problem. Superconductivity offers a path forward Read More\nCan High-Temperature Superconductors Transform the Power Infrastructure of Data Centers? Read More\nAbout VEIR\nEnsuring Power Never Limits Progress\nPower demand has become today’s defining constraint on growth. As demand accelerates and legacy infrastructure struggles to keep pace, incremental solutions can no longer deliver the certainty, scale, or speed the future requires. VEIR is the world’s leading company commercializing superconducting power at the platform level, enabling scalable power delivery at industrial scale. Innovation that sets the pace of infrastructure.\nAbout Us"
+    },
+    {
+     "id": "524067e2d8a2",
+     "group_key": "veir",
+     "title": "VEIR Raises $110 Million Series C Co-Led By Matter Venture Partners And Tyche Partners",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGRJcWxlaHdFdGV2cnZpakJ2TkZFdDFKczBOZHptQXF3dkZJZ3lpYm1GOUU2eWFSWHkxVUE0a25CRjFrN3J4U0Z0SjFiZ0NJM2Q2TmVnSnI4b2FSaXYxVGdpMm8zbWhUbllYUzE1ZWtQaEo0bFl6VU53eGxSUFU2SkFIVVFmbXR0ZUxLekFTdWtRVTM3SEk5MmFoYzdVWFVoTFVXOG9WbmTSAa4BQVVfeXFMUFk5a1F3aHBsODR3cGtDMzdNMmJoY3dISEVkQ0VLRlY5ZW5sTTYwczdOX0JkblF6MHFGeERTSUJWWUZJY09VY3NNV0t1aEJ5d1hwM1pUYzJISUFOblZlb2xCbG5sejdPSWtfeklwWlNtSWRsYmRoc0RsWURpV084RFVjR3VwckNsbWlNNktYYlJXSkgzZXkwWm5MdnlKRmJRSjI3MEZDYnQxNXdaT0F3?oc=5",
+     "published_at": "2026-10-10T07:00:00.000Z",
+     "amount_hint": "$110 Million",
+     "snippet": "VEIR Raises $110 Million Series C Co-Led By Matter Venture Partners And Tyche Partners Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "parallel",
+   "company_guess": "Parallel",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "2616c952c2cf",
+     "group_key": "parallel",
+     "title": "Autonomous freight rail startup Parallel raises $100M Series C",
+     "publisher": "Axios",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmpVZ3JNRExuMTQteGk3WERBR1liaV9Wd0RGaVZwUDFLWlAzUFNPdVU1R1d6ckxXekJBSnNwb1lpa0pWNENVLWVlSk13MHhfeW5lNENyanlucF9XbVpnRmcwaFRMYkRpZXF1Qnc1RlIybGphdjZEZUk3V1R1V0VVUzZ0ZzE4c1NtM2lhMWNrU0J2VFpGWVB1Uy1RZ1FuX04wMXFBNk5McUp5X0tm?oc=5",
+     "published_at": "2026-10-07T07:00:00.000Z",
+     "amount_hint": "$100M",
+     "snippet": "Autonomous freight rail startup Parallel raises $100M Series C Axios",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "general compute",
+   "company_guess": "General Compute",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "d4b5e28a2f91",
+     "group_key": "general compute",
+     "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+     "publisher": "TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVVicEc0Q1FoTEpHcXI0SERMUjN5QTl2VXNyQldXbHkxYnNkaHZNX2swY3djNmQ1ZDdOU2tqaFhfblFXZl9IMjFkOXZxZzQ3WldLVl9XM0Q3YVFiVGdUOGZveUV1S3lneFNKeTJ4YTE0ZGN2NXBKclplcGZhMUQ1dm5uUGxTYmdSd1JaVjRxck9vdm1oWC1iUUl3c21HTVVjT215d3o4Z05rOEdleFpIbmRTOXl4YUhiRVo4LVNB?oc=5",
+     "published_at": "2026-10-27T07:00:00.000Z",
+     "amount_hint": "$100 million",
+     "snippet": "General Compute raises $100 million Series A, countering the neocloud disaster narrative TechCrunch",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "17ee3157845d",
+     "group_key": "general compute",
+     "title": "Neocloud General Compute raises $100m in Series A funding round",
+     "publisher": "Data Center Dynamics",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbHJqNnJkbDQ5V21hVUo1TDFLTlh6S3FoMWlxWGZJcF9rU200cGs5ZFlYNUFzM0FYWkU2YXFLVUotVUNRN25kal9rZzYtYkxhdkQ2TjVCbHVoOGUxUEcxS1hxeVB3T3YxREdWSmRzc3lMYzVpbHlIcVA0MGk0R3haZEFFNjJtQm81SmlLSG5HTVRBakxjaEx4d29pRG80V0hwQmRwa2l0cjd0UQ?oc=5",
+     "published_at": "2026-10-28T07:00:00.000Z",
+     "amount_hint": "$100m",
+     "snippet": "Neocloud General Compute raises $100m in Series A funding round Data Center Dynamics",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "solink",
+   "company_guess": "Solink",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "d901a19ade84",
+     "group_key": "solink",
+     "title": "Solink raises US$100M in new funding to grow AI video intelligence platform",
+     "publisher": "Ottawa Business Journal",
+     "url": "https://solinkcloud.com/",
+     "published_at": "2026-10-29T07:00:00.000Z",
+     "amount_hint": "US$100M",
+     "snippet": "Solink raises US$100M in new funding to grow AI video intelligence platform Ottawa Business Journal",
+     "text_status": "thin",
+     "text": "To provide the best experience\nGoogle Chrome (107 or greater)\nMozilla Firefox (104 or greater)\nMicrosoft Edge (version 107 or greater)\nSafari (16.0 or greater)\nare the only supported browsers.\nUsing one of these browsers, please load:\nhttps://solinkcloud.com ."
+    },
+    {
+     "id": "fb072ca5a02f",
+     "group_key": "solink",
+     "title": "Solink Raises More Than $100 Million in New Funding to Bring its AI Vision Intelligence to Physical Business Operations Around the World",
+     "publisher": "AiThority",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdjIwUndxeW4xTnBfQ1dfR1ZlRjV3V016WGxxckY2TTZ3UXFwc0JBR2t0TExHMzN2Yy1vTVF6QklZOTNWSEltOFVDR0N2V1VIaTk3aFl4bTJBMFl5c1piLXVXUENzN0EydlF3TjJPemxXUWtHaVhLRmJTZ1p5enFHOEFWY2swXzRmdDhlV2QxV0MtbmJKU1UxRFBmNDhucjJtam1WajUzWGpnOExPVHM1aVU5UzlrNFNQckZkaXlSaHViZzViWmZyamFXTUFlS1Z4RVlEendpOXhkNDBvRE9QR2xsbW9CdWZwd3FhSTFNMnFQelI4cXdEZU9HRHQ4Y2hVUkhUeEFR?oc=5",
+     "published_at": "2026-10-30T07:00:00.000Z",
+     "amount_hint": "$100 Million",
+     "snippet": "Solink Raises More Than $100 Million in New Funding to Bring its AI Vision Intelligence to Physical Business Operations Around the World AiThority",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "biogeometry",
+   "company_guess": "BioGeometry",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "97ff6f2aaa51",
+     "group_key": "biogeometry",
+     "title": "BioGeometry raises $100M in Series A extension for its AI drug-design models",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXJkTnZscWRtbFE1S0V4Q0ZwcnpMX01UU1lUOU1pZU1Ld3pnNXJBSExzZXpHc0JMNW1Fc2pfd0UxSXFBcDRocHp2eno0eHRWT0pXNWpTTkVpQkYwaERxNkhVaHZuWHZDUnlJZ0pfQ3JDQUdGUEZyLU1CMTJacDNKaTBfamZvUEhTeEkxUW92ZkF0NWtjNXZsVE9wcXgtb0lGNHRvdDN2RHVOR0hZWVE?oc=5",
+     "published_at": "2026-10-29T17:41:00.000Z",
+     "amount_hint": "$100M",
+     "snippet": "BioGeometry raises $100M in Series A extension for its AI drug-design models Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "agrani in talks",
+   "company_guess": "Agrani Labs in talks",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "f91177af433e",
+     "group_key": "agrani in talks",
+     "title": "Agrani Labs in talks to raise $100 million from Groww founders’ Stargazer fund, Google, HCLTech, Peak...",
+     "publisher": "Moneycontrol.com",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcHV1aDF6SmRjRUcwckJ5RkhYVjhmWmZxRzlqWjQtb0dmWjRUeUx4dnVFdkJrVTJmN1NqNVlYcWpGb25kZFNZMDN2VURMek1ybC16dDZQaXdWa045UVJvMnJVbE5GbXl6U1R3YUhoLXk5clUwSldEQTMtREItTm5JdHZhYkpHT1NDLVByM0hmYTRHNnQwN0pxUF9qeG5fdUl1VGpYWXZSdGVBYVEzSGc5STFrUmVkVGh6dTFYX1VXVkFGejU0VmFFNy0zNWwyT094RENUQ29rRWhTcUxpUDFFNU5vaVFmMEJ0ZXNiMHo2QTVnVVlVVFVnSXR4cnh3UVdO0gGGAkFVX3lxTE1vR2FKZEV4bU9WN0luX3ppWWNTeGZfcFZyWDVTQzVSLVJxR1FYV2lvcmQ1bHBMM0NPRVNqZUlqNGFyZlNobDl5Ukh3OGR1TzNUVjVjWXE2T0hrUnJwczVrNlZMcmFCeDBJT2hud0JWaFVJeEVmejR0X0xlQmVjSVRRcE5LVmkyMGtXLVFBUnRtTEJDTGk2MVdJRVJGbkRFMkdEa1NTeTVxQ2NwNVY5aDhiQmFzNEFkZXNuN0d4LUc2MVlSRGVpbmdnY0tISzBiUzFRX1NweDNHbmRRREFUbE1SXzkxcXV0eV85VHU5UnNTU3Fib3FvUTkzdjBGNWJzWHVpNUhPNFE?oc=5",
+     "published_at": "2026-11-03T03:49:21.000Z",
+     "amount_hint": "$100 million",
+     "snippet": "Agrani Labs in talks to raise $100 million from Groww founders’ Stargazer fund, Google, HCLTech, Peak... Moneycontrol.com",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "spiko",
+   "company_guess": "Spiko",
+   "amount_hint_usd": 90000000,
+   "articles": [
+    {
+     "id": "fd2bce44e861",
+     "group_key": "spiko",
+     "title": "Spiko Raises $90M Series B Led by NEA to Make Yield Universal",
+     "publisher": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMTRMNkJYZ3o2Tl9IdzF6Z0gycF9MMkpFaW5Xc0l0TmVBVmdJN092dHFwNnExNXdkUGVkUnFHM0E1NTd0WXZSNHJVeldTb2lJT3R6X01NeElMVXlYWkwtdjJ4dDR6Y1lrcW5odlRmWWtTd3VKbHlIM21kbWRObHduY1ljOUQ5Uzh0UDhNMFlmV2tpZTk5dUFRdlNRbWwyUVFVakpDNDFLcWVWZUtOYndyMVdjbm1NaHNWTndIOA?oc=5",
+     "published_at": "2026-10-06T07:00:00.000Z",
+     "amount_hint": "$90M",
+     "snippet": "Spiko Raises $90M Series B Led by NEA to Make Yield Universal Business Wire",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "c011c51fcb06",
+     "group_key": "spiko",
+     "title": "Paris- and London-based Spiko raises nearly €80 million to help businesses and individuals put idle cash to work - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRndDemozYzRvZ05KMjFGcDc4VHlyaDRNTGEzMGtSajlvSHdMQzdnYTJHV016QkFUYTlsU1ZyaUljVWhFX21sTW1zMThJQUx1aTNZV0g0MWh6QVRodHQ5bjRuNzFyclB0OHQ5b3p2QTJzcW5OdXo5THVpY1didFRWVTE5a3FqYmNFRU5Wd3dod0VvV0RxOF9RUVE1X2VVRy16OU1OZm1FRjBTZjhMVVZVcnNwVXFYTzZJVnJPbjVlcTlxRWNDcDA1dDNCWS1JMUl0SVV1Yk1YLWhLR2ZaSTBGTDFR?oc=5",
+     "published_at": "2026-10-06T07:00:00.000Z",
+     "amount_hint": "€80 million",
+     "snippet": "Paris- and London-based Spiko raises nearly €80 million to help businesses and individuals put idle cash to work EU-Startups",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "maker",
+   "company_guess": "Maker",
+   "amount_hint_usd": 90000000,
+   "articles": [
+    {
+     "id": "cd42fa910079",
+     "group_key": "maker",
+     "title": "Maker of Open-Source AI Assistant Hermes Secures $90 Million",
+     "publisher": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHZsZXZCVlE0NzNuRkdubF9nSnF4dDFxRjNJbTRURXhVWTZkbzlVbmxKc1AtM3RpLXI0TnozYUFSUDBELVdjU3pXaFR2dGVObFlnQlRoaS1ENWxNLThCM2tSbGJuYXhBZ1dCU0cxRmhJVjl0MzhwaDNnZC1lQzNDaWdabTMyUjMyZG9tRDJ2RTFDbzRkUW5kUnk1Wmk0bTZPMklaRGhjeEYydWFO?oc=5",
+     "published_at": "2026-10-07T07:00:00.000Z",
+     "amount_hint": "$90 Million",
+     "snippet": "Maker of Open-Source AI Assistant Hermes Secures $90 Million WSJ",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "dream",
+   "company_guess": "Dream Labs",
+   "amount_hint_usd": 90000000,
+   "articles": [
+    {
+     "id": "1b2790343207",
+     "group_key": "dream",
+     "title": "Dream Labs Raises $90M Seed to Build the Brain for Everyday Robots",
+     "publisher": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYkl2M2tUZmYwZ2YtTmY3aDV2QVhZaWdCSTRNTVBvdjlsWmZfMWpSMFZpUW04QXRlejM0SXJvTU9UVUhUeUh0RXUtZHUxQXgwVHRYdUtaMnBmR09mRmhUYWgzYTJfQzNjZEd4UlRXR2d5MUd3Y0dXUFFISkJSN3NzaTR6N2VCeWhwYmQxN3NLRks1N196?oc=5",
+     "published_at": "2026-10-19T07:00:00.000Z",
+     "amount_hint": "$90M",
+     "snippet": "Dream Labs Raises $90M Seed to Build the Brain for Everyday Robots Yahoo Finance",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "fa5a2a91176e",
+     "group_key": "dream",
+     "title": "Dream Labs Raises $90M Seed for Any-Robot AI Model [2026]",
+     "publisher": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9abmNzVlM2a252RWR1WTVTM2RJdmgwemVHZ0pDZGI2VkpYdzAxLUdrX2hUbnlodkcyNWJ6ZF9Ib0M2Vzc4cHVhSjBSNVdXc3Y4eWsxRGxZQ0JWaHZnVENUMGlMbnliN2I2SW5vNlhsUXBLRFFiNklnRw?oc=5",
+     "published_at": "2026-10-19T07:00:00.000Z",
+     "amount_hint": "$90M",
+     "snippet": "Dream Labs Raises $90M Seed for Any-Robot AI Model [2026] shattered.io",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "e0f1e6974556",
+     "group_key": "dream",
+     "title": "Dream Labs Raises $90M Seed to Bring Robot AI Across Different Machines",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcDFHUDVuZVo2SGJoemE0dW9DMElPTWxJMzBIWWpzM3VnbDlKdEdhbl91NHJvQlJ1djhfQm1yRkhpUjFocEpkeE9SelllY3A1eTJ4YmxlaHYzWERSczFQR2M5SUtRNlU4Q1dXeGN4Qy1kcDVibHBzQkJYTnFnTHd6bTk5b1NkeXNrMkJXRTV4dHFwanlKSHU4?oc=5",
+     "published_at": "2026-10-19T07:00:00.000Z",
+     "amount_hint": "$90M",
+     "snippet": "Dream Labs Raises $90M Seed to Bring Robot AI Across Different Machines Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "3f3f8574dfc6",
+     "group_key": "dream",
+     "title": "Dream Labs Raises $90 Million in Seed Funding to Develop AI Platform for Robotics",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcnFORlllUzZhSFlWU3VTMTZ1VjF0djNnVE1GNFAyUmZKdFRmREF4WWdvNGlEanZ4V3dod0FzaGQyM1Y0allYOVRkYjJCMDVJV085SlhLb3k1ZFlRSUxTUU9qc3pSU1Vpa0x5RlJXM3dUaEhzNERoYlltb3hwMURvNW5DUWpYcDVfNWxIT2Ytb2FwbERDS0doZEdRc2dnd0I1TW9ub0lYQlVLdWt2VVd6V3JkSWFKMFRVQVNz?oc=5",
+     "published_at": "2026-10-19T07:00:00.000Z",
+     "amount_hint": "$90 Million",
+     "snippet": "Dream Labs Raises $90 Million in Seed Funding to Develop AI Platform for Robotics citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "bd5b01c2c5f9",
+     "group_key": "dream",
+     "title": "Dream Labs Raises $90M to Build AI for Everyday Robots",
+     "publisher": "Ventureburn",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kaXdQVG1MamFpbzJSaDBmSGNfZHdneC1wWER0WFJSak5IbXJYcjB5ZmJQWmxGQjAyY0hOUVBSUksybS1VcDlvM3FEeXdtN0JjNXNFcE1udFowRVBNbGtjZWVCQzdpTDljWEFHbWdUSHhfZEXSAXNBVV95cUxNZGl3UFRtTGphaW8yUmgwZkhjX2R3Z3gtcFhEdFhSUmpOSG1yWHIweWZiUFpsRkIwMmNITlFQUlJLMm0tVXA5bzNxRHl3bTdCYzVzRXBNbnRaMEVQTWxrY2VlQkM3aUw5Y1hBR21nVEh4X2RF?oc=5",
+     "published_at": "2026-10-20T07:00:00.000Z",
+     "amount_hint": "$90M",
+     "snippet": "Dream Labs Raises $90M to Build AI for Everyday Robots Ventureburn",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "93a35e9f0c97",
+     "group_key": "dream",
+     "title": "Dream Labs raises $90 million seed funding to ‘build the brain for everyday robots’",
+     "publisher": "Robotics & Automation News",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSG5valJ6WWhkS3djb2FhMVhYV05uY25PNUhTQmFsUkdUY2dyRWZhRWtKUnVSSG5nTnI0Q3Q2SktuNEpqWEcybzN1azEzZEFoaHRSU3FDaktiRzNPUlIxR1pEWUgxU2l4VEFaUVlGTjE4a3VqeTJfd0dMSGx3OHpaYWEzNDVzZVhibFBWNjF2eUdBNEh2dWs3SVUwRmJLdU1QQkRPSnh3bmNVRnhnNW1PN2Z4TkNtcG5LdXlueThxanh6dUZMVFlSVzNvNFZmMUZuQ1Nn?oc=5",
+     "published_at": "2026-10-26T07:00:00.000Z",
+     "amount_hint": "$90 million",
+     "snippet": "Dream Labs raises $90 million seed funding to ‘build the brain for everyday robots’ Robotics & Automation News",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "suki",
+   "company_guess": "Suki",
+   "amount_hint_usd": 90000000,
+   "articles": [
+    {
+     "id": "bc9f56e760d3",
+     "group_key": "suki",
+     "title": "Suki raises $90 million in Series E funding to expand healthcare AI",
+     "publisher": "The American Bazaar",
+     "url": "https://app.suki.ai/login",
+     "published_at": "2026-10-16T07:00:00.000Z",
+     "amount_hint": "$90 million",
+     "snippet": "Suki raises $90 million in Series E funding to expand healthcare AI The American Bazaar",
+     "text_status": "thin",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

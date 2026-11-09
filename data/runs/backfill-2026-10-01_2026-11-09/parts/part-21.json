@@ -1,0 +1,244 @@
+{
+ "run_date": "backfill-2026-10-01_2026-11-09",
+ "part": 21,
+ "groups": [
+  {
+   "group_key": "7a0c5799898d",
+   "company_guess": "AI",
+   "amount_hint_usd": 15000000,
+   "articles": [
+    {
+     "id": "7a0c5799898d",
+     "group_key": "7a0c5799898d",
+     "title": "AI is giving cybercrime a makeover, and this startup just raised $15 million to fight back",
+     "publisher": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQejYtdVAwa1V0Vy0tb2ZHTGg4eUNpbVdvVjN1cjhEeFcwNjZ6NnJwSnhHRWN5OW9xNWJncTM4UzVxemZrUmJWU19VenA1dHUyYUJEa3I2VnRWTGhnUFI1cEV0b3VYVC1yTlU0MUdqQTZzU2c3SlExMmhRbUE4aDE0cXRUcW9rcUhqTGY2VUdMUWtWRHc0Z3hpbEREU3VMQ2ZLYllSZGZYNU9XdGtYMjRiTg?oc=5",
+     "published_at": "2026-10-26T07:00:00.000Z",
+     "amount_hint": "$15 million",
+     "snippet": "AI is giving cybercrime a makeover, and this startup just raised $15 million to fight back Fortune",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "cent",
+   "company_guess": "Cent",
+   "amount_hint_usd": 15000000,
+   "articles": [
+    {
+     "id": "26e198d7c30d",
+     "group_key": "cent",
+     "title": "Cent Raises $15 Million in Series A Funding, Acquires AI Startup Medsee",
+     "publisher": "Indian Startup Times",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN09kOTU1SEtOVGxuMUdyTEJOZWlnNGFmR2RmTldEaHhHbldmajJKU3c3c3MyNGtGc0oxbmdXa3VaN1BjX0tSdzUzaWdYTDNuZDQ3SmdqeHR1eGFMMXFoMG5Gd09IWkNGN3BhNk9Cc2NVSS0wWXFFR1VrWnk2bWZZTGQ3LUVEWXp0Xzd2VFBILTVOdlNpZFo2SHpfRVJzX3pzRDZCRHI0aVR1NGZNVDdj?oc=5",
+     "published_at": "2026-10-27T07:00:00.000Z",
+     "amount_hint": "$15 Million",
+     "snippet": "Cent Raises $15 Million in Series A Funding, Acquires AI Startup Medsee Indian Startup Times",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "ceacb74d270c",
+     "group_key": "cent",
+     "title": "Cent Raises $15 Million to Expand AI-Powered Preventive Healthcare",
+     "publisher": "Analytics India Magazine",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdTI3UVpRcUowZW4yaVVON0RjUkROLVh5T3NOdDhka3BhOEpGQ2tXUnEyT2ZoMHNPT0N3dHdzOVlwRGtUTWlVTk96RXJGOVJfNjNfUlRxWW83cEZCa3ZveUdXUWxBbk1yb25JRnVsNnU3NGdXXzh3VDBKbzRsbmdUN29PTExDZlhsWkE4RmhtR1EyTHZTS2VCTGFiZEFqV2JkLWQ4dTZR?oc=5",
+     "published_at": "2026-10-27T07:00:00.000Z",
+     "amount_hint": "$15 Million",
+     "snippet": "Cent Raises $15 Million to Expand AI-Powered Preventive Healthcare Analytics India Magazine",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "de5a7ae07cbd",
+     "group_key": "cent",
+     "title": "Practo co-founder Shashank ND’s startup Cent raises $15 Mn led by Blume, acquires Medsee",
+     "publisher": "Entrackr",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3RvaW9hTU9MS0ZnY0REQ25MMVFDRU14WjZzNGpGdlBvLWFJTURhMXctczBoMEp0b01VYVIxM2JLcWM4RlJaNEJZZXp6Y3F2aWxfVFVrNkFSbzREOGNCS2NocUJfbHk4MXBLcHdTV2l4b0d1QnJUQkNJTWVzTEhnS2pHZWM5Z0w4dEgyY2JFUERxbHNYTlJrTmo0b2I0aXVsMnpCM2NiS21CUFdneWxTZ3c4NmNiaVAwQm9MeNIBvAFBVV95cUxPV3RvaW9hTU9MS0ZnY0REQ25MMVFDRU14WjZzNGpGdlBvLWFJTURhMXctczBoMEp0b01VYVIxM2JLcWM4RlJaNEJZZXp6Y3F2aWxfVFVrNkFSbzREOGNCS2NocUJfbHk4MXBLcHdTV2l4b0d1QnJUQkNJTWVzTEhnS2pHZWM5Z0w4dEgyY2JFUERxbHNYTlJrTmo0b2I0aXVsMnpCM2NiS21CUFdneWxTZ3c4NmNiaVAwQm9MeA?oc=5",
+     "published_at": "2026-10-27T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Practo co-founder Shashank ND’s startup Cent raises $15 Mn led by Blume, acquires Medsee Entrackr",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "unit 8200 and microsoft",
+   "company_guess": "Unit 8200 and Microsoft",
+   "amount_hint_usd": 15000000,
+   "articles": [
+    {
+     "id": "79b850533cc6",
+     "group_key": "unit 8200 and microsoft",
+     "title": "Unit 8200 and Microsoft veterans raise $15 million Seed for cybersecurity startup Brava",
+     "publisher": "CTech",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzbkJVTmd5bS1DVWNuT2FuZi05cDBTdWN0OWxUcFNQRVNKX2FyYnctZjZTeVc5cGI2emdrVzM3N3NDVXgxc1pwamdJSVEzR0F6LXlUQjEwSW42Tzl6RERTOVZvREF6TnB5?oc=5",
+     "published_at": "2026-11-04T14:00:00.000Z",
+     "amount_hint": "$15 million",
+     "snippet": "Unit 8200 and Microsoft veterans raise $15 million Seed for cybersecurity startup Brava CTech",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "nearhuman",
+   "company_guess": "Nearhuman",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "7a254b70b6db",
+     "group_key": "nearhuman",
+     "title": "Nearhuman raises £350,000 pre-seed to bring physical AI to e-scooters",
+     "publisher": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDZuWTVpRnU5SVdyMG0wRDdGZnNCNUNxazJDVXBKRThPT25paUZlY3daQ1ByY0lSay00V1JpZ3FWXzVWRktGRGxEbmpIMlVqX0RZVk1XYW9vaXN3R2M2ZTRxWm54aW9icXdrTUhyN1lVc1dRTk5ZNnBCQWtWVFZLMHh5S1FFdlU0QW8zVGNIZUNfdndZM2Zv?oc=5",
+     "published_at": "2026-10-06T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Nearhuman raises £350,000 pre-seed to bring physical AI to e-scooters Yahoo Finance",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "visorway",
+   "company_guess": "Visorway",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "b98c0b938fe1",
+     "group_key": "visorway",
+     "title": "AI startup Visorway raises pre-seed funding",
+     "publisher": "Startupticker.ch",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQWsxOXh6VElQMWxXazZJWWRuWHhNYWZ4MURyT1FyMThhN2VzUmdQbUU4LTNZTjJ6ZDBuZ21GcEZrYklsUUt1UGsycFFKazEybUo0TWxBMlFLUWhFMkpMa2FvT1NoeW52c3U0VXh3MnlvS2l4bl9DZ3RxbFRLX0c5NVYyT0lEd1U?oc=5",
+     "published_at": "2026-10-08T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "AI startup Visorway raises pre-seed funding Startupticker.ch",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "rising tide",
+   "company_guess": "Rising Tide",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "5913b6dc3cb6",
+     "group_key": "rising tide",
+     "title": "Rising Tide Raises Seed Round Led By Left Lane Capital For AI-Powered Property Management Network",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWDlqRHZ3RlNSOFpIaTJ6R3lNUmtNa0ZDVHNyWWhqOEFWMjR6Y0dfbmxoN2pWRjdpMUdYUTZzYTNfWk5JTzNlLVJTQjVSN01TWTlUWC1hSnJLS1RJeGE2MExKd0xOZWhRd1hRR1g3d1VWbkNoU2t6RWs2OWtLTGFobzN3a2RpZTktc29URFR6bGlvYTRnd3FaQnJTdEs3eWVMOE0yLV96TTZTLTcyM2JEZVZxUGNpeHRh0gG-AUFVX3lxTE1hQWdMWDQ1T1NFQTBDcW9qZUJxTVdJanhHQmQ1X3IwSDk3NVlqTDB0aENOemZRQV9hV1NDb1lqU0ItQjF5ZDNFQ2ttYVFwRFNETXZ2M3BDUVZDd3NDdzZpTjlDX3l2VWM5THBqaV9udVBwb2VlM2ctN1dTYUpKYVBySVhGQ0Q4UHBGTC1abVMtODZxTVV0bzdCM1ZDem5NaUZxQURhbVpjd09sZW9kRnFMVVcwRzBrdHc0T21QZmc?oc=5",
+     "published_at": "2026-10-02T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Rising Tide Raises Seed Round Led By Left Lane Capital For AI-Powered Property Management Network Pulse 2.0",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "unveilr",
+   "company_guess": "Unveilr AI",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "bf12196513f6",
+     "group_key": "unveilr",
+     "title": "Unveilr AI raises pre-seed round from AJVC at Rs 16.7 Cr valuation",
+     "publisher": "Entrackr",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcC04b0F2UGtoS3FqdTJKSFh3OW8wVW1qQ09GS0s2TURLS3ltLUEyMUtjSlVjUkhxOFNHb2dlTG5ka3pybXFLLWJFVkVYdURkSG5iU2gtREZnSS1yOXJSTWRUM0VJa2ppOE5XT0E3NFdMVTlRM3lPU3p2ODg5bHcxckRLT2hiSHZFNWk0dHB3VWtIY1ZTb0pVbTlZbXd5ZHBQcGF0MzliQdIBpwFBVV95cUxNcC04b0F2UGtoS3FqdTJKSFh3OW8wVW1qQ09GS0s2TURLS3ltLUEyMUtjSlVjUkhxOFNHb2dlTG5ka3pybXFLLWJFVkVYdURkSG5iU2gtREZnSS1yOXJSTWRUM0VJa2ppOE5XT0E3NFdMVTlRM3lPU3p2ODg5bHcxckRLT2hiSHZFNWk0dHB3VWtIY1ZTb0pVbTlZbXd5ZHBQcGF0MzliQQ?oc=5",
+     "published_at": "2026-10-01T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Unveilr AI raises pre-seed round from AJVC at Rs 16.7 Cr valuation Entrackr",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "revrag",
+   "company_guess": "Revrag AI",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "df2a1b879ef9",
+     "group_key": "revrag",
+     "title": "Revrag AI Raises $2.5 Mn In Seed Funding Led By Accion Ventures",
+     "publisher": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRzR5N2hWOEg4VHlQbDRRanVndUFVR29jbm1aVUZWckwxam5SYkdTbkg1U3JLV1FFTTJnaTlybEtHUU9tVmQyZzBrczZJNUYyUnFMREFlaUo0bUtxQmJYYmk4dXpROGJyb3JCOHNtZ0xVVURmNUFyeGN6SXh0Sm9QUVM5XzVfYVdDb3ZldkFvbURCRDFVQWlpd3RydjVadGJab1h4UU9xb2diTERWQlBxZ0pEZ0FOX2p2V05Z?oc=5",
+     "published_at": "2026-10-14T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Revrag AI Raises $2.5 Mn In Seed Funding Led By Accion Ventures TradingView",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "35dd1c201a14",
+     "group_key": "revrag",
+     "title": "Enterprise AI startup RevRag AI raises $2.5 Mn in seed round",
+     "publisher": "Entrackr",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTm1ZUnUya2F6UVhlazBFeFVuaFhfWVpOakJwNXRZTVl5enVIcXpDRlI1ZXJzWmh1MUtDUTJSSE02bzA1U3pOMEFlb3gwWWc2MXhVVmxJdnZHNm56eU05NDJtM25ZV1VZZ19sU2FIVk1FS3oyZVQyZEJzRmNZTlZ3TmpodkxMdFhodEtFYlpWZEd4OVBObzZGZnFSUE1kZ9IBngFBVV95cUxPTm1ZUnUya2F6UVhlazBFeFVuaFhfWVpOakJwNXRZTVl5enVIcXpDRlI1ZXJzWmh1MUtDUTJSSE02bzA1U3pOMEFlb3gwWWc2MXhVVmxJdnZHNm56eU05NDJtM25ZV1VZZ19sU2FIVk1FS3oyZVQyZEJzRmNZTlZ3TmpodkxMdFhodEtFYlpWZEd4OVBObzZGZnFSUE1kZw?oc=5",
+     "published_at": "2026-10-14T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Enterprise AI startup RevRag AI raises $2.5 Mn in seed round Entrackr",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "f9dc79b2a863",
+     "group_key": "revrag",
+     "title": "RevRag AI raises $2.5 mn seed funding led by Accion Ventures, Cedar Hill Capital",
+     "publisher": "ET Entrepreneur",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYTlpWkhOX3FHcXl3c09fbmJxTEtvUlRLbk1ONE5rb05Ib3JtUkRPRjFTQkZodFl0dW93cHZhNW9vdzJSb0xDT2RLdUhBSHpISXZ6NEQ5LXZmczhKSC00TkxaanRtaDlEd2ZnczhYdHA0bWs5NWNHbWlhblJaUmhLdl9jNTd1TWN5UFNhQlU2d0JKTTNuZ1FJZTg5TlcwQ3lGNEp6ZXMyT2Z4Nks3dVoxQkU4VVRTY3piTDZwVm81U3pjeGVVYlhaMnlQUnBRaGRaSkh2OHVyYmRJVmZrSW1kOTNZdkg2Z9IB6wFBVV95cUxNbzltQUpzWHdvYnlBVWZwOEtuVHZ2bG0xRjFvOThyTGhET0d6M0pDelNEc0ctY3FMMVBrUndzWlFhUTRqdDNndzVZR1V2dnMxVFR6QTM1OVVRV0YzYUo4Y3p1ODlBaHhpbmNrbXJScThtLWt3YTM0R2xzYTY0NUNNeng5dnF5eVAzeUhJTkl0OTNrYjJTbmliTTUxY1NWVWM4VTVVaFFIdEhwd1BQWHk1cFZKSHlScElBRlZHeHNub2s1dXpZNWtpdTFYeUNYSkdZSUxOUEdwWXBSd1doVjNMcTlLd0ZQYno0RWs4?oc=5",
+     "published_at": "2026-10-15T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "RevRag AI raises $2.5 mn seed funding led by Accion Ventures, Cedar Hill Capital ET Entrepreneur",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "gudea",
+   "company_guess": "GUDEA",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "62fc91358d42",
+     "group_key": "gudea",
+     "title": "GUDEA raises $7 mn in seed funding for AI narrative intelligence",
+     "publisher": "Beinsure",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1NjRycm5PaTlBVE5uMWtvaW9aV3VxM1R1U1Jwb3hZejA2RkJKWDIwOTNOcVlqSF9tZVNhZ01oazNLa0E1SUVJbERsTnduYk5iVjR0ay1ocWR2ZmlJVmpOekw1Q1Y3RW8?oc=5",
+     "published_at": "2026-10-12T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "GUDEA raises $7 mn in seed funding for AI narrative intelligence Beinsure",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "clueso",
+   "company_guess": "Clueso",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "250f0578c3ea",
+     "group_key": "clueso",
+     "title": "AI video platform Clueso raises $10 Mn in Series A round led by Dharana Capital",
+     "publisher": "Entrackr",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOGY0MGZfSzlEdFFKMG1JaTV5VWY1RE9wLUt1aG9GYlVGekpQZkZxNWkxWDZnLWdlZDVTMUlhRGlTYWF5STg3WmtqYV9LaWN4akZNOEljNjI0bnVydFg1SG56bG4yaUk2ZmZBbmJrd1BsZ2VUNWpFNnRnQkdjc2ZwUkYtdUFkSVVtYVMyT2xsZURqelZhU2lZYUMxdjd5RmhnQzd2eUlVOU1yQ1VpU3JaMzVNSdIBswFBVV95cUxNOGY0MGZfSzlEdFFKMG1JaTV5VWY1RE9wLUt1aG9GYlVGekpQZkZxNWkxWDZnLWdlZDVTMUlhRGlTYWF5STg3WmtqYV9LaWN4akZNOEljNjI0bnVydFg1SG56bG4yaUk2ZmZBbmJrd1BsZ2VUNWpFNnRnQkdjc2ZwUkYtdUFkSVVtYVMyT2xsZURqelZhU2lZYUMxdjd5RmhnQzd2eUlVOU1yQ1VpU3JaMzVNSQ?oc=5",
+     "published_at": "2026-10-13T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "AI video platform Clueso raises $10 Mn in Series A round led by Dharana Capital Entrackr",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

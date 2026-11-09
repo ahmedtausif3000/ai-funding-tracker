@@ -1,0 +1,256 @@
+{
+ "run_date": "backfill-2026-10-01_2026-11-09",
+ "part": 9,
+ "groups": [
+  {
+   "group_key": "volantis",
+   "company_guess": "Volantis",
+   "amount_hint_usd": 88000000,
+   "articles": [
+    {
+     "id": "d78d2d4c0237",
+     "group_key": "volantis",
+     "title": "Volantis raises $88 million for tech to connect AI, memory chips",
+     "publisher": "Reuters",
+     "url": "https://volantis.co/",
+     "published_at": "2026-10-01T07:00:00.000Z",
+     "amount_hint": "$88 million",
+     "snippet": "Volantis raises $88 million for tech to connect AI, memory chips Reuters",
+     "text_status": "thin",
+     "text": "THE SABA DRESS SERIES\nThe most iconic piece from Volantis.\nTHE SABA DRESS SERIES\nThe most iconic piece from Volantis."
+    }
+   ]
+  },
+  {
+   "group_key": "powerlattice",
+   "company_guess": "Powerlattice",
+   "amount_hint_usd": 86000000,
+   "articles": [
+    {
+     "id": "d76d19d3b8a3",
+     "group_key": "powerlattice",
+     "title": "Filing: Chip startup Powerlattice raises $86M to ease AI’s power crunch",
+     "publisher": "GeekWire",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUms0Y1lxS0ZiRzlNeG84V0N1MFhYNVRmTkcwaTJqaHowM0UtaVU3UUdYREY5Y184RzNTbDBzd2g4ZS02YlZkRVl0ZXdfeFZyRVh5bU1mTkdnQUM3QU5rb3FidW5xUVl5QUZQYkw3WGlVdGtjNWRJVDdyMklqS281QXFCUW9JOGlRVEVrMkdIYTF2WnEzM2ZXeDBvclFzM2pR?oc=5",
+     "published_at": "2026-10-30T07:00:00.000Z",
+     "amount_hint": "$86M",
+     "snippet": "Filing: Chip startup Powerlattice raises $86M to ease AI’s power crunch GeekWire",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "e05182a2dc2e",
+     "group_key": "powerlattice",
+     "title": "Powerlattice raises $86 million to tackle AI's power delivery bottleneck",
+     "publisher": "news.lavx.hu",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNck1UTENpR1Itb0JyblNNajZ2Y2N1MFpPTXhWdUlrdnpJVUZ1ZXg1SU9LN1hHQmYzOXYxUWJCNlNOWGZUQmFHT3lrYTJpX1d5UUpCY0FsbERvZkpKemFwMGxSTk5uNzhOWVFZdDFHTVhVOTdRTWRDOWgtZ1JkY1I4SFZaNnpPMU1pdVZHamNkaEtrUkRwaVpuUmthZEJ1Y1E0VUE?oc=5",
+     "published_at": "2026-10-31T00:06:35.000Z",
+     "amount_hint": "$86 million",
+     "snippet": "Powerlattice raises $86 million to tackle AI's power delivery bottleneck news.lavx.hu",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "axonica",
+   "company_guess": "Axonica",
+   "amount_hint_usd": 80000000,
+   "articles": [
+    {
+     "id": "9a6cb68f98d8",
+     "group_key": "axonica",
+     "title": "Ex-Qualcomm exec's AI chip startup Axonica raises $80M pre-seed",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnBLNUJpYTR5bXFHUURGTXNQSlRxUGhTQ3laRjZnbjNzeTZLN243emJWdlRRSGtnVUVuQzdKRlNhNTk4V1ZaZ3B1bmp4SzBqUS1pNFIzT0xkNlYtb3FGQkJRNXAxYTFwa05JZFg0Qm9zSlFZN1RINWZxbkVFNjBwa2tjTDJneVNyZEh5Nk5ZMUVaMi10d3dFX0tuc24?oc=5",
+     "published_at": "2026-10-15T14:35:43.000Z",
+     "amount_hint": "$80M",
+     "snippet": "Ex-Qualcomm exec's AI chip startup Axonica raises $80M pre-seed Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "indias eloelo",
+   "company_guess": "India’s EloElo",
+   "amount_hint_usd": 80000000,
+   "articles": [
+    {
+     "id": "cfa5412ca4ae",
+     "group_key": "indias eloelo",
+     "title": "India’s EloElo raises $80 million from NBCUniversal amid mobile microdrama boom",
+     "publisher": "NEWS.am TECH",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmQnV5Y3VTZG5naWFyWTJTN1JmMVE3eVI0bVI1QUJaWE1pQ0p2NXduYmc1QmtMOGpyeEJIVU9iSllFbTFKU0Zkcg?oc=5",
+     "published_at": "2026-11-05T08:30:00.000Z",
+     "amount_hint": "$80 million",
+     "snippet": "India’s EloElo raises $80 million from NBCUniversal amid mobile microdrama boom NEWS.am TECH",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "multiply",
+   "company_guess": "Multiply Labs",
+   "amount_hint_usd": 75000000,
+   "articles": [
+    {
+     "id": "8e27005149a3",
+     "group_key": "multiply",
+     "title": "Multiply Labs Raises $75 Million Series B to Close the Gap Between Drug Discovery and Drug Manufacturing",
+     "publisher": "Business Wire",
+     "url": "https://multiply.info/",
+     "published_at": "2026-10-06T07:00:00.000Z",
+     "amount_hint": "$75 Million",
+     "snippet": "Multiply Labs Raises $75 Million Series B to Close the Gap Between Drug Discovery and Drug Manufacturing Business Wire",
+     "text_status": "ok",
+     "text": "Multiply\nWelcome to Multiply\nOur Multiply Calculator below performs multiple tasks. It can multiply your numbers together, find the factors\nfor each of your numbers, and give you the greatest common factor of your two numbers.\nx\nWe can do a lot more! Check out our Directory for calculators and tools. Below are\nsome examples of questions and problems about multiplying that we have explained and solved.\nMultiplication Puzzles\n1 to 12 Times Table Worksheet #3336\nWhat is 25 times pi?\nWhat three numbers multiply to get 72?\nWhat is 20 times 5 percent?\nIs 3 a multiple of 24?\nHow to multiply 3 by itself 5 times\nWhat is negative 2 times negative 2?\nWhat is the Product of 5 and 7?\nOnline GED testing math prep\nWhat is 2/3 times 5?\n5 times what equals 30?\nWhat two numbers multiply to 60 and add to 19?\nWhat are the common multiples of 4 and 7?\nWhat two numbers have a GCF of 12?\nHow many 3-digit numbers are multiples of 5?\nFactors of 36 in Pairs\nLeast Common Multiple (LCM) of 2 and 16\nHow to calculate 75 multiplied by 3\nMultiplicative Inverse of 20\nWhat number multiplied by itself equals 196?\n48 as a Product of Prime Factors\nHow many times does 6 go into 48?\nWhat is the product of the GCF and LCM of 12 and 18?\n3 Times Table\nWhat two numbers multiply to 3 and divide to 7?\nWhat times 6 equals 48?\nWhat is 5 times 6/7?\nLeast Common Multiple (LCM) of 3, 7, and 12\n600 is 10 times as much as what?\nCopyright |\nPrivacy Policy |\nDisclaimer |\nContact"
+    }
+   ]
+  },
+  {
+   "group_key": "this robotics",
+   "company_guess": "This robotics",
+   "amount_hint_usd": 75000000,
+   "articles": [
+    {
+     "id": "9c1bbd4ac2ce",
+     "group_key": "this robotics",
+     "title": "This robotics startup raised $75 million to automate drug manufacturing. See the pitch deck.",
+     "publisher": "Business Insider",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMFlpUTlaU0ljYnlqel84dHRjcC01UXlHN0huRGxRa19MSjYyOUJwX2dPZEhCZG9vclVZWHdKc0tTN2NUTDVOM1hkVU1wMC1NZDdhMDVyNUhnZDlnUlFKWmFxU1RZYVRwWmpYTEtMTW5hckctcFJ4TDBtZ2NJX2pCc3FOVVB5ZllLcWJnNGd2bzdHS3N0VDNzRDZGRWFFeDJxRlE?oc=5",
+     "published_at": "2026-10-06T07:00:00.000Z",
+     "amount_hint": "$75 million",
+     "snippet": "This robotics startup raised $75 million to automate drug manufacturing. See the pitch deck. Business Insider",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "nevis",
+   "company_guess": "Nevis",
+   "amount_hint_usd": 70000000,
+   "articles": [
+    {
+     "id": "c5790b72bf57",
+     "group_key": "nevis",
+     "title": "Nevis Raises $70 Million Series B to Grow its AI Operating System for Wealth Management",
+     "publisher": "Business Wire",
+     "url": "https://www.neviswealth.com/",
+     "published_at": "2026-10-26T07:00:00.000Z",
+     "amount_hint": "$70 Million",
+     "snippet": "Nevis Raises $70 Million Series B to Grow its AI Operating System for Wealth Management Business Wire",
+     "text_status": "ok",
+     "text": "Built for leading wealth managers\nNevis is the AI operating system for wealth Request demo\nTrusted by\nOne platform, not point solutions\nAgents, data and workflows work together. Spend less time on admin, more time with clients.\nAgents\nHelp advisors plan, execute, and complete work across their workflow end-⁠to-⁠end, starting with meeting prep and going far beyond it.\nBuild prep materials for my upcoming annual review meeting with the Smith household Build prep materials for my upcoming annual review meeting with the Smith household\nDesktop\nOne connected AI layer that brings every tool advisors use into a single place, so they stop switching tabs and start getting work done.\nHome\nClients\nTasks\nNotes\nEmails\nMeetings\nAnalytics\nDocuments\nData\nEvery system, one connection. Native connectors into your CRM, custodians, and performance reporting systems mean your data finally works together.\nWorkflows\nAutomate your firm’s middle and back office. Client onboarding, account opening, money movement, and maintenance, handled end-⁠to-⁠end without manual work.\nDocument signed\nCreate task\nTrusted by the most ambitious wealth firms\nNevis powers the fastest growing wealth management firms. Hear what our customers say.\nNevis is transforming our entire technology stack, unifying our systems into a single AI-⁠powered platform. It’s fundamentally changing how our advisors work, making our firm dramatically more efficient and freeing our teams to focus on what matters most: our clients. Adam Birenbaum, Chief Executive Officer, Focus\nNevis has set a new standard for what a technology partner can be. They move with incredible speed, deliver measurable value, and genuinely care about our success. In a short time they’ve become one of the most important partners in our business. Dean Horwitz, Chief Operating Officer, IEQ Capital\nNevis has completely transformed our technology stack, updating it for the future with critical AI-⁠enabled features that are having a meaningful impact on how we do our jobs every day and serve our clients. Jim Rivers, President of United Capital Customer stories\nDelivering value, not promises\nFirms don’t choose Nevis for the pitch. They choose it for the results.\n$700B+\nAUM across Nevis customers\n90%\nWeekly active usage\n8+\nHours saved per advisor per week\n1,000+\nBack office workflows automated per month\nYour data, secured\nYour client data is protected by Nevis with world-⁠class security, robust controls, and enterprise-⁠grade data privacy.\nAudited & tested\nNevis is SOC 2 Type II compliant — independently audited to verify our security and data-⁠protection controls operate effectively over time.\nEnterprise-grade AI\nNevis has enterprise-⁠level agreements with leading AI providers including OpenAI and Anthropic, ensuring enhanced data privacy, compliance and security measures.\nProtected by design\nNevis never uses your private data to train or update AI models, guaranteeing complete confidentiality and full control over your client information. More about security\nLatest from Nevis\nArticles, updates and announcements from the Nevis team\nNevis Raises $70M Series B Led by EQT Ventures\nOct 2026 · Corporate\nFocus: Bringing AI to thousands of advisors at a $500B financial services firm\nOct 2026 · Customer story\nWedmont Capital: Accelerating growth and advisor productivity with Nevis\nOct 2026 · Customer story\nDeployment Strategy at Nevis: The proven playbook for successful AI roll-⁠outs in the enterprise\nSep 2026 · Product\nICONIQ Uncommon Path: "
+    },
+    {
+     "id": "06d57cf230d8",
+     "group_key": "nevis",
+     "title": "Nevis Raises $70 Million Series B to Grow its AI Operating System for Wealth Management",
+     "publisher": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnVEeWxKdGhCVVdOVjdXS0R4aXp3RFF5QmRiT2lmVzdVd29aVXdEZFFoMWduSnJ5NHFoVXFaSDZwZGpkTUhCemx5V2Zpd3B3UzJ2N1M1ZVZwcmpDWVctZWxCQjVPNy1KR3A2NWZ4Q0g4amUzUGJHWTlnc3RNcXRQY1p2MHQ2T2hlZnhTSEhyLW5Ed0NGYnU1ZUN3?oc=5",
+     "published_at": "2026-10-26T07:00:00.000Z",
+     "amount_hint": "$70 Million",
+     "snippet": "Nevis Raises $70 Million Series B to Grow its AI Operating System for Wealth Management Yahoo Finance",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "c661fe6f9316",
+     "group_key": "nevis",
+     "title": "Nevis Raises $70M Series B Led by EQT Ventures to Expand AI Platform for Wealth Management",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNmZQYTlQaHMwWFg5NTdtX2Z5dzAtYm96UHhNU0FnWW5jODV5dk9NanY2cXdIaGRVM21nNXllVUZ1SDRyRFV5bUpKQ2lBRnRPandZSnA1MVhIMm96bFA3elVfaDU3dk45MUhLX1lydGp6VzJ6LWkwNERtbl9DeUhvcERVZy1xWncwRFVUT1g0NVhvUkZHeGlTZjAtZUVHRURDNGFjVFQ4LUh0cXF2dl9nbXVpdE5fSlhzanZ2TE1BbVQzc3NldDR3?oc=5",
+     "published_at": "2026-10-26T07:00:00.000Z",
+     "amount_hint": "$70M",
+     "snippet": "Nevis Raises $70M Series B Led by EQT Ventures to Expand AI Platform for Wealth Management citybiz",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "truth",
+   "company_guess": "Truth",
+   "amount_hint_usd": 70000000,
+   "articles": [
+    {
+     "id": "c8cc8b9513c5",
+     "group_key": "truth",
+     "title": "Truth emerges from stealth with $70M seed to mathematically prove code is safe",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXY4V1FtRGhiY1E0TmFoUzR0XzdGckxjREpYYWtGd2tqTzF5dnhEeXZvcThEWmRQVWptRjRxdklCSHFHdF9hMFF4eE9zcldxM1NxajVwbmdtdWlQeWY1S0Z0dElXOFIwdGFCLTZqVkVWRDlRcmtFd09RM0k2NDNhMzlqTEt5eElLOGNZRTV0cWEwNlJyeGFrQVZ4ODFKVWpTTVh4aFB6ZUZNUWZIMXJiVw?oc=5",
+     "published_at": "2026-10-30T07:57:11.000Z",
+     "amount_hint": "$70M",
+     "snippet": "Truth emerges from stealth with $70M seed to mathematically prove code is safe Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "blacksmith",
+   "company_guess": "Blacksmith",
+   "amount_hint_usd": 66000000,
+   "articles": [
+    {
+     "id": "24d8ec5077b1",
+     "group_key": "blacksmith",
+     "title": "AI code testing startup Blacksmith raises $66 million at $1 billion valuation",
+     "publisher": "Indian Startup News",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUJEZDVwRXZyMjJyakZLWmlXUFVBUk9Cdk9GcTB4dElhdFEwOWZ4MTNhc09oMkFfbjJPcnZfX2ZTWU1LYzBiRTkxTW9pelFOVnZ5cUUyZ1RXRnd2dWJIbkJOemZfanBMcUp5ZVV4MDUySVVCZ0JyTkFQaEVqaUdqdk90OHVRMDZhMFgzYWUtaU0wN3RVOEoyQ1ZjTWc0bmwtWGVHV2lob0JkVWFoaWR6cDkxYXJJVmRwYlp5NTlSd9IBvwFBVV95cUxQLUJEZDVwRXZyMjJyakZLWmlXUFVBUk9Cdk9GcTB4dElhdFEwOWZ4MTNhc09oMkFfbjJPcnZfX2ZTWU1LYzBiRTkxTW9pelFOVnZ5cUUyZ1RXRnd2dWJIbkJOemZfanBMcUp5ZVV4MDUySVVCZ0JyTkFQaEVqaUdqdk90OHVRMDZhMFgzYWUtaU0wN3RVOEoyQ1ZjTWc0bmwtWGVHV2lob0JkVWFoaWR6cDkxYXJJVmRwYlp5NTlSdw?oc=5",
+     "published_at": "2026-10-24T07:00:00.000Z",
+     "amount_hint": "$66 million",
+     "snippet": "AI code testing startup Blacksmith raises $66 million at $1 billion valuation Indian Startup News",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "ddf2c1c9de59",
+     "group_key": "blacksmith",
+     "title": "Blacksmith Raises $66 Million at $1 Billion Valuation as AI Coding Drives Testing Demand",
+     "publisher": "Konsulteer",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdkNuNWUzQi1mVEZvSS13MGFUSnpFMzcydmdVOWM1MnNXa0JmTFlJM24ydFNxWlVVem5FVVBWQk1YRnd1SHFydDdWQXZXaE5RV3JZMnVIN2x4ZW43MXA3RklDT1NFY203X3k0YXVZcVM2OUNiSFpyalVfX29MeXE2aF9iRHM4QUV3LUxkNzMyazFaVmdQYm9BZnd3bHJ5Mzl2aEE3RUlGeUdiTlFVYTNtQWZ5aFY1NnducTN3ZVBR?oc=5",
+     "published_at": "2026-10-22T15:34:18.000Z",
+     "amount_hint": "$66 Million",
+     "snippet": "Blacksmith Raises $66 Million at $1 Billion Valuation as AI Coding Drives Testing Demand Konsulteer",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "secretive israeli",
+   "company_guess": "Secretive Israeli AI",
+   "amount_hint_usd": 64000000,
+   "articles": [
+    {
+     "id": "8f5d82b91992",
+     "group_key": "secretive israeli",
+     "title": "Secretive Israeli AI startup raises tens of millions backed by Bill Ackman and Eric Schmidt",
+     "publisher": "CTech",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42eWxsZFdpQVdHbzRHRTZKTy10d1dLRmp2c0hPVnQtSUJaYkdBbngyWmdGbFI5NmZMblRGd2s4a3JwNVVPWXJyNE5QRm1lYXB4RWVCYXU2aGRDYW1BalRvN0oybzgxSW9S?oc=5",
+     "published_at": "2026-10-22T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Secretive Israeli AI startup raises tens of millions backed by Bill Ackman and Eric Schmidt CTech",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "0cd3e867ddb0",
+     "group_key": "secretive israeli",
+     "title": "Israeli AI publishing co Spines raises $64m - Globes",
+     "publisher": "Globes - Israel Business News",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSW55MVFMTndCMkZIRGtmbHNMT091TFV4SnRsWllNN25UNTJHUUJmLXh3Z29wODUxVmtBRTlqRnNKVlY1YU84cE1uMHB6aFVNNWoyOVdnTnNmd1dxc0o5V1NsXzVfdEhqOTRlaXJxeTV3WE1MNUJxeUhlY1Vqa090ZFlJbGlZbE14dzVkZ2UzOFNRZw?oc=5",
+     "published_at": "2026-11-09T14:06:55.000Z",
+     "amount_hint": "$64m",
+     "snippet": "Israeli AI publishing co Spines raises $64m Globes - Israel Business News",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

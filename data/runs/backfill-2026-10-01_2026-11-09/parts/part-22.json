@@ -1,0 +1,220 @@
+{
+ "run_date": "backfill-2026-10-01_2026-11-09",
+ "part": 22,
+ "groups": [
+  {
+   "group_key": "new unicorn",
+   "company_guess": "New unicorn",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "54dc31def9d8",
+     "group_key": "new unicorn",
+     "title": "New unicorn alert! Skeleton Technologies lands multi-million funding to expand AI infrastructure in the US - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQThMTWRsM0o0RWVfYWpVYjFLbUZpQVp2RW5FN1Y2TXhxTWJKbHBwakM1SVdoWG1BeldLaXpkRTQ2TjAwT1NLZEVJNS15VUNXRjVFdmNIUmxBeXpPSEpJeTZvd3oteEVhbWNNc01Tc1ZmSG5MdnVudVlfVGF4cWhmWEVsV0lNa3NUUWYtd1VJNzZJQWdKNXFGTWNNaUI3RGRxVUJmblRFWDlWaUdwMGkzWFFWUWFXVXlIRF9nNmo3MkpOWkZoOEpfMnl2Sk9fOEliSlduS0R6QXdYTlFuSUlQYVVKME9WUQ?oc=5",
+     "published_at": "2026-10-14T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "New unicorn alert! Skeleton Technologies lands multi-million funding to expand AI infrastructure in the US EU-Startups",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "19 year old",
+   "company_guess": "19-year-old",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "f4d23e63f602",
+     "group_key": "19 year old",
+     "title": "19-year-old raises $10 mn for AI startup after 15 universities reject him",
+     "publisher": "The Indian Express",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdlBtOWdkMUFRb3BqUmxDS2J0bU5Id2x1d1E5WF9wbWI1X3lWVkFkcnVpUVJacEc4Z0RNT2N6dFZ3aEMtXzBydUNmcWxIQk0tNm1RQlp5ZW8teWVtYVQyQkJKalIyWDFMQ3pEcGlzdV85WHBrT0FSbl9RZDRwMXRuTVV2UFRYZk1XZWdZbVgzTkFGdklaMGJYUEZNT1lNZkFfNjVZbk1iRzd6MHhmYlJITElPZ3BTbk0xNURCVzFURWl4azFPTGROVUcwbTM1SGVJbGswN3k0bkhSQUstSG5UUHlnOWsxekc1b0tJR3ZR0gH0AUFVX3lxTFBXYi1rRDV6SXNKNWd1MUE3czBGQ0VqUVY2Q3BzT0FEanhFelppdW1UZkFRTzNFeVY1MmJ3NEdOdG5LQWkwX2paUF9jbGZsb1ZRVVQtRXVaTE53MjY1VkZ6XzJ2Ui1NUmNMQmhSUzhCQTRib1RYcldSb1laYkdnbWdvZHd5TjVOcFl5d25nUFJWdm1MUDFfRWRXMGtEZ0l4dU95VUc3TFBoekhmVkM1RXpDUXY2UlA2T1U1U3QtRW1UT2NOYnhGRHhEX3VOR3dxTkR3OHhqTXhkWEJnbFowaVdremxTa2NWNGJIWmJJVU8wOTlNT0g?oc=5",
+     "published_at": "2026-10-11T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "19-year-old raises $10 mn for AI startup after 15 universities reject him The Indian Express",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "shamrock",
+   "company_guess": "Shamrock AI",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "0977b9800f44",
+     "group_key": "shamrock",
+     "title": "Shamrock AI raises $5 mn seed funding led by Endiya Partners",
+     "publisher": "ET Entrepreneur",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmJLVEdKaWVTNU1OaE1HUXRLSzROUkpLdmYwSThCUHBTb09PaXhUTGlYbmpOUHY4V0RRZWN2S2d3cmd5Q0VkRXMzWDZ2WFcyNDhYYXlXNlJrR2NaRXpLNFVXX1BERzYxa2VnamVyVnFYVWZvZ0RVN1JjVnoxdXlxdDFBSXd1aGM5MHRrdTlKWlk1WWptdnJ3dTJwWHROb3hMbzBBMTVwOEx0UFNfeEcydTBPZloydzFMX3paYWZLdEtiQWVrWjJPdjQwUVXSAdIBQVVfeXFMUFEybGY4WG1ueVB5ZHhtRG41MzRPNTlRRFhieWhXcU9IVnc5MWgwLThlVF8wcHQ3ZUNpbjZjQ1MwdVlUWDFyaVdoRnBqYi00YlZ0OG1ZSldnV19zZldnUVZtMWV1eG9TOUtLc29LLTdsWmJ2SVpOX1p3c3RqVTBmd0RFTkJWQk93NzFYMnM5ZTk0ajVwSWQydm9vdF82WkFUX1VSVFM0aVh4dmh1ZTQySFdMWVlUblNUaU56NzJ6VXE5NGV1cUNFNGw3SzJRZkJVZVJR?oc=5",
+     "published_at": "2026-10-15T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Shamrock AI raises $5 mn seed funding led by Endiya Partners ET Entrepreneur",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "2a1a85883d99",
+     "group_key": "shamrock",
+     "title": "Enterprise AI startup Shamrock AI raises $5 Mn led by Endiya Partners",
+     "publisher": "Entrackr",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDEweHhxSTdxb19vcEdPWl94SkJJRW9SMFNseURPTkJFOFdRdjh5LWVLNjZpUVNTblhkOTA4QWdNUl9LTDJtMDdsU3RyRVZzeHJ4SUNBbVBOUGZpb1VmQzkwbDREVUVha1JRMWJoZnlYOXB0cnpOaWRVUlozeFBhdWs3WXVvbWVWQVc1aUJDWmtxblFOM2g4VDB4X3pQSEZ0U3F5X01nczhuOHfSAasBQVVfeXFMT0gxMHh4cUk3cW9fb3BHT1pfeEpCSUVvUjBTbHlET05CRThXUXY4eS1lSzY2aVFTU25YZDkwOEFnTVJfS0wybTA3bFN0ckVWc3hyeElDQW1QTlBmaW9VZkM5MGw0RFVFYWtSUTFiaGZ5WDlwdHJ6TmlkVVJaM3hQYXVrN1l1b21lVkFXNWlCQ1prcW5RTjNoOFQweF96UEhGdFNxeV9NZ3M4bjh3?oc=5",
+     "published_at": "2026-10-15T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Enterprise AI startup Shamrock AI raises $5 Mn led by Endiya Partners Entrackr",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "cosmochute",
+   "company_guess": "Cosmochute",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "bdee98e2951d",
+     "group_key": "cosmochute",
+     "title": "Space robotics startup Cosmochute raises $1.5 Mn in pre-seed round",
+     "publisher": "Entrackr",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2pjR3VLV2l1ajl2bXVJMGtLdExWTHNxNF83dllLRmpHU0Exd0w3TWlFYW5xX2pSRkRWZkJMaFZmQjNvLVZqckc4WTVoQWg5QXlKdVUya3VHZlpsb01jT0JYYUhaRFBlZS0wTDZ2NUltdTBSaDE0SVFWZXlGYTF4bUpLdTl0Qy1ROXFTc1J0MldycWlzYjNTZmtUNDBNdWhURmx1Qlp30gGmAUFVX3lxTE43amNHdUtXaXVqOXZtdUkwa0t0TFZMc3E0Xzd2WUtGakdTQTF3TDdNaUVhbnFfalJGRFZmQkxoVmZCM28tVmpyRzhZNWhBaDlBeUp1VTJrdUdmWmxvTWNPQlhhSFpEUGVlLTBMNnY1SW11MFJoMTRJUVZleUZhMXhtSkt1OXRDLVE5cVNzUnQyV3JxaXNiM1Nma1Q0ME11aFRGbHVCWnc?oc=5",
+     "published_at": "2026-10-15T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Space robotics startup Cosmochute raises $1.5 Mn in pre-seed round Entrackr",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "sunnies",
+   "company_guess": "Sunnies",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "ec1c476c329b",
+     "group_key": "sunnies",
+     "title": "Privaco maker Sunnies raises $315K seed to manage AI agents alongside humans",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGRKc1ZyYm5yMEJ3TmkwdzV4ZWdIUUdjWlNPdEVHUDJTSHVuNkRsS0FWc2JybXVtMkhGanhDRWE1aGRoU08wMlliREpxR1BFUnJhTmRTMTRBdmQ5a1NINFFkQkdGTC16WTNuZGUxdGpjdVQyN0NqT3RPckNoUzNVRVVQLUpvNlpfeGswVjgtSTEzTXBQM1hGYW9iSUI5Q3RxVEY0d3dYcnFfOGNDWnc?oc=5",
+     "published_at": "2026-10-21T14:11:22.000Z",
+     "amount_hint": null,
+     "snippet": "Privaco maker Sunnies raises $315K seed to manage AI agents alongside humans Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "corologic",
+   "company_guess": "Corologic",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "f5fe59b5a42b",
+     "group_key": "corologic",
+     "title": "Cardiovascular imaging AI startup Corologic raises seed round from Kakao Ventures, SNU Holdings",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc3hoVVlPc1d3dGpHWUNNTFdpRlk5ZERUaTB5R0hsM0M2ZHRCTFp2UnpuUlJlbm42QUs4cVhoT0lmVVJqclZQWTZMTEd4R29IVHp0eGtJM1diX0Z5ckpuTEMyb3hfNmxsVGtFRnNmTHR2dm5zdU1hRUdYSy1MeWw2X3F3Z1FrdVhTWUxiVy1FelZKNXM5R3lKSXBnWWt5N2p4U2lCSm1acWt5TWJhaFg5MThpZi1XQzdqYUtMR2NhbXUxRW5ZRjZV?oc=5",
+     "published_at": "2026-10-19T20:39:52.000Z",
+     "amount_hint": null,
+     "snippet": "Cardiovascular imaging AI startup Corologic raises seed round from Kakao Ventures, SNU Holdings Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "legaltech start up",
+   "company_guess": "Legaltech start-up",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "c68ded611a73",
+     "group_key": "legaltech start up",
+     "title": "Legaltech start-up raises pre-seed funding",
+     "publisher": "The Law Society of Ireland",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUJRS0FnLUFKUl9ONTNLTzRXWEhYV0VVQzZjN2g2WUtxMnRjb2xEWHRjWjgyOWFCQTdMNHM4N1lXZTZxMXctRElQTHZpRHZZdXFTZ2ptbi1aZDBwbWlrMEYtdVJKOHJTMEN2ejJESWpKSFVySFRUdjg2MlN6eS1iMGJMcWVNRHpYUmNwRzBxMkVveU9aREp5WVg0em45OEdfNkRV?oc=5",
+     "published_at": "2026-10-21T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Legaltech start-up raises pre-seed funding The Law Society of Ireland",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "karta",
+   "company_guess": "Karta AI",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "cacc60a4bc05",
+     "group_key": "karta",
+     "title": "Voice AI platform Karta AI raises $3 Mn in seed round led by PeerCapital and Cedar Hill",
+     "publisher": "Entrackr",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeUVhYVVSVEpnUFpUSlB4TXZ0OEpSVm85aUtLSVNVay1pTE9yRDVMVkZaN2FsWEpLZVR1SmozWUdRbTdmcktKTE5pNG9CN2FyX290X241cXkzTE9CS0I2ZHZKQ29UNGE2SWYwV041SG9OV21hM3d3bEtnQjRCbnpteWFQTkxIeWNscFFFcFA4dXJQQ1QzdkhxUUhlcjhvVXVQMmQtWG14XzJnOEZjNHBkbUVobG1QMVFpaDcwTDJ3a2o2NjTSAcMBQVVfeXFMT3lFYWFVUlRKZ1BaVEpQeE12dDhKUlZvOWlLS0lTVWstaUxPckQ1TFZGWjdhbFhKS2VUdUpqM1lHUW03ZnJLSkxOaTRvQjdhcl9vdF9uNXF5M0xPQktCNmR2SkNvVDRhNklmMFdONUhvTldtYTN3d2xLZ0I0Qm56bXlhUE5MSHljbHBRRXBQOHVyUENUM3ZIcVFIZXI4b1V1UDJkLVhteF8yZzhGYzRwZG1FaGxtUDFRaWg3MEwyd2tqNjY0?oc=5",
+     "published_at": "2026-10-22T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Voice AI platform Karta AI raises $3 Mn in seed round led by PeerCapital and Cedar Hill Entrackr",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "5443a2c090bd",
+     "group_key": "karta",
+     "title": "Karta AI raises $3 mn seed funding led by PeerCapital, Cedar Hill Capital",
+     "publisher": "ET Entrepreneur",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOVVGWUl1SFV2anVqWkVlMFlpTnRDSTVJa19MbmJ2Y2liVi0tOXBOa1A4YmhzaEtnak1nS0tVLTF1UWpfSHNrU1U4bzBSOUszcUpjWDlYbGVuRm1IQnc5YnFTdVkwOUY0MkltUHhxa0NnY0hveDltZTQwX0JEM05yNFNzeTRtN2F2QTZXdVo5SDA2Ry1wRlB0UjY0MkR3MVZWQUxVS0hxcXQwc0xVVGhOOFhBbW9xM0hxOUJsamljQWtrNmU5cnNyTDlib3c3eXdldVdPY1hGbmZvcGp60gHiAUFVX3lxTE9oejJvVUFtTFdCQVVLdl9UdE9rRmlxd2N6NHBZSWlpRW1kV1JucV9PUHpxRnhDV1dtLThmSGo4elJ3R0stOG53V2kwMklNRE9sWFFxWVlsMGNSc0tfQ3hoUW5rLUQ2aXZjdTJ0aHRiejRMU1gzU2tCMk50NEdFV09PYV9XLUlDc2VDamZta3FmWnlLT2xOYWpDT1U4TlJ6cE1uYWpYMGpXaEFzZFJ0QXpXV0ZSV1RfdXcxOWxOOVVuU2Q3dmVhT3UwQ2U0Q3E0eGlxLVRVZ1FoZFJTRElGS0xSblE?oc=5",
+     "published_at": "2026-10-22T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Karta AI raises $3 mn seed funding led by PeerCapital, Cedar Hill Capital ET Entrepreneur",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "propertyguru ex ceos",
+   "company_guess": "PropertyGuru ex-CEO’s AI",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "18d1a1fb4497",
+     "group_key": "propertyguru ex ceos",
+     "title": "PropertyGuru ex-CEO’s AI Health Startup Genie Health Raises Seed Funding",
+     "publisher": "https://www.tabla.com.sg/",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWt1NzhoWEpGN2I1dXZBQzY1c3dNQzQzRklqNXNUa2pJLXFjOUJOTnhabDFsMlpJUFZWanFyQW1VY1Zua0hOMU8xeXlMOFVsNlZ3UkhCU0w2N0tmM3NLeG9HSi1RelhFZFZMcEllaERzRXlGVC1QNDgtM1ozNWg0dllkbHZISU8yZWtJeDRWdTJMLVNITWlWblJRbDZyektWNGR0X0pqWmNueW9wNXZkdnZvWQ?oc=5",
+     "published_at": "2026-10-22T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "PropertyGuru ex-CEO’s AI Health Startup Genie Health Raises Seed Funding https://www.tabla.com.sg/",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "1 trillion",
+   "company_guess": "$1 Trillion AI",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "f7c99495ad40",
+     "group_key": "1 trillion",
+     "title": "The $1 Trillion AI Spending Boom Could Force the Fed to Raise Rates - and You and I May Pay the Price",
+     "publisher": "24/7 Wall St.",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb3JVblVkYXdTS3A3dDViLUhDTEc3S3hpeXcxdWw3cXBEZnRtOThJTEY4bVNDMmU0b0d5NllHTmFsaG1tQ1lCWE04VmM3dnA5S1lZSk40cXVXTnRZT05rQjMwbXBuTGRBT0ZkNHhXemlUSHZwRHZIR2xmbG8tdHVaNDBFNTB2c04wU3dGcF9fRnJUQ1g3aldMY1FEbFFJMTR0R1A1R3drOUdJUXQtM0txbzBzTzZ1WnptSllYU2c2VTh6MmtTSllkU0ZpZWRSVFhIWmxFQTIyakwzdw?oc=5",
+     "published_at": "2026-10-20T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "The $1 Trillion AI Spending Boom Could Force the Fed to Raise Rates - and You and I May Pay the Price 24/7 Wall St.",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

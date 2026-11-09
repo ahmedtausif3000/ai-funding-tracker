@@ -1,0 +1,364 @@
+{
+ "run_date": "backfill-2026-10-01_2026-11-09",
+ "part": 12,
+ "groups": [
+  {
+   "group_key": "warehouse workstation robot maker",
+   "company_guess": "Warehouse Workstation Robot Maker",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "7546464a5f51",
+     "group_key": "warehouse workstation robot maker",
+     "title": "Warehouse Workstation Robot Maker Ultra Raises $50M Series A",
+     "publisher": "Wowtale",
+     "url": "https://3dwarehouse.sketchup.com/",
+     "published_at": "2026-10-10T07:00:00.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Warehouse Workstation Robot Maker Ultra Raises $50M Series A Wowtale",
+     "text_status": "thin",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "air",
+   "company_guess": "AIR",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "3ed676feeeec",
+     "group_key": "air",
+     "title": "AI agent security startup AIR raises $50M seed, lands on Fortune Cyber 60",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOVBDUlpJWW1nQk5SLWFLMjI4NVdveEUwRlFQU3FRNmh3eS1OcHVCUVFRM19tU01MbVBHeTVoa09TSmFLYWFHbjVqaEItREk4a0czanZBdzBPUW94Y1BRbjdOX0xheG1QM1FwTURydXFITkJzYzlpcjlvYVU1WjBFNGpUMmlVcnI5cWItTnV5Snl1d3ZLbmp4bkE3dEFiM0w3dVNLUmJTYzE?oc=5",
+     "published_at": "2026-10-30T16:32:32.000Z",
+     "amount_hint": "$50M",
+     "snippet": "AI agent security startup AIR raises $50M seed, lands on Fortune Cyber 60 Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "different",
+   "company_guess": "Different",
+   "amount_hint_usd": 48000000,
+   "articles": [
+    {
+     "id": "14efb436c8e6",
+     "group_key": "different",
+     "title": "Different Emerges from Stealth with $48M for AI that Runs Demand Generation for Lean B2B Marketing Teams",
+     "publisher": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYzhlMEhYUDBrVkVKYTdqRElYWF9sdjZaNUJ5VTl2V25FRENlYTlxODFkNndqa2FoeVRfQ21MM2t2X0JFR1BjSjRNakEzUG84dFE3c1d3NlEyenlvNGMtVDJyVGsxbC1DSzg1MkdaNkxZNUQyU2RaaU9JeUFsWEtHcGtvOWZPQnFDdGNkN0Z5dGJsX0p5SGR2c2JoZzhwV3dzaUJqcGxvYlFIMDRHLUpnbS1ESUFyckdoc3prRF9xdElfRm5VSWw0NzNvTDZUeWIzSFU5ZmRCNnRzYXJRdEh4WmpKUHFFTGVpN2RTM01tSkw?oc=5",
+     "published_at": "2026-10-20T07:00:00.000Z",
+     "amount_hint": "$48M",
+     "snippet": "Different Emerges from Stealth with $48M for AI that Runs Demand Generation for Lean B2B Marketing Teams PR Newswire",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "hyphenate",
+   "company_guess": "Hyphenate",
+   "amount_hint_usd": 45000000,
+   "articles": [
+    {
+     "id": "b1159c9f2631",
+     "group_key": "hyphenate",
+     "title": "Hyphenate Raises $45 Million To Scale Its AI For Finance Platform",
+     "publisher": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRk04Vlhwd0s5X3VMckZ5TUlqQ3lnQUd1ZU5Odk9xS2ktYmlGOXBSMzlXa3dsXzZjMFBKVnRwaDZyRHo3c1h6dXdKQnVnVlQyUEotX096bnpwTTlSZkROQ2VHel9rNXoyZ0w0cXcwbC1ad0NsU0kyTkVJekg0WFVVZ2R3dU5sMHpBNzRocDhiRzRKUFhvR1BBRVFDRGc0YWxrWHNqeHBRNnI3c3djU1doWWlVMllBWlpBS1E?oc=5",
+     "published_at": "2026-10-27T07:00:00.000Z",
+     "amount_hint": "$45 Million",
+     "snippet": "Hyphenate Raises $45 Million To Scale Its AI For Finance Platform Forbes",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "34ce44b72ae7",
+     "group_key": "hyphenate",
+     "title": "Hyphenate raises $45M Series A following 86x revenue growth as CFOs move to autonomous finance",
+     "publisher": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNGx1V2lsb0VHYVFpb1FMMnhocktvNHFyWG9TalJQUUl6dk5FblVfTnNLeERTZWZMLUkxYWZ6YWcwY0R4anlfbW9ucnBoNTllelZDRk5FeXNuc0VmeE9rR3R5ZHJFazNjWnZDWnptcmFXVXR3UHNNcmk2X0xIV2tlWXpYcUtxc3pFelFUWmNuRHFLZXJURTJaX29MOGY4UjRoUVhF?oc=5",
+     "published_at": "2026-10-27T07:00:00.000Z",
+     "amount_hint": "$45M",
+     "snippet": "Hyphenate raises $45M Series A following 86x revenue growth as CFOs move to autonomous finance Yahoo Finance",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "67f4faa90544",
+     "group_key": "hyphenate",
+     "title": "Hyphenate Raises $45 Million for Finance-Focused AI Agents",
+     "publisher": "PYMNTS.com",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVVtbWtia0p4QnozbnFOUnNFeWYyZ1UtNV9FTWxoWFJJN2ZfWFl5WXJmQjJyTmJoeHhFRU5BT3E5c0JoNVlTX3ZnMDl5dWZ3eWVnOUVnY1ZsQlppUmFHem5iVnNYSnM3OU12VFVpTloxTFRWdDVaMVVJdElaQ0lMRFU2YklnRkRQU2lNZ1k2bHVNV0EtRGJ4MnJWRlNweDUtaEpIcnFJQk5pUUNRNHoyV0stc1oxazVBRWdF?oc=5",
+     "published_at": "2026-10-27T07:00:00.000Z",
+     "amount_hint": "$45 Million",
+     "snippet": "Hyphenate Raises $45 Million for Finance-Focused AI Agents PYMNTS.com",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "c8c7ec388b1c",
+     "group_key": "hyphenate",
+     "title": "Hyphenate raises $45M to automate corporate finance — plus 4 more NYC VC deals to know",
+     "publisher": "The Business Journals",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ29DZGcxYkx4UU9BOWhkVzRCZGRJaHhMNlJvVVFBSGdRUmlTV3QzbFhRN2E5QllPU3BRWWthZ0FLbzFfcm9BR1BXLW92UmJZOEpxMXNGODM3cV9vWUdBSW1JUFcwSHo5emZhempsemFpXzdNMXJxQ0YyUjZJVHhmNHhiQ1hCN0hYTHN3bnBoOVRpcTgyckpSdUg3NjZGdkwzSl9GUVpSVEg?oc=5",
+     "published_at": "2026-10-30T18:05:00.000Z",
+     "amount_hint": "$45M",
+     "snippet": "Hyphenate raises $45M to automate corporate finance — plus 4 more NYC VC deals to know The Business Journals",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "maximor",
+   "company_guess": "Maximor",
+   "amount_hint_usd": 45000000,
+   "articles": [
+    {
+     "id": "fa14e4d211b6",
+     "group_key": "maximor",
+     "title": "Maximor raises $45M Series A to build AI finance agents",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYzUwR3gtNFplZFFMSWhxbHdLQ01DWXFVWUFNWVlmRjBoTG1uRlhub0JtNncxMjQ3V0xsZndNa0Nsb29LR1ZwV3NKX3RIZFk2UmJPQUlUYmpEQ25LWE82RXh2MGFqRDEySXZSejJyWlpUNThmaTR6bFFkR0NSNGlvelJ4NXlBYkhuSjVfUXowSWpxUQ?oc=5",
+     "published_at": "2026-10-27T07:51:33.000Z",
+     "amount_hint": "$45M",
+     "snippet": "Maximor raises $45M Series A to build AI finance agents Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "coherence",
+   "company_guess": "Coherence",
+   "amount_hint_usd": 45000000,
+   "articles": [
+    {
+     "id": "94bf8a7abbbf",
+     "group_key": "coherence",
+     "title": "Coherence raises USD $45 million for cancer implant",
+     "publisher": "IT Brief Australia",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWVgwQnJfejJ2bm1vRFZOTTBVZy1YazRfckdZa2xXaUg2cGlscEljQ0pwTjZZdUQzOFRuaVF3S0g5NHVreG42SlRoMDg5Z2pNOVpTUV82MFRyRVFMNXUyZHIwZG92ODVfcFlNcnBIWGNFRVlLSGdJM0xlZTRTaDMxMkxEYk8wZw?oc=5",
+     "published_at": "2026-10-27T02:43:00.000Z",
+     "amount_hint": "$45 million",
+     "snippet": "Coherence raises USD $45 million for cancer implant IT Brief Australia",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "zenzap",
+   "company_guess": "Zenzap",
+   "amount_hint_usd": 44000000,
+   "articles": [
+    {
+     "id": "fa9db3fad4fc",
+     "group_key": "zenzap",
+     "title": "Israeli AI startup Zenzap emerges from stealth with $44 million in funding",
+     "publisher": "Ynetnews",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zd3JNSkZHZDVhVHdJNmctQ1BLbGZPOVJrYWJXWlJWcS1vRkRzZnhKTFZ0UDk1a1M3OU1ucG5qaWJpMDdKdUxCZ1JPc2NrNVhpSVg4elBQeFRQZEx2ZHFWUnRTblo0LWlCNFV4b0xR?oc=5",
+     "published_at": "2026-10-14T07:00:00.000Z",
+     "amount_hint": "$44 million",
+     "snippet": "Israeli AI startup Zenzap emerges from stealth with $44 million in funding Ynetnews",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "24f9c3e9e021",
+     "group_key": "zenzap",
+     "title": "Zenzap Emerges From Stealth With $44M in Total Funding for Collaborative AI Agents",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CV1lSaGEzSUdjSjlVdFZ1c1FGRVZpaWs1RTJyeUVuX1g4OElJd2VYVmFXQnFKb3paVXNJZHdfZk1tRi1KS0Rwai1DbzI2LWRzQ2tPSmdHc2pOUVB2YzlwMGpEcVo4WUZUQU1sczVlaHRZRkZROS14NzJn?oc=5",
+     "published_at": "2026-10-14T07:00:00.000Z",
+     "amount_hint": "$44M",
+     "snippet": "Zenzap Emerges From Stealth With $44M in Total Funding for Collaborative AI Agents Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "b84b2b9a0877",
+     "group_key": "zenzap",
+     "title": "Zenzap Emerges From Stealth With $44M to Put AI Agents to Work in Team Chats",
+     "publisher": "Israel Defense",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QdFc2ZXNoR2tkbVV4QlJ0dm9DYXhyTF9kclRiSnhuMkZGNXFtbW5pcmU4Vzg0VGlUN2ZJaWZUZW9iNmQ5QzA1SjBMa00xSHVDYzZXTjV4T0E?oc=5",
+     "published_at": "2026-10-15T07:00:00.000Z",
+     "amount_hint": "$44M",
+     "snippet": "Zenzap Emerges From Stealth With $44M to Put AI Agents to Work in Team Chats Israel Defense",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "pluto security",
+   "company_guess": "Pluto Security",
+   "amount_hint_usd": 42000000,
+   "articles": [
+    {
+     "id": "d8cb9161d76b",
+     "group_key": "pluto security",
+     "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+     "publisher": "TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPREdOY3NfSDlxR0VKUUNaX0RmVjgwNldkZXNnei1lc3JoMEJYeDljU3VBZkQtYWw3NXZSY2FNSU5nbUlvM25ZZUtiSFpVUEZtaC1YLW9DSzl2Z3JJbld3WnBWbUNtQzJTV3ZhbE9YbkJqeFE5c09MTnpPTTNkN1RUdlZDSmpLdG9rU2gtWkxXaWVzalplQm56QWQtdDROQWZKSVdjWUx2d3RkNFBRcDRPU2JzTQ?oc=5",
+     "published_at": "2026-10-13T07:00:00.000Z",
+     "amount_hint": "$42M",
+     "snippet": "Pluto Security raises $42M as AI gives enterprise security teams a new headache TechCrunch",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "1f7820e491cb",
+     "group_key": "pluto security",
+     "title": "Pluto Security emerges from stealth with $42 million to secure employee-built AI tools",
+     "publisher": "CTech",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14RVRZUGw5MDZKcjVENmtWWC1zdF9UUmoyeG0tQzFNTnlZMjlwbWJTOVlPQXNveUdrUGpHN1FndTZjLTd6cmxfZ3UyQW9IbWRQeVpramcxY3NVRnl4eGFKZmJtMlVXS0pz?oc=5",
+     "published_at": "2026-10-13T07:00:00.000Z",
+     "amount_hint": "$42 million",
+     "snippet": "Pluto Security emerges from stealth with $42 million to secure employee-built AI tools CTech",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "dd27e8394902",
+     "group_key": "pluto security",
+     "title": "Pluto Security Emerges From Stealth With $42M in Funding as AI Workspace Security Gains Momentum",
+     "publisher": "HackerNoon",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbjBLdUNqMXVuRnZxNXYxdFZVMHF0Y0trVS1TNVRlY2t5VlNYVzUzazZ4N0J6WDcxRGppYXZIa0xOSE9DZnNJb2lEOWhyV3l4a21VWFlnQlZ3WG1jY0t6MGR6aFh6bGhaaE4tZmJndFVGN1FCN0taRTRDQkN2Z1FoVGVJd3ZTYmU1aldBWWpSOXRPOEg3UVNBWE9mVHlsenFoRjZMM2c5MUtxdWt4Mk1YX2hRUWp6eGx2S0pF?oc=5",
+     "published_at": "2026-10-13T07:00:00.000Z",
+     "amount_hint": "$42M",
+     "snippet": "Pluto Security Emerges From Stealth With $42M in Funding as AI Workspace Security Gains Momentum HackerNoon",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "db959c8dd475",
+     "group_key": "pluto security",
+     "title": "Pluto Security Emerges From Stealth With $42M to Secure Enterprise AI Agents",
+     "publisher": "AI Insider",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRGNXdkU0dElqcDlwR3FiSjlyN2g1d3AtSnVIVWQ2bHA5WEhzZXpfMGlPMXZLSDBjU1BEUjlLX0FzeWNVNG02SlRMQWM0WTF0R2hqaXp3QVdBbURxLVg4YkpONHFfeUdUVmUzeW8xaGlOOWlXekJqd1dReWNRQXpZS3pnanNvY2pUZ202WHZmVmh6QklHMWdaRXpDcGRFMHRkclNvRkZlRDNnZC14Vm9WWTVjbw?oc=5",
+     "published_at": "2026-10-15T07:00:00.000Z",
+     "amount_hint": "$42M",
+     "snippet": "Pluto Security Emerges From Stealth With $42M to Secure Enterprise AI Agents AI Insider",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "15ed0de55341",
+     "group_key": "pluto security",
+     "title": "Pluto Security Emerges From Stealth With $42M in Funding as AI Reshapes Enterprise Security",
+     "publisher": "Security Boulevard",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM0dqQkpHMUZqRFpTQXZBd1BTN0N1TmUxXzJpSE5LY2sxN3NFcWlwbEhSQ05HX3RfdGpoZVBMY1NseWcwNDAzYnByNmFsZGJseDhKaWNQUjY2MlQzbVJiZklJV2Vyd1VZVl9tUGwtSHZfS29FWUtPQ3BHTmlGMFppN0RRV1FHeE0zOWVHVU9TaFJNbDhneC1DclBWNkN1TnBoYkh3aDlNYWI2S0txSWpITTNWelZxN1JrVEU3ZThEWlpnTURMdWtsdw?oc=5",
+     "published_at": "2026-10-13T07:00:00.000Z",
+     "amount_hint": "$42M",
+     "snippet": "Pluto Security Emerges From Stealth With $42M in Funding as AI Reshapes Enterprise Security Security Boulevard",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "1030e717a760",
+     "group_key": "pluto security",
+     "title": "Pluto Security Emerges From Stealth With $42M in Funding, Backed by a Community-First Growth Strategy",
+     "publisher": "NewsBlaze News",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT041TUM2ajVGVUFJRXJkYkdkc2VGcXliZzl5ZzlxUzJXTlNIeGpNWEMtUVJwN0FGSDlHWlpaeGN3clc0M0k2ZHU4ZXIyTFpyeTNXbnlBOWp1LTlKaC1OVWhBd0xRVlNXOXY0anpDaWhFbHpuaS14eG4tN002elNsb2dDU0Y3MXcyTlZHOC0wa3ByVUJhMzlJcG55bm1OR2d1TkdDSl90Y05wcmJ1TGhLUnQtbUlOZG9YZ3dzeGxiZGZQLUZjZUprZ0x4MUR0dS1fRUdEcnpiOElqeDFBNXprYw?oc=5",
+     "published_at": "2026-10-13T07:00:00.000Z",
+     "amount_hint": "$42M",
+     "snippet": "Pluto Security Emerges From Stealth With $42M in Funding, Backed by a Community-First Growth Strategy NewsBlaze News",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "07a83c225788",
+     "group_key": "pluto security",
+     "title": "Pluto Security Emerges From Stealth With $42M to Secure the AI Workspace",
+     "publisher": "Israel Defense",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10VzNqalBvbHdVd3FKb2RrMGxEay0xZWtWU1hFRmIzaDJJcXp5TG53NHY0TmhOdV9STXNLNE1HX084dmNQamczYWwtMkF1bkZ5eklmbk5Cem0?oc=5",
+     "published_at": "2026-10-14T07:00:00.000Z",
+     "amount_hint": "$42M",
+     "snippet": "Pluto Security Emerges From Stealth With $42M to Secure the AI Workspace Israel Defense",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "cc00f6e63c7d",
+     "group_key": "pluto security",
+     "title": "Pluto Security Emerges From Stealth With $42M in Funding for AI Workspace Protection",
+     "publisher": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeWNzdjZsMHh3VEtkVnVlcnJ0eHBBYjRhNUFsbWJlbTlPYVhvN25BUi10OU1TazRXeDI1SGF2LUZTV0lPLS1pVjNWaWlfZmROVk9wak4wSndINHZGQUV3NkdKVmFFeVAwaVZOcFpKTHpHd3g2aUkwb2N0YTB6SXdDWkFBN3Vua0hUNkh2d1pZQ2ZTTHY5TDd0OVdZcldYU1VPdHFLckRzSHpUNjlQX0NHSTg0RWZHNlVfektQSWtqeXVCam5xQ3ZRbldEYmF5LWUwd0ViSmxIOE1yM0pSTkdWbUw4Y2I2akczd0ZVRlk1TjFyVmMxYTJv?oc=5",
+     "published_at": "2026-10-14T07:00:00.000Z",
+     "amount_hint": "$42M",
+     "snippet": "Pluto Security Emerges From Stealth With $42M in Funding for AI Workspace Protection The Globe and Mail",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "b6f06d0b2021",
+     "group_key": "pluto security",
+     "title": "Israeli AI cybersecurity startup Pluto emerges from stealth with $42 million and 1 million endpoints",
+     "publisher": "Ynetnews",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93VnBxWjFKWkU0NHBwbjhaQ3FfcFlGTHJuaDd5ZVdkRFFDY1VyVG03WGZuLS1FbFdMeUhUaU1jdC1vSTJ6eDVRR1k5MnFyRHNUYTRTSC1pX191ejBnYmRKQ3NR?oc=5",
+     "published_at": "2026-10-14T07:00:00.000Z",
+     "amount_hint": "$42 million",
+     "snippet": "Israeli AI cybersecurity startup Pluto emerges from stealth with $42 million and 1 million endpoints Ynetnews",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "b7b9a82863fd",
+     "group_key": "pluto security",
+     "title": "Pluto Security Emerges From Stealth With $42M in Total Funding for AI Workspace Protection",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2NkJzZ0VQNlBuRDNJUndnY3ZvTC1EOHdTOUM4bkJvNW1KdHdMLWJaN3NCd0RDNmJVeEZFV0dUWFRlbnNWU19YTTdpS3VCM19KRFVFZEcxUk83S2ZsN2VvMDBUb21YUmVDc3NjdzZDMFUxenRlQlE?oc=5",
+     "published_at": "2026-10-13T07:00:00.000Z",
+     "amount_hint": "$42M",
+     "snippet": "Pluto Security Emerges From Stealth With $42M in Total Funding for AI Workspace Protection Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "applied",
+   "company_guess": "Applied AI",
+   "amount_hint_usd": 40000000,
+   "articles": [
+    {
+     "id": "b7c43753199d",
+     "group_key": "applied",
+     "title": "Applied AI Company Baba Raises $40 Million Series A to Improve the Medicare Experience",
+     "publisher": "GlobeNewswire",
+     "url": "https://www.applied.com/store-finder/position?country=US&hideDistances=true",
+     "published_at": "2026-10-20T07:00:00.000Z",
+     "amount_hint": "$40 Million",
+     "snippet": "Applied AI Company Baba Raises $40 Million Series A to Improve the Medicare Experience GlobeNewswire",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "baba",
+   "company_guess": "Baba",
+   "amount_hint_usd": 40000000,
+   "articles": [
+    {
+     "id": "5dc6d7d735d3",
+     "group_key": "baba",
+     "title": "Baba nabs $40M series A to modernize the Medicare experience",
+     "publisher": "Fierce Healthcare",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVmp4MlE1eTBXUzVTaDlkSWh6azFLT1ZuV2ZjQXlHcG4yaTgzSlplcFF2MjA0bVJXcER5RDN3TVpQU0dDUlg5VEY3clUyV2xYSlN2TENMbF83YjkycFd2N3FGOER2cWNyUFBlNU1Xb0FJYVhNQXF5eV95ZFN3cExWT2RzWlM4ZkVpbXg4dXdMTlNFZE13RWlENFRhTUFobVdZSHB1eGtKN3d4MlF3U0hCNGhweHZNMjdnb2JVeTU2ZzJtRGdLNHc?oc=5",
+     "published_at": "2026-10-21T07:00:00.000Z",
+     "amount_hint": "$40M",
+     "snippet": "Baba nabs $40M series A to modernize the Medicare experience Fierce Healthcare",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

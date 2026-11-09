@@ -1,0 +1,189 @@
+{
+ "run_date": "backfill-2026-10-01_2026-11-09",
+ "part": 24,
+ "groups": [
+  {
+   "group_key": "qwikbuild",
+   "company_guess": "QwikBuild",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "f2fdb8bce4ac",
+     "group_key": "qwikbuild",
+     "title": "AI enterprise startup QwikBuild raises $2.3 Mn in pre-seed round",
+     "publisher": "Entrackr",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlR2RkVZbE1zQnBIUWNGRVZwdmhwUkMzaUtxY0xGcFBtMDZsRW1HTnhRSWlPbG9Da1JyT0E2YXBiVnFSSG9wNC16VEVUQU5Rby1qME5YMzFON2hHblR5QlFQV3FPOU8ycXkySmV2ekFLRmkxeUhoN28zS0lSNldJcE0wcmxTVW82VnFPekhjNWRpOEc5anZNZHBncll1aFRXeVlZ0gGjAUFVX3lxTFBmVHZGRVlsTXNCcEhRY0ZFVnB2aHBSQzNpS3FjTEZwUG0wNmxFbUdOeFFJaU9sb0NrUnJPQTZhcGJWcVJIb3A0LXpURVRBTlFvLWowTlgzMU43aEduVHlCUVBXcU85TzJxeTJKZXZ6QUtGaTF5SGg3bzNLSVI2V0lwTTBybFNVbzZWcU96SGM1ZGk4Rzlqdk1kcGdyWXVoVFd5WVk?oc=5",
+     "published_at": "2026-10-28T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "AI enterprise startup QwikBuild raises $2.3 Mn in pre-seed round Entrackr",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "live2",
+   "company_guess": "Live2.ai",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "fa8b6620cdf4",
+     "group_key": "live2",
+     "title": "Live2.ai Secures ₹130 Cr Funding for Expansion",
+     "publisher": "Analytics India Magazine",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWRZazdQeXFmSVQ0bVhIeTYwSlZ0SkhCVC0yOTJ6NV9lWjVjMkxPWUVha3hwa1hEYzZRNUc3aXV1d2NMSnQ1MUVmbmVubHlZZ05UUWZGb0hrdzhmVkQxWHhwRDduaVhXVU5HSF9zVmZfQk5UVFZfSzhXdW1CR2pKQ1d6Y1hRSHRDQzZ2WlhUTFM2aDZjWmYxZlRJNEd4QjZXVlpFTm1wTQ?oc=5",
+     "published_at": "2026-10-28T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Live2.ai Secures ₹130 Cr Funding for Expansion Analytics India Magazine",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "37d24ceb4d07",
+     "group_key": "live2",
+     "title": "Funding Wrap: Live2.ai, Rotoris, CHOSEN raise fresh capital",
+     "publisher": "ET Entrepreneur",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS0FUODROQk84NFpNWWh1OGFrNm51dXgxd2Npb3AxbzEta3JVcjRQUVlsYTBzTTJ3NHJodGZtS2JfWmJYQ2Jnb1RTdVNnbXlSX1ltSGJVVHozd2pUYXhHX0QwR3pMdFRrQ05EN3pMRFdoaVVvRnZ1RmdqdFU1Z0RDY2QwZ1NHQ2hDNEJNcnBib3lnMzZ0Uld5S3VmU3NHRmQxWEVaejJNSi1NUHF3SlA2OEdPT1dvLVZzZ2tPSmZtMGZvNnBydkNCSdIBzgFBVV95cUxPZEtvUVJMTURuMnVMcEhFREcySDQ5R202djJRb3h5TTZfM0xZVDRtT2hSMFR3ZFB4UnFlTDZod1VocEk3X20xOTZ6UU5XOFdsODYzdzJCdFNQTzExcHFlam9XTmtyWHhPOENwV09zNjNxbFplaTQ4cWxJVHdVVXFrWVg4NzZRYTk4Qk5OSnNqM1RCVjExMUR2VUhVa1NHamljbHpwckI0MWhVZk1KQVNRc1NqNVNUcXVPVHBsVjA5eE9MRjJWUXdPNVZ5V3B2dw?oc=5",
+     "published_at": "2026-10-30T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Funding Wrap: Live2.ai, Rotoris, CHOSEN raise fresh capital ET Entrepreneur",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "bengaluru",
+   "company_guess": "Bengaluru AI",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "3e30951c538d",
+     "group_key": "bengaluru",
+     "title": "Bengaluru AI Startup Simplismart Raises $14 Mn in NVIDIA-Backed Round",
+     "publisher": "Analytics India Magazine",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzJTX05EeDlOMU4xcTVpcFZfZzVGV1hYNzdNZnozYWp4V3dtU0FDNGZMcGJZVmJDak1wVUZsakVOVVNRMUc3VmozbFppNFNIU3ZtaUp4czUyd2ZleTZuZm5OWG13ZW8tVTNJMXhQSnRsTXJnUEgyZlhES2hyTklSR0tkcmdoQTEzRzJRc2ZyQk9xRjdnV1c0cGdDUkUzVDk4YTE3WFlmbnhFZw?oc=5",
+     "published_at": "2026-10-27T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Bengaluru AI Startup Simplismart Raises $14 Mn in NVIDIA-Backed Round Analytics India Magazine",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "nova spectral",
+   "company_guess": "Nova Spectral AI",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "1b750fe175bb",
+     "group_key": "nova spectral",
+     "title": "Physical AI vision company Nova Spectral AI raises Rs 21.15 Cr led by Shastra VC",
+     "publisher": "Entrackr",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0RHbmZBZGRzcW9KMWJaOVFfdzRkcEpyVUg4T3ZlQU9QdDExSDRaZFFPNWVOS0t5REQ5Z0UwNWxESEhnMkZvMVBBZG15dFo2anI1MFZEWjM5S0pDWHVDUVE0OUhvTHZxOVQ1SzdxY3FuTHhYZHBHWjdvb2NjWG43dVluTVFjSjByWnBtek1ILTR3cHhHc2VKX3hCZ1pIamk1NEYydzdFNnlnQjFmekgwQUc2UFpGN2VST1HSAboBQVVfeXFMT3dER25mQWRkc3FvSjFiWjlRX3c0ZHBKclVIOE92ZUFPUHQxMUg0WmRRTzVlTktLeUREOWdFMDVsREhIZzJGbzFQQWRteXRaNmpyNTBWRFozOUtKQ1h1Q1FRNDlIb0x2cTlUNUs3cWNxbkx4WGRwR1o3b29jY1huN3VZbk1RY0owclpwbXpNSC00d3B4R3NlSl94QmdaSGppNTRGMnc3RTZ5Z0IxZnpIMEFHNlBaRjdlUk9R?oc=5",
+     "published_at": "2026-10-27T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Physical AI vision company Nova Spectral AI raises Rs 21.15 Cr led by Shastra VC Entrackr",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "obsero",
+   "company_guess": "Obsero",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "10a668a17576",
+     "group_key": "obsero",
+     "title": "Obsero raises seed funding to track the sources AI assistants quote",
+     "publisher": "BusinessCloud",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeE1zelVkemlpeWJSS0pmTzRkMUdlNGVEd2F0Z3JUdmZ0OWZPZU95WWxyRS1SaTM1d1cyZ3JLdktTZHJIUVZ5TWx0dVF5SjJVUG9kWHZhRmxsWHotekZzUGdvM2stUnZOckRzOHd1NFNQbHIwNkRQLXctamFLM0tXZXU2cTJKYzdFVWNuYjdpM3JOS3ZsUjdVcmU4Z3dBelhRWDQw?oc=5",
+     "published_at": "2026-10-30T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Obsero raises seed funding to track the sources AI assistants quote BusinessCloud",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "26abbcc7ecc0",
+   "company_guess": "AI",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "26abbcc7ecc0",
+     "group_key": "26abbcc7ecc0",
+     "title": "AI Startups Raise Over $343 Mn In October 2026, Focus On Sales And Marketing Automation",
+     "publisher": "BW Disrupt",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcUk3bU44N0hJcENKN25JSklqbWh6UmlnWml1UjlhMEJ3MkUxSmlwTzlWcG1RN3lRa1E1ZWh5d3VqWWZ0TW1ERzRsb1FCMHNzZ0lIWmFZMzRibTZDZDdvc1ZGSC1RZ29LQ3JQRkRvaFJ5TjJTbTlQUXBWRVFEYWFSN1F4MzVIbDJ6cVQxUDBjQzJWc0drR0VNX3Qxcm9OblBGQWFFU2NDeWZ6NGE2TzVqV2FhYlFhTi1zWTdTMzNZd294WVVM?oc=5",
+     "published_at": "2026-11-03T05:11:55.000Z",
+     "amount_hint": null,
+     "snippet": "AI Startups Raise Over $343 Mn In October 2026, Focus On Sales And Marketing Automation BW Disrupt",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "funding alert eloelo",
+   "company_guess": "{Funding Alert} EloElo",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "99fba4a68cfc",
+     "group_key": "funding alert eloelo",
+     "title": "{Funding Alert} EloElo Raises $80 Mn to Expand Its Digital Entertainment Business",
+     "publisher": "Indian Retailer",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNi1Bb3VrSlN4WlFMcXN4czBiYkpjM0lwX21xZG9vRmhiOTgyZFFWUmNEZHoxYXg3VC1TQ3ZJTE5LRnFsbTBIcExEc2dETmEtR2dEeWd5bHRQMzNrOWYxOF91LVBKSWJ1akRRUzhvUXNyd0tVNmRoU1lCY29PMVJublNXYnlSbmFsUHR1TDBxXy04eHV1UThNM21QSXREV2U5TUZvN3JEQkZnUE1zMG5BOA?oc=5",
+     "published_at": "2026-11-05T07:05:13.000Z",
+     "amount_hint": null,
+     "snippet": "{Funding Alert} EloElo Raises $80 Mn to Expand Its Digital Entertainment Business Indian Retailer",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "ex tencent",
+   "company_guess": "Ex-Tencent AI",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "f1a381aad4d5",
+     "group_key": "ex tencent",
+     "title": "Ex-Tencent AI researcher raises tens of millions in angel round for robot touch sensors",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHZIb2lIZlNBWjFFTHJCQXhVb05SdVMwOXlSbWxGbmp3aml6QUJrcGRGLTdGUjRqZXZLNE1oTjQ0MHZXdTNqNklPQ0V3WVhRTVpRSVdzZGZIUkhpWWM2UGtOcXpYLUdLa0hjZzlJVnNjekFuQmRkZ1BGTllOdWp5YUdiX2JWemhSWUVXeGVycktIVTdhM25oT1FKOWFUc1VkaGJJVzdyNUZWNjNNM2tDTGVzMFRVWm94TGh3TVBn?oc=5",
+     "published_at": "2026-11-04T20:25:23.000Z",
+     "amount_hint": null,
+     "snippet": "Ex-Tencent AI researcher raises tens of millions in angel round for robot touch sensors Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "chinas onex",
+   "company_guess": "China's OneX",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "ce9dcafbe4c0",
+     "group_key": "chinas onex",
+     "title": "China's OneX raises tens of millions of yuan in Series A for life-science AI",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXk5U0R2WGNqUjdzMlo0bFM4bk9oM3Z1N1RVNlZDRFE4YmpObzloenVISHJyM1hpUERqMGtVZXpIUUVIM2k4UTR1QmhPXzhVNGNDOTdKSWRjVW1VeDNsVFVRaXlOVEQtakxuODM4UFNRQ1ZaUGFvTVFodzRhUFlST3ZPWGJuRlhvX19OR1U0UzVXb1dlNXpFUEUyMGhrcXdRTkJiM0dQMUh1SXBhRGdN?oc=5",
+     "published_at": "2026-11-06T15:53:54.000Z",
+     "amount_hint": null,
+     "snippet": "China's OneX raises tens of millions of yuan in Series A for life-science AI Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

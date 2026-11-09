@@ -1,0 +1,256 @@
+{
+ "run_date": "backfill-2026-10-01_2026-11-09",
+ "part": 2,
+ "groups": [
+  {
+   "group_key": "city digital health startups",
+   "company_guess": "City digital health startups",
+   "amount_hint_usd": 1900000000,
+   "articles": [
+    {
+     "id": "926073b87f11",
+     "group_key": "city digital health startups",
+     "title": "City digital health startups raise $1.9 billion in third quarter, report finds",
+     "publisher": "Crain's New York Business",
+     "url": "https://www.crainsnewyork.com/health-care/cny-digital-health-funding-q3-20261029/",
+     "published_at": "2026-10-29T07:00:00.000Z",
+     "amount_hint": "$1.9 billion",
+     "snippet": "City digital health startups raise $1.9 billion in third quarter, report finds Crain's New York Business",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "tenstorrent",
+   "company_guess": "Tenstorrent",
+   "amount_hint_usd": 1500000000,
+   "articles": [
+    {
+     "id": "4ed5dde6e659",
+     "group_key": "tenstorrent",
+     "title": "AI chip startup Tenstorrent raises USD1.5b, doubles its valuation",
+     "publisher": "Capital Brief",
+     "url": "https://www.capitalbrief.com/briefing/ai-chip-startup-tenstorrent-raises-usd15b-doubles-its-valuation-62647565-e4fc-4845-a125-e82eb8e37542/",
+     "published_at": "2026-10-20T07:00:00.000Z",
+     "amount_hint": "USD1.5b",
+     "snippet": "AI chip startup Tenstorrent raises USD1.5b, doubles its valuation Capital Brief",
+     "text_status": "ok",
+     "text": "Briefing\nGalaxy brain\nAI chip startup Tenstorrent raises USD1.5b, doubles its valuation\nMake us a preferred source\nMake us a preferred source on Google\n12:00am on 20 October 2026\nLink copied\nCopy failed\nThe news: Tenstorrent has raised USD1.5 billion in a funding round that values the semiconductor designer at USD6.2 billion.\nTrace Capital and Innovation X led the Series E round, with backing from ARK Invest, Sandisk and Tether Investments, among others.\nThe company plans to use the capital to deploy its Galaxy servers to power open-source AI chatbots, coding assistants and video generators.\nThe new valuation more than doubles its USD2.6 billion valuation in 2024, when it raised $693 million .\nThe context: Tenstorrent designs chips it says are more efficient at running certain AI tasks. It also held talks with Intel and Qualcomm about a potential takeover this year, Bloomberg reported.\nIts chief executive Jim Keller is a prominent chip engineer who worked on successful products at AMD, Apple and Tesla.\nThe source: Tenstorrent"
+    }
+   ]
+  },
+  {
+   "group_key": "flapping airplanes",
+   "company_guess": "Flapping Airplanes",
+   "amount_hint_usd": 1000000000,
+   "articles": [
+    {
+     "id": "472cdd878909",
+     "group_key": "flapping airplanes",
+     "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+     "publisher": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+     "published_at": "2026-10-21T07:00:00.000Z",
+     "amount_hint": "$1B",
+     "snippet": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation TechCrunch",
+     "text_status": "ok",
+     "text": "Year-old startup Flapping Airplanes has wowed Silicon Valley with an impressive founding team and a mission to find ways to train large models with less data. On Wednesday, the company announced it had raised a $1 billion Series A round, co-led by Index and Lux, reportedly at a $6 billion valuation.\nThe round comes just nine months after the company launched with a $180 million seed round from GV, Sequoia, and Index. That seed round had valued the company at $1.5 billion, so its valuation just quadrupled.\nOther participants in the new round included earlier backers Sequoia, GV, and Kleiner Perkins. Valor, Atreides, Kleiner Perkins, A*, and Nvidia are also investors in the company.\nFlapping Airplanes was founded by Aidan Smith and brothers Asher and Ben Spector. Smith is a former founder and Thiel fellow who worked at the brain implant company Neuralink during college. Asher Spector was a statistics PhD at Stanford, while Ben Spector was a computer science PhD student at Stanford and founded Prod while at MIT.\nProd is an almost secret-society, five-year-old student-run startup accelerator that has “become one of the most powerful talent incubators in Silicon Valley,” wrote Sequoia partner David Cahn , a Flapping Planes investor, in a post earlier this year explaining why he invested. Together, the founders “are building the ‘young person’s AGI lab,’” as Cahn described it.\nThe founders describe their work as “the world’s most complete megakernel framework. It can perform entire training runs, serve inference, play video games, and even do all three simultaneously in a single kernel.” (A kernel is a program that runs on a GPU, and a megakernel bundles many tasks into one program.)\nThe founders claim the framework “can overlap memory-bound inference with compute-bound training,” meaning it can run a task that spends most of its time waiting for data to be fetched alongside one that spends most of its time doing math, so the chip is rarely sitting idle. The premise is that AI has barely scratched the surface of what GPUs can do, and they believe it can create intelligent systems “without ingesting half the internet.”\nThe goal is systems that cost less to train and run. “A model that’s a million times more data efficient is probably a million times easier to put into the economy,” Asher Spector told TechCrunch shortly after the startup launched.\nThey now have a fresh $1 billion to hire and attempt to turn that goal into reality.\nTopics\nFlapping Airplanes , Fundraising , Startups\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\nJulie Bort\nVenture Editor\nJulie Bort is the Startups/Venture Desk editor for TechCrunch.\nYou can contact or verify outreach from Julie by emailing [email protected] or via @Julie188 on X.\nView Bio\nNovember 4\nBoston\nBuy One Pass, Get a Second Free\nCover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free\nBook before the BOGO deal expires\nRegister Now\nMost Popular\nTesla will stop making the Cybertruck in 2027\nSean O'Kane\nClaude can now analyze your spending with its new Personal Finance tool\nAisha Malik\nHarbinger raises $240M after expanding into defense\nSean O'Kane\nAlmost no one uses AI agents to book their Uber, company says\nSarah Perez\nMeta acquires AI coding startup Conductor\nLucas Ropek\nData centers are turning to old jet engines as the wait for power grows\nAditya Mehta\nNew Yo"
+    }
+   ]
+  },
+  {
+   "group_key": "blacksmith",
+   "company_guess": "Blacksmith",
+   "amount_hint_usd": 1000000000,
+   "articles": [
+    {
+     "id": "13e083c81570",
+     "group_key": "blacksmith",
+     "title": "Blacksmith Raises Sequoia-Led Series C at $1 Billion Valuation to Scale Code Validation",
+     "publisher": "PR Newswire",
+     "url": "https://www.prnewswire.com/news-releases/blacksmith-raises-sequoia-led-series-c-at-1-billion-valuation-to-scale-code-validation-302915140.html",
+     "published_at": "2026-10-21T07:00:00.000Z",
+     "amount_hint": "$1 Billion",
+     "snippet": "Blacksmith Raises Sequoia-Led Series C at $1 Billion Valuation to Scale Code Validation PR Newswire",
+     "text_status": "ok",
+     "text": "Blacksmith Raises Sequoia-Led Series C at $1 Billion Valuation to Scale Code Validation\nNews provided by\nBlacksmith\nOct 21, 2026, 09:15 ET\nShare this article\nShare this article\nCompany's ARR grew 17x since January, with more than 10,000 startups and enterprise companies running builds and tests on its platform.\nSAN FRANCISCO , Oct. 21, 2026 /PRNewswire/ -- Blacksmith , the infrastructure platform for building and testing code, today announced a $66M Series C led by Sequoia Capital at a $1 billion valuation, with participation from Premji Invest and existing investors Peak XV Partners, GV and Y Combinator. The round brings Blacksmith's total funding to $125 million and will enable the company to grow its team and expand its compute footprint.\nContinue Reading\nBlacksmith announces its Series C, led by Sequoia Capital at a $1 billion valuation.\nFor years, writing code was the slow part of shipping software. With AI coding agents now producing a large and growing share of the world's code, the burden has changed from writing code to validating it. Every change still has to be built and tested before it can be merged, a step known as continuous integration, or CI.\nMost companies run CI on general-purpose cloud infrastructure that was never designed for it. As developers push more code, teams hit longer waits for compute, slower builds on older-generation CPUs, and a constant fight between over- and under-provisioning. Anthropic reported last month that its own CI volume grew 25x in six months as Claude took over most of its code output.\n\"Since Claude Code took off in March, almost every conversation we've had with a large engineering team has started the same way. Developers who used to push three or four pull requests a day are now pushing orders of magnitude more and their CI infrastructure can't keep up. We're grateful to our customers who are trusting us to solve this bottleneck, and excited to partner with Sequoia to solve it at scale,\" said Aditya \"JP\" Jayaprakash, co-founder and CEO of Blacksmith.\nCI is the most variable workload a company runs: a single customer's demand regularly jumps from zero to tens of thousands of CPUs and back again. Blacksmith has designed every part of its infrastructure stack to absorb those spikes as a matter of routine. Customers switch with a one-line change to their workflow file and never provision, scale or maintain their CI infrastructure again. Developers using Blacksmith see their CI jobs complete twice as fast and at 60% lower cost on average, with zero operational overhead. Since January, the number of CI jobs running on Blacksmith each week has grown from 5 million to more than 90 million, and annual recurring revenue has grown 17x.\n\"JP and team understood early that as AI agents wrote more code, the infrastructure to build and test it would need to change,\" said Isaiah Boone, Partner at Sequoia Capital. \"What stood out to us was their deep systems expertise and speed of execution. That has translated into a product that helps their customers test and ship their software faster. We believe that foundation gives Blacksmith room to build much more as the demands of software development change.\"\nBlacksmith was founded in 2024 by Jayaprakash, Aayush Shah and Aditya Maru, who met as undergraduates at the University of Waterloo. Shah and Maru were early engineers at Cockroach Labs, and Jayaprakash was an engineer at Faire. All three are developers who have run spiky, large-scale infrastructure before,"
+    },
+    {
+     "id": "f37febc3021b",
+     "group_key": "blacksmith",
+     "title": "Blacksmith raises $66 Mn at $1 Bn valuation led by Sequoia",
+     "publisher": "Entrackr",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYTF1Z3V6SXdhRE1faTg5dW5JYTlYdUc1a0dJeW9SNjlNd3czTjI5RndIS0t0ck5DNVRBYURIbkZuWjI1THVNSm9lX2hGeHBCOXNma2c1c05wOXFvMnUwSl9tc3lHQlFKZVo0d003cUstbkktLXRuRkYzekdxQ1Q1bGtpV3NUZE1IYS1tZVFZNTdwRDFaT3fSAZYBQVVfeXFMT2ExdWd1ekl3YURNX2k4OXVuSWE5WHVHNWtHSXlvUjY5TXd3M04yOUZ3SEtLdHJOQzVUQWFESG5GbloyNUx1TUpvZV9oRnhwQjlzZmtnNXNOcDlxbzJ1MEpfbXN5R0JRSmVaNHdNN3FLLW5JLS10bkZGM3pHcUNUNWxraVdzVGRNSGEtbWVRWTU3cEQxWk93?oc=5",
+     "published_at": "2026-10-21T07:00:00.000Z",
+     "amount_hint": "$1 Bn",
+     "snippet": "Blacksmith raises $66 Mn at $1 Bn valuation led by Sequoia Entrackr",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "physical intelligence in talks",
+   "company_guess": "Physical Intelligence in talks",
+   "amount_hint_usd": 1000000000,
+   "articles": [
+    {
+     "id": "31a133bd523c",
+     "group_key": "physical intelligence in talks",
+     "title": "Physical Intelligence in talks to raise $1B at $20B valuation - Bloomberg",
+     "publisher": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/technology/ai/articles/physical-intelligence-talks-raise-1b-202852726.html",
+     "published_at": "2026-10-27T07:00:00.000Z",
+     "amount_hint": "$1B",
+     "snippet": "Physical Intelligence in talks to raise $1B at $20B valuation - Bloomberg Yahoo Finance",
+     "text_status": "error:fetch failed",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "israeli startups",
+   "company_guess": "Israeli startups",
+   "amount_hint_usd": 872000000,
+   "articles": [
+    {
+     "id": "db3e0ba55955",
+     "group_key": "israeli startups",
+     "title": "Israeli startups raised at least $872 million in October, led by cybersecurity and AI",
+     "publisher": "CTech",
+     "url": "https://www.calcalistech.com/ctechnews/article/d1lau0oxq",
+     "published_at": "2026-11-01T18:12:00.000Z",
+     "amount_hint": "$872 million",
+     "snippet": "Israeli startups raised at least $872 million in October, led by cybersecurity and AI CTech",
+     "text_status": "thin",
+     "text": "Photo: Capitolis"
+    }
+   ]
+  },
+  {
+   "group_key": "typesafe",
+   "company_guess": "TypeSafe AI",
+   "amount_hint_usd": 870000000,
+   "articles": [
+    {
+     "id": "e8b9a0dd4f76",
+     "group_key": "typesafe",
+     "title": "TypeSafe AI Raises $870M Series A at $7.5B Valuation to Ship More AI Models",
+     "publisher": "Unite.AI",
+     "url": "https://www.unite.ai/typesafe-ai-raises-870m-series-a-at-7-5b-valuation-to-ship-more-ai-models/",
+     "published_at": "2026-10-09T07:00:00.000Z",
+     "amount_hint": "$870M",
+     "snippet": "TypeSafe AI Raises $870M Series A at $7.5B Valuation to Ship More AI Models Unite.AI",
+     "text_status": "ok",
+     "text": "Funding\nTypeSafe AI Raises $870M Series A at $7.5B Valuation to Ship More AI Models\nPublished\nOctober 9, 2026\nBy\nEvan Mercer, AI Startups & Venture Capital AI Research Agent\nAdd Unite.AI to your preferred sources on Google\nTypeSafe AI announced on October 9, 2026 that it has raised an $870 million Series A at a $7.5 billion valuation, led by Andreessen Horowitz with participation from Sequoia Capital, existing investor DCVC, and angel investors. Andreessen Horowitz general partner Martin Casado is joining the company’s board.\nRound Terms and Investors\nAndreessen Horowitz confirmed it is leading the investment in a post dated October 9, 2026 and bylined by Jennifer Li, Sarah Wang, Martin Casado, Marc Andreessen, and Ben Horowitz. Li and Casado are general partners focused on the firm’s infrastructure investing, Wang is a general partner on its growth team, and Andreessen and Horowitz are the firm’s cofounders and general partners.\nTypeSafe’s own announcement is a short post addressed to developers, businesses, and potential recruits; the company disclosed the dollar amount, the valuation, and Casado’s board seat in a footnote to that post.\nThe System One Model Behind the Round\nTypeSafe released Jev in early access on September 15, 2026, after two years in stealth, and said it is bringing developers off its waitlist. In the launch post , founder Diogo Almeida described Jev as the first entry in a new model class the company calls System One, designed for rapid, structured decision-making inside software.\nAccording to TypeSafe’s documentation , Jev takes typed questions and evaluates them against a supplied state, returning structured results without generating or parsing text. The results arrive as typed values with probability distributions, so code can branch, sort, and route on them directly. The company exposes three primitives: Choice picks one option out of a provided list; Score grades the state against a rubric; and Noul returns a 0–1 answer to whether a given statement is true. Choice and Score also return confidence values, and all three question types can be combined in one API call, where each is evaluated independently and concurrently against the same state.\nAlmeida wrote that TypeSafe built a new stack focused entirely on automation: a new model architecture, a parallel sampler, and a training method the company calls Reinforcement Learning for Calibrated Decisions (RLCD). He said Jev achieves similar intelligence to existing large language models on System One tasks while running two orders of magnitude faster, with end-to-end response times of 70 to 500 milliseconds, a range the post states can be 40 to 200 times faster than frontier models at comparable intelligence for System One–shaped queries. Because outputs are type-safe structured values defined in advance, Almeida wrote, the model never makes type errors and cannot hallucinate.\nPublished pricing is $0.042 per million input tokens, with output tokens free. The company states that the 193.6-times-faster and 444.6-times-cheaper figures on its homepage come from its workflow evaluations, and it cautions that those numbers are on the higher end of real-world gains. It also notes that the evaluation workflows were built by members of its model capabilities team and that some bias could exist.\nAlmeida wrote that at OpenAI he helped develop instruction-following methods for language models, work he said became the research behind ChatGPT. The System One name references Da"
+    },
+    {
+     "id": "a9643773b4e6",
+     "group_key": "typesafe",
+     "title": "TypeSafe AI Raises $870M in Series A Funding at $7.5 Billion Valuation",
+     "publisher": "FinSMEs",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTkxLeVQ1U0UtWjZVOTJWMnZFZTYySmJYTjh1bUJUWUZ4TkJ3LTNwR3Z6TlloaDFEZ1B0cnFNZ0Z4RFQway1lX1IwTUt1cVpYRkFKMW56aGswenRsQnhzeUVtWFNDR2pST1lPTGFKaG0tZW1TR2NfN1F1Qm9oSDZ3c2Ywbk1sdUEyTTk4TVYyX0s3aHBLSmZZcEVTMG9XSm5sUXJFb3lXcEo?oc=5",
+     "published_at": "2026-10-12T07:00:00.000Z",
+     "amount_hint": "$870M",
+     "snippet": "TypeSafe AI Raises $870M in Series A Funding at $7.5 Billion Valuation FinSMEs",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "c8e481dfb235",
+     "group_key": "typesafe",
+     "title": "TypeSafe AI raises $870 million led by Andreessen Horowitz - Bloomberg",
+     "publisher": "Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVDZHYTUxSmtvV1B0bS1JUTQwRVdWelVfQkdqSzFfdnpjTHJram1PWXRIQ2hEdDctVG1QaldSWm5yZEZ4eUFUWC15a0tjV1c5Zk1yRFd6MUs3QkZHQ1JaaVJYNFBuZmNRSmoya3d6TFBlZnhwUFB1TFBUcHFRM09kUklwTFdUZGQzOTc0eHdlRnBkQ1BCOF9iTXRnd0c5eEpQbDBYS1lfY0UxeFBucjVDTkwyb1FsSjYtOHA4NHRPd21ISDdNa3d0aVRn?oc=5",
+     "published_at": "2026-10-09T07:00:00.000Z",
+     "amount_hint": "$870 million",
+     "snippet": "TypeSafe AI raises $870 million led by Andreessen Horowitz - Bloomberg Investing.com",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "3cf856e11a0e",
+     "group_key": "typesafe",
+     "title": "TypeSafe, a Judgment-Specialized AI Startup, Raises ¥87 Billion Led by a16z at ¥1.2 Trillion Valuation",
+     "publisher": "BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xa3h5MDZ0NjJ6SEloSWR4dm9QdExuLXlrMlRVdHpNRTV2WHc5LUJVdVhCR2dVTnJ3TlkyWnFUTG5Od01faDdzYVF0aUhkOVpVOGpYWmtjWmRQcWNKVmJ5QmVJZllPaV84RVhhQXBCN1lLQ0dObHc?oc=5",
+     "published_at": "2026-10-09T07:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "TypeSafe, a Judgment-Specialized AI Startup, Raises ¥87 Billion Led by a16z at ¥1.2 Trillion Valuation BigGo Finance",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "c52a9cfaa511",
+     "group_key": "typesafe",
+     "title": "TypeSafe AI raises about $870 million in funding led by Andreessen Horowitz at $7.5 billion valuation - Bloomberg News",
+     "publisher": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNczBmbTZnSHRuNDNTckdJdlpiWXJKMUU3aHFUUG1Fb3VvY3piei1JUXpHQ2JYLXRuMktSMF9qblVhTGtSMkhyOHdaLVJvUnYxM3FNd2M5eThIUVp2ZzlJNHB2clJBQm9Ndld6VHZQNnpBQks3QXJNY1hsbENMTlVuS0ZmYXpndUVfOW5ReTdIc0lSMTRxMmRVR3hhSXdDRzM2LVlieFNpNGRqTUFKYV8xU0tQNVJ3bmVkM2FtZUdKNE1FN1B1bVRTbUlnbS1yTWNFSUJHTW5oNHNVX3JJWjNDWWI1UXJ4WHp5TFczd2FMdlMzVTVQbW9xOFdhQVVqcl9kWGRwZnQtTmp2aFpRckl6Uzh3?oc=5",
+     "published_at": "2026-10-09T07:00:00.000Z",
+     "amount_hint": "$870 million",
+     "snippet": "TypeSafe AI raises about $870 million in funding led by Andreessen Horowitz at $7.5 billion valuation - Bloomberg News TradingView",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "jev maker",
+   "company_guess": "Jev-Maker",
+   "amount_hint_usd": 870000000,
+   "articles": [
+    {
+     "id": "a802a560a362",
+     "group_key": "jev maker",
+     "title": "Jev-Maker TypeSafeAI Raises $870M Series A to Scale AI Automation Platform",
+     "publisher": "citybiz",
+     "url": "https://www.citybiz.co/article/917252/jev-maker-typesafeai-raises-870m-series-a-to-scale-ai-automation-platform/",
+     "published_at": "2026-10-13T07:00:00.000Z",
+     "amount_hint": "$870M",
+     "snippet": "Jev-Maker TypeSafeAI Raises $870M Series A to Scale AI Automation Platform citybiz",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "structured decision",
+   "company_guess": "Structured-Decision AI",
+   "amount_hint_usd": 870000000,
+   "articles": [
+    {
+     "id": "55e498d0dad1",
+     "group_key": "structured decision",
+     "title": "Structured-Decision AI Maker TypeSafe Raises $870M Series A",
+     "publisher": "Wowtale",
+     "url": "https://en.wowtale.net/2026/10/10/235426/",
+     "published_at": "2026-10-10T01:16:09.000Z",
+     "amount_hint": "$870M",
+     "snippet": "Structured-Decision AI Maker TypeSafe Raises $870M Series A Wowtale",
+     "text_status": "ok",
+     "text": "As AI agents spread across the industry, investment is piling into an infrastructure layer that skips long, human-readable text responses and instead hands software a judgment it can consume directly. The promise of solving speed, cost and reliability at once is moving investors fast.\nTypeSafe AI sits at the center of that shift. Last month the company came out of stealth with a $40 million seed round for its structured-decision model, Jev. Unlike a conversational LLM, Jev doesn’t generate sentences — it returns a “typed decision” with an attached probability, chosen from a schema the developer defines in advance. Because the output shape is fixed ahead of time, the company says it can’t produce an answer outside that schema, and because it samples in parallel rather than generating tokens one at a time, it responds far faster.\nThe company was founded in 2024 by Diogo Almeida, Erik Gafni and Sasha Sheng. CEO Almeida previously co-developed reinforcement learning from human feedback (RLHF) at OpenAI and worked on InstructGPT, ChatGPT and GPT-4.\nTypeSafe AI said it closed an $870 million Series A led by Andreessen Horowitz, with Sequoia Capital and existing investor DCVC participating. The round values the company at $7.5 billion — a jump of dozens of times its seed-round valuation in under a month. a16z general partner Martin Casado is joining the board.\nRather than spell out a spending plan, the announcement stuck to a direction: push everything people like about Jev to the extreme, ship more machine-native models, and keep building out the infrastructure for “smart software.” The company says a third of the Fortune 500 are already using Jev and that it has saved production customers millions of dollars — claims that, as with the seed announcement, come from the company itself and haven’t been independently verified.\nThe competitive picture hasn’t shifted much. When TypeSafe first emerged, Earendil CTO Armin Ronacher — whose company builds the open-source model harness Pi — said Jev was “alone” in its category for now, but that “once people know this works, competitors will show up.” A month later, no direct rival in the same category has clearly emerged. The closest alternatives remain inference-acceleration infrastructure that runs existing frontier models faster and cheaper on dedicated chips, and guardrail layers that score LLM outputs after the fact. The sheer size of this round suggests investors still see the category as TypeSafe’s alone to lose."
+    }
+   ]
+  },
+  {
+   "group_key": "03d0d29c889c",
+   "company_guess": "AI",
+   "amount_hint_usd": 750000000,
+   "articles": [
+    {
+     "id": "03d0d29c889c",
+     "group_key": "03d0d29c889c",
+     "title": "AI cloud Modal raises $750m in Series D funding round",
+     "publisher": "Data Center Dynamics",
+     "url": "https://www.datacenterdynamics.com/en/news/ai-cloud-modal-raises-750m-in-series-d-funding-round/",
+     "published_at": "2026-10-16T07:00:00.000Z",
+     "amount_hint": "$750m",
+     "snippet": "AI cloud Modal raises $750m in Series D funding round Data Center Dynamics",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

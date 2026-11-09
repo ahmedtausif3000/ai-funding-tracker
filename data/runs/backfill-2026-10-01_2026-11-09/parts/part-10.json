@@ -1,0 +1,292 @@
+{
+ "run_date": "backfill-2026-10-01_2026-11-09",
+ "part": 10,
+ "groups": [
+  {
+   "group_key": "ultra",
+   "company_guess": "Ultra",
+   "amount_hint_usd": 62000000,
+   "articles": [
+    {
+     "id": "0eff3a7c0257",
+     "group_key": "ultra",
+     "title": "Ultra raises $62 million for fast-growing ‘robots as a service’ business, announces tie-up with AI research firm Physical Intelligence",
+     "publisher": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVhxX3pmWk50WXQ5MzZ6QWpJMEJjMGZMLUMyUzJnNnNiT0RXd0JFUmVsNVJjYk84ZjdtendrRkZyRlpDUGF1TVBQQVJiaHVpX19pekR2S0lhN2RSWjZLaTBHVUJwbTJDU0lkQmd5NmRPNU9QN1NqaVFQSTZrLWFPcVB4MW1JZU5fVl93LWJuS0ZZMDR2VGswdERCc3BtVFFZQUJiOTlKUmRzYTBBR19qSXZDYTRxR1JNeFRYZWVjam5kbV9BY21xWQ?oc=5",
+     "published_at": "2026-10-09T07:00:00.000Z",
+     "amount_hint": "$62 million",
+     "snippet": "Ultra raises $62 million for fast-growing ‘robots as a service’ business, announces tie-up with AI research firm Physical Intelligence Fortune",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "jazz",
+   "company_guess": "Jazz",
+   "amount_hint_usd": 61000000,
+   "articles": [
+    {
+     "id": "9668f702ca6a",
+     "group_key": "jazz",
+     "title": "Cybersecurity startup Jazz raises $61M to reinvent data loss prevention with AI",
+     "publisher": "Ynetnews",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UWUFab29JTE0xZTRta2lSQVM4M202dmE5Njlud1YxM1VRWmYySXdrb1hhSTdYNVRNMF9kelRUMGFobVNGckt2cjA2SFR2MEpNVjdrOVZtX2UxeU1HcG5QeHB3?oc=5",
+     "published_at": "2026-10-03T07:00:00.000Z",
+     "amount_hint": "$61M",
+     "snippet": "Cybersecurity startup Jazz raises $61M to reinvent data loss prevention with AI Ynetnews",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "teddyholdings",
+   "company_guess": "TeddyHoldings.AI",
+   "amount_hint_usd": 60000000,
+   "articles": [
+    {
+     "id": "7ab775587af5",
+     "group_key": "teddyholdings",
+     "title": "TeddyHoldings.AI Raises $60 Million Seed Round, Tops $25 Million in Revenue",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGFqVWRTdVhtazRTb2hlVDRCS1dCNTQ3X0J2Z1ZodHhnZUY5MTdCS09ZOTFfR2FZNldZbmRLb3lhN3VVMWVQV3puREgzbGlTVWlBOHZwSkI5TUY1ZFQxb3l5MTdlWDNQc0x4UHZVbjRpVDkxdC1MTEo4cHBKdWoxQ1Q4QmUtR2JPTVRMSnFEOWd0UzZKUlpSX1BJdW5PamRMTm02Rlo3T1ptMXBWVDZ5NQ?oc=5",
+     "published_at": "2026-10-07T07:00:00.000Z",
+     "amount_hint": "$60 Million",
+     "snippet": "TeddyHoldings.AI Raises $60 Million Seed Round, Tops $25 Million in Revenue citybiz",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "eb9d1ba3fb64",
+     "group_key": "teddyholdings",
+     "title": "TeddyHoldings.AI Raises $60 Million in Seed Funding from Leading Investors to Transform Compliance and Client Service in Legal Services, and Announces Over $25 Million in Revenue",
+     "publisher": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTk41ODhuQkRNcl9TS0pfNEFIZWx0Ty1SOFNUV3YzWUlOSG1zWjhqaFo0VGpDcncwUlZ2Z0ZaSUNXT0h2NFZCeS1XRlN0VUhlU1RjWGw2WGJOcXp3dkw0WUxzVlRnaHFJbGF5X3NzSXAySGstTmVzVWFGZ0ZJSlRQcnBzNzNoQjFOZzVVaWRwMnJQeXhQbjZlMnV2djQ4RWc?oc=5",
+     "published_at": "2026-10-07T07:00:00.000Z",
+     "amount_hint": "$60 Million",
+     "snippet": "TeddyHoldings.AI Raises $60 Million in Seed Funding from Leading Investors to Transform Compliance and Client Service in Legal Services, and Announces Over $25 Million in Revenue Yahoo Finance",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "d82919a78870",
+     "group_key": "teddyholdings",
+     "title": "TeddyHoldings.AI Raises $60 Million Seed Round And Surpasses $25 Million In Revenue",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2kyN2lpSGNkYUthc0ZoaUJnc05FVm8yWTNkc2Z4LVlCUDZJYktyR1dNSVlDVTgzbGlMZGJrS3diYnRRQmZmRVNwZ2JYRkNXRndkS2c5c1BpMy1SSHdYV1JhcnpQdWdOa2NrZUJuT0ZWWkJ0Wlk4MjE2OURDeHNFeW1jYXg5eUpOQnZ3UlljQ3c5ZVYtT3FMWktIVm5VYTdnUWdR0gGoAUFVX3lxTE1vNjYxSmNWekRBTXNHd1VEYmJ2Yk1aYTJkSEU0dXlSdVJXbzNiV3JSU21OZFkzN2xzNk52MGpRT3QyQmNOZUktbFF3YzBBQ1JRQWZadlktd3J2QXpNS1FKc1Fqc0w5Q09XRkZLZXlyQ3c0Z3NiNEZOeFhiNjFKQjZ5Y2hSY1E1SUN0MXV3eHZGbmZhUERUM3EwbWN1blVSM1hzRlNkRTNRTw?oc=5",
+     "published_at": "2026-10-07T07:00:00.000Z",
+     "amount_hint": "$60 Million",
+     "snippet": "TeddyHoldings.AI Raises $60 Million Seed Round And Surpasses $25 Million In Revenue Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "mecka",
+   "company_guess": "Mecka AI",
+   "amount_hint_usd": 60000000,
+   "articles": [
+    {
+     "id": "b063b19006d3",
+     "group_key": "mecka",
+     "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+     "publisher": "TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1J1WXZfQjlyeEpYUVB3N3N1WmtXRll6X01oQ05nbnlaR09qcU1OYmVsS0p6aDlWMUtNOXM1RGlIdjNQNlV4dG5pb3pZUldoa1BmVlYtOGZwcEI1R1ZreFBHd3lhNjJaangySEZRa1RxWlFvbHlZcm5jZHp5ejJ0WGt1aFNVYzJrTGhmOQ?oc=5",
+     "published_at": "2026-10-07T07:00:00.000Z",
+     "amount_hint": "$60M",
+     "snippet": "Robot data startup Mecka AI nabs $60M from Sequoia TechCrunch",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "85b7e8b2ab24",
+     "group_key": "mecka",
+     "title": "Mecka AI raises $60 million to teach humanoid robots how humans move",
+     "publisher": "The American Bazaar",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ3VkcGViOHRpNGJIdVVTbTFHTnAzZWM4cUhEeDZBUlFGejU3eFVOVWJBZW4tNHRDWTRHUlRHM3JHeTVEcmtnUHlDVUxGYWVrWERLUEVzRkNMLWo1TE1ycmNnSTRPQkY1SFZSRV9DZ0F4T3dFeXpvYUdwWTRGbUxZZ3hlQ25EY195SGJsNzFPR1hLckxzbGtVQy1EMzdheWZVWmxRYUlMbEVHRW9TcEozSFctYkcxRVg2V2Zn?oc=5",
+     "published_at": "2026-10-08T07:00:00.000Z",
+     "amount_hint": "$60 million",
+     "snippet": "Mecka AI raises $60 million to teach humanoid robots how humans move The American Bazaar",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "48c9242d7393",
+     "group_key": "mecka",
+     "title": "Mecka raises $60M Series B led by Sequoia to build robotics training data",
+     "publisher": "Crypto Briefing",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oLTdwX2lYNHVFRjQ1VG1QaUozelQyQzQ5bkE2TW8xdUZlbTBjX2JpVGo3N0gwZlVWeDVYZlpRci1nelpvYy02a3BJdFBmSWYwWlZEU3NhaTV1dmxjVkZpVWx3eWhiMDJTdE5ZdWZB?oc=5",
+     "published_at": "2026-10-07T07:00:00.000Z",
+     "amount_hint": "$60M",
+     "snippet": "Mecka raises $60M Series B led by Sequoia to build robotics training data Crypto Briefing",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "326b0707165c",
+     "group_key": "mecka",
+     "title": "Mecka AI Raises USD 60 Million as Humanoid Robot Race Fuels Data Demand",
+     "publisher": "Analytics Insight",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDBKYWJIeUR2TG15X1RRME9qTi13eWtZVUZGdXRkVVAyYXhfaHk4b2NkaTc5cFY1Y21rNDJWZ0w5eHQxbl9lVVN5RUxGb1JTM2tpLUI3c05GbVdEeVgteFdTQjVXazdqSWcteTh4OWY2cXBxUjdwdjhFRlRCS200c2dDQ3lQTFl2VElIeFFMeHRvZWN2LXdFbldRbV9tdU5lb0JadmJiZlF5QnYza0HSAbsBQVVfeXFMTmxfRTRURXVWZGpXc1lhdU5PXzhoZ0ZHQXgtcjk2ckh5aVdLNVRkcDFrSVpRbzR0RTdfU2NCM0RxTXY4Nlg3S1EwMmRHYW9BcE1mdVUwWVhEMDhuYzh2QmNVSzhZS1JBV0ZJLS1LUmNPcVFCTWpGZ2Zwal9sTEdvcFR6WUt4aENfZHc5MjN3U3hkck1SdW5Vb2hMYUIwWWFVdzU0TGd5cC1DMExDM2UxMW5XN2UzMkFZLVk4QQ?oc=5",
+     "published_at": "2026-10-08T07:00:00.000Z",
+     "amount_hint": "USD 60 Million",
+     "snippet": "Mecka AI Raises USD 60 Million as Humanoid Robot Race Fuels Data Demand Analytics Insight",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "hone austrian founder moritz",
+   "company_guess": "Hone: Austrian Founder Moritz",
+   "amount_hint_usd": 60000000,
+   "articles": [
+    {
+     "id": "bbd383b8cbb9",
+     "group_key": "hone austrian founder moritz",
+     "title": "Hone: Austrian Founder Moritz Stephan Raises $60 Million for A.I. Agents",
+     "publisher": "trendingtopics.eu",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iaC1TMFZzTi1IeHhtd2RXbGRPaWEtbS1sQVc0ODdOZjBxOGxqVXhiUmVJRWlteElFSk41NnFmbmNxTmFneHR0bGs2cF9qV29JRmVEVThNZXhYV040WnI2bk9vRjFlVklVUXFYSi1R?oc=5",
+     "published_at": "2026-10-09T07:00:00.000Z",
+     "amount_hint": "$60 Million",
+     "snippet": "Hone: Austrian Founder Moritz Stephan Raises $60 Million for A.I. Agents trendingtopics.eu",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "by venture partners",
+   "company_guess": "BY Venture Partners",
+   "amount_hint_usd": 60000000,
+   "articles": [
+    {
+     "id": "99f8863d0254",
+     "group_key": "by venture partners",
+     "title": "BY Venture Partners raises $60 million to back AI startups",
+     "publisher": "My Startup World",
+     "url": "https://mystartupworld.com/by-venture-partners-raises-60-million-to-back-ai-startups/",
+     "published_at": "2026-10-29T11:39:29.000Z",
+     "amount_hint": "$60 million",
+     "snippet": "BY Venture Partners raises $60 million to back AI startups My Startup World",
+     "text_status": "ok",
+     "text": "BY Venture Partners raises $60 million to back AI startups\nMy Startup World Staff\nOctober 29, 2026\nComments Closed\n0 like\nBY Venture Partners, a global early-stage venture capital firm headquartered in Dubai, today announced the successful $60 million close of its third vehicle, Fund III. The fund is anchored by the Dubai Future District Fund (DFDF), with participation from established regional institutions, corporate venture arms, and prominent family offices, including leading regional player in AI and high-speed data infrastructure Multi Lane, Transmed Capital, and the Idriss Family Office (KSA). Fund III expands BY Venture Partners’s total Assets Under Management (AUM) to over $200 million.\nEmpowering AI-Native Founders from a Regional Powerhouse\nFund III will invest primarily up to $1m at the Pre-Seed to Series A stages into AI-native companies that reimagine enterprise workflows and scale globally from day one.\nHeadquartered in the UAE, BY Venture Partners operates from a region embracing AI at a pace. McKinsey’s November 2025 GCC survey found that 84% of organisations used AI in at least one business function, up from 62% in 2023. The firm invests across more than 16 international markets, with two-thirds of its capital deployed outside the MENA region across North America and Europe. Early momentum for Fund III is already underway, with 15 investments deployed to date out of a planned 40-company portfolio, including PQ Shield, Cosyne, Isometric, Huspy and Invisible.\n“We are thrilled to officially announce Fund III today,” said Ghaith Yafi, Founding Partner at BY Venture Partners. “The focus of this fund is to back AI-native companies with global ambitions. We are particularly excited about the opportunity to attract some of the world’s most innovative AI companies into the Middle East and connect them with the region’s rapidly growing technology ecosystem. We are executing on a thesis designed to generate strong, long-term returns for our partners.”\nInstitutional backing for regional impact\nThe anchor commitment from DFDF reinforces BY Venture Partners’s role in elevating the Middle East as a global tech hub and bridging regional capital with international deal flow.\n“We committed to Fund III because BY’s model works in both directions. It brings global AI-native companies into Dubai and takes founders from this region into international markets, and that exchange is what Dubai’s Economic Agenda D33 asks of us. Ghaith, Abdallah, Rami, Sohrab and the team have built and exited companies themselves and have managed capital through a full market cycle. The flow of companies and founders across that bridge is the basis on which we will measure this partnership,” said Nader Albastaki, Managing Director, Dubai Future District Fund (DFDF).\n“We have been firm believers in BY Venture Partners since inception, and we are delighted to contribute to the firm’s Fund III, to help back up-and-coming AI-first startups in the region,” said MultiLane Founder and CEO Fadi Daou. “As an ecosystem builder myself, as well as a former entrepreneur, BY’s vision fully aligns with ours.”\nRebuilding Ecosystems: The Lebanese Angel Investor Network (LAIN)\nRooted in a commitment to ecosystem building, BY Venture Partners won the MITAI-backed mandate to manage and operate the Lebanese Angel Investor Network (LAIN). LAIN connects global diaspora capital with early-stage Lebanese founders, creating a structured pipeline for early-stage capital and connecting the"
+    }
+   ]
+  },
+  {
+   "group_key": "albert",
+   "company_guess": "Albert",
+   "amount_hint_usd": 55000000,
+   "articles": [
+    {
+     "id": "fd036b298578",
+     "group_key": "albert",
+     "title": "Albert Raises $55M Series B to Scale the First Chemistry-Native AI",
+     "publisher": "Business Wire",
+     "url": "https://albert.com/login",
+     "published_at": "2026-10-13T07:00:00.000Z",
+     "amount_hint": "$55M",
+     "snippet": "Albert Raises $55M Series B to Scale the First Chemistry-Native AI Business Wire",
+     "text_status": "thin",
+     "text": "Log in\nEmail\nPassword Forgot password? Submit\nNew to Albert? Sign up"
+    },
+    {
+     "id": "162fb7dc2992",
+     "group_key": "albert",
+     "title": "Albert Raises $55 Million Series B to Expand AI Platform for Chemistry Research",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNFozbkQyQTlmYUlXZHBMWDdjQzE5OUl5dTF3UHAxNEc2akpQZ3I4Z1R3elhIUEtvYzV2c0JnUU1JRDRKME9hSl9EQ3dNNS1reExYQzJHX1NRVFJzODRBMVNXakpPbkpZVjF2TTNFRUlFYXQ2dGRtdG5lVFJTM0VaUlZvZ3J5MENDYTNjMnhyenVERFNzb0tYMnhyby1tdm5Yd3dMQkVUTEw0Uk5pbkFYWWw1OXYtdXdD?oc=5",
+     "published_at": "2026-10-13T07:00:00.000Z",
+     "amount_hint": "$55 Million",
+     "snippet": "Albert Raises $55 Million Series B to Expand AI Platform for Chemistry Research citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "6f8ab92bd9f7",
+     "group_key": "albert",
+     "title": "Albert Raises $55 Million Series B Led By TCV To Scale Chemistry-Native AI For R&D",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNallhb29jYWNTTHhhUTBXQWxwbWZEd3BaeW1pU3FhaWNIaE9VZHY4RjU3MmVmcEtKZXlyWnNLZU0tbl93ckxFZUNxbFktVFNGdS03T0Zvek95TTdxcnU1YlRfMUE4QmpjdGgxeF9VT3gxQU5vdHh1SFg0U1NjWmdfZHVMZzh6NG94bF9tXzJMY3doQjRJWWtVNk1SZGF6bXlUM1E?oc=5",
+     "published_at": "2026-10-20T07:00:00.000Z",
+     "amount_hint": "$55 Million",
+     "snippet": "Albert Raises $55 Million Series B Led By TCV To Scale Chemistry-Native AI For R&D Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "4179996c13af",
+   "company_guess": "AI",
+   "amount_hint_usd": 55000000,
+   "articles": [
+    {
+     "id": "4179996c13af",
+     "group_key": "4179996c13af",
+     "title": "AI Assistant Startup Wabi Raises $55 Million at $1.25 Billion Value",
+     "publisher": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWI0WEhWVE9WZUtfekpYcnlQdkI5bm5SSTNyenA3Y2NtZHZjakhEZnNTM3hNMUdEX1Rjclc5X0pZRnVuYmFJSGZXRWtScXBoQjVOb2Z4MVZLQWowUGFvV2VjVXVKcG0wXzBmeG1CZUtEbHdfbFU1WVQ1ZGVtT05JTURrMUlDUmFoVXJoMGRBY0pTbEJHUXlwTEk2bXRHNmZLd2hZd0V1MVJTc3hFM0ZETjF3Q09ZZ2s?oc=5",
+     "published_at": "2026-10-29T07:00:00.000Z",
+     "amount_hint": "$55 Million",
+     "snippet": "AI Assistant Startup Wabi Raises $55 Million at $1.25 Billion Value Bloomberg.com",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "wabi",
+   "company_guess": "Wabi",
+   "amount_hint_usd": 55000000,
+   "articles": [
+    {
+     "id": "818a6bc476dd",
+     "group_key": "wabi",
+     "title": "Wabi Raises $55 Million Led by IVP at $1.25 Billion Valuation",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOC1GdHNzVi1ZUFlLQXNTU1hneE9fZU1GeDZPNWdwUV9OUHktVmNPQU9VY3lSTEh4YzUtbHgyb0RvamltMGM3XzhYbHpYN3IxQm5fWmpjVHBZV3VKbnktZmRBTjlIY1pib0hTNEMyT0RWMWswSF9NamxVcnYzbUJobkdGMlh1d09RS2NwN0k1OHpEeXZHaFJ3aVNNR3M5X00?oc=5",
+     "published_at": "2026-10-29T07:00:00.000Z",
+     "amount_hint": "$55 Million",
+     "snippet": "Wabi Raises $55 Million Led by IVP at $1.25 Billion Valuation citybiz",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "cc9b57c64747",
+     "group_key": "wabi",
+     "title": "Wabi Raises $55 Million for AI Assistant to Coordinate Groups",
+     "publisher": "PYMNTS.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVZ4dVZ2ZTJDaldFZl8yM2ZrVGE1b0dGbEJ5MERTcVBuVWVSV09jWDB4RW5KQ1FPQXZQVEJGNVVmOVNaWHd6NGhwVWNBZGIxZGtXSTFISWF2ZzRpQi1NR01oTnRhcmgxbmNiNGlTanFXR2o0SHQ2bmg3WnFDdnJhckZmS2NRaVBHWGZmRHpWa2lpcktXU1hJb1ZKZFktYVJYc2RjaHdaaHZNcU1KU3MzTWEyRQ?oc=5",
+     "published_at": "2026-10-29T20:11:00.000Z",
+     "amount_hint": "$55 Million",
+     "snippet": "Wabi Raises $55 Million for AI Assistant to Coordinate Groups PYMNTS.com",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "londons metaview",
+   "company_guess": "London's Metaview",
+   "amount_hint_usd": 53100000,
+   "articles": [
+    {
+     "id": "9a8031880214",
+     "group_key": "londons metaview",
+     "title": "London's Metaview raises €53.1 million Series C led by Insight Partners to scale its agentic recruiting platform - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMEh1Uk1MUUpLV3F3NE9GWWpVbXJRTF92NWxZLVF0UlhyaWJpa1ZKdzc3TjFsQ25TcHFCNzFCVmUtaEVjR3ZTZ2JGWll5OGJWeFYxYU1SdzlMTjk2TFNhaFdycjAzcXV4b0k2c1JDeGRJUTFNRkQyVmN6LVFhY0lrQmR2ajVXR1FoS0VmaE1qcnpQOEtZa0p4TGtPSXh4ekpfR29xVktoaUV5MFpPUUpfN0JMaEVKZjRsbXEwLXNsZVFMTF9hbDdJZGI0SkVYcnlMRkphLWl0UXczNk52aDlBY3pn?oc=5",
+     "published_at": "2026-10-01T07:00:00.000Z",
+     "amount_hint": "€53.1 million",
+     "snippet": "London's Metaview raises €53.1 million Series C led by Insight Partners to scale its agentic recruiting platform EU-Startups",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

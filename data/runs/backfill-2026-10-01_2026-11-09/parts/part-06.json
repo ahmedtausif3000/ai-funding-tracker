@@ -1,0 +1,244 @@
+{
+ "run_date": "backfill-2026-10-01_2026-11-09",
+ "part": 6,
+ "groups": [
+  {
+   "group_key": "warp sciences",
+   "company_guess": "Warp Sciences",
+   "amount_hint_usd": 215000000,
+   "articles": [
+    {
+     "id": "d09c1b4284bf",
+     "group_key": "warp sciences",
+     "title": "Warp Sciences Emerges From Stealth With $215M for AI-Powered Chemistry Labs",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VN1NubnJQTFZQcTFaanZSSVNHanBwRWw0ZW1Zb2dYX2ozUERLbmFXb21na09nUXJIeDB0eXpiVnVZV1U3WUZXOWJkcUFFY05IT1pjLVMwbmV1WlNJUTVmclAzQ2FxZE83dlNzVVEtMFZsd1VEbnc?oc=5",
+     "published_at": "2026-10-22T07:00:00.000Z",
+     "amount_hint": "$215M",
+     "snippet": "Warp Sciences Emerges From Stealth With $215M for AI-Powered Chemistry Labs Unite.AI",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "89669b2a9823",
+     "group_key": "warp sciences",
+     "title": "Warp Sciences Emerges From Stealth With $215 Million to Build U.S. Chemistry Services for Drug Research",
+     "publisher": "01net",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaDZlX2RwUkxwTnNBZnJTMGYzU3h1cVE5NlVnMlhZYVIyZWF0TlRUY0lnbmowVnlzU2x6VzVLc3NCZExyYnZXenBibGV0SFUyellIN1JWRmx2OEstaUkxRHhWZjVyWmdWbkRiMEp0a3VxTjJpMDlINVVKNjVLT1E2S05CWWhTdU1oaFNsY2RGYU9ocUZYV1hlMzFqbHZrLVhoaTNqUGtwazhINW5TZnc5R3VjSnVncTFGc05JRG9ZcmQ?oc=5",
+     "published_at": "2026-10-22T07:00:00.000Z",
+     "amount_hint": "$215 Million",
+     "snippet": "Warp Sciences Emerges From Stealth With $215 Million to Build U.S. Chemistry Services for Drug Research 01net",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "f7acf7446d6a",
+     "group_key": "warp sciences",
+     "title": "Warp Sciences Emerges From Stealth With $215 Million In Funding To Build AI-Powered Drug Discovery Chemistry Labs",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ1loMkRTNlluOUlXQmktZ3ByMHNCUW9GZVp5YW5aZDJFQ2tlT2lRWkxPb1ZMNnQ5X0dPVGdyRG9JVmctWE1vNXJ0N05HTi1OelJhT2pPd196eDBab1VJSlJ4aU5uM2xkV053N2ZXTjB6UVRaWlZaTngwWXUzZDloSUYtR3BzQUs5eTYxRk0yTlNvdlVRM0ljNGtyVlUxdnpoTE5WMWxyQkp4V2swVGN3NG5ocWowVVJGb05iYUI0UXlNdWdKcXBuNjVpMEM?oc=5",
+     "published_at": "2026-10-22T20:25:48.000Z",
+     "amount_hint": "$215 Million",
+     "snippet": "Warp Sciences Emerges From Stealth With $215 Million In Funding To Build AI-Powered Drug Discovery Chemistry Labs Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "palebluedot",
+   "company_guess": "PaleBlueDot AI",
+   "amount_hint_usd": 200000000,
+   "articles": [
+    {
+     "id": "4fd443ef7075",
+     "group_key": "palebluedot",
+     "title": "PaleBlueDot AI Raises $200M Series C Round to Scale Super Intelligence Infrastructure Platform",
+     "publisher": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ1NQNDhJRXNRblc2VlJYT3FoLTZ2R3RmcWFZZVNiUDlOenhzUnI2TEl3aUhWS2JieERHbU04LXRrcEYxbUJBaGdTUENTUS1KaFhjS3pkLUQ0Y3FDZGJVMW1LTHRMQWNxWEFJVE1iaHZTT3A3REpMMEs4MTFPTUgtZThxREVsaGtEZ0dVUl9HbVY2SDJUUGJ6SG9XUHViLUF3Wk9tYjl6dnJBdmZKekI0b0VtS0drMl9MZncydHhTaDFUYjJQeVhyMHFVUkdHN25QOS14aTl5V2JJRU9SRzdLeENQUQ?oc=5",
+     "published_at": "2026-10-01T07:00:00.000Z",
+     "amount_hint": "$200M",
+     "snippet": "PaleBlueDot AI Raises $200M Series C Round to Scale Super Intelligence Infrastructure Platform PR Newswire",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "e905950ebfcc",
+     "group_key": "palebluedot",
+     "title": "PaleBlueDot AI Raises $200M in Series C Funding",
+     "publisher": "FinSMEs",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanhQRjNhMWlCSUd0TkZjRTFyNlNOYzVxd2tzTEpacmF5enA4YzJybDZVRXphRGZoSGZ0bGkxRUk3OVRWOXd4YWxPLWZkeDRYUzFsUFV6TWlxUzdqQ2FBUlpDcmYxS1R3R2dmR0hqUTN4bWJyR3hlajVvLXFsVTBxQUxrZUhKSWRSY0Uw?oc=5",
+     "published_at": "2026-10-02T07:00:00.000Z",
+     "amount_hint": "$200M",
+     "snippet": "PaleBlueDot AI Raises $200M in Series C Funding FinSMEs",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "1b372f0c3222",
+     "group_key": "palebluedot",
+     "title": "PaleBlueDot AI Raises $200M Series C Round to Scale Super Intelligence Infrastructure Platform",
+     "publisher": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeGxSMWd3SUtXdlI1dXFrV1lHbkR4VVJRS2oyeUdyR2pEVWg5RXhLc1FzWllHTURyemRuSVIzcm5aY3B0UWlwVjFzZWFhU3VmZTJCd0d4UFdiWHVpbTNpcG14aDNCZ0NVdUR4N1FIaXI2QlFwUXJnd2hsWEdTTURPY3REUTFwY09obnEtTE9GY1BxcVZRcmw5bm5jcGZoQQ?oc=5",
+     "published_at": "2026-10-01T07:00:00.000Z",
+     "amount_hint": "$200M",
+     "snippet": "PaleBlueDot AI Raises $200M Series C Round to Scale Super Intelligence Infrastructure Platform Yahoo Finance",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "ledgebrook",
+   "company_guess": "Ledgebrook",
+   "amount_hint_usd": 200000000,
+   "articles": [
+    {
+     "id": "d237d2f73e2d",
+     "group_key": "ledgebrook",
+     "title": "Ledgebrook raises USD 200 million in primary equity financing co-led by Allianz X to scale AI-native specialty insurance platform",
+     "publisher": "Morningstar",
+     "url": "https://www.prnewswire.com/news-releases/ledgebrook-raises-usd-200-million-in-primary-equity-financing-co-led-by-allianz-x-to-scale-ai-native-specialty-insurance-platform-302899921.html",
+     "published_at": "2026-10-07T07:00:00.000Z",
+     "amount_hint": "USD 200 million",
+     "snippet": "Ledgebrook raises USD 200 million in primary equity financing co-led by Allianz X to scale AI-native specialty insurance platform Morningstar",
+     "text_status": "ok",
+     "text": "Ledgebrook raises USD 200 million in primary equity financing co-led by Allianz X to scale AI-native specialty insurance platform\nNews provided by\nLedgebrook\nOct 07, 2026, 08:00 ET\nShare this article\nShare this article\nFunds will scale Ledgebrook's tech-led approach to U.S. specialty underwriting, covering custom and complex insurance needs\nLedgebrook on track to surpass USD 1 billion in cumulative premium written since it started writing business in 2023\nInvestment expands Allianz X's U.S. property and casualty (P&C) platform into mid-sized general liability risks in excess and surplus (E&S) market\nAllianz Re agrees to enter a multi-year reinsurance agreement with Ledgebrook\nBOSTON and MUNICH , Oct. 7, 2026 /PRNewswire/ -- Ledgebrook, the AI-native specialty insurance platform, today announced it has raised USD 200 million in primary equity financing co-led by Allianz X, the strategic investment arm of the Allianz Group, and Rockefeller Capital Management. Existing and new investors also participated. Ledgebrook will use the funds to scale its technology and extend Blackbird, Ledgebrook's proprietary AI-native underwriting platform. Separately, Allianz Re has agreed to enter a multi-year reinsurance agreement with Ledgebrook.\nContinue Reading\nGage Caligaris, founder and CEO, Ledgebrook and Dr. Nazim Cetin, CEO, Alllianz X\nHeadquartered in Boston, Ledgebrook sits between the brokers who need cover for hard-to-place risks and the capital that backs them, running on technology it built from the ground up. It writes general liability, professional liability, and specialty cover for mid-sized-market businesses in the E&S market, distributed exclusively through wholesale brokers. Ledgebrook's proprietary AI-based platform, Blackbird, reads submissions, classifies risk, and calculates a technical price, quoting specialty risks, often in hours rather than weeks, with experienced underwriters making the final decision. As such, brokers, and therefore their clients, get fast, reliable answers on placing risks. Ledgebrook's approach has put it on track to surpass USD 1 billion in cumulative premium written since it started writing business in 2023.\nGage Caligaris, Founder & CEO of Ledgebrook, said : \"Our vision is for Ledgebrook to be the company that makes the wheels of insurance spin faster. Businesses with complex risk deserve specialized underwriting, rated with rigor and delivered at speed. Our platform lets our underwriters do that with real discipline. Allianz X backing gives us the capital to keep investing in technology and talent. We're building this company for the long term.\"\nDr. Nazim Cetin, CEO of Allianz X, said: \"The industry is applying AI to its simplest risks first, because that is where automation comes easily. We think the larger prize sits at the other end, in complex, hard to place business, where underwriting judgment is scarce and slow decisions cost the most. That's exactly the gap Blackbird is built to close, and it's why Ledgebrook fills a meaningful space in our U.S. P&C platform.\"\nJohn Mullen, President of E&S at Ledgebrook, added : \"E&S is seeing strong multi-year growth. Admitted carriers tightened their appetite and pushed risks that were once routinely placed in the admitted market into this channel, and we're excited about accelerating the delivery of value to our distribution partners and insured customers in this segment.\"\nThis investment both scales and diversifies Allianz X's U.S. P&C platform, which is buil"
+    }
+   ]
+  },
+  {
+   "group_key": "arena",
+   "company_guess": "Arena",
+   "amount_hint_usd": 200000000,
+   "articles": [
+    {
+     "id": "a50a3defbebc",
+     "group_key": "arena",
+     "title": "Arena raises $200 million as valuation nearly doubles to $3.1 billion",
+     "publisher": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KNk1KVzJvSXpyWHZrZ1EzVXhwZk1xLXYxejhUTWJiSkNwMXVuWnpmelRIZWxuRVYtU0gwRHlHMkRrMzZrVi1uekpqM3IxTzBJQjBMNzJYUmR5aGZnZl9SMEExTzc?oc=5",
+     "published_at": "2026-10-08T07:00:00.000Z",
+     "amount_hint": "$200 million",
+     "snippet": "Arena raises $200 million as valuation nearly doubles to $3.1 billion Mezha.net",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "warhound",
+   "company_guess": "Warhound",
+   "amount_hint_usd": 200000000,
+   "articles": [
+    {
+     "id": "00a0baaa6fef",
+     "group_key": "warhound",
+     "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+     "publisher": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+     "published_at": "2026-10-22T07:00:00.000Z",
+     "amount_hint": "$200M",
+     "snippet": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear TechCrunch",
+     "text_status": "ok",
+     "text": "Colossal Biosciences’ Ben Lamm and Anduril’s Palmer Luckey had an idea to genetically engineer war dogs for the U.S. military, law enforcement, and other emergency response teams. On Thursday, that idea came out of stealth as Warhound , backed by $200 million in funding from investors including Sequoia, 8VC, Corner Ventures, and In-Q-Tel, a venture firm backed by the CIA and other U.S. intelligence agencies. The round values the company at $1.2 billion.\nWarhound’s dogs, which do not exist yet, will take on tasks that are dangerous for humans or difficult for machines, such as bomb detection, searches, and other specialized operations. In its launch announcement, the company said that more than 80% of the U.S. military’s working dogs come from Europe, and less than half of them are fit for service.\nThat means the supply of working dogs is dwindling, and the U.S. increasingly relies on foreign nations for dogs that play an important role in the military and in law enforcement. Warhound aims to change that. The hope is that Colossal can use its technology to engineer dogs with “characteristics suited to demanding missions,” the company said in a press release.\nLamm told TechCrunch he met Luckey about a year ago at a conference, where Luckey said more should be done for the military’s working dogs. The two kept in touch, and Lamm researched how working dogs are bred. He learned that many of them do not make it through training because of inherited predispositions to problems like poor eyesight or the high possibilities of cancer, hip dysplasia, or muscle atrophy.\nLamm believed dogs could be enhanced for health, longevity, and “for things like speed and agility or enhance olfactory sensors for bomb sniffing and whatnot,” he said. His team studied top-performing working dog breeds — the Belgian Malinois and German Shepherd — taking cell lines (living cells grown in a lab) from them and putting them in a biobank. From there, the team will edit the dogs’ genes, adding ones that will improve performance and removing ones that will not, to create “a new type of dog.”\nAnduril, meanwhile, will provide software and hardware, such as protection vests and goggles, to assist the dogs and their handlers with situational awareness and coordination. Lamm said to imagine, for example, bulletproof vests with data sensors that send information back to the handlers so they can better understand what is happening.\n“The idea is, if we make the dog safer, make it healthier, make it perform better, it’s going to perform better in the line of duty,” Lamm said. He added that Anduril’s additions will make the dogs safer and healthier beyond their genetics, “on top of the dog, not in the dog.” He believes the enhancements will also better protect the dogs’ human handlers.\nLuckey is a partner in the venture but owns no equity in it, Lamm told TechCrunch. Colossal owns equity in the business and supports it by licensing its technology.\nColossal is currently known for its de-extinction efforts to bring back animals like the dodo and the mammoth . As Lamm previously told TechCrunch, the company has been using AI, buying and building technology to help with gene cloning and with identifying and copying animal genes.\nLamm said the first batch of dogs is about to be cloned and incubated, with births expected early next year and service ideally beginning within two years. Viagen, another Colossal-owned company, will partner with Warhound to clone the dogs. Lamm said Viagen’s"
+    }
+   ]
+  },
+  {
+   "group_key": "verda",
+   "company_guess": "Verda",
+   "amount_hint_usd": 189000000,
+   "articles": [
+    {
+     "id": "83c6161e3f80",
+     "group_key": "verda",
+     "title": "AI cloud startup Verda raises $189m in Series B funding round",
+     "publisher": "Data Center Dynamics",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmhMVXZJSXFmRXF0Nm9SY1h5SEdMSms4N2hHMmtFM2tIT1p2S0I5M2RqVnE2SWliZVFCSmdtQlZNSE5HdkhIeml0OElmeVp5X09nem9lNk8yMWNuM3MyaHBCTU5jNEg2cDVuOTBRVkZWOUZTLWlYaUtiMW50cGlQNWlvWDUxY0JuYm5TbHMxR2gyLXJUMDdDZ1N2eHNLTWVkWUVKbWhpWQ?oc=5",
+     "published_at": "2026-10-05T07:00:00.000Z",
+     "amount_hint": "$189m",
+     "snippet": "AI cloud startup Verda raises $189m in Series B funding round Data Center Dynamics",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "between october 26 and",
+   "company_guess": "Between October 26 and",
+   "amount_hint_usd": 171000000,
+   "articles": [
+    {
+     "id": "d8a4737d3866",
+     "group_key": "between october 26 and",
+     "title": "Between October 26 and October 31, 2026, as many as 29 Indian startups from diverse sectors raised over $171 million in funding from investors. These sectors include Healthtech, Fintech, Luxury, Ecommerce, Traveltech, Manufacturing, Robotics, Autotech, M",
+     "publisher": "Instagram",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnNmhGRDBJRUJKZHJMYl9XY0FWc3JpeHlPX0UtbWxwT3l6RmZZY0FWNjRCV0pZalduWUtNZTJ0aFFYN3pQbzlDVnhzWTg1c0hNUnc?oc=5",
+     "published_at": "2026-11-02T05:18:59.000Z",
+     "amount_hint": "$171 million",
+     "snippet": "Between October 26 and October 31, 2026, as many as 29 Indian startups from diverse sectors raised over $171 million in funding from investors. These sectors include Healthtech, Fintech, Luxury, Ecommerce, Traveltech, Manufacturing, Robotics, Autotech, M Instagram",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "6 contech firms",
+   "company_guess": "6 contech firms",
+   "amount_hint_usd": 154000000,
+   "articles": [
+    {
+     "id": "cec1c2a3f352",
+     "group_key": "6 contech firms",
+     "title": "6 contech firms raise $154M in recent funding",
+     "publisher": "Construction Dive",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhrX2QtelJ0WnY4LTdaNnBmY3plTVR1Y2VLOFNNSmluYVFvQ3hJS095YVo4djNqa3Q0SkVoZmxkY25USmtlQVR5NVd4NlVlX3l3M3dkbElORHI0N0pxdkEyaVpVWFFGX1FzdF9UbG9KWnk0VEVIbEhkZF82d3V6SUhCVFFGTGdVMjN6Yk02Ui1RVkhjT0QtWA?oc=5",
+     "published_at": "2026-10-21T07:00:00.000Z",
+     "amount_hint": "$154M",
+     "snippet": "6 contech firms raise $154M in recent funding Construction Dive",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "sima",
+   "company_guess": "SiMa.ai",
+   "amount_hint_usd": 150000000,
+   "articles": [
+    {
+     "id": "9989b22905e0",
+     "group_key": "sima",
+     "title": "SiMa.ai raises $150 million in Series C to scale Physical AI",
+     "publisher": "Evertiq",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUxmUzRZWHB6ZzAwQzJ0d2lSVmNDT1JEcFFxNVVaNlJ2WEx2UFNISEhqNW5yRUlNUGNBM3JodDdlMTctaHFPdVVBeXJPMGY1aEVFQkd5T1hkanpybTFYRF9Pb1B2NkdONnpLZVN1Z2QwSlZzVC01b1YyREVDakItbkxUUDUzeS1CQVRvNUIzZERLWnZKTll3eWF3?oc=5",
+     "published_at": "2026-10-05T07:00:00.000Z",
+     "amount_hint": "$150 million",
+     "snippet": "SiMa.ai raises $150 million in Series C to scale Physical AI Evertiq",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "supabase",
+   "company_guess": "Supabase",
+   "amount_hint_usd": 150000000,
+   "articles": [
+    {
+     "id": "530c51115b14",
+     "group_key": "supabase",
+     "title": "Supabase raises another $150M to build the backend for AI coding from Singapore",
+     "publisher": "Asia Tech Review",
+     "url": "https://www.asiatechreview.com/p/supabase-raises-another-150m-to-build",
+     "published_at": "2026-10-05T07:00:00.000Z",
+     "amount_hint": "$150M",
+     "snippet": "Supabase raises another $150M to build the backend for AI coding from Singapore Asia Tech Review",
+     "text_status": "ok",
+     "text": "Supabase raises another $150M to build the backend for AI coding from Singapore\nNew funding comes months after $500M raise and includes strategic acquisition\nJon Russell\nOct 05, 2026\n7\n1\nShare\nWelcome back to Asia Tech Review, your curated digest to keep up to date with tech news across Asia.\nSupabase might just be the best example of a new tech startup in Singapore. It has built a fast-growing and global business that’s been backed with over $1 billion from investors across the world. And it’s building core tools for the agentic era. Today, we look at its newest round, an acquisition and its future goals.\nTo keep up with our issues, follow us on LinkedIn or WhatsApp . Please do share Asia Tech Review with people you know who want to get smart about Asia tech.\nFor news as it happens, follow ATR Bulletin , our real-time news site that keeps you in the know.\nThe tech startup blueprint Singapore wants to see more of\nSupabase, the Singapore-based database platform that helps developers build apps and software, closed a $150 million funding round , just four months after it announced a $500 million Series F round.\nThe round is led by GIC, the Singapore sovereign fund, and it includes Google’s CapitalG fund for the first time. That’s notable as one of the main competitors of Supabase’s developer stack is Google-owned Firebase. Still, Supabase CEO Paul Copplestone said the fund’s “connections to the broader Alphabet ecosystem will be invaluable as we build for our next level of growth.”\nYou don’t typically see a smaller round like this follow a huge raise like Supabase’s Series F, but in this case the startup’s recent growth spurt is such that it appears to need the funds to support continuing to accelerate its trajectory.\n“Supabase is now adding more than 1M users and 4M databases per month with 70% of new databases created by agents or AI-driven tools. The growth follows a 600% year-over-year increase in databases reported in June, when agents were already deploying the majority of new databases on the platform,” the company wrote.\nSupabase has raised over $1 billion in total from investors that include Accel, Peak XV, Craft, Coatue, Y Combinator, Stripe, Salesforce Ventures and Figma.\nIt’s worth recalling what Supabase does. It provides a set of backend tools to enable developers to quickly build and develop apps, websites and other software using a central resource to manage files, authentication, databases and more. In the agentic era which allows software to be created in minutes or hours not days, that’s a particularly key tech stack as Supabase’s numbers seem to show.\nThat explains why, alongside the funding round, it announced that it acquired a startup called Turso , which allows databases to be provisioned on demand. That makes perfect sense for Supabase since vibe- and agentic-coding is sending its numbers skyrocketing, it needs the tools to support faster creation of databases and the plumbing beyond apps, websites and more.\nWhether you create a web app for friends, a private CRM tool for your company or a new product for an existing customer base, Supabase wants to make its tools the go to for Claude, ChatGPT or bots like Muse, Grok Bot or Dots.\nSingapore’s sovereign wealth funds are doubling down on AI startup investments\nJon Russell\n·\nJul 10\nRead full story\nSupabase is the closest example to a modern Singapore tech success story. Its founders aren’t Singaporean, but they met in the country during a cohort for Entrepreneur First"
+    }
+   ]
+  }
+ ]
+}
