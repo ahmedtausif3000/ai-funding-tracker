@@ -1,0 +1,52 @@
+name: fetch-candidates
+
+on:
+  schedule:
+    # 13:00 UTC daily = 5:00 AM PST / 6:00 AM PDT. The Claude routine extracts at 6:00 AM Pacific.
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Lookback window in days"
+        default: "2"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-candidates
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Fetch candidates
+        id: fetch
+        run: |
+          set -o pipefail
+          node scripts/fetch-candidates.mjs --days "${{ github.event.inputs.days || '2' }}" 2>&1 | tee fetch.log
+          echo "run_date=$(date -u +%F)" >> "$GITHUB_OUTPUT"
+      - name: Commit candidates
+        run: |
+          git config user.name "ai-funding-tracker bot"
+          git config user.email "ahmedtausif3000@users.noreply.github.com"
+          git add data/runs data/url-cache.json
+          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+          git commit -m "fetch: ${{ steps.fetch.outputs.run_date }} candidates [skip ci]"
+          git pull --rebase origin main
+          git push origin HEAD:main
+      - name: Upload log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fetch-log-${{ steps.fetch.outputs.run_date }}
+          path: fetch.log
+          retention-days: 14

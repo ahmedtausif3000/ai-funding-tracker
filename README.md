@@ -15,7 +15,7 @@ Pipeline (zero runtime dependencies, Node 20+):
 
 ## Daily automation
 
-A Claude Code scheduled task (cloud routine) runs `ROUTINE_PROMPT.md` every day at 14:00 UTC (6:00 AM Pacific), commits to `main`, and GitHub Pages redeploys `docs/`. Manage it at https://claude.ai/code/routines. Each run leaves `data/runs/<date>/summary.md`.
+Two jobs. (1) GitHub Actions `fetch-candidates` runs at 13:00 UTC and commits `data/runs/<date>/candidates.json` + `parts/` (the Claude cloud sandbox blocks outbound connections to the feed hosts, so fetching lives here). (2) A Claude Code scheduled task (cloud routine) runs `ROUTINE_PROMPT.md` at 6:00 AM Pacific: extraction from the committed parts, validate, merge, build, commit to `main`. GitHub Pages then redeploys `docs/`. Manage it at https://claude.ai/code/routines. Each run leaves `data/runs/<date>/summary.md`.
 
 To run a day by hand: `npm run fetch -- --days 2`, write `extracted.json` per the contract, then validate, merge, build, commit, push.
 

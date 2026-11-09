@@ -51,6 +51,16 @@ for (const src of sources) {
   await sleep(300);
 }
 
+// ---- guard: total outage must not clobber an earlier good run for the same date ----
+const okFeeds = feedStats.filter((f) => f.status === 200).length;
+if (okFeeds === 0) {
+  const failPath = path.join(RUN_DIR, 'fetch-failed.json');
+  fs.writeFileSync(failPath, JSON.stringify({ run_date: RUN_DATE, at: new Date().toISOString(), feeds: feedStats, note: 'all feeds failed; existing candidates (if any) left untouched' }, null, 2));
+  log(`ALL ${feedStats.length} feeds failed; wrote ${failPath} and left candidates untouched`);
+  console.log(JSON.stringify({ run_date: RUN_DATE, error: 'all_feeds_failed', feeds_ok: 0, feeds_total: feedStats.length, dir: RUN_DIR }));
+  process.exit(3);
+}
+
 // ---- prefilter ----
 const dropped = { not_funding: 0, no_ai_hint: 0, below_min: 0, fund_close: 0, seen: 0, duplicate_link: 0, known_round: 0 };
 const FUND_RE = /\b(fund\s+(?:[IVX]+|\d+|one|two|three)\b|(?:first|final|initial) close|closes? (?:its|a|an|new|\$[\d.]+\s?\w+ )?(?:\w+ ){0,3}fund\b|venture (?:capital )?firm|vc firm|capital raises|investment firm|asset manager|raises .{0,40}\bfund\b|fund of funds|for (?:its|new) fund)/i;
