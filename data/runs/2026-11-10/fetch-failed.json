@@ -1,0 +1,142 @@
+{
+  "run_date": "2026-11-10",
+  "at": "2026-11-10T14:08:57.271Z",
+  "feeds": [
+    {
+      "id": "gnews-1",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "gnews-2",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "gnews-3",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "gnews-4",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "gnews-5",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "gnews-6",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "gnews-7",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "gnews-8",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "gnews-g1",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "gnews-g2",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "gnews-g3",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "gnews-g4",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "gnews-g5",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "gnews-g6",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "gnews-g7",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "gnews-g8",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "gnews-g9",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "prnewswire-vc",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "alleywatch",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "pulse2",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "citybiz",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "techcrunch-venture",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "techcrunch-funding",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "techcrunch-ai",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "techfundingnews",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "crunchbase-news",
+      "status": "error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "crunchbase-news-ai",
+      "status": "error",
+      "error": "fetch failed"
+    }
+  ],
+  "note": "all feeds failed; existing candidates (if any) left untouched"
+}
