@@ -1,0 +1,220 @@
+{
+ "run_date": "recall-2026-10-01_2026-10-22",
+ "part": 12,
+ "groups": [
+  {
+   "group_key": "island",
+   "company_guess": "Island?",
+   "amount_hint_usd": 400000000,
+   "articles": [
+    {
+     "id": "6791957b3432",
+     "group_key": "island",
+     "title": "Island?announces $400 million Series F, bringing valuation to $6.4 billion",
+     "publisher": "Medianet News Hub",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbFdoT2dFSi1tM3I5UDZhWDZmT3ZwTW12NEU0d2Q3Znl5d2QyQnRUVnJpVjRZbzhNMUkxSFVuS1dNdm0yT3FHMF8xNk15RVlvbDRHcHNaWEttd1E0Wmp6dUFhN3VtSG5sU1p5ODhoUzFOVVc3dXVZTGgwUVBPZ3FMUnp6dDk1cVZCVjV3WnRjSUlXQmt6WVBqcHphYXdxaldXZGQza2hnZzY3bk9IcU1BNGc5M0Z6dEo5bEE?oc=5",
+     "published_at": "2026-10-06T07:00:00.000Z",
+     "amount_hint": "$400 million",
+     "snippet": "Island?announces $400 million Series F, bringing valuation to $6.4 billion Medianet News Hub",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "deepseek leads 400 million",
+   "company_guess": "DeepSeek leads $400 million",
+   "amount_hint_usd": 400000000,
+   "articles": [
+    {
+     "id": "6bbf6efc3f7b",
+     "group_key": "deepseek leads 400 million",
+     "title": "DeepSeek leads $400 million funding round for ex-Tencent scientist's robot AI startup",
+     "publisher": "Startup Fortune",
+     "url": "https://startupfortune.com/deepseek-leads-400-million-funding-round-for-ex-tencent-scientists-robot-ai-startup/",
+     "published_at": "2026-10-12T07:00:00.000Z",
+     "amount_hint": "$400 million",
+     "snippet": "DeepSeek leads $400 million funding round for ex-Tencent scientist's robot AI startup Startup Fortune",
+     "text_status": "ok",
+     "text": "China's low-cost AI lab has mostly built its reputation on open-weight language models. Its investment in Unitree Robotics shows how quickly that strategy is moving toward embodied AI.\nDeepSeek's clearest verified robotics move so far is its investment in Unitree Robotics' Shanghai IPO. In August, DeepSeek put 140.8 million yuan into the offering, about $20.8 million. That's according to a stock-exchange filing reported by Reuters. Unitree priced the deal at 150.80 yuan a share and raised about 6.1 billion yuan.\nThe timing fits a broader capital push. Bloomberg reported on October 6 that DeepSeek was close to securing at least 80 billion yuan, about $12 billion, in a new funding round backed by Tencent and battery giant CATL. That follows DeepSeek closing its first external financing earlier in 2026. The round hadn't been announced as closed, but the fundraising reports show how quickly investor interest has built around a lab that spent its first two years building reputation almost entirely on open-weight language models.\nThat deal came paired with a procurement pact: Unitree gets priority when buying model-training services and technical solutions from DeepSeek, while DeepSeek gets priority when buying robots or pursuing embodied-AI applications with Unitree. Unitree's 150.80 yuan offering price valued the company near $9 billion, making it the first mainland-listed humanoid robot maker in China.\nThe problem every humanoid robot company is chasing right now is the same one DeepSeek is approaching through Unitree. It needs a model that can look at an unfamiliar room and reliably turn plain instructions into physical action. Large language models are good at predicting the next word. They are much worse at predicting the next joint angle, and that gap is one of the biggest barriers holding humanoid robots back from general-purpose use.\nChina is turning humanoid robots into an industrial assembly line and the rest of the world is watching\nChinese humanoid robotics companies are minting unicorns at a pace the rest of the world isn't matching. Robotera raised $200 million in May 2026, Unitree filed a $610 million Shanghai IPO on 335% revenue growth, and China now ships 90% of global humanoid robot units, backed by $20 billion in government subsidies and a manufacturing ecosystem... - humanoid robots in Chinese factories - why China leads humanoid robotics\nIt also fits a pattern across Hangzhou, the city CNBC has described as China's answer to Silicon Valley for AI and robotics, where DeepSeek, Unitree, and spatial-intelligence company Manycore are part of the same startup cluster. The city's AI cluster has increasingly treated embodied intelligence, not another round of chatbot fine-tuning, as the next real contest.\nFrankly, DeepSeek didn't need a robotics bet to stay relevant. Its open-weight models already reshaped how the industry talks about training costs. But as LLM gains become more incremental, physical robots that can actually do useful work offer a new battlefield: one where DeepSeek needs hardware partners such as Unitree.\nThe US side of the race looks nothing alike\nCompare that with how the American humanoid robot field is being financed. Figure AI announced in 2025 that it had exceeded $1 billion in Series C commitments at a $39 billion post-money valuation. That's up from its February 2024 valuation of $2.6 billion, with earlier backers including OpenAI, Nvidia, and Microsoft. Tesla's Optimus has no standalone valuation, but"
+    },
+    {
+     "id": "62fba2842f81",
+     "group_key": "deepseek leads 400 million",
+     "title": "DeepSeek leads $400 million seed round for robotics AI startup",
+     "publisher": "Quartz",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sWHNkbFVvb2V2cUxFSktiZzdoX0RXVDVDdnFxdTQ4YW9TRGJ0T0UxSnUtd3JST0FfS2l1UlNvYmdyWVJZdHlSWmJ3Qlc2WmJObzhuejBxakRKWFJubkZIWW5lb0hnVkNWOXk1QVVjbw?oc=5",
+     "published_at": "2026-10-12T07:00:00.000Z",
+     "amount_hint": "$400 million",
+     "snippet": "DeepSeek leads $400 million seed round for robotics AI startup Quartz",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "neolix",
+   "company_guess": "Neolix",
+   "amount_hint_usd": 400000000,
+   "articles": [
+    {
+     "id": "ae83690ead2e",
+     "group_key": "neolix",
+     "title": "Chinese Robovan developer Neolix raises nearly $400m Series E",
+     "publisher": "DealStreetAsia",
+     "url": "https://www.dealstreetasia.com/stories/neolix-series-e-funding-498589",
+     "published_at": "2026-10-20T07:00:00.000Z",
+     "amount_hint": "$400m",
+     "snippet": "Chinese Robovan developer Neolix raises nearly $400m Series E DealStreetAsia",
+     "text_status": "ok",
+     "text": "Neolix Technologies , the Chinese developer of Robovan, has announced it is raising nearly $400 million in a Series E funding round as it seeks to expand overseas and scale commercial operations.\nThe round, anchored by Boyu Capital , attracted Alibaba’s AEF NextGen Fund, Monolith Management, Granite Asia, Vertex Growth, Meridian Capital, GAC Capital and other investors, the company said on Tuesday.\nExisting shareholders, including Trustar Capital, CDH VGC and Yunqi Partners, also participated in the round.\nThe fundraising comes about a year after it raised $600 million in its Series D financing , the largest private fundraising in China’s autonomous driving sector.\nIt secured 1 billion yuan ($137.3 million) in an extended Series C round of financing in February 2025.\nIn 2021, the startup closed a Series B round at “a few hundred million Chinese yuan,” with CICC Capital and SoftBank Ventures Asia jointly leading the deal. It raised nearly 100 million yuan ($13.7 million) in a Series A round in 2019.\nNeolix, founded in early 2018, specialises in the development of autonomous logistics vehicles, or the so-called “Robovans” that automate deliveries of goods and cargo in office and industrial parks, university campuses, residences, and central business districts.\nIts vehicles and delivery services operate in markets across the Middle East, Europe, Asia and Australia, the company said.\nNeolix’s cumulative funding has exceeded $1.4 billion, according to the company, which described the latest round as the largest single financing in China’s autonomous driving sector this year.\nThe company plans to use the proceeds to establish local service hubs in major regional markets and expand its global customer fulfilment network. It will also invest in data training for its artificial intelligence models to improve vehicle safety and performance and reduce operating costs.\n“Our goal is to build an efficient, reliable autonomous transport network that becomes part of urban and rural infrastructure and makes affordable logistics accessible to more communities,” said Enyuan Yu, founder and CEO of Neolix.\nIn June, Neolix received approval from Malaysia’s Ministry of Transport to begin public-road sandbox testing of its Level 4 autonomous delivery vehicles in Cyberjaya, marking its entry into the country’s autonomous mobility programme and advancing its Southeast Asia expansion.\nThe approval, granted under Malaysia’s National Regulatory Sandbox framework, allows Neolix to begin road trials in Cyberjaya, the country’s smart city hub. The company said the move complements its ongoing expansion efforts in Singapore and the broader Asia-Pacific region.\nNeolix will conduct the pilot with Malaysian logistics provider Tiong Nam Logistics, mobility platform Asia Mobiliti, and AI infrastructure company MindHub. The trials will evaluate use cases including parcel delivery, campus logistics and e-commerce fulfilment, with testing expected to run through the second half of the year.\nThe company said Southeast Asia’s growing e-commerce sector and increasing investment in AI, robotics, and smart mobility make the region a key market for autonomous logistics."
+    },
+    {
+     "id": "1f8db12574f5",
+     "group_key": "neolix",
+     "title": "Autonomous delivery vehicle maker Neolix raises nearly $400 million in Series E funding",
+     "publisher": "TechNode",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVgzODZRdUNaS2RVV3lMZWhWTG81OTE1ckd4TTlmMTNKWTgzYy16d1F6S3BhLTdaTnlubDl0M1RJR1I0WjYxcHpYZlJfdTJodm4xb2ctOTBKMWs3SHk4Wmp2QTEyMF9Pc1lZckxVVWJJSXJ3TGlWUHFnSDFCcTFQbWNQNXJBUG1DSXZZcTVFdURCT3ZVRmNjYU5Gb3FZSU1uWE1YaUF4aEg1WlpzdVhCWGthTDU1ZWRsc3lR?oc=5",
+     "published_at": "2026-10-20T07:00:00.000Z",
+     "amount_hint": "$400 million",
+     "snippet": "Autonomous delivery vehicle maker Neolix raises nearly $400 million in Series E funding TechNode",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "tenable",
+   "company_guess": "Tenable",
+   "amount_hint_usd": 400000000,
+   "articles": [
+    {
+     "id": "45fe3433c362",
+     "group_key": "tenable",
+     "title": "Tenable Closes $400 Million Senior Secured Revolving Credit Facility",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/tenable-closes-400-million-senior-secured-revolving-credit-facility/",
+     "published_at": "2026-10-14T20:29:02.000Z",
+     "amount_hint": "$400 Million",
+     "snippet": "Tenable Holdings has entered into a new $400 million senior secured revolving credit facility, completing the refinancing of its previous credit agreement and providing additional flexibility for future capital allocation.\nThe post Tenable Closes $400 Million Senior Secured Revolving Credit Facility appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Tenable Closes $400 Million Senior Secured Revolving Credit Facility\nBy Amit Chowdhry\nOct 14, 2026\nTenable Closes $400 Million Senior Secured Revolving Credit Facility\nTenable Holdings has entered into a new $400 million senior secured revolving credit facility, completing the refinancing of its previous credit agreement and providing additional flexibility for future capital allocation.\nThe new revolving facility, combined with Tenable’s previously announced convertible note financing completed in September, refinances the company’s prior credit agreement, which included an outstanding Term Loan B facility. It also replaces Tenable’s previous revolving credit facility, which matured in July.\nThe $400 million facility is initially undrawn, giving Tenable access to additional liquidity without immediately increasing borrowings. The company said the facility is intended to provide greater flexibility as it evaluates capital allocation priorities.\nBorrowings under the credit agreement will mature on October 13, 2031, five years after the facility’s effective date. The agreement also includes a springing maturity provision that could accelerate maturity to 91 days before the maturity of certain other material indebtedness, subject to specified exceptions and limitations.\nTenable provides exposure management and cybersecurity technology designed to help organizations identify and remediate security risks across IT infrastructure, cloud environments, and critical infrastructure. The company serves more than 40,000 customers globally.\nSupport: JPMorgan Chase Bank served as the facility’s administrative agent, collateral agent, and letter of credit issuer. Cooley served as legal counsel to Tenable.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "hercules capital",
+   "company_guess": "Hercules Capital",
+   "amount_hint_usd": 400000000,
+   "articles": [
+    {
+     "id": "0f037e99b7c3",
+     "group_key": "hercules capital",
+     "title": "Hercules Capital Closes $400 Million Offering Of 6.7% Notes Due 2029",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/hercules-capital-closes-400-million-offering-of-6-7-notes-due-2029/",
+     "published_at": "2026-10-10T19:19:42.000Z",
+     "amount_hint": "$400 Million",
+     "snippet": "Hercules Capital has closed an upsized public offering of $400 million in aggregate principal amount of 6.7% unsecured notes due October 2029, providing the venture lender with additional capital for debt repayment, new investments and general corporate purposes.\nThe post Hercules Capital Closes $400 Million Offering Of 6.7% Notes Due 2029 appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Hercules Capital Closes $400 Million Offering Of 6.7% Notes Due 2029\nBy Amit Chowdhry\nOct 10, 2026\nHercules Capital Closes $400 Million Offering Of 6.7% Notes Due 2029\nHercules Capital has closed an upsized public offering of $400 million in aggregate principal amount of 6.7% unsecured notes due October 2029, providing the venture lender with additional capital for debt repayment, new investments and general corporate purposes.\nThe notes will mature on October 8, 2029, and carry an annual interest rate of 6.7%, payable semiannually.\nHercules may redeem the notes in whole or in part before maturity at par plus an applicable make-whole premium, giving the company flexibility to refinance or retire the securities early if market conditions or its capital needs change.\nThe offering received investment-grade ratings from two major agencies. Moody’s Investors Service initially assigned the notes a Baa2 rating, while Fitch Ratings assigned a BBB- rating.\nHercules plans to use the net proceeds to repay outstanding secured or unsecured indebtedness, fund investments consistent with its investment objectives, and support general corporate purposes.\nThe financing provides additional liquidity for Hercules as it continues deploying capital into high-growth, venture-backed companies.\nHercules primarily provides senior secured venture growth loans, giving technology, life sciences and other innovation-focused companies access to capital that can complement equity financing.\nSince its founding in 2003, Hercules has committed more than $28 billion to over 700 companies across its target sectors.\nThe new notes expand the company’s funding base and provide longer-term capital through 2029 that can be used to support additional lending activity while also managing existing debt obligations.\nThe $400 million offering ultimately strengthens Hercules Capital’s liquidity position while supporting its strategy of providing growth financing to venture-backed companies across technology, life sciences and other innovation-driven industries.\nSupport: Goldman Sachs, SMBC Nikko Securities America and MUFG Securities Americas served as joint book-running managers for the offering. Citizens JMP Securities, DZ Financial Markets, RBC Capital Markets, R. Seelaus & Co., Synovus Securities, Wedbush Securities and Zions Direct acted as co-managers.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "delek us",
+   "company_guess": "Delek US",
+   "amount_hint_usd": 400000000,
+   "articles": [
+    {
+     "id": "8390ce747938",
+     "group_key": "delek us",
+     "title": "Delek US Raises $400 Million Through Convertible Senior Notes Offering",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/delek-us-raises-400-million-through-convertible-senior-notes-offering/",
+     "published_at": "2026-10-05T01:47:18.000Z",
+     "amount_hint": "$400 Million",
+     "snippet": "Delek US Holdings has priced a private offering of $400 million aggregate principal amount of 0% convertible senior notes due 2031.\nThe post Delek US Raises $400 Million Through Convertible Senior Notes Offering appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Delek US Raises $400 Million Through Convertible Senior Notes Offering\nBy Amit Chowdhry\nOct 4, 2026\nDelek US Raises $400 Million Through Convertible Senior Notes Offering\nDelek US Holdings has priced a private offering of $400 million aggregate principal amount of 0% convertible senior notes due 2031.\nThe company also granted the initial purchasers an option to acquire up to an additional $60 million of notes during a 13-day period beginning when the notes are issued.\nThe offering was expected to close on September 29, 2026, subject to customary conditions.\nDelek plans to use part of the net proceeds to fund capped call transactions designed to reduce potential dilution associated with future conversion of the notes.\nThe remaining proceeds will be used for general corporate purposes, including partial repayment of amounts outstanding under Delek’s term loan credit facility together with related accrued interest, fees and expenses.\nThe notes will not bear regular interest and their principal amount will not accrete.\nThey mature November 1, 2031, unless converted, redeemed or repurchased earlier.\nThe initial conversion rate is 11.7219 shares of Delek common stock for each $1,000 principal amount of notes.\nThat equates to an initial conversion price of approximately $85.31 per share, representing a roughly 27.5% premium to Delek’s $66.91 closing share price on September 24.\nDelek may not generally redeem the notes before November 6, 2029, except through a specified cleanup redemption provision.\nThe capped call transactions have an initial cap price of approximately $117.09 per share, representing a roughly 75% premium to the September 24 closing price.\nDelek’s operations include petroleum refining, logistics, pipelines and renewable fuels. Its refining assets have combined nameplate crude throughput capacity of 302,000 barrels per day.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "monroe capital prices 398 9",
+   "company_guess": "Monroe Capital Prices $398.9",
+   "amount_hint_usd": 398900000,
+   "articles": [
+    {
+     "id": "ffde0f25acc3",
+     "group_key": "monroe capital prices 398 9",
+     "title": "Monroe Capital Prices $398.9 Million Private Credit CLO",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/monroe-capital-prices-398-9-million-private-credit-clo/",
+     "published_at": "2026-10-01T19:31:03.000Z",
+     "amount_hint": "$398.9 Million",
+     "snippet": "Monroe Capital has priced Monroe Capital PC CLO II, a $398.9 million collateralized loan obligation backed primarily by senior secured loans to lower middle-market and traditional middle-market companies. The transaction represents Monroe's second new-issue CLO completed during 2026 and its fourth CLO transaction over the past 12 months. Deutsche Bank served as lead arranger for the transaction.\nThe post Monroe Capital Prices $398.9 Million Private Credit CLO appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Monroe Capital Prices $398.9 Million Private Credit CLO\nBy Amit Chowdhry\nOct 1, 2026\nMonroe Capital Prices $398.9 Million Private Credit CLO\nMonroe Capital has priced Monroe Capital PC CLO II, a $398.9 million collateralized loan obligation backed primarily by senior secured loans to lower middle-market and traditional middle-market companies. The transaction represents Monroe’s second new-issue CLO completed during 2026 and its fourth CLO transaction over the past 12 months. Deutsche Bank served as lead arranger for the transaction.\nThe CLO’s capital structure includes investment-grade debt tranches rated from AAA through BBB-. It was also structured to meet applicable risk-retention requirements across the United States, United Kingdom and Europe.\nThe transaction expands Monroe’s structured products platform, which has issued more than $13 billion since inception.\nThat platform includes traditional middle-market CLOs, private credit CLOs, broadly syndicated CLOs, asset-backed securitizations, rated feeder vehicles and collateralized fund obligations.\nMonroe said the CLO demonstrates its ability to combine directly originated middle-market loans with institutional capital markets financing while maintaining its underwriting and portfolio construction standards.\nThe firm’s structured products business is led by its senior investment and structured-solutions teams and draws on experience spanning multiple credit cycles.\nMonroe has also received industry recognition for its CLO business, including DealCatalyst’s 2026 Boutique Private Credit CLO Manager of the Year award in the under-$5-billion category and its 2026 Innovative Private Credit CLO Manager award.\nAs of July 1, 2026, Monroe Capital managed $23.8 billion across more than 45 investment vehicles. Its broader platform includes direct lending and alternative credit funds, venture debt, public and private business development companies, separately managed accounts and CLOs.\nKEY QUOTES:\n“We are pleased with the strong execution of this transaction and the broad support it received from a sophisticated global investor base. This CLO reflects the institutional scale, underwriting discipline, and sourcing advantages we have built across our private credit platform. As borrowers and investors increasingly value certainty, selectivity, and long-term partnership, our focus remains on deploying capital thoughtfully, protecting downside, and generating durable risk-adjusted returns through market cycles.”\nZia Uddin, President of Monroe Capital\n“This is a meaningful milestone for Monroe’s structured-solutions platform and reinforces our position as a leading manager of middle-market and private credit CLOs. The transaction reflects our ability to pair high-quality, directly originated collateral with thoughtfully constructed liabilities, delivering a product that meets the needs of sophisticated, ratings-sensitive investors. We remain focused on scaling the platform responsibly, maintaining disciplined credit standards, and delivering consistent execution for our investors and financing partners.”\nSeth Friedman, Managing Director and Head of Structured Solutions at Monroe Capital\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "apogee enterprises q2 sales",
+   "company_guess": "Apogee Enterprises: Q2 Sales",
+   "amount_hint_usd": 391100000,
+   "articles": [
+    {
+     "id": "b34952bcf48d",
+     "group_key": "apogee enterprises q2 sales",
+     "title": "Apogee Enterprises: Q2 Sales Rise 9.2% To $391.1 Million As Company Raises EPS Guidance",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/apogee-enterprises-q2-sales-rise-9-2-to-391-1-million-as-company-raises-eps-guidance/",
+     "published_at": "2026-10-11T21:27:59.000Z",
+     "amount_hint": "$391.1 Million",
+     "snippet": "Apogee Enterprises Reports 9.2% Q2 Sales Growth And Raises Fiscal 2027 Outlook Apogee Enterprises reported stronger fiscal 2027 second-quarter results, with sales growth, higher operating income, improved margins, and increased full-year guidance. Net sales increased 9.2% year-over-year to $391.1 million, driven by the Kalwall acquisition, pricing, and favorable product mix. Operating income increased 24.5% to […]\nThe post Apogee Enterprises: Q2 Sales Rise 9.2% To $391.1 Million As Company Raises EPS Guidance appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Apogee Enterprises: Q2 Sales Rise 9.2% To $391.1 Million As Company Raises EPS Guidance\nBy Amit Chowdhry\nOct 11, 2026\nApogee Enterprises: Q2 Sales Rise 9.2% To $391.1 Million As Company Raises EPS Guidance\nApogee Enterprises Reports 9.2% Q2 Sales Growth And Raises Fiscal 2027 Outlook\nApogee Enterprises reported stronger fiscal 2027 second-quarter results, with sales growth, higher operating income, improved margins, and increased full-year guidance.\nNet sales increased 9.2% year-over-year to $391.1 million, driven by the Kalwall acquisition, pricing, and favorable product mix.\nOperating income increased 24.5% to $33.5 million from $26.9 million a year earlier.\nOperating margin improved to 8.6% from 7.5%, while gross margin expanded 150 basis points to 24.6%.\nAdjusted EBITDA increased 11.7% to $49.5 million, and adjusted EBITDA margin improved to 12.7% from 12.4%.\nAdjusted diluted earnings per share increased 19.4% to $1.17 from $0.98. Apogee Enterprises Reports Fisc…\nManagement said the quarter exceeded its expectations, supported by disciplined pricing, productivity initiatives, and continuing operational improvements.\nApogee also advanced its portfolio strategy through the acquisitions of Kalwall and Groglass.\nThe company said early performance from Kalwall has been encouraging, while Groglass is expected to add differentiated capabilities and increase exposure to attractive end markets. Apogee Enterprises Reports Fisc…\nArchitectural Metals generated $143.5 million in sales, up 1.8%, while adjusted EBITDA increased to $22.1 million from $20.8 million.\nArchitectural Services revenue increased 7.9% to $108.5 million, supported by higher volume. Adjusted EBITDA rose to $6.2 million from $5 million, and segment backlog increased to $833 million from $792.3 million at the end of fiscal 2026.\nArchitectural Glass posted the strongest sales growth among the company’s segments, with revenue increasing 21.1% to $87.4 million. The Kalwall acquisition contributed $16.4 million during the quarter.\nPerformance Surfaces revenue increased 14.2% to $55.3 million, driven by higher volume and pricing. Apogee Enterprises Reports Fisc… Apogee Enterprises Reports Fisc…\nApogee also generated $43.3 million of operating cash flow during the first half of fiscal 2027, up from $37.3 million in the prior-year period.\nThe company returned $27.3 million to shareholders through $16.1 million of share repurchases and $11.2 million of dividends. Apogee Enterprises Reports Fisc…\nReflecting stronger-than-expected first-half performance and anticipated contributions from Kalwall and Groglass, Apogee raised its fiscal 2027 outlook.\nThe company now expects full-year net sales of $1.46 billion to $1.50 billion, up from its previous forecast of $1.38 billion to $1.43 billion.\nAdjusted diluted EPS guidance was increased to $3.00 to $3.40 from the previous range of $2.70 to $3.25. Apogee Enterprises Reports Fisc…\nFor the first six months of fiscal 2027, Apogee generated $733.8 million in sales, up 4.1%, while operating income increased 54.7% to $52.3 million.\nFirst-half net earnings increased 61.8% to $33.9 million, and diluted EPS rose 66% to $1.61. Apogee Enterprises Reports Fisc…\nKEY QUOTES:\n“We are pleased with the second-quarter results which exceeded our expectations, driven by strong execution across the business. The benefits of disciplined pricing, productivity initiatives, and ongoing operational improvements helped offset a mixed demand environment.”\n“The momentum "
+    }
+   ]
+  },
+  {
+   "group_key": "aligned climate capital",
+   "company_guess": "Aligned Climate Capital",
+   "amount_hint_usd": 387000000,
+   "articles": [
+    {
+     "id": "b6f9bd63a170",
+     "group_key": "aligned climate capital",
+     "title": "Aligned Climate Capital Secures $387 Million Financing Led By Apterra For 126 MW Community Solar Portfolio",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/aligned-climate-capital-secures-387-million-financing-led-by-apterra-for-126-mw-community-solar-portfolio/",
+     "published_at": "2026-10-15T17:12:37.000Z",
+     "amount_hint": "$387 Million",
+     "snippet": "Aligned Climate Capital has secured approximately $387 million in construction-to-permanent financing for a 126-megawatt community solar portfolio comprising 20 projects across Illinois and Maryland. Apterra Infrastructure Capital, an affiliate of Apollo, led the financing.\nThe post Aligned Climate Capital Secures $387 Million Financing Led By Apterra For 126 MW Community Solar Portfolio appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Aligned Climate Capital Secures $387 Million Financing Led By Apterra For 126 MW Community Solar Portfolio\nBy Amit Chowdhry\nOct 15, 2026\nAligned Climate Capital Secures $387 Million Financing Led By Apterra For 126 MW Community Solar Portfolio\nAligned Climate Capital has secured approximately $387 million in construction-to-permanent financing for a 126-megawatt community solar portfolio comprising 20 projects across Illinois and Maryland. Apterra Infrastructure Capital, an affiliate of Apollo, led the financing.\nThe portfolio includes approximately 115 MWdc across 18 projects in Illinois and 11 MWdc across two projects in Maryland. Once operational, the projects are expected to generate approximately 225 million kilowatt-hours of electricity annually, enough to power roughly 31,500 homes.\nThe financing is structured to support construction of each project before converting into permanent debt as individual assets begin operations. Aligned said the portfolio approach helps aggregate smaller distributed energy projects into a scale that can attract institutional infrastructure financing.\nThe Illinois projects are located within Ameren and ComEd utility territories, with a portion participating in the Illinois Shines Adjustable Block Program. The Maryland projects are located in the Delmarva Power and Potomac Edison territories and participate in Maryland’s Community Solar Energy Generating Systems program, which reserves at least 40% of project capacity for low- and moderate-income subscribers.\nThe lender syndicate includes BankUnited, Stifel, Banco de Crédito e Inversiones, Amalgamated Bank, Siemens, Farmer Mac, and BTG Pactual. BankUnited is serving as depository agent, while BankUnited and Stifel are providing interest rate swaps and Bci is serving as the letter of credit provider.\nAligned has invested in distributed solar through its Aligned Solar Partners strategy since 2018. The strategy acquires distributed solar and energy storage projects from development partners, finances their construction, and manages the assets through operations, focusing on projects that sit between smaller rooftop systems and utility-scale developments.\nAligned Climate Capital manages approximately $2.2 billion in assets and invests exclusively in businesses and projects supporting the clean energy transition. Its two primary strategies are the Aligned Climate Fund, which invests in venture-stage clean energy companies, and Aligned Solar Partners, which owns and operates distributed solar, energy storage, and related projects.\nClifford Chance served as legal counsel to the borrower, while Norton Rose Fulbright represented the lenders.\nKEY QUOTES:\n“We’re seeing an important shift in distributed energy. Individual projects may be too small for traditional infrastructure investors. But when you bring those projects together into a larger portfolio, you can attract institutional financing that would otherwise be difficult to access. That helps move more projects from development into operation.”\nPeter Davidson, CEO Of Aligned Climate Capital\n“Community solar is an important and fast-growing part of the distributed generation market, and this portfolio benefits from scale, contracted revenue, and experienced sponsorship. We are pleased to lead this facility for Aligned as it brings these projects online across Illinois and Maryland.”\nRalph Cho, Co-Chief Executive Officer At Apterra\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and "
+    }
+   ]
+  },
+  {
+   "group_key": "accounting group",
+   "company_guess": "Accounting Group",
+   "amount_hint_usd": 355000000,
+   "articles": [
+    {
+     "id": "8be68bf5c593",
+     "group_key": "accounting group",
+     "title": "Platform Accounting Group Secures $355 Million Growth Financing Led By Treville Capital Group",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/platform-accounting-group-secures-355-million-growth-financing-led-by-treville-capital-group/",
+     "published_at": "2026-10-21T19:21:09.000Z",
+     "amount_hint": "$355 Million",
+     "snippet": "Platform Accounting Group has secured $355 million in strategic growth financing led by Treville Capital Group to accelerate acquisitions, broaden service offerings, and invest in technology and talent across its national accounting and advisory platform.\nThe post Platform Accounting Group Secures $355 Million Growth Financing Led By Treville Capital Group appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Platform Accounting Group Secures $355 Million Growth Financing Led By Treville Capital Group\nBy Amit Chowdhry\nOct 21, 2026\nPlatform Accounting Group Secures $355 Million Growth Financing Led By Treville Capital Group\nPlatform Accounting Group has secured $355 million in strategic growth financing led by Treville Capital Group to accelerate acquisitions, broaden service offerings, and invest in technology and talent across its national accounting and advisory platform.\nThe financing also included participation from Vista Credit Partners, Siguler Guff, Aquiline, and Brightwood Capital Advisors. Existing investor The Cynosure Group participated as well, following its original investment in Platform Accounting Group in early 2024.\nFounded in 2015 by CEO Reyes Florez, Platform Accounting Group has grown into a large network of boutique accounting and advisory firms serving more than 50,000 clients through regional offices and specialized practices. The company has completed more than 65 acquisitions since inception while maintaining local brands and leadership teams.\nThe company’s services include tax, client accounting services, audit and assurance, advisory, technology consulting, wealth management, and family office services. Its operating infrastructure provides local firms with centralized resources for technology, compliance, recruiting, marketing, and operational support while allowing acquired firms to preserve existing client relationships.\nAs part of the financing, Treville Partner Dan Bailey and Barry Salzberg will join Platform Accounting Group’s Board of Directors. Salzberg is the former Global CEO of Deloitte, a current director of Thomson Reuters, and a strategic advisor to Treville. Perella Weinberg Partners advised Platform Accounting Group financially, Parr Brown Gee & Loveless served as its legal counsel, and Choate Hall & Stewart represented Treville.\nKEY QUOTES:\n“We are thrilled to partner with Treville as we enter our next phase of growth. From the beginning, we have been intentional about building PAG for the long term and investing deeply in the client relationship. This strategic growth financing gives us additional flexibility to expand our national footprint, invest in our people and technology, and continue to bring enhanced capabilities to the clients and communities our local firms serve. We are also honored to welcome Barry Salzberg to our Board and look forward to benefitting from his extraordinary experience leading one of the world’s most respected professional services organizations.”\nReyes Florez, Founder And Chief Executive Officer Of Platform Accounting Group\n“Platform Accounting Group has built a highly scalable operating model, an impressive acquisition and integration platform and a strong reputation with firm owners across the country. Partnering with growing, profitable businesses seeking flexible, less dilutive alternatives to traditional financing is core to the mission of Treville Capital Solutions. We believe PAG is exceptionally well positioned to capitalize on the long-term opportunities within the accounting profession, and we are excited to partner with Reyes, Tyson and the broader PAG team.”\nDan Bailey, Partner At Treville Capital Group And Co-Head Of Treville Capital Solutions\n“Since our initial investment, we have seen Reyes, Tyson and the rest of the PAG team continue to strengthen the organization while remaining committed to the local firms, professionals and clients they serve. We ar"
+    }
+   ]
+  }
+ ]
+}

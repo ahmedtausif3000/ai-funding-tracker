@@ -1,0 +1,340 @@
+{
+ "run_date": "recall-2026-10-01_2026-10-22",
+ "part": 25,
+ "groups": [
+  {
+   "group_key": "nn",
+   "company_guess": "NN",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "4ed898b5c77d",
+     "group_key": "nn",
+     "title": "NN, Inc. Announces $50 Million Net Private Placement of Common Stock and Pre-Funded Warrants",
+     "publisher": "GlobeNewswire",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/nn-inc-announces-50-million-120000961.html",
+     "published_at": "2026-10-02T07:00:00.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "NN, Inc. Announces $50 Million Net Private Placement of Common Stock and Pre-Funded Warrants GlobeNewswire",
+     "text_status": "error:fetch failed",
+     "text": null
+    },
+    {
+     "id": "26368da985e8",
+     "group_key": "nn",
+     "title": "NN Raises $50 Million Through Private Placement To Eliminate Preferred Stock And Fund Growth",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/nn-raises-50-million-through-private-placement-to-eliminate-preferred-stock-and-fund-growth/",
+     "published_at": "2026-10-02T17:30:01.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "NN has entered into a securities purchase agreement for a private investment in public equity financing expected to generate approximately $50 million in net proceeds after placement agent fees and offering expenses.\nThe post NN Raises $50 Million Through Private Placement To Eliminate Preferred Stock And Fund Growth appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "rebel audio",
+   "company_guess": "Rebel Audio",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "cb865f5b17ce",
+     "group_key": "rebel audio",
+     "title": "Rebel Audio Raises Series A at $50 Million Valuation Post-Money, Backed by Creator Media Company HardScope",
+     "publisher": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRWZfSGwzS3ZreUZxUWJQcTdvdEEzdzQ1bWVyZl95SUVoakl4QXZYNlpBMjg5cC04a0F1WTRLQVZnUEs1cWxKLUswaFF0TUNCVHB4RWhqSllDa1RMUzhpUHhVRV8waWktY3E1ZVd4cUtkcGtkWVZvZEJ6eTNvdzU5MlE5RHF6SlEwMk9xYjh1OHdPNDhLSlVnaXNnSHdjNWpzTlJPVzBpR0lCT2xTX1lpVTJDYThMQ3BaZzhNc01ncnNLdlhkc3Z3MGhaNlJ6ZU1oRExYRWc3azl1cWY4dHMzcUF0QXE5UjFZdEIwT3NyaWw4UQ?oc=5",
+     "published_at": "2026-10-08T07:00:00.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Rebel Audio Raises Series A at $50 Million Valuation Post-Money, Backed by Creator Media Company HardScope PR Newswire",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "e3bb2e6593db",
+     "group_key": "rebel audio",
+     "title": "AI-Podcasting Company Rebel Audio Raises Series A Funding at $50 Million Valuation (Exclusive)",
+     "publisher": "The Hollywood Reporter",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVU3OEs4bjYzUzlWSGxQNWtkY1ozdWVrVEdRUm1CZEpGaGJoRFhEUlZ1Nlp2aGJFdnA1cTE2YWVGRHNJRGtRMHR3b1g3VnJlMGtNZHpDa0lhSU12YmpGS213TkFOb1laMWVvS3ZXVXQ3dGl2Z3p2dEVXOHV0S0RtQ2NHQVBuM011Njl0eDZ0RE5zZjZ0eVZPVE1KblFkUmFEdDZDTE5FODN2WlF1WTY4?oc=5",
+     "published_at": "2026-10-08T07:00:00.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "AI-Podcasting Company Rebel Audio Raises Series A Funding at $50 Million Valuation (Exclusive) The Hollywood Reporter",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "94db413588e0",
+     "group_key": "rebel audio",
+     "title": "Rebel Audio Raises Series A at $50 Million Valuation Post-Money, Backed by Creator Media Company HardScope",
+     "publisher": "Podnews",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TV09jRXpraWkyU2c1dUZFTzlMcm9yYXpFTWhxMS1EdXJ6cFVNZTk2LWtxVWp2RlBDM0E3NE5SQ3hEMnhtNEdwN1FTX0xfVF9CSHVwN2QyMUlhb25IdGJydXh4U1Q?oc=5",
+     "published_at": "2026-10-09T07:00:00.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Rebel Audio Raises Series A at $50 Million Valuation Post-Money, Backed by Creator Media Company HardScope Podnews",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "df96e0e40651",
+     "group_key": "rebel audio",
+     "title": "Rebel Audio Raises Series A At Approximately $50 Million Valuation",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2ZDRDJSUGlSRjRqTktQRzN1SVFNbUpDbXhPcUxIYWVFZzN5d2o5TUxNZDZJejdnQnpUckZNS3QyWi1iLVFhbkVnM3BGdUh6RVFMZ09wSmYtZGgzTWNkOU9XMUNsUnRvejJQd3l5enRFM21GUl90VEk2TU5UNVRKQUJNeDRvV2tYYzFVNlhB0gGTAUFVX3lxTE83VDVxNlVfOFNWSC16YkdkSlM5LXhqZWxwNW9JSmtTbS0xRVVTUWFGVTRaMWphXzl5cVdlSWtWRHJkaVdJMmJLa2UzOGlzOHJfbUJtQXpqSlQxTk1rbS1PckgtWmRRd3Q1NnZORy03QVJoa1hZbWtPUUhZdkV3Yll5ZkllekRya0NNTlBrWEN1a2ktcw?oc=5",
+     "published_at": "2026-10-10T07:00:00.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Rebel Audio Raises Series A At Approximately $50 Million Valuation Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "40efb921951b",
+     "group_key": "rebel audio",
+     "title": "Rebel Audio Raises Series A At Approximately $50 Million Valuation",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/rebel-audio-raises-series-a-at-approximately-50-million-valuation/",
+     "published_at": "2026-10-10T19:04:43.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Rebel Audio closed a Series A financing led by creator media company HardScope at an approximately $50 million post-money valuation. The Series A is targeting a $10 million total close, with additional funding expected during a 90-day window.\nThe post Rebel Audio Raises Series A At Approximately $50 Million Valuation appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "fortem",
+   "company_guess": "Fortem Technologies",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "7c058e917627",
+     "group_key": "fortem",
+     "title": "Fortem Technologies Raises $50 Million Series B Led By Lockheed Martin",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaWdBeGEwczI3WXlheTNCU3NVRGo5TG5RY1NzYWp0WVlHdHBFLUh0SjFkNWk2U2txcmVnNEE4SDZRWThLRlNLMnNSSjAwX2JRVVJZSnAzdU5rWHhRanRiWm1mMXI0c1V6MENkbnlTV1g2V2x4NHd6cnd1NS0tdnczUzZIT08xbU5WZ2xWOGdOaDRpNm_SAZgBQVVfeXFMT2NsSW1jeUh2R0lLeW1JRjg1eUptNGNhTUtoekswdGxZRXRPUzZJQ21GX1dicnp0Si1CZnVkV0c2MEtTMU5CenNOZy1vYU5UR08yZ2xmcmtjSzBuMWFxLWlLbXVpTmRpZmZoNjRVVVBJNXJRbGM2NEc2dDUxTXNiNE16ZTkxUnBjVzZOV2tSS1AySUgybTczUzE?oc=5",
+     "published_at": "2026-10-11T07:00:00.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Fortem Technologies Raises $50 Million Series B Led By Lockheed Martin Pulse 2.0",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "80c939151893",
+     "group_key": "fortem",
+     "title": "Fortem Technologies Raises $50 Million Series B Led By Lockheed Martin",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/fortem-technologies-raises-50-million-series-b-led-by-lockheed-martin/",
+     "published_at": "2026-10-12T02:23:44.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Fortem Technologies closed a $50 million Series B financing led by Lockheed Martin to expand production and global deployment of its counter-drone technology. Lockheed Martin committed $25 million in the initial tranche of the financing. Unusual Machines and other strategic and institutional investors also participated.\nThe post Fortem Technologies Raises $50 Million Series B Led By Lockheed Martin appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "even healthcare",
+   "company_guess": "Even Healthcare",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "39a3930535c4",
+     "group_key": "even healthcare",
+     "title": "Even Healthcare raises $50 million, triples Series A valuation",
+     "publisher": "The Economic Times",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd1MyeFhLTW1IemtiU0lCT3cybHlnU0VjZGVvc0IzZFVYemd5aHlOa05tUDhpSi0zcnFGQmpsRFVEX3BEekltLXI4RVV6ZGxqMklYY1FLM00yRllUdlNSdFpqQ0FrUl9zZm45WXpqTzJfa1hNN0piUmd0QXFUWkdDTnRSNVNSS2ZPQ2psN0xIa2ZkZkRaNFVMMDRkQU9Ta1VUOUZ0b0NST2I3NlZrU1p2MzFrbTJqWTFoRDZRQlpBX3l6RERuc0HSAcsBQVVfeXFMUE9hWE9nSlkyeUZCWTF3bzU1djRmanVkUnNRbl9wQ3Ricm80NDFFZWtUQ1hYUDlsaUJDa1ZQWERuTV9yQmZmTFhGSDhHalZBR3JhWWkwbUlkaHkyTUJMYUstSlpmQTBodjV4eWhEZnYyX0VlU1Q3TG1hTG5jeHpvWjMydE05X3RzNEhHM1d3YWw2UmhxQm9WdzJjUS15SnQ2SE1FTllOSlNyN3hGamcxdE9KcTBDakg3ZmVST0w0RXZQbHNGMTBEWE5uX1E?oc=5",
+     "published_at": "2026-10-19T07:00:00.000Z",
+     "amount_hint": "$50 million",
+     "snippet": "Even Healthcare raises $50 million, triples Series A valuation The Economic Times",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "46b4686ee33f",
+     "group_key": "even healthcare",
+     "title": "Even Healthcare Raises $50M in Series B Funding",
+     "publisher": "FinSMEs",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRFdrSmtVRDVYMld4MkZxek1KVnhNMmk4NTVjd0NTMVVjU1NxNjVvTjJHUFJQdmNrRFB4UWR1YV9pbjUzSHRlUk5XLTE4U213NW00QWdHUktvUV9ZVURNMUxkUFhuNTd1d0tXakpaWGg3bWw1OEFHQ09SRVRkY25oUnk1bDBqZXYtOXIw?oc=5",
+     "published_at": "2026-10-19T07:00:00.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Even Healthcare Raises $50M in Series B Funding FinSMEs",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "8c144f45700e",
+     "group_key": "even healthcare",
+     "title": "Even Healthcare raises $50M in Series B round led by Khosla Ventures",
+     "publisher": "YourStory.com",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdUQtTTI2SXBTTk9tWkU5VkdGcUdGNHozbnZWY0xqVVNpeW9qZkl5R3NMLUVWTktZSTREYllrc1dSbDhQTXZPMERTZWFPN2RmYVlLWFducVJubTA1elF0ZVE1ckdaRWhCZXpJS0hfU2QwR0p5V3pqWWEwQXpXN3BPOGVEdUFrUFhFM0U3TENodDNBLU9iaDNjX3A4SDBIZw?oc=5",
+     "published_at": "2026-10-19T07:00:00.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Even Healthcare raises $50M in Series B round led by Khosla Ventures YourStory.com",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "010a95e71274",
+     "group_key": "even healthcare",
+     "title": "Even Healthcare raises $50 million from Khosla Ventures to expand its hospital network across Bengaluru",
+     "publisher": "Livemint",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcE5Za2QxY201RTd1VXdocDF1LTAyT3QtbmFiLUR2MUdqZGV0MDVvSXlXTXZIb3BXY1F6aGFTNmE3bl9hYU9xV2hWa0lxbDNIQzVvdjV5d2cwV01qVkphaW1nc01IQTJXTmUxQWpOb3J1UWxRc1JaaE9IVmtJTFJTSWo4bS1pcUltZGJMeldndy1hODFidi1GNTl5Q3FyVkRqeUhqRVR3WWUyMzlXbGRpaTJsUnl0RzhYcjRncTVsWTFXbFpCdFllUEczRE9TaEdybVBXdmdUUWdwWXdicXfSAeMBQVVfeXFMUFNBMTZ1MHlqcHBTZ1JaMmUzLXI2RGUzUU1MaEk4NzI4ckxHczBWRm1RWmxtMGstQ3dFcDI0Y0xWVGJqYUJleVAtWlE5NW5LQnhhUGhxYUhzXzRQNl9iRDdrSkRQNjJRb2xLcVlXaVVoSVZqbzE1aDctT1ZqN093MFlTbGk2NEM2Z0k5OXJpZzJISUFEeldIWFlZX3VHazBpVXR6VmRaNko4TFpWaUR6T21iaE5OOXFyZDNsODQtQ0MySVE4TVd4QVJVd2h3Rzk2YjBmSnpiOWRQaXdoNVhlbjhsSDg?oc=5",
+     "published_at": "2026-10-19T07:00:00.000Z",
+     "amount_hint": "$50 million",
+     "snippet": "Even Healthcare raises $50 million from Khosla Ventures to expand its hospital network across Bengaluru Livemint",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "e66b9456287e",
+     "group_key": "even healthcare",
+     "title": "Even Healthcare Raises $50 Million for Expansion",
+     "publisher": "Voice of Healthcare",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFlfcjVWX2E3UDlQRDlWR3R4ajEwaTN0SkVXWDJCeGQzT2t1TjZtUjJtb2dGVDZmT0djaXNmU1ZZaEE3Wk1FTnNVRkk1amFGOWFKV3B1Sm9NRWljQ0IyUTk0UnRsQVRmRmxRWmduR2RXelFDdTF5MWpBRVFVWDZRNU45SnRzQkl6Y1NRLW1VS0Jadmo4TERROUlGUG41M0VDWkE5TXZWZ05LZw?oc=5",
+     "published_at": "2026-10-19T07:00:00.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Even Healthcare Raises $50 Million for Expansion Voice of Healthcare",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "khosla ventures leads even",
+   "company_guess": "Khosla Ventures Leads Even",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "e70df5f6f860",
+     "group_key": "khosla ventures leads even",
+     "title": "Khosla Ventures Leads Even Healthcare’s $50 Million Series B With Alpha Wave Participation: 9 outlets compared",
+     "publisher": "NewsCord",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONUJ3VW1OV096ZVhRa3RyM2loY0pBekhvZ2RKdF9QV0lPN3ZkVFhVcWJWTkVRci1WakdsYXdUWVBMYTNvUEZjMkZtTm9rMTZWQl81NzZicWNscnYyam8wVlJtNHlVSXR3cUZWdE1QYVV3em5MOERoZTJscUU4MHZUUnFKVUg4NUFzUzJIUnVLZnpudE1rQWxpM09yVnB1YXpWdm95YWltV1FfUlJUSjlpR1RMOURDSWRiSXg2VzJndDQ4YnJkWk5qcDc1Q2oydGlsN0hWbklOYlFYNXZjeHN0SWNBOC04VVdlOFE?oc=5",
+     "published_at": "2026-10-19T07:00:00.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Khosla Ventures Leads Even Healthcare’s $50 Million Series B With Alpha Wave Participation: 9 outlets compared NewsCord",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "rabot energy",
+   "company_guess": "Rabot Energy",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "de38243da9c3",
+     "group_key": "rabot energy",
+     "title": "Rabot Energy raises $50M Series B to turn homes into a virtual power plant",
+     "publisher": "Dealroom",
+     "url": "https://techfundingnews.com/rabot-energy-raises-50m-series-b-virtual-power-plant-endeit-capital/",
+     "published_at": "2026-10-17T17:48:02.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Rabot Energy raises $50M Series B to turn homes into a virtual power plant Dealroom",
+     "text_status": "thin",
+     "text": "November 9, 2026\nOptics11 lands €50M from existing backers to scale fibre optic sensing for subsea defence and power grids\nby Sofia Chesnokova"
+    },
+    {
+     "id": "94895d2ae1b3",
+     "group_key": "rabot energy",
+     "title": "Rabot Raises $56 Million to Create Virtual Power Plants with Home Clean Energy Devices",
+     "publisher": "ESG Today",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHNSS1l5RW9RaXVLQTg4X2RfX2pudEZmclhlUFpyekloOEtBV2E1TmtrNTlBV3FmdW83VERGV0lDeWg4NFhERlg0alp2NlVWb3lNT1BXRERDUFFGTEI4RTNMeTBoSE5rRFpxXzByd2NyTWpQTzZ1RDB4czhYc1J1dWhKN3ZKUi1rQThDaVc2bVo4eXQ4VmRxZ0hLTjI2c3c3aGVXc2NLQWlnTGV5Y3ZVbg?oc=5",
+     "published_at": "2026-10-20T07:00:00.000Z",
+     "amount_hint": "$56 Million",
+     "snippet": "Rabot Raises $56 Million to Create Virtual Power Plants with Home Clean Energy Devices ESG Today",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "e7c3f931a37f",
+     "group_key": "rabot energy",
+     "title": "Rabot Energy Raises €50 Million Series B Led By Endeit And DeepTech & Climate Fund",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/rabot-energy-raises-e50-million-series-b-led-by-endeit-and-deeptech-climate-fund/",
+     "published_at": "2026-10-15T17:27:52.000Z",
+     "amount_hint": "€50 Million",
+     "snippet": "Rabot Energy has raised €50 million in Series B funding to expand its dynamic electricity tariff business and develop a virtual power plant platform that connects household batteries and other flexible energy devices. The round was led by Endeit and the DeepTech & Climate Fund. Existing investors HV Capital, High-Tech Gründerfonds, Bosch Ventures, CNI, Acurio Ventures, and vent.io also participated.\nThe post Rabot Energy Raises €50 Million Series B Led By Endeit And DeepTech & Climate Fund appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "ipa capital markets arranges",
+   "company_guess": "IPA Capital Markets Arranges",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "2d959f03af75",
+     "group_key": "ipa capital markets arranges",
+     "title": "IPA Capital Markets Arranges $50 Million Financing For 18-Property Industrial Portfolio",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/ipa-capital-markets-arranges-50-million-financing-for-18-property-industrial-portfolio/",
+     "published_at": "2026-10-12T03:43:21.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "IPA Capital Markets arranged $50 million in financing for an 18-property industrial portfolio located across Texas, Oklahoma, and Georgia.\nThe post IPA Capital Markets Arranges $50 Million Financing For 18-Property Industrial Portfolio appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "IPA Capital Markets Arranges $50 Million Financing For 18-Property Industrial Portfolio\nBy Amit Chowdhry\nOct 11, 2026\nIPA Capital Markets Arranges $50 Million Financing For 18-Property Industrial Portfolio\nIPA Capital Markets arranged $50 million in financing for an 18-property industrial portfolio located across Texas, Oklahoma, and Georgia.\nFrank Montalto, Managing Director, and Ethan Splan, Director, arranged the financing on behalf of the borrower.\nThe non-recourse loan carries a five-year term and was structured at a 70% loan-to-value ratio.\nThe financing carries a 6.75% interest rate, with interest-only payments for the full five-year term.\nThe structure provides the sponsor with long-term financing while preserving cash flow through the interest-only payment schedule.\nThe transaction also reflects continued lender interest in diversified industrial portfolios across growth-oriented markets in the Southern U.S.\nIPA Capital Markets is a division of Marcus & Millichap that provides financing solutions for major private and institutional commercial real estate investors.\nThe platform works across a wide range of capital structures, including senior debt, mezzanine financing, preferred equity, joint venture equity, and sponsor equity.\nIts team supports clients across acquisitions, refinancing transactions, recapitalizations, and broader portfolio financing needs.\nThe $50 million industrial portfolio financing adds to IPA Capital Markets’ activity across institutional and private commercial real estate transactions.\nParent company Marcus & Millichap maintains a large national commercial real estate transaction platform.\nDuring 2025, Marcus & Millichap closed 8,818 transactions representing approximately $50.8 billion in total sales volume.\nThe firm’s scale, lender relationships, and capital markets capabilities provide IPA Capital Markets with access to a broad range of financing sources across different property types and transaction structures.\nKEY QUOTES:\n“This financing reflects the continued strength of well-located industrial assets and the durability of lender demand for stabilized portfolios with strong fundamentals. We were pleased to secure non-recourse financing with competitive leverage and pricing that supports the sponsor’s long-term business plan across these markets.”\nFrank Montalto, Managing Director at IPA Capital Markets\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "innovative industrial properties prices",
+   "company_guess": "Innovative Industrial Properties Prices",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "adaa19728a59",
+     "group_key": "innovative industrial properties prices",
+     "title": "Innovative Industrial Properties Prices $50 Million Preferred Stock Offering",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/innovative-industrial-properties-prices-50-million-preferred-stock-offering/",
+     "published_at": "2026-10-10T19:42:17.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Innovative Industrial Properties priced a public offering of 2 million shares of its 9.25% Series B Cumulative Redeemable Preferred Stock at $25 per share, expected to raise $50 million in gross proceeds.\nThe post Innovative Industrial Properties Prices $50 Million Preferred Stock Offering appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Innovative Industrial Properties Prices $50 Million Preferred Stock Offering\nBy Amit Chowdhry\nOct 10, 2026\nInnovative Industrial Properties Prices $50 Million Preferred Stock Offering\nInnovative Industrial Properties priced a public offering of 2 million shares of its 9.25% Series B Cumulative Redeemable Preferred Stock at $25 per share, expected to raise $50 million in gross proceeds.\nThe company granted the offering’s underwriters a 30-day option to purchase as many as an additional 300,000 preferred shares at the public offering price to cover potential overallotments.\nInnovative Industrial Properties plans to apply to list the Series B Preferred Stock on the New York Stock Exchange under the ticker “IIPR Pr B.”\nThe company’s common stock already trades on the NYSE under the IIPR ticker.\nThe offering is expected to close on October 19, 2026, subject to customary closing conditions.\nInnovative Industrial Properties plans to use the net proceeds to fund all or part of its remaining unfunded commitment associated with a previously announced mezzanine loan investment in the life sciences sector.\nAny remaining proceeds are expected to support investments consistent with the company’s broader investment strategy and general corporate purposes.\nInnovative Industrial Properties is an internally managed REIT focused on specialized properties leased to state-licensed operators of regulated cannabis facilities, along with financial investments in the life sciences industry.\nSupport: Stifel is serving as active bookrunner. A.G.P./Alliance Global Partners, Huntington Capital Markets, and Oppenheimer & Co. are serving as passive bookrunners. Academy Securities, Clear Street, Compass Point, Roberts & Ryan, Roth Capital Partners, and Wolfe Capital Markets and Advisory are serving as co-managers.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "atrium therapeutics",
+   "company_guess": "Atrium Therapeutics",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "70da4bf7c002",
+     "group_key": "atrium therapeutics",
+     "title": "Atrium Therapeutics Raises $50 Million Private Placement To Advance Precision Cardiology Pipeline",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/atrium-therapeutics-raises-50-million-private-placement-to-advance-precision-cardiology-pipeline/",
+     "published_at": "2026-10-10T13:12:08.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Atrium Therapeutics entered into a securities purchase agreement with institutional investors for a $50 million private placement to support development of its precision cardiology pipeline.\nThe post Atrium Therapeutics Raises $50 Million Private Placement To Advance Precision Cardiology Pipeline appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Atrium Therapeutics Raises $50 Million Private Placement To Advance Precision Cardiology Pipeline\nBy Amit Chowdhry\nOct 10, 2026\nAtrium Therapeutics Raises $50 Million Private Placement To Advance Precision Cardiology Pipeline\nAtrium Therapeutics entered into a securities purchase agreement with institutional investors for a $50 million private placement to support development of its precision cardiology pipeline.\nInvestors participating in the financing include Sirenia Capital Management, Aberdeen Investments, Montanova, Sessa Capital, Casdin Capital, a life sciences-focused institutional investor, and others.\nAtrium agreed to sell approximately 5.17 million common shares at $7.93 per share.\nThe company will also issue pre-funded warrants to purchase approximately 1.13 million common shares at $7.929 per warrant, reflecting the $7.93 common share price less the $0.001 exercise price.\nThe financing was priced at the market under Nasdaq rules.\nAtrium expects the private placement to close on or about October 9, 2026, subject to customary closing conditions.\nThe company plans to use the proceeds, together with existing cash, cash equivalents, and investments, to fund development of its two lead product candidates, additional research programs, working capital, and general corporate purposes.\nAtrium estimates that the financing and its existing capital will fund operations through 2028.\nThe company’s lead program, ATR 1072, is being developed for PRKAG2 syndrome.\nThe FDA has cleared Atrium’s IND for ATR 1072, allowing the company to advance the program into the Corventis Phase 1/2 clinical trial.\nAtrium is also developing ATR 1086 for PLN cardiomyopathy.\nIts pipeline includes two additional undisclosed research programs targeting rare cardiomyopathies.\nAtrium’s technology uses targeted delivery approaches designed to transport RNA therapeutics directly to the heart.\nThe platform combines the tissue selectivity of monoclonal antibodies and other targeting ligands with oligonucleotide therapeutics, including small interfering RNA.\nThe technology was originally developed at Avidity Biosciences.\nSupport: Leerink Partners served as lead placement agent. Cantor, Barclays, and Wells Fargo Securities also served as placement agents.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "firy to redeem remaining",
+   "company_guess": "FIRY To Redeem Remaining",
+   "amount_hint_usd": 49700000,
+   "articles": [
+    {
+     "id": "e27006be9529",
+     "group_key": "firy to redeem remaining",
+     "title": "FIRY To Redeem Remaining $49.7 Million Of Notes And Complete $300 Million Debt Repayment",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/firy-to-redeem-remaining-49-7-million-of-notes-and-complete-300-million-debt-repayment/",
+     "published_at": "2026-10-06T20:34:53.000Z",
+     "amount_hint": "$49.7 Million",
+     "snippet": "FIRY has issued notice to redeem the remaining approximately $49.7 million principal amount of its 10.25% secured notes due 2026, completing repayment of a $300 million debt issuance ahead of maturity.\nThe post FIRY To Redeem Remaining $49.7 Million Of Notes And Complete $300 Million Debt Repayment appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "FIRY To Redeem Remaining $49.7 Million Of Notes And Complete $300 Million Debt Repayment\nBy Amit Chowdhry\nOct 6, 2026\nFIRY To Redeem Remaining $49.7 Million Of Notes And Complete $300 Million Debt Repayment\nFIRY has issued notice to redeem the remaining approximately $49.7 million principal amount of its 10.25% secured notes due 2026, completing repayment of a $300 million debt issuance ahead of maturity.\nThe redemption is scheduled for October 15, 2026.\nFIRY will redeem the remaining notes at 100% of principal plus accrued and unpaid interest through, but excluding, the redemption date.\nFollowing the redemption and satisfaction and discharge of the related indenture, FIRY expects to have no remaining notes outstanding and no outstanding indebtedness for borrowed money.\nLiens securing the debt will also be released, and FIRY will no longer be subject to the covenants contained in the note indenture.\nThe company plans to fund the redemption with proceeds from the previously announced sale of its equity stake in Exit Games.\nFIRY expects the October redemption alone to save approximately $800,000 in cash interest.\nCombined with a separate August 2026 redemption, the debt repayment actions are expected to save approximately $3.6 million in interest that otherwise would have accrued through the notes’ December 15, 2026 maturity date.\nFIRY expects to enter 2027 without outstanding borrowed debt.\nThe company plans to direct the resulting financial flexibility toward its businesses while considering future debt financing when management believes leverage could improve equity returns.\nKEY QUOTES:\n“The December 15 debt wall is coming down. This redemption completes the retirement of our $300 million Notes ahead of their maturity, with no new capital raised and no shareholder dilution. We believe we have the capital to run and grow our businesses and fund our litigation if necessary. Going forward, we expect to use debt when we believe it can enhance equity returns. The next chapter is about what we build from here.”\nAndrew Paradise, CEO and Founder of FIRY\n“Retiring the Notes is another step in our 100-year journey. We expect to enter 2027 without outstanding borrowed debt and with greater flexibility. Without debt service, more cash will be available to invest in the businesses as we focus on growing revenue and AEBITDA, supporting our guidance of modest positive operating cash flow in 2027 and revenue more than doubling from 2025 to 2028. We will consider debt in the future when we believe it enhances equity returns.”\nAlex Walsh, CFO of FIRY\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  }
+ ]
+}

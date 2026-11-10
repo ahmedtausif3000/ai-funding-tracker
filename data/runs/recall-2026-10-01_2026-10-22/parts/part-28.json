@@ -1,0 +1,256 @@
+{
+ "run_date": "recall-2026-10-01_2026-10-22",
+ "part": 28,
+ "groups": [
+  {
+   "group_key": "gardens interactive",
+   "company_guess": "Gardens Interactive",
+   "amount_hint_usd": 35000000,
+   "articles": [
+    {
+     "id": "f5661e0f9a09",
+     "group_key": "gardens interactive",
+     "title": "Gardens Interactive, founded by veterans behind Journey and Sky: Children of the Light, raises over $35m in Series B funding round",
+     "publisher": "GamesIndustry.biz",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcEtsZm9uNE10emxuZzRNamlTODdxRjg3OGcxY2c5TWsyb3d1RlJaSFFFR3N5VHVqU2hDVzFGczdlSldlRmVETzBydkQ5OTNNZTVYSXcxbEdJV2NTSkxsWktsVFRybE9YOENueU0teXJoNmR4d204MlJVTC1qdWZYUWNHVUxGQUdDTEk4VzNHVEU1V0VzSWpoM3d6ZFAwVXI1WFVpWmhlNmg0UVlMUTNOZlI4b3BXUTRmV0l1dk5zbzk1aW0wbVZKb0Q0MC01bzdrSDBsUGJjTllMYWFFTEc0bDJBcXFJYXlQdTEw?oc=5",
+     "published_at": "2026-10-08T07:00:00.000Z",
+     "amount_hint": "$35m",
+     "snippet": "Gardens Interactive, founded by veterans behind Journey and Sky: Children of the Light, raises over $35m in Series B funding round GamesIndustry.biz",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "mave",
+   "company_guess": "Mave",
+   "amount_hint_usd": 34000000,
+   "articles": [
+    {
+     "id": "414a038f18e9",
+     "group_key": "mave",
+     "title": "Mave Raises $34 Million to Build the Agentic SecOps System for the Modern Enterprise",
+     "publisher": "PR Newswire",
+     "url": "https://www.mave.com/platform",
+     "published_at": "2026-10-22T07:00:00.000Z",
+     "amount_hint": "$34 Million",
+     "snippet": "Mave Raises $34 Million to Build the Agentic SecOps System for the Modern Enterprise PR Newswire",
+     "text_status": "ok",
+     "text": "The SecOps decision layer.\nOne brain, many arms.\nMave runs investigations, searches, threat hunts, detection hardening, and governed responses across your existing stack - and the more you connect, the faster and more complete every investigation becomes.\nBook a Demo\n[\nThe Mave Platform\n]\nOne platform to run detection and response across your stack\nSecOps is too fragmented to run from one data store or one alert queue, and centralizing everything is expensive, slow, and never actually complete - the context that decides a verdict almost always lives outside the SIEM.\nMave operates across the tools, data, and context you already run, and gives you one governed layer to investigate, hunt, and respond from. No migration, no blind spots where the data didn't make it in.\n01\nConnect\nMave integrates through APIs across every kind of tool. Integrations self-onboard in minutes and start read-only, so Mave is working across your stack from day one without touching a single permission you haven't granted\n02\nOperate\nAsk in plain language and Mave handles the rest - but underneath, every action runs as a deterministic, repeatable step you can inspect and trust. You get the speed of natural language without giving up the rigor your environment demands\n03\nConsolidate\nThe moment Mave is in, the console-hopping stops. Investigate, hunt, and respond from one place - no more remembering which tool to open or which query language to write. One layer, one UI, across everything you already run\nThe Mave Way\nMave unifies evidence across your systems into one clear, governed decision, so your team can stop searching and start deciding.\nBook a Demo\nSecOps that keeps up\nOnboard in minutes\nAPI-first, no ingestion required.\nConnect scoped integrations via APIs and start pulling evidence immediately, without disrupting workflows or paying a data tax\nClear the alert queue\nMave will investigate 100% of your alerts, forever.\nBy reducing MTTR to minutes for every alert, regardless of severity, Mave allows your analysts to focus on real security tasks instead of clearing the alert queue.\nRisk mitigation\nDon't ever write a playbook again\nMave will generate a response for each incident according to its blast radius, enabling full automation when necessary.\nConsistent detection hardening\nAutomatically fine-tune detection coverage\nDetect drift, unnecessary noise, or broken logic in detection rules, and automatically tune them.\nSurface the unknown-unknowns\nPrioritize what matters to your environment and activate designated hunters against relevant campaigns and TTPs, with context and recommended next steps.\nFederated search & correlation\nAsk Mave.\nAsk natural language questions across connected systems and get unified, evidence-backed answers, without manual pivots or ad-hoc searching.\nCut costs & remove vendor lock-in\nKeep data where it lives.\nReduce reliance on “ingest everything”, keep systems of record as sources of truth, and evolve your stack without rebuilding your SecOps logic from scratch.\n[\nIntegrations\n]\nYes, Mave works with your stack\nMave is platform-agnostic, integrating across the security and IT ecosystem to pull ground-truth evidence and route decisions back into your existing tools—introducing a live context layer."
+    },
+    {
+     "id": "7cded1c907ee",
+     "group_key": "mave",
+     "title": "Mave Raises $34 Million Including $28 Million Series A To Expand AI-Powered Security Operations",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/mave-raises-34-million-including-28-million-series-a-to-expand-ai-powered-security-operations/",
+     "published_at": "2026-10-22T20:27:26.000Z",
+     "amount_hint": "$34 Million",
+     "snippet": "Mave, a developer of agentic artificial intelligence technology for enterprise cybersecurity, has raised $34 million in total funding, including a $28 million Series A led by Red Dot Capital Partners with participation from Lumir Growth Partners. Existing investors Dell Technologies Capital and Emerge Ventures also participated in the Series A after previously backing Mave's $6 million seed round.\nThe post Mave Raises $34 Million Including $28 Million Series A To Expand AI-Powered Security Operations appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "l3harris",
+   "company_guess": "L3Harris",
+   "amount_hint_usd": 33100000,
+   "articles": [
+    {
+     "id": "622cd72bf695",
+     "group_key": "l3harris",
+     "title": "L3Harris Receives $33.1 Million Space Force Contract Modification, Raising Total Value To $1.53 Billion",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/l3harris-receives-33-1-million-space-force-contract-modification-raising-total-value-to-1-53-billion/",
+     "published_at": "2026-10-19T18:01:17.000Z",
+     "amount_hint": "$33.1 Million",
+     "snippet": "L3Harris Technologies has received a $33.1 million contract modification from the U.S. Space Force for the Unified Messaging System effort, increasing the cumulative value of the contract to approximately $1.527 billion.\nThe post L3Harris Receives $33.1 Million Space Force Contract Modification, Raising Total Value To $1.53 Billion appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "L3Harris Receives $33.1 Million Space Force Contract Modification, Raising Total Value To $1.53 Billion\nBy Amit Chowdhry\nOct 19, 2026\nL3Harris Receives $33.1 Million Space Force Contract Modification, Raising Total Value To $1.53 Billion\nL3Harris Technologies has received a $33.1 million contract modification from the U.S. Space Force for the Unified Messaging System effort, increasing the cumulative value of the contract to approximately $1.527 billion.\nThe $33,141,075 modification raises the contract’s total face value from approximately $1.494 billion. Work will be performed in Colorado Springs, Colorado, and at Vandenberg Space Force Base in California, with completion expected by October 2028.\nThe Space Force is obligating approximately $2.4 million in fiscal 2026 research, development, test, and evaluation funding at the time of the award. Space Systems Command at Peterson Space Force Base in Colorado is the contracting activity under contract FA8823-20-C-0004.\nThe Unified Messaging System work fits within L3Harris’s broader position as a major defense technology contractor supporting military operations across the space, air, land, sea, and cyber domains. The company develops technologies spanning secure communications, command and control, intelligence and surveillance, missile warning and tracking, electronic warfare, satellite systems, and advanced missile technologies.\nL3Harris reorganized its operations in 2026 around three mission-focused business segments: Space & Mission Systems, Communications & Spectrum Dominance, and Missile Solutions. Space & Mission Systems incorporates satellite and payload technologies, missile warning and defense capabilities, mission networks, and other defense and civil government programs, while Communications & Spectrum Dominance includes resilient communications and electronic warfare technologies.\nThe company also has extensive experience developing secure command-and-control and communications infrastructure for U.S. military customers. Its technologies include satellite command and control, secure satellite communications, tactical communications networks, real-time information distribution, and ground infrastructure used to connect sensors, operators, and other military assets.\nIn the space domain, L3Harris provides end-to-end technologies that include satellites, payloads, ground systems, mission planning, integration, data processing, and missile warning and tracking. Its portfolio includes work for the U.S. Space Force, Space Development Agency, and Missile Defense Agency, including systems intended to detect and track ballistic and hypersonic threats.\nL3Harris generated $21.9 billion in revenue in 2025 and ended that year with $38.7 billion in backlog, reflecting the scale of its defense and government technology portfolio. Space & Mission Systems was its largest business based on 2025 revenue.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "nirva",
+   "company_guess": "Nirva",
+   "amount_hint_usd": 33000000,
+   "articles": [
+    {
+     "id": "8144d090086c",
+     "group_key": "nirva",
+     "title": "Nirva raises $33M for a pendant that only listens to you",
+     "publisher": "TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNfZmFJTVVvNkQ2NG54TjRneURLVjdJZVAxRGFaMVdDV29iRlVzM05rSnV3RWJ3bHdlQjVVODBkVE9IYkN0VmlFOFZJTUk4eDZLc0oxNEhSYkE3aFVqMTF5dlVWZDFCbXBieTRJSFVzb003Zl9HUzgwSlJ2VzBQWFZKY0k5UUx3aWZ2dG1XVjVKQTJ2?oc=5",
+     "published_at": "2026-10-22T07:00:00.000Z",
+     "amount_hint": "$33M",
+     "snippet": "Nirva raises $33M for a pendant that only listens to you TechCrunch",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "oshkosh defense",
+   "company_guess": "Oshkosh Defense",
+   "amount_hint_usd": 32000000,
+   "articles": [
+    {
+     "id": "209fde16084b",
+     "group_key": "oshkosh defense",
+     "title": "Oshkosh Defense Receives $32 Million Army Contract Modification For Heavy Tactical Vehicle Support",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/oshkosh-defense-receives-32-million-army-contract-modification-for-heavy-tactical-vehicle-support/",
+     "published_at": "2026-10-19T16:55:05.000Z",
+     "amount_hint": "$32 Million",
+     "snippet": "Oshkosh Defense LLC has received a $31,972,227 U.S. Army contract modification for systems technical support services covering the Family of Heavy Tactical Vehicles, associated trailers, and related kits.\nThe post Oshkosh Defense Receives $32 Million Army Contract Modification For Heavy Tactical Vehicle Support appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Oshkosh Defense Receives $32 Million Army Contract Modification For Heavy Tactical Vehicle Support\nBy Amit Chowdhry\nOct 19, 2026\nOshkosh Defense Receives $32 Million Army Contract Modification For Heavy Tactical Vehicle Support\nOshkosh Defense LLC has received a $31,972,227 U.S. Army contract modification for systems technical support services covering the Family of Heavy Tactical Vehicles, associated trailers, and related kits.\nThe modification, identified as P00018, was issued under previously awarded contract W56HZV-22-D-0004. The additional award expands Oshkosh Defense’s work supporting the Army’s heavy tactical vehicle fleet and the equipment used alongside those platforms.\nUnder the contract, Oshkosh Defense will provide systems technical support for the Family of Heavy Tactical Vehicles. The scope also covers trailers and associated kits, giving the Army a contracting mechanism to obtain technical assistance across multiple elements of the heavy tactical vehicle ecosystem rather than focusing on an individual vehicle configuration.\nThe Family of Heavy Tactical Vehicles supports military logistics missions that require moving personnel, equipment, supplies, and other loads in demanding operating environments. Continued technical support is important as the Army operates and sustains these vehicles across their service lives, including configurations that may require maintenance, engineering assistance, updates, or other technical services.\nSpecific work locations and funding amounts have not yet been established. Instead, the Army will determine both as individual orders are issued under the broader contract.\nThe Army expects the modification-related work to be completed by October 14, 2027.\nThe Army solicited the procurement online and received one bid. Army Contracting Command at Detroit Arsenal, Michigan, is the contracting activity.\nOshkosh Defense, based in Oshkosh, Wisconsin, develops and supports tactical wheeled vehicles and related systems for U.S. and international military customers. The latest modification extends its support role for the Army’s heavy tactical vehicle fleet while allowing specific technical requirements, funding, and performance locations to be established through subsequent orders.\nThe award is modification P00018 to contract W56HZV-22-D-0004.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "clockwork",
+   "company_guess": "Clockwork.io",
+   "amount_hint_usd": 31000000,
+   "articles": [
+    {
+     "id": "161b482e1d35",
+     "group_key": "clockwork",
+     "title": "Clockwork.io Raises $31 Million To Expand AI Infrastructure Fault-Tolerance Platform",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR3pNYm1Xb3E2S0ZqU3NoUEY0QWc5VE5pSkk1RXhvd1d0d2NDb2JNeVgyS29ZSVlCNi1Bc2YzRUxFQ0NXcFV3OGdFTDhQYWdkOU40R0plXzJRWGJ4RC04SWFXaWh2OVJKYlVJWjJ2VUlyLWs4YmJOQ0xYVXVvTGlYVFJrYnBwTWF4cGdJVDM2dzRmdWhHZ2hQN1NsRWFnOW1HZTZxNk5n0gGrAUFVX3lxTFA5b2U2SXBTY0UxeDNtWTc0dW50cU0wUl9POUdxYWFiSU9RcGVUYTBPQ3lPb09PR3pvcnFwVW00Mm96SlRzR3dxcTV1Z2JQeFY2YlozTWdhTlJ6b0NvSUF6VWxMMlNLR0RrOGJuUlgwYU1Xa2NhRHp5VVJrY01yUWoxOGNWTjRHbTd2YWNFV1N6MzJHOU04MjFMVS1pSkpFeXRrMVpJYUVnb2dpSQ?oc=5",
+     "published_at": "2026-10-05T07:00:00.000Z",
+     "amount_hint": "$31 Million",
+     "snippet": "Clockwork.io Raises $31 Million To Expand AI Infrastructure Fault-Tolerance Platform Pulse 2.0",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "e4560b67fd03",
+     "group_key": "clockwork",
+     "title": "Clockwork.io Raises $31 Million To Expand AI Infrastructure Fault-Tolerance Platform",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/clockwork-io-raises-31-million-to-expand-ai-infrastructure-fault-tolerance-platform/",
+     "published_at": "2026-10-05T20:16:42.000Z",
+     "amount_hint": "$31 Million",
+     "snippet": "Clockwork.io has raised $31 million in new funding to expand its fault-tolerance software for artificial intelligence infrastructure, bringing total funding to $73 million.\nThe post Clockwork.io Raises $31 Million To Expand AI Infrastructure Fault-Tolerance Platform appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "xcimer energy",
+   "company_guess": "Xcimer Energy",
+   "amount_hint_usd": 30500000,
+   "articles": [
+    {
+     "id": "cb3251cd42ba",
+     "group_key": "xcimer energy",
+     "title": "Xcimer Energy Secures Additional $30.5 Million DOE Award",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/xcimer-energy-secures-additional-30-5-million-doe-award/",
+     "published_at": "2026-10-07T15:20:36.000Z",
+     "amount_hint": "$30.5 Million",
+     "snippet": "Xcimer Energy has finalized an agreement for up to $30.5 million in additional funding through the U.S. Department of Energy's Milestone-Based Fusion Development Program, advancing the company's effort to commercialize laser fusion energy.\nThe post Xcimer Energy Secures Additional $30.5 Million DOE Award appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Xcimer Energy Secures Additional $30.5 Million DOE Award\nBy Amit Chowdhry\nOct 7, 2026\nXcimer Energy Secures Additional $30.5 Million DOE Award\nXcimer Energy has finalized an agreement for up to $30.5 million in additional funding through the U.S. Department of Energy’s Milestone-Based Fusion Development Program, advancing the company’s effort to commercialize laser fusion energy.\nThe additional award brings potential DOE Milestone Program funding available to Xcimer to $39.5 million.\nCombined with a separate $4 million ARPA-E award received in 2024, Xcimer has secured up to $43.5 million in non-dilutive federal funding.\nThe latest funding corresponds to the second budget period of the DOE Milestone-Based Fusion Development Program and will be distributed as Xcimer achieves agreed technical and development milestones.\nXcimer is developing an excimer laser architecture specifically designed for use in a commercial fusion power plant.\nThe company’s approach uses gas lasers, gas optics and a two-beamline architecture designed to repeatedly deliver megajoule-scale laser energy while reducing the cost and complexity associated with other high-energy laser systems.\nXcimer is targeting electricity generation from commercial fusion during the mid-2030s.\nEarlier in 2026, the Department of Energy approved the preconceptual design and technology roadmap for Athena, Xcimer’s planned commercial fusion power-plant architecture.\nThe company expects its first commercial fusion plant to begin operating around 2035.\nXcimer also launched operations in June at Phoenix, which it describes as the world’s largest privately owned laser system.\nPhoenix is being used to demonstrate important elements of Xcimer’s excimer-laser and gas-optics architecture.\nThe company is simultaneously exploring defense applications for portions of its laser technology.\nIn September, Xcimer and RTX announced a partnership to develop directed-energy air defense systems based on Xcimer’s pulsed lasers.\nThe companies intend to demonstrate the integration and containerization of Xcimer laser technology with RTX air defense systems.\nRTX also invested in Xcimer as part of the relationship.\nKEY QUOTES:\n“America invented laser fusion, and America should lead its commercialization. The Milestone-Based Fusion Development Program is built to turn American scientific leadership into commercial capability by putting private capital and private-sector execution behind ambitious, measurable goals. Xcimer is making real progress toward a new generation of laser fusion technology, and this award will help accelerate that work.”\nDarío Gil, Under Secretary for Science at the U.S. Department of Energy\n“We have moved from proving that the physics works to building the industrial technology that can turn fusion into a commercial energy source. This additional milestone funding gives us another powerful mechanism to accelerate that work while keeping the majority of the investment and risk in the private sector. We are building the laser, manufacturing systems and supply chain required to make commercial laser fusion possible.”\nConner Galloway, Co-Founder and CEO of Xcimer Energy\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "former bytedance intern tian",
+   "company_guess": "Former ByteDance intern Tian",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "0af3ee5f9ad0",
+     "group_key": "former bytedance intern tian",
+     "title": "Former ByteDance intern Tian Keyu secures $30 million in funding; world model startup reaches $200 million valuation",
+     "publisher": "BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tOExhZU9pajJMdnVpRnJjQlgzcm51ZFItd2I0TE05TzNNVGlHMUNNWkdFeURSSko5eFFWdW9kZkdsWjJ2SG93VXBtWFdrWlBGeFgyMEFtc3BMRk14ZDh0ZEZ2MlRZNXk2R0lwTmRkR3gyYU1kRHc?oc=5",
+     "published_at": "2026-10-08T07:00:00.000Z",
+     "amount_hint": "$30 million",
+     "snippet": "Former ByteDance intern Tian Keyu secures $30 million in funding; world model startup reaches $200 million valuation BigGo Finance",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "allara",
+   "company_guess": "Allara",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "43c7f82b6680",
+     "group_key": "allara",
+     "title": "Allara Raises $30M to Give Women One Care Team for Hormonal, Metabolic and Reproductive Health",
+     "publisher": "AlleyWatch",
+     "url": "https://www.alleywatch.com/2026/10/allara-virtual-womens-health-care-insurance-covered-hormonal-ai-rachel-blank/",
+     "published_at": "2026-10-13T13:27:17.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Rachel Blank spent about three years and more doctors than she could count chasing an answer about her own body. That search became a company that has served 120,000 women, and investors pressed her on one question above all: would AI replace the doctors? Find out how Allara, which just raised $30M to bring total funding to $75M, plans to use AI to give clinicians more time with patients, and why Blank says the human relationship stays at the center of care.",
+     "text_status": "thin",
+     "text": null
+    },
+    {
+     "id": "9d6f4f2b5def",
+     "group_key": "allara",
+     "title": "Allara Raises $30M to Expand Insurance-Covered Women’s Healthcare",
+     "publisher": "Femtech Insider",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONEpyMlc0WWdHYk5RSVRZazNyOUJoMERtT0YwTEFsb0RscXFpNWtDYVRfbS1KX0hDQUR2dTUzdGNTdUZpYTBkNWs2aEh1R29TTjF3NmlIVUlWcThyenlvR3NGUlZEdlczZVBzaVE3MUFDdW5uQkNOeUJ3dnBmdVVtZWd6aDBMdDd5djNuVFFjdnFBNnFmNnc?oc=5",
+     "published_at": "2026-10-13T07:00:00.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Allara Raises $30M to Expand Insurance-Covered Women’s Healthcare Femtech Insider",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "e7da10a8dd20",
+     "group_key": "allara",
+     "title": "Allara Raises $30 Million To Expand AI-Enabled Women’s Healthcare Platform",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR3dPdjVFY1J1ZlNqeTVYSXBpdG8yYWNueEkwRVpudkdkekJXNkkxWWNKM25rUHhGZ09oT3M4WF9NRGduLWRENnR3YVI1ZU5YLVZoQzNkMG1EbktGN1lUcmxxb1R5WUFudGlrSnVUZVE0aFA5OW1IczFyT2ZmOXRUMDRQRHFIc0hGdjJGQW11YlpqNGtWdDA0?oc=5",
+     "published_at": "2026-10-19T07:00:00.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Allara Raises $30 Million To Expand AI-Enabled Women’s Healthcare Platform Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "faa62525ff56",
+     "group_key": "allara",
+     "title": "Allara Raises $30 Million To Expand AI-Enabled Women’s Healthcare Platform",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/allara-raises-30-million-to-expand-ai-enabled-womens-healthcare-platform/",
+     "published_at": "2026-10-19T16:44:12.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Allara has raised $30 million in new funding to expand its AI-enabled women’s healthcare platform, grow partnerships, and advance research focused on hormonal, metabolic, and reproductive health. The financing brings Allara’s total funding to $75 million. Five existing investors, including Index Ventures and GV, increased their commitments, while Camino Partners, Foreground Capital, and Family Fund joined as new investors.\nThe post Allara Raises $30 Million To Expand AI-Enabled Women’s Healthcare Platform appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "elax energy",
+   "company_guess": "Elax Energy",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "cbc958624b4a",
+     "group_key": "elax energy",
+     "title": "Elax Energy Raises €30 Million to Turn Water Heaters Into Smart Grid Batteries",
+     "publisher": "Ventureburn",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObEotemlKYW1wQ09maXhTUmxfT3pjZU9TRlV5VkpjWHN0Wk9BZEhUN0haRHNoLXRsNzFPU0xCb0hTWG9JXzdCbjZsbjJ5cVBmdXcyWE9HNlRKVnNkQlUyNTBPSDBNUHZXSUVrNFJGZzRiZ0dpVGJLS3JhRFhiOVhCWHRUTThCRFdFbmRB0gGLAUFVX3lxTE5sSi16aUphbXBDT2ZpeFNSbF9PemNlT1NGVXlWSmNYc3RaT0FkSFQ3SFpEc2gtdGw3MU9TTEJvSFNYb0lfN0JuNmxuMnlxUGZ1dzJYT0c2VEpWc2RCVTI1ME9IME1QdldJRWs0UkZnNGJnR2lUYktLcmFEWGI5WEJYdFRNOEJEV0VuZEE?oc=5",
+     "published_at": "2026-10-21T07:00:00.000Z",
+     "amount_hint": "€30 Million",
+     "snippet": "Elax Energy Raises €30 Million to Turn Water Heaters Into Smart Grid Batteries Ventureburn",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  }
+ ]
+}
