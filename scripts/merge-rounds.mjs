@@ -22,7 +22,9 @@ const amountClose = (a, b) => a == null || b == null || Math.abs(a - b) / Math.m
 const daysApart = (a, b) => Math.abs(Date.parse(a) - Date.parse(b)) / 86400e3;
 
 const store = readJson(path.join(ROOT, 'data', 'rounds.json'), { version: 1, updated_at: null, rounds: [] });
-const validated = readJson(path.join(RUN_DIR, 'validated.json'), null);
+// --corrections-only: re-apply data/corrections.json to the store without merging a run.
+const CORR_ONLY = Boolean(args['corrections-only']);
+const validated = CORR_ONLY ? { rows: [] } : readJson(path.join(RUN_DIR, 'validated.json'), null);
 if (!validated) { console.error('no validated.json for', RUN_DATE); process.exit(1); }
 const cands = readJson(path.join(RUN_DIR, 'candidates.json'), { candidates: [] });
 const seenPath = path.join(ROOT, 'data', 'seen-urls.json');
@@ -73,13 +75,30 @@ for (const r of validated.rows) {
     mergeLog.push({ run: RUN_DATE, action: 'inserted', id, company: r.company, in_view: row.in_view, exclude_reason: r.exclude_reason || (!row.in_view ? (r.hq_country !== 'US' ? 'non-us' : !r.is_ai_ml ? 'not-ai' : r.amount_usd == null ? 'undisclosed' : r.amount_usd < SCOPE.min_amount_usd ? 'below-min' : 'stage') : null) });
   }
 }
+// Manual corrections (data/corrections.json: { "<round id>": { field: value, ..., "note": "..." } }) win over
+// extracted values and survive re-merges. Used to reconcile against Crunchbase exports.
+const corrections = readJson(path.join(ROOT, 'data', 'corrections.json'), {});
+let corrected = 0;
+for (const r of store.rounds) {
+  const c = corrections[r.id];
+  if (!c) continue;
+  for (const [k, v] of Object.entries(c)) if (k !== 'note') r[k] = v;
+  r.corrected = true; r.correction_note = c.note || null;
+  r.in_view = inScope(r);
+  corrected++;
+}
 store.rounds.sort((a, b) => (b.announced_date.localeCompare(a.announced_date)) || ((b.amount_usd || 0) - (a.amount_usd || 0)));
 store.updated_at = new Date().toISOString();
+if (CORR_ONLY) {
+  fs.writeFileSync(path.join(ROOT, 'data', 'rounds.json'), JSON.stringify(store, null, 1));
+  console.log(JSON.stringify({ corrections_only: true, corrected, total_rounds: store.rounds.length, in_view: store.rounds.filter((r) => r.in_view).length }));
+  process.exit(0);
+}
 store.last_run = RUN_DATE;
 fs.writeFileSync(path.join(ROOT, 'data', 'rounds.json'), JSON.stringify(store, null, 1));
 for (const c of cands.candidates) seen.add(c.link);
 fs.writeFileSync(seenPath, JSON.stringify([...seen].slice(-20000)));
 fs.appendFileSync(path.join(ROOT, 'data', 'merge-log.ndjson'), mergeLog.map((m) => JSON.stringify(m)).join('\n') + (mergeLog.length ? '\n' : ''));
-const summary = { run_date: RUN_DATE, inserted, merged, excluded_on_insert: excluded, total_rounds: store.rounds.length, in_view: store.rounds.filter((r) => r.in_view).length };
+const summary = { run_date: RUN_DATE, inserted, merged, excluded_on_insert: excluded, corrected, total_rounds: store.rounds.length, in_view: store.rounds.filter((r) => r.in_view).length };
 fs.writeFileSync(path.join(RUN_DIR, 'merge-summary.json'), JSON.stringify(summary, null, 2));
 console.log(JSON.stringify(summary));

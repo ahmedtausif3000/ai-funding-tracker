@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-09T21:21:13.519Z",
+ "updated_at": "2026-11-10T05:42:01.340Z",
  "rounds": [
   {
    "id": "b11b69c29f",
@@ -7543,63 +7543,6 @@
    "in_view": true
   },
   {
-   "id": "a5f918c0e6",
-   "group_key": "tractian",
-   "candidate_ids": [
-    "6f937b0df91e",
-    "0722fc22bff3"
-   ],
-   "company": "Tractian",
-   "website": "tractian.com",
-   "amount_usd": 130000000,
-   "amount_disclosed": true,
-   "currency_note": null,
-   "round_type": "Series D",
-   "stage_bucket": "Late Stage Venture",
-   "announced_date": "2026-10-23",
-   "lead_investors": [
-    "Sapphire Ventures",
-    "Catalyst"
-   ],
-   "investors": [
-    "Sapphire Ventures",
-    "Catalyst",
-    "N47",
-    "General Catalyst",
-    "Bosch Ventures",
-    "53 Stations",
-    "Monashees",
-    "Endeavor Catalyst",
-    "Norte Ventures",
-    "Y Combinator"
-   ],
-   "hq_city": null,
-   "hq_state": null,
-   "hq_country": "BR",
-   "is_ai_ml": true,
-   "ai_ml_rationale": "AI condition monitoring and predictive maintenance for industrial equipment.",
-   "description": "Industrial AI platform that monitors equipment, detects failures and recommends maintenance actions across 2,000+ facilities.",
-   "confidence": 0.85,
-   "evidence": {
-    "amount": "Brazilian AI startup Tractian raised $130M in a Series D round at a $1.4B valuation.",
-    "round": "Series D round",
-    "lead": "The round was led by Sapphire Ventures and Catalyst , M&G’s growth equity division.",
-    "investors": "N47 , General Catalyst , Bosch Ventures , 53 Stations , Monashees , Endeavor Catalyst , Norte Ventures , and Y Combinator also participated."
-   },
-   "source_urls": [
-    "https://latamlist.com/tractian-raises-130m-series-d-at-1-4b-valuation/"
-   ],
-   "exclude_reason": null,
-   "transaction_name": "Series D - Tractian",
-   "first_seen_run": "backfill-2026-10-01_2026-11-09",
-   "runs": [
-    "backfill-2026-10-01_2026-11-09"
-   ],
-   "created_at": "2026-11-09T21:21:13.482Z",
-   "updated_at": "2026-11-09T21:21:13.482Z",
-   "in_view": false
-  },
-  {
    "id": "7318d48a03",
    "group_key": "coherence",
    "candidate_ids": [
@@ -7748,6 +7691,64 @@
    "created_at": "2026-11-09T21:21:13.480Z",
    "updated_at": "2026-11-09T21:21:13.480Z",
    "in_view": false
+  },
+  {
+   "id": "a5f918c0e6",
+   "group_key": "tractian",
+   "candidate_ids": [
+    "6f937b0df91e",
+    "0722fc22bff3"
+   ],
+   "company": "Tractian",
+   "website": "tractian.com",
+   "amount_usd": 130000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series D",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-10-22",
+   "lead_investors": [
+    "Sapphire Ventures"
+   ],
+   "investors": [
+    "Sapphire Ventures",
+    "Catalyst",
+    "N47",
+    "General Catalyst",
+    "Bosch Ventures",
+    "53 Stations",
+    "Monashees",
+    "Endeavor Catalyst",
+    "Norte Ventures",
+    "Y Combinator"
+   ],
+   "hq_city": "Atlanta",
+   "hq_state": "GA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Crunchbase lists Artificial Intelligence / Machine Learning among the company's industries.",
+   "description": "Industrial AI platform that monitors equipment, detects failures and recommends maintenance actions across 2,000+ facilities.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "Brazilian AI startup Tractian raised $130M in a Series D round at a $1.4B valuation.",
+    "round": "Series D round",
+    "lead": "The round was led by Sapphire Ventures and Catalyst , M&G’s growth equity division.",
+    "investors": "N47 , General Catalyst , Bosch Ventures , 53 Stations , Monashees , Endeavor Catalyst , Norte Ventures , and Y Combinator also participated."
+   },
+   "source_urls": [
+    "https://latamlist.com/tractian-raises-130m-series-d-at-1-4b-valuation/"
+   ],
+   "exclude_reason": null,
+   "transaction_name": "Series D - Tractian",
+   "first_seen_run": "backfill-2026-10-01_2026-11-09",
+   "runs": [
+    "backfill-2026-10-01_2026-11-09"
+   ],
+   "created_at": "2026-11-09T21:21:13.482Z",
+   "updated_at": "2026-11-09T21:21:13.482Z",
+   "in_view": true,
+   "corrected": true,
+   "correction_note": "Reconciled 2026-11-09 against Crunchbase export (announced 2026-10-22, Series D, $130M, HQ Atlanta, Georgia, United States, North America)."
   },
   {
    "id": "b5c33d593d",
@@ -10339,48 +10340,6 @@
    "in_view": true
   },
   {
-   "id": "e47e695544",
-   "group_key": "10 largest nyc tech",
-   "candidate_ids": [
-    "66633da5039f"
-   ],
-   "company": "Ramp",
-   "website": "ramp.com",
-   "amount_usd": 1900000000,
-   "amount_disclosed": true,
-   "currency_note": null,
-   "round_type": "Series G",
-   "stage_bucket": "Late Stage Venture",
-   "announced_date": "2026-10-15",
-   "lead_investors": [],
-   "investors": [],
-   "hq_city": "New York",
-   "hq_state": "NY",
-   "hq_country": "US",
-   "is_ai_ml": false,
-   "ai_ml_rationale": "Corporate spend management and payments software; AI is not described as the core product.",
-   "description": "Software for corporate spend management, finance operations and business payments.",
-   "confidence": 0.5,
-   "evidence": {
-    "amount": "Ramp $1.9B",
-    "round": "Series G",
-    "lead": null,
-    "investors": "Dragoneer Investment Group, Thrive Capital, Founders Fund, 1789 Capital, 8VC, Alpha Wave Global, Avenir"
-   },
-   "source_urls": [
-    "https://www.alleywatch.com/2026/11/nyc-startup-funding-top-largest-october-2026-vc/"
-   ],
-   "exclude_reason": null,
-   "transaction_name": "Series G - Ramp",
-   "first_seen_run": "2026-11-09-backfill",
-   "runs": [
-    "2026-11-09-backfill"
-   ],
-   "created_at": "2026-11-09T20:17:16.079Z",
-   "updated_at": "2026-11-09T20:17:16.079Z",
-   "in_view": false
-  },
-  {
    "id": "dfdd2dfb4e",
    "group_key": "10 largest nyc tech",
    "candidate_ids": [
@@ -10456,48 +10415,6 @@
    ],
    "exclude_reason": null,
    "transaction_name": "Series D - Whop",
-   "first_seen_run": "2026-11-09-backfill",
-   "runs": [
-    "2026-11-09-backfill"
-   ],
-   "created_at": "2026-11-09T20:17:16.080Z",
-   "updated_at": "2026-11-09T20:17:16.080Z",
-   "in_view": false
-  },
-  {
-   "id": "a4e8cebb68",
-   "group_key": "10 largest nyc tech",
-   "candidate_ids": [
-    "66633da5039f"
-   ],
-   "company": "Valon",
-   "website": "valon.com",
-   "amount_usd": 150000000,
-   "amount_disclosed": true,
-   "currency_note": null,
-   "round_type": "Series D",
-   "stage_bucket": "Late Stage Venture",
-   "announced_date": "2026-10-15",
-   "lead_investors": [],
-   "investors": [],
-   "hq_city": "New York",
-   "hq_state": "NY",
-   "hq_country": "US",
-   "is_ai_ml": false,
-   "ai_ml_rationale": "Mortgage servicing software; AI not described as core.",
-   "description": "Software infrastructure for mortgage servicing and other regulated financial workflows.",
-   "confidence": 0.5,
-   "evidence": {
-    "amount": "Valon $150M",
-    "round": "Series D",
-    "lead": null,
-    "investors": "Andreessen Horowitz, Ribbit Capital"
-   },
-   "source_urls": [
-    "https://www.alleywatch.com/2026/11/nyc-startup-funding-top-largest-october-2026-vc/"
-   ],
-   "exclude_reason": null,
-   "transaction_name": "Series D - Valon",
    "first_seen_run": "2026-11-09-backfill",
    "runs": [
     "2026-11-09-backfill"
@@ -10604,13 +10521,15 @@
    "round_type": "Series B",
    "stage_bucket": "Early Stage Venture",
    "announced_date": "2026-10-15",
-   "lead_investors": [],
+   "lead_investors": [
+    "PeakSpan Capital"
+   ],
    "investors": [],
-   "hq_city": "New York",
+   "hq_city": "Brooklyn",
    "hq_state": "NY",
    "hq_country": "US",
-   "is_ai_ml": false,
-   "ai_ml_rationale": "Cloud and AI spend monitoring (FinOps); AI is the spend category, not the product core.",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Crunchbase lists Artificial Intelligence / Machine Learning among the company's industries.",
    "description": "Platform for monitoring and optimizing spending on cloud, AI and data.",
    "confidence": 0.5,
    "evidence": {
@@ -10630,7 +10549,9 @@
    ],
    "created_at": "2026-11-09T20:17:16.080Z",
    "updated_at": "2026-11-09T20:17:16.080Z",
-   "in_view": false
+   "in_view": true,
+   "corrected": true,
+   "correction_note": "Reconciled 2026-11-09 against Crunchbase export (announced 2026-10-15, Series B, $60M, HQ Brooklyn, New York, United States, North America)."
   },
   {
    "id": "b898a16e75",
@@ -11085,7 +11006,7 @@
    ],
    "company": "Zenzap",
    "website": "zenzap.co",
-   "amount_usd": 44000000,
+   "amount_usd": 33000000,
    "amount_disclosed": true,
    "currency_note": null,
    "round_type": "Series A",
@@ -11100,11 +11021,11 @@
     "Lightspeed Venture Partners",
     "The Garage"
    ],
-   "hq_city": null,
-   "hq_state": null,
-   "hq_country": "IL",
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
    "is_ai_ml": true,
-   "ai_ml_rationale": "Collaborative workplace platform where employees and AI agents work together.",
+   "ai_ml_rationale": "Crunchbase lists Artificial Intelligence / Machine Learning among the company's industries.",
    "description": "Collaborative workplace platform where employees and AI agents share conversations, manage tasks and automate business processes.",
    "confidence": 0.8,
    "evidence": {
@@ -11125,10 +11046,12 @@
    ],
    "created_at": "2026-11-09T21:21:13.490Z",
    "updated_at": "2026-11-09T21:21:13.493Z",
-   "in_view": false,
+   "in_view": true,
    "alt_amounts": [
     33000000
-   ]
+   ],
+   "corrected": true,
+   "correction_note": "Reconciled 2026-11-09 against Crunchbase export (announced 2026-10-14, Series A, $33M, HQ New York, New York, United States, North America)."
   },
   {
    "id": "fa10c77125",
@@ -12197,6 +12120,56 @@
    "in_view": false
   },
   {
+   "id": "e47e695544",
+   "group_key": "10 largest nyc tech",
+   "candidate_ids": [
+    "66633da5039f"
+   ],
+   "company": "Ramp",
+   "website": "ramp.com",
+   "amount_usd": 1850000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series G",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-10-09",
+   "lead_investors": [
+    "Avenir",
+    "Dragoneer Investment Group",
+    "Founders Fund",
+    "Sands Capital Ventures",
+    "Thrive Capital"
+   ],
+   "investors": [],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Crunchbase lists Artificial Intelligence / Machine Learning among the company's industries.",
+   "description": "Software for corporate spend management, finance operations and business payments.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "Ramp $1.9B",
+    "round": "Series G",
+    "lead": null,
+    "investors": "Dragoneer Investment Group, Thrive Capital, Founders Fund, 1789 Capital, 8VC, Alpha Wave Global, Avenir"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/nyc-startup-funding-top-largest-october-2026-vc/"
+   ],
+   "exclude_reason": null,
+   "transaction_name": "Series G - Ramp",
+   "first_seen_run": "2026-11-09-backfill",
+   "runs": [
+    "2026-11-09-backfill"
+   ],
+   "created_at": "2026-11-09T20:17:16.079Z",
+   "updated_at": "2026-11-09T20:17:16.079Z",
+   "in_view": true,
+   "corrected": true,
+   "correction_note": "Reconciled 2026-11-09 against Crunchbase export (announced 2026-10-09, Series G, $1850M, HQ New York, New York, United States, North America)."
+  },
+  {
    "id": "543444c3fe",
    "group_key": "typesafe",
    "candidate_ids": [
@@ -12792,8 +12765,8 @@
    "hq_city": "Woburn",
    "hq_state": "MA",
    "hq_country": "US",
-   "is_ai_ml": false,
-   "ai_ml_rationale": "Superconducting power delivery hardware; AI data centers are the end market but the product is electrical infrastructure, not AI.",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Crunchbase lists Artificial Intelligence / Machine Learning among the company's industries.",
    "description": "Developer of superconducting power delivery systems that raise power density and cut copper use for AI data centers.",
    "confidence": 0.8,
    "evidence": {
@@ -12813,7 +12786,9 @@
    ],
    "created_at": "2026-11-09T21:21:13.483Z",
    "updated_at": "2026-11-09T21:21:13.483Z",
-   "in_view": false
+   "in_view": true,
+   "corrected": true,
+   "correction_note": "Reconciled 2026-11-09 against Crunchbase export (announced 2026-10-08, Series C, $110M, HQ Woburn, Massachusetts, United States, North America)."
   },
   {
    "id": "6b5cfa9c85",
@@ -14429,6 +14404,50 @@
    "created_at": "2026-11-09T21:21:13.480Z",
    "updated_at": "2026-11-09T21:21:13.480Z",
    "in_view": false
+  },
+  {
+   "id": "a4e8cebb68",
+   "group_key": "10 largest nyc tech",
+   "candidate_ids": [
+    "66633da5039f"
+   ],
+   "company": "Valon",
+   "website": "valon.com",
+   "amount_usd": 150000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series D",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-10-05",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Crunchbase lists Artificial Intelligence / Machine Learning among the company's industries.",
+   "description": "Software infrastructure for mortgage servicing and other regulated financial workflows.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "Valon $150M",
+    "round": "Series D",
+    "lead": null,
+    "investors": "Andreessen Horowitz, Ribbit Capital"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/nyc-startup-funding-top-largest-october-2026-vc/"
+   ],
+   "exclude_reason": null,
+   "transaction_name": "Series D - Valon",
+   "first_seen_run": "2026-11-09-backfill",
+   "runs": [
+    "2026-11-09-backfill"
+   ],
+   "created_at": "2026-11-09T20:17:16.080Z",
+   "updated_at": "2026-11-09T20:17:16.080Z",
+   "in_view": true,
+   "corrected": true,
+   "correction_note": "Reconciled 2026-11-09 against Crunchbase export (announced 2026-10-05, Series D, $150M, HQ New York, New York, United States, North America)."
   },
   {
    "id": "d663f69de9",

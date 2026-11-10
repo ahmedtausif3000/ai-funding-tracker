@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-09T21:21:13.676Z",
+  "generated_at": "2026-11-10T05:42:42.847Z",
   "last_run": "backfill-2026-10-01_2026-11-09",
   "total_rounds": 334,
-  "in_view": 131,
+  "in_view": 137,
   "week": {
-    "count": 23,
-    "total_usd": 16617100000,
+    "count": 18,
+    "total_usd": 14766100000,
     "largest": {
       "company": "OpenAI",
       "amount_usd": 11000000000

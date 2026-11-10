@@ -8,7 +8,7 @@ import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { googleNewsQueries, STATIC_FEEDS, parseFeed, fetchText, BROWSER_UA } from './lib/feeds.mjs';
 import { decodeGoogleNewsUrl, isGoogleNewsLink, searchHeadlineUrl, resolveViaPublisherFeed, resolveViaBing } from './lib/google-news.mjs';
-import { htmlToText, extractMainHtml, parseAmount, FUNDING_VERB_RE, FUNDING_CTX_RE, AI_HINT_RE, headlineCompany, normalizeName, tokenSimilarity, isoDate, sleep } from './lib/text.mjs';
+import { htmlToText, extractMainHtml, parseAmount, FUNDING_VERB_RE, FUNDING_CTX_RE, ROUND_CTX_RE, AI_HINT_RE, headlineCompany, normalizeName, tokenSimilarity, isoDate, sleep } from './lib/text.mjs';
 
 const args = Object.fromEntries(process.argv.slice(2).map((a, i, arr) => a.startsWith('--') ? [a.slice(2), arr[i + 1] && !arr[i + 1].startsWith('--') ? arr[i + 1] : true] : []).filter(Boolean));
 const DAYS = Number(args.days || 2);
@@ -17,6 +17,8 @@ const TO = args.to || null;     // YYYY-MM-DD inclusive
 const RUN_DATE = args.date || isoDate();
 const FETCH_ARTICLES = !args['no-articles'];
 const MAX_GROUPS = Number(args['max-groups'] || 150);
+// WordPress feeds accept ?paged=N (10-20 items per page). Daily runs need page 1; backfills pass --feed-pages 40 or so.
+const FEED_PAGES = Number(args['feed-pages'] || 6);
 const MIN_AMOUNT = 15_000_000;
 const TEXT_CAP = 6000;
 const PART_SIZE = 10;
@@ -32,12 +34,14 @@ const log = (...m) => console.error(`[fetch ${new Date().toISOString().slice(11,
 const hash = (s) => crypto.createHash('sha1').update(s).digest('hex').slice(0, 12);
 const cutoff = FROM ? Date.parse(FROM + 'T00:00:00Z') : Date.now() - (DAYS + 0.5) * 86400e3;
 const ceiling = TO ? Date.parse(TO + 'T00:00:00Z') + 86400e3 : Infinity;
-// Weekly windows for date-range backfills (Google News returns at most ~100 items per query).
+// Short windows for date-range backfills: Google News returns only a few dozen relevance-ranked items per query,
+// so narrower windows surface more distinct articles (3-day windows found rounds that weekly windows missed).
+const WINDOW_DAYS = Number(args['window-days'] || 3);
 const windows = [];
 if (FROM) {
   let a = Date.parse(FROM + 'T00:00:00Z'); const end = Date.parse((TO || isoDate()) + 'T00:00:00Z');
-  while (a <= end) { const b = Math.min(a + 6 * 86400e3, end); windows.push({ from: isoDate(a), to: isoDate(b + 86400e3) }); a = b + 86400e3; }
-  log(`date range ${FROM}..${TO || isoDate()} in ${windows.length} weekly windows`);
+  while (a <= end) { const b = Math.min(a + (WINDOW_DAYS - 1) * 86400e3, end); windows.push({ from: isoDate(a), to: isoDate(b + 86400e3) }); a = b + 86400e3; }
+  log(`date range ${FROM}..${TO || isoDate()} in ${windows.length} windows of ${WINDOW_DAYS} days`);
 }
 
 const sources = [...(windows.length ? windows.flatMap((w) => googleNewsQueries(DAYS, w)) : googleNewsQueries(DAYS)), ...STATIC_FEEDS];
@@ -45,15 +49,25 @@ const feedStats = [];
 const raw = [];
 for (const src of sources) {
   try {
-    const res = await fetchText(src.url, { timeoutMs: 25000 });
-    const items = res.ok ? parseFeed(res.text) : [];
-    feedStats.push({ id: src.id, status: res.status, items: items.length });
-    log(`${src.id}: ${res.status} ${items.length} items`);
-    for (const it of items) {
-      const pub = it.published ? Date.parse(it.published) : NaN;
-      if (!Number.isNaN(pub) && (pub < cutoff || pub > ceiling)) continue;
-      raw.push({ ...it, source_feed: src.id, ai_specific: src.ai_specific, kind: src.kind });
+    const pages = src.paged ? FEED_PAGES : 1;
+    let total = 0, status = null;
+    for (let p = 1; p <= pages; p++) {
+      const url = p === 1 ? src.url : `${src.url}${src.url.includes('?') ? '&' : '?'}paged=${p}`;
+      const res = await fetchText(url, { timeoutMs: 25000 });
+      const items = res.ok ? parseFeed(res.text) : [];
+      status = status ?? res.status; total += items.length;
+      let older = false;
+      for (const it of items) {
+        const pub = it.published ? Date.parse(it.published) : NaN;
+        if (!Number.isNaN(pub) && pub < cutoff) older = true;
+        if (!Number.isNaN(pub) && (pub < cutoff || pub > ceiling)) continue;
+        raw.push({ ...it, source_feed: src.id, ai_specific: src.ai_specific, kind: src.kind });
+      }
+      if (!items.length || older) break; // past the window, stop paging
+      if (p < pages) await sleep(300);
     }
+    feedStats.push({ id: src.id, status, items: total });
+    log(`${src.id}: ${status} ${total} items`);
   } catch (e) {
     feedStats.push({ id: src.id, status: 'error', error: String(e.message || e) });
     log(`${src.id}: ERROR ${e.message}`);
@@ -82,12 +96,18 @@ for (const it of raw) {
   const blob = `${title}\n${snippet}`;
   if (!title || !it.link) continue;
   if (byLink.has(it.link)) { dropped.duplicate_link++; continue; }
-  if (!FUNDING_VERB_RE.test(blob) || !FUNDING_CTX_RE.test(blob)) { dropped.not_funding++; continue; }
-  const aiHint = AI_HINT_RE.test(blob);
-  if (!aiHint && !it.ai_specific) { dropped.no_ai_hint++; continue; }
-  if (FUND_RE.test(title)) { dropped.fund_close++; continue; }
   const amt = parseAmount(blob);
-  if (amt && amt.amount * (FX[amt.currency] || 1) < MIN_AMOUNT) { dropped.below_min++; continue; }
+  const amtUsd = amt ? amt.amount * (FX[amt.currency] || 1) : null;
+  const bigAmount = amtUsd != null && amtUsd >= MIN_AMOUNT;
+  // Funding signal: verb + context, or an explicit >= $15M amount with round language ("Spines: $64 Million Growth Financing").
+  const fundingSignal = (FUNDING_VERB_RE.test(blob) && FUNDING_CTX_RE.test(blob)) || (bigAmount && ROUND_CTX_RE.test(blob));
+  if (!fundingSignal) { dropped.not_funding++; continue; }
+  const aiHint = AI_HINT_RE.test(blob);
+  // Crunchbase tags AI/ML from the company's industry list, so headlines often omit "AI" (health tech, fintech,
+  // quantum). Non-AI feeds therefore keep any explicit >= $15M round and let the extractor decide is_ai_ml.
+  if (!aiHint && !it.ai_specific && !bigAmount) { dropped.no_ai_hint++; continue; }
+  if (FUND_RE.test(title)) { dropped.fund_close++; continue; }
+  if (amtUsd != null && amtUsd < MIN_AMOUNT) { dropped.below_min++; continue; }
   if (seen.has(it.link)) { dropped.seen++; continue; }
   let publisher = it.publisher || '';
   let cleanTitle = title;

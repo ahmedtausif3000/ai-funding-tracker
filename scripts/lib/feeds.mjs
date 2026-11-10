@@ -17,22 +17,41 @@ export function googleNewsQueries(days, range) {
     `AI infrastructure OR "AI chip" OR "data center" startup raises million`,
     `"emerges from stealth" AI million`,
   ];
-  return qs.map((q, i) => ({
-    id: range ? `gnews-${i + 1}-${range.from}` : `gnews-${i + 1}`,
+  // Generic (non-AI) funding queries. Crunchbase tags AI/ML by the company's industry list, so many
+  // in-scope rounds (health tech, fintech, quantum, biotech tooling) never say "AI" in the headline.
+  // These are marked ai_specific:false; the prefilter keeps them only with an explicit >= $15M amount
+  // or an AI hint, and the extractor decides is_ai_ml from the article.
+  const generic = [
+    `"raises" "Series A" million`,
+    `"raises" "Series B" million`,
+    `"raises" ("Series C" OR "Series D" OR "Series E" OR "Series F") million`,
+    `"seed" (raises OR secures OR closes) million startup`,
+    `startup raises million "led by"`,
+    `(secures OR lands OR closes OR nabs) million "funding" startup`,
+    `million "financing" (startup OR company) (announces OR closes OR raises)`,
+    `("emerges from stealth" OR "launches with" OR "out of stealth") million`,
+    `"raises" million (health OR medical OR fintech OR insurance OR biotech OR quantum OR defense OR energy)`,
+  ];
+  const mk = (q, i, ai) => ({
+    id: range ? `gnews-${ai ? '' : 'g'}${i + 1}-${range.from}` : `gnews-${ai ? '' : 'g'}${i + 1}`,
     kind: 'google-news',
-    ai_specific: true,
+    ai_specific: ai,
     url: `https://news.google.com/rss/search?q=${encodeURIComponent(q + ' ' + when)}&hl=en-US&gl=US&ceid=US:en`,
     label: `Google News: ${q}`,
-  }));
+  });
+  return [...qs.map((q, i) => mk(q, i, true)), ...generic.map((q, i) => mk(q, i, false))];
 }
 
 export const STATIC_FEEDS = [
   { id: 'prnewswire-vc', kind: 'rss', ai_specific: false, label: 'PR Newswire venture capital', url: 'https://www.prnewswire.com/rss/financial-services-latest-news/venture-capital-list.rss' },
-  { id: 'alleywatch', kind: 'rss', ai_specific: false, label: 'AlleyWatch funding', url: 'https://www.alleywatch.com/category/funding/feed/' },
+  { id: 'alleywatch', kind: 'rss', ai_specific: false, label: 'AlleyWatch funding', url: 'https://www.alleywatch.com/category/funding/feed/', paged: true },
+  // Pulse 2.0 posts nearly every US round as "Company Raises $X Million Series A"; WordPress ?paged=N reaches back ~11 days per 40 pages.
+  { id: 'pulse2', kind: 'rss', ai_specific: false, label: 'Pulse 2.0', url: 'https://pulse2.com/feed/', paged: true },
+  { id: 'citybiz', kind: 'rss', ai_specific: false, label: 'citybiz', url: 'https://www.citybiz.co/feed/', paged: true },
   { id: 'techcrunch-venture', kind: 'rss', ai_specific: false, label: 'TechCrunch venture', url: 'https://techcrunch.com/category/venture/feed/' },
   { id: 'techcrunch-funding', kind: 'rss', ai_specific: false, label: 'TechCrunch funding tag', url: 'https://techcrunch.com/tag/funding/feed/' },
   { id: 'techcrunch-ai', kind: 'rss', ai_specific: true, label: 'TechCrunch AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/' },
-  { id: 'techfundingnews', kind: 'rss', ai_specific: false, label: 'Tech Funding News', url: 'https://techfundingnews.com/feed/' },
+  { id: 'techfundingnews', kind: 'rss', ai_specific: false, label: 'Tech Funding News', url: 'https://techfundingnews.com/feed/', paged: true },
   { id: 'crunchbase-news', kind: 'rss', ai_specific: false, label: 'Crunchbase News', url: 'https://news.crunchbase.com/feed/' },
   { id: 'crunchbase-news-ai', kind: 'rss', ai_specific: true, label: 'Crunchbase News AI', url: 'https://news.crunchbase.com/sections/ai/feed/' },
 ];

@@ -27,6 +27,16 @@ To run a day by hand: `npm run fetch -- --days 2`, write `extracted.json` per th
 
 Only public RSS/Atom feeds, Google News RSS, and publisher pages that return 200 to a normal request. No scraping of crunchbase.com, no logins, no captcha bypass. Extracted facts link back to their sources. Articles are not republished.
 
+## Recall checks against Crunchbase exports
+
+`node scripts/compare-crunchbase.mjs <export.csv> [--from --to] [--out report.md]` matches a Crunchbase "Funding Rounds" CSV against `data/rounds.json` and reports caught-in-view, caught-out-of-view (with the reason) and missed rows, plus whether a missed company ever reached `candidates.json`. Reports live in `data/recall/`.
+
+Findings from the Oct 1 to 22, 2026 check (50 Crunchbase rows): Crunchbase tags AI/ML from the company's industry list, so a quarter of in-scope rounds (health tech, fintech, quantum) never say "AI" in the headline, and the original eight AI-only Google News queries never returned them. The fetch now also runs nine generic funding queries, keeps any explicit round of $15M or more from non-AI feeds, walks Pulse 2.0 and citybiz feed pages, uses 3-day windows for backfills, and the extraction contract follows Crunchbase's broad AI tagging and US dual-HQ convention.
+
+`data/corrections.json` holds manual overrides keyed by round id (`{ "<id>": { "hq_country": "US", "is_ai_ml": true, "note": "..." } }`); `merge-rounds.mjs` applies them after every merge, and `node scripts/merge-rounds.mjs --corrections-only` re-applies them on demand.
+
+Backfill knobs on the `fetch-candidates` workflow: `from`, `to`, `label`, `max_groups`, `feed_pages` (Pulse 2.0 runs about four pages per day, so 150 pages reaches roughly five weeks back).
+
 ## Known gaps
 
 Rounds with undisclosed amounts are excluded from the $15M view by definition. Lead investor is empty when the announcement does not name one. Stealth rounds without any press are missed; SEC Form D ingestion is a planned addition (`scripts/fetch-formd.mjs`, not yet built).

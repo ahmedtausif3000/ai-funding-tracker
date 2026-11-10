@@ -1,0 +1,90 @@
+{
+ "a5f918c0e6": {
+  "hq_country": "US",
+  "hq_city": "Atlanta",
+  "is_ai_ml": true,
+  "announced_date": "2026-10-22",
+  "amount_usd": 130000000,
+  "round_type": "Series D",
+  "lead_investors": [
+   "Sapphire Ventures"
+  ],
+  "ai_ml_rationale": "Crunchbase lists Artificial Intelligence / Machine Learning among the company's industries.",
+  "note": "Reconciled 2026-11-09 against Crunchbase export (announced 2026-10-22, Series D, $130M, HQ Atlanta, Georgia, United States, North America).",
+  "hq_state": "GA"
+ },
+ "e47e695544": {
+  "hq_country": "US",
+  "hq_city": "New York",
+  "is_ai_ml": true,
+  "announced_date": "2026-10-09",
+  "amount_usd": 1850000000,
+  "round_type": "Series G",
+  "lead_investors": [
+   "Avenir",
+   "Dragoneer Investment Group",
+   "Founders Fund",
+   "Sands Capital Ventures",
+   "Thrive Capital"
+  ],
+  "ai_ml_rationale": "Crunchbase lists Artificial Intelligence / Machine Learning among the company's industries.",
+  "note": "Reconciled 2026-11-09 against Crunchbase export (announced 2026-10-09, Series G, $1850M, HQ New York, New York, United States, North America).",
+  "hq_state": "NY"
+ },
+ "a4e8cebb68": {
+  "hq_country": "US",
+  "hq_city": "New York",
+  "is_ai_ml": true,
+  "announced_date": "2026-10-05",
+  "amount_usd": 150000000,
+  "round_type": "Series D",
+  "lead_investors": [],
+  "ai_ml_rationale": "Crunchbase lists Artificial Intelligence / Machine Learning among the company's industries.",
+  "note": "Reconciled 2026-11-09 against Crunchbase export (announced 2026-10-05, Series D, $150M, HQ New York, New York, United States, North America).",
+  "hq_state": "NY"
+ },
+ "50f7fb2df5": {
+  "hq_country": "US",
+  "hq_city": "Brooklyn",
+  "is_ai_ml": true,
+  "announced_date": "2026-10-15",
+  "amount_usd": 60000000,
+  "round_type": "Series B",
+  "lead_investors": [
+   "PeakSpan Capital"
+  ],
+  "ai_ml_rationale": "Crunchbase lists Artificial Intelligence / Machine Learning among the company's industries.",
+  "note": "Reconciled 2026-11-09 against Crunchbase export (announced 2026-10-15, Series B, $60M, HQ Brooklyn, New York, United States, North America).",
+  "hq_state": "NY"
+ },
+ "b765fab1d6": {
+  "hq_country": "US",
+  "hq_city": "New York",
+  "is_ai_ml": true,
+  "announced_date": "2026-10-14",
+  "amount_usd": 33000000,
+  "round_type": "Series A",
+  "lead_investors": [
+   "Bessemer Venture Partners",
+   "Lightspeed Venture Partners"
+  ],
+  "ai_ml_rationale": "Crunchbase lists Artificial Intelligence / Machine Learning among the company's industries.",
+  "note": "Reconciled 2026-11-09 against Crunchbase export (announced 2026-10-14, Series A, $33M, HQ New York, New York, United States, North America).",
+  "hq_state": "NY"
+ },
+ "9d9a77c792": {
+  "hq_country": "US",
+  "hq_city": "Woburn",
+  "is_ai_ml": true,
+  "announced_date": "2026-10-08",
+  "amount_usd": 110000000,
+  "round_type": "Series C",
+  "lead_investors": [
+   "Matter Venture Partners",
+   "Tyche Partners"
+  ],
+  "ai_ml_rationale": "Crunchbase lists Artificial Intelligence / Machine Learning among the company's industries.",
+  "note": "Reconciled 2026-11-09 against Crunchbase export (announced 2026-10-08, Series C, $110M, HQ Woburn, Massachusetts, United States, North America).",
+  "hq_state": "MA"
+ }
+}

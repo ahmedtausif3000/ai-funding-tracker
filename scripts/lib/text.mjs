@@ -53,8 +53,11 @@ export function parseAmount(text = '') {
   return { amount: Math.round(num * mult), currency, raw: m[0] };
 }
 
-export const FUNDING_VERB_RE = /\b(raises?|raised|raising|secures?|secured|closes?|closed|lands?|landed|nabs|bags|snags|scores|pulls in|brings in|announces?|emerges? from stealth with|gets|receives?|attracts?)\b/i;
-export const FUNDING_CTX_RE = /(\b(funding|round|series\s?[a-h]|seed|pre-seed|investment|financ\w+|million|billion|valuation|venture|capital|backed|led by|investors?)\b|[$€£]\s?\d)/i;
+export const FUNDING_VERB_RE = /\b(raises?|raised|raising|secures?|secured|closes?|closed|lands?|landed|nabs|bags|snags|scores|pulls in|brings in|reels in|hauls in|rakes in|takes in|picks up|locks in|collects|banks|wins|garners|notches|draws|bets|announces?|emerges? (?:from stealth )?with|exits? stealth with|(?:comes|came) out of stealth with|launch(?:es|ed)? with|debuts with|unveils .{0,40}\bwith|advises .{0,60}\bon|gets|receives?|attracts?)\b/i;
+export const FUNDING_CTX_RE = /(\b(funding|round|series\s?[a-h]\d?|seed|pre-seed|pre-a|investment|financ\w+|million|billion|valuation|venture|capital|backed|led by|investors?)\b|[$€£]\s?\d)/i;
+// A headline like "Spines: $64 Million Growth Financing" or "Wilson Sonsini Advises X on $50 Million Series B2 Financing"
+// has no funding verb; an explicit amount plus round language is enough.
+export const ROUND_CTX_RE = /\b(financing|funding|series\s?[a-h]\d?|seed|pre-seed|pre-a|round|raise)\b/i;
 export const AI_HINT_RE = /(\bAI\b|\bA\.I\.|artificial intelligence|machine learning|\bML\b|\bLLMs?\b|large language|foundation model|generative|\bGenAI\b|agentic|\bAI agents?\b|autonomous|robotics|\brobots?\b|computer vision|deep learning|neural|inference|\bGPUs?\b|copilot|speech recognition|voice AI|humanoid|self-driving|\bautonomy\b|data center|datacenter|\bdrones?\b|unmanned|uncrewed|\bUAVs?\b|\bAUVs?\b|perception|simulation|digital twin|edge AI|AI-powered|AI-native|AI-driven|intelligent automation)/i;
 
 const STOP_SUFFIX = /\b(inc|incorporated|corp|corporation|co|company|llc|ltd|limited|plc|gmbh|holdings|technologies|technology|labs|lab|ai|io|hq)\b\.?/gi;
@@ -73,9 +76,11 @@ export function headlineCompany(title = '') {
   t = t.replace(/^(exclusive|breaking|report|scoop|sources?)\s*:\s*/i, '');
   const m = t.match(FUNDING_VERB_RE);
   let head = m ? t.slice(0, m.index) : t.split(/[:,]/)[0];
-  // "...officials' startup Mavria raises" -> "Mavria"
-  const after = head.match(/\b(?:startup|start-up|firm|company|platform|developer|maker|scale-up|unicorn|app|lab)\s+([A-Z][\w.&-]*(?:\s+[A-Z][\w.&-]*){0,2})\s*$/);
-  if (after) head = after[1];
+  // "Sunbound Acquires Richter Healthcare Consultants, Raises $24M" -> "Sunbound"
+  head = head.replace(/\s+(?:acquires?|buys|launches|partners|unveils|debuts|expands|opens|names|appoints|hires|rebrands|exits)\b.*$/i, '');
+  // "...officials' startup Mavria raises" / "Pasadena Quantum Startup Oratomic Raises" -> company after the descriptor
+  const after = head.match(/\b(?:startup|start-up|firm|company|platform|developer|maker|scale-up|unicorn|app|lab|layer|provider|builder|pioneer|specialist)\s+([A-Z][\w.&-]*(?:\s+[A-Z][\w.&-]*){0,2})\s*$/i);
+  if (after && /^[A-Z]/.test(after[1])) head = after[1];
   else if (head.includes(',')) head = head.split(',')[0]; // "Spines, a hybrid publisher," -> "Spines"
   head = head.replace(/\b(ai|a\.i\.|startup|start-up|company|firm|maker|developer|platform|provider|unicorn|robotics)\b.*$/i, (s) => s.split(/\s/)[0]);
   head = head.replace(/^(the|an?)\s+/i, '').replace(/[,.'’]+$/, '').trim();

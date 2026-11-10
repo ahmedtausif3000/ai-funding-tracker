@@ -21,6 +21,9 @@ on:
       max_groups:
         description: "Max candidate groups"
         default: "150"
+      feed_pages:
+        description: "Pages to walk on paged feeds (Pulse 2.0 etc.); ~40 covers 10 days"
+        default: "6"
 
 permissions:
   contents: write
@@ -44,7 +47,7 @@ jobs:
         id: fetch
         run: |
           set -o pipefail
-          ARGS=(--days "${{ github.event.inputs.days || '2' }}" --max-groups "${{ github.event.inputs.max_groups || '150' }}")
+          ARGS=(--days "${{ github.event.inputs.days || '2' }}" --max-groups "${{ github.event.inputs.max_groups || '150' }}" --feed-pages "${{ github.event.inputs.feed_pages || '6' }}")
           if [ -n "${{ github.event.inputs.from }}" ]; then ARGS+=(--from "${{ github.event.inputs.from }}"); fi
           if [ -n "${{ github.event.inputs.to }}" ]; then ARGS+=(--to "${{ github.event.inputs.to }}"); fi
           if [ -n "${{ github.event.inputs.label }}" ]; then ARGS+=(--date "${{ github.event.inputs.label }}"); fi
