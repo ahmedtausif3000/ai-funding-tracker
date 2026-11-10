@@ -423,3 +423,499 @@
 {"run":"backfill-2026-10-01_2026-11-09","action":"inserted","id":"6d8b94cf82","company":"n/a (BW Disrupt October 2026 AI funding aggregate)","in_view":false,"exclude_reason":"not-funding"}
 {"run":"backfill-2026-10-01_2026-11-09","action":"inserted","id":"ade83fbabc","company":"Inspiration Robotics (AGIMind Robotics)","in_view":false,"exclude_reason":"non-us"}
 {"run":"backfill-2026-10-01_2026-11-09","action":"inserted","id":"5cdac95211","company":"OneX","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1ce5cfb905","company":"Anthropic","in_view":false,"exclude_reason":"stage"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0146e3e78d","company":"Etched","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"553e715679","company":"SpaceX","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"c9f2a30be5","company":"Monte dei Paschi di Siena","in_view":false,"exclude_reason":"acquisition"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"88e30cbbd0","company":"Rillet","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"4e91b76333","company":"Stuut","from":"Stuut"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"736a8d874a","company":"Cleavr","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"02b561fb03","company":"Raytheon (RTX)","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"de2bd7501b","company":"GlobalFoundries","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"72c11d2671","company":"IBM","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"8165bd8ab0","company":"DeepSeek","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"30a1379f57","company":"Jabil","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"4e8ff47377","company":"Cambridge startups (aggregate)","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"2ea49891dc","company":"Legora","from":"Legora"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"226e91dee4","company":"Blackstone Energy Transition Partners V","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"59910c90f4","company":"USDA Harvest Fuel Relief program","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"37ccf7b66a","company":"Truist personal loan portfolio","in_view":false,"exclude_reason":"acquisition"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"3fa4206a85","company":"UnitedHealth Group","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"02b561fb03","company":"Raytheon (RTX)","from":"Raytheon (RTX)"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"db4ba6f335","company":"BakerAvenue Wealth Management","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"85b0d7b9d4","company":"Tenstorrent","from":"Tenstorrent"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"9c337f0386","company":"Pantheon Global Secondaries Fund VIII","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"5fd9f3bfe5","company":"Waymo","in_view":false,"exclude_reason":"stage"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"aac1eaae9c","company":"Vistra","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"63fdce0426","company":"Ares Global Structured Solutions Fund","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"ae4ba1f824","company":"MidOcean Energy","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"18ac15d2cc","company":"Nebius Group","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"f1e743ab62","company":"EnCap Minerals continuation vehicle","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"c05420336a","company":"Ampersand","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"e85045e0b4","company":"Arena","from":"Arena"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"93085b8bcd","company":"Avarra","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"cc04e2de09","company":"Aventra Defense Systems","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"06acf90d1c","company":"Capitolis","from":"Capitolis"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"198aeb14b2","company":"Clockwork Systems","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"d44fdbd6fa","company":"Flai","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"384a70ebe5","company":"Fortastra","from":"Fortastra"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"6639703dd0","company":"Gallatin AI","from":"Gallatin"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b6f56ab357","company":"General Medicine","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b616dc4986","company":"Ghost","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"7a308c73c0","company":"GUDEA","from":"GUDEA"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"48237fcff5","company":"Hilt","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"13abee8111","company":"Melius","from":"Melius"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"fdaea1c89b","company":"MMI","from":"MMI"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"73319944bc","company":"Multiply Labs","from":"Multiply Labs"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"ef765964ef","company":"Namespace","from":"Namespace Labs"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"f9e692481e","company":"Nous Research","from":"Nous Research"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0fb8a019f9","company":"Oratomic","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"9edd3d55c6","company":"Parallel Systems","from":"Parallel Systems"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"23965d1ac9","company":"Pro Shop","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"7c117e4cfc","company":"Santé","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e7909d96cb","company":"Trmeric","in_view":false,"exclude_reason":"below-min"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"925fccd1ea","company":"Type One Energy","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"543444c3fe","company":"TypeSafe AI","from":"TypeSafe AI"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"90722265c4","company":"Ultra","from":"Ultra.tech"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"c940403605","company":"UpSmith","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"a4e8cebb68","company":"Valon","from":"Valon"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"9d9a77c792","company":"VEIR","from":"VEIR"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"558f545600","company":"Vitalize","from":"Vitalize"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"6c45bd712c","company":"Voltus","from":"Voltus"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"bf20bfc49a","company":"Wally Health","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"88f3a183ed","company":"Zenflow","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"7976b5ee40","company":"Sarvam AI","from":"Sarvam AI"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"71c82384f9","company":"ASI","from":"ASI"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0570b051d5","company":"SBG Funding","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"869439d7af","company":"OrbiMed Private Investments X / OrbiMed Asia Partners VI","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"64cdd8d080","company":"Wonderful","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"474715e04a","company":"Cyera","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"cd76a0a0fa","company":"Island","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b2199b651e","company":"Upwind","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"7be757e3cd","company":"Covenant","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"7c03651598","company":"Reco","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"7d225e2bc7","company":"AIR Security","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"9f947ea9b2","company":"Cymphony","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"d9757e9c82","company":"Huskeys","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"a4a8ef4ff9","company":"Guardio","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"61f5e7abe7","company":"Apollo Atomics","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"1278b19235","company":"Armadin","from":"Armadin"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"2cc5d81abd","company":"Ascerta","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"347a9a13cd","company":"Atomic","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"fb0e17a67d","company":"Biotia","in_view":false,"exclude_reason":"below-min"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"839d5d1a37","company":"CScale","from":"CScale"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e8d7ae5ad1","company":"Daptic","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"8930676835","company":"Dodge AI","in_view":false,"exclude_reason":"below-min"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"f434ff55bd","company":"Efficient Computer","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e60752d870","company":"EliseAI","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"f75debcd8f","company":"General Intuition","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"84dba12d56","company":"GMI Cloud","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b7591e6c00","company":"Halluminates","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0838dc8a24","company":"Instinct","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"7c94367d5e","company":"Jeeves","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"a6df48e053","company":"Limited","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"c4aa2446c3","company":"Meadow AI","in_view":false,"exclude_reason":"below-min"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"4ecd185a1c","company":"Menos AI","in_view":false,"exclude_reason":"below-min"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"2a5e98879d","company":"Miter","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1fbc83a1e8","company":"Parakeet Health","in_view":false,"exclude_reason":"below-min"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"bdd592f3fd","company":"Presto","in_view":false,"exclude_reason":"below-min"}
+{"run":"recall-2026-10-01_2026-10-22","action":"amount-conflict","id":"e70dd936c2","company":"Quartermaster AI","stored_amount":140000000,"incoming_amount":100000000,"incoming_sources":["https://www.alleywatch.com/2026/10/the-weekly-notable-startup-funding-report-10-5-26/"]}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"e70dd936c2","company":"Quartermaster AI","from":"Quartermaster AI"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"6ff84047aa","company":"Quotr.ai","in_view":false,"exclude_reason":"below-min"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"97da30c817","company":"Relay","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"5048000310","company":"Satlyt","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"e4641111c0","company":"SiMa.ai","from":"SiMa.ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"d663f69de9","company":"Supabase","from":"Supabase"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"7898eb303e","company":"Tangent Robotics","in_view":false,"exclude_reason":"below-min"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"7d2743449a","company":"Volantis","from":"Volantis"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"d7ba1f8c8f","company":"Forbion Growth Opportunities Fund IV / Forbion Ventures Fund VIII","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"add20666bd","company":"Mullinix Mortgage Group","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"bceff037ab","company":"Phoenix Tower International","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"5c9b7d2bf8","company":"Axiom Solutions International","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1ac2b3c471","company":"Oaktree Asset-Backed Finance Fund I","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"3a0ca78d41","company":"ID Finance","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e2dac4eada","company":"CMR Surgical","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"5b389e9377","company":"EZO","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"61b4f1de56","company":"Salience Labs","from":"Salience Labs"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"cc8eb8c506","company":"1KOMMA5°","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"64737dff5c","company":"Microbiotica","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"b898a16e75","company":"Dougs","from":"Dougs"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"420d0f71d0","company":"Scarlet","from":"Scarlet"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"963df2da10","company":"Rabot Energy","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"a1c5d52be3","company":"LearnUpon","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1eb7d06262","company":"Connexin","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"fa10c77125","company":"Duvo","from":"Duvo"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"4fbb58f7e8","company":"Turn2X","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"32dc5a34e7","company":"Qilimanjaro Quantum Tech","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"74925d8efb","company":"Epyr","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1ad6cc619d","company":"Biohub Virtual Biology Initiative","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"afbec2e579","company":"Abby Care","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"f1cc81497b","company":"Albert Invent","from":"Albert Invent"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"f62e6cee59","company":"Allara","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"c67dd9c517","company":"Causa Prima","from":"Causa Prima"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"1335ebfb19","company":"Clueso","from":"Clueso"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"193750b76f","company":"Confido Health","in_view":false,"exclude_reason":"below-min"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"df504782ce","company":"Harmonic Security","from":"Harmonic Security"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"7ca00887e0","company":"Icon","from":"ICON"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"66b8519b38","company":"Loops AI","in_view":false,"exclude_reason":"below-min"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"5357e586a7","company":"Marklo","in_view":false,"exclude_reason":"below-min"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"53d224b1b7","company":"Modal Labs","from":"Modal Labs"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"1d50b95eec","company":"Mueon","from":"Mueon"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"eaf42d7fe2","company":"Opsin","from":"Opsin"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"a2dc3b3ff6","company":"RapidCanvas","from":"RapidCanvas"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"ae2812a8aa","company":"Reach Security","from":"Reach Security"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0082398424","company":"Sirona Medical","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"408fee2274","company":"Stand","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"92085c108f","company":"Suki","from":"Suki"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"bb8e991496","company":"Sunbound","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"6dcb03e3c4","company":"Zippy","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"55216734b6","company":"Incline Aviation III (BBAM)","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0f3040934b","company":"Lamb Weston","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0348ee2b7c","company":"MENA startups (aggregate)","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"03ef41fcc1","company":"Levi Strauss & Co.","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e4eb99779b","company":"Wolfspeed","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"a15b9df65a","company":"Eka Robotics","from":"Eka Robotics"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"ce048961b5","company":"Clean Power Alliance","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"4bc5b35d05","company":"Children's Hospital Los Angeles","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"6533ff7511","company":"1Komma5Grad","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"7acf49d59b","company":"Consonance Capital Partners","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"6a5c3f6b20","company":"McGraw Hill","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"2e8b9694bc","company":"Belk","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e11c44391f","company":"MI College Match","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"3b24723873","company":"HPE","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"2308da2fad","company":"Evolution Equity Partners","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"2abe1c1a59","company":"Lambda","in_view":false,"exclude_reason":"stage"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"9791ba5775","company":"Daytona","from":"Daytona"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"0838dc8a24","company":"Instinct","from":"Instinct"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"a583eccad5","company":"Analogic","in_view":false,"exclude_reason":"acquisition"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"f16b93b17f","company":"SOAR AI (Volato Group)","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"9abff202dc","company":"Omni Bridgeway","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"7f4c902549","company":"Synergy Capital Solutions","in_view":false,"exclude_reason":"acquisition"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b15ee77b9c","company":"Megaport","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"4540e910b2","company":"OpenText","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"d032c3c124","company":"Amazon","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"9ca46f73c9","company":"Kahua","in_view":false,"exclude_reason":"undisclosed"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"6fe37767bc","company":"Vintage Investment Partners","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0f21ef9c40","company":"Ernst & Young","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"21579b2f73","company":"Energy Capital Partners","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"11e8f3f495","company":"energyRe","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"ccccd5a95e","company":"SWI Group","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"a8898085bf","company":"Maxwell Power","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"0fb8a019f9","company":"Oratomic","from":"Oratomic"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"53d224b1b7","company":"Modal Labs","from":"Modal Labs"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"7ca00887e0","company":"Icon","from":"Icon"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"7c21a05a4f","company":"Soufflé Therapeutics","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"9421af689f","company":"Estuary Biotherapeutics","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0626d720d7","company":"Estuary Biotherapeutics","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"31a1417e7e","company":"Islamic Development Bank and IFAD","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"d1f74d91d5","company":"Nexora","in_view":false,"exclude_reason":"acquisition"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"5edd7266f5","company":"Leslie's","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"84dba12d56","company":"GMI Cloud","from":"GMI Cloud"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1a048a36d0","company":"GMI Cloud","in_view":false,"exclude_reason":"stage"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"17ce84967f","company":"Accelevation","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"5d270c03db","company":"Pagaya Technologies","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1d44407011","company":"Stryten Energy","in_view":false,"exclude_reason":"acquisition"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"3073ac024c","company":"Nigerian startups (nine-month aggregate)","from":"Nigerian startups (aggregate)"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b5d4c7c307","company":"Dwight Capital","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"3bbc74e550","company":"Angle Health","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"f61e7872e7","company":"Gray Media","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"5a08b6ecdc","company":"Blue Bird","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"6a9383fa50","company":"Penguin Solutions","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"cf991b7b0e","company":"Bally's Corporation","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"00e2833b00","company":"Harvey","from":"Harvey"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"2ea49891dc","company":"Legora","from":"Legora"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"d74e8c234c","company":"NETSTREIT","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"3a0ca78d41","company":"ID Finance","from":"ID Finance"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"d02094784b","company":"Hashi (Sui Foundation)","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e1174eb949","company":"Sosteneo","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e91847172b","company":"Perennial Wealth Partners","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"fdb0b07aec","company":"Ortet","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"729a530747","company":"Sabey Data Center Properties","in_view":false,"exclude_reason":"undisclosed"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"0fb8a019f9","company":"Oratomic","from":"Oratomic"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0a4f88fb52","company":"Homeward","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b0aedb0124","company":"Homeward","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"738fe93706","company":"SmartCentres Real Estate Investment Trust","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"bbaf41f095","company":"Oxide Computer Company","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"5f7910cfd9","company":"Helen of Troy","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"8394382037","company":"Wingspire Equipment Finance","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"cd76a0a0fa","company":"Island","from":"Island"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"d3f51aac8a","company":"Winverse AI","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"be5f89a49c","company":"Neolix Technologies","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"ea345b6215","company":"Tenable Holdings","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"494f5ebf48","company":"Hercules Capital","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"91eed00412","company":"Delek US Holdings","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b6f6e111e1","company":"Monroe Capital","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"377cbefcd2","company":"Apogee Enterprises","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"01c16f1621","company":"Aligned Climate Capital","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"a6a96cacfc","company":"Platform Accounting Group","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b665403aa0","company":"Zelestra","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"a12d0b687c","company":"WTEC","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"ce4538adaf","company":"Pilot Fiber","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"9d13b6f171","company":"Otter.ai","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"28dcf82f01","company":"Lycia Therapeutics","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1020baf516","company":"OMass Therapeutics","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"8304e77e23","company":"Lydian Energy","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"22b3f07714","company":"Atom Computing","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"d2fd09cd5f","company":"NZCR Group","in_view":false,"exclude_reason":"acquisition"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"5f74088bea","company":"Pyxis Oncology","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b672dae475","company":"Thrixel","in_view":false,"exclude_reason":"below-min"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"6b4a6569a2","company":"Inomagen Therapeutics","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e4fb71ce9f","company":"Celero Communications","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"2c3565a1b2","company":"The RMR Group","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"dcaceeddc1","company":"SMT Energy","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"38b6d44318","company":"Ironbark Financial Group","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"2b1b387725","company":"Varda Space Industries","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"27405a2fff","company":"Fever","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"2087f8cce8","company":"Xona","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"2453833653","company":"Zai Lab","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"5cc48c3762","company":"Three Corners Connector","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"6bf8187476","company":"SWEN Capital Partners","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"fdd0ef0c33","company":"Arda Industries","from":"Arda Industries"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"854fe7de98","company":"Arda Industries","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"cfcdb7e176","company":"Mal","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"a4b2be74d0","company":"Lockheed Martin","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"f077a9b7ba","company":"Mujin","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"dac343b208","company":"Neogen","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"06acf90d1c","company":"Capitolis","from":"Capitolis"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"925fccd1ea","company":"Type One Energy","from":"Type One Energy"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"e85045e0b4","company":"Arena","from":"Arena"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"8440909348","company":"Digi Power X","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"61270a8c11","company":"Sophos","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"68b80cefa7","company":"DailyPay","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"d51fdd57e1","company":"MONTICELLOAM (lender; skilled nursing portfolio borrower unnamed)","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"4e0d606c13","company":"Boston Financial (ITC 63 fund)","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"dc6d80ab2e","company":"NorthStar Medical Technologies","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"cb2adb4827","company":"Terra","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"d099fe08e1","company":"Scanntech","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"946711a8d4","company":"U.S. Department of Agriculture (Seed Sovereignty Initiative)","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e5ab988a9f","company":"Reverion","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"c97120c8e0","company":"Helion","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e53e23e529","company":"Pivot Energy","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e178c62789","company":"Revalue Energies","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"dfe4b769c1","company":"CrownPoint Partners","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"c1cfaf4e84","company":"Generate Capital / KeyState SOLCAP (community solar tax equity fund)","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"99c34bbcf8","company":"Matchpoint Therapeutics","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"5c9409f06a","company":"Ledgebrook","from":"Ledgebrook"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e8bb339ca3","company":"VIVA Finance","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"5b389e9377","company":"EZO","from":"EZO"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b082056655","company":"Rocket Pharmaceuticals","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1071dfd5f3","company":"EarnIn","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"68f69536e4","company":"Everforth ECS","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"02e944c672","company":"Salmon","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"df87c9d4c7","company":"Salary Hero","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0be7804efb","company":"Hillwood (Speedway Commerce Center)","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"7c21a05a4f","company":"Soufflé Therapeutics","from":"Soufflé Therapeutics"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0a0841574e","company":"Nouscom","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"2c5d99ccf0","company":"CBL Properties","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"ead122ebcf","company":"QumulusAI","in_view":false,"exclude_reason":"stage"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"0a4f88fb52","company":"Homeward","from":"Homeward"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"b0aedb0124","company":"Homeward","from":"Homeward"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"b6f56ab357","company":"General Medicine","from":"General Medicine"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"3a79ecdf3a","company":"Unison Energy","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"7c94367d5e","company":"Jeeves","from":"Jeeves"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"3f840aec2f","company":"Town","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"67ab304894","company":"Peak Energy","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"be81a8f655","company":"Techloy Africa & Middle East Week 41 round-up (unresolved)","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"9421af689f","company":"Estuary Biotherapeutics","from":"Estuary Biotherapeutics"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"42138f1b68","company":"Quartermaster","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"195b93c523","company":"Quartermaster","in_view":false,"exclude_reason":"stage"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"8bee038d91","company":"Universal Quantum","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"180e8bf976","company":"Centrus Energy","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"49ef707bff","company":"Aureka Biotechnologies","in_view":false,"exclude_reason":"duplicate"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"ae5934e9ba","company":"Blackwall","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"76c89e0403","company":"Newegg Commerce","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"4c55d4431f","company":"Meshy","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1f0bd8a5ef","company":"Alchemist Capital","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"a788e233a7","company":"Spellbook","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"113a48fab4","company":"Fortitude Mining","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e6214dea7c","company":"Lattis Management (Lattis LP / Lattis Infrastructure LP)","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"9d424646ec","company":"Rainmaker Technology","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1615fb3c28","company":"Huntington Ingalls","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"f434ff55bd","company":"Efficient Computer","from":"Efficient Computer"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"c20f52e6ca","company":"Dream Labs","from":"Dream Labs"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"4c520ce77b","company":"ADC Therapeutics","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"8305c3f891","company":"Capital Square","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"9ee418cb30","company":"Rogers Behavioral Health","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"afbec2e579","company":"Abby Care","from":"Abby Care"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"58615fe1b7","company":"Sofinnova Partners","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"2f27ff15a6","company":"KymaThera","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"904793c0e9","company":"Oro Mobility","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"334ea702e8","company":"Kampala Capital","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"30ec11f40d","company":"IFS Capital","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"cc8eb8c506","company":"1KOMMA5°","from":"1KOMMA5°"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"4223509280","company":"Tiger Finance","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"a113829551","company":"Endeavor Catalyst","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"95c6b6a41f","company":"Tishman Speyer Korea Living Venture","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"6546021ae1","company":"Diraq","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"689173ea35","company":"Vertical Semiconductor","in_view":false,"exclude_reason":"stage"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"d061f6226f","company":"Afterglow Climate Justice Fund","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"6f6f8d00d3","company":"Condor Energies","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"408fee2274","company":"Stand","from":"Stand"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"ca32fca4a9","company":"Distalmotion","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"5b32b436ac","company":"AMP","in_view":false,"exclude_reason":"stage"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1829d4bb36","company":"Future London Growth Fund (FSE Group)","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"57b3a62fcb","company":"Breye Therapeutics","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"fb8d8958dd","company":"Blacksmith","from":"Blacksmith"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"1d50b95eec","company":"Mueon","from":"Mueon"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"322cd631d3","company":"EVelution Energy","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"90722265c4","company":"Ultra","from":"Ultra"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"d6ec77c862","company":"Gogoro","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0e5a6f5217","company":"Archa","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1ca9a6e5ff","company":"Braavo Capital","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"a037b4849a","company":"Certified Origins","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"a91bc9ef24","company":"RougeTx","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"3d0828b244","company":"Sibelco","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"4553db1042","company":"Gaius Capital","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"8a4735736c","company":"Turbine Capital","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"3b06144f9b","company":"Kevel","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1dd6e7f4d5","company":"Flow Engineering","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"927ec9d3aa","company":"NN","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"f04a2f96a4","company":"Rebel Audio","from":"Rebel Audio"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"c8dd799ab2","company":"Fortem Technologies","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0b8f68c690","company":"Even Healthcare","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"963df2da10","company":"Rabot Energy","from":"Rabot Energy"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"9c910c048c","company":"IPA Capital Markets","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"40dc4c515d","company":"Innovative Industrial Properties","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"d7a3852b8d","company":"Atrium Therapeutics","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"02bdde30d7","company":"FIRY","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e7047a9ff1","company":"Benchmark Energy II","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"24a29cd1bb","company":"Aquitaine Metals","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"93ed0fd575","company":"Sensible Biotechnologies","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"4a8e93c3b1","company":"Neighborhood Intelligence","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"a1c5d52be3","company":"LearnUpon","from":"LearnUpon"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"4ab7e34174","company":"TVS Automobile Solutions","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"amount-conflict","id":"b765fab1d6","company":"Zenzap","stored_amount":33000000,"incoming_amount":44000000,"incoming_sources":["https://pulse2.com/zenzap-emerges-from-stealth-with-44-million/","https://news.google.com/rss/articles/CBMilAFBVV95cUxPYXN5ZmNIMGlRYWdmUWZDUEl1S0xoTGZpQ21mTmI1S3Y5TEExZXBsZ2JFVnFTZG9DTHpJd0QxcHpUcGtWSm1JYlBwUVJtTWprZmhza3l0dnRUMElGSFdfdTJSV3FYRDN3TnoxbU1vcjBsVWFoVFR1bGh0NExnREljaDFBRVBkZ2VYU3liXzk0V0o5d0pS?oc=5","https://quasa.io/he/media/zenzap-gyysh-33-mylyvn-dvlr-hsbb-nsgr-shnh-lpny-hkhshyph"]}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"b765fab1d6","company":"Zenzap","from":"Zenzap"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"a23ac5dc6e","company":"Aptadir Therapeutics","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"0082398424","company":"Sirona Medical","from":"Sirona Medical"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"09da301cd3","company":"WILDE","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"292c0e6b55","company":"Noah","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"b6f4b5d764","company":"Healthleap","from":"Healthleap"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"c1126404db","company":"Healthleap","from":"Healthleap"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b8a0f786f2","company":"Meanwhile","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"4cccbb3aeb","company":"Altay Therapeutics","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"64737dff5c","company":"Microbiotica","from":"Microbiotica"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"fef8aa55c0","company":"ZAP Surgical Systems","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"ccb48e5853","company":"Riverwards Group (Somerset Phase II)","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"73202c95b1","company":"Paymob","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"7e031d1209","company":"Gardens Interactive","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"336344753e","company":"Mave","from":"Mave"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"6c4a630097","company":"L3Harris Technologies","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"e533877508","company":"Nirva","from":"Nirva"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"175d08716e","company":"Oshkosh Defense","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"198aeb14b2","company":"Clockwork Systems","from":"Clockwork.io"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"7d6f66e333","company":"Xcimer Energy","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"4e7c1bcb3b","company":"Tian Keyu world-model startup (unnamed)","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"f62e6cee59","company":"Allara","from":"Allara"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0204472824","company":"Elax Energy","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b5bd8ca471","company":"High Lander","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"2efba1288c","company":"National Math Stars","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1fb6ace669","company":"Vates","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"26f3f58aba","company":"Arboretum LifeSciences","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"fa10c77125","company":"Duvo","from":"Duvo"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1afe254c3c","company":"Trustar Bankshares","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0fc68e77e2","company":"XIVER","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"21c0518561","company":"6K Additive","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"cd33937905","company":"Hive","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"5f6db53e18","company":"Dat Bike","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"cce06f4713","company":"Mistlabs","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"bf20bfc49a","company":"Wally Health","from":"Wally"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"966eb9dc45","company":"EZ Bombs","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"6ce7780ec3","company":"Phononic Vibes","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"fb4093a46a","company":"Dan-O's Seasoning","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"366d1bb320","company":"Melius","in_view":false,"exclude_reason":"below-min"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"13abee8111","company":"Melius","from":"Melius"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"3631d08db2","company":"Furientis","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1490a01ce1","company":"Mojo Vision","in_view":false,"exclude_reason":"stage"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"23965d1ac9","company":"Pro Shop","from":"Pro Shop"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"4a4515f05e","company":"Kapta Space","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"bb8e991496","company":"Sunbound","from":"Sunbound"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"3890379270","company":"Acta Pharmaceuticals","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"68c6056de8","company":"NVM Ventures","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"55c839835b","company":"Brellium","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"193750b76f","company":"Confido Health","from":"Confido Health"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b7e53112ea","company":"University of Pennsylvania","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"72724097f5","company":"OuterSignal","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"8667b19e86","company":"NSF IMOD (University of Washington-led Center for Integration of Modern Optoelectronic Materials on Demand)","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"ed14f613ce","company":"Delaware hub for Human-AI cooperation in healthcare","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"249d7a8d0c","company":"Arctic Therapeutics","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"c9c526636e","company":"Tamr","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"8ebc7d082b","company":"Helical Fusion","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"27f881ad06","company":"Vocca","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"6dcb03e3c4","company":"Zippy","from":"Zippy"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"6c9eaeb4e6","company":"LanzaJet","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"481d8d2153","company":"Longeye","from":"Longeye"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"9d82a63691","company":"Global Network for the Advancement of Metabolic Psychiatry (MetPsy)","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"00f79f0952","company":"Cuttable","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"404d2b2cc5","company":"Polyphron","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e88b52599c","company":"FORT Robotics","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"28e0490714","company":"Michigan State University","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"f4bc50baf0","company":"Restate","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"15e12ac29c","company":"AblePay Health","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"3e6a2af8e5","company":"Basalt Health","from":"Basalt Health"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e52134eaac","company":"Hurotics","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1d4e292c4d","company":"Kopin","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"73a0f4f40d","company":"Atombeam","in_view":false,"exclude_reason":"stage"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e0612eb4ff","company":"Undecimal Bio","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"7bac5cf64e","company":"Sharp Performance","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"f6e71662e3","company":"Masia","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"41ea756e3c","company":"Trebellar","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"8b1b0b14f2","company":"W4 Games","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"cc04e2de09","company":"Aventra Defense Systems","from":"Aventra Defense Systems"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b72b591277","company":"Sunlight AI","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"16338a47fc","company":"CRAB Lab (University of Maryland-led Collaborative for the Realization of Autonomous Biomanufacturing Lab)","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"7d94d509d9","company":"Hephaestus","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"2c2d22d958","company":"The Alexandria (Hunt Capital Partners / Riverstone Platform Partners)","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"93085b8bcd","company":"Avarra","from":"Avarra"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"648edfb1a3","company":"Axya","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"629f8f107e","company":"Novele","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"74925d8efb","company":"Epyr","from":"Epyr"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b4cfb1ec93","company":"Switched Source","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"d9bfa55dce","company":"Ditto","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"36404e09e1","company":"GenHealth.ai","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"28f245144f","company":"Helicon","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"e8d7ae5ad1","company":"Daptic","from":"Daptic"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"fe94231c46","company":"Gravity","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"c05420336a","company":"Ampersand","from":"Ampersand"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"7c117e4cfc","company":"Santé","from":"Santé"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"88f30b8b9b","company":"Edonia","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b0bbc995c7","company":"BioConsortia","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"23d907c63a","company":"International Dance League","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"77b32373ff","company":"Sixiang Technology","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"94af17fc78","company":"Lucid Diagnostics","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1a5a737eb9","company":"Firstwork","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"7c117e4cfc","company":"Santé","from":"Santé"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"50573971e8","company":"Rhino USA","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"8cd14d0c7a","company":"Everphone","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"a9a039b8d1","company":"Heartbeats","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"93dd57a1cd","company":"Meticulous","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"da747692dc","company":"Consano Bio","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"27ef42b117","company":"Medincell","in_view":false,"exclude_reason":"public-company"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1481b40857","company":"QuikApp","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"d1a00a6ba1","company":"SecondSight","in_view":false,"exclude_reason":"undisclosed"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"c614c19d70","company":"Sunfox Technologies","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0b5ae24124","company":"NIMO","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"cccb56beeb","company":"Parallel Loop","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"10cd3aa531","company":"Fetch.ai","in_view":false,"exclude_reason":"not-funding"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"1a9cdbf22a","company":"SUNMMIO","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"d733d58176","company":"TrustedRouter","in_view":false,"exclude_reason":"below-min"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"8f37b3cb74","company":"TheQA","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"3c9bba8746","company":"AdGraam","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"7ddbdb6edb","company":"Hunar AI","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b4e8bd8263","company":"Yuanhuan Intelligent","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e59eb1c829","company":"Gewu Tongzhi","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"ac4726220a","company":"Ayan","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"68a703ae18","company":"Databuddy Analytics","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"b8ca1926d4","company":"Vectorial","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e4ced6312e","company":"DashFuel","in_view":false,"exclude_reason":"undisclosed"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"6346718be4","company":"October Capital","in_view":false,"exclude_reason":"fund"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"0a329b4717","company":"Athletics","in_view":false,"exclude_reason":"acquisition"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"13c01e1012","company":"ITpipes","in_view":false,"exclude_reason":"undisclosed"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e4db7f8797","company":"Robotiq.ai","in_view":false,"exclude_reason":"acquisition"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"83b87b0fc6","company":"MOYOM Biotech","in_view":false,"exclude_reason":"non-us"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"e0f2276081","company":"Locus Lock","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"77146d5e43","company":"HappyCo","in_view":false,"exclude_reason":"undisclosed"}
+{"run":"recall-2026-10-01_2026-10-22","action":"merged","id":"e397138434","company":"Rising Tide","from":"Rising Tide"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"579cfcf4e0","company":"Prism Data","in_view":true,"exclude_reason":null}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"8d549fde41","company":"Prolific Machines","in_view":false,"exclude_reason":"not-ai"}
+{"run":"recall-2026-10-01_2026-10-22","action":"inserted","id":"08441bfd07","company":"Turba Labs","in_view":true,"exclude_reason":null}

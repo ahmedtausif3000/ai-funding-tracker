@@ -1,0 +1,1985 @@
+{
+ "run_date": "recall-2026-10-01_2026-10-22",
+ "extractor": "parallel agent parts 31-35",
+ "notes": "Parts 31-35 (50 groups) processed; each group was a distinct round or non-funding item, so no groups were merged and no round-up articles needed expanding (the OuterSignal Business Journals '7 more NYC deals' round-up had no text and was used only as a second source for OuterSignal). 25 web lookups (all WebSearch, no fetches) were used, highest amounts first, to fill HQ, round type or identity for: Kapta Space (Seattle), Brellium (NYC, stage undisclosed), Confido Health (US-based; the new money is a $12.5M Series A extension, recorded as amount_usd with the $22.5M Series A total in the description), Arctic Therapeutics (Iceland; leads Pekron/Sanos/Kaldbakur/Landvaettir are not in the article text so investors left empty), Tamr (growth equity led by Volition Capital, not in text), Inc.com 'This Startup' = Longeye (SF, $20M Series A led by N47 with a16z, not in text), Polyphron (NY seed led by Quiet Capital, announced 2026-09-17, not in text), Zippy (no AI claim), Undecimal Bio (sources split Tel Aviv vs Cambridge UK; recorded IL), Sharp Performance (Carlsbad CA, no AI claim), Sunlight AI (New York/Miami; Axios reports $10M of the $17.4M is new), Avarra (San Mateo), Novele (Stamford CT, announced 2026-09-30), Epyr (Paris, EUR 15M Series A led by SlateVC, not in text), Helicon (LA composites, $16.5M seed led by AlleyCorp, not in text), Daptic (NYC), Ampersand (SF), Sante (NYC), Sunbound (sources give Washington DC and Cleveland; recorded Washington DC), Basalt Health (Nashville, announced 2026-09-24), GenHealth.ai (Boston, announced 2026-09-08), Trebellar (SF, announced 2026-09-24), Restate (Berlin), Hephaestus (London; Business Wire frames $17.2M as funding to date), Vocca (sources split; the most detailed says New York HQ with most of the team in Paris, so US under the dual-HQ rule). Investor names found only via lookups were not added because the contract requires a verbatim span in the article text. Judgment calls: FORT Robotics $20M is ~$10M new financing plus a $10M PIPE commitment tied to its SPAC merger (kept in scope, confidence 0.6); Atombeam is a Regulation A+ raise (round_type Other); LanzaJet's $20M came from its parent company (round_type Other); Helical Fusion JPY 3.23B uses the article's own $20.6M conversion; Axya CAD 17M converted at 0.72; NVM Ventures and Masia fund closes converted at EUR 1.16. AblePay Health and Switched Source were set is_ai_ml=false from article text without a lookup because the budget was exhausted. The Delaware human-AI healthcare hub (Inquirer, no text) was marked not-funding at confidence 0.55 without a lookup.",
+ "rows": [
+  {
+   "group_key": "kapta space",
+   "candidate_ids": [
+    "3a8604614969",
+    "13341e768ecd",
+    "dd6e214dc957"
+   ],
+   "company": "Kapta Space",
+   "website": "kaptaspace.com",
+   "amount_usd": 24000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-09",
+   "lead_investors": [
+    "Washington Harbour Partners",
+    "Bison Ventures"
+   ],
+   "investors": [
+    "Washington Harbour Partners",
+    "Bison Ventures"
+   ],
+   "hq_city": "Seattle",
+   "hq_state": "WA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Spaceborne radar payloads for defense; no AI/ML product claim in the coverage.",
+   "description": "Developer of next-generation spaceborne radar payloads for classified moving target indication (MTI) missions.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "Kapta Space raised $24 million in Series A funding",
+    "round": "Series A",
+    "lead": "The round was led by Washington Harbour Partners and co-led by Bison Ventures",
+    "investors": "The round was led by Washington Harbour Partners and co-led by Bison Ventures"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaU1fdjFXN3dQaHNPd3FiUy05WnpDcXJKS1Y4WUNVbjd0WS05dWVxSi1idVBrUGl5OThrLXM4SVViOU9wdS1Pa010d0dUZHFyaXFqS2RERU04SnZaTF95U1pxNEl2RGI0QlF0UEoxc2ZOTFc0RnB6MERTdjBLdU9xRXlDa2FQMEpud2ZuSmZlUi1lTkxLWGhOcWFIN0ViMzNzWDlPM2tHdEVnSVFtS09LcDgtUnpyVTlVc2tqNmZzaDBTbDkzNmRCRg?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTJEVXlUbnd0NW5BSEdOUjJfRXpHMVI2RFVrM21Ya0RpWEhHU3psb1llS1MwbmMwQ3ltbzJrN0RBTklKMWxzenc2Wi1MLXpHMDVFbVZxeU9OTFFHSDdjSUNUV2J4YU01cHlMWUVoS1ZZNDg5Q09zTmhVTTIyQnVMazJYX3luZmZTTVhkNEpzMmFxRGdRblVYZ2xHR2p4Mi1sX1RxNERhY3NnTUR6UE9NRV9ETGtRZ9IBuwFBVV95cUxPazlVenh5WEt4S2xVMGZnbGVQbkhSV19WbktpckRnbllxY2EzeU9NVVlmS0wxU0ZpQnBtMW9lZ0hUQVlNZkp5UVVrOE5KSmZEd0pKUkJGbEluX0drV0ZkcVlsc1UyOUt1dmRXdVNsR2dpZHpzZTZicjBQRHFIZjk2ZzY4bWM1UUlBUDFvUUdnaWEzTVRSbmY1MlNHZGI0MjFLS1BQUWh1MUw3YmJOWHJ2Q2FGRFQ1a0RnaVE4?oc=5",
+    "https://pulse2.com/kapta-space-raises-24-million-series-a-co-led-by-washington-harbour-partners-and-bison-ventures/",
+    "https://www.prnewswire.com/news-releases/kapta-space-raises-24m-series-a-secures-multiple-classified-mti-contracts-302903032.html"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "sunbound",
+   "candidate_ids": [
+    "6ec1996e998c",
+    "fdc360e81ac4"
+   ],
+   "company": "Sunbound",
+   "website": "sunboundhomes.com",
+   "amount_usd": 24000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-15",
+   "lead_investors": [
+    "TTV Capital"
+   ],
+   "investors": [
+    "TTV Capital",
+    "Bling Capital",
+    "Fika Ventures",
+    "Live Oak Bank",
+    "Ziegler Linkage Fund"
+   ],
+   "hq_city": "Washington",
+   "hq_state": "DC",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Describes itself as an AI-powered revenue operating system for senior living.",
+   "description": "AI-powered revenue operating system for senior living and skilled nursing covering admissions, payments, revenue cycle and working capital.",
+   "confidence": 0.75,
+   "evidence": {
+    "amount": "$24 million Series A funding round led by TTV Capital",
+    "round": "Series A",
+    "lead": "$24 million Series A funding round led by TTV Capital",
+    "investors": "led by TTV Capital, with participation from Bling Capital, Fika Ventures, Live Oak Bank, and Ziegler Linkage Fund"
+   },
+   "source_urls": [
+    "https://pulse2.com/sunbound-acquires-richter-healthcare-consultants-and-raises-24-million-series-a/",
+    "https://pulse2.com/sunbound-acquires-richter-healthcare-consultants-and-raises-24-million-series-a-led-by-ttv-capital/",
+    "https://www.thesaasnews.com/news/sunbound-raises-24m-series-a/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "acta pharmaceuticals",
+   "candidate_ids": [
+    "4d675ef362cb"
+   ],
+   "company": "Acta Pharmaceuticals",
+   "website": null,
+   "amount_usd": 24000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-10-15",
+   "lead_investors": [],
+   "investors": [
+    "Alzheimer’s Disease Research Foundation",
+    "Dolby Family Ventures",
+    "Gamma Bio Investors"
+   ],
+   "hq_city": "Boston",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Small-molecule Alzheimer's therapeutics; no AI/ML claim.",
+   "description": "Boston biotech developing gamma-secretase modulator GSM-779690T and combination therapies for early intervention in Alzheimer's disease.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Acta Pharmaceuticals has raised $24 million in total seed financing",
+    "round": "seed financing",
+    "lead": null,
+    "investors": "The company’s shareholders include Alzheimer’s Disease Research Foundation, Dolby Family Ventures, Gamma Bio Investors"
+   },
+   "source_urls": [
+    "https://pulse2.com/acta-pharmaceuticals-raises-24-million-seed-to-advance-alzheimers-disease-early-intervention-pipeline/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "nvm ventures",
+   "candidate_ids": [
+    "28ed9b21e3a6"
+   ],
+   "company": "NVM Ventures",
+   "website": null,
+   "amount_usd": 27400000,
+   "amount_disclosed": true,
+   "currency_note": "EUR 23.6M converted at 1.16",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-10-06",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "VC fund launch, not an operating company.",
+   "description": "Newly launched venture fund of EUR 23.6 million targeting dual-use companies.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "€23.6 million fund",
+    "round": "fund",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ2w5OV9UbmxLTm1MUFBkQ3YwMVdDSVRxTDFwY0dGdWZYeWUxbUh5QnBvb0JrSDQ0cDlrM0xqSnJEOW05Y1NIX1NuUWpobzZjY1haVndlZWtxVVFkY2o1dVhVVmtoVFhORnNIZlZ1NVY1MVFSaGlsbWlsYnFablJYVjY3enZhTE1wN3JoYUVfT2Y0Q2NyejU5M1A2UmJISUxEUmcwRHV4VDJPZ2JsRW9lWA?oc=5"
+   ],
+   "exclude_reason": "fund"
+  },
+  {
+   "group_key": "brellium",
+   "candidate_ids": [
+    "a1e385ee0bee",
+    "52548f27abd8"
+   ],
+   "company": "Brellium",
+   "website": "brellium.com",
+   "amount_usd": 23000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-13",
+   "lead_investors": [
+    "Left Lane Capital",
+    "First Round Capital"
+   ],
+   "investors": [
+    "Left Lane Capital",
+    "First Round Capital",
+    "Digital Health Venture Partners"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-powered clinical compliance auditing; launched proprietary AI system CortexLM.",
+   "description": "AI clinical compliance platform that audits patient notes for gaps in care, documentation, billing compliance and revenue integrity.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "Brellium has raised $23 million in venture funding",
+    "round": "venture funding",
+    "lead": "The financing was led by Left Lane Capital and First Round Capital",
+    "investors": "The financing was led by Left Lane Capital and First Round Capital, with participation from Digital Health Venture Partners"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNmxUZW5rOXg4UzZSeHpObi1KNTRUODczd2dNS0VZc3p5LUp2cGRMQ1dFWnNhSk5tODBCRFpmLVJnMW1KSHplR0pWU21aNG5hY1IzMXJFZ093ZVpLTW9xTUlQUDA3Wm9vTGM5eWNMTEFMZ0ZkWDlHWm1uTmhUenoycHljRjR1WHNKT3BVVTYwemt4Qnc5UnZNX29FWUgwTGk2cV9pZjZHNllTajNiVjRSeTFkT1M?oc=5",
+    "https://pulse2.com/brellium-raises-23-million-and-launches-cortexlm-for-ai-powered-clinical-compliance/",
+    "https://bhbusiness.com/2026/10/13/behavioral-health-compliance-platform-brellium-raises-23m-to-expand-ai-auditing/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "confido health",
+   "candidate_ids": [
+    "1a3c14f53798",
+    "d6134c77fd3b"
+   ],
+   "company": "Confido Health",
+   "website": "confidohealth.com",
+   "amount_usd": 12500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-14",
+   "lead_investors": [
+    "Z47"
+   ],
+   "investors": [
+    "Z47",
+    "Justin Saks",
+    "Together Fund",
+    "Blume Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Agentic AI operations platform (CareOS) for healthcare organizations.",
+   "description": "Agentic AI healthcare operations platform CareOS; new $12.5M Series A extension brings total Series A to $22.5M.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "a new $12.5 million extension led by Z47",
+    "round": "Series A",
+    "lead": "a new $12.5 million extension led by Z47",
+    "investors": "led by Z47, formerly Matrix Partners India. Healthcare private equity veteran Justin Saks also joined as an investor and board advisor, while existing investors Together Fund and Blume Ventures participated"
+   },
+   "source_urls": [
+    "https://app.confidotech.com/login",
+    "https://pulse2.com/confido-health-raises-series-a-funding-to-22-5-million-to-expand-agentic-healthcare-operations-platform/",
+    "https://www.digitalhealthnews.com/us-based-healthtech-startup-confido-health-raises-12-5-mn-in-funding-led-by-z47"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "university of pennsylvania",
+   "candidate_ids": [
+    "e767f4077bdf"
+   ],
+   "company": "University of Pennsylvania",
+   "website": "upenn.edu",
+   "amount_usd": 22500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Grant",
+   "stage_bucket": "Other",
+   "announced_date": "2026-10-01",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Philadelphia",
+   "hq_state": "PA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Philanthropic gift to a university; not a company.",
+   "description": "University received a $22.5 million philanthropic gift for financial aid and endowed professorships.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$22.5 million gift",
+    "round": "gift",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/university-of-pennsylvania-receives-22-5-million-gift-from-gabriel-and-stephanie-gilinski/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "outersignal",
+   "candidate_ids": [
+    "e532ed95deed",
+    "897579b7c870"
+   ],
+   "company": "OuterSignal",
+   "website": "outersignal.com",
+   "amount_usd": 22000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-09-30",
+   "lead_investors": [
+    "Long Journey Ventures",
+    "Abstract Ventures"
+   ],
+   "investors": [
+    "Long Journey Ventures",
+    "Abstract Ventures",
+    "BAM Ventures",
+    "Top Shelf Ventures",
+    "SuperAngel.Fund",
+    "AME Cloud Ventures",
+    "Dave Heath",
+    "Rohan Shah",
+    "Alex Haro",
+    "Emery Wells",
+    "Kim Perell",
+    "Michael Preysman",
+    "Michael Perry",
+    "Ken Nguyen",
+    "Raad Mobrem",
+    "Zach Sims",
+    "Sahil Bloom",
+    "Steve Carroll",
+    "Michael Loeb",
+    "Rich Vogel",
+    "Troy Ossinoff",
+    "Sahil Bhaiwala",
+    "James Beshara",
+    "Nik Sharma"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Agentic customer intelligence platform using generative AI for 1:1 personalization.",
+   "description": "Agentic customer intelligence platform that builds person-level profiles of consumers and activates 1:1 marketing for consumer brands.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "today announced a $22M Series A co-led by Long Journey Ventures and Abstract Ventures",
+    "round": "Series A",
+    "lead": "co-led by Long Journey Ventures and Abstract Ventures",
+    "investors": "co-led by Long Journey Ventures and Abstract Ventures, with participation from BAM Ventures, Top Shelf Ventures, SuperAngel.Fund , and Jerry Yang's AME Cloud Ventures. As angels, participation included Dave Heath , Rohan Shah, Alex Haro , Emery Wells, Kim Perell , Michael Preysman , Michael Perry, Ken Nguyen , Raad Mobrem , Zach Sims , Sahil Bloom, Steve Carroll, Michael Loeb , Rich Vogel, Troy Ossinoff , Sahil Bhaiwala , James Beshara and Nik Sharma"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/outersignal-raises-22m-series-a-to-bring-agentic-personalization-to-every-consumer-brand-302892586.html",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxONXhtQThaMEJFeWtfQ3dIakNUZ3RnM1RPZWFEYWJEYlFaNzdCeERJNUxzRGpRc2oyLW11eWs4UVlNRzFOdnJFNXdkOUwtT3labkFLYjd4bXNMbEZmTlpQYV9JQjM5M3NTYjczdDdzZ3RpR3NKU2JhcTdXZHdObFQyeU1ObjlTUQ?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "university of washington led optoelectronics",
+   "candidate_ids": [
+    "72b8de5e21fb"
+   ],
+   "company": "NSF IMOD (University of Washington-led Center for Integration of Modern Optoelectronic Materials on Demand)",
+   "website": null,
+   "amount_usd": 22000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Grant",
+   "stage_bucket": "Other",
+   "announced_date": "2026-10-11",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Seattle",
+   "hq_state": "WA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "NSF research grant to a university center; not a company.",
+   "description": "University research center for optoelectronic and semiconductor materials receiving a five-year NSF award.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "expected to receive $22 million from the U.S. National Science Foundation",
+    "round": "NSF Award",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/university-of-washington-led-optoelectronics-center-receives-22-million-nsf-award/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "delaware hub dedicated to",
+   "candidate_ids": [
+    "f27670f0ee83"
+   ],
+   "company": "Delaware hub for Human-AI cooperation in healthcare",
+   "website": null,
+   "amount_usd": 21500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Grant",
+   "stage_bucket": "Other",
+   "announced_date": "2026-10-13",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": "DE",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Institutional research hub studying AI in healthcare; not an operating company.",
+   "description": "Delaware research hub dedicated to human-AI cooperation launching with $21.5 million to study AI in healthcare.",
+   "confidence": 0.55,
+   "evidence": {
+    "amount": "$21.5 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUXBJRlM0bngtNUhxX1llemlfcGdJNDN6MzdUdzZLWnRuV2dHX3NUc0ltWVI3UWlIV0M4MjJGWFRhU3VEd25YWm9PWlJWRW9hdzFxakVZUTJVUjBGblNMRTRxcnZscXdqUXl6LURxeTJvOE5NdTJaSmh2QkNkbDE4MUl0Znk0NnV0M19iNXNJSWZoUmM?oc=5"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "chop spinout arctic therapeutics",
+   "candidate_ids": [
+    "bced65dc69d8",
+    "ec6a75c08c5a",
+    "245a5bc9137d"
+   ],
+   "company": "Arctic Therapeutics",
+   "website": "arctictherapeutics.com",
+   "amount_usd": 21500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IS",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Genetics-driven autoimmune drug pipeline; no AI/ML claim.",
+   "description": "Icelandic biotech (CHOP Center for Applied Genomics spin-out) advancing autoimmune candidates AT-002 and AT-003 toward the clinic.",
+   "confidence": 0.75,
+   "evidence": {
+    "amount": "oversubscribed $21.5 million financing round",
+    "round": "financing round",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQ2dZd2tRbHRfYlNzcG5IQk5fVHBBRDU2bWRPTjVQX1hyTzFPV1BaN0x2VU9uODhpRXFud254ZllJTVlCYUY2bThsMEpBNG5MOTJ3T09LQkFmbk9hMGpIQjYxRUhjaEducy1DTVJMbTk0cGZ1c2RiV1BlOUpQU25KOVhUdDV0SUtmbDBGRjNBV0o3MHNrRnpmNjVSeUZWeWo2emZMNUkzTHkxcXh6THA1akxzTWEwc29Oc1JfUzVJNnQyRzdsQUJuc3BQby1DRzBYVXJZd1JZbHE?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVlNYSEtLU3VjMUJWbXYtOW9aV1VDOE1PWDFHZ3ZPeXF0ODJUUldpeG9DLXNkNzEweUpudmRoVHREeHNpUlhhajk0bF9kQlBkRkR3ZXdVemVDNmRzVWZjSEdSSVY1eU9zbF8xOFdRNlZRZjhDOTlzb3pobVlWWVVkYm5zVlZpc292cFdmdzBtZzRfdTQ3MDVxcnpQWERxQW01dzI1Nmh6UU9pZlRpUnZvMw?oc=5",
+    "https://pulse2.com/arctic-therapeutics-raises-21-5-million-to-advance-at-002-and-at-003-toward-clinical-development/",
+    "https://www.arctictherapeutics.com/arctic-therapeutics-closes-oversubscribed-us21-5-million-financing/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "tamr",
+   "candidate_ids": [
+    "a7bf8d79b00a"
+   ],
+   "company": "Tamr",
+   "website": "tamr.com",
+   "amount_usd": 21000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Growth",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-10-14",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Cambridge",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-native data mastering and agentic data management.",
+   "description": "AI-native master data management platform for enterprise data mastering, founded out of MIT CSAIL.",
+   "confidence": 0.75,
+   "evidence": {
+    "amount": "Tamr raises $21M",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVQzSU56YjFDd0VfMXpvMW1oajRuTENFX2xVRmg2a0JxMFpEbjAxLTBFZGItcmxzVm5qWDJnM3F4QTFyRl9ndi1iZEgzMjRleTBHOUdPUi04RkhKZUVJQm5JdnlSUFJoNnRFU2pWbXo2d1l1R0VTU2hXZzRrd2lucDBVSmJId3NhbkY4Q183b0ZiUlB2bzdV?oc=5",
+    "https://www.axios.com/pro/enterprise-software-deals/2026/10/14/data-management-tamr-volition",
+    "https://www.finsmes.com/2026/10/tamr-raises-21m-in-funding.html"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "helical fusion",
+   "candidate_ids": [
+    "9275bb07c9df"
+   ],
+   "company": "Helical Fusion",
+   "website": "helicalfusion.com",
+   "amount_usd": 20600000,
+   "amount_disclosed": true,
+   "currency_note": "JPY 3.23 billion, approximately $20.6 million per article",
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-08",
+   "lead_investors": [],
+   "investors": [
+    "Fuji Electric",
+    "Hazama Ando",
+    "Fujikura",
+    "Tokyo Gas",
+    "KKT",
+    "Urata",
+    "Kepple Group",
+    "Ecrowd NEXT"
+   ],
+   "hq_city": "Tokyo",
+   "hq_state": null,
+   "hq_country": "JP",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Commercial fusion power development; no AI/ML claim.",
+   "description": "Japanese fusion energy company developing helical stellarator demonstration device Helix HARUKA and power plant Helix KANATA.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "Helical Fusion raised JPY 3.23 billion, or approximately $20.6 million, in the second close of its Series B financing",
+    "round": "Series B",
+    "lead": null,
+    "investors": "Fuji Electric joined the round as both a strategic investor and an Official Partner of Helical Fusion’s Helix Program.\nAdditional investors included Hazama Ando, Fujikura, Tokyo Gas, KKT, Urata, Kepple Group, and Ecrowd NEXT"
+   },
+   "source_urls": [
+    "https://pulse2.com/helical-fusion-raises-20-6-million-in-series-b-second-close-with-fuji-electric-and-other-investors/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "vocca",
+   "candidate_ids": [
+    "3227f36136f2",
+    "02420d402335",
+    "37c9f9bb6202",
+    "eed1825a5c63"
+   ],
+   "company": "Vocca",
+   "website": "vocca.com",
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-06",
+   "lead_investors": [
+    "Norrsken VC"
+   ],
+   "investors": [
+    "Norrsken VC",
+    "Heal Capital",
+    "Speedinvest",
+    "Firstminute Capital"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI phone assistant for patient communication and healthcare scheduling.",
+   "description": "AI phone agents that answer patient calls, book and reschedule appointments for medical practices; team split between New York HQ and Paris.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Vocca raised $20 million in Series A funding",
+    "round": "Series A",
+    "lead": "The round was led by Norrsken VC",
+    "investors": "The round was led by Norrsken VC, with participation from Heal Capital, Speedinvest, and Firstminute Capital"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmVqMndxSzVKcUFkUDVLQ21XZmw1VGdTVUkzQWwzQk1fSVVjdlQzUDk4WVNFYWVucG5xRTZrWmdVNTBmYTZpalB3eGFkWEJGQzZvbVB2Z1FlZVNLVFhiNDZ2NzRMYjVkMDlEWnlmOXJ5RHhXbFJxM0tnYzRRZTJYekN4UEJsSDB2TWYwLU5qRDd1ODQ?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE44WTUta1VJc01vbzJVc3d0SnVJM01HMmtIT2lZNTJ2dzZDbDNWVy1kZ3BKSVlydTFtSDRIaGFJQWtIeWJfT0RldHdTVF92REFWcU1YcE4zbFJPM3FvNmZXMC1ISWdNMWo0TDVNTjY2TXd1UkMtcUdCcC1LQdIBgAFBVV95cUxPczdLbTJYNFNhbVJzaW9CbjhiQ2tTNzBFc2FMSnpuOER4VEk5NlA3MlRNcWpDbTQyUGlmUUN2WVZFQVY3RGZlRGNFNHZnZE1tX2RHa0VnMTZSeF9hdmpWbkRxZ2ZkLWhaQ3JyQzBjQU4wbFlsRlktbXZUdjdVYUpueQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjVzUlp5cjZESkg5QkVRbWJLVWg5S0QtbUljTGNoZHlQUXN6Q1gyV3pFMzZNUExpOWUwNVUyNE8wa2NGeExpVlhnLUJESjNIcGxpRmItSjBYZVlKancxREFuaHBsWnJpSjRrQ3dzMnR2aER3b19uMXE2NWstYkdKSzNseXJQbGpqMWk0Uy00MjFtbkY0azlOY21KeUJqV3ZDMFlKQkNjZnQyZjBqUFkySXk3bTRPUXRIc0NTRDV5WmRScWpQcUVsdjNn?oc=5",
+    "https://pulse2.com/vocca-raises-20-million-series-a-led-by-norrsken-vc/",
+    "https://www.sesamers.com/funding/vocca-raises-20m-series-a-ai-medical-receptionist/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "zippy",
+   "candidate_ids": [
+    "5c4441ec1f3f",
+    "9c76be4de8d9",
+    "5b0f3c629f9a",
+    "9c54b0f738ca",
+    "624629a14147",
+    "7647efaf580b"
+   ],
+   "company": "Zippy",
+   "website": "zippymh.com",
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-10-14",
+   "lead_investors": [],
+   "investors": [
+    "Saluda Grade"
+   ],
+   "hq_city": "Dallas",
+   "hq_state": "TX",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Digital-first manufactured-housing lender; coverage makes no AI/ML claim.",
+   "description": "Technology-enabled lender and loan servicer for manufactured homes operating in 27 states.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "Zippy has raised $20 million in Series C funding from Saluda Grade",
+    "round": "Series C",
+    "lead": null,
+    "investors": "Saluda Grade, an alternative investment firm specializing in asset-backed credit, was the sole investor in the round"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeXUwb1ZoRWhUMkIyVl8tSTdaUks0OGpUYjlxc3gtZkpuTEdxMVdZZDU5TXFPeFRaVENnTzRGWW01RHRvU0V1QkxSY3ZFbVNjVHlZWmE4SngwaXVNdjVESi1Ld1BHSzZBb0ljbTNELXpJUVlJcXl6UDJ2bDZQQ1VZSHRPcjJWam1JRldvcjVienRTbGc3QmFweGZ3VTNRaTltczdNSWxDeURmbHhBV2JTYTh5ZGZaUk9XZE04Vlpn?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQTU85RVlCcGdLQmcwc1VfS2JVR0dvcU5aZ3ExdW5sYW5Hamd4elhkMHk0N2Q1N3NiZjFSNnhqQnhXd3ZVelRGYmdJMnJkSDdBSUNFY0FsM3R2Z21CNEFRUHdBSTNOZGUwVXZ2VWx2dlBtNUIwb2lQREoyUGc5Um91cUZoNEtyZjVaRkI0b0VaTUJYVGYzWVZsbDU3cDVnZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNjZ5akM5SUtPTDhHMFFESTV2d2lXYnFqR3lGOFc4YUFXWVB5dm1uSjVQUjlNTDA1Ry1sQXFIdTR2ZnRWMkppMjlwYWZ1VFJSUGFEUFdMSlFKT1p2VXRyNGUxVmlBMjk5SzVnSHl4a3hKTERmdER5Y2EtYkgtam5tOFF3?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM0VXN2RwSGFvMlNGcjJkbDd4a21pU0x5MktvNGlzRXhWS0t1Q3NaRExBQnNBRHp4cHZaTzAyVGJQVGRBQXpST2ZycS1YMk4xVjJCcEpBZ3pXNkI5ZkRsd3gwQUxxV2R0Y2VyNGxsX1gwRUkxZ05oT0ZYVlY2eUk5VzlicXhOOGphR3NVQS1Xa3ZWYk5mb09RMDFVMHhmejR5WjJpNTF5YWZKNWI3LWFLSnZWeTM3dHY3alE?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWmNSd0E1VXJXcHpma2pCUmhrSHhBY3Z3RllnTWtOR01aUDN4V1BwWXBIVHg1TDUyY3VtUElCcFdsQkQzUFZaMWkxZThGSkEtVkZ5VHRHdUtVbkR3OU1ZTUVLdUJiRUE0OHA1SkNSTjM3VFl1dDhtejRPRlQtWGJwb3FZZWZOaDlwcGRzb2xsdDdCODJQYnJIYnRPS0NPNWJyVnZuMW1DcGZkMGxmRVBic0RnNDc3NUlBSktwMUJ1QQ?oc=5",
+    "https://pulse2.com/zippy-raises-20-million-series-c-from-saluda-grade-to-expand-manufactured-housing-finance-platform/",
+    "https://dallasinnovates.com/dallas-fintech-startup-zippy-raises-20m-to-accelerate-lending-platform-for-manufactured-homes/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "lanzajet",
+   "candidate_ids": [
+    "ba1b5cbb559e"
+   ],
+   "company": "LanzaJet",
+   "website": "lanzajet.com",
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-10-15",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Deerfield",
+   "hq_state": "IL",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Sustainable aviation fuel producer; no AI/ML claim.",
+   "description": "Sustainable aviation fuel technology company receiving $20M from its parent company amid a leadership change.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "LanzaJet lands $20M from parent company",
+    "round": "from parent company",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGJ5YzM5aHh5SUt0WWlEdzlWeWlrRnZFWGNHOTYxMlFaQTVsNzAzZkt5N2hpTTkybTBfc2dzYTlrbEtfbVd6Z0xjWHNrN1puTWNRWGFXU1VnQVhIY1ZEb2hoek1JYy1CdFh6SWlUcVRPemlmWk43ekJIRW5Ed2h3ZnVDc3JUal9HM0JtMHpFOWtjTjFOQkNWaWNkd3dtc29WTFFkSktITQ?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "this startup",
+   "candidate_ids": [
+    "e2343396c0ed"
+   ],
+   "company": "Longeye",
+   "website": "longeye.ai",
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI investigative platform that analyzes criminal evidence for justice agencies.",
+   "description": "AI investigative platform that lets police, prosecutors and public defenders query evidence, build timelines and find discrepancies.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "This Startup Raised $20 Million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU0VEVC1PeEZsZHItVU81MzNqNlpJRll6ZENTdThDNXJNNHFQZTBNUUkwZFJPN0dTaEZVQ2lnVlNaWFZxYVR4aERvSjVKWVpqbGJEQkhseFNjRTBoWm5aYlU3eHBtV2R5NHRUYzBWNl9NQlpzOE1pempmczQxekFRcFU3ZHVxYnd0VzVsVEM2TFZ3Sk9KSy12MW5qWGYyVWlRUm8wOXJJcjZzYlhDSFQ4RDJrdWF1OWhsd0x5cXJ6czFpZUhjdTNv?oc=5",
+    "https://www.inc.com/aaron-mok/this-startup-raised-20-million-to-help-police-sift-through-evidence-can-its-ai-be-trusted/91419405",
+    "https://www.citybiz.co/article/922569/longeye-raises-20-million-series-a-to-expand-ai-investigative-platform/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "global network for the",
+   "candidate_ids": [
+    "d1c46e64cdf7"
+   ],
+   "company": "Global Network for the Advancement of Metabolic Psychiatry (MetPsy)",
+   "website": null,
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Grant",
+   "stage_bucket": "Other",
+   "announced_date": "2026-10-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Belmont",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Philanthropic investment in clinical care, education and research at a hospital; not a company.",
+   "description": "Network launching at McLean Hospital with a $20 million investment in metabolic psychiatry clinical care, education and research.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "$20 Million Investment",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.global.com.au/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "cuttable",
+   "candidate_ids": [
+    "e856cc84fbac",
+    "41796069006e",
+    "fe87e010e5a2"
+   ],
+   "company": "Cuttable",
+   "website": "cuttable.com",
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-22",
+   "lead_investors": [
+    "Airtree Venture"
+   ],
+   "investors": [
+    "Airtree Venture"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "AU",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI ad platform that generates social media ads at scale.",
+   "description": "Australian AI advertising platform that helps brands produce and post social media ads at scale.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Cuttable raises $20 million",
+    "round": "Series A",
+    "lead": "led by Airtree Venture",
+    "investors": "led by Airtree Venture"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNRzdFOEg2ZUdURTJQYklrQW5aNFVVWVpkNFp1bVpUTHFNNGh2eVQ3YUtVckFocVk3RlI0c3QtQmRVTkFZWHZWZS1CNU9GMWJOa183R2dmLVBjV2xacVg2ek5jTU9LaUtCNlNOWEQ4MF9ZcFNDdGtjMmdOWHpHNDVfTjhwLXQyZFZ2RTR0OHhjTm5UbnBkWGJyMkdaTGpJQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcDdlT0E4b0NJWkhEM0FGUFVsbFRLa0NZUjdvVlhyaHNHamUzZ21NanhKRmVMY1MwYlFuXzM3N05ndzd3a0Zla1dEcC03Z2pDbnJQVWs1WUZPNEhJa2JYYTJxM3BxQzd0WXBDWU82Qk1WNm4ycGNCRWhYWVNqWWthSFkyU0RuU0p3dzlJY21GQU5lbDhyUFE?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzhvcmdLOWtCc0RWbEp1TFk3bUVtUV9YRkpnZzFtSnk0X2gweDJPMnJlVkNOWWNxRDJPUGs4dzU2a0hIaU1ySUJNSVliN05NaHRtNXY1TVVucFBnei1FRDJGT3lNcFV0Q2hNOEFiWThDUVVNbV94UTBTcmxaYU5ZRi1aajE0SnB4dllLajhwYjhObk9zdkNHT3ROQlNXNGlHQTJHcnl4SE4?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "polyphron",
+   "candidate_ids": [
+    "a34c0bc14f03"
+   ],
+   "company": "Polyphron",
+   "website": "polyphron.com",
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-09-17",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Uses lab-grown human tissue data to train AI models that predict drug effects.",
+   "description": "Grows living human heart tissue in an automated foundry and uses the data to teach AI to predict drug toxicity before clinical trials.",
+   "confidence": 0.75,
+   "evidence": {
+    "amount": "backed by a fresh $20M",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/10/polyphron-artificial-human-biology-ai-drug-discovery-tissue-simulation-matthew-osman/",
+    "https://www.streetinsider.com/Business+Wire/Polyphron+Raises+$20M+to+Build+Physical+Verification+Layer+for+AI-Driven+Biology/27073456.html"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "fort robotics",
+   "candidate_ids": [
+    "880b59f36562"
+   ],
+   "company": "FORT Robotics",
+   "website": "fortrobotics.com",
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-22",
+   "lead_investors": [
+    "Tiger Global"
+   ],
+   "investors": [
+    "Tiger Global",
+    "Mark Cuban Companies"
+   ],
+   "hq_city": "Philadelphia",
+   "hq_state": "PA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Safety and security infrastructure for autonomous machines, marketed as a Trust Layer for Physical AI.",
+   "description": "Philadelphia provider of safety technology for autonomous machines and robotics; ~$10M financing plus $10M PIPE commitment ahead of SPAC merger.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "secured approximately $20 million in additional financing commitments",
+    "round": "financing",
+    "lead": "approximately $10 million in financing led by Tiger Global",
+    "investors": "approximately $10 million in financing led by Tiger Global, with participation from Mark Cuban Companies"
+   },
+   "source_urls": [
+    "https://pulse2.com/fort-robotics-secures-about-20-million-in-new-funding-commitments-led-by-tiger-global-and-mark-cuban-companies/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "michigan state university",
+   "candidate_ids": [
+    "a82332ddf68e"
+   ],
+   "company": "Michigan State University",
+   "website": "msu.edu",
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Grant",
+   "stage_bucket": "Other",
+   "announced_date": "2026-10-14",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "East Lansing",
+   "hq_state": "MI",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "NSF grant to a university; not a company.",
+   "description": "University received a $20 million NSF grant to build the IDiCaRS diamond and carbon semiconductor research facility.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "received a $20 million grant from the U.S. National Science Foundation",
+    "round": "grant",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/michigan-state-university-receives-20-million-nsf-grant-for-space-and-semiconductor-research-facility/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "restate",
+   "candidate_ids": [
+    "ebda1bf02d8b"
+   ],
+   "company": "Restate",
+   "website": "restate.dev",
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-09-30",
+   "lead_investors": [
+    "Singular"
+   ],
+   "investors": [
+    "Singular",
+    "Redpoint Ventures",
+    "Capital One Ventures"
+   ],
+   "hq_city": "Berlin",
+   "hq_state": null,
+   "hq_country": "DE",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Durable execution infrastructure positioned for AI agents and agentic workflows.",
+   "description": "Durable execution infrastructure that lets distributed applications and AI agents recover from failures while preserving state; built by Apache Flink creators.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Restate raised $20 million in Series A funding led by Singular",
+    "round": "Series A",
+    "lead": "led by Singular",
+    "investors": "led by Singular, bringing the durable execution infrastructure company’s total funding to $27 million. Redpoint Ventures and Capital One Ventures also participated"
+   },
+   "source_urls": [
+    "https://pulse2.com/restate-raises-20-million-series-a-led-by-singular/",
+    "https://restate.dev/blog/announcing-series-a"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "ablepay health",
+   "candidate_ids": [
+    "6cdc8cfc1158"
+   ],
+   "company": "AblePay Health",
+   "website": "ablepayhealth.com",
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-08",
+   "lead_investors": [
+    "F-Prime"
+   ],
+   "investors": [
+    "F-Prime",
+    "A1 Health Ventures",
+    ".406 Ventures"
+   ],
+   "hq_city": "Allentown",
+   "hq_state": "PA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Patient payment and affordability platform; article makes no AI/ML claim (not web-checked).",
+   "description": "Healthcare affordability and patient payment platform offering guaranteed non-recourse payment to providers and flexible plans to patients.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "AblePay Health raised $20 million in Series A funding",
+    "round": "Series A",
+    "lead": "F-Prime led the round",
+    "investors": "F-Prime led the round, with participation from A1 Health Ventures and .406 Ventures"
+   },
+   "source_urls": [
+    "https://pulse2.com/ablepay-health-raises-20-million-series-a-led-by-f-prime/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "basalt health",
+   "candidate_ids": [
+    "2222c7b53af4"
+   ],
+   "company": "Basalt Health",
+   "website": "basalt.health",
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-09-24",
+   "lead_investors": [
+    "NEA"
+   ],
+   "investors": [
+    "NEA",
+    "Frist Cressey Ventures",
+    "25m Health"
+   ],
+   "hq_city": "Nashville",
+   "hq_state": "TN",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI platform that processes post-acute care referrals and evaluates patients against clinical criteria.",
+   "description": "AI platform for post-acute care admissions that reads referrals from fax, portals and EMRs and supports benefit verification and prior authorization.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "Basalt Health has raised $20 million in Series A funding led by returning investor NEA",
+    "round": "Series A",
+    "lead": "led by returning investor NEA",
+    "investors": "led by returning investor NEA to expand its AI platform for post-acute care admissions. Existing investors Frist Cressey Ventures and 25m Health also participated"
+   },
+   "source_urls": [
+    "https://pulse2.com/basalt-health-raises-20-million-series-a-led-by-nea/",
+    "https://basalt.health/basalt-series-a"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "hurotics",
+   "candidate_ids": [
+    "06a2b36977dd"
+   ],
+   "company": "Hurotics",
+   "website": null,
+   "amount_usd": 18600000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-15",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "KR",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Wearable exosuit robotics maker (robotics/autonomy counts as AI/ML).",
+   "description": "Korean maker of wearable exosuits.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "$18.6 million Series A",
+    "round": "Series A",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNblUtR0hCXzlFdWR6M1dHWXR2SG8zZjFzbmZ6TjFNWEJMU1hCZnhFWC1idVppeGIwOHF5RzAtc3JmSl8wbW45VUczLXE3aEQ1c0JYWmlBaWotQUkxNm51Y3IwZDE4VkIxUy1SdVJteUZpaHNFSFZvSXNDYVFiR2VMcVlQQzcwUDFzM3BEcEpOUnNIQ0FqaEE0?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "kopin",
+   "candidate_ids": [
+    "cdf59264c22c"
+   ],
+   "company": "Kopin",
+   "website": "kopin.com",
+   "amount_usd": 18600000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Grant",
+   "stage_bucket": "Other",
+   "announced_date": "2026-10-11",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Westborough",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Public company (Nasdaq: KOPN) receiving a U.S. Army award.",
+   "description": "Public microdisplay maker receiving a sole-source U.S. Army IBAS award for color MicroLED technology.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "secured an additional $18.6 million sole-source award",
+    "round": "award",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/kopin-secures-additional-18-6-million-u-s-army-award-for-color-microled-technology/"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "group_key": "atombeam",
+   "candidate_ids": [
+    "c91cb75b2fda"
+   ],
+   "company": "Atombeam",
+   "website": "atombeamtech.com",
+   "amount_usd": 18300000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-10-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Moraga",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Self-described AI infrastructure company building AI-powered data compaction and a continuous-learning AI architecture.",
+   "description": "AI infrastructure company selling Neurpac data compaction software and developing the Persistent Cognitive Machine AI architecture; raised via Regulation A+ on StartEngine.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Atombeam has raised $18.3 million through a Regulation A+ offering hosted on StartEngine",
+    "round": "Regulation A+ offering",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/atombeam-raises-18-3-million-bringing-total-funding-above-55-million/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "undecimal bio",
+   "candidate_ids": [
+    "be79c4b26694",
+    "144005cc1a61",
+    "a0bb1ef6ac34",
+    "481083a374cb",
+    "cb881822d7a7",
+    "35b577ce1534"
+   ],
+   "company": "Undecimal Bio",
+   "website": "undecimal.bio",
+   "amount_usd": 18000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-10-13",
+   "lead_investors": [
+    "4BIO Capital",
+    "IQ Capital"
+   ],
+   "investors": [
+    "4BIO Capital",
+    "IQ Capital",
+    "Verve Ventures",
+    "Harel Tech",
+    "Entree Capital",
+    "Kerna Ventures",
+    "Saras Capital"
+   ],
+   "hq_city": "Tel Aviv",
+   "hq_state": null,
+   "hq_country": "IL",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-enabled DELiveri platform for identifying siRNA delivery conjugates.",
+   "description": "Eleven Therapeutics spin-out using an AI-enabled platform (DELiveri) to deliver siRNA medicines beyond the liver; teams in Tel Aviv and Cambridge, UK.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "oversubscribed $18 million seed financing",
+    "round": "seed",
+    "lead": "The round was co-led by 4BIO Capital and IQ Capital",
+    "investors": "The round was co-led by 4BIO Capital and IQ Capital. Additional investors included Verve Ventures, Harel Tech, Entree Capital, Kerna Ventures, and Saras Capital"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lOHl1UXZCQ2sxTGpGMkRkQ1U0WHAwQUI0aEtWVnJFVnRyLW1xSFlITzNmQXo1YjJIZ2NZNGVWMHJ5bDg5Z0NMOGpOWk1waEtFT0dXV05lbFdWYlBpRVh2RE5qSG1YaDdX?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQjN1cUZmalk5N3JvVjBwVFpVU2FyeTc2Zy1xVDlDV0hHNEVKX1ZNVEhEcG96aGhMX080bllFMUloNzFSQ3dxSmxEV084a25JWFNUTVV5aFV5aXVOY1E0QkNSRUpyZHpvcW9MQ25ZaTRleVdmN0dPNFNXNUZZcldESks4cmFvdTJqS1NZcGRMb1hxTXJDNWNlS3ZsbEo3aDBPVUd6X2pmZGo1MVZ3OXFMMncteWxMVlViSXhj?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVFZPaE1FdzlfZVBBekhubHMwSEZPdkxLV01JaGw3d1FTUTlUem9UN0tXMHlRTU1xYjVRa1NUandYampubU4yWGhvMF83TkpuLTlwcUxqbmxMOFZZNlBrOXIzRVRaTDVPb2tWbjZITkxkbm5mLVA5QzZpTi05R2xaU0FtNzVjelFCX0lzMnlmeU9xb05CT3VLRUFjTGpVTldRWlFUN2RnWUhfUExMbU1OdW9R?oc=5",
+    "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWWxqazF0NWJvLWV4YkV4UjhtT3d5U1c2bUdkSW0wUGZJM1NmdE50Z3dpcGlObW4zVGVJUUZIOUgxWXpTUS1Kcmh6SlBVbmdzcmlOcFNZeVZFZEtsWHZHTUpkX2sxZGZwdkdiUDkyVEZmZXY2X21JdU9KVFFhdTNXUXFqZWQ4bFlaN3RmU0RCUU5WTEZxMDM3dEZqaDhBMEtHbVdxcm5HVWZiUU9RbUFMdURTQy01U2EwZmFnRmZOWEdzUHJuN1o3R01kNWRqVEV3NXRwV1NteWdvVkdycFNtZkhYZ3R4SHdvemRlQ25iemNvX3dHQzlOMk10RFA0MEN3MTh5VTMxbDIzT1J4?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVms5MkpOMjdEbkpsSlZNeHMzWmtVMlFUTFR1cVZja2VZRHBQa1lfOXVNQmtNOUVkMFBDbTZsWEFMQzFsQXpZXzZ5R256cUZqYzg3clZtenloanlIQ19VZGdnc0g0X3I3cWwzendQU2owM1laaTNyVV9DM2ZNSmFPYWRxMU1ZUEI4QWFxNVRpVUF2bUUtTHBQOU9YRmNzU1l0?oc=5",
+    "https://pulse2.com/undecimal-bio-launches-with-18-million-seed-round-to-advance-sirna-delivery-beyond-the-liver/",
+    "https://www.businessweekly.co.uk/posts/eleven-therapeutics-spin-out-undecimal-bio-raises-18m-seed-cash-from-israel-base"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "sharp",
+   "candidate_ids": [
+    "1891ee5789b5",
+    "dab57bba5d0e",
+    "634a642c8c03"
+   ],
+   "company": "Sharp Performance",
+   "website": "sharpperformance.com",
+   "amount_usd": 18000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-15",
+   "lead_investors": [
+    "Hidden Variable"
+   ],
+   "investors": [
+    "Hidden Variable",
+    "Andreessen Horowitz",
+    "Commonweal Ventures",
+    "Wolfson Group",
+    "FJ Labs",
+    "Ford Foundation"
+   ],
+   "hq_city": "Carlsbad",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Human one-on-one coaching service with matching software; no AI/ML product claim found.",
+   "description": "Confidential performance coaching platform for police officers, firefighters, paramedics and other first responders.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Sharp Performance has raised $18 million in Series A funding",
+    "round": "Series A",
+    "lead": "The round was led by Hidden Variable",
+    "investors": "The round was led by Hidden Variable, with participation from Andreessen Horowitz, Commonweal Ventures, Wolfson Group, FJ Labs, and the Ford Foundation"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTlzRGg2cUx6OXJWRW1qU1BSVjdaWFZRcGVZNzdBZkoyaDltQmhkX0ktVTZ6Si16WnNFM1JTNE1lWHBWZUdQXy0wQ2R6VEhlalctb1lVYXVkSWVFdWdXUkYyWm1kdm4zLTkzdnJSenFiT1F5Si02cVJnU0JLOUFYcmhyVXI3VXRCYjZXTktDZ0J1eWlLcmw5R0QtYTFYeHpjZGZhamVYU0duZDh6UmtPbDFuOA?oc=5",
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd0xhcWxrZ0t4M29ldnNUN1RsX3B0eGloZDV2SG02RnEtSkNsTlJpaFNvMV9tTl9ocWh0ZHNUdU15VHRvQ2s2ZHRQQzFwVk5mMl93eE5US2lwMVppTU9KbG15NENHd3F4OFVoR0RXQVgyVmE1OGNqa3lmZTFVWXJ0MEdsbEV1N1d2QTBsNXYzM05GZGJiRUZZZVZIcGFUX005LVVONjUxdlVzQ3NJMTZ0MjBlbVBNU0VFdW1FdUlRXzBNbXlCNk82ZjluMjAtMTNOVVJBbV8tdzRwbHc1Y05UbQ?oc=5",
+    "https://pulse2.com/sharp-raises-18-million-series-a-led-by-hidden-variable-for-first-responder-coaching-platform/",
+    "https://finance.yahoo.com/small-business/articles/sharp-raises-18m-led-hidden-140000825.html"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "barcelonas masia",
+   "candidate_ids": [
+    "3ab8dd6d2f42"
+   ],
+   "company": "Masia",
+   "website": null,
+   "amount_usd": 20900000,
+   "amount_disclosed": true,
+   "currency_note": "EUR 18M converted at 1.16",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-10-22",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Barcelona",
+   "hq_state": null,
+   "hq_country": "ES",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Debut VC fund close, not an operating company.",
+   "description": "Barcelona investor Masia closing an EUR 18 million debut fund and opening a hub for frontier tech founders.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "€18 million debut fund",
+    "round": "fund",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPckRwN28wU0tqTU95X3RneTA4ZU1CdmY3MXRDT1Vld0pxOGFjR1EzcE9WemdPV0JuVUloYlpGMTVHWG1sTmdtcnFMTmNaRHRlekNBTFNKeDJmYjVWZFVDdDhxR3ZiOGxzd0w5M0pZOC03TVZuUFhBVHRaU05nWTBaS1JsTFdaSFZISlRreXZ0aWRJNVNkcHlxY1oydG9sNXFBSHZvTGtkM1dJRE92aWhneDZRX2Q1dGdPZWJFRHQ3V3lzNGpIYTEtVHF4WUxtSi1CWnNVQV9kZnQ2MEdyUEkxaVEwdw?oc=5"
+   ],
+   "exclude_reason": "fund"
+  },
+  {
+   "group_key": "trebellar",
+   "candidate_ids": [
+    "244e653ee022"
+   ],
+   "company": "Trebellar",
+   "website": "trebellar.com",
+   "amount_usd": 18000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-09-24",
+   "lead_investors": [
+    "Blossom Capital"
+   ],
+   "investors": [
+    "Blossom Capital",
+    "Haystack",
+    "Alt Capital",
+    "1Flourish",
+    "Bynd"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-native system of record for corporate real estate.",
+   "description": "AI-native platform that unifies lease, space, headcount and utilization data for enterprise real estate teams; customers include Meta, Uber and Merck.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "Trebellar has raised $18 million in Series A funding",
+    "round": "Series A",
+    "lead": "Blossom Capital led the round",
+    "investors": "Blossom Capital led the round, with participation from Haystack, Alt Capital, 1Flourish and Bynd"
+   },
+   "source_urls": [
+    "https://pulse2.com/trebellar-raises-18-million-series-a-to-bring-ai-to-corporate-real-estate-management/",
+    "https://www.morningstar.com/news/business-wire/20260924253792/trebellar-raises-18m-series-a-to-bring-ai-to-corporate-real-estate-management"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "w4 games",
+   "candidate_ids": [
+    "84dc50950952"
+   ],
+   "company": "W4 Games",
+   "website": "w4games.com",
+   "amount_usd": 18000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-02",
+   "lead_investors": [
+    "Tencent"
+   ],
+   "investors": [
+    "Tencent",
+    "OSS Capital",
+    "Lux Capital",
+    "Naval Ravikant",
+    "Tobias Lütke’s family office"
+   ],
+   "hq_city": "Dublin",
+   "hq_state": null,
+   "hq_country": "IE",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Commercial tooling for the open-source Godot game engine; no AI/ML claim.",
+   "description": "Commercial technology, cloud services and support for studios building games on the open-source Godot Engine.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "W4 Games has raised $18 million in Series B funding",
+    "round": "Series B",
+    "lead": "The round was led by Tencent",
+    "investors": "The round was led by Tencent, with participation from OSS Capital, Lux Capital, Naval Ravikant and Tobias Lütke’s family office"
+   },
+   "source_urls": [
+    "https://pulse2.com/w4-games-raises-18-million-series-b-to-expand-godot-enterprise-platform/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "aventra",
+   "candidate_ids": [
+    "7c7fc464d5e1"
+   ],
+   "company": "Aventra Defense Systems",
+   "website": "aventra.com",
+   "amount_usd": 17500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-06",
+   "lead_investors": [
+    "Konvoy"
+   ],
+   "investors": [
+    "Konvoy",
+    "Lavrock Ventures",
+    "Booz Allen Ventures",
+    "Sands Capital",
+    "Langford Industries"
+   ],
+   "hq_city": "Herndon",
+   "hq_state": "VA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Autonomous precision payload systems delivered via high-altitude balloons (autonomy counts as AI/ML).",
+   "description": "Defense startup building Piranha, an autonomous stratospheric payload platform for long-range strike and ISR; strategic financing plus a Western Alliance Bank facility.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "Aventra Defense Systems has raised $17.5 million in strategic financing led by Konvoy",
+    "round": "strategic financing",
+    "lead": "led by Konvoy",
+    "investors": "led by Konvoy to scale production of its Piranha autonomous precision payload platform and develop additional long-range strike, one-way attack and intelligence, surveillance and reconnaissance systems. Existing investor Lavrock Ventures participated alongside Booz Allen Ventures, Sands Capital and Langford Industries"
+   },
+   "source_urls": [
+    "https://pulse2.com/aventra-raises-17-5-million-to-scale-piranha-autonomous-precision-payload-system/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "sunlight",
+   "candidate_ids": [
+    "16afcab531b0",
+    "72828f5cec8d",
+    "0d1e33b6f0d8"
+   ],
+   "company": "Sunlight AI",
+   "website": "sunlight.ai",
+   "amount_usd": 17400000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-10-19",
+   "lead_investors": [
+    "Lan Xuexhao"
+   ],
+   "investors": [
+    "Lan Xuexhao",
+    "Sofeon Ventures",
+    "Social Leverage",
+    "Actions Capital",
+    "Overlook Ventures",
+    "Early Light Ventures"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-enabled operating platform for independent medical practices.",
+   "description": "AI-enabled back-office operating platform for independent physician practices; launched with seed funding and the acquisition of Bradford Medical Associates.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Sunlight AI has launched with $17.4 million in seed funding",
+    "round": "seed funding",
+    "lead": "The financing was led by Lan Xuexhao, founder of Basis Set Ventures",
+    "investors": "The financing was led by Lan Xuexhao, founder of Basis Set Ventures, with participation from Sofeon Ventures, Social Leverage, Actions Capital, Overlook Ventures, Early Light Ventures"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcmJmREdTdXpTZXNWeGdVcnJoWHp0R0g5U0xvOHIxQkhXZEJkeXhEdUZTQVh3ZXY2ZUtnVUVYSmIydEJHT2dhYjBmOGQ5S25FUk1LQldoWXdTbmkwcHBxY0pXVnZnVUdJVlA0ZTNlclBNY2ZtLWxkM1VMbHNNSTZsLUt6Und1cko5aDhBWkI2VDAxczlzelczbmx3MHYwRU9ORUtuWFlB?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNbGJ2Vm5fUXd4aVQ4eUQ4NHo1ajVrUDFWRlZpZ2tjcFVEczZwdTByckdtOUtELW5GcFVObE5vZHZla3N5Y2RrR0xMWERmbGV1YTZHSTlvckhKa3U1Zm5XdFlOanI5NEVnN2RCSVp0TFF5QTAyYWZnQ3lpaXdHdC1sTW45eEd2TUZDVmlaLWw3NGY4cW9SZGlTUV9sekg3QQ?oc=5",
+    "https://pulse2.com/sunlight-ai-raises-17-4-million-seed-and-acquires-bradford-medical-associates/",
+    "https://www.morningstar.com/news/pr-newswire/20261019ny74976/sunlight-ai-launches-with-174m-to-help-physicians-thrive-independently"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "university of maryland led biomanufacturing",
+   "candidate_ids": [
+    "8c8a0e4f5672"
+   ],
+   "company": "CRAB Lab (University of Maryland-led Collaborative for the Realization of Autonomous Biomanufacturing Lab)",
+   "website": null,
+   "amount_usd": 17300000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Grant",
+   "stage_bucket": "Other",
+   "announced_date": "2026-10-08",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Rockville",
+   "hq_state": "MD",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "NSF award to a university research project; not a company.",
+   "description": "University of Maryland-led NSF-funded AI-powered, remotely accessible biomanufacturing laboratory.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "received a $17.3 million National Science Foundation award",
+    "round": "award",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/university-of-maryland-led-biomanufacturing-lab-receives-17-3-million-nsf-award/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "hephaestus",
+   "candidate_ids": [
+    "9740ce239351"
+   ],
+   "company": "Hephaestus",
+   "website": "hephaestus.energy",
+   "amount_usd": 17200000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-20",
+   "lead_investors": [
+    "CiRi Ventures"
+   ],
+   "investors": [
+    "CiRi Ventures",
+    "Prescience Ventures",
+    "Teampact Ventures",
+    "Climate Capital",
+    "Unruly Capital"
+   ],
+   "hq_city": "London",
+   "hq_state": null,
+   "hq_country": "GB",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Uses an AI-based plasma solver and the MaDi-AI materials discovery platform.",
+   "description": "London-founded fusion company developing rare-earth-free high-temperature superconductors and a negative-triangularity tokamak; HTS plant planned in New Jersey.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "Hephaestus has emerged from stealth after raising $17.2 million",
+    "round": "funding round",
+    "lead": "The latest funding round was led by CiRi Ventures",
+    "investors": "The latest funding round was led by CiRi Ventures, with existing investors including Prescience Ventures, Teampact Ventures, Climate Capital, Unruly Capital, and CiRi Ventures"
+   },
+   "source_urls": [
+    "https://pulse2.com/hephaestus-raises-17-2-million-to-advance-rare-earth-free-superconductors-and-fusion-power/",
+    "https://www.businesswire.com/news/home/20261020291741/en/Hephaestus-Exits-Stealth-Having-Raised-$17.2M-to-Supply-Rare-Earth-Free-HTS-Superconductors-and-Build-Low-Cost-Fusion-Power"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "hunt capital",
+   "candidate_ids": [
+    "180f6a6e9803"
+   ],
+   "company": "The Alexandria (Hunt Capital Partners / Riverstone Platform Partners)",
+   "website": null,
+   "amount_usd": 17100000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-10-05",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Kansas City",
+   "hq_state": "MO",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Affordable housing project financing (tax credits and loans); not a startup round.",
+   "description": "Project financing for the $17.1 million rehabilitation of a 55-unit affordable housing community in Kansas City.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$17.1 million rehabilitation",
+    "round": "financing",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/hunt-capital-partners-closes-financing-for-17-1-million-kansas-city-affordable-housing-rehabilitation/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "avarra",
+   "candidate_ids": [
+    "e03795e884e9",
+    "6cc012524677",
+    "130876438dea"
+   ],
+   "company": "Avarra",
+   "website": "avarra.ai",
+   "amount_usd": 17000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-06",
+   "lead_investors": [
+    "Duration Ventures"
+   ],
+   "investors": [
+    "Duration Ventures",
+    "Lightspeed Venture Partners",
+    "Draper Associates",
+    "GTMfund",
+    "Alumni Ventures",
+    "Zoom"
+   ],
+   "hq_city": "San Mateo",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI avatar platform for go-to-market teams.",
+   "description": "AI avatar platform that upskills go-to-market teams through sales simulations, call prep and buyer-facing avatars.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "Avarra has raised $17 million in Series A funding",
+    "round": "Series A",
+    "lead": "Duration Ventures led the financing",
+    "investors": "Duration Ventures led the financing, with participation from Lightspeed Venture Partners, Draper Associates, GTMfund, Alumni Ventures, and a strategic investment from Zoom"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZjVRZThMcENYWnY0UkJqckdJWnBSZlUycktyMGZQb3Q0MGMybF9HZ3ZISVluZmtzR3B4Xy1scDQ2QTg3R01LMy12X01KTVREdWV4Ni15NEVBRVgwRHZsQXF6aGo1Yk8yb3hKTzVmbVRhb0x5OXRWZm1YWjVmaXQ0TmszS3BsT1ZDVlhhODRZS191TFZXVFkzZ3h2cWxrUFFX?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwS2prQ3ZtLVN4NVlybl90Z21LVEkxU2ZKQTZRYUJJZ0Z0cGNDMGc4X2lSUU44R0ZXVXZpN3V2SXJaU2VWbFJTMlFydkRJMTdqMU1oR0p5NnZRSzJMLUY4TGhfY9IBaEFVX3lxTE10bWI5Z1dURWpoYWZ4eFgydE1zdFg2aDZhb3RnV2RHSXk4WW5lc3hTWnBwdU5KRTl3dmVJY2JLaWhfZlc3MGh2djhhMkRvREFwY2VHUFowZm8yTkV3RGxoQjRNY2tRdm85?oc=5",
+    "https://pulse2.com/avarra-raises-17-million-series-a/",
+    "https://avarra.ai/blog/seriesa"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "axya",
+   "candidate_ids": [
+    "9b347c681471"
+   ],
+   "company": "Axya",
+   "website": "axya.co",
+   "amount_usd": 12200000,
+   "amount_disclosed": true,
+   "currency_note": "CAD 17M converted at 0.72",
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-05",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Montreal",
+   "hq_state": "QC",
+   "hq_country": "CA",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI procurement platform.",
+   "description": "Montreal AI-powered procurement and sourcing platform for manufacturers.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "$17M CAD Series A",
+    "round": "Series A",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.axya.co/auth/login"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "novele",
+   "candidate_ids": [
+    "23421226b55b",
+    "6514c4452fd1",
+    "141410b02eec"
+   ],
+   "company": "Novele",
+   "website": "novele.com",
+   "amount_usd": 17000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-09-30",
+   "lead_investors": [
+    "Boisei Labs"
+   ],
+   "investors": [
+    "Boisei Labs",
+    "Locke Health",
+    "Arup Ventures",
+    "Barton Malow"
+   ],
+   "hq_city": "Stamford",
+   "hq_state": "CT",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Autonomous energy intelligence platform (BoardOS AI software) for commercial buildings.",
+   "description": "Full-stack energy system for commercial buildings pairing BoardOS AI energy software with EnergyBoard distributed storage hardware.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "Novele has closed an oversubscribed $17 million Series A",
+    "round": "Series A",
+    "lead": "Boisei Labs led the round",
+    "investors": "Boisei Labs led the round, with participation from Locke Health, Arup Ventures, Barton Malow"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaHpXN014SlRrRkEtSEQ2TFBxeWI1cU1wU2N1NTNodHA4Y2tIUHh1Y2tIZFFVQVFWUWRNbXNtdDM0VUMxUVJCYjlneGhXck1wTXlLTlg5clNxTXdYNS1Nb1NqSThWcTY2M0tJbEpwMG9jV0NjM3NpRXdBNGtoZ1FqR1RtdHJ1Si1lTWJJUHEzVFBRUm1saDFtU09xQmRGYVF5?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMERhMHU1NUpMemV2ZVRuMXhzSW50WmNMMS1uWUVBZWZubmJhY1FNTUdnT1dOVFJoMXRHNWlxdUJrYjFTNHF3ZE1ySmFpV2NZcnFsVVdBRzJ3bUdKSnI3U2NmQzVYdWh2YVExTF84b2JXbUllWHp2Y1lUOWQ4czktR2w3NEpYSmJhUmFVM0oxS204ckVNRTRFYWpEbDRRME0?oc=5",
+    "https://pulse2.com/novele-raises-17-million-series-a-to-scale-ai-energy-platform-for-commercial-buildings/",
+    "https://commercialobserver.com/2026/09/energy-tech-company-novele-series-a/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "epyr",
+   "candidate_ids": [
+    "547c9108cfaf"
+   ],
+   "company": "Epyr",
+   "website": "epyr.io",
+   "amount_usd": 17000000,
+   "amount_disclosed": true,
+   "currency_note": "EUR 15M, about $17M per coverage",
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-13",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Paris",
+   "hq_state": null,
+   "hq_country": "FR",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Firebrick thermal energy storage for industrial heat; no AI/ML claim.",
+   "description": "Paris thermal energy storage startup offering Heat-as-a-Service with containerized firebrick units to electrify industrial heat.",
+   "confidence": 0.75,
+   "evidence": {
+    "amount": "Epyr Raises $17 Million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3F1Y2NGYmpMMHFkTFY1MHgtbk9wa2NDUUFDRGN5TXVCS2VQWjBIeXVDbi1rVkdvZmZDRW9DMVVtX2lEdW1zWUFZd0Q3RUMtUDdWOUM3cHM3V280Z0xoeTA4Zm9WbGYwU3A2RlNWY0M3Mmk5eFZSWkxOTXRuZjFCazFVc1o5amJabzBaSG5wb3Y0aVpvNi1GalN5UVpENTQ?oc=5",
+    "https://www.esgtoday.com/epyr-raises-17-million-to-scale-industrial-heat-electrification-platform/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "switched source",
+   "candidate_ids": [
+    "feef6ea163c6"
+   ],
+   "company": "Switched Source",
+   "website": "switchedsource.com",
+   "amount_usd": 17000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-13",
+   "lead_investors": [
+    "Cubit Capital"
+   ],
+   "investors": [
+    "Cubit Capital",
+    "ABB",
+    "Emerald Technology Ventures",
+    "Red Cedar Ventures",
+    "Southern States",
+    "Southwire Company"
+   ],
+   "hq_city": "Chicago",
+   "hq_state": "IL",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Automated power-flow control hardware for distribution grids; no AI/ML claim in the article.",
+   "description": "Grid-enhancing Phase-EQ power-flow control devices that balance phases on utility distribution circuits to unlock capacity.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Switched Source secured more than $17 million in funding",
+    "round": "funding",
+    "lead": "Cubit Capital led the round",
+    "investors": "Cubit Capital led the round, with participation from ABB, Emerald Technology Ventures, Red Cedar Ventures, Southern States, Southwire Company"
+   },
+   "source_urls": [
+    "https://pulse2.com/switched-source-raises-more-than-17-million-to-expand-grid-capacity-technology/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "ditto",
+   "candidate_ids": [
+    "9c98e95dfc12"
+   ],
+   "company": "Ditto",
+   "website": "ditto.com",
+   "amount_usd": 17000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-10-09",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Government contract award, not an investment; edge data sync platform with no AI claim.",
+   "description": "Peer-to-peer edge data synchronization platform awarded a $17 million USSOCOM APFIT contract for enterprise-wide fielding.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "awarded Ditto a $17 million contract",
+    "round": "contract",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/ditto-wins-17-million-ussocom-contract-for-enterprise-wide-edge-data-platform/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "genhealth",
+   "candidate_ids": [
+    "d12e27a45c7e"
+   ],
+   "company": "GenHealth.ai",
+   "website": "genhealth.ai",
+   "amount_usd": 16500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-09-08",
+   "lead_investors": [
+    "Flare Capital Partners"
+   ],
+   "investors": [
+    "Flare Capital Partners",
+    "Craft Ventures",
+    "Obvious Ventures",
+    "Eniac Ventures",
+    "InHealth Ventures",
+    "Epsilon Health Investors",
+    "ARTIS"
+   ],
+   "hq_city": "Boston",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Builds AI agents for the medical back office on its own Large Medical Model.",
+   "description": "Healthcare AI company whose agents run intake, eligibility, prior authorization, billing and denials inside providers' existing systems.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "today announced a $16.5 million Series A led by Flare Capital Partners",
+    "round": "Series A",
+    "lead": "led by Flare Capital Partners",
+    "investors": "led by Flare Capital Partners . Existing investors Craft Ventures and Obvious Ventures participated, along with new investors Eniac Ventures, InHealth Ventures, Epsilon Health Investors, and ARTIS"
+   },
+   "source_urls": [
+    "https://www.healthcareittoday.com/2026/10/08/genhealth-ai-raises-16-5-million-series-a-to-build-ai-agents-that-run-the-medical-back-office/",
+    "https://genhealth.ai/blog/genhealth-series-a-fundraise"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "helicon emerges from stealth",
+   "candidate_ids": [
+    "b9e9f1141906"
+   ],
+   "company": "Helicon",
+   "website": "helicon.tech",
+   "amount_usd": 16500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-10-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Los Angeles",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Automated robotic production line with Argos planning software for composite drone frames (robotics/automation).",
+   "description": "Los Angeles composites manufacturer running an automated, robotic production line for UAV composite structures from Group 1 FPVs to Group 3 drones.",
+   "confidence": 0.65,
+   "evidence": {
+    "amount": "Raises $16.5M",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUVJXQ3plZXNwQUh2VG1BaDVud1dZbUpqeHRwNFdUR0l1bDF4aFlta3lEQ0xxTFdPZWNIQjA4US1wWk5XWHlWWEJzcXh0T1JYRk9tRThBblZwOFJWcjlrSUlOTTVZZ0RlQU4zM1doY3VyNkhxcWNURDBMVWVSUF9zWXdLY2twT1FDeXlmcA?oc=5",
+    "https://www.tectonicdefense.com/exclusive-helicon-emerges-from-stealth-raises-16-5m/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "daptic",
+   "candidate_ids": [
+    "349b8756923c",
+    "bc8884db3afe",
+    "fa7f4310a425"
+   ],
+   "company": "Daptic",
+   "website": "daptic.com",
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-01",
+   "lead_investors": [
+    "Canvas Ventures"
+   ],
+   "investors": [
+    "Canvas Ventures",
+    "IA Ventures",
+    "8VC"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Uses AI to detect, extract and classify regulations from 10,000+ sources (formerly DiploAI).",
+   "description": "Product compliance platform that turns changing regulations into product-specific requirements for manufacturers during design.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "Daptic has raised a $15 million Series A led by Canvas Ventures",
+    "round": "Series A",
+    "lead": "led by Canvas Ventures",
+    "investors": "led by Canvas Ventures, bringing total funding for the product compliance technology company to $22 million. IA Ventures and 8VC also participated"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/10/daptic-physical-product-compliance-software-regulatory-ai-lifestyle-management-baptiste-bouvier/",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa2FOUl9OSVdlR1pIcUIwaEpjUVdkSzh6Tk1uT1ZSSzdkcHhqMkNqbHdaaS1Xb3RYYzFZVC1xMEZiTjZHMTNzdGo4U1JTd25aUW5TT3JST0VNaHVHVzl6X2lYMEhqamtIXzN2RVVEMWhWeHpLcUlOcWg4bTRVZ0hQa1RjVWtlY0UtdXF5YzZ30gGTAUFVX3lxTE1tV2c5YV9TYUQzSlpkRER0NE1hT2FpdUVmUkpkbUVhRGg2aFVyY1pyMzBDODgzaGlEREFyd2pHZVUwSk1JRTRzY2xacXhnamdXTXhDSW5YMHdZdElSR1RxQUxFR3p4c0V2ZnpTT0tjNFcwR2hQREx1b1l2VFd4SXlhalExMUZCMWE2R1BGdzVmNFZFNA?oc=5",
+    "https://pulse2.com/daptic-raises-15-million-series-a-for-product-compliance-platform/",
+    "https://www.axios.com/pro/enterprise-software-deals/2026/10/01/compliance-daptic-honda-software"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "gravity",
+   "candidate_ids": [
+    "41df711405aa"
+   ],
+   "company": "Gravity",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-03",
+   "lead_investors": [
+    "3one4 Capital",
+    "Info Edge Ventures"
+   ],
+   "investors": [
+    "3one4 Capital",
+    "Info Edge Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Home interior materials startup; no AI/ML claim.",
+   "description": "Indian home interior materials startup.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "raises $15 million",
+    "round": null,
+    "lead": "led by 3one4 Capital, Info Edge Ventures",
+    "investors": "led by 3one4 Capital, Info Edge Ventures"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZVAzMWtTQWxWdHRJWEx5Q2o2bV9nZENaajZKX1BCWGdnRThUR055aWxwT0h4N1lPdGFuTFRELXY1NlFMV0pxdkR0V1c1ak9ROFlKeU5wak1TWFhiOElLOHEtaXE5eTFldVVWN0R0aDBDekN3cWQxMEtCUEs2Tm5TM0YyTXVBb0RlaWJNWUZyZnh4dkI5ZjB4SUZENjBQdVZ3NlBKSWxiNFNBeHhXWUQ3WUtRbDBfbnNOUW5PWmt4LTQ0Z1JDd3FkejBhai16eE1xZHVnSkxsWjNDcmY30gHcAUFVX3lxTE1lUDMxa1NBbFZ0dElYTHlDajZtX2dkQ1pqNkpfUEJYZ2dFOFRHTnlpbHBPSHg3WU90YW5MVEQtdjU2UUxXSnF2RHRXVzVqT1E4WUp5TnBqTVNYWGI4SUs4cS1pcTl5MWV1VVY3RHRoMEN6Q3dxZDEwS0JQSzZOblMzRjJNdUFvRGVpYk1ZRnJmeHh2QjlmMHhJRkQ2MFB1Vnc2UEpJbGI0U0F4eFdZRDdZS1FsMF9uc05Rbk9aa3gtNDRnUkN3cWR6MGFqLXp4TXFkdWdKTGxaM0NyZjc?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "ampersand",
+   "candidate_ids": [
+    "d547338bc749",
+    "cda73a9111f6"
+   ],
+   "company": "Ampersand",
+   "website": "ampersand.ai",
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-06",
+   "lead_investors": [
+    "Bessemer Venture Partners"
+   ],
+   "investors": [
+    "Bessemer Venture Partners",
+    "Matrix",
+    "Flex Capital",
+    "Yelp",
+    "Tenacity Capital",
+    "CTO Fund",
+    "Mana Ventures"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Integration infrastructure connecting AI agents to enterprise systems of record.",
+   "description": "Developer platform that lets AI agents read and write data in enterprise systems such as Salesforce and NetSuite.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "Ampersand has raised $15 million in Series A funding led by Bessemer Venture Partners",
+    "round": "Series A",
+    "lead": "led by Bessemer Venture Partners",
+    "investors": "led by Bessemer Venture Partners to expand integration infrastructure connecting AI agents with enterprise systems of record. Existing investors Matrix and Flex Capital participated alongside new investors Yelp, Tenacity Capital, CTO Fund, Mana Ventures"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc2lObV9yaVlKbFBLOHpUUkFZQWVTd2xmWVRpVS1jN2trbWZ1b2lPUlp2YlF1NTZ2ekxFZ2txcm5mRkxBVUh3bHJOblpEcDFsSWloMHlRaENTOGNYeWVEOFMtZU1yZU5uRU8xTWNqLUJQMmQ2WUR1SmMzaGRVMlo4ODlaa0dDMnQyZ1FTTGlTdWhlcy1PSkFPeE9wQkNfT3JYMUNGbnU0VE0xRWJnZUpFdHpnTTgxZlBfV19RajFEWktYWFXSAcgBQVVfeXFMTmw5MzU1SGxoeW03Nm5IRjhfV3RTbXFQUDRBdlpsTDZOb1dlS2wwWk1qMWtnSUZ6Rk5ZNmdrcUhNQkh2M0VQYkIxN0p3YVNJWm4wRnc2YTlHbnVxSEZZR3Yzcy1kU1A0Y211RE5kX0FTZkZvVEgwbVhRRGprX2ZpVXQ1Z1g0V3JWTHlUMlF4TGZxOThCZEVnVHptRXF0SWxjQlphZlA1VHg0SGdzcGpDdmM2QXhpZUpUc2tpV2NBVlVmRHZOSklDeU4?oc=5",
+    "https://pulse2.com/ampersand-raises-15-million-series-a-to-expand-integration-enterprise-infrastructure-connecting-ai-agents/",
+    "https://www.ampersand.ai/blog/series-a-integration-infrastructure-for-enterprise-agents"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "sant",
+   "candidate_ids": [
+    "1a2a5a94941e",
+    "fbe92e708d05"
+   ],
+   "company": "Santé",
+   "website": "santesoftware.com",
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-06",
+   "lead_investors": [
+    "FINTOP"
+   ],
+   "investors": [
+    "FINTOP",
+    "Bonfire Ventures",
+    "Operator Collective",
+    "Y Combinator",
+    "Veridical Ventures"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI and fintech operating system for wine and spirits retailers.",
+   "description": "AI-powered operating system (POS, fintech and operations) for wine and spirits retailers serving nearly 1,000 stores.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "Santé has raised $15 million in Series A funding",
+    "round": "Series A",
+    "lead": "The financing was led by FINTOP",
+    "investors": "The financing was led by FINTOP, with participation from returning investors Bonfire Ventures, Operator Collective, Y Combinator and Veridical Ventures"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVFsaUxjRVdWSmlFYXhRZW0tSWhPbTIwSWxFMERCWXJLaEFUd2pZVkxyQmNwblY1bjVydzZsMnphQUFQX0pFaGI2ekVlcmI3VC1XS05JUUF4bGJCbDdoTXQzWEs0TEpvRmE0Y3BSdWdxTDZUdE1WdWVvUVAzd2xBWHg4bDZtLTlFYkRRMlVacmhjYmh6SkJMUk96MzZpa2NvOG9qbDBPTWcwS1pYOXdz0gG0AUFVX3lxTE1KRG1WbEw2cjNkTHZfVndfVFRRVUFORm44ZWVfbzRaMl9rNWhaSVNPRmo3dnlsYUxOS29OVnpidERhRDBfSlpDdnFMRDlLRkNNUjZmMzdNdFhVNmRNektUYTB0SjMwZnZuSkR0dTZVcTFlamRsTnJ3dFJPd0VnRUpOeE53ZzROVXVVWWU5RTJCWEE1Q0lvdmFIUURqVHN4eUJndFMyY2NkVW5QalNRcGF5blZZSw?oc=5",
+    "https://pulse2.com/sante-raises-15-million-series-a-to-expand-ai-operating-system-for-wine-and-spirits-retail/",
+    "https://www.prnewswire.com/news-releases/sante-raises-15m-series-a-to-expand-the-first-ai-operating-system-for-wine--spirits-retail-302900251.html"
+   ],
+   "exclude_reason": null
+  }
+ ]
+}

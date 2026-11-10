@@ -86,5 +86,34 @@
   "ai_ml_rationale": "Crunchbase lists Artificial Intelligence / Machine Learning among the company's industries.",
   "note": "Reconciled 2026-11-09 against Crunchbase export (announced 2026-10-08, Series C, $110M, HQ Woburn, Massachusetts, United States, North America).",
   "hq_state": "MA"
+ },
+ "8d549fde41": {
+  "is_ai_ml": true,
+  "ai_ml_rationale": "Crunchbase lists Artificial Intelligence among the company industries (AI-guided, light-based cell programming).",
+  "note": "Reconciled 2026-11-09 against Crunchbase export (Series B, $50M, 2026-10-14)."
+ },
+ "0fb8a019f9": {
+  "is_ai_ml": true,
+  "ai_ml_rationale": "Crunchbase lists Artificial Intelligence among the company industries (neutral-atom quantum computing).",
+  "note": "Reconciled 2026-11-09 against Crunchbase export (Series B, $475M, 2026-10-08)."
+ },
+ "cce06f4713": {
+  "company": "Ambi",
+  "transaction_name": "Seed - Ambi",
+  "round_type": "Seed",
+  "stage_bucket": "Seed",
+  "hq_country": "US",
+  "hq_city": "San Francisco",
+  "hq_state": "CA",
+  "is_ai_ml": true,
+  "note": "Reconciled 2026-11-09 against Crunchbase export: Crunchbase records the Mistlabs $26M Pre-A as \"Seed Round - Ambi\", HQ San Francisco."
+ },
+ "88e30cbbd0": {
+  "exclude_reason": "duplicate",
+  "note": "Duplicate of Rillet $100M Series C announced 2026-08-18 (id 77029aa8b3); the fintech stats page re-listed it in October."
+ },
+ "b2199b651e": {
+  "exclude_reason": "duplicate",
+  "note": "Early September report of the Upwind round that closed as a $400M Series C on 2026-10-28 (id 12cabeaa0c)."
  }
 }

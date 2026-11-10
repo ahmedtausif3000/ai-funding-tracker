@@ -1,0 +1,100 @@
+{
+ "run_date": "recall-2026-10-01_2026-10-22",
+ "part": 40,
+ "note": "Hand-added groups from the Crunchbase recall check; URLs for Fierce Pharma, Dealroom and WSJ are site roots, so search for the article or press release.",
+ "groups": [
+  {
+   "group_key": "prism data",
+   "company_guess": "Prism Data",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "22fca29031b4",
+     "group_key": "prism data",
+     "title": "Prism Data Secures $20M Series A to Scale AI-Powered Cash Flow Underwriting",
+     "publisher": "FF News",
+     "url": "https://ffnews.com/newsarticle/fintech/prism-data-secures-20m-series-a-to-scale-ai-powered-cash-flow-underwriting/",
+     "published_at": "2026-10-19T12:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Prism Data Secures $20M Series A to Scale AI-Powered Cash Flow Underwriting",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "37f1d2d0174a",
+     "group_key": "prism data",
+     "title": "Prism Data raises $20m to scale cash flow underwriting",
+     "publisher": "FinTech Global",
+     "url": "https://fintech.global/2026/10/21/prism-data-raises-20m-to-scale-cash-flow-underwriting/",
+     "published_at": "2026-10-21T12:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Prism Data raises $20m to scale cash flow underwriting",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "prolific machines",
+   "company_guess": "Prolific Machines",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "fbe8dc69c600",
+     "group_key": "prolific machines",
+     "title": "Wilson Sonsini Advises Prolific Machines on Patent and Trademark Matters Related to $50 Million Series B2 Financing",
+     "publisher": "Wilson Sonsini",
+     "url": "https://www.wsgr.com/en/insights/wilson-sonsini-advises-prolific-machines-on-patent-and-trademark-matters-related-to-50-million-series-b2-financing.html",
+     "published_at": "2026-10-14T12:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Wilson Sonsini Advises Prolific Machines on Patent and Trademark Matters Related to $50 Million Series B2 Financing",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "6c6d4a6cb0e5",
+     "group_key": "prolific machines",
+     "title": "NantWorks' Soon-Shiong puts chips behind manufacturing disruptors in new rounds for Prolific Machines, Multiply Labs",
+     "publisher": "Fierce Pharma",
+     "url": "https://www.fiercepharma.com/",
+     "published_at": "2026-10-14T12:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "NantWorks' Soon-Shiong puts chips behind manufacturing disruptors in new rounds for Prolific Machines, Multiply Labs",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "turba labs",
+   "company_guess": "Turba Labs",
+   "amount_hint_usd": 52000000,
+   "articles": [
+    {
+     "id": "cc23aaa38c85",
+     "group_key": "turba labs",
+     "title": "Turba Labs raises $52M to double AI compute without new data centers",
+     "publisher": "Dealroom",
+     "url": "https://dealroom.co/",
+     "published_at": "2026-10-08T12:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Turba Labs raises $52M to double AI compute without new data centers",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "ad70daf6aa7e",
+     "group_key": "turba labs",
+     "title": "Exclusive | This Startup Wants to Double the World's Compute—Without Building a Single Data Center",
+     "publisher": "WSJ",
+     "url": "https://www.wsj.com/",
+     "published_at": "2026-10-06T12:00:00.000Z",
+     "amount_hint": null,
+     "snippet": "Exclusive | This Startup Wants to Double the World's Compute—Without Building a Single Data Center",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

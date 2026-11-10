@@ -755,7 +755,8 @@
     "selected_groups": 389,
     "candidates": 556,
     "articles_fetched": 261,
-    "google_rate_limited": true
+    "google_rate_limited": true,
+    "manual_groups": 3
   },
   "groups": [
     {
@@ -4035,6 +4036,33 @@
       "amount_hint_usd": null,
       "candidate_ids": [
         "d5be9ffd05e5"
+      ]
+    },
+    {
+      "key": "prism data",
+      "company_guess": "Prism Data",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "22fca29031b4",
+        "37f1d2d0174a"
+      ]
+    },
+    {
+      "key": "prolific machines",
+      "company_guess": "Prolific Machines",
+      "amount_hint_usd": 50000000,
+      "candidate_ids": [
+        "fbe8dc69c600",
+        "6c6d4a6cb0e5"
+      ]
+    },
+    {
+      "key": "turba labs",
+      "company_guess": "Turba Labs",
+      "amount_hint_usd": 52000000,
+      "candidate_ids": [
+        "cc23aaa38c85",
+        "ad70daf6aa7e"
       ]
     }
   ],
@@ -15584,6 +15612,114 @@
       "resolved_url": "https://pulse2.com/rising-tide-raises-seed-round-led-by-left-lane-capital-for-ai-powered-property-management-network/",
       "text": "Rising Tide Raises Seed Round Led By Left Lane Capital For AI-Powered Property Management Network\nBy Amit Chowdhry\nOct 2, 2026\nRising Tide Raises Seed Round Led By Left Lane Capital For AI-Powered Property Management Network\nRising Tide has closed an undisclosed seed financing led by Left Lane Capital to expand its network of independently owned residential property management companies.\nLeft Lane incubated Rising Tide alongside founder and CEO Blake Mohseni based on the firms’ view that property management represents a large, fragmented market where artificial intelligence can automate administrative work without eliminating local operating relationships.\nRising Tide is building what it describes as a federation of independent property management businesses.\nRather than consolidating acquired companies under one national brand, Rising Tide provides capital and shared technology while allowing participating operators to retain their local names, teams and customer relationships.\nThe company is targeting a property management market it estimates exceeds $100 billion and includes more than 240,000 firms.\nRising Tide believes many smaller operators lack the technology, systems and back-office infrastructure available to larger institutional platforms.\nIts strategy centers on using AI to reduce administrative workloads so local operators can spend more time working directly with property owners and tenants.\nThe company is developing those tools through The Lab, where Rising Tide builds and tests AI applications inside operating property management companies.\nThe Lab is currently working with three property management firms. Rising Tide retains ownership of the technology it develops, while participating operators receive access at no cost and retain control of their business data.\nLeft Lane Capital was founded in 2019 and invests in high-growth internet and consumer technology companies from offices in New York and London.\nKEY QUOTES:\n“AI is changing the definition of what premier service looks like in property management. It gives our operators more room for the relationships with owners and tenants that actually built their business. This funding brings that same approach to more independent property management firms: real technology, real capital, and partnership instead of a takeover.”\nBlake Mohseni, Founder and CEO of Rising Tide\n“We have invested over $100 million into AI companies transforming traditional services industries, from accounting to dental. Property management is universal, mission-critical, and not for the faint of heart. Blake and his team have the thoughtful approach needed to bring AI to the industry and drive modernization alongside tenured operators.”\nVinny Pujji, Co-Founder and Managing Partner of Left Lane Capital\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
       "text_status": "ok"
+    },
+    {
+      "id": "22fca29031b4",
+      "title": "Prism Data Secures $20M Series A to Scale AI-Powered Cash Flow Underwriting",
+      "publisher": "FF News",
+      "link": "https://ffnews.com/newsarticle/fintech/prism-data-secures-20m-series-a-to-scale-ai-powered-cash-flow-underwriting/",
+      "published_at": "2026-10-19T12:00:00.000Z",
+      "publisher_url": null,
+      "snippet": "Prism Data Secures $20M Series A to Scale AI-Powered Cash Flow Underwriting",
+      "source_feed": "manual-recall",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Prism Data",
+      "group_key": "prism data",
+      "group_rank": 0,
+      "resolved_url": "https://ffnews.com/newsarticle/fintech/prism-data-secures-20m-series-a-to-scale-ai-powered-cash-flow-underwriting/",
+      "text_status": "unresolved",
+      "manual": true
+    },
+    {
+      "id": "37f1d2d0174a",
+      "title": "Prism Data raises $20m to scale cash flow underwriting",
+      "publisher": "FinTech Global",
+      "link": "https://fintech.global/2026/10/21/prism-data-raises-20m-to-scale-cash-flow-underwriting/",
+      "published_at": "2026-10-21T12:00:00.000Z",
+      "publisher_url": null,
+      "snippet": "Prism Data raises $20m to scale cash flow underwriting",
+      "source_feed": "manual-recall",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Prism Data",
+      "group_key": "prism data",
+      "group_rank": 1,
+      "resolved_url": "https://fintech.global/2026/10/21/prism-data-raises-20m-to-scale-cash-flow-underwriting/",
+      "text_status": "unresolved",
+      "manual": true
+    },
+    {
+      "id": "fbe8dc69c600",
+      "title": "Wilson Sonsini Advises Prolific Machines on Patent and Trademark Matters Related to $50 Million Series B2 Financing",
+      "publisher": "Wilson Sonsini",
+      "link": "https://www.wsgr.com/en/insights/wilson-sonsini-advises-prolific-machines-on-patent-and-trademark-matters-related-to-50-million-series-b2-financing.html",
+      "published_at": "2026-10-14T12:00:00.000Z",
+      "publisher_url": null,
+      "snippet": "Wilson Sonsini Advises Prolific Machines on Patent and Trademark Matters Related to $50 Million Series B2 Financing",
+      "source_feed": "manual-recall",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Prolific Machines",
+      "group_key": "prolific machines",
+      "group_rank": 0,
+      "resolved_url": "https://www.wsgr.com/en/insights/wilson-sonsini-advises-prolific-machines-on-patent-and-trademark-matters-related-to-50-million-series-b2-financing.html",
+      "text_status": "unresolved",
+      "manual": true
+    },
+    {
+      "id": "6c6d4a6cb0e5",
+      "title": "NantWorks' Soon-Shiong puts chips behind manufacturing disruptors in new rounds for Prolific Machines, Multiply Labs",
+      "publisher": "Fierce Pharma",
+      "link": "https://www.fiercepharma.com/",
+      "published_at": "2026-10-14T12:00:00.000Z",
+      "publisher_url": null,
+      "snippet": "NantWorks' Soon-Shiong puts chips behind manufacturing disruptors in new rounds for Prolific Machines, Multiply Labs",
+      "source_feed": "manual-recall",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Prolific Machines",
+      "group_key": "prolific machines",
+      "group_rank": 1,
+      "resolved_url": "https://www.fiercepharma.com/",
+      "text_status": "unresolved",
+      "manual": true
+    },
+    {
+      "id": "cc23aaa38c85",
+      "title": "Turba Labs raises $52M to double AI compute without new data centers",
+      "publisher": "Dealroom",
+      "link": "https://dealroom.co/",
+      "published_at": "2026-10-08T12:00:00.000Z",
+      "publisher_url": null,
+      "snippet": "Turba Labs raises $52M to double AI compute without new data centers",
+      "source_feed": "manual-recall",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Turba Labs",
+      "group_key": "turba labs",
+      "group_rank": 0,
+      "resolved_url": "https://dealroom.co/",
+      "text_status": "unresolved",
+      "manual": true
+    },
+    {
+      "id": "ad70daf6aa7e",
+      "title": "Exclusive | This Startup Wants to Double the World's Compute—Without Building a Single Data Center",
+      "publisher": "WSJ",
+      "link": "https://www.wsj.com/",
+      "published_at": "2026-10-06T12:00:00.000Z",
+      "publisher_url": null,
+      "snippet": "Exclusive | This Startup Wants to Double the World's Compute—Without Building a Single Data Center",
+      "source_feed": "manual-recall",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Turba Labs",
+      "group_key": "turba labs",
+      "group_rank": 1,
+      "resolved_url": "https://www.wsj.com/",
+      "text_status": "unresolved",
+      "manual": true
     }
   ]
 }
