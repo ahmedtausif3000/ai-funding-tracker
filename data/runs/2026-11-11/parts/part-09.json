@@ -1,0 +1,460 @@
+{
+ "run_date": "2026-11-11",
+ "part": 9,
+ "groups": [
+  {
+   "group_key": "tendrils",
+   "company_guess": "Tendrils",
+   "amount_hint_usd": 26000000,
+   "articles": [
+    {
+     "id": "ed132d415739",
+     "group_key": "tendrils",
+     "title": "Tendrils raises €26 million to reinvent the CPU with thousands of parallel cores - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbElnSEZoS0JKSDYwcFlVOWlhQU5KQTJ2VDdLdFdoVEtNTnM4NlRlNkpvekQ3WTE0SnlMcFg5NmtxaTBXNXVyZ1ZwcWVQWGJaLV9yYW5lREo4MjZUQjVlLVdnanBHeDhHRWl1UGw5SkRmMlFaS1RndGkyTjZiVzZkWmxBVUxkZ1lOcGxVY25YQmp0ZWktRDNlVTBBanowaU1HcXhHZ0V6UDJLLTNMNVQxQjFCSkNPV1I0?oc=5",
+     "published_at": "2026-11-11T11:40:46.000Z",
+     "amount_hint": "€26 million",
+     "snippet": "Tendrils raises €26 million to reinvent the CPU with thousands of parallel cores EU-Startups",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "6f4384b91134",
+     "group_key": "tendrils",
+     "title": "Cambridge chip startup Tendrils raises $30 million led by Benchmark to redo the CPU with thousands of parallel cores",
+     "publisher": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdXhVdHVjX2htekxEVlZ2WlR4TUUtRW9xakRRUGhHNFlTMW5aRjVsZEVFR2ctcVlNb2VYckN3U01XYkZaeHhkOGRDbThrYXlqN0lpaDczYUkxMGRxMkVacF9tZGZQNUtQMldraDRORnc1VnNBb0JVdWdJbzE3MUFOUVBLOUNHUUJSemNPcTNtSmptUlNLMkhYa09MUllEWUZlUUhCM1RCVGJCTFRsTHBUOHBpSWt0UEV2VGZxVHMyOFZNTHY1YWJqRUMtbGdqQWVuSlE?oc=5",
+     "published_at": "2026-11-11T11:14:57.000Z",
+     "amount_hint": "$30 million",
+     "snippet": "Cambridge chip startup Tendrils raises $30 million led by Benchmark to redo the CPU with thousands of parallel cores MLQ.ai",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "lumbra",
+   "company_guess": "Lumbra",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "78f6c88e2ba4",
+     "group_key": "lumbra",
+     "title": "Exclusive: Agentic AI Startup Lumbra Raises $25M Series A",
+     "publisher": "Tectonic Defense",
+     "url": "https://www.tectonicdefense.com/exclusive-agentic-ai-startup-lumbra-raises-25m-series-a/",
+     "published_at": "2026-11-10T13:22:04.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Exclusive: Agentic AI Startup Lumbra Raises $25M Series A Tectonic Defense",
+     "text_status": "ok",
+     "text": "Investment Tech\nExclusive: Agentic AI Startup Lumbra Raises $25M Series A\nBarratt Dewey\nGet In Touch\nNovember 10, 2026 November 10, 2026\nShare\nTwitter\nLinkedin\nFacebook\nCopy\nEmail\nImage: Department of Defense\nProductivity gurus online these days say AI agents should book your travel, manage calendars, and send emails. Lumbra thinks they can do a whole lot more, and so far, a rapidly growing list of customers in the intelligence community and the Pentagon agree. Investors do too.\nThis morning, the DC-based AI startup announced a $25M Series A to keep scaling its AI agent operating system and agent harness across the defense and national security space and expand into “regulated commercial sectors,” the company told Tectonic exclusively.\nPoint 72 Ventures and Ansa Capital co-led the round, with participation from the company’s OG backer, Costanoa Ventures.\nSecret agent: Founded by ex-Army Ranger and CIA counterterrorism officer Aaron Brown (CEO) and fellow Ranger—and MIT-trained computer scientist—Michael Hiebert (CTO), Lumbra’s pitch is that AI agents have the potential to be incredibly capable tools for analysts and decision-makers in national security, but they need the right operating framework, or harness, to make their analysis work auditable, verifiable, and trustworthy.\nLumbra’s platform, called LumbraOS, does that with three core offerings:\nNebula is the agent orchestrator that records actions, traces claims to sources, and enforces data protection. The human running the agents fact-checks those findings and analysis workflows before they’re relayed to a system of record.\nStarChart is a customer organization’s knowledge graph where agents automatically compound knowledge as they work, with “insights and conclusions recorded alongside sources and sensitivity labels,” according to Lumbra.\nAstrolabe is the agent evaluator that tests them before deployment and tracks scores in production using the customer’s benchmarks.\nPut simply, “We’re building a coordination layer for intelligence advantage and decision intelligence—it’s the harness, it’s the control panel, the control layer, it’s the consumption layer,” Brown told Tectonic . “We’re putting the controls in place, the data lineage, the explainability, the coordination layer, the benchmark, and the evaluations, plus the harness.”\nThe platform is “model-neutral” (as opposed to model-agnostic), meaning it can run a range of frontier and open-source models depending on the performance level required for the task agents are running.\n“To do some of these tasks, there’s a level of ability that the model has to be above,” Brown said. “It just needs to be a model that is at that level of performance, so we’re model neutral with strong model opinions.”\nRolling out: So far, that’s proven to be a hit with intelligence community customers—where Lumbra signed its first contracts—and increasingly with a self-proclaimed “AI-first” Defense Department. Lumbra is already under contract, with its agents in production on top-secret networks across the Pentagon and IC.\nLumbra was one of two companies—the other being a small company you might’ve heard of called Palantir— tapped by the Pentagon’s Chief Digital and Artificial Intelligence Office (CDAO) for the “Agent Network” Pace-Setting Project under the Department’s AI Acceleration Strategy.\nUnder that contract, Lumbra is responsible for implementing “AI orchestration technology operational on US Government systems” to “compress the time it takes to tu"
+    },
+    {
+     "id": "2d4e1397cd94",
+     "group_key": "lumbra",
+     "title": "Lumbra Raises $25M Series A to Expand Controlled AI Agent Deployments",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQUpqUDRwNjY2TWpFYnVXOTQ1OVdVNG93QVl6WGxMNHE1VnBVUkt3STZ4UThxNFExUUpTVWhzaWlQd3FNV0lMT0s5RHA2US1Ec2ZsOVVWSWJNM0lORUhxVmJJYVFkM1FiZnBBOENCV2hCS1F6MnZVQU02SEMtYkllZFRYZ0FaSlpTMjNzUzRrRWpFVG56?oc=5",
+     "published_at": "2026-11-10T22:37:05.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Lumbra Raises $25M Series A to Expand Controlled AI Agent Deployments Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "90c5a8afcdb9",
+     "group_key": "lumbra",
+     "title": "Lumbra Raises $25 Million Series A to Expand AI Agent Platform Beyond Defense",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzBHWnd1QUE0UUxEeHhrMTcxdVhsb2pnOEs0OGZPeUZ2dUpWU0lUMnBjZmk0Q3h3U2FiSWtCeHlNT09jWDVCNHpkYkhIazU3bURrWlpoRW9YQ0dQaEZWWERhVldmYXpvWTNmMUgxOXFUaE9fd0FfYmdvX2x4VnVfaHpIVHN4WjU4WFl3b0FEVXQtWlFzUklxbTA4RFlkeVFfSkNPQk1ELTVUSEFEWG9SdEtRcGF4QQ?oc=5",
+     "published_at": "2026-11-10T15:10:13.000Z",
+     "amount_hint": "$25 Million",
+     "snippet": "Lumbra Raises $25 Million Series A to Expand AI Agent Platform Beyond Defense citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "c05ea748d8a0",
+     "group_key": "lumbra",
+     "title": "Lumbra Raises $25M Series A to Scale Agentic AI for High-Consequence Environments",
+     "publisher": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSTU1a3BMek9wVFhLQnVKZzhYX0h0N3JxQThzcXhMWU5CVmRjM2Q0Nzc3Snh3a2c5czhWa2lDc1A3UUJiY01TVlV0dktncDFZWlB4UzJGcVMxZUxkbXVVdWRLV0l3bDZSRG9uR2NiQlBSNWkwZll6WExyQllmVGFOVnNoMklibDV2YWczYkt4WG9HYldDUVUtTzlR?oc=5",
+     "published_at": "2026-11-10T14:00:00.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Lumbra Raises $25M Series A to Scale Agentic AI for High-Consequence Environments Yahoo Finance",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "0a4ac32fd39f",
+     "group_key": "lumbra",
+     "title": "Lumbra: $25 Million Series A Funds AI Agent Expansion Into Regulated Industries",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/lumbra-25-million-series-a-funds-ai-agent-expansion-into-regulated-industries/",
+     "published_at": "2026-11-10T21:59:27.000Z",
+     "amount_hint": "$25 Million",
+     "snippet": "Lumbra has raised $25 million in Series A funding co-led by Point72 Ventures and Ansa, with continued participation from Costanoa, to expand its AI agent platform beyond national security into regulated commercial markets.\nThe post Lumbra: $25 Million Series A Funds AI Agent Expansion Into Regulated Industries appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "sumary",
+   "company_guess": "Sumary",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "761ba3df8bb8",
+     "group_key": "sumary",
+     "title": "Sumary Raises $25M for AI Accounting in Europe [2026]",
+     "publisher": "shattered.io",
+     "url": "https://app.sumary.com/",
+     "published_at": "2026-11-10T08:29:45.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Sumary Raises $25M for AI Accounting in Europe [2026] shattered.io",
+     "text_status": "thin",
+     "text": "Welcome back\nSign in to continue to Sumary\nSign in with Google Sign in with Microsoft\nOr continue with email\nEmail Sign in with Email\nDon't have an account? Book a demo\n© 2026 Sumary ApS Terms of Service and Privacy Policy"
+    },
+    {
+     "id": "20020e4df4b6",
+     "group_key": "sumary",
+     "title": "AI accounting startup Sumary raises $25m seed",
+     "publisher": "Sifted",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zNG5MeUVZMmVPbkVXaFFIWERHb19ZcDdYWFdDRUxJQUhfWVVuNm5RTEJOVkYyWkNTbk1sNEdOREs0MG9Nd1lYak8weEpHQnFpU0w0emtXZklHX3JW?oc=5",
+     "published_at": "2026-11-10T06:01:57.000Z",
+     "amount_hint": "$25m",
+     "snippet": "AI accounting startup Sumary raises $25m seed Sifted",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "4aeaa8eef6e7",
+     "group_key": "sumary",
+     "title": "Sumary Raises $25M in Seed Funding",
+     "publisher": "FinSMEs",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FaUVHT3NXaWVPcXFoWnB5YWJKbXlZLUp0ZzctdE9acGJJZHNaY0pkeGZ1ajRtS1VXb1g5NjhfZVMxUlE4ZzhSc2dUZ3BrVWk2LUt3c3U4dGVlLUVIZ21Pd2N4RlFUYUNPRUp4cU9zcTFxZnZpdzFJQ0hR?oc=5",
+     "published_at": "2026-11-10T08:35:53.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Sumary Raises $25M in Seed Funding FinSMEs",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "0f41180cfae6",
+     "group_key": "sumary",
+     "title": "Sumary lands €22 million to automate accounting workflows as it sets sights on European expansion - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbFRkTXZXN2hSWnhwdUxoNmRHeERfaVplcVJZQkFIUnZhcEdsYzdKXzVlcVYteGpjWkdjU3ZvZVVyMHZIRGYzcUg5UnpBeUJubWFLSlozT0RySHhLcjhubTZ3U3NxVFJvWXBDVDZMelFrVzhaOW1CUFpjcjc1aTBRR2xkakJQUG9UWU9ReHRHMm5uTFhSRzVLMUZHNkhaQUdqNzBtV1FBVjNleEo1Rjl6bmhyRFJwb1Npd1EydEdSd1lSVnBSRFRkaGNEbDYxbzA?oc=5",
+     "published_at": "2026-11-10T09:16:52.000Z",
+     "amount_hint": "€22 million",
+     "snippet": "Sumary lands €22 million to automate accounting workflows as it sets sights on European expansion EU-Startups",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "7b001838f208",
+     "group_key": "sumary",
+     "title": "Sumary Secures $25 Million to Automate Accounting",
+     "publisher": "Brief IA",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQenpIb2FHVW5VdUJFTGhwYTZfVy1WSWZUeDAxMXdKRXJyc3U0d2dSaGVBSThPWkhxMzhaZlNpVnRULTVDM1A1QWdjQ1Vsc1ZRcHpBbkU5ZEMwNDRGLTVJQzF3OVVJdTh3NjJuZkhCR0VIRThIQWJEc2dkd1M1QjJtTTkwRmpST1pkYXc?oc=5",
+     "published_at": "2026-11-10T07:08:55.000Z",
+     "amount_hint": "$25 Million",
+     "snippet": "Sumary Secures $25 Million to Automate Accounting Brief IA",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "e4795815c0bb",
+     "group_key": "sumary",
+     "title": "Sumary lands $25M seed led by Singular as AI accounting race heats up",
+     "publisher": "Sofia Chesnokova",
+     "url": "https://techfundingnews.com/sumary-25m-seed-ai-accounting-firms/",
+     "published_at": "2026-11-10T10:53:48.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Copenhagen-based Sumary, which develops AI software for accounting firms amid a battle with AI-native firms, just closed a…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "nanopath",
+   "company_guess": "Nanopath",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "1a5bc27fedc5",
+     "group_key": "nanopath",
+     "title": "Nanopath Raises $25M in Series B Financing Round",
+     "publisher": "GenomeWeb",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNejIzUVFyN1Z3U3hycmZXNlJWTmc0ZzNuSXVMRVkwVU91UGgzU2swNXJ3TXRtR29JTm1ydHFaTkpEdHZhTTNOVXFnR0diSk5nWWpoZGJOb3lPRmt6Z2djeXZxR1ZJSEVDX0hONnFpNXBUMGVkZVJwU19uTU9hQktLWUhYOFpwa3doZEpDbUpMenVYTUJwRmt1OUQ4RllHcUFpMkZpRVhqTWk?oc=5",
+     "published_at": "2026-11-10T16:37:00.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Nanopath Raises $25M in Series B Financing Round GenomeWeb",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "30a3a9dbb193",
+     "group_key": "nanopath",
+     "title": "Nanopath Raises $25 Million Series B to Advance Women’s Health Diagnostic Testing",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVM2VGw0MXBPUEZQSUdCM1p6N053NUJjNUVJaWVUbERIdDY3SVgwQ1U5VDhFMzNfWnQ3aXAwblVMb1hjYURHcXJsdmJVVERFNHRIdDNhN3BHaDRLQS1rZExUWUllcDB2QXI0RTFiNVlabUFnRV9TZzZNMVlwWEZ0STlKYU5rMmN4VENIc2ZVNDZSYldrN2N3QnNjMWpkZUtPUkRlMmkxb3R6REplRmc2RWdrMlc2QkZXcEE?oc=5",
+     "published_at": "2026-11-10T21:05:27.000Z",
+     "amount_hint": "$25 Million",
+     "snippet": "Nanopath Raises $25 Million Series B to Advance Women’s Health Diagnostic Testing citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "74a80abf9f13",
+     "group_key": "nanopath",
+     "title": "Nanopath: $25 Million Series B To Advance Women’s Health Molecular Testing",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/nanopath-25-million-series-b-to-advance-womens-health-molecular-testing/",
+     "published_at": "2026-11-11T17:43:27.000Z",
+     "amount_hint": "$25 Million",
+     "snippet": "Nanopath has raised $25 million in Series B financing to advance a 15-minute molecular test for vaginitis and prepare its point-of-care diagnostics platform for potential commercialization. The round includes $2 million in nondilutive grant funding and was co-led by Norwest and SV Health Investors’ MedTech Convergence Fund. The Labcorp Venture Fund participated alongside Elderberry Ventures, GingerBread Capital, Alumni Ventures, and other investors.\nThe post Nanopath: $25 Million Series B To Advance Women’s Health Molecular Testing appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "6eaae84275c7",
+     "group_key": "nanopath",
+     "title": "Nanopath Raises $25 Million Series B to Advance Women’s Health Diagnostic Testing",
+     "publisher": "Kevin Parker",
+     "url": "https://www.citybiz.co/article/932321/nanopath-raises-25-million-series-b-to-advance-womens-health-diagnostic-testing/",
+     "published_at": "2026-11-10T21:04:52.000Z",
+     "amount_hint": "$25 Million",
+     "snippet": "Nanopath, a Cambridge, Massachusetts-based molecular diagnostics company, has closed a $25 million Series B financing round to advance the development... Read More\nThe post Nanopath Raises $25 Million Series B to Advance Women’s Health Diagnostic Testing appeared first on citybiz .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "luminoah",
+   "company_guess": "Luminoah",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "a830195e89ee",
+     "group_key": "luminoah",
+     "title": "Luminoah Raises $25 Million Series B to Expand Access to Its FDA-Cleared Enteral Feeding System",
+     "publisher": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWWVsaHpJX2lpVVdfTnBONjhleXp6VHN5YnV6M1BGc2xRME5sR2ZDcVJ2dUlRVWVXdGRiMmRqMjJTRG51R2hPLXk0RldjUm5NVlh6UWJJRFpwQVZYby14RzZGS19uV2tvaUZ3b1RUeXRhTmMzUDI4LXhzalRhdFNYTjFCV0Y1RHo2WTJPSGwzejktcEpCNkE3akU0ZEVlS1RiMEk0R3I3R3p2R1JrUzdncTR1Z3B2VzE3Y3Zudm9yRmw5YTdYSmw3eV9MWkkwMS1iYUNEZzl2SUhvM3Y1TWhDRW9MNEdhcU1objN6LWpPQ3phRWM5Z3Bjc2pn?oc=5",
+     "published_at": "2026-11-10T11:30:00.000Z",
+     "amount_hint": "$25 Million",
+     "snippet": "Luminoah Raises $25 Million Series B to Expand Access to Its FDA-Cleared Enteral Feeding System GlobeNewswire",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "377acbf103df",
+     "group_key": "luminoah",
+     "title": "Luminoah Raises $25 Million Series B to Expand Access to Its FDA-Cleared Enteral Feeding System",
+     "publisher": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMDdVd1BKYUgxTy0wT21VbjZ3VWlqTnZVVDVhemdsakNzMlpLQURhNVBjRUFRc1dQcklhVThJOE1IeHJhei04aEdvY19GeloyazJjelVLRDRpZl84ZGhBNHJzaUZwbllqUUNGSzZOWXlMR2RuMVBJZDJMRC10VVJLRU5PWXRUazhjVnc3X01wbjhvOFFhWVNYVjFCeUt4U0twR0tBTzIxdHpXLUtKX2pnMldjTjVWa3BQZzVBbnc2RXZ6TG5wdC00a2szZk41eFU4Y21wVkdiNGFiNGstS0Z2UWR3d3d1WlpXUk1ZZk9WcE5Fck1vQlg0?oc=5",
+     "published_at": "2026-11-10T11:56:36.000Z",
+     "amount_hint": "$25 Million",
+     "snippet": "Luminoah Raises $25 Million Series B to Expand Access to Its FDA-Cleared Enteral Feeding System TradingView",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "psithera",
+   "company_guess": "PsiThera",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "007cce2c64d2",
+     "group_key": "psithera",
+     "title": "PsiThera Closes $25 Million Financing to Advance Oral Therapeutics in Immunology",
+     "publisher": "GlobeNewswire",
+     "url": "https://markets.financialcontent.com/stocks/article/gnwcq-2026-11-10-psithera-closes-25-million-financing-to-advance-oral-therapeutics-in-immunology",
+     "published_at": "2026-11-10T12:00:00.000Z",
+     "amount_hint": "$25 Million",
+     "snippet": "PsiThera Closes $25 Million Financing to Advance Oral Therapeutics in Immunology GlobeNewswire",
+     "text_status": "ok",
+     "text": "PsiThera Closes $25 Million Financing to Advance Oral Therapeutics in Immunology\nBy:\nPsiThera via\nGlobeNewswire\nNovember 10, 2026 at 07:00 AM EST\nⓘ This article is third-party content and does not represent the views of this site. We make no guarantees regarding its accuracy or completeness.\nAbbVie Ventures and Lumination Capital joining existing lead investors Samsara BioCapital and Lightstone Ventures\nFinancing supports TNFα development candidate nomination and initiation of IND-enabling studies, alongside advancement of oral TL1A inhibitors into lead optimization\nProprietary QUAISAR platform, combined with approach to Physical AI, continues to drive rapid design of optimized oral drug candidates\nWATERTOWN, Mass., Nov. 10, 2026 (GLOBE NEWSWIRE) -- PsiThera, a biotechnology company harnessing biologically relevant protein states and physical artificial intelligence to create oral drugs for immune and inflammatory diseases, today announced the closing of a $25 million financing. New investors AbbVie Ventures and Lumination Capital participated, along with existing lead investors Samsara BioCapital and Lightstone Ventures, and other existing investors. In connection with the financing, Claire Leurent, Ph.D., MBA, Managing Director at AbbVie Ventures, has joined PsiThera’s Board of Directors.\nProceeds from the financing are expected to fund operations, supporting development candidate nomination and the initiation of IND-enabling studies for the company’s lead oral small molecule TNFα inhibitor, as well as advancement of its oral TL1A program into lead optimization.\nThe company’s proprietary QUAISAR platform combines physics-based molecular simulation, machine learning, and experimental biophysics into a single closed-loop discovery engine to design novel small molecule therapeutics more efficiently. QUAISAR models protein motion to identify and target transient binding pockets that conventional structure-based design cannot see, enabling the design of small molecules for targets that have been difficult to address with oral therapies. Using this platform, PsiThera advanced the company’s lead TNFα program from hit identification to lead optimization in just four months.\n“Our goal is to bring the efficacy of leading biologics into novel oral medicines to improve on their therapeutic profiles. This financing accelerates our progress toward that vision as we advance our oral TNFα program toward development candidate nomination and clinical initiation and expand our pipeline of differentiated immunology therapeutics, starting with TL1A,” said Eric D. Shaff, President and Chief Executive Officer of PsiThera. “We are grateful for the continued support of our existing investors and welcome AbbVie Ventures and Lumination Capital.”\nInjectable anti-TNFα biologic therapies are approved across a broad range of immune-mediated diseases. However, an oral therapeutic could have broad application, both as monotherapy and as a combination partner, and provide an additional treatment option to the many patients who have not yet started biologic therapy.\nPsiThera’s oral TNFα inhibitors are designed to achieve a differentiated profile to improve the therapeutic index relative to injectables or other oral TNFα inhibitors in development, supporting best-in-class potential.\n“PsiThera has brought together seasoned biopharma leadership, experienced drug hunters, and immunology and computational scientists around a platform that can find and exploit protein states"
+    }
+   ]
+  },
+  {
+   "group_key": "stereotaxis",
+   "company_guess": "Stereotaxis",
+   "amount_hint_usd": 24000000,
+   "articles": [
+    {
+     "id": "c615b5b1c051",
+     "group_key": "stereotaxis",
+     "title": "Stereotaxis Announces Convertible Note Financing of Up To $24 Million",
+     "publisher": "The Manila Times",
+     "url": "https://www.stereotaxis.com/",
+     "published_at": "2026-11-10T21:13:38.000Z",
+     "amount_hint": "$24 Million",
+     "snippet": "Stereotaxis Announces Convertible Note Financing of Up To $24 Million The Manila Times",
+     "text_status": "thin",
+     "text": "Pioneering Endovascular Robotics\nAdvancing Robotics in Interventional Medicine\nToggle navigation\nAbout Us\nProducts\nInvestors\nPatients\nPhysicians\nPioneering Endovascular Robotics\nHealthcare Professionals\nPhysicians\nClinical Data\nHospitals\nFellows\nTeleRobotics\nPatients & Caregivers\nCardiac Ablation\nHospital Locator\nCorporate\nAbout Us\nNews\nInvestors\nProducts\nCareers"
+    }
+   ]
+  },
+  {
+   "group_key": "sparetech",
+   "company_guess": "Sparetech",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "c8c8f9899e17",
+     "group_key": "sparetech",
+     "title": "Sparetech Raises $20M in Series B Funding",
+     "publisher": "FinSMEs",
+     "url": "https://app.sparetech.io/",
+     "published_at": "2026-11-11T09:21:40.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Sparetech Raises $20M in Series B Funding FinSMEs",
+     "text_status": "thin",
+     "text": null
+    },
+    {
+     "id": "ad2578512c0f",
+     "group_key": "sparetech",
+     "title": "Sparetech raises $20M Series B to cut factory spare-part stockpiles",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOanNuQy1oM3RkMWRsZVVZWi1NNjdINExRaldWMUhmeWV3RzZEM3h3TzRTZkhhZTUzazFtSTBuZzROaHJ6TXFpcHY3Y3Q3enY0bjFqN29XNzZXRTg3d3BpZFRaU1ZjcTdQNnZKeEZYR0pxdFlvSXM3enZuSXp3RnJxcGVKRmZUWjloNHdLS01mdGpadXFnYVkzeWxQdmlaaU5TeGc?oc=5",
+     "published_at": "2026-11-10T15:25:18.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Sparetech raises $20M Series B to cut factory spare-part stockpiles Dealroom",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "xpertdox",
+   "company_guess": "XpertDox",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "0fff63f84a25",
+     "group_key": "xpertdox",
+     "title": "XpertDox Raises $20M Series A to Expand Autonomous Medical Coding",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaU1DWG1mNDJLckVseG9iUmtGblY3X3F0U3JmT1hfMFdPVEN2MXVqcGhqWnN3Vkt4OGVOek5YME9GTnZCSTJST2R1QjNkWHR6YTd4YnhZTkdWVDMtTVZzdmZMdjN3akFTcHhZT250dGVsT1UzeFV4ajNhdDNxZjJpRVJWbDBuUFpVd3B4eU5ySQ?oc=5",
+     "published_at": "2026-11-11T11:04:02.000Z",
+     "amount_hint": "$20M",
+     "snippet": "XpertDox Raises $20M Series A to Expand Autonomous Medical Coding Unite.AI",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "de2c6ef0e4d6",
+     "group_key": "xpertdox",
+     "title": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers",
+     "publisher": "01net",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZDk3NjdpUTlfQk4xdGhlMW1oUkZGalprWGplcGRfdV9VT3FreG9lMGdqckhITmRqU2t1TU5EUGhiTkR5bEtKS1RKbVFGeTlRaXBWODhPQzZBbldySUZhWkktSmp2LU9kMnFMMk1CRGhvLVVQUUFIYjM2QkF5T1g5c19XdDlrWEI0ZHJnaGM2SWFEWXY3Q21WXzZWSnBoZEIxMGZkMGxuNDBfLU1mTmJ0eFZ5NTBGd3lRV3FkRTZ0TXg?oc=5",
+     "published_at": "2026-11-11T13:00:00.000Z",
+     "amount_hint": "$20M",
+     "snippet": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers 01net",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "325691260804",
+     "group_key": "xpertdox",
+     "title": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers",
+     "publisher": "The Joplin Globe",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQMm82ekpmMDVhTWhmSXZ1NWV4TzFMSnRWb2hGb1hHU1kyc3p6eFQzbTlOUnB0Q2FOa2lveHN6c3pTS3VnZ3A0MUVCT1J3WlZwNXpVZFNNMExaSGJQX2tNS2QtelBxaXJjSnFla1ZKU1A1QW02YnRDbnQ1MWJQbFRsLXVOb2d0cnJvbXdwUmFvVnhNeElMWllHaEJTeTBlMUVlX0prb1A3S1U5b1JRY0ZIZE55OFFIeEpKcWpVeHFIcm9jSHpKWmhYTnlzRXJibEYzcXJZTzZvTWhlMFo1cXpxa2ctYWp6eGY1ZVhUVzNFMHQ1YjlBRWcwNDhSdVFhZDdrRlpLOEg0YWQxampCOUg0LQ?oc=5",
+     "published_at": "2026-11-11T10:02:23.000Z",
+     "amount_hint": "$20M",
+     "snippet": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers The Joplin Globe",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "4083e1e01157",
+     "group_key": "xpertdox",
+     "title": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers",
+     "publisher": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNTB1SlBvaWpybzRrMWxWLXdaMVVYZ0JwaVh0TEFwekI0OW42cDd2MlJGTXZqSmhYbXVWUVZfdEZkWm5jSGdaYk90NkdUUENWc2E1emlRSFBMOU9rYnpQaUEyMFZzMWZicW1MeldIRk5pSFhycjNDOE43MDVXWkQ4SWxGSXMwX1laY3FoR0hzNmVtUkQ1T1l3RFdva2FUSGtHYnp0OXlDby1NY0NNQ1NFNFlnQXpiUWhTZWtsTFhpSHh3NFNUcDh2aHNDQ1E5N2VkRU9TcFNfRTVQbkt2TTJEb2ZYcXJlZlloODV3VW1BcGYxT28?oc=5",
+     "published_at": "2026-11-11T10:00:00.000Z",
+     "amount_hint": "$20M",
+     "snippet": "XpertDox Raises $20M Series A led by Savant Growth to Scale AI Medical Coding for Healthcare Providers Business Wire",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "2085fbf652f2",
+     "group_key": "xpertdox",
+     "title": "XpertDox: $20 Million Series A To Expand AI Medical Coding Platform",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNakxnYkV1ZVJHV0p4aTF4b1JVOUZZNHkzWlVCNW5sWjROMmZOSzktU0NaSUJ2WUI0bERObW1QQzJpWG9RSlFGRFBLQjk5aGRpU3hWVzRvS0pqdmNYRzhMQ0NkdzBQTWlfOHR1ZGdEUF83VFdmX0p4ZUl3SExpQldGd3NLZXlUSWJ4a3dWYXh3?oc=5",
+     "published_at": "2026-11-11T13:08:56.000Z",
+     "amount_hint": "$20 Million",
+     "snippet": "XpertDox: $20 Million Series A To Expand AI Medical Coding Platform Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "a7adb68999fd",
+     "group_key": "xpertdox",
+     "title": "XpertDox: $20 Million Series A To Expand AI Medical Coding Platform",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/xpertdox-20-million-series-a-to-expand-ai-medical-coding-platform/",
+     "published_at": "2026-11-11T13:08:56.000Z",
+     "amount_hint": "$20 Million",
+     "snippet": "XpertDox has raised $20 million in Series A funding to expand its artificial intelligence-powered medical coding platform for healthcare providers. Savant Growth led the round with funding from investment partner Kennet Partners.\nThe post XpertDox: $20 Million Series A To Expand AI Medical Coding Platform appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "whitematter",
+   "company_guess": "WhiteMatter",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "9043e3a5f310",
+     "group_key": "whitematter",
+     "title": "WhiteMatter Raises $20M Series A to Close the Growing Gap Between AI Autonomy and Enterprise Governance",
+     "publisher": "PR Newswire",
+     "url": "https://www.prnewswire.com/news/whitematter/",
+     "published_at": "2026-11-10T14:00:00.000Z",
+     "amount_hint": "$20M",
+     "snippet": "WhiteMatter Raises $20M Series A to Close the Growing Gap Between AI Autonomy and Enterprise Governance PR Newswire",
+     "text_status": "ok",
+     "text": "News from WhiteMatter\nA wide array of domestic and global news stories; news topics include politics/government, business, technology, religion, sports/entertainment, science/nature, and health/lifestyle.\nJump to News Releases :\n00:00\n01:00\n02:00\n03:00\n04:00\n05:00\n06:00\n07:00\n08:00\n09:00\n10:00\n11:00\n12:00\n13:00\n14:00\n15:00\n16:00\n17:00\n18:00\n19:00\n20:00\n21:00\n22:00\n23:00\nGo\nMaking a selection with these dropdown will cause content on this page to change. News listings will\nupdate as each option is selected.\nItems per page:\n25 per page\n50 per page\n75 per page\n100 per page\nLatest\nNov 10, 2026, 09:00 ET\nWhiteMatter Raises $20M Series A to Close the Growing Gap Between AI Autonomy and Enterprise Governance\nAI agents are already operating across the enterprise, multiplying autonomously and acting at a speed traditional security was never built to govern. ...\nJournalists and Bloggers\nThe news you need, when you need it.\nJoin PR Newswire for Journalists to\naccess all of the free services designated to make your job easier.\nIn need of subject matter experts for your story?\nSubmit a free ProfNet request\nand find the sources you need.\nLEARN MORE\n&laquo;\n1\n&raquo;\nMaking a selection with these dropdown will cause content on this page to change. News\nlistings will update as each option is selected.\nItems per page:\n25 per page\n50 per page\n75 per page\n100 per page"
+    },
+    {
+     "id": "4d90be963200",
+     "group_key": "whitematter",
+     "title": "WhiteMatter Raises $20 Million Series A to Expand Enterprise AI Agent Security Platform",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFlSU3NqTUJxOHRlM0RXVFQ5SVZhWHRVU3dvWVh0UHhjNVF2NU1kbmxPck41bmkyN0dXcmFmSEVtQ1FDQWoyS0FfazZSSEM0UTlTYXlMRTdrQWNRQWtQOWJXamQ5WmQzc0ZsUjMyYmVHUWpNZW9aVUc4MkRLSzRKV0tNNjU2ZXd2RGE2emdCOC1qTFBxeWhTb3dFY0ZzYW1oN2VvVFh1c2tidDNTczVDZXVLWEVRQkM5azllQmZMdE02Q1E?oc=5",
+     "published_at": "2026-11-10T22:01:56.000Z",
+     "amount_hint": "$20 Million",
+     "snippet": "WhiteMatter Raises $20 Million Series A to Expand Enterprise AI Agent Security Platform citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "fa7579f5ec58",
+     "group_key": "whitematter",
+     "title": "WhiteMatter Raises $20 Million in Series A Funding",
+     "publisher": "SecurityWeek",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVTZhblk1a0VxNlBlTnJva0diUGRWYko5OWFzdDV2QzR2SkNna2dqejRfay1kSGVhVzBkWmgyX2czSGFxUGlONFp5ZHBCdmxteXIxa3pFSTRqbDMwTWVBdjF6Nkh4Rm9yYV92X3FYdUptNlppUFBnTG1JZEYtZ1JUbVdmVjFhZw?oc=5",
+     "published_at": "2026-11-10T14:58:19.000Z",
+     "amount_hint": "$20 Million",
+     "snippet": "WhiteMatter Raises $20 Million in Series A Funding SecurityWeek",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  }
+ ]
+}
