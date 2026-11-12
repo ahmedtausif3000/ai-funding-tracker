@@ -1,0 +1,412 @@
+{
+ "run_date": "2026-11-12",
+ "part": 3,
+ "groups": [
+  {
+   "group_key": "with 720m round",
+   "company_guess": "With $720M round",
+   "amount_hint_usd": 720000000,
+   "articles": [
+    {
+     "id": "bb54c4d6ab63",
+     "group_key": "with 720m round",
+     "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+     "publisher": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+     "published_at": "2026-11-11T19:34:55.000Z",
+     "amount_hint": "$720M",
+     "snippet": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips TechCrunch",
+     "text_status": "ok",
+     "text": "Fractile , a British startup developing AI chips, has raised a $720 million Series C backed by Britain’s Sovereign AI Fund with hopes of “ensuring the U.K. has a greater stake in the hardware that will underpin its future economy,” its government stated .\nAlongside the likes of Axelera , Etched , and OLIX , this makes Fractile one of the top-funded startup players in the race for purpose-built AI chips. Such chips are one of several avenues being explored to reduce the cost of inference — aka using increasingly demanding AI models in production.\nHowever, Fractile seeks to go beyond hardware with a full-stack approach that also includes a machine learning compiler to maximize the speed at which LLMs will get executed on its chips.\nAs a result, the company frames itself as a frontier AI company, and its latest round led by Thrive Capital, Founders Fund, Lightspeed Venture Partners, and Redpoint was priced accordingly. According to the British government, the valuation was “over £5 billion” — quite possibly $7 billion, a figure reported both by the Financial Times and a Reuters source .\nStill, Fractile’s main differentiator will arguably be its hardware design. After a pivot , its approach now revolves on DRAM, the most common type of RAM, but stacked on top of each chip in such a way that it is hoping will bypass the usual trade-off between memory and capacity.\nThis trade-off has become more problematic with the rise of agentic AI, as companies seek to perform longer chains of tasks with large models without compromising on speed. As compute struggles to keep up, hopes are high for AI chips, despite their limited availability to date.\nIn a LinkedIn post , Fractile CEO Walter Goodwin wrote that “there is still a lot of work ahead” for the company, and that the new funding will enable the startup to “ship [its] first chips and systems next year.”\nTopics\nAI , Fundraising , semiconductor chips , Startups , United Kingdom\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\nAnna Heim\nFreelance Reporter\nAnna Heim is a writer and editorial consultant.\nYou can contact or verify outreach from Anna by emailing annatechcrunch [at] gmail.com.\nAs a freelance reporter at TechCrunch since 2021, she has covered a large range of startup-related topics including AI, fintech & insurtech, SaaS & pricing, and global venture capital trends.\nAs of May 2025, her reporting for TechCrunch focuses on Europe’s most interesting startup stories.\nAnna has moderated panels and conducted onstage interviews at industry events of all sizes, including major tech conferences such as TechCrunch Disrupt, 4YFN, South Summit, TNW Conference, VivaTech, and many more.\nA former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, English, Spanish and Brazilian Portuguese.\nView Bio\n2027\nSan Francisco\nGet an Early Peek at the Next TechCrunch Disrupt\nDisrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line.\nSign up for our waitlist\nRegister Now\nMost Popular\nMicrosoft’s Outlook email hit by new outage\nZack Whittaker\nJensen Huang accused of having another affair — with an Nvidia exec\nLucas Ropek\nAnthropic launches Claude Meetings to turn workplace discussions into plans and tasks\nAisha Malik\nJensen Huang’s alleged honeypot scandal has inspired some top-notch memes\nDominic-Madori Davis\n"
+    }
+   ]
+  },
+  {
+   "group_key": "uforce",
+   "company_guess": "UFORCE",
+   "amount_hint_usd": 700000000,
+   "articles": [
+    {
+     "id": "09b87e708f51",
+     "group_key": "uforce",
+     "title": "Ukrainian drone maker UFORCE raises $700 million at a $6 billion valuation, backed by the UK's National Wealth Fund",
+     "publisher": "MLQ.ai",
+     "url": "https://mlq.ai/news/ukrainian-drone-maker-uforce-raises-700-million-at-a-6-billion-valuation-backed-by-the-uks-national-wealth-fund/",
+     "published_at": "2026-11-12T11:06:18.000Z",
+     "amount_hint": "$700 million",
+     "snippet": "Ukrainian drone maker UFORCE raises $700 million at a $6 billion valuation, backed by the UK's National Wealth Fund MLQ.ai",
+     "text_status": "blocked:403",
+     "text": null
+    },
+    {
+     "id": "7787659b9f43",
+     "group_key": "uforce",
+     "title": "Ukraine-founded drone startup UForce secures $700 million funding round at $6 billion valuation",
+     "publisher": "1470 & 100.3 WMBD",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcTNKOGpwRmxBNExWZWNGZ0RaSktteUc2WkktaDZVMHpJSEUtN2ZxaENoV1cwdGhWZmhxRGlEcDNNOGtlaG56UGZVSGw4bjR3cUUwbFB6Q0JLQWhNYzZhbkdUdXVob1BqV2RiQWtKbUtqM196MG9uRVdISXQ4SHl1RFdIN2lEMHhXMHF2WHVRNW5fanFRMDNkaC1OZ3dlYXlXU0Y5NkFETUkwaHZpLVpXbF9BRk1ZQi0zUW5EQnM4Z3V1VGRnYnc?oc=5",
+     "published_at": "2026-11-12T11:32:11.000Z",
+     "amount_hint": "$700 million",
+     "snippet": "Ukraine-founded drone startup UForce secures $700 million funding round at $6 billion valuation 1470 & 100.3 WMBD",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "43adfd79770f",
+     "group_key": "uforce",
+     "title": "Ukrainian Drone Company UFORCE Raises $700 Million to Expand Defense Manufacturing Worldwide",
+     "publisher": "Dronelife",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PeFBhaS1tN2U0bDY2Zm93VWV2Nl9ITWZETGQxZGdyMllYS1ZKTXFVZHoxQV9rUTFkanZLckNWc095YXdEU3IwdWNMbUY4ZktfWVdLU2F1ZVhsdjB2a3FYYWx3UFdaNGxwTlZZUHNqbmFhN3Vl?oc=5",
+     "published_at": "2026-11-12T13:18:39.000Z",
+     "amount_hint": "$700 Million",
+     "snippet": "Ukrainian Drone Company UFORCE Raises $700 Million to Expand Defense Manufacturing Worldwide Dronelife",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "2fff8999c13c",
+     "group_key": "uforce",
+     "title": "Ukrainian-Founded UFORCE Raises $700 Million to Scale Combat-Proven Drones and Robots",
+     "publisher": "UNITED24 Media",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOckRfVjUxOTR2alNvR3pnUHFTbW53T0NTQUFpazlrNnJsNUVrRVdCX0hPSWdqdTBUdmNNakRUSkhoSEtDUERuck9WWFd0a0s4TWY3N3FydjltQjFmNjh5bVRUMzRrdG03aFBRNVA1ZHFsVnZlVjl2NVJwTzVCSHJqdVVEcXNDR3lNWi1mNEJrMTdmV0JYdGVLX2NtZVoweDk5ZklaTjdvbzhWVjlmNmVfSGdPaDRWR0R6Y1Q1bWpzdW1tOFhlNEVuUg?oc=5",
+     "published_at": "2026-11-12T17:18:03.000Z",
+     "amount_hint": "$700 Million",
+     "snippet": "Ukrainian-Founded UFORCE Raises $700 Million to Scale Combat-Proven Drones and Robots UNITED24 Media",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "384b748ec5c0",
+     "group_key": "uforce",
+     "title": "UFORCE raises $700 million at $6 billion valuation as demand grows for autonomous defense systems",
+     "publisher": "Traders Union",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON0h4eGdZNHlEanZkb0NPRnJQcEl3WmRzZEJvRzZpOHY4RG1ONmxkQTU3Z2NGSlhFVG90T2NSVWpVSnk1Rkp0Z1pubi1oamxFNjhUQTVFY2t3MXk3YmlEUVdPVW1Da1ZiMVFGQXFUcHBTX0F3WUN3eDJFN0hFVjg1MDhQeFd3UGtlTUVLQTZ5cENCUWtsNmc?oc=5",
+     "published_at": "2026-11-12T09:41:36.000Z",
+     "amount_hint": "$700 million",
+     "snippet": "UFORCE raises $700 million at $6 billion valuation as demand grows for autonomous defense systems Traders Union",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "nvidia and unity join",
+   "company_guess": "Nvidia and Unity join",
+   "amount_hint_usd": 700000000,
+   "articles": [
+    {
+     "id": "7e315dde167f",
+     "group_key": "nvidia and unity join",
+     "title": "Nvidia and Unity join Emulate's $700 million round for DeepMind alumni building world models, Sifted reports",
+     "publisher": "MLQ.ai",
+     "url": "https://mlq.ai/news/nvidia-and-unity-join-emulates-700-million-round-for-deepmind-alumni-building-world-models-sifted-reports/",
+     "published_at": "2026-11-11T16:18:32.000Z",
+     "amount_hint": "$700 million",
+     "snippet": "Nvidia and Unity join Emulate's $700 million round for DeepMind alumni building world models, Sifted reports MLQ.ai",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "oura",
+   "company_guess": "Oura",
+   "amount_hint_usd": 625000000,
+   "articles": [
+    {
+     "id": "5a78a242fed2",
+     "group_key": "oura",
+     "title": "Oura buys Counsel Health for $625M as smart-ring maker bets on AI doctors after IPO delay",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/oura-buys-counsel-health-for-625m-as-smart-ring-maker-bets-on-ai-doctors-after-ipo-delay/",
+     "published_at": "2026-11-11T12:59:38.000Z",
+     "amount_hint": "$625M",
+     "snippet": "Oura, the Finnish-founded, San Francisco-based smart-ring maker, has agreed to acquire AI-native primary care company Counsel Health for…",
+     "text_status": "thin",
+     "text": "November 12, 2026\nYC-backed Luminal raises $25M from Standard Capital to loosen Nvidia’s grip on AI inference\nby Abhinaya Prabhu"
+    }
+   ]
+  },
+  {
+   "group_key": "fresenius se",
+   "company_guess": "Fresenius SE",
+   "amount_hint_usd": 524000000,
+   "articles": [
+    {
+     "id": "d68816fd19ca",
+     "group_key": "fresenius se",
+     "title": "Fresenius SE Raises EUR524 Million from Sale of Fresenius Medical Care Shares",
+     "publisher": "marketscreener.com",
+     "url": "https://www.marketscreener.com/news/fresenius-se-raises-eur524-million-from-sale-of-fresenius-medical-care-shares-ce785ed8db80f020",
+     "published_at": "2026-11-12T09:11:23.000Z",
+     "amount_hint": "EUR524 Million",
+     "snippet": "Fresenius SE Raises EUR524 Million from Sale of Fresenius Medical Care Shares marketscreener.com",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "torus",
+   "company_guess": "Torus",
+   "amount_hint_usd": 500000000,
+   "articles": [
+    {
+     "id": "16fce703dfe5",
+     "group_key": "torus",
+     "title": "Torus Raises $500M Series C for Modular AI Data Centres",
+     "publisher": "PropTech Connect",
+     "url": "https://proptechconnect.com/torus-raises-500m-series-c-for-modular-ai-data-centres/",
+     "published_at": "2026-11-12T17:46:16.000Z",
+     "amount_hint": "$500M",
+     "snippet": "Torus Raises $500M Series C for Modular AI Data Centres PropTech Connect",
+     "text_status": "thin",
+     "text": null
+    },
+    {
+     "id": "9ea0bab7805c",
+     "group_key": "torus",
+     "title": "Torus raises $500M Series C for modular AI data centers",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa3pFQjB0R2VweU84S3lkSnRYOTA1Y1IwSmJ2SnV6RVBPOEZkT2JTS2hpakVDUUNoV193bzZzUlJNTjV1WlMwSTRSTmhxSHg4RnBTMm5sek9JN3k0T084U1ZydUVXSmVvNllXVkFHWDFoWUhwM1VTbmZVVHNOYzBEN1ZpN2hrY3FyRDNzNk1kWk1CQQ?oc=5",
+     "published_at": "2026-11-11T12:56:06.000Z",
+     "amount_hint": "$500M",
+     "snippet": "Torus raises $500M Series C for modular AI data centers Dealroom",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "b6626ef3aa3a",
+     "group_key": "torus",
+     "title": "Torus Launches Foundry, Raises $500 Million to Bring AI Computing to Available Grid Capacity",
+     "publisher": "TechBuzz News",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5V2dQa3BQY2cyMTUxUV9ScEFnRFpZZEgyRWZULUlwb3lRYkZkVnZDSjQ3Sk1PbEgwQ2xYLWZidXVsTUktVlMwN3NHTm9MM01oZnZwMWdSMUlqQmtfN250NDFVdk1Xckl0d09fWGNLVHhBNzdCb3VyZVhleks?oc=5",
+     "published_at": "2026-11-11T20:31:30.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "Torus Launches Foundry, Raises $500 Million to Bring AI Computing to Available Grid Capacity TechBuzz News",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "cc77e1f3aaf7",
+     "group_key": "torus",
+     "title": "Torus Raises $500M Growth Capital to Expand Modular AI Infrastructure",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXBmd1VLMlloYXl3UkxIYUY3ZDBOc0E2QWJCaFFmRzRFX1NsUG51R0Eyakt1bUdqb3pVRmYxaG1CT2k1Tnpfd1hqb19sZ3NEX0poMlJIbmNTc2laaXBKckxtXzFpM2tQeThFNnRhQnJqVFlfUTI0TWFqTTg0UnZEay1yLXpkSzQyZm9JeGNhdzlmMEMx?oc=5",
+     "published_at": "2026-11-11T13:31:03.000Z",
+     "amount_hint": "$500M",
+     "snippet": "Torus Raises $500M Growth Capital to Expand Modular AI Infrastructure Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "b8cc3f52b23a",
+     "group_key": "torus",
+     "title": "Torus Raises $500 Million To Build Shipping-Container Battery + AI Product",
+     "publisher": "Briefs Finance",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTHg1RXJsM3dGZVRnNzVfbTRpeC1vWlFqMlk0Y2E3bm1VLWp3V05Hdk5Fa29yQnl2ZFRtN2J6QnBVM3R1Rk42UWlwOHhYcWloeWJ6VjRsWnVjSUp3OWhEejNjVUFPV2FaZ1l3aUVJbDhFaEQ3Uk8xbW5Sd1VJVTdfbVdfdUJyRjBaQXNKam9kR3hLdw?oc=5",
+     "published_at": "2026-11-11T15:45:00.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "Torus Raises $500 Million To Build Shipping-Container Battery + AI Product Briefs Finance",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "9a1ac4bc1d9c",
+     "group_key": "torus",
+     "title": "Torus raises $500 million led by Magnetar and launches Foundry, containerized AI inference sites that run on spare grid capacity",
+     "publisher": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOXzF5TWYyNjRuem5IOTdUSWlCc0lPOTFlbzdrSkxBZzNiZDU1aXJzTWhzQnlFQWQtYWE0TmhIVGg3NUtRQnQ3Q0hCSTg2NU1JN0lEc3Fxek12RDZPS2JsTkR6aG44ejlmNm5DdUFwZlR3UW91QmV0dU5DblQxTHlaVUJXbWZWQi1SY29wMnladTlTSnl2NWMtN18xV3lmaTlhUUZRZjhLUkJKUUtHaWk1SjRlU3FTeHFob3ZnaGotdjF2eDlkQ0JsRGxRVUk0OExqSzJaZFkyQUdkaUluOVZqTg?oc=5",
+     "published_at": "2026-11-11T14:50:07.000Z",
+     "amount_hint": "$500 million",
+     "snippet": "Torus raises $500 million led by Magnetar and launches Foundry, containerized AI inference sites that run on spare grid capacity MLQ.ai",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "2dd3d555f8c4",
+     "group_key": "torus",
+     "title": "Torus Raises $500 Million To Run AI Data Centers On Modular Battery Systems",
+     "publisher": "Ventureburn",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdjNkdnVkaVI0V1hsZTBCZ1JNQy1GZExTdXZhb1JxdzJYTUZ5eGJVVWZtcFQ5NlRORXIwb3Noc0o1cnozRW1xbzR1QXZtMFFqQnRCWWdKN0ZrbWNpZWxkdjdvWkVLLWt3SG1NVmdEMlBiMk1PcUhFUFRDZHBfaWk4R2JpWdIBgwFBVV95cUxPdjNkdnVkaVI0V1hsZTBCZ1JNQy1GZExTdXZhb1JxdzJYTUZ5eGJVVWZtcFQ5NlRORXIwb3Noc0o1cnozRW1xbzR1QXZtMFFqQnRCWWdKN0ZrbWNpZWxkdjdvWkVLLWt3SG1NVmdEMlBiMk1PcUhFUFRDZHBfaWk4R2JpWQ?oc=5",
+     "published_at": "2026-11-11T17:09:25.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "Torus Raises $500 Million To Run AI Data Centers On Modular Battery Systems Ventureburn",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "d4c3c46c6b1a",
+     "group_key": "torus",
+     "title": "Utah-Based Torus Raises $500 Million to Develop Foundry Modular AI Data Center Technology",
+     "publisher": "Construction Review",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVDJoakk3QzJMWnAyQnZXOTlRLVBHRG9FbnRLb0JWUWQ4c2tHZEFhNmhVWVlxR2VOWl96Zmw2dXVRSnpBcUh4bWpvQVhpV2g5OFdSV25tMDgyRFVZbTFpTEtTWlRVVERwckt5cVA5WVBzVVh1UXN0RmEyalF6U1BEc0VjNThaSGh5QUFyOHBfNGdUM2JSOHVLeEhzM01CdGFScGUtb09SSTlTNTROeGhLanhoSnhOT21YM2l3N1lsR25Ybmp3?oc=5",
+     "published_at": "2026-11-11T17:36:10.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "Utah-Based Torus Raises $500 Million to Develop Foundry Modular AI Data Center Technology Construction Review",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "c9c418a10fbf",
+     "group_key": "torus",
+     "title": "Utah Startup Torus Raises $500M for Prefab AI Data Center Built to Skip Grid Queue",
+     "publisher": "Tech Times",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0pSLXVReGd0eFd3ZnZLNUhEc1NJNTEyN2JlXzVYalBNc2dQWTZpcDJnVzZ5Znlta0dCZXByOTdmNm1TZlpRTHZFb09WMEYwamFvRTdfdUJMYThHQlNPbUJFVllBQ2xvSVoySmF6bHliazRfVUxrSTc5dnRFSWhCeVN3THlzU2M1eGY3aVdzeWNaOWtQZWk4MTFLaVdoNTNCZGRldzRBWE8zLWt5OWk2V1ZTTTQ2TmgtVnE5dENYeHZTWmJUMDdpSw?oc=5",
+     "published_at": "2026-11-12T12:35:50.000Z",
+     "amount_hint": "$500M",
+     "snippet": "Utah Startup Torus Raises $500M for Prefab AI Data Center Built to Skip Grid Queue Tech Times",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "648e9c042b4a",
+     "group_key": "torus",
+     "title": "Torus: $500 Million Financing Supports Foundry Modular AI Infrastructure Launch",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/torus-500-million-financing-supports-foundry-modular-ai-infrastructure-launch/",
+     "published_at": "2026-11-11T20:53:08.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "Torus has secured $500 million in growth capital led by Magnetar and launched Foundry, a modular AI infrastructure system designed to deploy inference computing at sites with available electrical capacity.\nThe post Torus: $500 Million Financing Supports Foundry Modular AI Infrastructure Launch appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "utah based startup",
+   "company_guess": "Utah-Based Startup",
+   "amount_hint_usd": 500000000,
+   "articles": [
+    {
+     "id": "89004ac990a7",
+     "group_key": "utah based startup",
+     "title": "Utah-Based Startup Raises $500 Million for Modular AI Data Center",
+     "publisher": "Bloomberg.com",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-11/utah-based-startup-raises-500-million-for-modular-ai-data-center",
+     "published_at": "2026-11-11T12:00:00.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "Utah-Based Startup Raises $500 Million for Modular AI Data Center Bloomberg.com",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "from stealth to a",
+   "company_guess": "From stealth to a",
+   "amount_hint_usd": 500000000,
+   "articles": [
+    {
+     "id": "069e6d146257",
+     "group_key": "from stealth to a",
+     "title": "From stealth to a $500 million valuation: Former Microsoft engineers raise $70 million to challenge data giants",
+     "publisher": "CTech",
+     "url": "https://www.calcalistech.com/ctechnews/article/rk9dvkfrmx",
+     "published_at": "2026-11-11T14:00:00.000Z",
+     "amount_hint": "$500 million",
+     "snippet": "From stealth to a $500 million valuation: Former Microsoft engineers raise $70 million to challenge data giants CTech",
+     "text_status": "thin",
+     "text": "Photo: Netanel Tobias"
+    }
+   ]
+  },
+  {
+   "group_key": "softbank led agile robots",
+   "company_guess": "SoftBank-Led Agile Robots",
+   "amount_hint_usd": 500000000,
+   "articles": [
+    {
+     "id": "a1a77f8764df",
+     "group_key": "softbank led agile robots",
+     "title": "SoftBank-Led Agile Robots Raises $500M Series F at $8.5B Valuation",
+     "publisher": "Wowtale",
+     "url": "https://en.wowtale.net/2026/11/12/235979/?utm_source=rss&utm_medium=rss&utm_campaign=softbank-led-agile-robots-raises-500m-series-f-at-8-5b-valuation",
+     "published_at": "2026-11-12T13:05:16.000Z",
+     "amount_hint": "$500M",
+     "snippet": "SoftBank-Led Agile Robots Raises $500M Series F at $8.5B Valuation Wowtale",
+     "text_status": "ok",
+     "text": "A German company that has deployed more than 20,000 industrial robot solutions now has a plant that can build up to 10,000 humanoids a year. Munich-based Physical AI company Agile Robots has raised a $500 million Series F led by SoftBank Group, valuing it at $8.5 billion and bringing total funding to $2 billion.\nAgile Robots announced the round on Nov. 12. SoftBank Group led, with NVIDIA, Hitachi Group (Hitachi and Hitachi Ventures) and T.Capital among the participants. The company says the investors span the automotive, artificial intelligence, digital and industrial technology sectors. SoftBank is a longtime backer: its Vision Fund 2 led the company’s $220 million Series C in September 2021 at a valuation above $1 billion, so the new valuation is more than eight times that. According to Bloomberg, a round of about $800 million, with SoftBank anchoring more than $300 million, was under discussion in June, and the round closed smaller at $500 million. Hitachi Ventures also joined Graphon Labs’ $35 million Series A this month.\nThe company builds humanoid and mobile robots, robotic arms and hands, and the software and AI models behind them, aimed at automotive, consumer electronics, healthcare and service customers that want to automate tasks that have relied on human dexterity and judgment. It was founded in 2018 as a spin-off from the German Aerospace Center (DLR) and says it has deployed 20,000 industrial robotic solutions across automotive, consumer electronics, logistics and other industries. It has more than 3,500 employees from almost 60 countries, including more than 2,000 R&D experts, and over 650 patents, and develops and builds its hardware and software in-house from more than 20,000 square meters of lab space.\nFounder and CEO Zhaopeng Chen said the company wants to bring Physical AI out of the lab and into industrial production across logistics, automotive, electronics and manufacturing. The money will go to global expansion, a stronger presence in key markets and more production capacity. Agile Robots plans to strengthen its presence in the United States and speed up development of new robotics applications, while continuing to build out production capacity, including in Germany. A new site opened early this year in Fürstenfeldbruck, near Munich, can produce up to 10,000 legged and wheeled humanoid robots a year. Dennis Chang, managing partner at SoftBank Investment Advisers, said Agile Robots combines deep robotics expertise with the ability to execute at industrial scale, and that SoftBank looks forward to continuing to partner with Chen’s team.\nAcquisitions have widened the business. In November 2023 it took over the operations of insolvent Munich robotics company Franka Emika , which now runs as Franka Robotics and serves as an AI robotics research platform. Last November it announced the acquisition of thyssenkrupp’s Automation Engineering business , and in April it closed the deal . The unit now operates as industrial deployment specialist Krause Automation, and the company said at the time it would add about 650 experts and 10 locations in Europe and North America. BÄR Automation and Idealworks are also subsidiaries, and its humanoid lineup includes Agile ONE. The company has not disclosed revenue.\nHumanoid competition is heating up on both sides of the Atlantic. The closest comparison is fellow German company NEURA Robotics , based in Metzingen, which also builds the full stack from cobot arms and mobile platforms to "
+    },
+    {
+     "id": "459c3bb0c174",
+     "group_key": "softbank led agile robots",
+     "title": "Agile Robots raises $500M funding led by SoftBank at $8.5B valuation",
+     "publisher": "SiliconANGLE",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaXZ5VlRueEhEd3hNTnEtNVFFZ3FJWGV6Qm9RekVlaHEyQmdONHdfemhESXpHcFQzNnkyXzd0elFPamo5TVBSWjlWWDBZb0c4a01LUDJRT09ZOEt6S2lSRHNMbFY2Vi1LaFhPQzVPWTVCcjkyejBDUnY2UF9IcUZrS0xyQm9FMVBGZk1fUUhoWkxUaW02M1E2S0tVbUxwY3pzTkI1dHh3?oc=5",
+     "published_at": "2026-11-12T16:10:00.000Z",
+     "amount_hint": "$500M",
+     "snippet": "Agile Robots raises $500M funding led by SoftBank at $8.5B valuation SiliconANGLE",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "b5b489539124",
+     "group_key": "softbank led agile robots",
+     "title": "Agile Robots Raises $500M at $8.5B, SoftBank Leads [2026]",
+     "publisher": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUNzMkV3bEJJMWxQY2pydUNDdTZYejNpREs5dFQtUEZyUm1FY1d6STBxaFh1UzYzNmZ4LV9rNXF3bGptVmd3dl9uQVVyN3EwUUc2cVVhdHk0WTVkT25LMzZhamVJaDdaSk9OWDhNb0dHNXNSb0hpd25vcERGZVZTdm9DR2xFOWJWc1EtUg?oc=5",
+     "published_at": "2026-11-12T16:18:46.000Z",
+     "amount_hint": "$500M",
+     "snippet": "Agile Robots Raises $500M at $8.5B, SoftBank Leads [2026] shattered.io",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "af37a54a5e30",
+     "group_key": "softbank led agile robots",
+     "title": "German start-up Agile Robots raises half a billion in funding round",
+     "publisher": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTlQ3czFtSjFoaTBUWjBnZndpdE1vdkN5VG9ZX2h0ZEJ4Vl9idDdVYmZKUUVmdjlWM0dCY0hlcFRnZnlHMUJxUjdYQUEzcmNVd0RsZUJGdG5QSVl0aTNzN2lmaDh6TjdiYU92eFRLaVRySndoQmFOV0l2UWlSNEtHcUZfYnI2N2tSQXBOU0FDVjRkVUhXSjdBN3JYTVY?oc=5",
+     "published_at": "2026-11-12T09:33:36.000Z",
+     "amount_hint": null,
+     "snippet": "German start-up Agile Robots raises half a billion in funding round Yahoo Finance",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "e22ca4317fb6",
+     "group_key": "softbank led agile robots",
+     "title": "Agile Robots raises $500 million Series F at $8.5 billion valuation",
+     "publisher": "Howl.Link",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB3RjBLemlzQl9kbGxYY1J4czA0Y3dxVU5QbjZWcGlkaEQ0RGxITy1yR2VjNnViMG83Tmpz?oc=5",
+     "published_at": "2026-11-12T19:22:28.000Z",
+     "amount_hint": "$500 million",
+     "snippet": "Agile Robots raises $500 million Series F at $8.5 billion valuation Howl.Link",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "fa9d2b8f55ce",
+     "group_key": "softbank led agile robots",
+     "title": "Agile Robots Raises $500M Series F at $8.5B Valuation to Expand Production",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkxtZEFtdkZBRmp5dXgtaTBPVmMzNkU5MDlGbVdlT3p6TGhpcTBNbGJhOXVqUk5nbmJNX215MVJhVkxldkx1OXo2UFBieXZOVkJFYzEtemQ5Q2lUeXZwV21QSTRVN0gwTUVRcnR4bnRoTUNXMHFncVliV2txUVN5ZWtEbkdWb2hMTS1mREpjdGwwYW82TGl6WnB3?oc=5",
+     "published_at": "2026-11-12T12:57:12.000Z",
+     "amount_hint": "$500M",
+     "snippet": "Agile Robots Raises $500M Series F at $8.5B Valuation to Expand Production Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "softbank leads 500 million",
+   "company_guess": "SoftBank Leads $500 Million",
+   "amount_hint_usd": 500000000,
+   "articles": [
+    {
+     "id": "a3ca053341c8",
+     "group_key": "softbank leads 500 million",
+     "title": "SoftBank Leads $500 Million Funding Round for Agile Robots in Germany",
+     "publisher": "Asia Business Outlook",
+     "url": "https://www.asiabusinessoutlook.com/news/softbank-leads-500-million-funding-round-for-agile-robots-in-germany-nwid-12780.html",
+     "published_at": "2026-11-12T04:44:21.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "SoftBank Leads $500 Million Funding Round for Agile Robots in Germany Asia Business Outlook",
+     "text_status": "ok",
+     "text": "Home\nNews\nPerspective\nIndustry Experts\nMagazine\nConferences\nAbout Us\n×\nCentral Asia\nSouth Asia\nEast Asia\nWest Asia\nSouth East Asia\nHome\nnews\nSoftBank Leads $500 Million Funding Round for Agile Robots in Germany\nBy: Asia Business Outlook Team | Thursday, 12 November 2026\nJapanese investment group SoftBank has led a US$500 million funding round in German robotics company Agile Robots , valuing the company at US$8.5 billion.\nThe funding round also saw participation from semiconductor company Nvidia , Japanese technology firm Hitachi and T. Capital.\nThe investment comes as interest in artificial intelligence and robotics continues to grow, with more companies looking to use these technologies in manufacturing and other industries.\nAgile Robots plans to use the funds to expand its business in the United States, increase production in Germany and develop new industrial applications.\nThe company is looking to benefit from the growing demand for automation technology across manufacturing, logistics and other sectors. The investment is also expected to help it strengthen its position in the global robotics market .\nKey Highlights\nSoftBank Leads $500 Million Funding Round in German Robotics Firm Agile Robots\nAgile Robots Reaches $8.5 Billion Valuation After SoftBank-Led Investment\nNvidia and Hitachi Join SoftBank in $500 Million Investment in Agile Robots\nSoftBank and Nvidia Support Agile Robots' Expansion\nFounded in 2018 by researchers from the German Aerospace Center, Agile Robots develops robotic systems that combine artificial intelligence with advanced hardware. Its products include industrial robotic arms , robotic hands, autonomous transport systems and humanoid robots used for different industrial applications.\nThe company has more than 3,500 employees across over 25 locations worldwide. It also says that more than 20,000 of its automation solutions are currently in use globally. Agile Robots holds over 650 patents related to its technology.\nWith the latest investment, the company has raised approximately US$2 billion since its establishment. SoftBank had previously led a US$220 million Series C funding round in Agile Robots in 2021, helping it expand its operations.\nNvidia's participation is another important part of the deal. The chipmaker has been increasing its investments and partnerships in robotics as it looks to expand the use of AI beyond computers and data centres. This includes physical AI , which allows machines to understand their surroundings and carry out tasks in the real world.\nAgile Robots has also partnered with Google DeepMind to improve the capabilities of its robotic systems. The collaboration is aimed at developing robots that can perform more complex tasks in industrial settings.\nCompany Plans to Increase Production in Germany\nAgile Robots will use the new funding to expand its operations in the United States and increase its manufacturing capacity in Germany. It also plans to develop more applications for its robotic systems as manufacturers look for ways to improve productivity and reduce manual work.\nEarlier this year, the company opened a manufacturing facility in F&uuml;rstenfeldbruck, near Munich. The facility is designed to produce up to 10,000 humanoid robots annually. This will help Agile Robots increase production and prepare for growing demand.\nThe company sees humanoid robots as an important part of the future of industrial automation . Designed to work in spaces built for humans, these robots could be "
+    }
+   ]
+  }
+ ]
+}

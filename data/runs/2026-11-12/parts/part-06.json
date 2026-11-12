@@ -1,0 +1,412 @@
+{
+ "run_date": "2026-11-12",
+ "part": 6,
+ "groups": [
+  {
+   "group_key": "rox",
+   "company_guess": "Rox",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "8ec11ff9f83e",
+     "group_key": "rox",
+     "title": "Automation startup Rox raises $100 million at $1.3 billion valuation",
+     "publisher": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUtrODMtSnhzZldZdEpjMmFEdHlzdTBlTTdDZkJObUJMenZOSkZ0eGhpT3R0Z3prQ0ZZazE0dVVsMlFKMklla0dMVGhVOURMSG1fTHRjSFFoZE0xS3IwRUYyNm14T2RRbktPNERZVXdBejduY1U3T0xJelZsbXJ1T0U4Q1prZTR0Z2NmYXV4RDRrdWw0UE5GdE1vdjFJamFBb25JTElKMTdXV2s?oc=5",
+     "published_at": "2026-11-11T14:18:33.000Z",
+     "amount_hint": "$100 million",
+     "snippet": "Automation startup Rox raises $100 million at $1.3 billion valuation Reuters",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "394fc461e9d6",
+     "group_key": "rox",
+     "title": "Rox Raises $100M in Series B Funding",
+     "publisher": "FinSMEs",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtYi1rQ05MMWJMV3NqNXpLY0Vpd1pObkRONTRzY2pyNklCTEhwdFg0bDgxNy0xUnVLN2ZxdkJlOTBkWDRvREpEWE9ZSzNsdjJtRkcwVHh2Wm94dWNqTV9FN3VYVnJUOEZYX1F2dlM1aEprQ3EzNUVQaTI4ako?oc=5",
+     "published_at": "2026-11-12T09:45:51.000Z",
+     "amount_hint": "$100M",
+     "snippet": "Rox Raises $100M in Series B Funding FinSMEs",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "190ce9625255",
+     "group_key": "rox",
+     "title": "Rox Raises $100M Series B at $1.3B Valuation to Advance AI Research",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbWtabkRpSGVkR3FuQkRoTzFWRlo2M3NsdW83emFuVEp2eVBscFdLU3E0MnIxbjVWaGdfdE9Yb1M2dXVYS0NqX1dyU3BrT0RxT29lNXRKeUF0LTZzZ2tQSHc2YVhuYmFDS3poSVBkU0pUNTk2WEpVaEhMRmtaV25SRE5aS3p6ZEo0Q0sxLUJKSko?oc=5",
+     "published_at": "2026-11-11T15:02:03.000Z",
+     "amount_hint": "$100M",
+     "snippet": "Rox Raises $100M Series B at $1.3B Valuation to Advance AI Research Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "752bbb024a80",
+     "group_key": "rox",
+     "title": "Rox Raises $100 Million in Series B at $1.3 Billion Valuation",
+     "publisher": "www.tokenpost.com",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sNzZuN3lUYVZzVmYzaUxPVzZlYkk3WHlFVGMxZjB4YUNfSlpUckR6TlZteV9PZEw3VV9ncVBqM3VtMTF5S0x0MnlwLXhDTC1xbUNST0J6QTQ?oc=5",
+     "published_at": "2026-11-12T04:41:00.000Z",
+     "amount_hint": "$100 Million",
+     "snippet": "Rox Raises $100 Million in Series B at $1.3 Billion Valuation www.tokenpost.com",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "da534f58d823",
+     "group_key": "rox",
+     "title": "Rox raises $100 million at $1.3 billion valuation to challenge Salesforce with AI agents",
+     "publisher": "The American Bazaar",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdXZ1XzFqbkhXRkRRRGVjdl9oa2RfZGpNMThTRXk2dTB6N3FWeEVZWUZtbi1Sa1E4M0JabWF0THhMZ0ZUVFlpV0ZxOGV6QXZHU1dxODZlSmRuRlB6cEw0S3dWQ0pWRnJIUlpHaS1jRGw4T19lREVrMURUaTFOYXUwNFJ0MWNydEF1bVltYUNRMkZ2a2FISnJ2R1dVd0FBYlNRVHg0RnNPWDQ1YThPRHFsN3p5cHZKaWVQV2xKM1N6RERBZDVXYUtqNUliS3RrMldqdWItMA?oc=5",
+     "published_at": "2026-11-11T23:02:25.000Z",
+     "amount_hint": "$100 million",
+     "snippet": "Rox raises $100 million at $1.3 billion valuation to challenge Salesforce with AI agents The American Bazaar",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "9c51fceaac21",
+     "group_key": "rox",
+     "title": "Automation startup Rox raises $100 million at $1.3 billion valuation",
+     "publisher": "ET CIO",
+     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQTVdRWENsdTQtSWU1b2dpT0l2dG9fd1JvZHk4dE5JLVVBM185bEl1MlYxalF4SXZ1VEU5T0xYZ1JrUkZUWXpZczdseE51RmhMTVNySEFVbi1rQ002UWQ1SDJaUnlNcTFhS0FhbU5OM2tsaHNoa3FIYnJYckUxclYwbHBkQVUtVVlVcGlMeFFNTmx1dFRKUDh1cWVGZTJBMUdFeXVILV9TbGhqbHlfNXVhQVdRNURpZ1JlUnBKQXhxZXdtd3I2Rl9ITDZ6NXdzMEdqR2hIY3JnMTdZZUpteXgyWGVJVVhHdzREQ0lsSWNoQWZYYlhEc3ZXZFF0RGNPRDZQQnF6WjFiMERNN0dKZy0ybHZ3dDVkMTjSAdQBQVVfeXFMTUMwZ1p0N0txU3ViSWVoMW5CUUhkWTJ2eEdGMkVtYlIxZkZwMXprbzVvOXlDb0VBaVlibU95SkM0bmh3bGZnMHg1ekR2ckxtSHhhU0M0RWpnYkdZNWE1c09hNHB1OG40dVZXZWRFTF8yN2tlV1NHM25IV3ZidjFtRXNnajlOanNzUy1McDU4UmNTbTJaLVB3UUJMcVdiQkk5azNvREVjOHBJcXc0LWpQNG9yTXFOTmoxanZlSE1DQUg5R3pmOVZBVm5TaHRGNzRDYm01bVo?oc=5",
+     "published_at": "2026-11-12T08:30:00.000Z",
+     "amount_hint": "$100 million",
+     "snippet": "Automation startup Rox raises $100 million at $1.3 billion valuation ET CIO",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "ceee17f71877",
+     "group_key": "rox",
+     "title": "Rox Raises $100 Million As Investors Bet AI Agents Can Outsell Salesforce’s CRM",
+     "publisher": "Ventureburn",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWkxWlcwZkNQVU8xQl9nbDBxVlNMTUlPUVF5VDdNOGFEME1MZVRJaVdJc0lVQlc5bVU1cmZmbzE4ejM0V2owYkg2NHhUYnZuX1FnLVdiSlB3a3kzUFVTdlM4T05oNTVnUHI5OWt3SzNDSm0xemZOdTlDcWl3S19KdS12RUlTNF9qTHlwX3FJVdIBjwFBVV95cUxQLWkxWlcwZkNQVU8xQl9nbDBxVlNMTUlPUVF5VDdNOGFEME1MZVRJaVdJc0lVQlc5bVU1cmZmbzE4ejM0V2owYkg2NHhUYnZuX1FnLVdiSlB3a3kzUFVTdlM4T05oNTVnUHI5OWt3SzNDSm0xemZOdTlDcWl3S19KdS12RUlTNF9qTHlwX3FJVQ?oc=5",
+     "published_at": "2026-11-12T07:45:36.000Z",
+     "amount_hint": "$100 Million",
+     "snippet": "Rox Raises $100 Million As Investors Bet AI Agents Can Outsell Salesforce’s CRM Ventureburn",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "e86784024975",
+     "group_key": "rox",
+     "title": "AI sales startup Rox raises $100 million at a $1.3 billion valuation to take on Salesforce",
+     "publisher": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmVyNzJCUFpxYTJMZ1RrLXh6M1ZWNW5rZlN3bUxYTmVOOXotZmRLVnc1cFd2SHJFNkhxaS01TFJNMmxyTHp1ZmwzQXd3VU9aY2trQTF5djg5YnVPcGk4YUZtTkFDd0JJY1RGWlZ2bVM4R0VFM2dqYzdMZzJLWVRRWG9OSVNQcTRIVlhlT0Uzcm9iazRKcENzYlZNNzAyX2hQYkNPZ1F6RzEwUGg5?oc=5",
+     "published_at": "2026-11-11T14:50:07.000Z",
+     "amount_hint": "$100 million",
+     "snippet": "AI sales startup Rox raises $100 million at a $1.3 billion valuation to take on Salesforce MLQ.ai",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "81e391afbf10",
+     "group_key": "rox",
+     "title": "Rox Raises $100M Series B at $1.3B Valuation",
+     "publisher": "KARV Tech Insider",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU09CUk9rcGpwVThzZ3BJUEFSdUdLN2dqWmE5U1o1TVRHdVFyRl9QNWt0dWNEWnpoNEZCbzhYdTFqblNaUmtpaW45d2xjM050eXNqX0NiaS1wYXRHNTVHZnlZemQ1SndjNkxvWThQUUlvTFlaT19pU1JsUElWbWgtQUFXdFZjUDhhakt6aEktYVZQUGM2XzFMdlRpU0xSRnphTWJOSTlaS25FSC1DRkg0MFJ5a2xtZzBJRWgzeG8tZjVnMlgyNkpvcGlWd1RoY2M?oc=5",
+     "published_at": "2026-11-12T00:00:00.000Z",
+     "amount_hint": "$100M",
+     "snippet": "Rox Raises $100M Series B at $1.3B Valuation KARV Tech Insider",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "325f935c68f7",
+     "group_key": "rox",
+     "title": "Rox raises $100M Series B at $1.3B valuation to replace the CRM",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc0xNZkN4blRDMGpLR3BwTTBWd3hIS2h5UkJMQ2FwRmJZX011aFFOT2dNOGlza0h3ZVZmUGhqWWkya01Gb2FYdU1BQUVsZU16LXRxSHA5blBReEF4MFhIVzZiMTdXbmstRkQyZDhEeVRhZkVxNUx1QTlUUGMwdGsyblFtMC04R3VyaVZZYUdXcXJiQnRFX0hZUlhFUQ?oc=5",
+     "published_at": "2026-11-11T13:48:14.000Z",
+     "amount_hint": "$100M",
+     "snippet": "Rox raises $100M Series B at $1.3B valuation to replace the CRM Dealroom",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "90fedd403d10",
+     "group_key": "rox",
+     "title": "AI sales startup Rox raises $100 million at $1.3 billion valuation",
+     "publisher": "news.lavx.hu",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd3pteWtIbkhvOHlxVlFZanRqa0h5bDU4QTFhc21HdFNSRWdIdnI2Q0JuZXNPVDN0YTI5X3VaNnpXaGRIbWtJUy1TRlNTd250Y0xZWUY1X2hrcHpsOTZMR2otMjBCV1IwUVV6Nmc2YjA3ME1sYkFBamdYSW5scWc2b05HUm9ibGZLSzNCWFc5dTN4M3ZETF83SA?oc=5",
+     "published_at": "2026-11-11T16:06:54.000Z",
+     "amount_hint": "$100 million",
+     "snippet": "AI sales startup Rox raises $100 million at $1.3 billion valuation news.lavx.hu",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "1bceb226e6dc",
+     "group_key": "rox",
+     "title": "Automation startup Rox raises $100 million at $1.3 billion valuation - KELO-AM",
+     "publisher": "KELO-AM",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZHBwdXJjdmdVdks5LUJ5MVI5eUFCYTZXS2xleXhDZGZ2T1pkQ19rSXlRRVlhMlNGT2VKMWN0Ym1aNjcwcWc1dXBLcXN3MW96MlF6dTdCS3QwVW13Tm9nM0UyZm9FQlhKanpmV2dwSWVzRzc5OWhxeVlodW80VVlWNFlMcEpPUFg4bXZ2WXJyUVhsYk9HZ3hYSkpmbw?oc=5",
+     "published_at": "2026-11-11T15:38:05.000Z",
+     "amount_hint": "$100 million",
+     "snippet": "Automation startup Rox raises $100 million at $1.3 billion valuation KELO-AM",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "0ebab9528bd8",
+     "group_key": "rox",
+     "title": "Rox: $100 Million Series B At $1.3 Billion Valuation Expands Enterprise Revenue AI",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/rox-100-million-series-b-at-1-3-billion-valuation-expands-enterprise-revenue-ai/",
+     "published_at": "2026-11-11T21:13:17.000Z",
+     "amount_hint": "$100 Million",
+     "snippet": "Rox has raised $100 million in Series B financing at a $1.3 billion valuation to advance its AI revenue agents and expand deployment among large enterprises. General Catalyst and March Capital co-led the round. Existing investors Sequoia Capital and Factory participated alongside new backers including Databricks Ventures and Prosperity7 Ventures.\nThe post Rox: $100 Million Series B At $1.3 Billion Valuation Expands Enterprise Revenue AI appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "47a29c459eb9",
+     "group_key": "rox",
+     "title": "Sequoia-backed Rox raises $100M at $1.3B valuation: can AI agents unseat Salesforce in sales?",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/sequoia-backed-rox-raises-100m-at-1-3b-valuation-can-ai-agents-unseat-salesforce-in-sales/",
+     "published_at": "2026-11-12T10:03:07.000Z",
+     "amount_hint": "$100M",
+     "snippet": "Rox, a San Francisco-based AI startup developing autonomous revenue agents for large enterprises, has raised $100 million in…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "databento",
+   "company_guess": "Databento",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "c4efc4eecba5",
+     "group_key": "databento",
+     "title": "Databento Raises $100 Million Series C at $1.1 Billion Valuation",
+     "publisher": "PR Newswire",
+     "url": "https://www.prnewswire.com/news-releases/databento-raises-100-million-series-c-at-1-1-billion-valuation-302937375.html",
+     "published_at": "2026-11-12T13:57:00.000Z",
+     "amount_hint": "$100 Million",
+     "snippet": "Databento Raises $100 Million Series C at $1.1 Billion Valuation PR Newswire",
+     "text_status": "ok",
+     "text": "Databento Raises $100 Million Series C at $1.1 Billion Valuation\nNews provided by\nDatabento Inc.\nNov 12, 2026, 08:57 ET\nShare this article\nShare this article\nSALT LAKE CITY , Nov. 12, 2026 /PRNewswire/ -- Databento, the market data platform for modern finance, today announced a $100 million Series C financing at a $1.1 billion valuation. The round was led by Fifth Down Capital, an early investor in Databento, with participation from nearly all of the company's existing investors, including NEA, DRW Venture Capital, Tribe Capital, and Hedosophia.\nThe announcement follows Databento's $97 million Series B earlier this year. Since closing its previous round, the company has more than doubled its revenue while remaining profitable.\nDatabento serves leading quantitative trading firms, brokerages, asset managers, commodities firms, and digital asset companies. The company has also established a strong presence in artificial intelligence, having signed enterprise contracts with five of the six leading frontier AI labs.\nDatabento had 39 employees when it closed its Series C, reaching a $1.1 billion valuation with a fraction of the headcount of traditional market data providers.\n\"In this AI era, we're seeing remarkably small teams build billion-dollar companies, but that level of efficiency is unprecedented in the market data industry,\" said Christina Qi, co-founder and CEO of Databento. \"Until now, reaching this milestone required hundreds of employees given the sheer scale of physical infrastructure involved. I'm incredibly proud of what we've accomplished, and we'll continue to prioritize exceptional talent as we grow.\"\n\"Fifth Down first invested in Databento pre-revenue, as we recognized early on that the company had an opportunity to challenge the established model for delivering financial market data,\" said Andrew Spellman, founder and CEO of Fifth Down Capital. \"Our confidence has only grown as Databento's traction and execution have demonstrated it can serve demanding institutional customers, sustain rapid growth, and build a profitable business. Databento's performance has reinforced our original thesis and strengthened our conviction in the company. We are thankful to Christina and Luca for the opportunity to increase our investment and involvement by leading the Series C financing.\"\nThe round also included a strategic investment from Fitch Ventures, bringing the perspective of a leading financial information provider with deep expertise in credit ratings, financial data, and market insights.\n\"Financial data is becoming increasingly API-driven and machine-consumed, creating an opportunity to fundamentally rethink how institutions and other market participants access it,\" said Gabby Munoz, Global Head of M&A and Venture Investments at Fitch Group. \"Databento has built differentiated infrastructure at the source and paired it with a modern, self-service model that makes institutional-grade market data available on demand. We're excited to back the team as they scale a platform we believe will help shape how market data is captured, delivered, and consumed.\"\nThe new funding will support Databento's continued investment in its market data infrastructure and expansion into additional asset classes.\nAbout Databento\nDatabento is the market data platform for modern finance. The company provides real-time and historical data across futures, options, equities, and indices through a unified API. By owning the entire stack from source to delivery, "
+    },
+    {
+     "id": "f93f1009c3e2",
+     "group_key": "databento",
+     "title": "Databento Raises $100 Million Series C at $1.1 Billion Valuation",
+     "publisher": "",
+     "url": "https://www.prnewswire.com/news-releases/databento-raises-100-million-series-c-at-1-1-billion-valuation-302937375.html",
+     "published_at": "2026-11-12T13:57:00.000Z",
+     "amount_hint": "$100 Million",
+     "snippet": "SALT LAKE CITY, Nov. 12, 2026 /PRNewswire/ -- Databento, the market data platform for modern finance, today announced a $100 million Series C financing at a $1.1 billion valuation. The round was led by Fifth Down Capital, an early investor in Databento, with participation from nearly all...",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "xlio",
+   "company_guess": "XLIO",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "ec01ada66777",
+     "group_key": "xlio",
+     "title": "XLIO Secures Additional $100 Million to Build Startups for Corporate Acquirers",
+     "publisher": "StreetInsider",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONlBuNjVwa29pYkJNamRNX0dSSXNDbFhrWFVxRGhueDZQdlFSMGhhbGlweEk1S21tNTU1Ui0xaFhON3RlVEdvMGN5cjQ2X0pPWDJHUWgyVi1POUY3Sk9SS0Z4cmpmRWpJN3JCenlMcjFhYUN2TFEzaUNIOW9QVllfOF9faGw4OHo0WVhESWdIR0JzNE5DU19WWm1vSThPRlMzdnhjTWFiSlJNbVV1eG9aZ1VUVlNfeGp0ZUp2RGJmVzBobDhVa3ZXSWFLVks3MEZrMnVhN2h3?oc=5",
+     "published_at": "2026-11-10T21:58:36.000Z",
+     "amount_hint": "$100 Million",
+     "snippet": "XLIO Secures Additional $100 Million to Build Startups for Corporate Acquirers StreetInsider",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "dresdens sparxity hits 90m",
+   "company_guess": "Dresden’s Sparxity hits $90M",
+   "amount_hint_usd": 90000000,
+   "articles": [
+    {
+     "id": "5802ef5a4179",
+     "group_key": "dresdens sparxity hits 90m",
+     "title": "Dresden’s Sparxity hits $90M total funding as Lockheed Martin Ventures backs sparse AI chips",
+     "publisher": "Sofia Chesnokova",
+     "url": "https://techfundingnews.com/sparxity-series-a-sparse-native-ai-computing/",
+     "published_at": "2026-11-10T13:00:00.000Z",
+     "amount_hint": "$90M",
+     "snippet": "Hector Gonzalez has spent his career designing energy-efficient chips, starting with biomedical devices, then moving to automotive applications,…",
+     "text_status": "thin",
+     "text": "November 12, 2026\nYC-backed Luminal raises $25M from Standard Capital to loosen Nvidia’s grip on AI inference\nby Abhinaya Prabhu"
+    }
+   ]
+  },
+  {
+   "group_key": "daylight",
+   "company_guess": "Daylight",
+   "amount_hint_usd": 80000000,
+   "articles": [
+    {
+     "id": "b5e79f648364",
+     "group_key": "daylight",
+     "title": "Daylight Raises $80 Million Series B to Expand AI Security Operations",
+     "publisher": "Securities.io",
+     "url": "https://daylight.website/",
+     "published_at": "2026-11-11T00:18:04.000Z",
+     "amount_hint": "$80 Million",
+     "snippet": "Daylight Raises $80 Million Series B to Expand AI Security Operations Securities.io",
+     "text_status": "thin",
+     "text": null
+    },
+    {
+     "id": "2638379fc65f",
+     "group_key": "daylight",
+     "title": "AI security startup Daylight raises $80 million after 40-fold revenue growth",
+     "publisher": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTElpZDMwRWtZU1FaZ3pzZDM2Zmp3NzFuWi1MakdzZ3JUT0dpZHptYlBUNUNQQl9FaXJRb1VBTUJNaURvdDNoMDB3QXU5b2hYU0lUZnlUem9fR294UFhKcDJCMWlpQUdCeVU0VGFFb2Q1dXE2STZBOFRQUU1BR2JyZ1BJdkpUQlE4NDJVa041dHVXcGF1UTVlM2xyMzY?oc=5",
+     "published_at": "2026-11-10T23:44:26.000Z",
+     "amount_hint": "$80 million",
+     "snippet": "AI security startup Daylight raises $80 million after 40-fold revenue growth MLQ.ai",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "c39851cbbf23",
+     "group_key": "daylight",
+     "title": "Daylight raises USD $80 million to scale AI security",
+     "publisher": "SecurityBrief Australia",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTGlLeWtLTHNMQUp4ak1Pc0l3a3VqbXJTSzYxNmRjRm8yczc1V2owaDNmTE9zU2RNWDNrR0N1OTBlX3FxM0pESEpCNEp3RU5sdXJJRXlNMF9NQlpORVZMUmxpTVhad21XRXdJZWFLSEQwbmN2T3l2ZlRURWhDanFaWHd2UXRFc0EwRTFQTHVyQQ?oc=5",
+     "published_at": "2026-11-11T16:15:00.000Z",
+     "amount_hint": "$80 million",
+     "snippet": "Daylight raises USD $80 million to scale AI security SecurityBrief Australia",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "c1100bab0239",
+     "group_key": "daylight",
+     "title": "Daylight Lands $80 Million for AI-Powered Security Operations",
+     "publisher": "SecurityWeek",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa2dGdXlDby0yR0xmaDcxY1o2N3dWUkZMdlJYSUxHd29OMzBla050dXoweFIzUHUyRS1mR1dNc1pHQk1VZHQ3Vk82Q0E2OE0xeUxyeEJqU2dFMU9pRk16S1FPMDVRYklHMGJNZGh3RDBRZFAwMHVNMTFXOTI5UXRmYjdDWUJUZ2FfNUxOVVNSLXVUNG9P?oc=5",
+     "published_at": "2026-11-12T13:12:11.000Z",
+     "amount_hint": "$80 Million",
+     "snippet": "Daylight Lands $80 Million for AI-Powered Security Operations SecurityWeek",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "enza capital is",
+   "company_guess": "Enza Capital is",
+   "amount_hint_usd": 80000000,
+   "articles": [
+    {
+     "id": "ebb4ae074772",
+     "group_key": "enza capital is",
+     "title": "Enza Capital is raising up to $80 Million to bet on African AI Startups",
+     "publisher": "Innovation Village",
+     "url": "https://innovation-village.com/enza-capital-is-raising-up-to-80-million-to-bet-on-african-ai-startups/",
+     "published_at": "2026-11-11T11:58:45.000Z",
+     "amount_hint": "$80 Million",
+     "snippet": "Enza Capital is raising up to $80 Million to bet on African AI Startups Innovation Village",
+     "text_status": "ok",
+     "text": "Enza Capital is raising up to $80 Million to bet on African AI Startups\n0\nBy\nSmart Megwai\non\nNovember 11, 2026\nAfrica , Business , Funding , Investments , Startups\nEnza Capital has secured a first close of $21 million for its third fund, Enza Capital III LP, which it will dedicate entirely to artificial-intelligence startups across Africa.\nThe pan-African venture firm, which has offices in Nairobi, Johannesburg and Cairo, is targeting $60 million for the fund with a hard cap of $80 million, and expects a final close in about a year, the firm said in an emailed statement .\nThe fund’s entire thesis rests on a gap. African AI, by the report’s account, attracts relatively little venture capital despite growing interest in its potential. Investors deployed about $46.8 million into African AI startups through 2026, the report says, concentrated mostly in fintech and risk-intelligence companies and modest next to AI investment in other regions.\nA Briter Bridges report cited in the report found that 30% of surveyed African AI companies are entirely bootstrapped, with funding clustered among more established players; some founders say investors’ preference for proven traction makes it harder for early-stage AI companies to raise money at all.\nEnza Capital is betting that the gap in African AI funding is a market failure to be exploited, not a verdict on the sector’s potential.\nEnza Capital’s existing investments span SeamlessHR, Money254, Sendy, Gigmile and Peach Payments, giving a sense of the firm’s range before this fund narrows its focus specifically to AI.\nThat earlier spread, across HR tech, personal finance, logistics and payments, suggests Enza Capital III LP will be looking for AI applied across similarly varied sectors rather than betting narrowly on one vertical.\nWhat to watch\nThe first thing to consider is the pace over the next 12 months. To move from a target of $21 million to a goal of $60 million, and even aiming for a hard cap of $80 million, it will be essential to convince limited partners that the funding gap in African AI is investable rather than simply an indicator that the market has already assessed the associated risks.\nThe second point to consider is whether the fund’s eventual portfolio will focus primarily on fintech and risk-intelligence companies, which have already attracted most of the continent’s AI capital, or if it will genuinely explore newer categories that the report indicates are currently underfunded and lacking institutional investment.\nRelated\nAfrica AI Startups artificial intelligence Briter Bridges Enza capital"
+    }
+   ]
+  },
+  {
+   "group_key": "san lorenzo",
+   "company_guess": "San Lorenzo",
+   "amount_hint_usd": 80000000,
+   "articles": [
+    {
+     "id": "a7b998b61375",
+     "group_key": "san lorenzo",
+     "title": "San Lorenzo Closes C$80 Million Financing with Strong Institutional Support",
+     "publisher": "wahanariau.com",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMkRQYlpQdmVKcW11ZDFUV3pEUlJQaHA5dE5jSkJKajROblV6SE9UblRRSTZJM004eTZhUVR5MWNLN2ZNR2NnWkRkV09JVTdySFRqbGhtMkdkMUhWdHRXQk9KNWFsWC1GQndYZjJmQjJEa25OZ1BsX19oemFfOUlFRmdLaVM1UFFuOHNfa3lacmN3SVBLM3pWUHBfWmVPNXpmNTFjdENwQUlBMjDSAasBQVVfeXFMUDJEUGJaUHZlSnFtdWQxVFd6RFJSUGhwOXROY0pCSmo0Tm5VekhPVG5UUUk2STNNOHk2YVFUeTFjSzdmTUdjZ1pEZFdPSVU3ckhUamxobTJHZDFIVnR0V0JPSjVhbFgtRkJ3WGYyZkIyRGtuTmdQbF9faHphXzlJRUZnS2lTNVBRbjhzX2t5WnJjd0lQSzN6VlBwX1plTzV6ZjUxY3RDcEFJQTIw?oc=5",
+     "published_at": "2026-11-11T14:11:36.000Z",
+     "amount_hint": "C$80 Million",
+     "snippet": "San Lorenzo Closes C$80 Million Financing with Strong Institutional Support wahanariau.com",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "course corrected",
+   "company_guess": "Course Corrected",
+   "amount_hint_usd": 80000000,
+   "articles": [
+    {
+     "id": "81174b2705e2",
+     "group_key": "course corrected",
+     "title": "Course Corrected Raises €80 Million to Back European Energy and Resource Transition Startups",
+     "publisher": "ESG Today",
+     "url": "https://www.esgtoday.com/course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups/?utm_source=rss&utm_medium=rss&utm_campaign=course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups",
+     "published_at": "2026-11-12T09:45:29.000Z",
+     "amount_hint": "€80 Million",
+     "snippet": "Course Corrected Raises €80 Million to Back European Energy and Resource Transition Startups ESG Today",
+     "text_status": "ok",
+     "text": "Energy Transition / Private Equity & Venture Capital\nCourse Corrected Raises €80 Million to Back European Energy and Resource Transition Startups\nKenny Fisher\nNovember 12, 2026\nVenture capital investor Course Corrected announced today that it has raised €80 million (USD$89 million) at the final close of its second fund, focused on investing in early-stage European technology companies across the energy and resource transition.\nFounded in 2021 by Christine Ahlstrand, Kerstin Cooley and Katja Bergman, Stockholm-based Course Corrected invests in early-stage technology companies developing solutions to enable industries to become more energy, resource and cost efficient. Fund II builds on the firm’s first fund, which focused entirely on climate tech.\nAccording to the firm, Fund II will invest in 20 – 30 companies across key themes including energy systems, industrial optimization and automation, electrification and resource-smart solutions, focusing on scalable businesses whose products advance the energy and resource transition.\nKerstin Cooley, founding partner at Course Corrected, said:\n“We invest to generate strong financial returns. Impact is how we get there: by backing juggernauts that solve real problems, scale commercially, and transform industries for the better.”\nFund II invests only in European companies. Course Corrected noted that the fund’s close amidst a need for Europe to channel more of its savings into European businesses, noting that only a small fraction of pension and insurance assets are allocated to venture capital, and that more than half of EU venture funds’ investments are directed to startups outside of the EU.\nChristine Ahlstrand, founding partner at Course Corrected, said:\n“Europe has the research, the technology, the founders and the markets. But who will own the next generation of industry if we do not finance the companies building it?”\nTo date, Fund II has made seven investments, including Tavion, Renasens, eComID and Skye.\nInvestors in the fund include the European Investment Fund (EIF), which committed €35 million, Swedish state-owned venture capital investor Saminvest, pension investors SEB Life & Pension and SEB-Stiftelsen, a Swedish foundation and private investors.\nPontus Bergekrans, CIO at SEB Life & Pension AB, said:\n“We believe Europe has the talent and innovation needed to lead the energy transition. Course Corrected combines a strong team, a focused strategy and access to companies addressing some of the region’s most important challenges.”\nPhoto credit: Jimmy Hansen"
+    },
+    {
+     "id": "01bbe2e9ce4d",
+     "group_key": "course corrected",
+     "title": "Course Corrected Raises €80 Million to Back 20-30 European Energy Transition Startups",
+     "publisher": "ESG News",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5waHRpeFg2ZHFHS29LLWlEQllDdmN1MUdWbGtob3dacG0xbGQxd0poWUNzWVJ0LUZXZnNzYW1ITlJfWlFtR215ZGhwZ0RjeW8xcWpyV2I5ZmlVVFZBLWVsMks0dlNTQUk?oc=5",
+     "published_at": "2026-11-12T15:00:00.000Z",
+     "amount_hint": "€80 Million",
+     "snippet": "Course Corrected Raises €80 Million to Back 20-30 European Energy Transition Startups ESG News",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "alta",
+   "company_guess": "Alta",
+   "amount_hint_usd": 80000000,
+   "articles": [
+    {
+     "id": "2f4495251c5d",
+     "group_key": "alta",
+     "title": "Alta: $80 Million In Total Funding Advances Institutional Blockchain Infrastructure",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/alta-80-million-in-total-funding-advances-institutional-blockchain-infrastructure/",
+     "published_at": "2026-11-11T23:38:01.000Z",
+     "amount_hint": "$80 Million",
+     "snippet": "Alta has raised $80 million in total funding, including a $47.5 million Series A led by Index Ventures, to develop blockchain infrastructure designed for regulated financial institutions. GV, Blackbird Ventures, Square Peg and Capital 49 participated in the Series A. The total also includes $32.5 million in previous seed financing.\nThe post Alta: $80 Million In Total Funding Advances Institutional Blockchain Infrastructure appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Alta: $80 Million In Total Funding Advances Institutional Blockchain Infrastructure\nBy Amit Chowdhry\nYesterday at 6:38 PM\nAlta: $80 Million In Total Funding Advances Institutional Blockchain Infrastructure\nAlta has raised $80 million in total funding, including a $47.5 million Series A led by Index Ventures, to develop blockchain infrastructure designed for regulated financial institutions. GV, Blackbird Ventures, Square Peg and Capital 49 participated in the Series A. The total also includes $32.5 million in previous seed financing.\nAlta is building infrastructure that allows financial assets and products to move globally and programmatically, with privacy, compliance, identity and authorization controls incorporated into the blockchain itself.\nIts architecture uses recursive zero-knowledge cryptography to verify that transactions meet required rules while keeping balances, transaction details, identities and compliance policies private. The company intends the system to support activity across assets, blockchain networks and jurisdictions.\nAirwallex has selected Alta as a technology partner, connecting its global payments infrastructure with Alta’s blockchain. The collaboration will support stablecoin pay-ins and payouts, alongside connectivity to local fiat payment networks across 200 countries and 90 currencies.\nAlta positions its infrastructure as a neutral foundation that banks, payment providers and other financial institutions can use to develop services.\nIts first product will focus on corporate liquidity management. Built around tokenized assets, the offering is intended to enable just-in-time funding, improve foreign exchange efficiency and reduce the cash businesses keep in prefunded accounts.\nThe product will also allow businesses to move into and out of yield-bearing tokenized assets, helping them earn interest on capital that would otherwise remain idle. Alta cited an estimated $4 trillion held in prefunded accounts globally as evidence of the opportunity to improve capital efficiency.\nThe company’s founders include CEO Loong Wang, President Catherine Porter and Airwallex Co-Founder and CEO Jack Zhang. They identified institutional controls and connectivity as requirements for expanding blockchain-based finance, including transactions initiated by AI agents.\nAlta will use the funding to continue developing its blockchain, expand institutional partnerships and global financial connectivity, and grow its engineering and compliance teams.\nKEY QUOTES\n“Existing blockchains aren’t designed for the privacy and compliance requirements of global financial institutions. We’re taking a fundamentally different approach, building privacy, programmable compliance, and identity and authorization directly into the blockchain. This will enable money and assets to move instantly, globally, and securely, whether it’s a bank settling a transaction or an AI agent making a payment.”\nLoong Wang, Co-Founder And CEO Of Alta\n“Technology alone won’t be enough to modernize global finance. Financial institutions need infrastructure they can trust, with clear controls over who they’re transacting with, where money can move, and how sensitive information is protected. As AI agents increasingly make financial decisions and execute transactions, that trust becomes even more critical. Privacy, compliance, and accountability just aren’t barriers to innovation – they’re what will allow it to scale.”\nCatherine Porter, Co-Founder And President Of Alta\n“With t"
+    }
+   ]
+  },
+  {
+   "group_key": "project omega",
+   "company_guess": "Project Omega",
+   "amount_hint_usd": 80000000,
+   "articles": [
+    {
+     "id": "2a3396562114",
+     "group_key": "project omega",
+     "title": "Project Omega raises $80M from B Capital to turn America’s used nuclear fuel into power",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/project-omega-raises-80m-from-b-capital-to-turn-americas-used-nuclear-fuel-into-power/",
+     "published_at": "2026-11-10T09:18:20.000Z",
+     "amount_hint": "$80M",
+     "snippet": "America has nearly 100,000 metric tonnes of used nuclear fuel sitting in storage. Project Omega wants to turn…",
+     "text_status": "thin",
+     "text": "November 12, 2026\nYC-backed Luminal raises $25M from Standard Capital to loosen Nvidia’s grip on AI inference\nby Abhinaya Prabhu"
+    }
+   ]
+  }
+ ]
+}

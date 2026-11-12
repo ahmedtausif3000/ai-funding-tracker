@@ -1,0 +1,304 @@
+{
+ "run_date": "2026-11-12",
+ "part": 2,
+ "groups": [
+  {
+   "group_key": "softbank",
+   "company_guess": "SoftBank",
+   "amount_hint_usd": 5400000000,
+   "articles": [
+    {
+     "id": "3036fe8cb60a",
+     "group_key": "softbank",
+     "title": "SoftBank Bets approximately $5.4 Billion on Swiss Robotics as Foreign Capital Influx Deepens",
+     "publisher": "BigGo Finance",
+     "url": "https://finance.biggo.com/news/105d3f4c-a73e-4719-8550-4d5ce9495fd0",
+     "published_at": "2026-11-11T23:55:00.000Z",
+     "amount_hint": "$5.4 Billion",
+     "snippet": "SoftBank Bets approximately $5.4 Billion on Swiss Robotics as Foreign Capital Influx Deepens BigGo Finance",
+     "text_status": "ok",
+     "text": "SoftBank Bets approximately $5.4 Billion on Swiss Robotics as Foreign Capital Influx Deepens\nAdd preferred source\nJapan's SoftBank Group is pouring large sums into Switzerland's robotics industry, agreeing to acquire ABB's robotics division for $5.4 billion and investing $200 million in Gravis Robotics, a construction-robotics startup spun out of ETH Zurich. Foreign investors account for 88% of capital in deep-tech funding rounds of $100 million or more, and 43% of Swiss scale-ups are university or research-institute spin-offs. However, the share of Swiss investors in later-stage rounds has fallen from 27% to 13%, with limited mass-production experience and the flight of domestic capital cited as challenges at the growth stage.\nKey Elements\nSoftBank Group ABB Gravis Robotics ETH Zurich Deep Tech Nation Switzerland Switzerland Global Enterprise (S-GE) Neura Robotics Swissmem Swisscom Ventures EPFL\nJapan's SoftBank Group is injecting large sums into Switzerland's robotics industry in quick succession. After agreeing to acquire the robotics division of Swiss automation company ABB for $5.4 billion (~7.2 trillion won), SoftBank in August invested $200 million (~270 billion won) in Gravis Robotics, a construction-robotics startup spun out of ETH Zurich. Gravis said the round was the largest Series A investment ever in the construction-robotics sector.\nSoftBank's string of bets encapsulates the recent surge of foreign capital into Swiss deep-tech companies. According to the \"Swiss Scale-up Report 2026\" published this year by Deep Tech Nation Switzerland, foreign investors accounted for 88% of the capital in deep-tech funding rounds that raised $100 million or more. In effect, Swiss companies are raising their growth capital from abroad.\nSpeaking at a robotics and automation event hosted by Switzerland Global Enterprise (S-GE) in Zurich, Switzerland, on the 11th (local time), investment and industry officials agreed that foreign capital looks at the depth of research accumulated before a company's founding rather than its short history. They explained that technology and intellectual property (IP) built up over years in university labs, combined with research talent from around the world, heighten investment appeal.\nAlexandre Meldem, head of international communications at Deep Tech Nation Switzerland, said, \"Even if a company was only recently founded, there may be 10 years of science behind it,\" adding, \"Switzerland is a relatively stable country with a predictable policy environment, which is an advantage because it allows investors to look 10 years ahead.\"\nIndeed, research institutions are the key starting point for deep-tech companies in Switzerland. Of 265 Swiss scale-ups, 115—or 43%—are spin-offs from universities or research institutes. Forty-two came from ETH and 41 from EPFL. Some foreign robotics companies have even set up bases in Zurich directly to tap the research ecosystem. German robotics company Neura Robotics is developing core hardware technology for humanoid robots in Zurich.\nUrs Laupi, chief strategy officer (CSO) of Neura Robotics, cited cooperation with ETH, physical AI research talent, and the capital environment as reasons for choosing Zurich as its base. \"Switzerland has a solid knowledge base in the field of physical AI,\" he said, stressing that \"we can combine world-class Swiss research capabilities with Germany's industrialization capabilities.\"\nSwitzerland also operates a separate intermediate stage to validate re"
+    }
+   ]
+  },
+  {
+   "group_key": "sea",
+   "company_guess": "SEA AI",
+   "amount_hint_usd": 4200000000,
+   "articles": [
+    {
+     "id": "895c2fca494b",
+     "group_key": "sea",
+     "title": "SEA AI funding rises 121 percent to $4.2 billion in 9M 2026 - Tracxn",
+     "publisher": "TNGlobal",
+     "url": "https://technode.global/2026/11/12/sea-ai-funding-rises-121-percent-to-4-2-billion-in-9m-2026-tracxn/",
+     "published_at": "2026-11-12T09:22:42.000Z",
+     "amount_hint": "$4.2 billion",
+     "snippet": "SEA AI funding rises 121 percent to $4.2 billion in 9M 2026 - Tracxn TNGlobal",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "eic scaling club companies",
+   "company_guess": "EIC Scaling Club companies",
+   "amount_hint_usd": 4000000000,
+   "articles": [
+    {
+     "id": "989fe1f1a82f",
+     "group_key": "eic scaling club companies",
+     "title": "EIC Scaling Club companies raise €4B, outpacing European deeptech peers",
+     "publisher": "Tech.eu",
+     "url": "https://tech.eu/2026/11/12/eic-scaling-club-companies-raise-eur4b-outpacing-european-deeptech-peers/",
+     "published_at": "2026-11-12T14:55:32.000Z",
+     "amount_hint": "€4B",
+     "snippet": "EIC Scaling Club companies raise €4B, outpacing European deeptech peers Tech.eu",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "lpl financial",
+   "company_guess": "LPL Financial",
+   "amount_hint_usd": 2035000000,
+   "articles": [
+    {
+     "id": "09d03755aab4",
+     "group_key": "lpl financial",
+     "title": "LPL Financial Brings In $2.035 Billion In Combined Client Assets Represented By Four Joining Practices",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/lpl-financial-brings-in-2-035-billion-in-combined-client-assets-represented-by-four-joining-practices/",
+     "published_at": "2026-11-11T21:03:11.000Z",
+     "amount_hint": "$2.035 Billion",
+     "snippet": "LPL Financial has welcomed four wealth management practices reporting approximately $2.035 billion in combined client assets, expanding its advisor network through affiliations announced over the last couple of days. SteadRock Private Wealth, FHT Advisors, Impel Wealth Management and Sound Foundation Wealth Advisors joined LPL’s broker-dealer and Registered Investment Advisor platforms. The reported assets include advisory, brokerage and retirement plan assets.\nThe post LPL Financial Brings In $2.035 Billion In Combined Client Assets Represented By Four Joining Practices appeared first on Puls",
+     "text_status": "ok",
+     "text": "LPL Financial Brings In $2.035 Billion In Combined Client Assets Represented By Four Joining Practices\nBy Amit Chowdhry\nYesterday at 4:03 PM\nLPL Financial Brings In $2.035 Billion In Combined Client Assets Represented By Four Joining Practices\nLPL Financial has welcomed four wealth management practices reporting approximately $2.035 billion in combined client assets, expanding its advisor network through affiliations announced over the last couple of days. SteadRock Private Wealth, FHT Advisors, Impel Wealth Management and Sound Foundation Wealth Advisors joined LPL’s broker-dealer and Registered Investment Advisor platforms. The reported assets include advisory, brokerage and retirement plan assets.\nSteadRock Private Wealth\nNathan J. “Nate” Hershman joined LPL from Edward Jones to launch SteadRock Private Wealth in North Canton, Ohio. He reported serving approximately $185 million in advisory, brokerage and retirement plan assets.\nSteadRock serves families, individuals approaching or living in retirement, and business owners, including those in manufacturing. Its planning approach connects investments and retirement needs with business interests, charitable priorities and financial legacies.\nFor business owners, planning can include preparing for a transition and evaluating how a sale or succession could affect retirement and family objectives. Hershman selected LPL to establish an independent practice with access to its technology, investment platform and business support.\nFHT Advisors\nFHT Advisors joined LPL from Cetera alongside Impel Wealth Management. The two Ohio-based practices reported approximately $1.15 billion in combined client assets and will retain their separate identities.\nLed by Brian Toma, FHT serves clients across 32 states, including professionals, medical professionals, younger families, people approaching retirement and retirees.\nThe firm operates as an ensemble practice, bringing multiple advisors’ experience and planning perspectives to client relationships. Its advisory team includes Sarah Stewart, Tom Drager, Tammy Hafner, Bruce Baker, Bear Rupert, Jonathan Goldston, Seann Schaller and financial consultant Stephen Ehrhardt.\nFHT identified LPL’s technology, planning capabilities and resources as factors supporting its next stage of development.\nImpel Wealth Management\nJesse Hurst leads Impel Wealth Management, which began by serving corporate executives around Akron and has expanded into multigenerational wealth management.\nHurst works alongside advisors Nathan Ollish and Irene Zurowski. Ollish serves many next-generation clients, while Zurowski’s focus includes retirement plans and female executives.\nImpel works with dozens of families across at least two generations and more than a dozen across three generations. The team also produces market and financial planning commentary through recurring blog posts and videos.\nHurst and FHT’s Toma have worked alongside one another for 25 years, exchanging ideas and best practices while independently leading their firms. Impel selected LPL for its technology, advanced planning resources and growth opportunities.\nSound Foundation Wealth Advisors\nSound Foundation Wealth Advisors joined from Cambridge Investment Research Advisors, reporting approximately $700 million in advisory, brokerage and retirement plan assets.\nFounded by Nathan Downs and Cory Thomas, the Boise, Idaho-headquartered practice traces its beginnings to 2018. It has developed shared operations and business"
+    }
+   ]
+  },
+  {
+   "group_key": "solv energy revenue rises",
+   "company_guess": "SOLV Energy revenue rises",
+   "amount_hint_usd": 1240000000,
+   "articles": [
+    {
+     "id": "4124f556d25d",
+     "group_key": "solv energy revenue rises",
+     "title": "SOLV Energy revenue rises 65% to $1.24 billion and it raises its 2026 outlook",
+     "publisher": "MLQ.ai",
+     "url": "https://mlq.ai/news/solv-energy-revenue-rises-65-to-124-billion-and-it-raises-its-2026-outlook/",
+     "published_at": "2026-11-12T13:06:30.000Z",
+     "amount_hint": "$1.24 billion",
+     "snippet": "SOLV Energy revenue rises 65% to $1.24 billion and it raises its 2026 outlook MLQ.ai",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "preclinical biotech unnatural products",
+   "company_guess": "Preclinical Biotech Unnatural Products",
+   "amount_hint_usd": 1150000000,
+   "articles": [
+    {
+     "id": "54eca4a3f4f0",
+     "group_key": "preclinical biotech unnatural products",
+     "title": "Preclinical Biotech Unnatural Products Lands $1.15 Billion M&A Deal",
+     "publisher": "WSJ",
+     "url": "https://www.wsj.com/pro/venture-capital/preclinical-biotech-unnatural-products-lands-1-15-billion-m-a-deal-d42ae726",
+     "published_at": "2026-11-12T19:32:53.000Z",
+     "amount_hint": "$1.15 Billion",
+     "snippet": "Preclinical Biotech Unnatural Products Lands $1.15 Billion M&A Deal WSJ",
+     "text_status": "blocked:401",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "mirendil",
+   "company_guess": "Mirendil",
+   "amount_hint_usd": 1000000000,
+   "articles": [
+    {
+     "id": "87ec476a5e0f",
+     "group_key": "mirendil",
+     "title": "Mirendil Raises $1B to Democratize Frontier AI R&D",
+     "publisher": "",
+     "url": "https://www.prnewswire.com/news-releases/mirendil-raises-1b-to-democratize-frontier-ai-rd-302937248.html",
+     "published_at": "2026-11-12T17:30:00.000Z",
+     "amount_hint": "$1B",
+     "snippet": "SAN FRANCISCO, Nov. 12, 2026 /PRNewswire/ -- Today, we're announcing that we've raised $1B in a Series A, led by Kleiner Perkins and Clearlake Capital, with participation from Battery Ventures, Doerr Capital, Gil & Co, Google, M13, Pear VC, and S32, among other new and existing investors....",
+     "text_status": "ok",
+     "text": "Mirendil Raises $1B to Democratize Frontier AI R&D\nNews provided by\nMirendil\nNov 12, 2026, 12:30 ET\nShare this article\nShare this article\nSAN FRANCISCO , Nov. 12, 2026 /PRNewswire/ -- Today, we're announcing that we've raised $1B in a Series A, led by Kleiner Perkins and Clearlake Capital, with participation from Battery Ventures, Doerr Capital, Gil & Co, Google, M13, Pear VC, and S32, among other new and existing investors.\nWe believe making AI R&D more accessible is the most direct path to AI that solves humanity's most pressing problems across science and technology. We're building tools to democratize frontier AI R&D and help put it within reach of every scientist and engineer.\nOver the past three weeks, we've shared our first results, and they point to the same shift: when agents do the hands-on work, the size of your team stops limiting what you can build. One researcher, working with agents, pretrained Mirendil-Base , a competitive coding model, from scratch in 3.5 months with less than $10M in compute. We then post-trained it into Fern , which holds up to 10M tokens of context, enough for days of an agent's work. And Lor , now in private beta, brings this way of working to everyone else: hundreds of agents writing code and running experiments for days at a time. Mirendil runs on Lor every day.\nThis round lets us go further, toward a world where one person can take on what used to need a team, a team what used to need an institution, and we can help accelerate science and technology in a more direct way than we've done before.\nWe're still a small team with a singular focus. If you want to help make frontier AI R&D accessible to everyone, join us . If you'd like to build with Mirendil, we'd like to hear from you at [email protected] .\nSOURCE Mirendil\n&times;\nModal title"
+    },
+    {
+     "id": "6bf3b1fad8d0",
+     "group_key": "mirendil",
+     "title": "Mirendil Raises $1B Series A to Bring Frontier AI R&D to More Teams",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQUszbXRZb1A0eEh2SVFYWHBhZjVxdEhqOG9zU1BrSHY2Tno2c3F4a29FM3Q1bFF0TVh0ZGp4cnVob25PcXRiZWNsSW0yTFRtTGZ2MTl1ODhOYzJ6SEVzeENFcmxIaFpNTW9McVJKakEzRFhqc1RfTlNXUzRTS3F3WHVyeTRoYWo2M1Y0a0NmVlF0RmdmdkNj?oc=5",
+     "published_at": "2026-11-12T17:58:03.000Z",
+     "amount_hint": "$1B",
+     "snippet": "Mirendil Raises $1B Series A to Bring Frontier AI R&D to More Teams Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "211d6b85a535",
+     "group_key": "mirendil",
+     "title": "Mirendil Raises $1 Billion Series A for Agent-Led AI Research Tools",
+     "publisher": "Securities.io",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNUhkTlJNVzRhN3RVQXVudnNQaERObEVmN2lzZU9MN0FGLXctclQ4Tjh0ZDFvSndMeGJBZ1VYSzdWN0twN0N5MTZHM3hqWjk4QWUxZXFBWlFXS3VOTGMtZkk3RHlNU3hIbGs0YjAxLTVvaU5ld25PSDl2VFgyNWhNNWJZb1NtbG9hdE15WnRwLWtNbm5mZ1JOdA?oc=5",
+     "published_at": "2026-11-12T17:59:02.000Z",
+     "amount_hint": "$1 Billion",
+     "snippet": "Mirendil Raises $1 Billion Series A for Agent-Led AI Research Tools Securities.io",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "31223380fbde",
+     "group_key": "mirendil",
+     "title": "Mirendil Raises $1B Series A, 5x Its Seed in Under 5 Months",
+     "publisher": "FourWeekMBA",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcWlqbTZzT093QVhJZGVwaTZsd2RsdWw3SThWUWItOFVWN1ZtcWxQTVMwaXJsSVZiWFoxLW1Xc2g0SU51LWdpYzlmcVRDanYtOUFKMXVZYWxDTXZtQkt0ZHdnOHVnYjV2RjdyS3RtcDUyckozamFVdXZNODhjMk1yNTM3c0NvVDRFMk1EUmR3?oc=5",
+     "published_at": "2026-11-12T18:05:17.000Z",
+     "amount_hint": "$1B",
+     "snippet": "Mirendil Raises $1B Series A, 5x Its Seed in Under 5 Months FourWeekMBA",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "ckx",
+   "company_guess": "CKX",
+   "amount_hint_usd": 1000000000,
+   "articles": [
+    {
+     "id": "1efa1c8e0515",
+     "group_key": "ckx",
+     "title": "CKX Lands: $1 Billion Brad Jacobs Investment To Launch New Public Company Platform",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/ckx-lands-1-billion-brad-jacobs-investment-to-launch-new-public-company-platform/",
+     "published_at": "2026-11-12T12:15:59.000Z",
+     "amount_hint": "$1 Billion",
+     "snippet": "Jacobs Private Equity II and minority co-investors have agreed to invest $1 billion in CKX Lands, creating a public company platform that Brad Jacobs plans to use to build a business in an industry that has not yet been selected.\nThe post CKX Lands: $1 Billion Brad Jacobs Investment To Launch New Public Company Platform appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "CKX Lands: $1 Billion Brad Jacobs Investment To Launch New Public Company Platform\nBy Amit Chowdhry\nToday at 7:15 AM\nCKX Lands: $1 Billion Brad Jacobs Investment To Launch New Public Company Platform\nJacobs Private Equity II and minority co-investors have agreed to invest $1 billion in CKX Lands, creating a public company platform that Brad Jacobs plans to use to build a business in an industry that has not yet been selected.\nJacobs Private Equity will provide $900 million, while co-investors led by HRTG Partners will contribute $100 million. Jacobs Private Equity will hold a majority interest following the transaction.\nBrad Jacobs will become chairman and chief executive officer of CKX while continuing to serve in the same roles at building products distributor QXO.\nCKX will be renamed and operate as a separate public company. Before closing, it will convert from a Louisiana corporation to a Delaware corporation, complete a holding-company reorganization, and conduct a 4.1744380-for-1 reverse stock split.\nThe investors will receive voting convertible perpetual preferred shares convertible into approximately 219 million common shares at $4.57 per post-split share. They will also receive warrants to purchase approximately 219 million additional shares at exercise prices ranging from $4.57 to $13.70.\nFollowing closing and before warrant exercises, Jacobs Private Equity and its co-investors will own approximately 99.78% of the company on a fully convertible and exchangeable basis.\nCKX will declare a $20.8 million cash dividend, equal to $10.1312 per existing share, before the transaction closes. Existing investors will retain exposure to CKX’s land business while participating in the potential future company.\nThe board unanimously approved the investment, and shareholders representing approximately 28% of voting power agreed to support it. Completion is expected in early 2027, subject to shareholder approval and other conditions.\nJacobs has founded or led eight billion-dollar or multibillion-dollar companies and participated in approximately 500 acquisitions. The new platform would become his ninth company.\nKEY QUOTES\n“I love building multibillion-dollar market leaders, and this $1 billion investment marks the launch of my ninth company. After concluding my chairmanships of XPO, GXO, and RXO last year, I now have the capacity to create this new venture while continuing to lead QXO to its massive potential.”\nBrad Jacobs, Founder of Jacobs Private Equity II\n“We believe this investment will create compelling outcomes for our stakeholders, including the opportunity for our stockholders to receive a substantial upfront cash payment as part of a $20.8 million dividend. We expect our stockholders will benefit from retaining the value of our existing land business while also participating in the potential upside of Brad Jacobs’ future plans for the company.”\nWilliam Gray Stream, President of CKX Lands\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "positron",
+   "company_guess": "Positron AI",
+   "amount_hint_usd": 875000000,
+   "articles": [
+    {
+     "id": "84b801cc303d",
+     "group_key": "positron",
+     "title": "Positron AI Named to the Inaugural 2026 AI 100 List of Top Private AI Companies",
+     "publisher": "",
+     "url": "https://www.prnewswire.com/news-releases/positron-ai-named-to-the-inaugural-2026-ai-100-list-of-top-private-ai-companies-302938023.html",
+     "published_at": "2026-11-12T19:45:00.000Z",
+     "amount_hint": "$875 million",
+     "snippet": "Recognition comes amid a period of significant momentum for Positron, following its $875 million Series C and expanding AI inference deployments RENO, Nev., Nov. 12, 2026 /PRNewswire/ -- Positron AI, the AI inference hardware company built to make generative AI dramatically cheaper and...",
+     "text_status": "ok",
+     "text": "Positron AI Named to the Inaugural 2026 AI 100 List of Top Private AI Companies\nNews provided by\nPositron AI\nNov 12, 2026, 14:45 ET\nShare this article\nShare this article\nRecognition comes amid a period of significant momentum for Positron, following its $875 million Series C and expanding AI inference deployments\nRENO, Nev. , Nov. 12, 2026 /PRNewswire/ -- Positron AI , the AI inference hardware company built to make generative AI dramatically cheaper and more energy-efficient, today announced it has been named to the inaugural 2026 AI 100 , the definitive ranking of the top 100 private AI companies in the world, published by Newcomer in collaboration with Bessemer Venture Partners .\nThe inaugural AI 100 recognizes leading private companies driving innovation across the AI ecosystem. Positron's inclusion reflects its progress in bringing purpose-built inference technology to market as growing AI adoption drives demand for more cost- and energy-efficient infrastructure.\n\"We're honored to be recognized among the companies shaping the future of AI,\" said Mitesh Agrawal, CEO of Positron AI. \"Making AI inference profitable, scalable and accessible takes advanced technology and a business and supply chain built to serve some of the world's largest technology companies. Positron combines deep semiconductor and systems expertise with customer-driven development and investor backing to position us for growth. I'm proud of the business we're building as we serve customers today and develop our next generation of technology, and grateful to our team, customers, partners and investors for their support.\"\nPositron's recognition follows a series of major company milestones. In September, the company announced an $875 million Series C financing at a $5 billion valuation to accelerate development of its next-generation Asimov silicon, ramp production of Titan and expand manufacturing capacity. Positron has also deployed more than 50 racks of Atlas, its first-generation inference system, at Oracle Cloud Infrastructure. Most recently, the company announced a partnership with General Compute, which is purchasing Atlas systems and has committed to adopting Titan to support next-generation AI workloads.\nThe inaugural AI 100 evaluated nominated companies and recognized category leaders across four factors: market leadership (35%), estimated valuation (30%), operating metrics (20%), and people & culture (15%). Only independent AI companies that have not had a majority strategic or private equity M&A transaction or a public listing were eligible. Honorees span foundation models, AI infrastructure and compute, developer tools and agents, AI apps, vertical AI, security, physical AI and robotics, and deeptech and AI for science.\n\"The artificial intelligence startup set plays by its own rules: there are upstarts with unprecedented revenue growth, companies profiting off of seemingly insatiable inference spending, highly valued speculative research labs, and wildly ambitious robotics companies. These AI native startups are already reshaping the global economy. With our friends at Bessemer, we rethought what matters for the AI age, bringing together the most promising startups harnessing foundation models to transform our digital and physical world,\" said Eric Newcomer, founder of Newcomer.\n\"The AI 100 puts a spotlight on the top 100 companies driving the AI economy forward, built by a generation of founders moving at a speed and scale we've never seen before. We're "
+    }
+   ]
+  },
+  {
+   "group_key": "mercor",
+   "company_guess": "Mercor",
+   "amount_hint_usd": 750000000,
+   "articles": [
+    {
+     "id": "4d5ded1e6c6a",
+     "group_key": "mercor",
+     "title": "Mercor raises $750M Series D at $20B valuation to push into enterprise AI",
+     "publisher": "Dealroom",
+     "url": "https://app.dealroom.co/news/note/mercor-raises-750m-series-d-at-20b-valuation-to-push-into-enterprise-ai",
+     "published_at": "2026-11-10T23:10:14.000Z",
+     "amount_hint": "$750M",
+     "snippet": "Mercor raises $750M Series D at $20B valuation to push into enterprise AI Dealroom",
+     "text_status": "blocked:403",
+     "text": null
+    },
+    {
+     "id": "25520fe9b067",
+     "group_key": "mercor",
+     "title": "Mercor Raises $750 Million in Series D Funding To Train AI On Every Job",
+     "publisher": "Ventureburn",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xQmlWd01xdGg2SDN2LTBXdjdvcG9KbUtfbmpncjV3RUlJaXQxUWJVVmFsVVpzTGZqMGc3Nzd4a1RGUTZKTzJ4T2VIcURDZW96Ui1UdU1oREQzY2JPaXFwUGxBU29YWTRWSnc4RVVKVDV6U2MzR2ktYXpnUdIBe0FVX3lxTE8xQmlWd01xdGg2SDN2LTBXdjdvcG9KbUtfbmpncjV3RUlJaXQxUWJVVmFsVVpzTGZqMGc3Nzd4a1RGUTZKTzJ4T2VIcURDZW96Ui1UdU1oREQzY2JPaXFwUGxBU29YWTRWSnc4RVVKVDV6U2MzR2ktYXpnUQ?oc=5",
+     "published_at": "2026-11-11T10:10:15.000Z",
+     "amount_hint": "$750 Million",
+     "snippet": "Mercor Raises $750 Million in Series D Funding To Train AI On Every Job Ventureburn",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "d48c1fe27ac8",
+     "group_key": "mercor",
+     "title": "AI Evals and Post-Training Company Mercor Raises $750M Series D at $20B Valuation",
+     "publisher": "Wowtale",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMZzVHd3dhTUNXWXdsR2JHYnJseEFOTW5UdGtmZkhIbEVVdVRBa0dKQnE0aEItZDFoMGhyckVNUl9wVkNBeXlXWExGSjkyUWdCOVNJ?oc=5",
+     "published_at": "2026-11-10T21:07:24.000Z",
+     "amount_hint": "$750M",
+     "snippet": "AI Evals and Post-Training Company Mercor Raises $750M Series D at $20B Valuation Wowtale",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "8813b6aec4da",
+     "group_key": "mercor",
+     "title": "Mercor Raises $750 Million in Series D at $20 Billion Valuation",
+     "publisher": "www.tokenpost.com",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16ZmkyNV9LQ3k3MzR4XzRFTWNOV0tCOWdaNExYV25wTmFJejZTX2lFZ0F6Y1JCQUg4bEdTWDRlNi1fbWYwSE9xcHBDRGpxZllVZnNkZ3ppeWI?oc=5",
+     "published_at": "2026-11-11T21:06:53.000Z",
+     "amount_hint": "$750 Million",
+     "snippet": "Mercor Raises $750 Million in Series D at $20 Billion Valuation www.tokenpost.com",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "b228902479e2",
+     "group_key": "mercor",
+     "title": "AI Training Startup Mercor Raises $750 Million at $20 Billion Valuation",
+     "publisher": "Techiexpert.com",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeG5McjNDaVN4NW5UczBhWUFrYzRkcHVhdmJCeWNaY01sQ095TThJaFdLSUI1WHpxZkEyLVBqQVVTSHYzd3FiTjJ1WF9XdVVpMWEzQlNoWU1lV0RGVElWVjlzd2NzOG1LV21LcERrY0EzbkE4Yjd6eUpJNlh5TnBheF9kXzc2a1Utb2Z2ckw0eEZFOUZhbXhxczdB?oc=5",
+     "published_at": "2026-11-11T08:18:15.000Z",
+     "amount_hint": "$750 Million",
+     "snippet": "AI Training Startup Mercor Raises $750 Million at $20 Billion Valuation Techiexpert.com",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "19859be23326",
+     "group_key": "mercor",
+     "title": "Mercor Secures $750 Million in Series D Funding, Valued at $20 Billion",
+     "publisher": "Moomoo",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS21PejdudUtHMVkwaXNvZFBYeUxLX2ZEVkhpWHF2MDdvSHhwWVRrdXNZclpQd3FNQnZ1U21Sc0VMTkE0YXF0NkpoaGs4VzJrVGpueWh3ekZDS1FaTm0wZzBrMFl4YnpPejBhVFJtbzdsdHZ4YzdsSmh1WmpTQ2ZUajE0NTh3eWg0Qy1oT2J6MkFuSXVjd241QjdRTjBHdTdTNnc?oc=5",
+     "published_at": "2026-11-11T09:26:26.000Z",
+     "amount_hint": "$750 Million",
+     "snippet": "Mercor Secures $750 Million in Series D Funding, Valued at $20 Billion Moomoo",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "e5e2cc70ecab",
+     "group_key": "mercor",
+     "title": "Mercor Raises $750 Million for AI Training Platform",
+     "publisher": "PYMNTS.com",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZTVaS0laT01GUWx0WHFRMnJTeTRTNE1GRDhMSUpGNjEyTHR2Q2VsUHhPRll5U0RFcmsxMFhMay02aGJjR2FPb0lOUFhzM25zRVlyaVptZFBRUkdIMmp5TkM1blE1UFdRVHV1YmhJMWU3WGFpS3AwQW9CZlppQVd1TnhOa0FWN0hiT0RZVEljd3ozN2s4QnVRaFZRWkdGbzN5SWRwZWNR?oc=5",
+     "published_at": "2026-11-10T22:27:05.000Z",
+     "amount_hint": "$750 Million",
+     "snippet": "Mercor Raises $750 Million for AI Training Platform PYMNTS.com",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  }
+ ]
+}
