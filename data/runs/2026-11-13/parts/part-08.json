@@ -1,0 +1,352 @@
+{
+ "run_date": "2026-11-13",
+ "part": 8,
+ "groups": [
+  {
+   "group_key": "zus health",
+   "company_guess": "Zus Health",
+   "amount_hint_usd": 33000000,
+   "articles": [
+    {
+     "id": "cde2ab70b7b7",
+     "group_key": "zus health",
+     "title": "Zus Health Secures $33M in Series B Funding to Build AI-Powered Clinical Workflows",
+     "publisher": "Digital Health News",
+     "url": "https://www.digitalhealthnews.com/-zus-health-raises-33m-to-expand-healthcare-ai-infrastructure-",
+     "published_at": "2026-11-13T10:28:00.000Z",
+     "amount_hint": "$33M",
+     "snippet": "Zus Health Secures $33M in Series B Funding to Build AI-Powered Clinical Workflows Digital Health News",
+     "text_status": "ok",
+     "text": "Zus Health Secures $33M in Series B Funding to Build AI-Powered Clinical Workflows\nGlobal Digital Health News\nStory By DHN Bureau\n•\n9 hours ago\n•\n3 Mins Read\n•\nLast Updated On : 13 Nov 2026\nThe latest funding brings Zus Health's total capital raised to more than $100 million. The company will use the investment to advance its intelligent patient record platform, expand its nationwide healthcare data network and develop AI-powered clinical workflows.\nZus Health, the health technology company founded by Jonathan Bush, has raised $33 million in Series B funding to expand its healthcare data infrastructure and develop AI-powered clinical workflows. The round was led by Drive Capital, with participation from Sanofi Ventures, HealthX Ventures, Alumni Ventures and existing investors Andreessen Horowitz (a16z), F-Prime, Maverick Ventures and JAZZ Venture Partners.\nThe latest funding brings Zus Health's total capital raised to more than $100 million. The company will use the investment to advance its intelligent patient record platform, expand its nationwide healthcare data network and develop AI-powered clinical workflows.\nFounded in 2021, Zus Health has built an API-first, FHIR-native medical record platform designed to consolidate fragmented patient information into a continuously updated longitudinal health record. Its platform connects data from EHR networks, pharmacies, laboratories, care event notifications and other clinical sources, making patient information accessible through APIs, standalone applications, embedded components and direct EHR integrations.\nThe company's Zus Aggregated Profile (ZAP) combines fragmented clinical information into a unified patient record, supported by AI-powered clinical intelligence. The platform is designed to help healthcare organizations access a more complete view of patients without building their own data connectivity infrastructure.\nAccording to Bush, the company has developed its platform in three layers: a nationwide patient record, a data network that continuously feeds information into the record, and AI-enabled workflows that automate care-related tasks.\n\"Electronic health record systems (EHRs) succeeded at digitizing healthcare but failed to make patient information portable across organizations,\" Bush, founder and CEO of Zus Health, told Fierce Healthcare.\nThe company currently works with value-based care organizations, digital health companies, provider organizations, and diagnostics and precision medicine companies. Its solutions support pre-visit preparation, transitions of care, risk adjustment, quality gap closure and population health management.\nZus reported that its nationwide network supported more than 110 million networked transactions in August, while its AI-native clinical platform generated 39 million evidence citations year-to-date across its solutions.\nThe company is also seeing growth in specialty care, particularly oncology, where patient records are often distributed across multiple providers. Its aggregated patient data is being used to support treatment eligibility reviews, clinical trial criteria assessments and genetic testing, reducing the manual effort involved in reviewing fragmented records.\n\"We believe healthcare is entering a new era in which AI can fundamentally change how care is delivered, but that transformation depends on having reliable, connected patient information,\" said Molly Bonakdarpour, general partner at Drive Capital, in a statement.\nWith the new f"
+    }
+   ]
+  },
+  {
+   "group_key": "dreeze",
+   "company_guess": "Dreeze",
+   "amount_hint_usd": 33000000,
+   "articles": [
+    {
+     "id": "bde9ae7fb520",
+     "group_key": "dreeze",
+     "title": "Cloud recovery startup Dreeze secures $33 million in seed funding",
+     "publisher": "SC Media",
+     "url": "https://www.scworld.com/brief/cloud-recovery-startup-dreeze-secures-33-million-in-seed-funding",
+     "published_at": "2026-11-11T23:39:50.000Z",
+     "amount_hint": "$33 million",
+     "snippet": "Cloud recovery startup Dreeze secures $33 million in seed funding SC Media",
+     "text_status": "blocked:403",
+     "text": null
+    },
+    {
+     "id": "27466c2e8aa7",
+     "group_key": "dreeze",
+     "title": "Dreeze: $33 Million Seed Funding Launches Cloud Application Revival Platform",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/dreeze-33-million-seed-funding-launches-cloud-application-revival-platform/",
+     "published_at": "2026-11-12T04:08:55.000Z",
+     "amount_hint": "$33 Million",
+     "snippet": "Dreeze has emerged from stealth with $33 million in seed funding and launched a cloud recovery platform designed to restore complete applications rather than data alone. Norwest and Bessemer Venture Partners led the funding, with participation from Claltech. Dreeze will use the capital to accelerate product development, expand its sales and marketing teams, and bring its Application Revival technology to additional enterprise customers.\nThe post Dreeze: $33 Million Seed Funding Launches Cloud Application Revival Platform appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "se3",
+   "company_guess": "SE3",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "e073106d6766",
+     "group_key": "se3",
+     "title": "Exclusive: SE3, a German startup building ‘spatial intelligence’ for military drones, gets $30 million in Series A funding",
+     "publisher": "Fortune",
+     "url": "https://fortune.com/2026/11/12/exclusive-se3-a-munich-startup-building-spatial-intelligence-for-military-drones-gets-30-million-in-series-a-funding/",
+     "published_at": "2026-11-12T08:00:00.000Z",
+     "amount_hint": "$30 million",
+     "snippet": "Exclusive: SE3, a German startup building ‘spatial intelligence’ for military drones, gets $30 million in Series A funding Fortune",
+     "text_status": "ok",
+     "text": "SE3, a Munich-based startup that makes AI software to help drones and other unmanned military systems understand the three-dimensional world around them, has raised $30 million in a Series A round led by Accel.\nRecommended Video\nKeen, Lakestar, and Seedcamp also participated in the funding round. It comes less than five months after the company, which recently dropped “Labs” from its name, emerged from stealth with €5.5 million ($6.1 million) in seed funding.\nSE3’s software takes video and sensor feeds from multiple drones and ground vehicles and fuses them into a single 3D picture of the battlefield—”like a mini map, how you would know it from a strategy game,” cofounder and CEO Lukas Köstler told Fortune .\nOn top of that map sits a layer that labels objects and how they relate to one another, so soldiers can query it in plain language: How do I reach a target without being seen? What’s a good route for a heavy vehicle?\nOperators can also give commands the same way. Rather than remotely piloting a drone with a joystick or having to tap away on a tablet, a soldier can simply say, “I need reconnaissance two kilometers in the north over the forest,” Köstler said, and a suitable drone would take off, fly the mission, and report back.\nIn addition to this map-level understanding of the battlefield, SE3 also builds the AI systems that sit inside the drones or other unmanned systems, giving them the ability to maneuver and navigate, even in cases where GPS is jammed, detect objects, and act as a “swarm” with other drones.\nKöstler, who previously worked on Tesla’s Autopilot team and at Nvidia Research, said the most basic capability—drones locating themselves without GPS—has been delivered thousands of times and is “very robust.”\nBut he said the high-level fleet command AI is less mature. SE3 has contracts with Germany’s armed forces, the Bundeswehr, to develop it and has demonstrated it with them, but “there’s still much that needs to be built out over the next one or two years,” he said. The company also has contracts in Ukraine, where its technology is already deployed.\nSE3 does not rely on general-purpose, large language models to understand physics or terrain. Instead, it uses classical computer vision algorithms to distill vast amounts of sensor data into a database a language model can query, and gives the model a harness equipped with a variety of conventional software tools the model can call. If the model needs a flight path, a conventional planning algorithm calculates one—avoiding mountains or enemy lines of sight, for example.\nSimply feeding raw data to the model “wouldn’t work at all,” Köstler said. Actions such as a drone takeoff can be set to require a human operator’s approval. The system can run entirely offline, and customers can swap in their own preferred frontier AI model to act as the “brains” of the system.\nSE3 spun out of the computer vision lab of Daniel Cremers at the Technical University of Munich (TUM), where Köstler and SE3’s CTO, Simon Klenk, were PhD students. Cremers serves as SE3’s chief science officer.\nMilitary work has long made some AI researchers uneasy—a tension highlighted when the Pentagon designated Anthropic a supply-chain risk in March after it refused to let its models be used for fully autonomous weapons or mass domestic surveillance.\nAs a German company, SE3 is bound by strict export laws, Köstler noted: “It’s really the elected parliament that decides in the end what we will do.” SE3 serves Europ"
+    },
+    {
+     "id": "aafcd2df0842",
+     "group_key": "se3",
+     "title": "SE3 Raises $30M Series A to Scale Spatial AI for Autonomous Systems",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTjhmZlJqZ25hdHNxTVYxaUh6cjA0bWIwb19YZmdTRDNBRkI3RElyQUdSY2VfT0xCdEdncndfSTlLaDFXRkhhRlFMbEo0TEpSM0toYldxWUNVOHQ4UFRIdmNpQTMyVDV2TC1RMWJ0UEt0eWRoU1hHWFE2ZXBSVHM0T29CMk9SWHFoUXVwUk1QZV8zQQ?oc=5",
+     "published_at": "2026-11-12T09:48:03.000Z",
+     "amount_hint": "$30M",
+     "snippet": "SE3 Raises $30M Series A to Scale Spatial AI for Autonomous Systems Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "d94c30567a5b",
+     "group_key": "se3",
+     "title": "SE3 Raises $30 Million Series A Led by Accel for Spatial AI for Drones and Autonomous Systems",
+     "publisher": "www.trendingtopics.eu",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1X0xXMTVNOWgxOFVBNjNia3lzVmZ2SkdwWjRDM2Yzdm5VUE9uZnh2bWtrR19VX1haanVRZ2JPNDc2S3YzdjM5cktaRGM4aEI5OFI1Y1NiVUczLWpURG5ram5ZclEzNlFZX3NnZg?oc=5",
+     "published_at": "2026-11-12T09:29:17.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "SE3 Raises $30 Million Series A Led by Accel for Spatial AI for Drones and Autonomous Systems www.trendingtopics.eu",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "388c7c1ac194",
+     "group_key": "se3",
+     "title": "German startup SE3 raises $30 million for AI for military drones — Fortune",
+     "publisher": "UA.NEWS",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbm03UjdQc0lLX0RhT0FmRUhCNU1SbFp4Um93dF91Mkg2YzViRGNqV1Mtb3dqRUE1NUQteUZsMXhIbVNGMHlQcjVoMUlFUW0yMUlvRjQtcWxwODJtenN5Vm12ckcyRTJ3REJ5RElTMEYyajJpSlhleUVhdm9hMC1xUC1LdmllRjd4ZXNsMVpHZWlhMHRXV1VsNzFJLUVfNkwwQWtKN2pFVFlBUm5w?oc=5",
+     "published_at": "2026-11-12T09:21:48.000Z",
+     "amount_hint": "$30 million",
+     "snippet": "German startup SE3 raises $30 million for AI for military drones — Fortune UA.NEWS",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "f562453703b8",
+     "group_key": "se3",
+     "title": "Ex-Tesla Engineer’s SE3 Raises $30M for Drone AI Built for Any Drone",
+     "publisher": "Business Model Analyst",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVF8zMlZPVTE4VnpDRjdLNHJweTFNUHh3LU5qU25aSkRDXzUyaDlHTmRXVHlxaXZLV3hkcGRsUzhhZGlZdTJMN1AzT0F3d3FKcHR1aHVic3B6Y1lHRlgyTlBaZjVDYXhSS3plc0pxek9sRlpBbXRNMlFZRHBZdHYtcHR0X3Q2QQ?oc=5",
+     "published_at": "2026-11-13T11:00:00.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Ex-Tesla Engineer’s SE3 Raises $30M for Drone AI Built for Any Drone Business Model Analyst",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "098e8f049fa8",
+     "group_key": "se3",
+     "title": "German defence AI startup SE3 Labs raises $30M as it plots UK expansion",
+     "publisher": "Resilience Media",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOHREQ2otMFB2U3lRSDJ5Z2ZJTkJIdTZmdGJBRGlKeHlac2g5Q0FBM1pKQUo2ZE90REZQMExwOXgyOE5uc1otVkRLeFR3YVNiOE5DbjNaRlMxYWxaU0kwV250TWV3VEpsbjVxd2hzRUFzUVcxOTJmdEZ6S0JoLVVyeG9ibFY0WGZzN282T3Z2VDJENHZ4Z2Ztb1BORU9OQW8?oc=5",
+     "published_at": "2026-11-12T09:43:56.000Z",
+     "amount_hint": "$30M",
+     "snippet": "German defence AI startup SE3 Labs raises $30M as it plots UK expansion Resilience Media",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "1b69e2265b9e",
+     "group_key": "se3",
+     "title": "Munich-based SE3 secures €27.04 million to bring spatial intelligence to Europe's autonomous defence systems - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMEZPYTlXWTNsRDB4YjM1NGpYMF81c0FnNU5vRnVxeENBTnIyY0lPbzIxYV9ybnhkMU5MY0RYQm14WnVvQmdGUW80d3ZGRHdXeVUxVFdSclJtdkd0eFlzWnpIMWZEUzlxUmYtVUlYZkpCQUdGZE1JckxyVlFHUzhaNXpfN1YzY0FoMjFwYTV0TjZKWVJUanNRQ0ZfNWZDNWYtYURxLTNpZmc5Z0NvOTI3MktoeFNJcTNVWTRkXy1rbldrLWl4YjJLb201NTZfb2RqTVQ1d3JNM1Yxcjdqa1NSQmVQSEtTQ0l4eXo3NF9qLTZzZjZpbEtXeGZ1WQ?oc=5",
+     "published_at": "2026-11-12T11:00:52.000Z",
+     "amount_hint": "€27.04 million",
+     "snippet": "Munich-based SE3 secures €27.04 million to bring spatial intelligence to Europe's autonomous defence systems EU-Startups",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "8928bfa4c8cb",
+     "group_key": "se3",
+     "title": "SE3: $30 Million Series A Advances Spatial Intelligence For Autonomous Systems",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/se3-30-million-series-a-advances-spatial-intelligence-for-autonomous-systems/",
+     "published_at": "2026-11-12T16:05:08.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "SE3 has raised $30 million in Series A funding to expand its spatial intelligence software for autonomous systems operating in complex and contested environments. Accel led the financing, with participation from Keen Venture Partners and continued support from Lakestar and Seedcamp.\nThe post SE3: $30 Million Series A Advances Spatial Intelligence For Autonomous Systems appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "kindo",
+   "company_guess": "Kindo",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "bdf21b089728",
+     "group_key": "kindo",
+     "title": "Kindo Raises $30 Million to Expand Enterprise AI Agent Control and Reduce Costs",
+     "publisher": "Unite.AI",
+     "url": "https://app.kindo.ai/",
+     "published_at": "2026-11-12T14:00:00.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Kindo Raises $30 Million to Expand Enterprise AI Agent Control and Reduce Costs Unite.AI",
+     "text_status": "thin",
+     "text": "Loading... Checking your session..."
+    },
+    {
+     "id": "84bd6bd4e7cd",
+     "group_key": "kindo",
+     "title": "Kindo Raises $30 Million Led by Crosspoint and Forgepoint, Bringing Total Funding to $57.6 Million",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPclFnZFBMV01MdXNHMHZLMGZ6MEZNaWNNN3R2VUxqNGpUbFNUSThlV2FJYlB1N2FYeUpQd3hBa21HRmRNV09JR0dSNENnM0prcUN1YnZhYUJLQk13VnRDTHBwR05hajZocnBKZlpzQU4zdnJqX3U4VjBPdnRSM19XaUtxak16ME1kM21xb2VOb0pFcFNFT0Nib3RlTkRESUZMelBpbTBTOXNIcFVGMjlZRVRHMTNuSmU1NTI1UEFTVUluUF9LWEdtMEZ3TEFpcmM?oc=5",
+     "published_at": "2026-11-12T16:06:47.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Kindo Raises $30 Million Led by Crosspoint and Forgepoint, Bringing Total Funding to $57.6 Million citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "1b9586a52f13",
+     "group_key": "kindo",
+     "title": "Kindo: $30 Million Funding Round Brings Total Capital Raised To $57.6 Million As Revenue Grows 800%",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/kindo-30-million-funding-round-brings-total-capital-raised-to-57-6-million-as-revenue-grows-800/",
+     "published_at": "2026-11-12T20:40:35.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Kindo, an enterprise AI agent management platform, has raised $30 million in new funding, bringing its total capital raised to $57.6 million. The financing was co-led by Crosspoint Capital and Forgepoint Capital and follows approximately 800% year-over-year revenue growth in 2026.\nThe post Kindo: $30 Million Funding Round Brings Total Capital Raised To $57.6 Million As Revenue Grows 800% appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "6583532b3d84",
+     "group_key": "kindo",
+     "title": "Kindo raises $30M after 800% revenue growth: Can one control centre tame enterprise AI agents?",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/kindo-raises-30m-after-800-revenue-growth-can-one-control-center-tame-enterprise-ai-agents/",
+     "published_at": "2026-11-12T14:00:00.000Z",
+     "amount_hint": "$30M",
+     "snippet": "As businesses deploy AI agents across more departments, controlling what these systems can access, change and spend is…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "can",
+   "company_guess": "Can AI",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "784aae5d4ddc",
+     "group_key": "can",
+     "title": "Can AI predict which cancer drugs will actually work? Orakl Oncology raises €30 million to find out - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/11/can-ai-predict-which-cancer-drugs-will-actually-work-orakl-oncology-raises-e30-million-to-find-out/",
+     "published_at": "2026-11-12T12:26:39.000Z",
+     "amount_hint": "€30 million",
+     "snippet": "Can AI predict which cancer drugs will actually work? Orakl Oncology raises €30 million to find out EU-Startups",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "coreshell",
+   "company_guess": "Coreshell",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "14c55fec72b9",
+     "group_key": "coreshell",
+     "title": "Coreshell Technologies Raises $30M Series B to Push Silicon-Based Batteries",
+     "publisher": "citybiz",
+     "url": "https://www.citybiz.co/article/933280/coreshell-technologies-raises-30m-series-b-to-push-silicon-based-batteries/",
+     "published_at": "2026-11-13T11:22:04.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Coreshell Technologies Raises $30M Series B to Push Silicon-Based Batteries citybiz",
+     "text_status": "blocked:403",
+     "text": null
+    },
+    {
+     "id": "154a06950f85",
+     "group_key": "coreshell",
+     "title": "Coreshell Raises $30M Series B for Graphite-Free Silicon Anode Cells",
+     "publisher": "The EV Report",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNW1nM3hWb1BnSVZaUGFGdTdKdGF4Tjh5U2t1cHZLLS1BMXlUcVltLUl2LTRVN0xyNzFXaWVZZEVFTFVROXVSY2pCWm5sX0VTU2hmWnpvY09uc1E1M0FkRjI0UjNLTUlwcFZhSg?oc=5",
+     "published_at": "2026-11-12T13:05:40.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Coreshell Raises $30M Series B for Graphite-Free Silicon Anode Cells The EV Report",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "08e26b61c4ec",
+     "group_key": "coreshell",
+     "title": "Coreshell Technologies Raises $30M Series B to Push Silicon-Based Batteries",
+     "publisher": "Win Warfield",
+     "url": "https://www.citybiz.co/article/933280/coreshell-technologies-raises-30m-series-b-to-push-silicon-based-batteries/",
+     "published_at": "2026-11-13T11:21:36.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Berkeley, Calif.-based Coreshell has raised $30 million in a Series B financing round co-led by London’s Ferroglobe plc (Nasdaq: GSM),... Read More\nThe post Coreshell Technologies Raises $30M Series B to Push Silicon-Based Batteries appeared first on citybiz .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "accel leads 30m series",
+   "company_guess": "Accel leads $30M Series",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "41f32e3f5775",
+     "group_key": "accel leads 30m series",
+     "title": "Accel leads $30M Series A in SE3, the Munich startup teaching drones to work without GPS",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/accel-leads-30m-series-a-in-se3-the-munich-startup-teaching-drones-to-work-without-gps/",
+     "published_at": "2026-11-12T10:15:00.000Z",
+     "amount_hint": "$30M",
+     "snippet": "AI has made significant advances in automating digital tasks, but enabling machines to understand and navigate the physical…",
+     "text_status": "thin",
+     "text": "November 13, 2026\nWho is Colette Kress? Meet Nvidia’s interim CEO taking over after Jensen Huang’s exit\nby Abhinaya Prabhu"
+    }
+   ]
+  },
+  {
+   "group_key": "benchmark leads 30m round",
+   "company_guess": "Benchmark leads $30M round",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "38fd65a477ec",
+     "group_key": "benchmark leads 30m round",
+     "title": "Benchmark leads $30M round for Tendrils to redesign the CPU with thousands of parallel cores",
+     "publisher": "Sofia Chesnokova",
+     "url": "https://techfundingnews.com/tendrils-30m-benchmark-parallel-cpu-vine/",
+     "published_at": "2026-11-11T09:35:38.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Modern CPUs still rely on design decisions from the 1970s. Tendrils, a Cambridge-based startup founded in 2026, wants…",
+     "text_status": "thin",
+     "text": "November 13, 2026\nWho is Colette Kress? Meet Nvidia’s interim CEO taking over after Jensen Huang’s exit\nby Abhinaya Prabhu"
+    }
+   ]
+  },
+  {
+   "group_key": "shenzhen boyin biotechnology",
+   "company_guess": "Shenzhen Boyin Biotechnology",
+   "amount_hint_usd": 27500000,
+   "articles": [
+    {
+     "id": "b1e13d91e2f3",
+     "group_key": "shenzhen boyin biotechnology",
+     "title": "Shenzhen Boyin Biotechnology Raises $27.5 Million in Series A",
+     "publisher": "BeautyMatter",
+     "url": "https://beautymatter.com/articles/shenzhen-boyin-biotechnology-raises-27-5-million-in-series-a",
+     "published_at": "2026-11-12T18:42:40.000Z",
+     "amount_hint": "$27.5 Million",
+     "snippet": "Shenzhen Boyin Biotechnology Raises $27.5 Million in Series A BeautyMatter",
+     "text_status": "thin",
+     "text": "MEMBER EXCLUSIVE\nPower Players: 2023's Most Active Investors in Beauty\nFeb. 15, 2024"
+    }
+   ]
+  },
+  {
+   "group_key": "finite state",
+   "company_guess": "Finite State",
+   "amount_hint_usd": 27000000,
+   "articles": [
+    {
+     "id": "74d890ba6826",
+     "group_key": "finite state",
+     "title": "Finite State raises $27 million for device security platform",
+     "publisher": "TechGig",
+     "url": "https://techgig.com/amp/news/industry/finite-state-raises-27-million-for-device-security-platform/135757937",
+     "published_at": "2026-11-12T06:10:43.000Z",
+     "amount_hint": "$27 million",
+     "snippet": "Finite State raises $27 million for device security platform TechGig",
+     "text_status": "ok",
+     "text": "Industry\n1 min read\nFinite State raises $27 million for device security platform\nFinite State has secured $27 million in Series C funding to enhance its AI-driven product security platform. This investment will support global expansion and platform autonomy for connected device manufacturers.\nTechGig\nUpdated On Nov 12, 2026 at 11:40 AM IST\nHighlights\nFinite State secured $27 million in Series C funding to expand its platform.\nThe O.H.I.O. Fund led the round with multiple other investors participating.\nThe platform inspects device software and firmware for vulnerabilities without source code.\nIt generates SBOMs and VEX documents for compliance with global regulations.\nProduct security firm Finite State announced on Tuesday that it raised $27 million in a Series C funding round.\nThe company aims to grow its international presence and make its connected device security platform more autonomous. Private funds managed by The O.H.I.O. Fund led the round, with participation from CIBC Innovation Banking, Energy Impact Partners, Energize Capital, and National Grid Partners.\nAdvt\nThe investment addresses two key pressures on manufacturers, according to the company. These include critical flaws like the &lsquo;Vulnpocalypse&rsquo; and increasing product security mandates. Finite State&rsquo;s platform inspects software and firmware in devices, operating from compiled binaries without requiring source code.\nIt identifies both known and zero-day vulnerabilities, helping manufacturers fix exploitable flaws. On the compliance front, the platform continuously produces SBOMs, VEX documents, and signed compliance packages. This supports device makers in meeting regulations such as the EU Cyber Resilience Act (CRA), FDA premarket cybersecurity requirements, UNECE R155 and R156 vehicle regulations, and the IEC 62443 industrial standard.\nEvent\nIndiaAI Challenge\nFind your AI readiness score, discover your strengths and skill gaps, and understand where you fit in India’s evolving AI ecosystem. The IndiaAI Challenge 2026 is a national AI skills and readiness challenge for developers, product professionals, analysts, students, and career switchers. Assess your skills, explore your AI role-fit, build your capabilities, earn a verified certificate, and get discovered by leading employers.\n26 Aug - 31 Dec 2026\nOnline\nRegister Now\nEvent\nEricsson\nEricsson is building the digital infrastructure the world relies on, from the 5G towers that keep billions connected to the AI and silicon powering the next generation of networks. Behind every breakthrough is a curious mind, a collaborative team, and the freedom to make a real difference.\n23 Sep 2026 - 31 Mar 2027\nRegister Now\nEvent\nDevNext 2026\nDevNext is where India's most ambitious AI-native tech builders converge for a day of depth, debate and high-signal networking — across keynote sessions, practitioner panels, live fireside chats, hands-on workshops and open floor debates that put the hardest engineering questions in the room.\nSat, 21 Nov 2026\nThe Park\nRegister Now\n5 Speakers\nWebinar\nInside Ericsson Silicon: The Innovation, Skills, and Careers Behind Future Networks\nThu, 26 Nov 2026\nRegister Now\nEvent\nIndia Learning Festival\nAs AI becomes part of everyday decision-making, one question takes centre stage: who is accountable when AI makes the decision?\nThis free, live TechGig masterclass explores AI accountability through the lens of global AI policy, human oversight, safety and responsible innovation.\nLed by Dr. Smri"
+    }
+   ]
+  }
+ ]
+}

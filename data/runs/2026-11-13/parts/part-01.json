@@ -1,0 +1,208 @@
+{
+ "run_date": "2026-11-13",
+ "part": 1,
+ "groups": [
+  {
+   "group_key": "nebius tests the neocloud",
+   "company_guess": "Nebius tests the neocloud",
+   "amount_hint_usd": 40000000000,
+   "articles": [
+    {
+     "id": "412b4e746837",
+     "group_key": "nebius tests the neocloud",
+     "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+     "publisher": "Rebecca Bellan",
+     "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+     "published_at": "2026-11-12T21:27:10.000Z",
+     "amount_hint": "$40 billion",
+     "snippet": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+     "text_status": "ok",
+     "text": "In its third-quarter earnings call Thursday, the neocloud company Nebius laid out $40 billion in planned spending for 2027, far more than Wall Street had expected. It’s an ambitious plan, but it rests on a string of planned projects that are already starting to show cracks.\nNebius plans to fund the buildout by relying on customer pre-payments and loans backed by customer contracts — essentially using the future value of its data centers to finance their construction. But that can be a risky strategy if those projects get bogged down by delays or cancellations.\n“Building at this scale is hard, and delays are part of our industry right now,” CEO Arkady Volozh said during Thursday’s earnings call. “We are not immune.”\nThe earnings announcement comes on the heels of reports that Microsoft is cooling on neocloud deals that aren’t delivering on time. That’s a problem for companies like Nebius, whose financing strategy is becoming more dependent on repayments. Because if it can’t get to capacity on time, it will keep piling on costs while revenues slip.\nOne of Nebius’ largest customers is Microsoft, which is paying for AI computing capacity at a Vineland, New Jersey, data center that is now months behind schedule. Nebius’ contract with Microsoft is worth up to $19.4 billion, but it’s already letting deadlines slip. Only just over half of the Microsoft capacity is now planned for delivery by the end of the year, with the rest coming in Q2 2027.\nThe delay is because DataOne, the third-party operator of the site, “decided to wind down the temporary generation faster than it was expected,” according to Andrey Korolenko, chief product and infrastructure officer, as the site switches over to Bloom Energy fuel cells.\nStill, that transition wasn’t entirely by choice. In August , the investigative site Floodlight identified at least 45 natural gas generators in operation at the DataOne site, even though it had not received any permits for operating gas generators. New Jersey regulators fined the DataOne facility $1.1 million in response, finding that the use of the generators violated federal law.\nDataOne is also facing a noise-complaint lawsuit from nearby residents over a constant humming noise allegedly emitted by the data center.\nAccording to Nebius’ summary of its Microsoft contract, Microsoft can terminate affected service after a grace period if dates are missed and no alternative capacity is offered. The tranches were originally meant to be deployed in 2025 and 2026, so a Q2 2027 delivery date falls well beyond that window. The contract also includes financial penalties for late delivery.\nNebius said that Microsoft “has been part of the planning process.” Nebius did not say whether Microsoft has agreed to the new dates, but Microsoft has not publicly canceled anything.\nTechCrunch has reached out to Nebius, Microsoft, and DataOne for comment.\nOn the call, Marc Boroditsky, Nebius’s chief revenue officer, said the company’s deals with Microsoft and Meta both came with significant prepayment, which arrived long before delivery. But Bloomberg reported last week that Microsoft is tightening oversight on projects run by third parties, including Nebius, IREN, and Nscale, and debating whether it’s worth signing new agreements. Microsoft also sent employees to the site in New Jersey, per Bloomberg.\nIn its own quarterly earnings report, Microsoft noted that its capex spend was lower than expected due to third-party delays. The company is clearly not above"
+    }
+   ]
+  },
+  {
+   "group_key": "openai reportedly",
+   "company_guess": "OpenAI reportedly",
+   "amount_hint_usd": 15000000000,
+   "articles": [
+    {
+     "id": "1be687d38b86",
+     "group_key": "openai reportedly",
+     "title": "OpenAI reportedly raises $15B at $1.25T valuation as Anthropic IPO approaches",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/openai-reportedly-raises-15b-at-1-25t-valuation-as-anthropic-ipo-approaches/",
+     "published_at": "2026-11-13T11:52:12.000Z",
+     "amount_hint": "$15B",
+     "snippet": "OpenAI is reportedly raising another $15 billion at a $1.25 trillion valuation as it lines up capital for…",
+     "text_status": "thin",
+     "text": "November 13, 2026\nWho is Colette Kress? Meet Nvidia’s interim CEO taking over after Jensen Huang’s exit\nby Abhinaya Prabhu"
+    }
+   ]
+  },
+  {
+   "group_key": "hugging face ceo vows",
+   "company_guess": "Hugging Face CEO vows",
+   "amount_hint_usd": 12900000000,
+   "articles": [
+    {
+     "id": "deea79b353af",
+     "group_key": "hugging face ceo vows",
+     "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+     "publisher": "Sarah Perez",
+     "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+     "published_at": "2026-11-12T17:36:40.000Z",
+     "amount_hint": "$12.9 billion",
+     "snippet": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+     "text_status": "ok",
+     "text": "Hugging Face CEO Clément Delangue briefly commented on Nvidia CEO Jensen Huang’s departure on Thursday, calling it a “really sad day.” Nvidia had announced its plan to acquire the platform for open source AI models in September for $12.9 billion, making it the second-largest acquisition in the company’s history, just behind that of chipmaker Groq’s assets for $20 billion in December 2025.\n“This whole thing sucks, and I wish none of it had happened. It’s a really sad day! But I want to make one thing clear: we’ll keep fighting for open-source AI, harder than ever. This is too important to slow down now. Let’s go!,” Delangue wrote on X.\nThis whole thing sucks, and I wish none of it had happened. It’s a really sad day!\nBut I want to make one thing clear: we’ll keep fighting for open-source AI, harder than ever. This is too important to slow down now. Let’s go! &mdash; clem 🤗 (@ClementDelangue) November 12, 2026\nThe post is interesting as it implies that Huang’s departure is potentially worrying to open source advocates, and he’s attempting to offer reassurance.\nAs Nvidia’s CEO, Huang was known as a strong advocate for open source AI and open-weight models, which is why there could be concerns about how a company that’s no longer under his leadership will now approach this space.\nAfter Nvidia announced its plans to acquire Hugging Face, the U.S. Department of Justice began making inquiries about how the deal would impact competition in the AI market, Reuters reported in October . While Nvidia pledged that the platform would preserve open support, it would also allow the company to control a major distribution channel for AI models.\nThe Hugging Face deal is still scheduled to close in the first half of 2027. Requests for further comment on the deal status and whether Hugging Face has spoken yet with Nvidia’s interim CEO Colette Kress were not returned.\nHuang’s advocacy for open source and open-weight AI has long extended beyond Hugging Face. In July, the CEO published an AI policy letter as his first-ever post on the social network X . The letter, which was signed by 25 companies, including Microsoft, Meta, Hugging Face, IBM, Palantir, and others, urged the U.S. government not to over-restrict open-weight AI models. It said models that “anyone can download, inspect, modify, and run on their own infrastructure” are an important part of the AI ecosystem because they make AI “more accessible, adaptable, and widely available.”\nHuang also wrote that open-weight models expand access to the AI economy, strengthen competition, and give customers greater control, as they know they won’t become locked into a single provider. “Open models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty,” his post on X stated.\nFor my first post, I’m sharing a letter @NVIDIA signed on why open models matter.\nAI will transform every industry, power every company, and be built by every country.\nOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty.… pic.twitter.com/t02bi51N4C &mdash; Jensen Huang (@JensenHuang) July 24, 2026\nIn August, Nvidia also announced a $6 billion deal with the coding startup Poolside to help build out an open AI ecosystem in the U.S. to help the country compete against Chinese companies like DeepSeek and Kimi K3, The Wall Street Journal reported at the time. Last month, Nvidia expanded its Nemotron family of open-weight models with a large 120-bi"
+    }
+   ]
+  },
+  {
+   "group_key": "meet europes most valuable",
+   "company_guess": "Meet Europe’s most valuable",
+   "amount_hint_usd": 8500000000,
+   "articles": [
+    {
+     "id": "1be2925a233e",
+     "group_key": "meet europes most valuable",
+     "title": "Meet Europe’s most valuable robotics startup: Agile Robots hits $8.5B valuation",
+     "publisher": "Tech Funding News",
+     "url": "https://techfundingnews.com/agile-robots-500m-series-f-softbank-8-5b-valuation/",
+     "published_at": "2026-11-12T13:49:58.000Z",
+     "amount_hint": "$8.5B",
+     "snippet": "Meet Europe’s most valuable robotics startup: Agile Robots hits $8.5B valuation Tech Funding News",
+     "text_status": "thin",
+     "text": "November 13, 2026\nWho is Colette Kress? Meet Nvidia’s interim CEO taking over after Jensen Huang’s exit\nby Abhinaya Prabhu"
+    },
+    {
+     "id": "f159ab67a08a",
+     "group_key": "meet europes most valuable",
+     "title": "Meet Europe’s most valuable robotics startup: Agile Robots hits $8.5B valuation",
+     "publisher": "Sofia Chesnokova",
+     "url": "https://techfundingnews.com/agile-robots-500m-series-f-softbank-8-5b-valuation/",
+     "published_at": "2026-11-12T13:39:09.000Z",
+     "amount_hint": "$8.5B",
+     "snippet": "Agile Robots, which makes robotic arms, hands, mobile robots, humanoids, and associated software, just raised $500 million in…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "nvidia rival fractile hits",
+   "company_guess": "Nvidia Rival Fractile Hits",
+   "amount_hint_usd": 7000000000,
+   "articles": [
+    {
+     "id": "ff63b57a2082",
+     "group_key": "nvidia rival fractile hits",
+     "title": "Nvidia Rival Fractile Hits $7B Valuation With $720M AI Chip Funding",
+     "publisher": "Coinpaper",
+     "url": "https://coinpaper.com/38740/nvidia-rival-fractile-hits-7-b-valuation-with-720-m-ai-chip-funding",
+     "published_at": "2026-11-12T13:15:47.000Z",
+     "amount_hint": "$7B",
+     "snippet": "Nvidia Rival Fractile Hits $7B Valuation With $720M AI Chip Funding Coinpaper",
+     "text_status": "ok",
+     "text": "News / Technology\nNvidia Rival Fractile Hits $7B Valuation With $720M AI Chip Funding\nBritish AI chip startup Fractile raises $720M at a $7B valuation, backed by Google, BlackRock and the UK government ahead of its 2027 chip launch.\nEmir Abyazov 2 min read\n12 November 2026, 01:14 PM Prefer us on Google\nKey takeaways\nFractile raises $720 million at $7 billion valuation\nGoogle and UK government back Nvidia challenger\nFirst commercial AI chips expected in 2027\nBritish AI chip startup Fractile has raised $720 million at a $7 billion valuation, attracting backing from Google-linked investors, BlackRock and the UK government as competition intensifies to develop alternatives to Nvidia's artificial intelligence processors.\nThe November 11 Series C round was co-led by Thrive Capital, Founders Fund, Lightspeed and Redpoint. Alphabet's CapitalG, DST Global, Balderton and several other investors also participated.\nThe UK government's announcement confirmed investments from its Sovereign AI fund and the British Business Bank, describing the financing as part of Britain's strategy to develop domestic semiconductor capabilities.\nFractile's $720M Funding Targets Nvidia's AI Chip Dominance\nFounded in 2022 by Walter Goodwin, Fractile is developing processors specifically designed for AI inference, the process of generating responses after a model has been trained.\nUnlike conventional AI accelerators, Fractile's architecture places dynamic random-access memory directly above processing components, seeking to reduce the delays caused by moving data between memory and computing units.\nThe company argues that memory bandwidth increasingly limits AI performance, particularly as reasoning models and autonomous agents generate longer outputs.\nIts technology could eventually challenge Nvidia's dominant position in AI inference, although commercial performance remains unproven.\nThe financing arrives as Google expands its exposure to alternative AI chip developers, including a recently disclosed $548 million Qualcomm stake.\nOther companies are pursuing similar opportunities through custom AI accelerators , as cloud providers seek more specialized computing hardware.\nGoogle and UK Government Back Fractile's Expansion\nFractile's investors include major technology-focused funds alongside British public institutions, reflecting growing demand for alternatives to foreign semiconductor suppliers.\nThe British government said the investment would help the company expand its engineering operations across London and Bristol while strengthening domestic AI infrastructure.\nThe round also comes amid Nvidia's continued investment in AI chip research , where rapid innovation remains essential to protecting its competitive advantage.\nHowever, Fractile faces significant execution challenges.\nThe company expects to introduce its first commercial chip in 2027, meaning its current valuation largely reflects investor expectations rather than established product revenue.\nCan Fractile Challenge Nvidia in AI Inference?\nFractile is entering a competitive market that includes established semiconductor companies and emerging developers such as Groq and Etched.\nNvidia has already pursued inference technology investments to strengthen its position as AI workloads expand beyond model training.\nFractile must demonstrate that its architecture delivers meaningful improvements in speed, energy consumption and cost under real-world conditions.\nIts financing also reflects the broader AI infrastruct"
+    }
+   ]
+  },
+  {
+   "group_key": "softbank",
+   "company_guess": "SoftBank",
+   "amount_hint_usd": 5400000000,
+   "articles": [
+    {
+     "id": "3036fe8cb60a",
+     "group_key": "softbank",
+     "title": "SoftBank Bets approximately $5.4 Billion on Swiss Robotics as Foreign Capital Influx Deepens",
+     "publisher": "BigGo Finance",
+     "url": "https://finance.biggo.com/news/105d3f4c-a73e-4719-8550-4d5ce9495fd0",
+     "published_at": "2026-11-11T23:55:00.000Z",
+     "amount_hint": "$5.4 Billion",
+     "snippet": "SoftBank Bets approximately $5.4 Billion on Swiss Robotics as Foreign Capital Influx Deepens BigGo Finance",
+     "text_status": "ok",
+     "text": "SoftBank Bets approximately $5.4 Billion on Swiss Robotics as Foreign Capital Influx Deepens\nAdd preferred source\nJapan's SoftBank Group is pouring large sums into Switzerland's robotics industry, agreeing to acquire ABB's robotics division for $5.4 billion and investing $200 million in Gravis Robotics, a construction-robotics startup spun out of ETH Zurich. Foreign investors account for 88% of capital in deep-tech funding rounds of $100 million or more, and 43% of Swiss scale-ups are university or research-institute spin-offs. However, the share of Swiss investors in later-stage rounds has fallen from 27% to 13%, with limited mass-production experience and the flight of domestic capital cited as challenges at the growth stage.\nKey Elements\nSoftBank Group ABB Gravis Robotics ETH Zurich Deep Tech Nation Switzerland Switzerland Global Enterprise (S-GE) Neura Robotics Swissmem Swisscom Ventures EPFL\nJapan's SoftBank Group is injecting large sums into Switzerland's robotics industry in quick succession. After agreeing to acquire the robotics division of Swiss automation company ABB for $5.4 billion (~7.2 trillion won), SoftBank in August invested $200 million (~270 billion won) in Gravis Robotics, a construction-robotics startup spun out of ETH Zurich. Gravis said the round was the largest Series A investment ever in the construction-robotics sector.\nSoftBank's string of bets encapsulates the recent surge of foreign capital into Swiss deep-tech companies. According to the \"Swiss Scale-up Report 2026\" published this year by Deep Tech Nation Switzerland, foreign investors accounted for 88% of the capital in deep-tech funding rounds that raised $100 million or more. In effect, Swiss companies are raising their growth capital from abroad.\nSpeaking at a robotics and automation event hosted by Switzerland Global Enterprise (S-GE) in Zurich, Switzerland, on the 11th (local time), investment and industry officials agreed that foreign capital looks at the depth of research accumulated before a company's founding rather than its short history. They explained that technology and intellectual property (IP) built up over years in university labs, combined with research talent from around the world, heighten investment appeal.\nAlexandre Meldem, head of international communications at Deep Tech Nation Switzerland, said, \"Even if a company was only recently founded, there may be 10 years of science behind it,\" adding, \"Switzerland is a relatively stable country with a predictable policy environment, which is an advantage because it allows investors to look 10 years ahead.\"\nIndeed, research institutions are the key starting point for deep-tech companies in Switzerland. Of 265 Swiss scale-ups, 115—or 43%—are spin-offs from universities or research institutes. Forty-two came from ETH and 41 from EPFL. Some foreign robotics companies have even set up bases in Zurich directly to tap the research ecosystem. German robotics company Neura Robotics is developing core hardware technology for humanoid robots in Zurich.\nUrs Laupi, chief strategy officer (CSO) of Neura Robotics, cited cooperation with ETH, physical AI research talent, and the capital environment as reasons for choosing Zurich as its base. \"Switzerland has a solid knowledge base in the field of physical AI,\" he said, stressing that \"we can combine world-class Swiss research capabilities with Germany's industrialization capabilities.\"\nSwitzerland also operates a separate intermediate stage to validate re"
+    }
+   ]
+  },
+  {
+   "group_key": "eic scaling club companies",
+   "company_guess": "EIC Scaling Club companies",
+   "amount_hint_usd": 4000000000,
+   "articles": [
+    {
+     "id": "989fe1f1a82f",
+     "group_key": "eic scaling club companies",
+     "title": "EIC Scaling Club companies raise €4B, outpacing European deeptech peers",
+     "publisher": "Tech.eu",
+     "url": "https://tech.eu/2026/11/12/eic-scaling-club-companies-raise-eur4b-outpacing-european-deeptech-peers/",
+     "published_at": "2026-11-12T15:00:46.000Z",
+     "amount_hint": "€4B",
+     "snippet": "EIC Scaling Club companies raise €4B, outpacing European deeptech peers Tech.eu",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "norwest",
+   "company_guess": "Norwest",
+   "amount_hint_usd": 4000000000,
+   "articles": [
+    {
+     "id": "3371ea88f39a",
+     "group_key": "norwest",
+     "title": "Norwest: $4 Billion Fund Expands Global Multi-Stage Investment Strategy",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/norwest-4-billion-fund-expands-global-multi-stage-investment-strategy/",
+     "published_at": "2026-11-13T16:42:06.000Z",
+     "amount_hint": "$4 Billion",
+     "snippet": "Norwest has closed Norwest 18, a $4 billion global investment fund that will back venture and growth equity opportunities across technology, healthcare, and consumer markets. The vehicle is the largest fund in the firm’s 65-year history and increases its total capital under management to $18 billion.\nThe post Norwest: $4 Billion Fund Expands Global Multi-Stage Investment Strategy appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Norwest: $4 Billion Fund Expands Global Multi-Stage Investment Strategy\nBy Amit Chowdhry\nToday at 11:42 AM\nNorwest: $4 Billion Fund Expands Global Multi-Stage Investment Strategy\nNorwest has closed Norwest 18, a $4 billion global investment fund that will back venture and growth equity opportunities across technology, healthcare, and consumer markets. The vehicle is the largest fund in the firm’s 65-year history and increases its total capital under management to $18 billion.\nNorwest will deploy the new fund across the United States, India, and Israel, continuing a strategy that spans early-stage venture investments through later-stage growth equity. The firm said this flexible approach allows it to begin working with companies at different stages and continue supporting them as their capital requirements and operating priorities evolve.\nSince launching Norwest 17 in April 2024, the firm has completed more than 87 investments and worked with over 30 portfolio companies on liquidity events. Initial public offerings during that period included Amagi Media Labs, BillionToOne, MBX Biosciences, Omada Health, and Swiggy.\nStrategic acquisitions involving Norwest-backed businesses included EQT’s acquisition of Avetta, Luminate Capital Partners’ purchase of AbsenceSoft, Gilead Sciences’ acquisition of Ouro Medicines, Salesforce’s purchase of Qualified, Pinterest’s acquisition of tvScientific, and ServiceNow’s purchase of Veza.\nNorwest 18 will maintain the firm’s primary sector focus while increasing its exposure to emerging categories. Areas of interest include next-generation financial infrastructure, physical and voice AI, agentic cybersecurity, technology-enabled industrial and aerospace businesses, and healthcare AI.\nRecent financial infrastructure investments include Beltic, Rain, and Stablecore. Norwest has also backed Coval, Generalist AI, and LlamaIndex in intelligent AI systems; Above Security, ORION Security, Red Access, and Zenity in cybersecurity; and East Range Group, Padmini VNA, JJG Aerospace, and Raghu Vamsi Aerospace Group in industrial and aerospace markets.\nHealthcare investments include Infinx, Matchpoint Therapeutics, Rezo Therapeutics, Tokaido Health, and Vitalize Care. These businesses are applying AI to drug discovery, clinical and administrative workflows, healthcare access, and care-team productivity.\nBeyond financing, Norwest provides portfolio companies with operating support and strategic guidance. The firm has doubled the size of its Senior Advisor Network, added operating executives, and launched the Norwest Operator Collective and Norwest Kinetic. These resources are intended to help management teams address technology, go-to-market, talent, and organizational challenges.\nSince its founding in 1961, Norwest has invested in more than 750 companies and currently works with over 275 venture and growth equity portfolio companies. Its offices are in Menlo Park, San Francisco, Mumbai, and Tel Aviv.\nKEY QUOTES\n“Building and scaling a company has never been a linear journey, and today that journey is becoming more complex. Companies are staying private longer, scaling across markets, and navigating critical decisions around technology, talent, and growth. Capital is only one part of what they need. Our role is to be a long-term partner and bring the experience, networks, and resources that can help leadership teams make those decisions with confidence.”\nJeff Crowe, Senior Managing Partner at Norwest\n“Markets and technolog"
+    }
+   ]
+  },
+  {
+   "group_key": "pfizer",
+   "company_guess": "Pfizer",
+   "amount_hint_usd": 1500000000,
+   "articles": [
+    {
+     "id": "d69f5c8f2035",
+     "group_key": "pfizer",
+     "title": "Pfizer: Up To $1.5 Billion Funding Agreement With Blackstone Life Sciences To Advance Monthly GLP-1 Obesity Drug",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/pfizer-up-to-1-5-billion-funding-agreement-with-blackstone-life-sciences-to-advance-monthly-glp-1-obesity-drug/",
+     "published_at": "2026-11-13T19:21:30.000Z",
+     "amount_hint": "$1.5 Billion",
+     "snippet": "Pfizer and Blackstone Life Sciences have entered into a strategic funding agreement under which funds managed by Blackstone will provide up to $1.5 billion through 2028 to support the clinical development of berobenatide, Pfizer's investigational monthly GLP-1 receptor agonist for chronic weight management and obesity-related conditions.\nThe post Pfizer: Up To $1.5 Billion Funding Agreement With Blackstone Life Sciences To Advance Monthly GLP-1 Obesity Drug appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Pfizer: Up To $1.5 Billion Funding Agreement With Blackstone Life Sciences To Advance Monthly GLP-1 Obesity Drug\nBy Amit Chowdhry\nToday at 2:21 PM\nPfizer: Up To $1.5 Billion Funding Agreement With Blackstone Life Sciences To Advance Monthly GLP-1 Obesity Drug\nPfizer and Blackstone Life Sciences have entered into a strategic funding agreement under which funds managed by Blackstone will provide up to $1.5 billion through 2028 to support the clinical development of berobenatide, Pfizer’s investigational monthly GLP-1 receptor agonist for chronic weight management and obesity-related conditions.\nThe agreement will help Pfizer advance its obesity drug development program while maintaining financial flexibility to invest in other therapeutic areas. In exchange for its funding commitment, Blackstone will become eligible for milestone-based payments tied to U.S. regulatory approval and commercial performance.\nBerobenatide is being developed as a potential first-in-class monthly injectable GLP-1 receptor agonist peptide. Pfizer is evaluating the treatment for chronic weight management and obesity-related conditions, including knee osteoarthritis and obstructive sleep apnea.\nThe transaction represents a significant investment in Pfizer’s cardiometabolic pipeline as the pharmaceutical company advances a broad portfolio of investigational obesity therapies.\nHow The $1.5 Billion Funding Agreement Works\nUnder the agreement, Blackstone-managed funds will cover up to $1.5 billion in development expenses associated with berobenatide through 2028.\nIn return, Blackstone will be eligible to receive payments if the drug achieves specified regulatory and commercial milestones.\nThese payments are contingent on U.S. regulatory approval of monthly injectable berobenatide monotherapy for chronic weight management and the achievement of certain sales targets.\nAny milestone payments earned by Blackstone would be distributed over multiple years.\nThe structure allows Pfizer to obtain external funding for a major clinical development program without selling ownership or commercial rights to the investigational medicine.\nPfizer will retain full operational control and decision-making authority over berobenatide, including its clinical development strategy.\nThe agreement also does not provide Blackstone with an ownership interest in the drug.\nFunds managed by Blackstone’s perpetual private equity strategy, BXPE, will participate alongside funds managed by Blackstone Life Sciences.\nThe arrangement illustrates an alternative approach to financing pharmaceutical research, in which investment firms provide capital to support clinical development in exchange for payments linked to future milestones.\nFor Pfizer, the agreement provides an opportunity to share development costs while retaining control over a potentially important pipeline asset.\nBerobenatide Targets Monthly GLP-1 Treatment\nBerobenatide is an investigational GLP-1 receptor agonist peptide being studied for chronic weight management and related medical conditions.\nGLP-1 receptor agonists act on biological pathways involved in appetite regulation, blood glucose control, and other metabolic processes.\nExisting treatments in this drug class have established a significant market for obesity and metabolic disease therapies.\nPfizer is developing berobenatide as a potential monthly injectable treatment, which could offer a different administration schedule from therapies requiring more frequent dosing.\nThe company is "
+    }
+   ]
+  },
+  {
+   "group_key": "rowan digital infrastructure",
+   "company_guess": "Rowan Digital Infrastructure",
+   "amount_hint_usd": 1500000000,
+   "articles": [
+    {
+     "id": "38f5c133b67d",
+     "group_key": "rowan digital infrastructure",
+     "title": "Rowan Digital Infrastructure: $1.5 Billion In New Financing To Accelerate 5.5 GW Hyperscale Data Center Pipeline",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/rowan-digital-infrastructure-1-5-billion-in-new-financing-to-accelerate-5-5-gw-hyperscale-data-center-pipeline/",
+     "published_at": "2026-11-12T20:43:11.000Z",
+     "amount_hint": "$1.5 Billion",
+     "snippet": "Rowan Digital Infrastructure, a Denver-based developer of hyperscale data center campuses, has secured more than $1.5 billion in new corporate financing capacity to accelerate development of its 5.5-gigawatt project pipeline across the United States. The financing includes a $600 million expansion of its holding company term loan led by Apterra Infrastructure Capital, along with a new $590 million revolving credit facility and a $355 million letter of credit facility led by Citibank.\nThe post Rowan Digital Infrastructure: $1.5 Billion In New Financing To Accelerate 5.5 GW Hyperscale Data Cente",
+     "text_status": "ok",
+     "text": "Rowan Digital Infrastructure: $1.5 Billion In New Financing To Accelerate 5.5 GW Hyperscale Data Center Pipeline\nBy Amit Chowdhry\nYesterday at 3:43 PM\nRowan Digital Infrastructure: $1.5 Billion In New Financing To Accelerate 5.5 GW Hyperscale Data Center Pipeline\nRowan Digital Infrastructure, a Denver-based developer of hyperscale data center campuses, has secured more than $1.5 billion in new corporate financing capacity to accelerate development of its 5.5-gigawatt project pipeline across the United States. The financing includes a $600 million expansion of its holding company term loan led by Apterra Infrastructure Capital, along with a new $590 million revolving credit facility and a $355 million letter of credit facility led by Citibank.\nThe transactions provide Rowan with additional financing flexibility to secure land, obtain power commitments, purchase equipment, and advance early-stage development activities across its portfolio of hyperscale data center projects.\nWith the latest transactions, Rowan has secured more than $8 billion in financing from over 40 lenders during the past 18 months.\nThe company’s development pipeline includes multiple large-scale data center campuses designed to support major technology companies and hyperscale computing operators.\nRowan has already contracted more than 1.2 gigawatts of capacity with major technology customers.\nThe additional corporate financing is intended to help the company accelerate the development of new facilities while maintaining access to capital across multiple projects.\n$600 Million Term Loan Expansion\nRowan expanded its existing holding company credit facility by $600 million, increasing the total facility size to $900 million.\nThe original $300 million facility was established in September 2025 to support early-stage development activities.\nApterra Infrastructure Capital served as lead arranger for the expanded financing.\nThe additional term loan capacity provides Rowan with resources to support project development before individual campuses reach the construction financing stage.\nThese activities can include land acquisition, infrastructure planning, engineering, permitting, and coordination with electricity providers.\nEarly-stage financing is particularly important in hyperscale data center development because projects can require significant capital commitments before construction begins.\nRowan’s expanded corporate facility allows the company to pursue additional opportunities while progressing existing projects through development.\nNew $945 Million Credit Facilities Led By Citibank\nIn addition to the term loan expansion, Rowan established two new corporate credit facilities totaling $945 million.\nThe financing consists of a $590 million revolving credit facility and a $355 million letter of credit facility.\nCitibank served as lead left arranger and administrative agent for both facilities.\nThe revolving credit arrangement provides Rowan with access to liquidity that can be borrowed, repaid, and borrowed again as its project pipeline develops.\nThis structure is intended to reduce the need for the company to obtain separate financing for every new development site.\nThe letter of credit facility provides financial support for obligations associated with project development.\nThese can include utility interconnection deposits, equipment vendor commitments, and other collateral requirements.\nLetters of credit can help developers satisfy certain financial obligations without"
+    }
+   ]
+  }
+ ]
+}

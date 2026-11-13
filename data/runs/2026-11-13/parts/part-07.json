@@ -1,0 +1,280 @@
+{
+ "run_date": "2026-11-13",
+ "part": 7,
+ "groups": [
+  {
+   "group_key": "bay",
+   "company_guess": "Bay",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "b3251023715d",
+     "group_key": "bay",
+     "title": "Bay Emerges From Stealth With $50M After Fortune 100 Companies Used Its Platform to Triple Autonomous AI Agent Use",
+     "publisher": "AI Insider",
+     "url": "https://theaiinsider.tech/2026/11/13/bay-emerges-from-stealth-with-50m-after-fortune-100-companies-used-its-platform-to-triple-autonomous-ai-agent-use/",
+     "published_at": "2026-11-13T07:46:57.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Bay Emerges From Stealth With $50M After Fortune 100 Companies Used Its Platform to Triple Autonomous AI Agent Use AI Insider",
+     "text_status": "ok",
+     "text": "Business & Markets\nBay Emerges From Stealth With $50M After Fortune 100 Companies Used Its Platform to Triple Autonomous AI Agent Use\nBy James Dargan · 13 November 2026 · 5 min read\nInsider Brief\nBay, an AI security platform for agentic enterprises, has emerged from stealth with $50 million in total funding, including a $37 million Series A led by Battery Ventures and a $13 million seed led by YL Ventures and Striker Venture Partners.\nThe Tel Aviv-based company evaluates each AI agent action in the context of the full session and decides in milliseconds whether it can proceed, deploying across devices, cloud and SaaS in under five minutes without extra endpoint agents or network proxies.\nFounded less than a year ago by Yuval Zacharia, Aner Morag and Boris Danilovich, Bay already counts Micron, Peloton, ClickUp and Wix among its customers and will use the funding to expand its teams in the US and Europe.\nPRESS RELEASE —  Bay , the AI security platform building the trust layer for agentic enterprises, has emerged from stealth less than a year after its founding with dozens of enterprise customers, including Micron, Peloton, ClickUp and Wix. Bay addresses a primary barrier to AI adoption by allowing autonomous agents to perform business-critical work safely while enterprises retain control and accountability at scale.\nBay has raised $50 million in total funding. The financing includes a $37 million Series A led by Battery Ventures and a previously undisclosed $13 million seed led by YL Ventures and Striker Venture Partners. Micron Ventures, M12, Microsoft’s Venture Fund and Assaf Rappaport, CEO of Wiz, also participated in the Series A.\n“AI is fundamentally changing how enterprises operate, and the ability to deploy autonomous agents safely will become a critical competitive advantage,” said Andrew Byrnes, Director of Venture Capital, Micron. “We’ve seen firsthand how Bay’s technology can help accelerate AI adoption while maintaining the control and accountability required in a large enterprise. We believe that this trust layer will become essential infrastructure for the agentic era.”\nBay grew out of the same problem it now solves for customers. Its founders watched one of their coding agents try to expose a cloud environment to the internet to complete a test. The agent had not been compromised. It used legitimate permissions to pursue a legitimate goal in a dangerous way.\nBay brings AI governance and enforcement across employee devices, cloud infrastructure, and SaaS applications in under 5 minutes, without an additional persistent endpoint agent, kernel driver, or network proxy. It secures the full range of AI that enterprises are deploying through a single platform that covers multiple use cases under one set of policies. Bay combines AI discovery and posture management, session-level observability, and real-time enforcement, and connects to existing security workflows for automated remediation.\n“In Bay, we saw a company we felt had a differentiated technical approach that was already winning enterprise customers at an early stage,” said Dharmesh Thakker, General Partner at Battery Ventures. “That combination gave us conviction to lead the round. We believe Bay can become a core control layer for companies putting AI agents to work at scale.”\n“We evaluated a crowded field of companies addressing AI agent security, and Bay stood out because it can understand and control individual agent actions, from the endpoint to the cloud, while fi"
+    }
+   ]
+  },
+  {
+   "group_key": "nebula brands",
+   "company_guess": "Nebula Brands",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "9ad152bef7dd",
+     "group_key": "nebula brands",
+     "title": "Nebula Brands Secures $50 Million Series B at $530 Million Valuation",
+     "publisher": "Retail News Asia",
+     "url": "https://nebula.tv/",
+     "published_at": "2026-11-12T09:19:47.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Nebula Brands Secures $50 Million Series B at $530 Million Valuation Retail News Asia",
+     "text_status": "thin",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "alta",
+   "company_guess": "Alta",
+   "amount_hint_usd": 47500000,
+   "articles": [
+    {
+     "id": "5f13cfbea9f3",
+     "group_key": "alta",
+     "title": "Alta Raises $47.5 Million for Its Compliance-Focused Blockchain",
+     "publisher": "BlockTelegraph",
+     "url": "https://blocktelegraph.io/compliance-focused-blockchain-alta-series-a/",
+     "published_at": "2026-11-12T01:47:20.000Z",
+     "amount_hint": "$47.5 Million",
+     "snippet": "Alta Raises $47.5 Million for Its Compliance-Focused Blockchain BlockTelegraph",
+     "text_status": "ok",
+     "text": "What to know\nAlta announced a $47.5 million Series A led by Index Ventures.\nThe company is developing a blockchain with compliance features for banks and large businesses.\nAirwallex is both an early backer and a channel encouraging customers to use Alta for crypto transactions.\nAlta has raised $47.5 million in a Series A round to build a compliance-focused blockchain for banks and large companies. Index Ventures led the round, which Alta announced Tuesday, according to Fortune’s report .\nThe company is developing its own blockchain with a compliance layer that lets customers ensure processed transactions follow rules and regulations around the world. Alta is pitching the system to financial firms and large companies seeking faster money transfers with crypto.\nWhy Alta Is Building a Compliance-Focused Blockchain\nFinancial firms already have a choice of networks, including Ethereum, Solana and Avalanche. Alta chief executive Loong Wang told Fortune he believes blockchain is the best technology for transferring money, but said existing options lack privacy and compliance tools designed for banks and other large financial players. Glass office tower viewed from below beneath clouds.\nWang said Alta’s features include a tool that prevents people from sending funds at random to addresses on its blockchain. The feature addresses a practice known as an airdrop, which can require wallet holders to accept funds whether they want them or not.\n“We often say we wouldn’t have built an L-1 if we didn’t have to,” Wang told Fortune. His comments describe the company’s rationale for creating another network despite the many Layer 1 blockchains already available.\nAirwallex Provides a Distribution Connection\nAlta previously raised $32.5 million in seed funding, backed primarily by Airwallex, the Australian fintech company competing with Stripe and others in global payments. Alta has 25 employees and offices in San Francisco and Melbourne.\nFortune reported that Wang has a personal connection with Airwallex chief executive Jack Zhang. Zhang had been skeptical of crypto, but recently acknowledged the inherent value of stablecoins for cheap and efficient money transfers.\nAirwallex is also serving as a distribution channel, encouraging its global customer network to use Alta’s platform for crypto transactions. The relationship comes as Airwallex rivals build crypto infrastructure too, including Stripe and its Tempo blockchain.\n“With the rise of agentic banking and programmable payments, stablecoins are becoming an important vector for settlement,” Zhang said in a statement announcing Alta’s funding round.\nInvestors Join Alta’s Series A\nGV (Google Ventures), Blackbird Ventures, Square Peg and Capital49 also participated in the Series A. Capital49 is a venture firm established by Airwallex’s cofounders. The company did not disclose its valuation in the round.\nAlta was previously known as Metal and recently rebranded. Wang founded an earlier crypto startup that he sold in 2021, then pivoted to a second startup using quantum computing to aid drug discovery before returning to crypto technology to found Alta with Catherine Porter, a former Meta executive.\nThe round places Alta among companies building transaction infrastructure for institutional crypto use. Banks are also exploring stablecoin settlement and digital asset infrastructure, including efforts discussed at MERGE Madrid 2026 . Other coverage has examined how banks put deposits on blockchain and plans for a "
+    }
+   ]
+  },
+  {
+   "group_key": "stanford founders mosaic",
+   "company_guess": "Stanford founders’ Mosaic",
+   "amount_hint_usd": 47000000,
+   "articles": [
+    {
+     "id": "ae246d18b7cc",
+     "group_key": "stanford founders mosaic",
+     "title": "Stanford founders’ Mosaic exits stealth with $47M to build surgical robots that navigate blood vessels",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/stanford-founders-mosaic-exits-stealth-with-47m-to-build-surgical-robots-that-navigate-blood-vessels/",
+     "published_at": "2026-11-11T11:01:13.000Z",
+     "amount_hint": "$47M",
+     "snippet": "Surgery has moved beyond large incisions. Physicians can now reach organs deep inside the body through a needle…",
+     "text_status": "thin",
+     "text": "November 13, 2026\nWho is Colette Kress? Meet Nvidia’s interim CEO taking over after Jensen Huang’s exit\nby Abhinaya Prabhu"
+    }
+   ]
+  },
+  {
+   "group_key": "mount thor",
+   "company_guess": "Mount Thor",
+   "amount_hint_usd": 45000000,
+   "articles": [
+    {
+     "id": "a62e9f0c6c34",
+     "group_key": "mount thor",
+     "title": "Mount Thor Raises $45M in Funding to Expand AI Cloud Infrastructure on Apple Hardware",
+     "publisher": "AI Insider",
+     "url": "https://theaiinsider.tech/2026/11/12/mount-thor-raises-45m-in-funding-to-expand-ai-cloud-infrastructure-on-apple-hardware/",
+     "published_at": "2026-11-12T16:00:00.000Z",
+     "amount_hint": "$45M",
+     "snippet": "Mount Thor Raises $45M in Funding to Expand AI Cloud Infrastructure on Apple Hardware AI Insider",
+     "text_status": "ok",
+     "text": "Business & Markets · Startups\nMount Thor Raises $45M in Funding to Expand AI Cloud Infrastructure on Apple Hardware\nBy Greg Bock · 12 November 2026 · 2 min read\nInsider Brief\nSan Francisco startup Mount Thor raised $45 million in seed and Series A equity funding to expand cloud infrastructure providing on-demand access to Apple’s macOS operating system and silicon for AI development.\nCRV and Conviction co-led the Series A, while Chad Byers and Offline Ventures co-led the seed round, with additional non-dilutive financing secured for hardware purchases.\nMount Thor plans to expand computing capacity and develop infrastructure for AI agent training, software testing, long-running autonomous tasks and inference using open-source models optimized for Apple silicon.\nSan Francisco startup Mount Thor has raised $45 million in seed and Series A equity funding to expand cloud infrastructure that gives AI developers on-demand access to Apple’s macOS operating system and silicon.\nAccording to the company , CRV and Conviction co-led the Series A, while Chad Byers and Offline Ventures co-led the seed round. Other investors included CSC Leasing, Enea Capital, Long Journey Ventures and Upper90 , along with individuals associated with Cognition, Core Automation, Daytona, Meta, OpenAI, Together AI and Vercel. The company also secured an undisclosed amount of non-dilutive capital to purchase hardware.\nFounded in 2026, Mount Thor develops and operates data center systems built around Apple hardware, providing computing resources for AI research, software development and running AI models.\nThe financing will support additional computing capacity and hiring, particularly as the company develops infrastructure for running open-source AI models on Apple silicon.\nBuilding Infrastructure for AI Agents\nMount Thor is focused on developers of AI agents that use computers to perform tasks, including those requiring software available only on macOS, by building and managing rack-scale systems of Apple hardware to allow customers to access computing environments remotely rather than maintain their own equipment.\n“Making Apple’s operating system and silicon available at datacenter-scale is a massive untapped opportunity in AI infrastructure,” said Peter Voell, Founder and CEO of Mount Thor. “Decades of investment in accessibility and human-computer interaction make macOS the best place for agents to work and for humans to hold them accountable. And with chips like the M5 Ultra, Apple silicon is becoming a high performance, more power- and cost- efficient platform for production inference.”\nMount Thor identified several uses for the infrastructure:\nAI research: Creating reinforcement learning environments for computer-use models.\nAgent testing: Providing secure macOS environments for developing and evaluating AI agents.\nLong-running operations: Supporting agents that operate for weeks across a user’s devices using the same Apple identity.\nSoftware development: Building, testing and simulating applications for Apple devices.\nAI inference: Running open-source models optimized for Apple silicon.\nMount Thor reported deploying its first data center in less than six months and plans to increase capacity as demand grows. Its team includes people who previously developed infrastructure at Cerebras, CoreWeave, Fluidstack, Nebius, OpenAI and xAI.\nTopics AI AI models Apple cloud data centers funding macOS Mount Thor Seed Series A\nAbout the author Greg Bock\nGreg Bock is an award-wi"
+    },
+    {
+     "id": "f00f697aa41c",
+     "group_key": "mount thor",
+     "title": "Mount Thor raises $45 million to build Mac data centers for AI agents",
+     "publisher": "9to5Mac",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaUdlbVJjRVNLdEprSDZaMGlkZElMRHpyVUxFNVpiTF84OTJ5aHl0N0FWWS0yOEpkSUcwN195OUc3a1VPMThkRkJISzU3Vm5QSFhZcnN3T3o2RG9iamx6QWNPQks5NURSSXJaS1RkRjNwRDNDUDJ1LXl5b01wYnlYYmJqWkJGdGNOZ09oYnloOGtsYWRBR1phZDBtLW9tNDJVWlE?oc=5",
+     "published_at": "2026-11-12T14:00:00.000Z",
+     "amount_hint": "$45 million",
+     "snippet": "Mount Thor raises $45 million to build Mac data centers for AI agents 9to5Mac",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "2839b254b203",
+     "group_key": "mount thor",
+     "title": "Mount Thor Raises $45 Million to Bring Apple Hardware to Agentic AI Infrastructure",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWUtaWlId09QS25OTFJaZl9IS0U1WFJxTzI5QlFxQ3lyQlBwMW1YZ3RjM2dXV0dBNXhRZGdpejhnVllIdFpkWjRwZVo2NUtmWGZubGtscnZaWk9pbkVGWFdicEk0d0ZJSGRGV0VTUldjNFdXNUZJazJfRnFWWmk2T3VxWkFGaVNVeGk5ZA?oc=5",
+     "published_at": "2026-11-12T14:00:00.000Z",
+     "amount_hint": "$45 Million",
+     "snippet": "Mount Thor Raises $45 Million to Bring Apple Hardware to Agentic AI Infrastructure Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "58524af89f9a",
+     "group_key": "mount thor",
+     "title": "Mount Thor Raises $45 Million Led by CRV and Conviction to Scale AI Cloud Infrastructure",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNajZhNXEwa3N0UFFHcmRlZTQtRGotNlNjSDdtQVFZOUdkM3ZacEoyQXA2RWRpSUFTZ2NoUFFqZjN5Q3RUdXVSbVE2dVNLYWxIdjZvSFU1TlpMWVFOd1pSRGh3QUEzQjZUQ09XZ2ZzSjFRbF9MSWpLYmIzb09hNlhmR0NOdU9uUHBGZXFkR3RiTllJYnpyZ3FYdm9nYzYwVzBPeEVMZVlnX1ZFS0hWUGlramZHVFF4SVhNNTdzT1BHYzNDR3ZK?oc=5",
+     "published_at": "2026-11-12T16:06:47.000Z",
+     "amount_hint": "$45 Million",
+     "snippet": "Mount Thor Raises $45 Million Led by CRV and Conviction to Scale AI Cloud Infrastructure citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "4ea753a5cae1",
+     "group_key": "mount thor",
+     "title": "Mount Thor: $45 Million In Funding To Build Agentic AI Cloud Infrastructure Powered By Apple Silicon",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/mount-thor-45-million-in-funding-to-build-agentic-ai-cloud-infrastructure-powered-by-apple-silicon/",
+     "published_at": "2026-11-12T20:45:56.000Z",
+     "amount_hint": "$45 Million",
+     "snippet": "Mount Thor, a San Francisco-based cloud infrastructure company specializing in Apple hardware, has raised $45 million in equity financing across its Seed and Series A rounds to expand its data center infrastructure for autonomous AI agents. The financing will support the company's efforts to make macOS and Apple silicon available at cloud scale for AI research, software development, agent deployment, and enterprise inference. CRV and Conviction co-led the Series A financing, while Chad Byers and Offline Ventures co-led the Seed round.\nThe post Mount Thor: $45 Million In Funding To Build Agenti",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "garage",
+   "company_guess": "Garage",
+   "amount_hint_usd": 41000000,
+   "articles": [
+    {
+     "id": "204b64e38219",
+     "group_key": "garage",
+     "title": "Garage Raises $41M for its AI-Powered Marketplace for Fire Trucks and Municipal Equipment",
+     "publisher": "AlleyWatch",
+     "url": "https://www.alleywatch.com/2026/11/garage-municipal-equipment-marketplace-used-fire-trucks-government-surplus-vehicles-martin-hunt/",
+     "published_at": "2026-11-13T17:27:50.000Z",
+     "amount_hint": "$41M",
+     "snippet": "The most Auburn, Massachusetts ever got for a retired fire department unit was about $10,000. Then it listed one on Garage and sold it for $120,000. The difference had little to do with the truck and everything to do with who could see it. A former firefighter and EMT is betting that gap runs through a market the company sizes at $1T, and Garage just raised $41M, bringing its total to $60M, to carry the model from fire trucks into garbage trucks and public works.",
+     "text_status": "thin",
+     "text": null
+    },
+    {
+     "id": "bcb1a1390703",
+     "group_key": "garage",
+     "title": "Garage Raises $41M Series B to Scale AI-Powered Marketplace for America’s Essential Equipment, Surpassing $100M in Annual Platform Sales",
+     "publisher": "CXO Digitalpulse",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUEtyMHNRaFozb2d4TXpvWXFoU0ltSEhRdkUyVDRJeGFqZG9SOW9UekR4NE16cXpDanMtSlpoZVltcGZqcWozV2M2REctZXpzckVWcjVhcnJoX3FjRS1uMHcwMlhDbDVjTkQwN1lwMFdRcjBzMFptanVfbEJvVXR0UmFEbW9RaWhseTVxOHBEQUVVX00zNUZUQnpvdWJTSnN1ZnlZMXNMMmJLMHhsZEhJR2lfTGw4MW1PWGJOd0dTbldVZ1N0SkZSb09tOHNMZG1KT21tM2t1VlZNRkhqVERiY28zUXNEUFR5VjlrRTN3aWhHYXltT2cxRQ?oc=5",
+     "published_at": "2026-11-12T11:52:45.000Z",
+     "amount_hint": "$41M",
+     "snippet": "Garage Raises $41M Series B to Scale AI-Powered Marketplace for America’s Essential Equipment, Surpassing $100M in Annual Platform Sales CXO Digitalpulse",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "54c8e67e7cb9",
+     "group_key": "garage",
+     "title": "Garage: $41 Million Series B Supports AI Equipment Marketplace Expansion",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/garage-41-million-series-b-supports-ai-equipment-marketplace-expansion/",
+     "published_at": "2026-11-12T04:14:49.000Z",
+     "amount_hint": "$41 Million",
+     "snippet": "Garage has raised $41 million in Series B funding after surpassing $100 million in annual sales through its artificial intelligence-powered marketplace for fire engines and other heavy-duty equipment. Invus Opportunities led the round, with participation from Infinity Ventures, Initialized Capital, Y Combinator, Benchstrength, and FJ Labs. The financing brings Garage’s total capital raised to $60 million.\nThe post Garage: $41 Million Series B Supports AI Equipment Marketplace Expansion appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "british business bank",
+   "company_guess": "British Business Bank",
+   "amount_hint_usd": 40000000,
+   "articles": [
+    {
+     "id": "9f975e0822b0",
+     "group_key": "british business bank",
+     "title": "British Business Bank: Additional £40 Million Commitment Supports Harwood Fund",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/british-business-bank-additional-40-million-commitment-supports-harwood-fund/",
+     "published_at": "2026-11-13T18:09:49.000Z",
+     "amount_hint": "£40 Million",
+     "snippet": "The British Business Bank has committed an additional £40 million to Harwood Private Capital to increase the availability of flexible financing for smaller and lower-middle-market businesses across the United Kingdom.\nThe post British Business Bank: Additional £40 Million Commitment Supports Harwood Fund appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "British Business Bank: Additional £40 Million Commitment Supports Harwood Fund\nBy Amit Chowdhry\nToday at 1:09 PM\nBritish Business Bank: Additional £40 Million Commitment Supports Harwood Fund\nThe British Business Bank has committed an additional £40 million to Harwood Private Capital to increase the availability of flexible financing for smaller and lower-middle-market businesses across the United Kingdom.\nThe investment supports the first closing of Harwood Private Capital UK Fund II. Commitments to the fund and its related co-investment vehicles now total approximately £120 million.\nHarwood will use the capital to provide debt financing for privately held companies pursuing organic expansion, acquisitions, and shareholder transitions. The strategy gives business owners an alternative to conventional bank lending or a complete sale through an M&A transaction.\nThe commitment increases the British Business Bank’s total investment with Harwood to £75 million. The government-owned development bank previously committed £35 million to the manager’s inaugural HPC UK SME Fund in 2020.\nHarwood specializes in flexible private-credit solutions for lower-middle-market companies. Its target borrowers include founder- and family-owned businesses that need additional growth capital but want to preserve ownership and strategic control.\nThe inaugural fund invested across digital technology, clean-energy supply chains, manufacturing, tourism, and other sectors. One portfolio example is Western Marinas, a Welsh marina operator that used Harwood financing to restore facilities in Wales and southwest England.\nThat investment supported local jobs and family-operated businesses while attracting visitors and economic activity to surrounding coastal communities. It demonstrates how private credit can finance physical assets and regional companies that may not fit the standardized requirements of traditional lenders.\nThe British Business Bank’s mandate is to improve access to capital for smaller companies and address financing gaps that can limit growth, productivity, and job creation. In its 2025-2026 financial year, the bank supported £9.4 billion of financing for approximately 38,000 businesses.\nThat total included £1.3 billion of public funding, £4.3 billion of private capital attracted through the bank’s programs, and £3.7 billion of guaranteed lending. Around 30,000 recipients had not previously received support through the institution.\nHarwood Private Capital UK Fund II is intended to extend this impact by supplying customized debt structures for companies whose requirements may not be served adequately by banks or private equity investors.\nKEY QUOTES:\n“Many smaller businesses continue to face challenges accessing the flexible growth capital they need to scale, invest and realise their ambitions. Harwood has developed a strong track record of providing tailored financing solutions to UK SMEs, particularly those that have not been backed by private equity. Our commitment will help increase the availability of growth capital for businesses, support economic growth and create jobs throughout the UK.”\nAdam Kelly, Managing Director of Debt and Regional Funds at the British Business Bank\n“The British Business Bank has backed Harwood Private Capital since our first fund, and this renewed commitment reflects the strength of that partnership. Founder and family-owned businesses are the backbone of the UK economy, yet many are still underserved by traditional lend"
+    }
+   ]
+  },
+  {
+   "group_key": "jpyc",
+   "company_guess": "JPYC",
+   "amount_hint_usd": 38000000,
+   "articles": [
+    {
+     "id": "88e16edc684b",
+     "group_key": "jpyc",
+     "title": "JPYC Raises $38M in Extended Series B To Grow Yen Stablecoin Adoption",
+     "publisher": "CoinMarketCap",
+     "url": "https://coinmarketcap.com/academy/article/jpyc-raises-dollar38m-in-extended-series-b-to-grow-yen-stablecoin-adoption",
+     "published_at": "2026-11-12T05:59:46.000Z",
+     "amount_hint": "$38M",
+     "snippet": "JPYC Raises $38M in Extended Series B To Grow Yen Stablecoin Adoption CoinMarketCap",
+     "text_status": "ok",
+     "text": "Japan's registered yen stablecoin issuer JPYC Inc has secured a total of 6 billion yen ($38 million) in an extended Series B funding round, drawing in a major domestic logistics firm as it moves to expand its footprint in the country's growing digital payments market.\nThe latest injection came from AZ-COM Maruwa, a Tokyo-listed logistics company, which committed 1 billion yen ($6.3 million) to the round. Earlier in the Series B, Metaplanet Ventures had invested 400 million yen ($2.53 million) in March.\nLogistics Firm Plans Stablecoin Payroll Use\nAZ-COM Maruwa, which counts Amazon Japan among its clients, said it plans to use JPYC to pay fees and salaries to roughly 2,300 business partners and individual contractors. The company reportedly sees the speed of yen-denominated stablecoin transfers as a practical solution for attracting business partners and managing driver shortages brought on by an aging workforce and stricter overtime rules. Nikkei reported the firm's plans last month.\nJPYC said the round's proceeds will fund expansion of its financial and Web3 ecosystem and accelerate adoption of its yen-pegged stablecoin. The company launched last October as Japan's first registered stablecoin under the country's updated payment services rules, and has since begun piloting payments at a location of Lawson, Japan's third-largest convenience store chain.\nRelated Article: JPYC Stablecoin Set for 1st Large-Scale Corporate Use in Japan Logistics Deal\nTraditional Banks Join Japan's Stablecoin Race\nJapanese authorities have signaled support for broader stablecoin adoption, and established financial institutions have responded. SBI Group launched JPYSC in June as the country’s first trust bank-backed yen stablecoin. Three of Japan's largest banks, MUFG, SMBC, and Mizuho, are working together on a jointly issued stablecoin of their own.\nAZ-COM Maruwa's investment stands out as a sign that industrial companies outside the financial sector are beginning to see yen stablecoins as practical infrastructure for supply chain payments and contractor settlement, rather than purely as a bet on digital assets.\nThis article contains links to third-party websites or other content for information purposes only (“Third-Party Sites”). The Third-Party Sites are not under the control of CoinMarketCap, and CoinMarketCap is not responsible for the content of any Third-Party Site, including without limitation any link contained in a Third-Party Site, or any changes or updates to a Third-Party Site. CoinMarketCap is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement, approval or recommendation by CoinMarketCap of the site or any association with its operators. This article is intended to be used and must be used for informational purposes only. It is important to do your own research and analysis before making any material decisions related to any of the products or services described. This article is not intended as, and shall not be construed as, financial advice. The views and opinions expressed in this article are the author’s [company’s] own and do not necessarily reflect those of CoinMarketCap."
+    }
+   ]
+  },
+  {
+   "group_key": "graphon",
+   "company_guess": "Graphon Labs",
+   "amount_hint_usd": 35000000,
+   "articles": [
+    {
+     "id": "fe15a8c71e60",
+     "group_key": "graphon",
+     "title": "Graphon Labs Raises $35M Series A to Give AI Agents Long-Term Memory",
+     "publisher": "Wowtale",
+     "url": "https://en.wowtale.net/2026/11/12/235967/?utm_source=rss&utm_medium=rss&utm_campaign=graphon-labs-raises-35m-series-a-to-give-ai-agents-long-term-memory",
+     "published_at": "2026-11-11T21:09:17.000Z",
+     "amount_hint": "$35M",
+     "snippet": "Graphon Labs Raises $35M Series A to Give AI Agents Long-Term Memory Wowtale",
+     "text_status": "ok",
+     "text": "AI models keep getting smarter, yet they still struggle to understand the videos, documents and conversations people have accumulated. A startup building memory infrastructure that preserves the structure of that data has now raised a Series A.\nGraphon Labs announced a $35 million Series A on Nov. 10. RRE Ventures led the round, and according to the press release, HP, Energy Impact Partners, Hitachi Ventures and Gaia VC participated. It comes six months after the company’s seed round and brings total funding to $43.3 million. Graphon plans to use the money to expand its infrastructure for developers and enterprise customers, then extend from the cloud and on-premises deployments to consumer devices.\nThe seed round drew some attention in Korea. According to May reports from The Next Web and SiliconAngle, Novera Ventures led the $8.3 million seed, with Perplexity Fund, Hitachi Ventures, Gaia Ventures, Samsung Next and GS Futures also participating. The Next Web reported that GS Group is an early customer, using the technology for convenience-store traffic analysis and safety monitoring on construction sites.\nThe problem Graphon targets is that AI “memory” today is mostly storage. Fine-tuning and retrieval-augmented generation (RAG) have been used to bring company knowledge into models, but when documents are cut into pieces and searched as vectors, sentences with nearly identical words and opposite meanings, such as “refund allowed” and “refund not allowed,” can land close together. A rule may be found while the fragment holding its exception is missed. The company likens it to tearing a book apart page by page, crumpling the pages and trying to find them again.\nIts answer is to keep the structure. Graphon reads mixed data such as video, images, spreadsheets, recordings and markdown files and builds a detailed graph without deciding in advance which relationships will matter. It then uses a compressed representation of that graph, the “graphon,” to guide where to search. According to press reports, the graphon is a mathematical concept formalized around 2008 by UC Berkeley professors Jennifer Chayes and Christian Borgs, among others, and the two serve as technical advisers.\nDevelopers use it much like S3: put files in a bucket and Graphon builds the structure. The website lists four APIs, Storage, Search, Answer and Research. Products are split into Graphon Enterprise, Graphon Developer and Graphon On-Device Memory for phones, laptops, cameras and wearables, and enterprise customers can choose hosted, customer-managed VPC or on-premises deployment.\nThe performance figures are the company’s own. Graphon says it scored 93.9% accuracy on the LoCoMo conversational memory benchmark while using 58% fewer tokens than loading the full conversation, and 90.2% accuracy with 95% token savings on ConvoMem. On ATM-Bench, which spans video, audio and text, it reported 81.7%, 5.0 percentage points ahead of the next entry on the public leaderboard. None of these numbers has been independently verified.\nDisclosed customers include the San Francisco 49ers and Hitachi Rail. The 49ers are weighing it for finding sponsorship opportunities and supporting staff work, while Hitachi Rail is evaluating its potential to surface contextual knowledge in industrial settings and improve AI reasoning. RRE Ventures’ Raju Rishi pointed to the fact that models can reason and agents can act, yet neither improves without accumulating knowledge, as the reason for investing.\nT"
+    }
+   ]
+  },
+  {
+   "group_key": "orakl oncology",
+   "company_guess": "Orakl Oncology",
+   "amount_hint_usd": 34000000,
+   "articles": [
+    {
+     "id": "cd62a6fcee09",
+     "group_key": "orakl oncology",
+     "title": "Orakl Oncology Raises $34M Series A to Expand AI Cancer Drug Prediction",
+     "publisher": "Unite.AI",
+     "url": "https://www.unite.ai/orakl-oncology-raises-34m-series-a-to-expand-ai-cancer-drug-prediction/",
+     "published_at": "2026-11-12T17:05:03.000Z",
+     "amount_hint": "$34M",
+     "snippet": "Orakl Oncology Raises $34M Series A to Expand AI Cancer Drug Prediction Unite.AI",
+     "text_status": "ok",
+     "text": "Funding\nOrakl Oncology Raises $34M Series A to Expand AI Cancer Drug Prediction\nPublished\nNovember 12, 2026\nBy\nEvan Mercer, AI Startups & Venture Capital AI Research Agent\nAdd Unite.AI to your preferred sources on Google\nNorrsken VC announced on November 12, 2026 that it co-led Orakl Oncology’s oversubscribed $34 million Series A alongside Singular, bringing the AI drug-development company’s total funding to $50 million.\nOrakl plans to expand its dataset and AI research team, increase data generation fivefold and move beyond colorectal and pancreatic cancers into lung and gastric cancers. The proceeds are also intended to establish US and UK teams, deploy predictions across more than 10 drug programs and discover and validate drug co-targets from patient biology and experimental screens.\nNew investors InfraVia, Serena, the Patient Autonome Fund managed by Bpifrance, teampact.ventures and Plug and Play joined the round, alongside existing backers Verve Ventures, Speedinvest and HCVC.\nPatient-Derived Data and AI\nFounded in 2023 as a spin-out of Gustave Roussy, Orakl grows patient-derived tumor organoids, which are laboratory models of individual patients’ cancers, and screens them against drugs. Its platform overview describes results enriched with genomic, transcriptomic and phenotypic data and anchored to longitudinal clinical histories, creating a multimodal dataset for its predictive systems.\nOrakl’s biopharma products are divided between O-Predict and O-Target. O-Predict is designed to anticipate trial endpoints including tumor response, progression-free survival and overall survival, identify biomarkers that distinguish likely responders, assess drug combinations and compare benefit-risk profiles. O-Target focuses on therapeutic-target discovery.\nNorrsken calls the resulting patient cohorts virtual cancer patients . The drug-response measurements must be generated through patient samples, laboratory infrastructure and hospital partnerships rather than assembled from existing databases. Every experiment adds proprietary data connecting patient biology, clinical information and observed drug responses.\nWhat the SCOPE Preprint Shows\nOrakl reports 90% accuracy for prospective predictions of individual patient responses across more than 30 clinical trials. A separate April 2026 preprint co-authored by Orakl staff provides detailed arm-level results for SCOPE, the Screening-to-Clinical Outcome Prediction Engine. It is marked as early-stage research that may not yet have been peer reviewed.\nSCOPE was trained on 54 treatment lines from 52 patients with metastatic colorectal or pancreatic cancer, using matched clinical data and organoid screens covering nine compounds. To predict trial outcomes, it generated synthetic patient profiles from published eligibility criteria and matched them to a biobank of 81 patient-derived organoid lines.\nExternal validation covered 32 arms from 23 published trials. The authors report an R² of 0.85 and a mean absolute error of 0.82 months for predicted median progression-free survival, the time patients live without disease progression. For objective response rate—the share of patients with a measured tumor response—R² was 0.71 and mean absolute error was 7.3 percentage points. Combining organoid and clinical data significantly outperformed either data type alone.\nSCOPE also selected the superior treatment arm in seven of eight head-to-head comparisons. The preprint describes a prospective application to darax"
+    },
+    {
+     "id": "47f6116ab3c9",
+     "group_key": "orakl oncology",
+     "title": "Paris-based Orakl Oncology scoops $34M for AI cancer drug prediction",
+     "publisher": "Sofia Chesnokova",
+     "url": "https://techfundingnews.com/paris-based-orakl-oncology-scoops-34m-for-ai-cancer-drug-prediction/",
+     "published_at": "2026-11-12T12:50:17.000Z",
+     "amount_hint": "$34M",
+     "snippet": "Orakl Oncology, a Paris-based TechBio company that combines AI with patient biology, has raised $34 million in a…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

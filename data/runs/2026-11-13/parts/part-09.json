@@ -1,0 +1,400 @@
+{
+ "run_date": "2026-11-13",
+ "part": 9,
+ "groups": [
+  {
+   "group_key": "arcanus",
+   "company_guess": "Arcanus",
+   "amount_hint_usd": 27000000,
+   "articles": [
+    {
+     "id": "ee0c9328b44c",
+     "group_key": "arcanus",
+     "title": "Arcanus Raises More Than US$27 Million to Bring Allied Drone Technologies into Canadian Production",
+     "publisher": "The Manila Times",
+     "url": "https://www.manilatimes.net/2026/11/14/tmt-newswire/globenewswire/arcanus-raises-more-than-us27-million-to-bring-allied-drone-technologies-into-canadian-production/2469818",
+     "published_at": "2026-11-13T17:58:54.000Z",
+     "amount_hint": "US$27 Million",
+     "snippet": "Arcanus Raises More Than US$27 Million to Bring Allied Drone Technologies into Canadian Production The Manila Times",
+     "text_status": "thin",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "singular leads 25m sumary",
+   "company_guess": "Singular leads $25m Sumary",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "2c6273a93797",
+     "group_key": "singular leads 25m sumary",
+     "title": "Singular leads $25m Sumary seed round for AI accounting European rollout",
+     "publisher": "FinTech Futures",
+     "url": "https://www.fintechfutures.com/venture-capital-funding/sumary-25m-seed-round-ai-accounting-software-europe",
+     "published_at": "2026-11-12T07:03:37.000Z",
+     "amount_hint": "$25m",
+     "snippet": "Singular leads $25m Sumary seed round for AI accounting European rollout FinTech Futures",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "luminal",
+   "company_guess": "Luminal",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "01011444834d",
+     "group_key": "luminal",
+     "title": "Luminal raises $25M Series A to cut AI inference costs beyond Nvidia GPUs",
+     "publisher": "TNGlobal",
+     "url": "https://technode.global/2026/11/12/luminal-raises-25m-series-a-to-cut-ai-inference-costs-beyond-nvidia-gpus/",
+     "published_at": "2026-11-12T15:32:46.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Luminal raises $25M Series A to cut AI inference costs beyond Nvidia GPUs TNGlobal",
+     "text_status": "blocked:403",
+     "text": null
+    },
+    {
+     "id": "a717994aa84b",
+     "group_key": "luminal",
+     "title": "Luminal Raises Series A to Expand AI Inference Across More Chips",
+     "publisher": "www.tokenpost.com",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VUWgzRHJSVTcwTnQyM2llWk14Y01aMTBITzZpUGo5TFc4bUFiYm9lY05TS2ozMkJvWTR2VUwtczUxLWJPaTdDaVFmX0Jueko5MS0wcGctWno?oc=5",
+     "published_at": "2026-11-12T19:08:45.000Z",
+     "amount_hint": null,
+     "snippet": "Luminal Raises Series A to Expand AI Inference Across More Chips www.tokenpost.com",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "c836c439afe1",
+     "group_key": "luminal",
+     "title": "YC-backed Luminal raises $25M from Standard Capital to loosen Nvidia’s grip on AI inference",
+     "publisher": "Tech Funding News",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMERGakFxYjZwYnRBNlg1V29ZRnNWZHJhOW40N3ZOckF6eUoxdUVpcXlPSHFBYkdhM0pNbFh6MlNPaDNlTlpQbW41eEFoOFFoLV9fc1dHOEpCNjlxS2dlWUxURXlWb2t3QmkxYmVIUnVLU1l5WmZZOTlnNWxqa2tza2N5dw?oc=5",
+     "published_at": "2026-11-12T15:00:24.000Z",
+     "amount_hint": "$25M",
+     "snippet": "YC-backed Luminal raises $25M from Standard Capital to loosen Nvidia’s grip on AI inference Tech Funding News",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "3d328baef0c1",
+     "group_key": "luminal",
+     "title": "YC-backed Luminal raises $25M from Standard Capital to loosen Nvidia’s grip on AI inference",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/luminal-25m-series-a-ai-inference-compiler-cloud/",
+     "published_at": "2026-11-12T15:00:00.000Z",
+     "amount_hint": "$25M",
+     "snippet": "As demand for artificial intelligence grows, the cost of running models is becoming a major infrastructure challenge. Much…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "danish",
+   "company_guess": "Danish AI",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "ae072d449914",
+     "group_key": "danish",
+     "title": "Danish AI accounting startup targets UK and Benelux with new $25 million funding - ArcticStartup",
+     "publisher": "ArcticStartup",
+     "url": "https://arcticstartup.com/sumary-raises-25m/",
+     "published_at": "2026-11-12T08:31:43.000Z",
+     "amount_hint": "$25 million",
+     "snippet": "Danish AI accounting startup targets UK and Benelux with new $25 million funding - ArcticStartup ArcticStartup",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "luminoah",
+   "company_guess": "Luminoah",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "e7945ea0bb70",
+     "group_key": "luminoah",
+     "title": "Luminoah Raises $25M Series B to Push FDA-Cleared Tube Feeding System",
+     "publisher": "citybiz",
+     "url": "https://www.citybiz.co/article/932450/luminoah-raises-25m-series-b-to-push-fda-cleared-tube-feeding-system/",
+     "published_at": "2026-11-12T11:26:35.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Luminoah Raises $25M Series B to Push FDA-Cleared Tube Feeding System citybiz",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "nanopath",
+   "company_guess": "Nanopath",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "28597240af98",
+     "group_key": "nanopath",
+     "title": "Nanopath Raises $25 Million to Advance Point-of-Care Vaginitis Test",
+     "publisher": "Clinical Lab Products",
+     "url": "https://clpmag.com/disease-states/womens-health/nanopath-raises-25m-point-care-vaginitis-test/",
+     "published_at": "2026-11-12T14:49:34.000Z",
+     "amount_hint": "$25 Million",
+     "snippet": "Nanopath Raises $25 Million to Advance Point-of-Care Vaginitis Test Clinical Lab Products",
+     "text_status": "ok",
+     "text": "Nanopath Raises $25 Million to Advance Point-of-Care Vaginitis Test\nNov 12, 2026 | Womens Health |\nThe Series B funding will support an FDA 510(k) study and manufacturing scale-up for the company’s plasmonic biosensing assay.\nNanopath, a point-of-care diagnostics company , closed a $25 million Series B financing round, which includes $2 million in non-dilutive grant financing.\nNorwest and SV Health Investors’ MedTech Convergence Fund co-led the round, with strategic participation from the Labcorp Venture Fund . New and existing investors also took part, including Elderberry Ventures, GingerBread Capital, and Alumni Ventures.\nAs part of the financing, Catherine Kiani, JD, managing partner at Elderberry Ventures, and Mindy Nye, PhD, vice president of Labcorp Diagnostics, joined the Nanopath board as observers.\n“Nanopath is developing truly transformative technology with the potential to reshape the molecular diagnostics industry ,” says Jeff Crowe, senior managing partner at Norwest, in a release.\nFunding Targets Launch Milestones\nThe company will use the funding to support milestones toward the potential commercial launch of its 15-minute point-of-care vaginitis assay , including manufacturing scale-up and initiation of its FDA 510(k) clinical study. Nanopath also plans to expand its team across clinical and commercial functions as it prepares for launch.\nThe study is also intended to support potential expansion of the company’s pipeline into urinary tract infections and sexually transmitted infections .\n“This funding brings us closer to the next and most important step,” says Alison Burklund, PhD, co-founder and co-CEO of Nanopath, in a release. She described that step as translating the company’s innovation into clinical impact.\nAmogha Tadimety, PhD, co-founder and co-CEO, says in a release that the company is “excited to build on this momentum as we enter our next phase of growth.”\nPlasmonic Biosensing Without Amplification\nNanopath says it has developed the first clinical diagnostics platform built on plasmonic biosensing. The company’s proprietary optical biosensing technology is designed to enable molecular detection without nucleic acid amplification, a step required by PCR-based tests .\nBy delivering accurate results during a single visit, Nanopath aims to establish a new standard of care for women’s health and expand access to diagnostics for women across the US. Over time, the company expects the platform to expand to other clinical indications.\nThe vaginitis test is under development and has not been cleared or approved by the FDA. Commercial availability is subject to successful completion of development activities and applicable regulatory review.\nID 55816195 © Flynt | Dreamstime.com\nShare:\nRate:"
+    }
+   ]
+  },
+  {
+   "group_key": "kansas city regional housing",
+   "company_guess": "Kansas City Regional Housing",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "7783a7bd9da9",
+     "group_key": "kansas city regional housing",
+     "title": "Kansas City Regional Housing Fund launches with $25M",
+     "publisher": "The Business Journals",
+     "url": "https://www.bizjournals.com/kansascity/news/2026/11/13/affordable-housing-funding-25m-kc.html",
+     "published_at": "2026-11-13T13:37:00.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Kansas City Regional Housing Fund launches with $25M The Business Journals",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "hatz",
+   "company_guess": "Hatz AI",
+   "amount_hint_usd": 24000000,
+   "articles": [
+    {
+     "id": "1832a9b02524",
+     "group_key": "hatz",
+     "title": "Hatz AI Raises $24M Series A to Solidify Position as the AI Platform for Managed Service Providers and Small and Medium-Sized Businesses",
+     "publisher": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNRkRST0hHZlhrdWFSYWd5b1ZydnFvbmpEdEYxREFyUHdrTFlkYVF2NktYWDd6alN0dXdOUkgzVUs1cVJsQVY4NnNJMi0xZGF6R1k1dnJBU2F5MmVzc01CQXRnbHVQTWxjZHhzRWRtczhuUVdmaVhJQzNZTFBvZFlaZ3U3T19GREJVZ1I3REdOZDRxYm1sbkRGSi1mbUF4UzFHM3AyZXZqVk9aeHRka1FVR1RDMEsxV0lIYTBLcnpIX3lmSzRhM1IwVUJCal9KN05RUlpkU3k4bm9VVGx3ZjZ4OWgtSHhBMmx1LWNZRkVPSzFPN3hfbzQ2RVV1ODJCS1c0b0tEWTU0XzZNUTJfYjdGdzg0QnloQWRwWTNZ?oc=5",
+     "published_at": "2026-11-12T13:00:00.000Z",
+     "amount_hint": "$24M",
+     "snippet": "Hatz AI Raises $24M Series A to Solidify Position as the AI Platform for Managed Service Providers and Small and Medium-Sized Businesses PR Newswire",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "65b44ce60436",
+     "group_key": "hatz",
+     "title": "Hatz AI Raises $24M Series A to Solidify Position as the AI Platform for Managed Service Providers and Small and Medium-Sized Businesses",
+     "publisher": "",
+     "url": "https://www.prnewswire.com/news-releases/hatz-ai-raises-24m-series-a-to-solidify-position-as-the-ai-platform-for-managed-service-providers-and-small-and-medium-sized-businesses-302936133.html",
+     "published_at": "2026-11-12T13:00:00.000Z",
+     "amount_hint": "$24M",
+     "snippet": "With rapid team expansion and partner growth, Hatz signals clear category leadership as the primary AI engine powering managed service providers NEW YORK, Nov. 12, 2026 /PRNewswire/ -- Hatz AI, the essential AI operating system for small and medium-sized businesses delivered through...",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "10c5f607f440",
+     "group_key": "hatz",
+     "title": "Hatz AI Raises $24 Million Series A to Expand AI Platform for Managed Service Providers",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeEtNU2ZERElsUGJnZHlZZkh4cU9ROUdELVg2TWI5SjVyM0FpWGRPajR2M0lJb1UxN05PaEdTaUUzelBxRFBhemtxWkdaelJiQlpMcExXZ2twNGRhWjZESWpyY3ZrcDZYbXlrV3NSM2lGMVRfaGFBbWYwMGVfWFF0WVNpVERFSmswRVRRVDU5ZTlTZ3VJTlFKYnpPc3V3eFZtWkZ5cGJUdThFdHJxVUEyRkV6SldJbVc4bjVYamNVZTlFRlU?oc=5",
+     "published_at": "2026-11-12T14:11:40.000Z",
+     "amount_hint": "$24 Million",
+     "snippet": "Hatz AI Raises $24 Million Series A to Expand AI Platform for Managed Service Providers citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "56b64902c6cb",
+     "group_key": "hatz",
+     "title": "Hatz AI Raises $24M in Series A Funding",
+     "publisher": "FinSMEs",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQXzZYMWl4a2paZ1VPMFlLVmV2QUxQa3ZIZVNPbXNaR2s2ck12dVRLVHh2aEYzMUZkMl95MDcyUUJHR01fY3ktYW8tVkxsRC1IQ3dvakRYdnZrT0VTMXRvYmZldnhBX0wwcGczYXRldTRtNGkzV1pPWGxyNXpSSzdueQ?oc=5",
+     "published_at": "2026-11-12T13:52:39.000Z",
+     "amount_hint": "$24M",
+     "snippet": "Hatz AI Raises $24M in Series A Funding FinSMEs",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "43c3b6d02d7c",
+     "group_key": "hatz",
+     "title": "Hatz AI Raises $24M to Expand Its Enterprise AI Platform for MSPs",
+     "publisher": "Ventureburn",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0ZHk4Q0RWRkxfWG15djZVMXpEX0V4cTIxVl9scm1UUWZmb2gxaFlDYnhXcXRxdXZ6T2ZidWFWRHRhYU1LRDhlY25Ga2x5X2ZXa3R4MlpQOGFzQURSbDI0SmR5VGtYLTZZUGtfWUZPNU1mUmdP0gF0QVVfeXFMUHRkeThDRFZGTF9YbXl2NlUxekRfRXhxMjFWX2xybVRRZmZvaDFoWUNieFdxdHF1dnpPZmJ1YVZEdGFhTUtEOGVjbkZrbHlfZldrdHgyWlA4YXNBRFJsMjRKZHlUa1gtNllQa19ZRk81TWZSZ08?oc=5",
+     "published_at": "2026-11-12T21:02:19.000Z",
+     "amount_hint": "$24M",
+     "snippet": "Hatz AI Raises $24M to Expand Its Enterprise AI Platform for MSPs Ventureburn",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "7f8ffcea242a",
+     "group_key": "hatz",
+     "title": "Hatz AI: $24 Million Series A Expands AI Platform For Managed Service Providers",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/hatz-ai-24-million-series-a-expands-ai-platform-for-managed-service-providers/",
+     "published_at": "2026-11-12T21:13:45.000Z",
+     "amount_hint": "$24 Million",
+     "snippet": "Hatz AI, a provider of artificial intelligence infrastructure for managed service providers (MSPs) and small and medium-sized businesses, has raised $24 million in Series A funding backed by Nadia Partners, Vestigo Ventures, and The Private Shares Fund. The financing was led by Josh Schertzer, a partner at Nadia Partners and former Chief Technology Officer at Blackstone.\nThe post Hatz AI: $24 Million Series A Expands AI Platform For Managed Service Providers appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "nebuly",
+   "company_guess": "Nebuly",
+   "amount_hint_usd": 21000000,
+   "articles": [
+    {
+     "id": "59bddff5bc9f",
+     "group_key": "nebuly",
+     "title": "Nebuly raises $21M Series A to measure the ROI of enterprise AI",
+     "publisher": "The Next Web",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEN2ZIYW0xdXFBa2xEZGN0bmFtWmcxNDdIM0dDM3RZeXhJOUI2TWhpbW1FeUxDY1RGS09RbUVSbWdrT3NrUjZUclJPR1ZwZjZwM3J0T3cxYk1KWkl0aDA2NUUxRkZVU0x5ZWxqUDJIRlREQlk?oc=5",
+     "published_at": "2026-11-12T05:14:41.000Z",
+     "amount_hint": "$21M",
+     "snippet": "Nebuly raises $21M Series A to measure the ROI of enterprise AI The Next Web",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "acab534f5117",
+     "group_key": "nebuly",
+     "title": "Nebuly raises $21M Series A to turn AI investments into measurable results",
+     "publisher": "Tech.eu",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU3YxQTMwOENObnFXMjFKR3RnVktqQXVHR3hFd3NMckgzX096VTZhOVE2Qndxd0E5c25Rbks2dzFOZHFYZHJYQ0tiM3d2TlpqYk5MUkJVT19uSE4xel9ndV9sSjJFakp6YzBWc3JzVmQ4QmE0cW9tSW40NUdZdUN1Y3YzVTl5dGlLelpnVzh5VmhnaFhjZzN4cEFhZF9OejZHVUo4?oc=5",
+     "published_at": "2026-11-12T08:30:37.000Z",
+     "amount_hint": "$21M",
+     "snippet": "Nebuly raises $21M Series A to turn AI investments into measurable results Tech.eu",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "cea7496c2be6",
+     "group_key": "nebuly",
+     "title": "Nebuly Raises $21M Series A to Expand Enterprise AI Measurement",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUFJjZnJuWEZIcmNhOExNTUJMNGVCZl8ySWVjMTRNUDNaNGFFQ1hWSEVJcmVGMVhuMjBVTlhXUzZBVElFZG1wa1hQT01aS0x1Wi1KUEVhVndfcl81WXJyblZ2VnQ0X2pia1owQnYtY3VDdWxJYU94elNNMl82SGV5WDZBS0pqYjRQa3JTUA?oc=5",
+     "published_at": "2026-11-12T07:11:02.000Z",
+     "amount_hint": "$21M",
+     "snippet": "Nebuly Raises $21M Series A to Expand Enterprise AI Measurement Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "f9e2cffe054e",
+     "group_key": "nebuly",
+     "title": "Nebuly raises €18.95 million to help enterprises measure the real economic value of AI agents - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWG4zOG1uUVF3U3ZOQ1RmeVZ5eVg0T3p1LW9rdFR0bmRsWFJKeWRRRHNJQ2M2QThXNVRlY1UwNHFyTzBjUU43anN2dXN4cnoxMjFNUm1zbEQ1aEt3LUdyeHhpdDVQQm9ubWJReWNyZnY1dXJlOEs5dkJJLW1mUThpVElOWDNBN1d0OFNoT0pfcm1kblkyNUNPWGcxOHVHWHpySTNaR0NfZnBDYVQxbWVTYldKVmNLTjRPS0xWYlBkZ2ZHY1I3bFVTZVJB?oc=5",
+     "published_at": "2026-11-12T06:47:34.000Z",
+     "amount_hint": "€18.95 million",
+     "snippet": "Nebuly raises €18.95 million to help enterprises measure the real economic value of AI agents EU-Startups",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "0aa2a3a4b17e",
+     "group_key": "nebuly",
+     "title": "Nebuly raises $21 million to measure AI returns",
+     "publisher": "Coverager",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Bc3NENk5ROVZ1aHpsTDdzVzJoYkZWcE51RURwakxDNFJlaEJRT1A0Y1ZfRG1oRFB5MU9td2x4VVdveHYxRzEtREkxZldtckdwLTB5V005ME5EUnprZENtblIzV0FBRWtubVVPenV5eUhqNUR1dmhJMA?oc=5",
+     "published_at": "2026-11-12T23:33:05.000Z",
+     "amount_hint": "$21 million",
+     "snippet": "Nebuly raises $21 million to measure AI returns Coverager",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "8af4b9f7eadd",
+     "group_key": "nebuly",
+     "title": "Nebuly Raises $21 Million in Series A Funding Led by Planven",
+     "publisher": "www.tokenpost.com",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91SlJXbG5Id2V3cHd1aXdob0lNWGo2dXV1dGJUZkhPS2xYV1ZTMkN6dDV5bTZ0dkJWRlFTT2I0WWtIX21lQkY1NXV5TENaU2xqZG9DWEp5cm4?oc=5",
+     "published_at": "2026-11-12T14:57:28.000Z",
+     "amount_hint": "$21 Million",
+     "snippet": "Nebuly Raises $21 Million in Series A Funding Led by Planven www.tokenpost.com",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "492f5f58e7ce",
+     "group_key": "nebuly",
+     "title": "Nebuly secures a $21 million Series A funding round",
+     "publisher": "Startupbusiness.it",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOamFuVzlRVUdHNHh5OXphMGlYUUpnTUxZOXYtMjJzS1FoekJiMmVTMVp1cncxaVRYZ1BXRElJUGN6bE1IdjZkaXBmUHlMeFNJLTlTNU5uZDRXaWNtc1BKRkZSR2FEb3ItNGZGUXBXUzI0WTAxd3ZCZ0o1aGgzcndiOWpFeHZOTlFmdm1NWFBxaTQ1ZDBrZHhV?oc=5",
+     "published_at": "2026-11-12T04:59:15.000Z",
+     "amount_hint": "$21 million",
+     "snippet": "Nebuly secures a $21 million Series A funding round Startupbusiness.it",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "cf047f9853a8",
+     "group_key": "nebuly",
+     "title": "Nebuly raises $21M from Planven to show enterprises what its AI agents are worth",
+     "publisher": "Sofia Chesnokova",
+     "url": "https://techfundingnews.com/nebuly-ai-roi-platform-enterprise-agents/",
+     "published_at": "2026-11-12T05:00:00.000Z",
+     "amount_hint": "$21M",
+     "snippet": "Uber has effectively blown its entire 2026 AI budget in just four months, Fortune reports. Nebuly, which has…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "fintech griffin",
+   "company_guess": "Fintech Griffin",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "30dee986ad69",
+     "group_key": "fintech griffin",
+     "title": "Fintech Griffin raises $20 mn in Series B funding to expand AI banking platform",
+     "publisher": "Beinsure",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvRW5GN1E1N2JTdllBelI5YWxRTU95OUJaR0ZpRmtqbzAzU0Q0Qks4ZWFvcmkxcHpEdnFvNjVuajFmY0NjTHdaaTR3X0NhdXdfTzU3Q09La21xRWY5RVVpbk5jd3MtNjhqY2xKT1VYRW85RTR6bW9peUpIUzY1NW8?oc=5",
+     "published_at": "2026-11-12T12:37:02.000Z",
+     "amount_hint": null,
+     "snippet": "Fintech Griffin raises $20 mn in Series B funding to expand AI banking platform Beinsure",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "d830e9af57b2",
+     "group_key": "fintech griffin",
+     "title": "Griffin Raises $20 Million Series B Led by Octagon Partners for Cards and Stablecoin Services: 9 outlets compared",
+     "publisher": "NewsCord",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeGR3aC11RkJsdFFaX1J3d1V6QnNOQUIxb3ZVRnhVa0sycHVWWm1GNU9lSmtWdkJCZlQxclhKY2RETk9DLS1LOU9fU0dhTWd3ckx3SllVdXp1TW1nUlpGd1JNXzRxLWxJMnhrQ3RMeFR5SmQxZ2ZJWXczbXZpRWYydEllNGZiekRwMUQ0VXBfNDJtSUFRdHpwMHdkM29IQVRpWjM4MVNRN1pkSk9ockt6cHNTb3Jnc2k2UkI2Y3lwTXFLRnhOR241UUFKYjJ0dTdjdjRPRlc2MmYzU2tNOERHN2ZfR29nMHFmWWc?oc=5",
+     "published_at": "2026-11-12T17:20:29.000Z",
+     "amount_hint": "$20 Million",
+     "snippet": "Griffin Raises $20 Million Series B Led by Octagon Partners for Cards and Stablecoin Services: 9 outlets compared NewsCord",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "d0920ea0b17a",
+     "group_key": "fintech griffin",
+     "title": "Griffin Raises $20M Series B for Stablecoins and Cards",
+     "publisher": "CoinMarketCap",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmpDTXVWNzZLUTVsZXZNYVRwaGtQOG91VDQ5WWJLZHhOd2lWYW1uZ09FcmdnSXZlSnFOUXBuSUVGZXlwR1p3ZmN1WU84NjhTR1hhcWp0OFFSRkplaHh4blJaOU82cGRvbmN5TXpTZ2ZWYzBnNllJWWlrbGNRYmp6Qi11WG9RY1pQcHVtZHhkUnFySElrVlEtX3JRRGY1VC1XUEVv?oc=5",
+     "published_at": "2026-11-12T18:51:47.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Griffin Raises $20M Series B for Stablecoins and Cards CoinMarketCap",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "run_date": "2026-11-13",
+ "part": 2,
+ "groups": [
+  {
+   "group_key": "solv energy revenue rises",
+   "company_guess": "SOLV Energy revenue rises",
+   "amount_hint_usd": 1240000000,
+   "articles": [
+    {
+     "id": "4124f556d25d",
+     "group_key": "solv energy revenue rises",
+     "title": "SOLV Energy revenue rises 65% to $1.24 billion and it raises its 2026 outlook",
+     "publisher": "MLQ.ai",
+     "url": "https://mlq.ai/news/solv-energy-revenue-rises-65-to-124-billion-and-it-raises-its-2026-outlook/",
+     "published_at": "2026-11-12T13:06:30.000Z",
+     "amount_hint": "$1.24 billion",
+     "snippet": "SOLV Energy revenue rises 65% to $1.24 billion and it raises its 2026 outlook MLQ.ai",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "mirendil",
+   "company_guess": "Mirendil",
+   "amount_hint_usd": 1000000000,
+   "articles": [
+    {
+     "id": "cc76b1a2d5f1",
+     "group_key": "mirendil",
+     "title": "Mirendil Raises $1B to Democratize Frontier AI R&D",
+     "publisher": "PR Newswire",
+     "url": "https://www.prnewswire.com/news-releases/mirendil-raises-1b-to-democratize-frontier-ai-rd-302937248.html",
+     "published_at": "2026-11-12T17:30:00.000Z",
+     "amount_hint": "$1B",
+     "snippet": "Mirendil Raises $1B to Democratize Frontier AI R&D PR Newswire",
+     "text_status": "ok",
+     "text": "Mirendil Raises $1B to Democratize Frontier AI R&D\nNews provided by\nMirendil\nNov 12, 2026, 12:30 ET\nShare this article\nShare this article\nSAN FRANCISCO , Nov. 12, 2026 /PRNewswire/ -- Today, we're announcing that we've raised $1B in a Series A, led by Kleiner Perkins and Clearlake Capital, with participation from Battery Ventures, Doerr Capital, Gil & Co, Google, M13, Pear VC, and S32, among other new and existing investors.\nWe believe making AI R&D more accessible is the most direct path to AI that solves humanity's most pressing problems across science and technology. We're building tools to democratize frontier AI R&D and help put it within reach of every scientist and engineer.\nOver the past three weeks, we've shared our first results, and they point to the same shift: when agents do the hands-on work, the size of your team stops limiting what you can build. One researcher, working with agents, pretrained Mirendil-Base , a competitive coding model, from scratch in 3.5 months with less than $10M in compute. We then post-trained it into Fern , which holds up to 10M tokens of context, enough for days of an agent's work. And Lor , now in private beta, brings this way of working to everyone else: hundreds of agents writing code and running experiments for days at a time. Mirendil runs on Lor every day.\nThis round lets us go further, toward a world where one person can take on what used to need a team, a team what used to need an institution, and we can help accelerate science and technology in a more direct way than we've done before.\nWe're still a small team with a singular focus. If you want to help make frontier AI R&D accessible to everyone, join us . If you'd like to build with Mirendil, we'd like to hear from you at [email protected] .\nSOURCE Mirendil\n&times;\nModal title"
+    },
+    {
+     "id": "87ec476a5e0f",
+     "group_key": "mirendil",
+     "title": "Mirendil Raises $1B to Democratize Frontier AI R&D",
+     "publisher": "",
+     "url": "https://www.prnewswire.com/news-releases/mirendil-raises-1b-to-democratize-frontier-ai-rd-302937248.html",
+     "published_at": "2026-11-12T17:30:00.000Z",
+     "amount_hint": "$1B",
+     "snippet": "SAN FRANCISCO, Nov. 12, 2026 /PRNewswire/ -- Today, we're announcing that we've raised $1B in a Series A, led by Kleiner Perkins and Clearlake Capital, with participation from Battery Ventures, Doerr Capital, Gil & Co, Google, M13, Pear VC, and S32, among other new and existing investors....",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "6bf3b1fad8d0",
+     "group_key": "mirendil",
+     "title": "Mirendil Raises $1B Series A to Bring Frontier AI R&D to More Teams",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQUszbXRZb1A0eEh2SVFYWHBhZjVxdEhqOG9zU1BrSHY2Tno2c3F4a29FM3Q1bFF0TVh0ZGp4cnVob25PcXRiZWNsSW0yTFRtTGZ2MTl1ODhOYzJ6SEVzeENFcmxIaFpNTW9McVJKakEzRFhqc1RfTlNXUzRTS3F3WHVyeTRoYWo2M1Y0a0NmVlF0RmdmdkNj?oc=5",
+     "published_at": "2026-11-12T17:58:03.000Z",
+     "amount_hint": "$1B",
+     "snippet": "Mirendil Raises $1B Series A to Bring Frontier AI R&D to More Teams Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "9653342c46c4",
+     "group_key": "mirendil",
+     "title": "AI Lab Mirendil Raises $1B Series A: Release Names No Valuation, Cites Only Company Tests",
+     "publisher": "Tech Times",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdU9vQUtLamZ3Ymh3QTU1N2pZYk1TX3FYenFhWEg3akY1NGhBVDNIbXJCcW03RkdqUUJ3UWFORWlnSC1mREZXQUdva1BtOE9JaFpZLWxQR0FCeVluOGJFYzFtTkgzczFYUk5iTDFTckFDZi15NG5aeHdlaFdHdXlfam1wQXR5NEJ5ZVpuVDVSdE9iMUdJX3hLU2dvOUZGaHRMeHhrZGdacDFIQTl4dTJvbUJBR1k5bjFvMFBNdUdnSmdUdy1fVHBINHNyd3BWYi16aUpRMHFR?oc=5",
+     "published_at": "2026-11-13T05:25:45.000Z",
+     "amount_hint": "$1B",
+     "snippet": "AI Lab Mirendil Raises $1B Series A: Release Names No Valuation, Cites Only Company Tests Tech Times",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "31223380fbde",
+     "group_key": "mirendil",
+     "title": "Mirendil Raises $1B Series A, 5x Its Seed in Under 5 Months",
+     "publisher": "FourWeekMBA",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcWlqbTZzT093QVhJZGVwaTZsd2RsdWw3SThWUWItOFVWN1ZtcWxQTVMwaXJsSVZiWFoxLW1Xc2g0SU51LWdpYzlmcVRDanYtOUFKMXVZYWxDTXZtQkt0ZHdnOHVnYjV2RjdyS3RtcDUyckozamFVdXZNODhjMk1yNTM3c0NvVDRFMk1EUmR3?oc=5",
+     "published_at": "2026-11-12T20:46:59.000Z",
+     "amount_hint": "$1B",
+     "snippet": "Mirendil Raises $1B Series A, 5x Its Seed in Under 5 Months FourWeekMBA",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "211d6b85a535",
+     "group_key": "mirendil",
+     "title": "Mirendil Raises $1 Billion Series A for Agent-Led AI Research Tools",
+     "publisher": "Securities.io",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNUhkTlJNVzRhN3RVQXVudnNQaERObEVmN2lzZU9MN0FGLXctclQ4Tjh0ZDFvSndMeGJBZ1VYSzdWN0twN0N5MTZHM3hqWjk4QWUxZXFBWlFXS3VOTGMtZkk3RHlNU3hIbGs0YjAxLTVvaU5ld25PSDl2VFgyNWhNNWJZb1NtbG9hdE15WnRwLWtNbm5mZ1JOdA?oc=5",
+     "published_at": "2026-11-12T17:59:02.000Z",
+     "amount_hint": "$1 Billion",
+     "snippet": "Mirendil Raises $1 Billion Series A for Agent-Led AI Research Tools Securities.io",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "bdf6e8478d59",
+     "group_key": "mirendil",
+     "title": "Mirendil: $1 Billion Series A Funds AI Research And Development Tools",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/mirendil-1-billion-series-a-funds-ai-research-and-development-tools/",
+     "published_at": "2026-11-12T21:29:04.000Z",
+     "amount_hint": "$1 Billion",
+     "snippet": "Mirendil has raised $1 billion in Series A financing to expand tools intended to make advanced AI research and development accessible to scientists and engineers.\nThe post Mirendil: $1 Billion Series A Funds AI Research And Development Tools appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "ckx",
+   "company_guess": "CKX",
+   "amount_hint_usd": 1000000000,
+   "articles": [
+    {
+     "id": "1efa1c8e0515",
+     "group_key": "ckx",
+     "title": "CKX Lands: $1 Billion Brad Jacobs Investment To Launch New Public Company Platform",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/ckx-lands-1-billion-brad-jacobs-investment-to-launch-new-public-company-platform/",
+     "published_at": "2026-11-12T12:15:59.000Z",
+     "amount_hint": "$1 Billion",
+     "snippet": "Jacobs Private Equity II and minority co-investors have agreed to invest $1 billion in CKX Lands, creating a public company platform that Brad Jacobs plans to use to build a business in an industry that has not yet been selected.\nThe post CKX Lands: $1 Billion Brad Jacobs Investment To Launch New Public Company Platform appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "CKX Lands: $1 Billion Brad Jacobs Investment To Launch New Public Company Platform\nBy Amit Chowdhry\nYesterday at 7:15 AM\nCKX Lands: $1 Billion Brad Jacobs Investment To Launch New Public Company Platform\nJacobs Private Equity II and minority co-investors have agreed to invest $1 billion in CKX Lands, creating a public company platform that Brad Jacobs plans to use to build a business in an industry that has not yet been selected.\nJacobs Private Equity will provide $900 million, while co-investors led by HRTG Partners will contribute $100 million. Jacobs Private Equity will hold a majority interest following the transaction.\nBrad Jacobs will become chairman and chief executive officer of CKX while continuing to serve in the same roles at building products distributor QXO.\nCKX will be renamed and operate as a separate public company. Before closing, it will convert from a Louisiana corporation to a Delaware corporation, complete a holding-company reorganization, and conduct a 4.1744380-for-1 reverse stock split.\nThe investors will receive voting convertible perpetual preferred shares convertible into approximately 219 million common shares at $4.57 per post-split share. They will also receive warrants to purchase approximately 219 million additional shares at exercise prices ranging from $4.57 to $13.70.\nFollowing closing and before warrant exercises, Jacobs Private Equity and its co-investors will own approximately 99.78% of the company on a fully convertible and exchangeable basis.\nCKX will declare a $20.8 million cash dividend, equal to $10.1312 per existing share, before the transaction closes. Existing investors will retain exposure to CKX’s land business while participating in the potential future company.\nThe board unanimously approved the investment, and shareholders representing approximately 28% of voting power agreed to support it. Completion is expected in early 2027, subject to shareholder approval and other conditions.\nJacobs has founded or led eight billion-dollar or multibillion-dollar companies and participated in approximately 500 acquisitions. The new platform would become his ninth company.\nKEY QUOTES\n“I love building multibillion-dollar market leaders, and this $1 billion investment marks the launch of my ninth company. After concluding my chairmanships of XPO, GXO, and RXO last year, I now have the capacity to create this new venture while continuing to lead QXO to its massive potential.”\nBrad Jacobs, Founder of Jacobs Private Equity II\n“We believe this investment will create compelling outcomes for our stakeholders, including the opportunity for our stockholders to receive a substantial upfront cash payment as part of a $20.8 million dividend. We expect our stockholders will benefit from retaining the value of our existing land business while also participating in the potential upside of Brad Jacobs’ future plans for the company.”\nWilliam Gray Stream, President of CKX Lands\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "weeks 10 biggest funding",
+   "company_guess": "Week’s 10 Biggest Funding",
+   "amount_hint_usd": 1000000000,
+   "articles": [
+    {
+     "id": "5db699f9ba99",
+     "group_key": "weeks 10 biggest funding",
+     "title": "The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll",
+     "publisher": "Joanna Glasner",
+     "url": "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
+     "published_at": "2026-11-13T19:20:04.000Z",
+     "amount_hint": "$1 billion",
+     "snippet": "It was another big week for AI-related startup financings. Mirendil, a developer of agentic AI for R&D, led the pack with a $1 billion series A, followed by Mercor, which secured $750 million to connect AI developers with human experts.",
+     "text_status": "ok",
+     "text": "Artificial intelligence &bull; Fintech &bull; Health, Wellness & Biotech &bull; Manufacturing &bull; Robotics &bull; SaaS &bull; Startups &bull; Venture\nThe Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll\nJoanna Glasner\nNovember 13, 2026\nJoanna Glasner\njglasner\n0\nShares\nEmail\nFacebook\nX\nLinkedIn\nWant to keep track of the largest startup funding deals in 2026 with our curated list of $100 million-plus venture deals to U.S.-based companies? Check out The Crunchbase Megadeals Board .\nThis is a weekly feature that runs down the week’s Top 10 announced funding rounds in the U.S. Check out last week’s biggest funding deal roundup here .\nIt was another big week for AI-related startup financings. Mirendil , a developer of agentic AI for R&D, led the pack with a $1 billion series A, followed by Mercor , which secured $750 million to connect AI developers with human experts.\nOverall, the vast majority of this week’s largest rounds were AI-related, though we did see some biotech, fintech and enterprise software in the mix.\n1. Mirendil , $1B, AI for R&D: Mirendil, a developer of agentic AI technology for research and development, secured $1 billion in a Series A funding. Kleiner Perkins and Clearlake Capital led the round for the San Francisco-based startup.\n2. Mercor , $750M, human-led AI training: Mercor, a platform that connects AI developers with human experts for model training and evaluation, raised $750 million in Series D funding. The round, backed by a long list of venture investors, set a $20 billion valuation for the San Francisco-based company, which was founded less than four years ago.\n3. Torus , $500M, AI infrastructure: Salt Lake City-based Torus, a manufacturer of distributed power and compute infrastructure, announced a $500 million growth financing led by Magnetar Capital . It also introduced a product called Foundry, described as modular AI infrastructure for inference compute.\n4. (tied) Path Robotics , $300M, AI for manufacturing: Path Robotics, a developer of physical AI technology for robotics and manufacturing, with initial expertise in welding, picked up $300 million in Series E financing. Georgian led the round, which set a $2.45 billion valuation for the Columbus, Ohio-based company.\n4. (tied) LangChain , $300M, agentic AI: LangChain, developer of a platform to run, improve and govern AI agents, closed on $300 million in Series C funding at a $3 billion valuation. CapitalG led the round for the 4-year-old, San Francisco-based company.\n6. Nominal , $240M, hardware engineering tools: Nominal, a developer of intelligence tools for hardware engineering, raised $240 million at a $3 billion valuation. Lightspeed Venture Partners and Insight Partners led the round for the Austin-based startup.\n7. (tied) Imprint , $130M, fintech: Imprint, a payments, loyalty and customer intelligence platform for brands, landed $130 million in new funding at a $1.9 billion valuation. Khosla Ventures led the financing for the 6-year-old, New York-based company.\n7. (tied) Mavria , $130M, AI infrastructure: Mavria, a startup focused on standardizing how AI infrastructure is developed, built and deployed, launched publicly and said it has raised $130 million in pre-seed and seed funding to date. Its latest round, led by Paradigm , sets a $1 billion valuation for the startup, whose founders formerly worked at the U.S. Department of Energy .\n9. (tied) Delix Therapeutics , $100M, biotech: Delix Therapeutics, a startup"
+    }
+   ]
+  },
+  {
+   "group_key": "positron",
+   "company_guess": "Positron AI",
+   "amount_hint_usd": 875000000,
+   "articles": [
+    {
+     "id": "84b801cc303d",
+     "group_key": "positron",
+     "title": "Positron AI Named to the Inaugural 2026 AI 100 List of Top Private AI Companies",
+     "publisher": "",
+     "url": "https://www.prnewswire.com/news-releases/positron-ai-named-to-the-inaugural-2026-ai-100-list-of-top-private-ai-companies-302938023.html",
+     "published_at": "2026-11-12T19:45:00.000Z",
+     "amount_hint": "$875 million",
+     "snippet": "Recognition comes amid a period of significant momentum for Positron, following its $875 million Series C and expanding AI inference deployments RENO, Nev., Nov. 12, 2026 /PRNewswire/ -- Positron AI, the AI inference hardware company built to make generative AI dramatically cheaper and...",
+     "text_status": "ok",
+     "text": "Positron AI Named to the Inaugural 2026 AI 100 List of Top Private AI Companies\nNews provided by\nPositron AI\nNov 12, 2026, 14:45 ET\nShare this article\nShare this article\nRecognition comes amid a period of significant momentum for Positron, following its $875 million Series C and expanding AI inference deployments\nRENO, Nev. , Nov. 12, 2026 /PRNewswire/ -- Positron AI , the AI inference hardware company built to make generative AI dramatically cheaper and more energy-efficient, today announced it has been named to the inaugural 2026 AI 100 , the definitive ranking of the top 100 private AI companies in the world, published by Newcomer in collaboration with Bessemer Venture Partners .\nThe inaugural AI 100 recognizes leading private companies driving innovation across the AI ecosystem. Positron's inclusion reflects its progress in bringing purpose-built inference technology to market as growing AI adoption drives demand for more cost- and energy-efficient infrastructure.\n\"We're honored to be recognized among the companies shaping the future of AI,\" said Mitesh Agrawal, CEO of Positron AI. \"Making AI inference profitable, scalable and accessible takes advanced technology and a business and supply chain built to serve some of the world's largest technology companies. Positron combines deep semiconductor and systems expertise with customer-driven development and investor backing to position us for growth. I'm proud of the business we're building as we serve customers today and develop our next generation of technology, and grateful to our team, customers, partners and investors for their support.\"\nPositron's recognition follows a series of major company milestones. In September, the company announced an $875 million Series C financing at a $5 billion valuation to accelerate development of its next-generation Asimov silicon, ramp production of Titan and expand manufacturing capacity. Positron has also deployed more than 50 racks of Atlas, its first-generation inference system, at Oracle Cloud Infrastructure. Most recently, the company announced a partnership with General Compute, which is purchasing Atlas systems and has committed to adopting Titan to support next-generation AI workloads.\nThe inaugural AI 100 evaluated nominated companies and recognized category leaders across four factors: market leadership (35%), estimated valuation (30%), operating metrics (20%), and people & culture (15%). Only independent AI companies that have not had a majority strategic or private equity M&A transaction or a public listing were eligible. Honorees span foundation models, AI infrastructure and compute, developer tools and agents, AI apps, vertical AI, security, physical AI and robotics, and deeptech and AI for science.\n\"The artificial intelligence startup set plays by its own rules: there are upstarts with unprecedented revenue growth, companies profiting off of seemingly insatiable inference spending, highly valued speculative research labs, and wildly ambitious robotics companies. These AI native startups are already reshaping the global economy. With our friends at Bessemer, we rethought what matters for the AI age, bringing together the most promising startups harnessing foundation models to transform our digital and physical world,\" said Eric Newcomer, founder of Newcomer.\n\"The AI 100 puts a spotlight on the top 100 companies driving the AI economy forward, built by a generation of founders moving at a speed and scale we've never seen before. We're "
+    }
+   ]
+  },
+  {
+   "group_key": "mercor",
+   "company_guess": "Mercor",
+   "amount_hint_usd": 750000000,
+   "articles": [
+    {
+     "id": "8813b6aec4da",
+     "group_key": "mercor",
+     "title": "Mercor Raises $750 Million in Series D at $20 Billion Valuation",
+     "publisher": "www.tokenpost.com",
+     "url": "https://www.tokenpost.com/news/business/54467",
+     "published_at": "2026-11-11T21:06:53.000Z",
+     "amount_hint": "$750 Million",
+     "snippet": "Mercor Raises $750 Million in Series D at $20 Billion Valuation www.tokenpost.com",
+     "text_status": "ok",
+     "text": "Home Business 2 min read Add as a preferred source on Google\nMercor Raises $750 Million in Series D at $20 Billion Valuation\nThe round includes an employee tender, but Mercor did not disclose how much goes to share sales or new company capital. The company plans to expand AI evaluation and post-training work for businesses.\nBy John Kim\nPublished Nov 11, 2026, 4:06 PM EST\nSave Share Three miniature task stations under warm studio light / TokenPost.ai\nMercor detailed a broader enterprise AI evaluation and post-training push in a Nov. 10 announcement of a $750 million Series D that values the company at $20 billion.\nThe round includes an employee tender, but Mercor did not disclose how much of the $750 million is tied to employees selling shares or how much will go to the company as new capital. The company plans to invest in research and infrastructure for evaluations and post-training, along with additional environments where AI agents can practice complex workflows.\nOver the past two years, Mercor has developed systems for training and assessing frontier AI models. Its enterprise evaluations use companies’ actual workflows and requirements, giving businesses a way to assess models against tasks shaped around their operations.\nMore than five million experts work through Mercor’s network and receive payment for training frontier AI models. “Every job in the economy will need its own agents that can perform tasks reliably and efficiently,” Mercor co-founder and CEO Brendan Foody said.\nInvestors named in the round include Benchmark, Felicis, Fundomo, funds managed by Apollo affiliates, G Squared, General Catalyst, Glade Brook Capital, NVIDIA, Salesforce, Sapphire Ventures, StepStone Group, XTX Ventures and Zoom.\nMercor’s previous announced financing was a $350 million Series C at a $10 billion valuation on Oct. 27, 2025. In July, the company announced plans to acquire Deeptune, which builds training environments for reinforcement learning. Deeptune’s team had recreated hundreds of enterprise applications over two years.\nJohn Kim\nJohn Kim reports on the digital-asset business for TokenPost. Send corrections or tips to info@tokenpost.com. AI Agents AI funding Series D Mercor\nJoin the discussion Back to top"
+    }
+   ]
+  },
+  {
+   "group_key": "uforce",
+   "company_guess": "Uforce",
+   "amount_hint_usd": 700000000,
+   "articles": [
+    {
+     "id": "1b43ba0fcc42",
+     "group_key": "uforce",
+     "title": "Uforce Raises $700M in Series A Funding to Expand Ukraine-Focused Autonomous Defense Production",
+     "publisher": "AI Insider",
+     "url": "https://theaiinsider.tech/2026/11/13/uforce-raises-700m-in-series-a-funding-to-expand-ukraine-focused-autonomous-defense-production/",
+     "published_at": "2026-11-13T10:38:53.000Z",
+     "amount_hint": "$700M",
+     "snippet": "Uforce Raises $700M in Series A Funding to Expand Ukraine-Focused Autonomous Defense Production AI Insider",
+     "text_status": "ok",
+     "text": "Physical AI · Defence & Autonomous Systems\nUforce Raises $700M in Series A Funding to Expand Ukraine-Focused Autonomous Defense Production\nBy Greg Bock · 13 November 2026 · 3 min read\nCredit: Uforce\nInsider Brief\nUkraine-founded defense technology company Uforce raised $700 million in Series A funding at a $6 billion valuation to expand production of autonomous military systems for Ukraine and allied nations.\nThe round was co-led by Valor Equity Partners and the UK National Wealth Fund, with participation from the U.S.-Ukraine Reconstruction Investment Fund and investors including Menlo Ventures, Xantium and Hiro Capital.\nUforce plans to expand manufacturing of its MAGURA maritime drones, NEMESIS aerial drones, LIUT ground vehicles and PREDATOR turret systems across allied countries, while supporting operations and research in Ukraine.\nUkraine-founded defense technology company Uforce has raised $700 million in Series A funding at a $6 billion valuation to expand production of autonomous military systems for Ukraine and allied nations.\nThe round was co-led by Valor Equity Partners and the UK National Wealth Fund, with participation from the U.S.-Ukraine Reconstruction Investment Fund, according to Uforce . Other investors included Menlo Ventures , Xantium and Hiro Capital, while existing backers Shield Capital , Ballistic Ventures , Lakestar and Squadra increased their stakes.\nHeadquartered in London, with major operations in Kyiv and Washington, Uforce develops uncrewed systems for air, land and sea operations, along with AI software for coordinating and controlling them. The company said the funding will support manufacturing expansion across the United States, Europe, Asia-Pacific and the Middle East, while maintaining production and supplies for Ukrainian forces despite continued attacks in Ukraine.\nExpanding Autonomous Defense Production\nUforce plans to increase production and research and development across four product families: MAGURA uncrewed surface vessels, NEMESIS aerial drones, LIUT ground vehicles and PREDATOR turret systems.\nThe company also anticipates working with partners in allied countries to adapt existing maritime and automotive manufacturing facilities for defense production.\nUforce recently announced a partnership with ReconCraft to expand U.S. manufacturing of its Maritime Autonomous Guard Unmanned Robotic Apparatus (MAGURA) vessels. It also plans to build on relationships within NATO and Joint Expeditionary Force networks and continue participating as a founding member of the EU-Ukraine Drone Alliance.\nCEO Oleg Rogynskyy said the financing will help increase production for Ukraine while providing allied nations with autonomous systems they can deploy, integrate and maintain.\n“The war in Ukraine has shown that in an increasingly volatile world, effective defense requires systems that can keep improving as threats change,” noted Rogynskyy. “Governments and the technology ecosystem need to come together to develop cost-effective, interoperable, and autonomous platforms that are ready to fight now, and can evolve to meet future needs.”\nInvestment Supports Ukrainian Operations\nThe U.S.-Ukraine Reconstruction Investment Fund’s participation will specifically support Uforce’s operations in Ukraine, including staffing, research and development, and new products. The fund was established jointly by the United States and Ukraine to attract investment into reconstruction, economic development and strategic industries.\nUfo"
+    },
+    {
+     "id": "09b87e708f51",
+     "group_key": "uforce",
+     "title": "Ukrainian drone maker UFORCE raises $700 million at a $6 billion valuation, backed by the UK's National Wealth Fund",
+     "publisher": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLXRDT1BZMDlmWlItVUxldDJiM28zbmlTVlE4OWtNY0E1Uld2WVhvdkVFZGVadjZHRWg5SXVVZ1lkMmVVSmhHZ2FVVG05Vl9nX1pvMkJLZ1V5d193VmZMVlR4LUZUam1jUVB5V3owMlhDd0JHWWhkVlVRUlNfanZqUE4tc3FTbXJjYVl0Nmg1QWdfakNhRGYtN1VzYlkybUdpUFo3MkJyaFo1aFVXVUNpZ0thRGlhVVpuRXhzR2ZwTXJwLXVMYUtZWVpSRmE?oc=5",
+     "published_at": "2026-11-12T11:06:18.000Z",
+     "amount_hint": "$700 million",
+     "snippet": "Ukrainian drone maker UFORCE raises $700 million at a $6 billion valuation, backed by the UK's National Wealth Fund MLQ.ai",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "c1b52171e438",
+     "group_key": "uforce",
+     "title": "UFORCE Raises $700M at $6B Valuation to Expand Autonomous Defence Systems",
+     "publisher": "Ventureburn",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BWnJKb3dDZlpCYy1Ld2FuRmVFdUZqcTllT0phLU93QVdfbXVpcjlFM04wT09OZ1RLdWZGMFVDdUt3SE0zNjNmdm55eUctS0tLXzFqRUJibGlhTkdtdW5rTkJJb25UbWg2NVc4Y2pCV1RnTTZNQ0NPLXpn0gF6QVVfeXFMTUFackpvd0NmWkJjLUt3YW5GZUV1RmpxOWVPSmEtT3dBV19tdWlyOUUzTjBPT05nVEt1ZkYwVUN1S3dITTM2M2Z2bnl5Ry1LS0tfMWpFQmJsaWFOR211bmtOQklvblRtaDY1VzhjakJXVGdNNk1DQ08temc?oc=5",
+     "published_at": "2026-11-12T22:15:58.000Z",
+     "amount_hint": "$700M",
+     "snippet": "UFORCE Raises $700M at $6B Valuation to Expand Autonomous Defence Systems Ventureburn",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "384b748ec5c0",
+     "group_key": "uforce",
+     "title": "UFORCE raises $700 million at $6 billion valuation as demand grows for autonomous defense systems",
+     "publisher": "Traders Union",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON0h4eGdZNHlEanZkb0NPRnJQcEl3WmRzZEJvRzZpOHY4RG1ONmxkQTU3Z2NGSlhFVG90T2NSVWpVSnk1Rkp0Z1pubi1oamxFNjhUQTVFY2t3MXk3YmlEUVdPVW1Da1ZiMVFGQXFUcHBTX0F3WUN3eDJFN0hFVjg1MDhQeFd3UGtlTUVLQTZ5cENCUWtsNmc?oc=5",
+     "published_at": "2026-11-12T09:41:36.000Z",
+     "amount_hint": "$700 million",
+     "snippet": "UFORCE raises $700 million at $6 billion valuation as demand grows for autonomous defense systems Traders Union",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "88fac90f98ca",
+     "group_key": "uforce",
+     "title": "UForce Raises $700M Series A at $6B Valuation to Scale Autonomous Defense Systems",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnhmTlBlOHBaS2tlX3ZndUxabHBEUFkzMFJMYnIwUzExUF9nMU8yYVUtS2RHS2FlUzlrclZETmhqd09JR0NveG5oUzlZR0x3ZjBUd29CQzJYMXI0dUFyXzF5ZmMyNjVBNVBWR1pjMm5SWWZLc2YwVm9yaXBMMGI5enI4MUZNV1JpN0ZIZHBwVUNyOUM2ZHVQVlNGeDg5LUk4VkJXUFhRMTMxY3ROeVlLcnRaM2otOHJyc2c?oc=5",
+     "published_at": "2026-11-13T11:02:04.000Z",
+     "amount_hint": "$700M",
+     "snippet": "UForce Raises $700M Series A at $6B Valuation to Scale Autonomous Defense Systems citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "ba7b8fc8b15c",
+     "group_key": "uforce",
+     "title": "Ukrainian defencetech UFORCE raises $700M Series A at $6B valuation",
+     "publisher": "Tech.eu",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRWRkVnY1WWJzaUhRSHNaOTdhUkllc0NHbHphNjkwd0dZeTdkVGJNdW93VUp0SnhwdTNjT25falhwclQ3TTNOdDRwOHBwWWVzNkYtemtoOE82RnJRMFItRC1HUm9OMTdIWEwtcUNCM3c3a013a1dkSTViSUN4b0dJOEQ0SmRGdlhoQkRBcFZyT3hQMDFITHNUMVVR?oc=5",
+     "published_at": "2026-11-12T10:55:11.000Z",
+     "amount_hint": "$700M",
+     "snippet": "Ukrainian defencetech UFORCE raises $700M Series A at $6B valuation Tech.eu",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "62b82e7fe182",
+     "group_key": "uforce",
+     "title": "UForce raises $700 million at a $6 billion valuation to build more drones in Ukraine and abroad",
+     "publisher": "Defence Industry Europe",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOXzIzZDd0SkxYeHpaa1BITDJTWVR4WmhYUkFJekhZRTB2cXhfTndXSTA4Mkl3aHAwX1hJUS1Fc0RlZ3ZlV1ZidkdtVkNULWNTRjZzX0tFdm5kN19xNll2SW5vQWxiWjNfQk5Odkh1SmFqM01obUxmSXZ5NDdlR1RQVFUxWFhSSlNDYjBXdzZNS1pjSXdEcnNVUUNRQzFtZzlIcldCM3BGTHhzSS00NTFzbVBBdVpXVDNPT290UlR4RQ?oc=5",
+     "published_at": "2026-11-12T18:03:55.000Z",
+     "amount_hint": "$700 million",
+     "snippet": "UForce raises $700 million at a $6 billion valuation to build more drones in Ukraine and abroad Defence Industry Europe",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "575d604977b1",
+     "group_key": "uforce",
+     "title": "Ukraine-founded drone startup UForce secures $700 million funding round at $6 billion valuation",
+     "publisher": "Central Oregon Daily",
+     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPcnp4V2l3cDh6eTNYZVBRb2lKdDhZVUlrb0VOVHQ5cWRZQmMxSTFPcHJQV3JUUC1XMVlBU2pEalAxa25oemtZQWpERTMtRGFSTG41Y19BcTZQdnFkb3hYNnhfOE1iZjl5eUVhRzIxdG5OUjFYdmdUclQ5ODFPdUh2aG9MazJ1Uk5YRnoxdURTSXRINktNbEhrY2xlR1lwTm1ibGlnM0d0bjRtenNEUFlnTUpCQ3pncXZHN05uWi1kVjJNWWtQN3pmY2p4Mi1fSkpBbndHTTZnMzB3dmJYZFFJeHJlTzdyc3JBVmhDVERuem5kVjRCVlRhb19ZZkpJT09FdzM3ZGRGTHRSa2pZWkVuMFp2YmxnY1JHeWVYdw?oc=5",
+     "published_at": "2026-11-12T10:44:21.000Z",
+     "amount_hint": "$700 million",
+     "snippet": "Ukraine-founded drone startup UForce secures $700 million funding round at $6 billion valuation Central Oregon Daily",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "b71e48d27ba8",
+     "group_key": "uforce",
+     "title": "Ukrainian-founded drone maker UForce raises $700 million at $6 billion valuation",
+     "publisher": "The Kyiv Independent",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLU9SVEhoVlZsSml5akx3bWgwdVBjTjl0dEdNUkFCdXk1WWg0X2Jaam9jYWo3RjUtM3ZmNWg4NjRKOEYxQU83MDFfa1NKRmZKNzA2M0R0NmIzamlSS05IRTRWc1BISnpuT3RfRkNPWGVjMVJUVDl0TTlsNEwzVkNmMjdaX1FVUTIwbVotRDQ4eXlpbktreWlsb1lsQXRaVzJLcGlJR3VoaDRhd2M?oc=5",
+     "published_at": "2026-11-13T13:36:12.000Z",
+     "amount_hint": "$700 million",
+     "snippet": "Ukrainian-founded drone maker UForce raises $700 million at $6 billion valuation The Kyiv Independent",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "43adfd79770f",
+     "group_key": "uforce",
+     "title": "Ukrainian Drone Company UFORCE Raises $700 Million to Expand Defense Manufacturing Worldwide",
+     "publisher": "Dronelife",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PeFBhaS1tN2U0bDY2Zm93VWV2Nl9ITWZETGQxZGdyMllYS1ZKTXFVZHoxQV9rUTFkanZLckNWc095YXdEU3IwdWNMbUY4ZktfWVdLU2F1ZVhsdjB2a3FYYWx3UFdaNGxwTlZZUHNqbmFhN3Vl?oc=5",
+     "published_at": "2026-11-12T13:18:39.000Z",
+     "amount_hint": "$700 Million",
+     "snippet": "Ukrainian Drone Company UFORCE Raises $700 Million to Expand Defense Manufacturing Worldwide Dronelife",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "2fff8999c13c",
+     "group_key": "uforce",
+     "title": "Ukrainian-Founded UFORCE Raises $700 Million to Scale Combat-Proven Drones and Robots",
+     "publisher": "UNITED24 Media",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOckRfVjUxOTR2alNvR3pnUHFTbW53T0NTQUFpazlrNnJsNUVrRVdCX0hPSWdqdTBUdmNNakRUSkhoSEtDUERuck9WWFd0a0s4TWY3N3FydjltQjFmNjh5bVRUMzRrdG03aFBRNVA1ZHFsVnZlVjl2NVJwTzVCSHJqdVVEcXNDR3lNWi1mNEJrMTdmV0JYdGVLX2NtZVoweDk5ZklaTjdvbzhWVjlmNmVfSGdPaDRWR0R6Y1Q1bWpzdW1tOFhlNEVuUg?oc=5",
+     "published_at": "2026-11-12T17:18:03.000Z",
+     "amount_hint": "$700 Million",
+     "snippet": "Ukrainian-Founded UFORCE Raises $700 Million to Scale Combat-Proven Drones and Robots UNITED24 Media",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "e18f580efd3c",
+     "group_key": "uforce",
+     "title": "UFORCE: $700 Million Series A At $6 Billion Valuation Expands Defense Manufacturing",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/uforce-700-million-series-a-at-6-billion-valuation-expands-defense-manufacturing/",
+     "published_at": "2026-11-12T21:32:15.000Z",
+     "amount_hint": "$700 Million",
+     "snippet": "UFORCE has raised $700 million in Series A financing at a $6 billion valuation to expand production of autonomous defense systems for Ukraine and allied countries. Valor Equity Partners and the UK National Wealth Fund co-led the round, with participation from the U.S.-Ukraine Reconstruction Investment Fund. Other investors included Menlo Ventures, Xantium and Hiro Capital, while existing backers Shield Capital, Ballistic Ventures, Lakestar and Squadra increased their investments.\nThe post UFORCE: $700 Million Series A At $6 Billion Valuation Expands Defense Manufacturing appeared first on Puls",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "cee startup",
+   "company_guess": "CEE Startup",
+   "amount_hint_usd": 630000000,
+   "articles": [
+    {
+     "id": "d627b216acbe",
+     "group_key": "cee startup",
+     "title": "CEE Startup & Tech Weekly: UFORCE’s €630M Round, AI Deals & New Funds",
+     "publisher": "The Recursive",
+     "url": "https://www.therecursive.com/cee-startup-tech-weekly-13/",
+     "published_at": "2026-11-13T12:09:07.000Z",
+     "amount_hint": "€630M",
+     "snippet": "CEE Startup & Tech Weekly: UFORCE’s €630M Round, AI Deals & New Funds The Recursive",
+     "text_status": "ok",
+     "text": "CEE Startup & Tech Weekly: UFORCE’s €630M Round, AI Deals & New Funds\nThe Recursive’s weekly roundup aims to cover key tech developments across Central and Eastern Europe, as well as the growing impact of CEE-born founders on the global stage. Take a look at the latest news in funding, startup milestones, and emerging trends tied to the region’s innovation potential.\nCEE Weekly News Deals\nThe Recursive\nby\nThe Recursive\nNovember 13, 2026 ∙ 2 min read\nShare\nBlackPeak Capital\nWritten by\nThe Recursive\nEditor’s Choice\nMeOut Summit 2026\nCan Europe Fix a 20-Year Angel Investing Gap Before Its Best Founders Leave for the US?\nHow Public Funding Prepares Deep Tech Startups for VCs and Builds Company Value\nNews & deals\nUFORCE, the Ukrainian company behind the MAGURA sea drones , has raised €630 million ($700 million) . The round was co-led by Valor Equity Partners and the UK National Wealth Fund (NWF). New investors include the US–Ukraine Reconstruction Investment Fund (URIF), Menlo Ventures, Xantium and Hiro Capital. Existing backers Shield Capital, Ballistic Ventures, Lakestar and Squadra increased their stakes.\nWorker.ai , a company operating system for small businesses backed by Veeam founder Ratmir Timashev, has acquired DeltaGen , a Prague-based startup that builds real-time voice AI. The financial terms of the deal were not disclosed. All three of DeltaGen’s founders are moving to Worker. DeltaGen’s team of around 10 people will stay in Prague.\nVilnius-based Biomatter , which uses AI to design enzymes, has raised an oversubscribed €16.2 million ($18 million) Series A . The round was led by Astanor , with existing investors UVC Partners, Inventure and Metaplanet also taking part. Founded in 2018, Biomatter designs enzymes by starting from the chemical reaction a customer needs .\nCzech medtech startup Kardi AI has raised €5.3 million in a Series A round led by German healthtech fund Callisto Health. According to the company, this is the largest round a Czech medtech startup has raised to date. Česká spořitelna and Slovenská sporiteňa joined through their corporate venture programmes. Earlier backers BrightCap Ventures, Purple Ventures, DEPO Ventures and Garage Angels also put in money. After the round, Kardi AI is valued at €23 million.\nHedepy, the Prague-based online therapy platform operating in nine European countries, has secured €4 million in venture debt from Orbit Capital to fund acquisitions and expand into clinical care and AI tools — aiming to consolidate Europe’s fragmented mental health market.\nValkyrie Dynamics, the Ukrainian-Lithuanian defense startup building a 100-gram radar seeker that lets low-cost drones intercept targets through cloud and fog, raised €1 million in a pre-seed round led by Paris-based venture studio Hexa — developed and field-tested alongside operators in Kyiv.\nRomanian edtech company Kinderpedia , which has developed a management and communication platform for schools and kindergartens, has secured a €500,000 investment from BCR Seed Starter , the corporate venture capital arm of BCR. The investment completes Kinderpedia’s €2.7 million funding round , led by Polish fund Simpact Ventures, with participation from existing investors Early Game Ventures and ROCA X.\nItalian-founded legal AI company Lexroom has launched lex , an AI-powered personal assistant for lawyers accessible through WhatsApp, just two months after acquiring Bulgarian legal tech company Praven Intelekt . The new product aims to help legal pr"
+    }
+   ]
+  },
+  {
+   "group_key": "oura",
+   "company_guess": "Oura",
+   "amount_hint_usd": 625000000,
+   "articles": [
+    {
+     "id": "5a78a242fed2",
+     "group_key": "oura",
+     "title": "Oura buys Counsel Health for $625M as smart-ring maker bets on AI doctors after IPO delay",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/oura-buys-counsel-health-for-625m-as-smart-ring-maker-bets-on-ai-doctors-after-ipo-delay/",
+     "published_at": "2026-11-11T12:59:38.000Z",
+     "amount_hint": "$625M",
+     "snippet": "Oura, the Finnish-founded, San Francisco-based smart-ring maker, has agreed to acquire AI-native primary care company Counsel Health for…",
+     "text_status": "thin",
+     "text": "November 13, 2026\nWho is Colette Kress? Meet Nvidia’s interim CEO taking over after Jensen Huang’s exit\nby Abhinaya Prabhu"
+    }
+   ]
+  },
+  {
+   "group_key": "8 baltic startups to",
+   "company_guess": "8 Baltic startups to",
+   "amount_hint_usd": 607000000,
+   "articles": [
+    {
+     "id": "d57c9095e5ad",
+     "group_key": "8 baltic startups to",
+     "title": "8 Baltic startups to watch, according to top VCs",
+     "publisher": "Sofia Chesnokova",
+     "url": "https://techfundingnews.com/8-baltic-startups-to-watch-according-to-top-vcs/",
+     "published_at": "2026-11-13T11:28:37.000Z",
+     "amount_hint": "€607 million",
+     "snippet": "In 2025, startups from Lithuania, Latvia, and Estonia raised €607 million, a 20% increase over the €505 million…",
+     "text_status": "thin",
+     "text": "November 13, 2026\nWho is Colette Kress? Meet Nvidia’s interim CEO taking over after Jensen Huang’s exit\nby Abhinaya Prabhu"
+    }
+   ]
+  }
+ ]
+}
