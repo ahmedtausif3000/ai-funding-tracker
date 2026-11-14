@@ -1,0 +1,292 @@
+{
+ "run_date": "2026-11-14",
+ "part": 9,
+ "groups": [
+  {
+   "group_key": "nebuly",
+   "company_guess": "Nebuly",
+   "amount_hint_usd": 21000000,
+   "articles": [
+    {
+     "id": "0aa2a3a4b17e",
+     "group_key": "nebuly",
+     "title": "Nebuly raises $21 million to measure AI returns",
+     "publisher": "Coverager",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Bc3NENk5ROVZ1aHpsTDdzVzJoYkZWcE51RURwakxDNFJlaEJRT1A0Y1ZfRG1oRFB5MU9td2x4VVdveHYxRzEtREkxZldtckdwLTB5V005ME5EUnprZENtblIzV0FBRWtubVVPenV5eUhqNUR1dmhJMA?oc=5",
+     "published_at": "2026-11-12T23:33:05.000Z",
+     "amount_hint": "$21 million",
+     "snippet": "Nebuly raises $21 million to measure AI returns Coverager",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "67e3dbcbdecc",
+     "group_key": "nebuly",
+     "title": "Nebuly: $21 Million Series A Funding Led By Planven To Expand Enterprise AI Return On Investment Platform",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/nebuly-21-million-series-a-funding-led-by-planven-to-expand-enterprise-ai-return-on-investment-platform/",
+     "published_at": "2026-11-14T13:47:55.000Z",
+     "amount_hint": "$21 Million",
+     "snippet": "Nebuly, an enterprise AI analytics company headquartered in New York and Turin, Italy, has raised $21 million in Series A funding led by Planven. The financing will support the expansion of its platform for measuring the financial and operational value of AI agents, along with additional sales and engineering investments across the United States and Europe. The round included participation from Exor Ventures, Tenacity Capital, TGVG Capital, and Fastweb+Vodafone through Founders Factory, alongside returning investors and angel investors.\nThe post Nebuly: $21 Million Series A Funding Led By Plan",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "scottsdale startup",
+   "company_guess": "Scottsdale startup",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "6f0c8a78229b",
+     "group_key": "scottsdale startup",
+     "title": "Scottsdale startup raises $20 million to scale AI medical coding platform",
+     "publisher": "The Business Journals",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeGJGOEpZYkVXLTZxRHd0RVZFb3M4dE5tR1UzalJPVTJPS3NSQ25tQjROZndObjdoNTVpbTNTeklBVGdrcWtfQWQzTlB0bHFjUW1kQmFGVUlUTDJ6RVhnQzd3a0ZzME5WbXFOOUpJNmwyZUI2eVROX1ZmLWxfOE9nZG8xZXFKanFEWERKRVFJcUxvV1BUTFotcGFHTnhYeEM4?oc=5",
+     "published_at": "2026-11-13T12:15:00.000Z",
+     "amount_hint": "$20 million",
+     "snippet": "Scottsdale startup raises $20 million to scale AI medical coding platform The Business Journals",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "bec53711610a",
+     "group_key": "scottsdale startup",
+     "title": "Scottsdale startup raises $20 million to scale AI medical coding platform",
+     "publisher": "Howl.Link",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBBN0U5UjJOWThDTnBzeFhzUG80aFZaZzlOR2EzeXJtb1VjejRiSXNzRC1za1JaQ0c4dTM0?oc=5",
+     "published_at": "2026-11-13T12:15:00.000Z",
+     "amount_hint": "$20 million",
+     "snippet": "Scottsdale startup raises $20 million to scale AI medical coding platform Howl.Link",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "whitematter",
+   "company_guess": "WhiteMatter",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "4a6b94a590e6",
+     "group_key": "whitematter",
+     "title": "WhiteMatter Raises $20 Million to Govern AI Agents With AI Agents",
+     "publisher": "news.lavx.hu",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmxFcVdSaGhIaEl2c2tRLVFsRlZ6eWxlNHkxdWNRdjJ3ekNPYU1MQnZzNF9iRDhLYkRfSzNLa3Rjc3hLdXhxSUF1TmlnSFh3WVdKX2lfZ2tsSUxVV0t3aHpTT1RiU3AxOTREREdIa0RwT2JtTTlQb3dSSl8tZHRRbU9YLXVFTzJvNnhzLW1sZnZMcXg3ZU5jYQ?oc=5",
+     "published_at": "2026-11-14T07:11:55.000Z",
+     "amount_hint": "$20 Million",
+     "snippet": "WhiteMatter Raises $20 Million to Govern AI Agents With AI Agents news.lavx.hu",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "drogue",
+   "company_guess": "Drogue",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "b540537ab1c1",
+     "group_key": "drogue",
+     "title": "Drogue raises $20 million to power floating AI data centers with the ocean's heat",
+     "publisher": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0YyTHFGVjhzZEZGSDltaWlXaE5JNXRPLS1Zd2FsVHVidXJXdzZSWHNQc1VXUnNDbU1wMGZRb0prTXBFNWpKRXhWMkxPcktSWlF5LVp1ZWNRZjlSeU5vcjlfRFoxQnpqTUR1RkN2SzVOTURtbzM3bndmUDNnZWxfYzY3RUt4UXlRdnBTX25uSF9uREVjQld3dGdvWVEyRHJNcVE?oc=5",
+     "published_at": "2026-11-13T21:52:10.000Z",
+     "amount_hint": "$20 million",
+     "snippet": "Drogue raises $20 million to power floating AI data centers with the ocean's heat MLQ.ai",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "f4bce455c9ea",
+     "group_key": "drogue",
+     "title": "Drogue Raises $20 Million and Plans Ocean-Thermal Data Center at Sea",
+     "publisher": "www.tokenpost.com",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zckxHSUIzRzNGbU1iYmk0S3NLcUoyZnpwVGNXNHJxeWVEcWtsY2FybXFBbHI2OW81Z2FoaU9xOWxxYnJzNnZOWDd2UzVxVGltSmpqZUNSNlQ?oc=5",
+     "published_at": "2026-11-13T20:20:47.000Z",
+     "amount_hint": "$20 Million",
+     "snippet": "Drogue Raises $20 Million and Plans Ocean-Thermal Data Center at Sea www.tokenpost.com",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "uk bank griffin",
+   "company_guess": "UK bank Griffin",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "1449ac5a30ba",
+     "group_key": "uk bank griffin",
+     "title": "UK bank Griffin raises $20M Series B led by Octagon to expand into cards and stablecoins",
+     "publisher": "CryptoRank",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TVHJieTQyWFRvaDV2RlBacGRUTUI4RllXb0xwSlczeXF0SVdDY1R4a210VnpoWEdnQXNGal9TQVc1eEY3Nmx6dUdYNHRVTDBhUkpBNzUzMjh1a3JJYUhKWnkzczdUOGpFaFBLLTEtcG9QQQ?oc=5",
+     "published_at": "2026-11-13T09:35:22.000Z",
+     "amount_hint": "$20M",
+     "snippet": "UK bank Griffin raises $20M Series B led by Octagon to expand into cards and stablecoins CryptoRank",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "d0920ea0b17a",
+     "group_key": "uk bank griffin",
+     "title": "Griffin Raises $20M Series B for Stablecoins and Cards",
+     "publisher": "CoinMarketCap",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmpDTXVWNzZLUTVsZXZNYVRwaGtQOG91VDQ5WWJLZHhOd2lWYW1uZ09FcmdnSXZlSnFOUXBuSUVGZXlwR1p3ZmN1WU84NjhTR1hhcWp0OFFSRkplaHh4blJaOU82cGRvbmN5TXpTZ2ZWYzBnNllJWWlrbGNRYmp6Qi11WG9RY1pQcHVtZHhkUnFySElrVlEtX3JRRGY1VC1XUEVv?oc=5",
+     "published_at": "2026-11-12T18:51:47.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Griffin Raises $20M Series B for Stablecoins and Cards CoinMarketCap",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "862d0485b87c",
+     "group_key": "uk bank griffin",
+     "title": "Griffin: $20 Million Series B Funding Led By Octagon Partners To Expand Card Issuing And Stablecoin Banking Services",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/griffin-20-million-series-b-funding-led-by-octagon-partners-to-expand-card-issuing-and-stablecoin-banking-services/",
+     "published_at": "2026-11-14T13:49:53.000Z",
+     "amount_hint": "$20 Million",
+     "snippet": "Griffin, a United Kingdom-based licensed bank providing embedded banking infrastructure to fintech companies and technology platforms, has raised $20 million in Series B funding led by Octagon Partners. Notion Capital, A+ Ventures, Nordic Ninja, Breega, and other existing investors participated in the round, which values Griffin at more than $100 million.\nThe post Griffin: $20 Million Series B Funding Led By Octagon Partners To Expand Card Issuing And Stablecoin Banking Services appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "nexera",
+   "company_guess": "Nexera Technologies",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "5edd2ecb31b4",
+     "group_key": "nexera",
+     "title": "Nexera Technologies Announces Fort Technology Secures Up to $20 Million Convertible Note Financing From Institutional Investors",
+     "publisher": "Quiver Quantitative",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaXQ2SVJmQUVTMktnWllGcVNBVWtxbERzeDhLbmVsenNBUGdHNGNfMGZ1VTlZSVlPT2M0cjE1am8tSXdEUXBGa0h0cEg0dEVFQVZzSjV1Q1hnRjlkWlk0VXFCRjBGVHNteXAyY0Zlb2YxODdiLUdLcmhsXzN3VzdPcGpUVEdFUU5WQnNyQXVwMFVUN0xldEM2WHNYWGlMdFBwNEw5dmltZmZOeGdkUnllbDVUZ0c5eG54TXpRYlp2RnhqUjJPRk4teXZTaUkxYkViSlkwQ3dNSVBtazRSRFhSbnE3OXEzckdVeWJ5bkJJN0xkYUda?oc=5",
+     "published_at": "2026-11-13T12:00:00.000Z",
+     "amount_hint": "$20 Million",
+     "snippet": "Nexera Technologies Announces Fort Technology Secures Up to $20 Million Convertible Note Financing From Institutional Investors Quiver Quantitative",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "bank behind ubers uk",
+   "company_guess": "Bank behind Uber’s UK",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "2b0f686d4979",
+     "group_key": "bank behind ubers uk",
+     "title": "Bank behind Uber’s UK driver accounts raises $20M at $100M+ valuation to add cards and stablecoins",
+     "publisher": "Sofia Chesnokova",
+     "url": "https://techfundingnews.com/griffin-20m-series-b-cards-stablecoins/",
+     "published_at": "2026-11-12T10:00:00.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Griffin, a London-based bank established in 2017, offers bank accounts alongside Uber’s Pro Card for UK drivers and…",
+     "text_status": "thin",
+     "text": "November 13, 2026\nWho is Colette Kress? Meet Nvidia’s interim CEO taking over after Jensen Huang’s exit\nby Abhinaya Prabhu"
+    }
+   ]
+  },
+  {
+   "group_key": "biomatter",
+   "company_guess": "Biomatter",
+   "amount_hint_usd": 18000000,
+   "articles": [
+    {
+     "id": "904b031cdb8b",
+     "group_key": "biomatter",
+     "title": "Enzyme Design Firm Biomatter Raises $18M in Series A Round",
+     "publisher": "GenomeWeb",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX0lZSTJIX2k4cDdwQzljZDg0aEo0Zk1zdncyTERKczJCOTdLZjNiMnRGNXhpTlk1dnYzakN6RmNISER4cXZjaHpqNTNGZWU1aHZ6SHIzNjZmSHFzODJ4NTlPemJwSVFBZExaMmFYNU9mVTNKN1Q4bmxhYUZSVlpjc1RSTlBiYnlrZXc2WXR5aFN5aEhNUHc5YXM1QmxOWFI4VDBQQ0pSak4yTVdEbktfQg?oc=5",
+     "published_at": "2026-11-13T15:15:00.000Z",
+     "amount_hint": "$18M",
+     "snippet": "Enzyme Design Firm Biomatter Raises $18M in Series A Round GenomeWeb",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "df57e1454e38",
+     "group_key": "biomatter",
+     "title": "Biomatter: $18 Million Series A To Expand AI-Designed Enzyme Platform",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/biomatter-18-million-series-a-to-expand-ai-designed-enzyme-platform/",
+     "published_at": "2026-11-12T16:18:42.000Z",
+     "amount_hint": "$18 Million",
+     "snippet": "Biomatter has raised $18 million in an oversubscribed Series A round to expand its artificial intelligence-powered enzyme design platform, commercial organization, and U.S. presence. Astanor led the financing, with participation from existing investors UVC Partners, Inventure, and Metaplanet.\nThe post Biomatter: $18 Million Series A To Expand AI-Designed Enzyme Platform appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "77b73d7c933f",
+     "group_key": "biomatter",
+     "title": "Biomatter lands $18M from Astanor and UVC Partners to build a Vilnius enzyme lab",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/biomatter-lands-18m-from-astanor-and-uvc-partners-to-build-a-vilnius-enzyme-lab/",
+     "published_at": "2026-11-12T13:20:50.000Z",
+     "amount_hint": "$18M",
+     "snippet": "Enzymes power processes across pharmaceuticals, food production, diagnostics and industrial manufacturing. However, developing a custom enzyme for a…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "4minds",
+   "company_guess": "4Minds",
+   "amount_hint_usd": 15000000,
+   "articles": [
+    {
+     "id": "b108bbdf46a6",
+     "group_key": "4minds",
+     "title": "4Minds Raises $15M Series A at $500M Valuation to Advance Its AI Platform",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2RBVU1UQmNCNWxqUVFJYWE4VzdYdm4yU1B6OWw2UTdOLXhucmtpS0JNZm1DRkZVSUVlWUNoVEFrY2VlVDNFMllIbkVKVWc0UnNWdTgtM1VkNWk5aGU2YkhkNHVHTHVwRzR4ZGZlX2E4bDh1b3hFSnp1Z0ZoSGQxNHFWV2lsdUlDcXRIZmNJWU1VamxoVzNESA?oc=5",
+     "published_at": "2026-11-12T21:13:01.000Z",
+     "amount_hint": "$15M",
+     "snippet": "4Minds Raises $15M Series A at $500M Valuation to Advance Its AI Platform Unite.AI",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "5a430794ba91",
+     "group_key": "4minds",
+     "title": "4Minds: $15 Million Series A Funding At $500 Million Valuation To Expand Enterprise AI Platform",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/4minds-15-million-series-a-funding-at-500-million-valuation-to-expand-enterprise-ai-platform/",
+     "published_at": "2026-11-12T21:19:34.000Z",
+     "amount_hint": "$15 Million",
+     "snippet": "4Minds, a Dallas-based contextual AI platform provider, has raised $15 million in Series A funding at a $500 million post-money valuation. Investors include Waterwood Capital Group, Isom Holdings, and several family offices associated with the energy and data center industries.\nThe post 4Minds: $15 Million Series A Funding At $500 Million Valuation To Expand Enterprise AI Platform appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "osmunda",
+   "company_guess": "OSMUNDA",
+   "amount_hint_usd": 15000000,
+   "articles": [
+    {
+     "id": "64caaf607d4a",
+     "group_key": "osmunda",
+     "title": "OSMUNDA raises ~$15M Series D to build device factory and AI platform",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFJjUjZ6MEIxQ0VvYXI2NWYwOUEyQzhwZDU4dDRBdjh5d1JsNklvLWlwcVRaQWdlaXFzMHB6NWdaYVFHcUVLR21lUG9nN1lFVFVOVGkwbTgtalhFTXVqYWpiYUlhRVlOcnpnZkxFNjhTaWdUVU5PQ2o1NkdGNnNveDhQWmRHczNrNmJnYkItZFBQZzRSZnFtZUl3VjA4ZE1VOEZn?oc=5",
+     "published_at": "2026-11-13T17:20:17.000Z",
+     "amount_hint": "$15M",
+     "snippet": "OSMUNDA raises ~$15M Series D to build device factory and AI platform Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

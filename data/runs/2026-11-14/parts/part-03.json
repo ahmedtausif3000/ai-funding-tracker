@@ -1,0 +1,436 @@
+{
+ "run_date": "2026-11-14",
+ "part": 3,
+ "groups": [
+  {
+   "group_key": "softbank tse",
+   "company_guess": "SoftBank (TSE",
+   "amount_hint_usd": 500000000,
+   "articles": [
+    {
+     "id": "509d670dce5c",
+     "group_key": "softbank tse",
+     "title": "SoftBank (TSE:9434) Leads $500 Million Agile Robots Funding Round",
+     "publisher": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/technology/ai/articles/softbank-tse-9434-leads-500-062035919.html",
+     "published_at": "2026-11-14T06:20:00.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "SoftBank (TSE:9434) Leads $500 Million Agile Robots Funding Round Yahoo Finance",
+     "text_status": "error:fetch failed",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "agile robots",
+   "company_guess": "Agile Robots",
+   "amount_hint_usd": 500000000,
+   "articles": [
+    {
+     "id": "66b892f6cc49",
+     "group_key": "agile robots",
+     "title": "Agile Robots raises USD 500 million in SoftBank-led funding round",
+     "publisher": "Telecompaper",
+     "url": "https://www.telecompaper.com/news/agile-robots-raises-usd-500-million-in-softbank-led-funding-round--1588759",
+     "published_at": "2026-11-13T03:55:58.000Z",
+     "amount_hint": "USD 500 million",
+     "snippet": "Agile Robots raises USD 500 million in SoftBank-led funding round Telecompaper",
+     "text_status": "ok",
+     "text": "Markets\nMobile\nBroadband\nSatellite\nVideo\nSemiconductor\nIT\nEnterprise Solutions\nNetwork Equipment\nTopics\nData Centre\nSecurity\nArtificial Intelligence\nConsumer devices\nHandsets\n5G\n6G\nSpectrum\nFibre\nFocus\nConsumer\nEnterprise\nWholesale\nMerger & Acquisition\nFinance\nR&D\nPricing\nPolicy & Regulation\nMarket Research\nManagement / Staff\nRegions\nWorld\nEurope\nNorth America\nLatin America\nAsia\nOceania\nAfrica\nWestern Europe\nEastern Europe\nMiddle East\nUnited Kingdom\nGermany\nFrance\nSpain\nItaly\nBenelux\nPartners\nArticle\nWhite papers\nJobs\nIndustry Events\nPartner List\nInsight\nResearch\nMVNO\nReports\nConsumer Insight\nBackground\nCommentary\nCalender\nAbout\nTelecompaper\nNews Subscription\nAdvertising\nPress\nFAQ\nJobs\nGERMANY 13 NOV\nAgile Robots raises USD 500 million in SoftBank-led funding round\nMunich-based robotics company Agile Robots has raised USD 500 million in a Series F funding round led by SoftBank Group, valuing the company at USD 8.5 billion. The investment brings its total funding to approximately USD 2 billion. Other participants in the round include Nvidia, Hitachi Group, comprising Hitachi and Hitachi Ventures, and T.Capital. The company develops robotics hardware and software, including humanoid and mobile robots, robotic arms and hands, and AI models for industrial automation.\nRegister for free and read this article\nAfter registration with your email address and a password, you'll get an 6-digit verification code which you need to enter in the next step. This will give you direct access to the selected article.\nAlready have an account?\nLog in\nContinue with Google\nContinue with LinkedIn\nFirst name\nLast name\nEmail Address\nPassword\nCompany\nJob Function\nLoading...\nWith your registration you will receive the daily TP:Today and occasional mailings from Telecompaper or partners.\nBy clicking “Create your account”, you agree to the Terms and Privacy Policy\nTerms of Service\nand\nPrivacy Policy\nCreate your account\nYou want to see all possible subscriptions?\nYes, show all\nComplete profile\nBefore downloading the whitepaper, we would like to ask you to complete your profile with company and position. After confirming you will receive the white paper.\nCompany\nJob Function\nLoading...\nConfirm\nFollow Telecompaper on\nLinkedIn Bluesky Free Headlines\nTelecompaper\nWe have been keeping professionals in the telecoms industry up-to-date since 2000. Telecompaper is a well respected, independent research and publishing company focussed on the telecommunications industry.\ntp:news\ntp:research\ntp:events\nThis Site\nMy account\nAlerts\nSubscriptions\nFAQ / Help\nAdvertise\nPress\nJobs\nIndustry events\nContact Information\nUtrechtseweg 44\n3704 HD Zeist\nThe Netherlands Phone: +31 30 6349600\nLegal Information\n© 2000 - 2026 Telecom.paper BV. All rights reserved. Telecompaper is a trademark of Telecom.paper BV. No part of this site can be reproduced without the expressed permission of Telecom.paper BV. Our General Terms and Conditions can be found here.\nPrivacy Policy\nGDPR Information\nCookie Statement\nTerms and Conditions"
+    },
+    {
+     "id": "49a55434dde3",
+     "group_key": "agile robots",
+     "title": "Agile Robots Raises $500 Million to Scale Physical AI in Factories",
+     "publisher": "Kingy AI",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03S2ZyeU56THRhSkJoTGFkZVkzNTlENm5MVUlvVlhBdW9vNHlGTU5NMTdCeHFDWFA0SkFwb1h0cUJFT3JvYmJDcDgxazhZLTZmLUtkdlpkazJOaEpQZEVwTm5qNlhFdnM?oc=5",
+     "published_at": "2026-11-13T04:34:21.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "Agile Robots Raises $500 Million to Scale Physical AI in Factories Kingy AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "a18a51d67b65",
+     "group_key": "agile robots",
+     "title": "Agile Robots Raises $500M Series F: Humanoid Factory Capacity Is Public, Shipment Count Is Not",
+     "publisher": "Tech Times",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ05ELV9RY2VJRV9HWi1YVGU0LWRicXlFTjI1REt0Zm9GR1Nfb2NmNzRJMzVXQ0lJMG5kZ1dYcl91YmpucFRGRmloM0sycGZyZDNlX2U2eXdHV1NKR3pQRGY2VGU5TllET3lMYWFla3pHemVyR1dSMG5hZGRrdE43QV82eDlNaXRQM0hYczJKN215b0ZpWDd4dWptTElTcXZVa05TWFhIX2UyWVZXbUJBQ1hiUzVuR3dWMGdEVWVEX0NZaXBUVlQ0d3ZZclNhaTZqUGk4Vm5aOA?oc=5",
+     "published_at": "2026-11-13T05:00:21.000Z",
+     "amount_hint": "$500M",
+     "snippet": "Agile Robots Raises $500M Series F: Humanoid Factory Capacity Is Public, Shipment Count Is Not Tech Times",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "3d1d03054237",
+     "group_key": "agile robots",
+     "title": "Agile Robots: $500 Million Series F Led By SoftBank With Nvidia Participation At $8.5 Billion Valuation",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLXBJTkNWdFo3d0Y4V2FnNXFKMUluLUJhSUY2aHRFRkdDNmlTMG9DaVBUYmNfMTY4U3A4WUJFTFlWbUdvM0lYMW91akdhX2s5ellqWVRGMUpka3doMXRKY3VyR2tscGZJdEFFQ0R1WFdfVEZTdWFmY25iVEtUX0ZSc1g2S0pfZjY3QmZUOGI1R1BrUmNsUjl6LXFYd2FwSFNkLTNtNEwwNUhBYWhZWm5KaFl1akUyODNFa2YtVg?oc=5",
+     "published_at": "2026-11-12T21:42:47.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "Agile Robots: $500 Million Series F Led By SoftBank With Nvidia Participation At $8.5 Billion Valuation Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "6707f0df3de2",
+     "group_key": "agile robots",
+     "title": "Agile Robots: $500 Million Series F Led By SoftBank With Nvidia Participation At $8.5 Billion Valuation",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/agile-robots-500-million-series-f-led-by-softbank-with-nvidia-participation-at-8-5-billion-valuation/",
+     "published_at": "2026-11-12T21:42:47.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "Agile Robots, a Munich, Germany-based developer of AI-powered industrial robotics, has raised $500 million in Series F funding at an $8.5 billion valuation, according to The New York Times. The financing was led by SoftBank Group, with participation from Nvidia, Hitachi Group, including Hitachi Ventures, T.Capital, and other investors. The round brings Agile Robots' total funding to approximately $2 billion and positions the company among Europe's most valuable robotics businesses.\nThe post Agile Robots: $500 Million Series F Led By SoftBank With Nvidia Participation At $8.5 Billion Valuation ",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "vulcanforms",
+   "company_guess": "VulcanForms",
+   "amount_hint_usd": 500000000,
+   "articles": [
+    {
+     "id": "9193af7629d4",
+     "group_key": "vulcanforms",
+     "title": "VulcanForms announces $500M financing agreement",
+     "publisher": "Worcester Business Journal",
+     "url": "https://wbjournal.com/article/vulcanforms-announces-500m-financing-agreement/",
+     "published_at": "2026-11-13T19:46:58.000Z",
+     "amount_hint": "$500M",
+     "snippet": "VulcanForms announces $500M financing agreement Worcester Business Journal",
+     "text_status": "ok",
+     "text": "Economy Real Estate Technology\nVulcanForms announces $500M financing agreement\nVulcanForms plans to build three factories by the end of 2027, fueled by a $500 million financing deal the company announced Thursday. Photo I Courtesy VulcanForms\nBy Paula J. Owen\nNovember 13, 2026\nShare\nCopy URL\nEmail\nFacebook\nX\nLinkedin\nVulcanForms plans to build three factories by the end of 2027 including one in Massachusetts, fueled by a $500 million financing deal the company announced Thursday.\n“Factory No. 4” is planned for Massachusetts, according to VulcanForms CEO Kevin Kassekert, who confirmed the company also plans to double its workforce to approximately 1,000 by the end of 2027.\nThe financing, led by J.P. Morgan and Apollo-managed funds, supports three additional factories by the metal parts manufacturer that has existing operations in Newburyport and two in Devens where it is adding 1 million square-feet of manufacturing space .\nVulcanForms, a pioneer in advanced digital manufacturing, said it plans to use the funding to accelerate the next phase of American industrial production.\nBacked by multibillion-dollar commercial programs across critical industries, VulcanForms said it is expanding to meet growing customer demand, marking a milestone in the company’s transition from breakthrough manufacturing technology to industrial-scale production, according to a press release.\nADVERTISEMENT\nAs American industries seek to strengthen domestic production and reduce dependence on fragmented global supply chains, the challenge extends beyond technological innovation to manufacturing complex, high-performance components at the scale, speed and cost required to compete globally, the company said.\nVulcanForms is addressing the challenge through a fully integrated digital manufacturing platform that combines metal additive manufacturing, precision machining, automation and physical AI.\nBy unifying traditionally fragmented production processes, the company is establishing a new model for producing critical components competitively in the U.S., it says.\nKevin Kassekert, CEO of VulcanForms Photo I Courtesy VulcanForms\n“America cannot lead the next industrial revolution if we can’t manufacture what we invent,” Kassekert said. “For too long, breakthrough technologies developed here have been manufactured overseas.\nADVERTISEMENT\n“VulcanForms is proving we can change that by turning American innovation into industrial-scale production and demonstrating that the U.S. can not only compete, but also win on the global stage. We’re proud to work with J.P. Morgan and Apollo on helping to build America’s industrial future at home.”\nVulcanForms uses advanced 3D printing and machining to make complex metal parts for industries like aerospace, medical and defense. The company has presented itself as part of an effort to reshore manufacturing and to secure domestic supply chains.\nThe firm was awarded $21.26 million in tax credits from the Massachusetts Economic Assistance Coordinating Council to support the construction of a 1-million-square-foot advanced manufacturing facility in Devens.\nThe expansion is part of an effort to establish a multi-facility VulcanForms campus in Devens, according to ConnectCRE.com .\nADVERTISEMENT\nVulcanForms has secured multibillion-dollar commercial programs spanning medical devices, consumer products, aerospace, defense, space and industrial markets, demonstrating significant demand for its integrated manufacturing platform.\nVulcanForms was fo"
+    },
+    {
+     "id": "7aeaf01d518f",
+     "group_key": "vulcanforms",
+     "title": "VulcanForms: $500 Million Financing Led By J.P. Morgan And Apollo To Build Three New U.S. Manufacturing Factories",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/vulcanforms-500-million-financing-led-by-j-p-morgan-and-apollo-to-build-three-new-u-s-manufacturing-factories/",
+     "published_at": "2026-11-14T14:06:35.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "VulcanForms, a Boston-based advanced digital manufacturing company, has secured an agreement for $500 million in financing led by J.P. Morgan and funds managed by Apollo. The financing will support construction of three new factories, expansion of domestic production capacity, and further development of the company's integrated manufacturing platform as it responds to demand from customers across aerospace, defense, medical devices, consumer products, and industrial markets.\nThe post VulcanForms: $500 Million Financing Led By J.P. Morgan And Apollo To Build Three New U.S. Manufacturing Factori",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "peak 10 energy",
+   "company_guess": "Peak 10 Energy",
+   "amount_hint_usd": 500000000,
+   "articles": [
+    {
+     "id": "0e7d9b25792e",
+     "group_key": "peak 10 energy",
+     "title": "Peak 10 Energy: $500 Million Facility To Finance Oil And Gas Acquisitions",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/peak-10-energy-500-million-facility-to-finance-oil-and-gas-acquisitions/",
+     "published_at": "2026-11-12T16:14:33.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "Peak 10 Energy has established a financing partnership with U.S. Bank that provides as much as $500 million for acquisitions of producing oil and gas assets across the U.S.\nThe post Peak 10 Energy: $500 Million Facility To Finance Oil And Gas Acquisitions appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Peak 10 Energy: $500 Million Facility To Finance Oil And Gas Acquisitions\nBy Amit Chowdhry\nNov 12, 2026\nPeak 10 Energy: $500 Million Facility To Finance Oil And Gas Acquisitions\nPeak 10 Energy has established a financing partnership with U.S. Bank that provides as much as $500 million for acquisitions of producing oil and gas assets across the U.S.\nThe acquisition finance facility will support Peak 10’s strategy of consolidating packages weighted toward proved developed producing properties. These assets have established production and can generate more predictable cash flows than undeveloped acreage.\nU.S. Bank structured the facility to support later asset-backed securities issuances. That approach could provide longer-term institutional financing after Peak 10 completes and assembles acquisitions.\nPeak 10 was founded in 2023 and has completed 12 acquisition and divestiture transactions involving operated properties, non-operated interests, and mineral assets across U.S. onshore basins.\nThe new facility will allow the company to pursue larger transactions and close acquisitions more quickly. Peak 10 said it encountered additional opportunities during 2026 that it could have acquired if the facility had already been available.\nThe company also maintains a commodity hedging relationship with U.S. Bank. Hedging can help stabilize cash flow from acquired properties and support financing by reducing exposure to oil and gas price volatility.\nPeak 10’s strategy focuses on extending the productive lives of existing fields and infrastructure. The company expects this approach to support domestic energy production without depending solely on new exploration.\nLegacy Star Capital Partners backs Peak 10 and views the combination of producing-asset consolidation and asset-backed financing as a long-duration investment strategy.\nPetrie Partners originated the transaction and advised Peak 10. Baker Botts served as Peak 10’s legal adviser, while Haynes Boone represented U.S. Bank.\nKEY QUOTES\n“This facility and our commodity hedging relationship with U.S. Bank give us the financial firepower to close acquisitions at a scale that matches the opportunity we see in the market.”\nKyle McQuire, Chief Executive Officer of Peak 10 Energy\n“The ABS structure provides a durable source of capital, and reflects the practical, solutions-oriented approach our structured lending team brings to help clients achieve their objectives.”\nWilliam Eustis, Co-Head of Asset-Backed Securities at U.S. Bank\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "ballistic ventures",
+   "company_guess": "Ballistic Ventures",
+   "amount_hint_usd": 490000000,
+   "articles": [
+    {
+     "id": "474397d7efd9",
+     "group_key": "ballistic ventures",
+     "title": "Ballistic Ventures: $490 Million Fundraising Target For Two New Cybersecurity Funds Amid AI Security Boom",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/ballistic-ventures-490-million-fundraising-target-for-two-new-cybersecurity-funds-amid-ai-security-boom/",
+     "published_at": "2026-11-14T13:51:19.000Z",
+     "amount_hint": "$490 Million",
+     "snippet": "Ballistic Ventures, a San Francisco-based venture capital firm specializing in cybersecurity investments, is seeking to raise $490 million across two new investment funds as artificial intelligence drives demand for technologies that protect businesses against increasingly sophisticated cyber threats. According to a TechCrunch report, the firm has filed documents with the U.S. Securities and Exchange Commission seeking $360 million for its third flagship fund and an additional $130 million for a separate investment vehicle called Ballistic Ventures Fund B.\nThe post Ballistic Ventures: $490 Mil",
+     "text_status": "ok",
+     "text": "Ballistic Ventures: $490 Million Fundraising Target For Two New Cybersecurity Funds Amid AI Security Boom\nBy Amit Chowdhry\nToday at 8:51 AM\nBallistic Ventures: $490 Million Fundraising Target For Two New Cybersecurity Funds Amid AI Security Boom\nBallistic Ventures, a San Francisco-based venture capital firm specializing in cybersecurity investments, is seeking to raise $490 million across two new investment funds as artificial intelligence drives demand for technologies that protect businesses against increasingly sophisticated cyber threats. According to a TechCrunch report , the firm has filed documents with the U.S. Securities and Exchange Commission seeking $360 million for its third flagship fund and an additional $130 million for a separate investment vehicle called Ballistic Ventures Fund B.\nThe regulatory filings indicate that neither fund had recorded any capital sales at the time of submission, meaning the amounts represent fundraising targets rather than completed capital commitments.\nThe proposed fundraising follows Ballistic Ventures’ earlier investment vehicles, including a $300 million inaugural fund announced in 2022 and a $360 million second flagship fund raised in 2024.\nThe firm also previously raised approximately $130 million for a separate vehicle called Ballistic Ventures Fund A, according to PitchBook data cited by TechCrunch.\nThe new fundraising initiative would provide additional capital for investments in cybersecurity companies developing technologies for AI security, enterprise protection, and emerging digital threats.\nTed Schlein And Cybersecurity Industry Veterans Lead Ballistic Ventures\nBallistic Ventures was founded in late 2021 by a team of experienced cybersecurity executives and investors.\nIts founding team includes Ted Schlein, a former partner at Kleiner Perkins, where he spent more than two decades investing in technology companies.\nOther founders include Barmak Meftah, former President of AT&T Cybersecurity, and Roger Thornton, who co-founded cybersecurity companies Fortify Software and AlienVault.\nThe firm’s leadership brings experience in cybersecurity company development, enterprise software, and venture capital investing.\nBallistic Ventures focuses specifically on cybersecurity, differentiating its investment strategy from firms pursuing opportunities across multiple technology categories.\nIts approach emphasizes identifying companies developing technologies designed to address evolving security challenges.\nThe firm has developed a portfolio spanning enterprise security, AI-related threats, and other cybersecurity applications.\nPrevious Investments Include Talon And Pangea\nBallistic Ventures has backed several cybersecurity companies that have subsequently been acquired by major industry participants.\nIts portfolio includes Talon Cyber Security, which was acquired by Palo Alto Networks.\nThe firm also invested in Pangea, a security company acquired by CrowdStrike.\nThese transactions illustrate Ballistic Ventures’ participation in companies developing technologies attractive to established cybersecurity vendors.\nOther portfolio companies include Armadin, GetReal, Nudge Security, and Oligo Security.\nThe businesses operate across different areas of cybersecurity, reflecting the firm’s interest in emerging security requirements.\nBallistic Ventures’ investments also provide exposure to technologies designed to help organizations manage risks associated with increasingly complex software and IT enviro"
+    }
+   ]
+  },
+  {
+   "group_key": "viasat",
+   "company_guess": "Viasat",
+   "amount_hint_usd": 450000000,
+   "articles": [
+    {
+     "id": "1555e9fe1b34",
+     "group_key": "viasat",
+     "title": "Viasat: $450 Million U.S. Space Force Contract For Golden Dome Space Data Network Backbone Development",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/viasat-450-million-u-s-space-force-contract-for-golden-dome-space-data-network-backbone-development/",
+     "published_at": "2026-11-13T18:35:59.000Z",
+     "amount_hint": "$450 Million",
+     "snippet": "Viasat, a Carlsbad, California-based provider of satellite communications and secure networking technologies, has received an indefinite-delivery/indefinite-quantity (IDIQ) contract with a ceiling of $450 million from the U.S. Space Force's Space Systems Command (SSC). The award will support the development, deployment, sustainment, and operation of the Space Data Network Backbone (SDN-B) mission operations center, a critical component of the military's efforts to establish resilient space-based communications infrastructure supporting Golden Dome for America and Joint Force operations.\nThe po",
+     "text_status": "ok",
+     "text": "Viasat: $450 Million U.S. Space Force Contract For Golden Dome Space Data Network Backbone Development\nBy Amit Chowdhry\nYesterday at 1:35 PM\nViasat: $450 Million U.S. Space Force Contract For Golden Dome Space Data Network Backbone Development\nViasat, a Carlsbad, California-based provider of satellite communications and secure networking technologies, has received an indefinite-delivery/indefinite-quantity (IDIQ) contract with a ceiling of $450 million from the U.S. Space Force’s Space Systems Command (SSC). The award will support the development, deployment, sustainment, and operation of the Space Data Network Backbone (SDN-B) mission operations center, a critical component of the military’s efforts to establish resilient space-based communications infrastructure supporting Golden Dome for America and Joint Force operations.\nThe contract includes an initial $115 million task order to support development and scaling of the mission operations center and associated network operations capabilities.\nThe $450 million represents the maximum value available under the IDIQ contract rather than a guaranteed payment to Viasat. Additional work will depend on future task orders and government requirements.\nThe award positions Viasat as a network and mission systems integration partner supporting the Space Force’s efforts to establish a more interconnected and resilient military space architecture.\nThe SDN-B initiative is designed to provide high-capacity, low-latency data transport across multiple satellite networks and orbital environments.\nIts architecture will support communications requirements for the U.S. Space Force, Golden Dome for America, and military operations conducted by the Joint Force worldwide.\nSupporting The Golden Dome Space Data Network Backbone\nThe Space Data Network Backbone is a multi-vendor data transport architecture designed to connect and manage communications capabilities across participating space and ground systems.\nThe network is intended to provide resilient connectivity for military operations that depend on timely access to information collected and transmitted through space-based infrastructure.\nRather than relying on a single satellite operator or communications architecture, SDN-B is designed to integrate multiple providers and network elements.\nThis approach supports the Space Force’s broader objective of developing open architectures that can incorporate commercial technologies and adapt to changing mission requirements.\nViasat will focus on the mission operations center responsible for supporting network management and integration under government direction.\nThe center is intended to provide a coordinated view of participating SDN-B network elements, allowing operators to monitor connectivity, network performance, and operational status.\nThe infrastructure will also support government-directed prioritization of communications resources based on military mission requirements.\n$115 Million Initial Task Order\nThe initial $115 million task order will fund work associated with establishing and scaling the SDN-B mission operations center and its network operations capabilities.\nViasat will apply its experience operating secure satellite communications networks to support the development of an enterprise-level operational infrastructure.\nThe company’s responsibilities include systems engineering, network integration, operational support, and sustainment activities.\nThe mission operations center will provide tools to"
+    }
+   ]
+  },
+  {
+   "group_key": "zilch",
+   "company_guess": "Zilch",
+   "amount_hint_usd": 395000000,
+   "articles": [
+    {
+     "id": "d081eae29ab3",
+     "group_key": "zilch",
+     "title": "Zilch: £395 Million Debt Facilities Expand Consumer Lending Capacity",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/zilch-395-million-debt-facilities-expand-consumer-lending-capacity/",
+     "published_at": "2026-11-12T21:33:02.000Z",
+     "amount_hint": "£395 Million",
+     "snippet": "Zilch has increased its securitization and corporate debt facilities by £165 million, bringing total commitments to £395 million as the payments company expands its product offering. Deutsche Bank led the latest financing, with participation from two major credit funds. The facilities will enable Zilch to originate up to £6 billion in lending annually.\nThe post Zilch: £395 Million Debt Facilities Expand Consumer Lending Capacity appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Zilch: £395 Million Debt Facilities Expand Consumer Lending Capacity\nBy Amit Chowdhry\nNov 12, 2026\nZilch: £395 Million Debt Facilities Expand Consumer Lending Capacity\nZilch has increased its securitization and corporate debt facilities by £165 million, bringing total commitments to £395 million as the payments company expands its product offering. Deutsche Bank led the latest financing, with participation from two major credit funds. The facilities will enable Zilch to originate up to £6 billion in lending annually.\nThe additional capacity supports customer growth and demand for products including Pay Monthly, launched in August 2026. That offering allows qualifying customers to spread purchases over three, six or 12 months.\nZilch is targeting a broader range of spending needs, including larger purchases such as holidays, household appliances and insurance premiums.\nAverage annual spending per active customer has reached £2,500, while the company’s gross merchandise value run rate has exceeded £3.5 billion.\nThe financing follows Zilch’s announcement that it surpassed a $300 million annual run rate and recorded two consecutive quarters of adjusted profit before tax in its 2027 financial year.\nThe company also plans to move into a new London headquarters in spring 2027, more than doubling its office capacity.\nFounded in 2018, Zilch combines debit, credit, installments, earned wage access, credit-building features, offers and rewards within its payments platform.\nThe expanded funding facilities provide more lending capacity as that product mix develops. Management identified access to efficient funding as important to supporting higher transaction volumes and continued growth.\nChief Financial Officer Hugh Courtney said the financing reflects funders’ confidence in Zilch’s underwriting and ability to scale profitably in the United Kingdom.\nThe company’s strategy is to serve more customer payment needs through the same platform, strengthening engagement as users move between everyday spending and larger purchases.\nKEY QUOTES:\n“As we continue to grow at significant scale, having access to efficient funding is a key parameter for success. These expanded facilities give us greater capacity to support our customers where they need us, capturing more of the transactions that matter to customers day to day and providing the most rewarding ways to pay. By serving a broader range of customer needs, we can continue building a highly engaged customer relationship and delivering the value, flexibility and features that our customers really want.”\nPhilip Belamant, CEO And Co-Founder Of Zilch\n“We are proud of our close partnerships with our funders, led by Deutsche Bank, who continue to support our growth as we scale the business profitably in the UK. The upsizing of the facilities represents a strong endorsement of our underwriting capabilities, product market fit and ability to continue scaling at pace.”\nHugh Courtney, Chief Financial Officer Of Zilch\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "exus",
+   "company_guess": "Exus",
+   "amount_hint_usd": 345000000,
+   "articles": [
+    {
+     "id": "1797c4ff517a",
+     "group_key": "exus",
+     "title": "Exus Closes $345 Million Financing Led by Goldman Sachs Alternatives",
+     "publisher": "Hoodline",
+     "url": "https://hoodline.com/2026/11/exus-closes-345-million-financing-led-by-goldman-sachs-alternatives/",
+     "published_at": "2026-11-13T14:36:08.000Z",
+     "amount_hint": "$345 Million",
+     "snippet": "Exus Closes $345 Million Financing Led by Goldman Sachs Alternatives Hoodline",
+     "text_status": "ok",
+     "text": "Source: Nikki / Wikimedia Commons\nExus Renewables North America said Thursday it closed $345 million in senior secured holding company financing led by Goldman Sachs Alternatives, money the company says will go toward construction and new U.S. wind, solar and battery projects.\nThe check is another in a run of company financings and project deals, not a map of which turbines or panels get the cash. Exus framed the close against rising U.S. electricity demand and described itself as an independent owner, developer and operator of utility-scale renewable energy and storage.\nWhat the Money Is For\nExus said the financing will support construction costs and development across its growing U.S. portfolio of wind, solar and battery storage assets. The announcement does not name the projects that will draw on the facility or split the dollars among those three technologies.\nPresident and CEO Jim Spencer said the financing lets the company keep its momentum going. He also said Goldman Sachs Alternatives' support reflects confidence in Exus and gives it flexibility to build projects and bring generation online, including work already underway and a deeper pipeline.\nVikas Agrawal, managing director and co-head of Energy Transition Climate Credit at Goldman Sachs Alternatives, said Exus has a strong platform for developing and operating utility-scale renewable projects. \"We're pleased to support its continued investment in new energy infrastructure,\" he said, tying that support to growing U.S. electricity demand.\nA Larger Company-Reported Book\nExus reported more than 800 megawatts operating or under construction and a total portfolio exceeding 6 gigawatts. Those are company figures, not an outside audit of nameplate capacity.\nThe comparison that is on the record is Exus' own July 22, 2025 financing announcement. Then, the company reported more than 5 gigawatts in its total portfolio and 764 megawatts operating or under construction, alongside $308.2 million in financing for the 185-megawatt Zia Solar portfolio in New Mexico and the 169-megawatt Keystone wind portfolio in Pennsylvania.\nFrom that July 2025 snapshot to Thursday's release, the company-reported operating-or-under-construction figure moved from 764 megawatts to more than 800, and the total portfolio from over 5 gigawatts to more than 6. Exus also said it is expanding its operational footprint to meet growing national energy needs, with work that includes developing, repowering and managing renewable assets.\nSeparate Deals, Not One Stack\nThis holding-company financing sits beside other Exus transactions that the available reporting treats as separate. pv magazine USA reported in January that Exus had closed a $400 million senior secured corporate credit facility tied to a 4.5-gigawatt pipeline. Nothing in the Thursday announcement establishes whether that facility is still outstanding or how it relates to the $345 million.\nProject-level money has also moved on its own track. On Sept. 22, Exus said it had completed the Highland North and Cambria wind repower projects in Cambria County, Pennsylvania, and that construction was financed through roughly $356 million led by KeyBanc Capital Markets. A week later, on Sept. 29, Exus and ibV Energy Partners announced that Exus had acquired four solar projects totaling 715 megawatts-peak.\nThose deals show a company adding and rebuilding capacity in named places — Cambria County wind, a New Mexico solar book, Pennsylvania wind — while Thursday's $345 m"
+    }
+   ]
+  },
+  {
+   "group_key": "langchain",
+   "company_guess": "LangChain",
+   "amount_hint_usd": 300000000,
+   "articles": [
+    {
+     "id": "ebec2010b0ba",
+     "group_key": "langchain",
+     "title": "LangChain Raises $300M Series C at a $3B Valuation Led by CapitalG",
+     "publisher": "Wowtale",
+     "url": "https://en.wowtale.net/2026/11/14/235988/?utm_source=rss&utm_medium=rss&utm_campaign=langchain-raises-300m-series-c-at-a-3b-valuation-led-by-capitalg",
+     "published_at": "2026-11-13T21:38:32.000Z",
+     "amount_hint": "$300M",
+     "snippet": "LangChain Raises $300M Series C at a $3B Valuation Led by CapitalG Wowtale",
+     "text_status": "ok",
+     "text": "AI agents are moving out of experiments and into day-to-day work, and building, running and watching them has become a new problem for companies. Picking a model is not enough. Teams need to trace why an agent got something wrong, catch performance slipping in production, and control which tools and data it can reach. LangChain , whose platform targets exactly that, has raised $300 million in a Series C.\nFrom open-source framework to agent engineering platform\nLangChain says its mission is to help every company own its intelligence. As agents transform the economy, it says, companies are building domain-specific agents differentiated by their knowledge, data and user experience, and the companies that control them will gain lasting advantages.\nThe product centers on LangSmith and rests on three pillars. Agent Runtime covers running agents reliably. Deep Agents, LangGraph and LangChain give developers flexibility across models and control over context. LangSmith Agent Server and Sandboxes deploy agents securely at scale in the cloud or a customer’s own environment, and Managed Agents and Fleet run mission-critical agents as managed services. Agent Improvement covers testing and monitoring. Observability and Evaluation show how agents behave and measure quality, and LangSmith Engine, an in-platform agent, finds errors, writes code and prompt fixes and watches production traffic for regressions. Fine-Tuning turns traces into training data for specialized models. Agent Governance gives central control over models, tools and data. LLM and Tool Gateways manage model budgets and fallbacks, protect sensitive data, and govern tool access and authentication.\nMore than 7,000 organizations already use LangSmith, according to LangChain, from fast-growing startups such as Harvey , Rippling and Listen Labs to Fortune 500 enterprises such as Nvidia , Toyota and Salesforce . Clay uses it to monitor hundreds of millions of agent runs a month. Workday uses it to run and govern agents across the organization, cutting the time to deploy a new agent from five months to under a day. These figures come from the company and have not been independently verified.\nA side project that started weeks after ChatGPT\nLangChain began within weeks of ChatGPT’s release in late 2022. Harrison Chase , then an engineer at Robust Intelligence, started it as a personal open-source project to fix a gap in large language models: they could not reach live information or take real actions such as web search or API calls. After founding the company with Ankush Gola, he raised a $10 million seed led by Benchmark in April 2023 and a $25 million Series A led by Sequoia in February 2024, at a $200 million valuation.\nValuation more than doubles in a year\nLangChain said on Nov. 13 that it raised $300 million at a $3 billion valuation, bringing total funding to $460 million. Existing investor CapitalG led, with significant participation from new investors GIC and DFJ Growth and existing investors IVP and Sapphire Ventures .\nNew investors also include Salesforce Ventures , Insight Partners , QuantumLight and MongoDB Ventures, and existing investors Sequoia , Amplify and Benchmark returned. LangChain became a unicorn last October with a $125 million Series B at a $1.25 billion valuation, so its valuation has more than doubled in about a year.\nMo Jomaa, a partner at CapitalG, said the shift from experimental LLM applications to production-grade agents is among the most significant in enterpri"
+    },
+    {
+     "id": "5cac98c13f6a",
+     "group_key": "langchain",
+     "title": "LangChain Raises $300 Million Series C Led by CapitalG at $3 Billion Valuation",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFZldG42UmxEN29GQUJpU3JpQjNmbjVBZGZ5UERTQmVsdktIODBtT083RlZnS0ZvaWZ1TmFvRkYwWWZiUGJKUWdOaENKNFNsTDAxNms0eEVsYnMzRDFfdDFHZ0wwdGluQTdoYm9WVXp6c3VtdEdTUkV6Z0UtNTMxNFpibVNsMWI5dXlBNl8xdHBXQmdHMUFqVExKTklXcFFCSm5ZUHlWMEJtQmc4VEREdUFYOE45UQ?oc=5",
+     "published_at": "2026-11-13T16:17:08.000Z",
+     "amount_hint": "$300 Million",
+     "snippet": "LangChain Raises $300 Million Series C Led by CapitalG at $3 Billion Valuation citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "4784a95a67af",
+     "group_key": "langchain",
+     "title": "LangChain Raises $300M Series C at $3B Valuation",
+     "publisher": "KARV Tech Insider",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUV9Cb1M5bjg4d3RaRVpFbEFUdDBvaTZoLW16QTBNOHFZX0tQNm1GcGpuckx5WGRyYVNWdVZHS0gwNS1ZX1VhaUIzR3R3OGxsbGVQVUVVQmdfcDdWUm9ldFBrY1NBbmFSaUsxejN1TGhNT2VReDJVTnRKc3hFeWlTaERDSEhhWXBHOGRmRnhqQm43a21wT1NVeEtGaG1BOGk4TTZwS2pTNkxOdEdmN2JHN25raHg3VDRHZUNMSjRvTHFadl9aMHM0?oc=5",
+     "published_at": "2026-11-14T00:00:00.000Z",
+     "amount_hint": "$300M",
+     "snippet": "LangChain Raises $300M Series C at $3B Valuation KARV Tech Insider",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "0674e4f5bbc5",
+     "group_key": "langchain",
+     "title": "LangChain raises $300 million at $3B valuation in Series C",
+     "publisher": "NewsBytes",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX2VaRF9TX0FNVnNYNXhkeExkdkpocUJCMWU2YzRONmx2bWdrSHlEWk9BY2FLVzFxMmJUVWl6NlUwdWV2UzEwNkNKaVZYREdvOVkyMEh5UzZ1UlNVcFpvVXVTbEIzSUtVb0g4NzFkRnc2cGhfNmtHendGUDljalA5QTVVcXh4Y3pGVTF3Rk53MmhvRGUzaWMyY2FSSVlYdnp4dXBWRUxaWQ?oc=5",
+     "published_at": "2026-11-13T20:22:11.000Z",
+     "amount_hint": "$300 million",
+     "snippet": "LangChain raises $300 million at $3B valuation in Series C NewsBytes",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "ebb5a30de843",
+     "group_key": "langchain",
+     "title": "LangChain raises $300 million at a $3 billion valuation in a round led by Alphabet's CapitalG",
+     "publisher": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcE05by1ET2NIY0ZuM01zeC1IV2ZLSVFHNkx3WUlVdTQwWUtLT0lUWW9kTWxFLWFSNUhLMUhUY2ZRLXZFX2Q4RDM5bkI5ZlZiTVJ4T0o1RUI2MDkyWkdlZUlFTzB4TXpNajhTZDR5SGI3OW11elNaQXc4Q3lEcGZOekU0a2F0NXRFb2hSME1FVUNHSEZOQ3J1cGFUTmE2c1p6eEhTTGxOUGpwa1NGcTBvbw?oc=5",
+     "published_at": "2026-11-13T05:06:58.000Z",
+     "amount_hint": "$300 million",
+     "snippet": "LangChain raises $300 million at a $3 billion valuation in a round led by Alphabet's CapitalG MLQ.ai",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "ab71806a8488",
+     "group_key": "langchain",
+     "title": "LangChain raises $300 million in funding, valuing company at $3 billion",
+     "publisher": "디지털투데이",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWhob2NtWUpqVlZ2MkplaWRrSUxQVkpzNDg3SnBQenRRb1BJRzhDNENxRnZ2NWFyUFFPVFF3V0ZlaTc0d3YzcFlWWlpvRVJLRGJCUV9NcnFOOFo5V0ZMcFR6RWpqenNUSkxjQ0hsY3JsYjZLVE1jNU16TGZkaXBadWVJcTBheloxdTYxeE1YaUJUc0ZWbTR2R1RMSVM0SElHcWFwRGNqZnk2bkNoaHpJT0dlOW0?oc=5",
+     "published_at": "2026-11-13T02:55:37.000Z",
+     "amount_hint": "$300 million",
+     "snippet": "LangChain raises $300 million in funding, valuing company at $3 billion 디지털투데이",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "54fbe679926c",
+     "group_key": "langchain",
+     "title": "LangChain raises $300 million at a $3 billion valuation — TechCrunch",
+     "publisher": "UA.NEWS",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa19nc2xWVzNyNERsU21NS1NrSmxqdWlkQkdaMWJoZ0k3TlNqVlM4N19uUHZvRXQ1UHFrZTZBRGt0UDhodDUtcWx4UFR5blEyUEp2aVMteld3VGRkc1lJb0kyWERVekdtblB1MTROczN2RWR6NjB5T2F5Wi1uUERMZWlDdGc0Z3VLcXp3TU9scVcwUQ?oc=5",
+     "published_at": "2026-11-13T19:55:08.000Z",
+     "amount_hint": "$300 million",
+     "snippet": "LangChain raises $300 million at a $3 billion valuation — TechCrunch UA.NEWS",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "96f2cab65982",
+     "group_key": "langchain",
+     "title": "LangChain Raises $300 Million At A $3 Billion Valuation To Scale Agent Tooling Platform",
+     "publisher": "Ventureburn",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlROdE91NGJvYVpNWWNhaFQ0QXNXT2FVM0VYLUdqZHNaZThuOHBockJ0WWlBcHBVLURiNVJCcTkyX3JCeVpDbXBna3dyLVczOS1CR2MyRVJ1UEFLMkFObktVbmM4NVNadDJqc2cxdnFmSUxJbVF2VUJHUzlidWlDSDRWbk1mSFR2NEHSAYoBQVVfeXFMTzZUTnRPdTRib2FaTVljYWhUNEFzV09hVTNFWC1HamRzWmU4bjhwaHJCdFlpQXBwVS1EYjVSQnE5Ml9yQnlaQ21wZ2t3ci1XMzktQkdjMkVSdVBBSzJBTm5LVW5jODVTWnQyanNnMXZxZklMSW1RdlVCR1M5YnVpQ0g0Vm5NZkhUdjRB?oc=5",
+     "published_at": "2026-11-13T15:13:46.000Z",
+     "amount_hint": "$300 Million",
+     "snippet": "LangChain Raises $300 Million At A $3 Billion Valuation To Scale Agent Tooling Platform Ventureburn",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "d53e5360bb57",
+     "group_key": "langchain",
+     "title": "LangChain Raises $300 Million at $3 Billion Valuation",
+     "publisher": "Howl.Link",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE0tUE5scVl4aUZteFY4TEFSNmVhWm1qUXdDaDhHeHp1aUhKeDAzQnBMTXN6cTJoSjB4aGFF?oc=5",
+     "published_at": "2026-11-13T12:14:14.000Z",
+     "amount_hint": "$300 Million",
+     "snippet": "LangChain Raises $300 Million at $3 Billion Valuation Howl.Link",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "4703fc9d4570",
+     "group_key": "langchain",
+     "title": "LangChain Raises $300 Million at a $3 Billion Valuation",
+     "publisher": "entARABI",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNVNJNkZqLXpfYm1BRi0tQndmOVRYQVUycEFwNW0xOTlYMTNUbHVGN0FucTdkYWVUM1o1ZVJTbkxWZXM2dlBNcGFOd2RtUVFybTh2bE94RkR4S3VHNkJzWjlqWjN0d0hSeFZpUVB0STFwQ25vd1lYME5KWFlYajc0Z0NHTnFxQzFJN0xKWUw1ajNkdHZ0LWRfYndDdVhNU2k0ZllR?oc=5",
+     "published_at": "2026-11-14T13:15:41.000Z",
+     "amount_hint": "$300 Million",
+     "snippet": "LangChain Raises $300 Million at a $3 Billion Valuation entARABI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "dfeae8a2f9c6",
+     "group_key": "langchain",
+     "title": "AI agent tooling provider LangChain secures $300M investment",
+     "publisher": "SiliconANGLE",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOME9pWWVWX0JYdXUyajg4Y2w3b1pVRHZwMWxCVnRRV3BzQ0dWbU1xM1NUdVhrV0c3THd0NHVTM1ZqZ2dGamJZME9mcEgxVDdhMnc1QzB6R1ZhQ01ZQTRsZkx1MHpubUMtRFRJbjRFN1czelBUaElpVFZ0c0ZjOXcwU09sUWthRDEtS1ZoZkM2WW13MG9QT0lKVDE0bjY?oc=5",
+     "published_at": "2026-11-12T23:24:00.000Z",
+     "amount_hint": "$300M",
+     "snippet": "AI agent tooling provider LangChain secures $300M investment SiliconANGLE",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "b1ce08286512",
+     "group_key": "langchain",
+     "title": "LangChain raises $300M, hits $3B valuation in Series C | Tap to know more | Inshorts",
+     "publisher": "Inshorts",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX3J1WG5jMnB1UzVxME9LMTI1a2tWREwxSXpnYXVGVHUtODRfYnl4WWNxWTdEUHloYlgtNEtNOTR5dTdMTHFjT2Vha3dPSDRoYldxdFphWkhCbXUwZlMwN2c3MVBXZGpON0ljUFg4enE3SGdtdUs4b3hNREtMQVc5ZU1jYkptVDlXY3RUU002eFFFdDMwblFFc1UtSmxqd9IBowFBVV95cUxOTjdsOF9HeGlrQU5YQVJFcjktUmYwMDJsbVBtTmJHU1Z5UWdXZDZiQzVmeDk0cmZsYWYxUzR2Zkl3eE1ZQ0RYNzZsN2lwSU8yRllwZjA4Tktxdm8zYzJQYTdUalkxVE4yUjV3dlJnQ3ZOUk1Qclh3ck5Cb0plVTkwSHRQQlBZd1F6RjBZRzdjWHlMaWRQck5BbVdCVVFSRU1fWDZn?oc=5",
+     "published_at": "2026-11-14T11:10:02.000Z",
+     "amount_hint": "$300M",
+     "snippet": "LangChain raises $300M, hits $3B valuation in Series C | Tap to know more | Inshorts Inshorts",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "a1d8bdd28ff7",
+     "group_key": "langchain",
+     "title": "LangChain Raises $300 Million, Now Valued at $3 Billion",
+     "publisher": "www.trendingtopics.eu",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MRktiVUozSUI4b29BZWwwZkdVenJhM2JpWXJaVG5Rd3N6bmJGZms4SW85UXNmYnBWdXNXbkNPd203dEYzZEp2MXdWZDhKMHpodWd2cmY3SmlPVUl1SGUtLUNTMi0tMHJaVUozdEV3ZERMYTFMWTFvNA?oc=5",
+     "published_at": "2026-11-14T07:05:22.000Z",
+     "amount_hint": "$300 Million",
+     "snippet": "LangChain Raises $300 Million, Now Valued at $3 Billion www.trendingtopics.eu",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "8ce2e5ece903",
+     "group_key": "langchain",
+     "title": "LangChain Secures $300M Series C at $3B Valuation for Agent Governance",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeGh2ZjRsS095V3ZmajcxNkpNekh6cngtT1NJU0xKUVpvbU1JUHcxNldOeTh2bzl3MmtVUElObzZISmU3Nnd6bXV6ZnB6Q2M1VE1lZDhSVnVPYlNUYm42R21GMDYxRTl3dkZxNnphR05KbzBFRlhVNlBEdm9LaG16S1hrY1Z1TUYxODI5aU0ta1dJR3R0?oc=5",
+     "published_at": "2026-11-13T16:20:02.000Z",
+     "amount_hint": "$300M",
+     "snippet": "LangChain Secures $300M Series C at $3B Valuation for Agent Governance Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "eeb8eb6399a3",
+     "group_key": "langchain",
+     "title": "LangChain: $300 Million Series C Funding Led By CapitalG At $3 Billion Valuation To Expand AI Agent Platform",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/langchain-300-million-series-c-funding-led-by-capitalg-at-3-billion-valuation-to-expand-ai-agent-platform/",
+     "published_at": "2026-11-14T13:16:23.000Z",
+     "amount_hint": "$300 Million",
+     "snippet": "LangChain, a San Francisco-based provider of AI agent development and infrastructure technology, has raised $300 million in Series C funding at a $3 billion valuation. The round was led by existing investor CapitalG, with significant participation from new investors GIC and DFJ Growth, alongside existing investors IVP and Sapphire Ventures.\nThe post LangChain: $300 Million Series C Funding Led By CapitalG At $3 Billion Valuation To Expand AI Agent Platform appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "db98c367425b",
+     "group_key": "langchain",
+     "title": "LangChain Raises $300 Million Series C Led by CapitalG at $3 Billion Valuation",
+     "publisher": "Paul Bluemner",
+     "url": "https://www.citybiz.co/article/933425/langchain-raises-300-million-series-c-led-by-capitalg-at-3-billion-valuation/",
+     "published_at": "2026-11-13T16:14:23.000Z",
+     "amount_hint": "$300 Million",
+     "snippet": "LangChain, a San Francisco-based artificial intelligence infrastructure company, has raised $300 million in Series C funding at a $3 billion... Read More\nThe post LangChain Raises $300 Million Series C Led by CapitalG at $3 Billion Valuation appeared first on citybiz .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "this",
+   "company_guess": "This AI",
+   "amount_hint_usd": 300000000,
+   "articles": [
+    {
+     "id": "48d4ba21920a",
+     "group_key": "this",
+     "title": "This AI agent start-up has raised $300M at $3B valuation",
+     "publisher": "NewsBytes",
+     "url": "https://www.newsbytesapp.com/news/business/langchain-raises-300m-at-3b-valuation-to-manage-ai-agents/story",
+     "published_at": "2026-11-14T05:08:37.000Z",
+     "amount_hint": "$300M",
+     "snippet": "This AI agent start-up has raised $300M at $3B valuation NewsBytes",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

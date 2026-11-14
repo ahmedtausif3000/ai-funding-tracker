@@ -1,0 +1,280 @@
+{
+ "run_date": "2026-11-14",
+ "part": 8,
+ "groups": [
+  {
+   "group_key": "kindo",
+   "company_guess": "Kindo",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "c23e204f1622",
+     "group_key": "kindo",
+     "title": "Kindo Raises $30 Million to Expand Enterprise AI Control Platform",
+     "publisher": "Ventureburn",
+     "url": "https://ventureburn.com/kindo-raises-30-million-enterprise-ai-control/",
+     "published_at": "2026-11-12T20:12:14.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Kindo Raises $30 Million to Expand Enterprise AI Control Platform Ventureburn",
+     "text_status": "thin",
+     "text": "Venture Capital\n1 year ago\nZilch Funding $175M Boosts AI Payment Expansion"
+    },
+    {
+     "id": "6583532b3d84",
+     "group_key": "kindo",
+     "title": "Kindo raises $30M after 800% revenue growth: Can one control centre tame enterprise AI agents?",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/kindo-raises-30m-after-800-revenue-growth-can-one-control-center-tame-enterprise-ai-agents/",
+     "published_at": "2026-11-12T14:00:00.000Z",
+     "amount_hint": "$30M",
+     "snippet": "As businesses deploy AI agents across more departments, controlling what these systems can access, change and spend is…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "ex tesla engineers se3",
+   "company_guess": "Ex-Tesla Engineer’s SE3",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "f562453703b8",
+     "group_key": "ex tesla engineers se3",
+     "title": "Ex-Tesla Engineer’s SE3 Raises $30M for Drone AI Built for Any Drone",
+     "publisher": "Business Model Analyst",
+     "url": "https://businessmodelanalyst.com/se3-drone-ai-accel-series-a-hardware-agnostic/",
+     "published_at": "2026-11-13T11:00:00.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Ex-Tesla Engineer’s SE3 Raises $30M for Drone AI Built for Any Drone Business Model Analyst",
+     "text_status": "ok",
+     "text": "Home - News - Ex-Tesla Engineer’s SE3 Raises $30M for Drone AI Built for Any Drone\nNews\nEx-Tesla Engineer’s SE3 Raises $30M for Drone AI Built for Any Drone\nPosted on November 13, 2026 November 12, 2026 by Flavia Moura\n13\nNov\nThe Munich startup is the only serious bidder for the battlefield command screen that sells nothing underneath it. Ukraine approved a new drone model about every 10 hours this year. That is the whole pitch, and the whole problem.\nSE3, a Munich spinout from the Technical University of Munich, raised a $30 million Series A led by Accel to build AI that runs drones from any manufacturer. The bet is that militaries will pay for neutrality as their fleets splinter. Ukraine codified 650 new drone systems in the first 265 days of 2026.\nPicture a Bundeswehr operator in 2028. Her unit flies quadcopters from one German startup, fixed-wing scouts from another, loitering munitions from a third, and a couple of ground robots nobody remembers ordering. Each one shipped with its own app. Now she wants to say, out loud, “send something to look two kilometers north over that forest,” and have the right machine take off.\nThat sentence is the product SE3 is selling. The hard part is not the voice command. It is that the machine she wants could have been built by anyone.\nWhat Happened\nFortune reported on November 12 that SE3, which recently dropped “Labs” from its name, closed a $30 million Series A led by Accel, with Keen, Lakestar and Seedcamp joining. Valuation, revenue and total funding were not disclosed.\nThe round lands fast. SE3 came out of stealth on June 26, 2026, with a €5.5 million seed (about $6.1 million) led by Lakestar, alongside Seedcamp, EWOR, the Sequoia Scout Fund and Plug and Play. That is roughly 4.9 times the seed check, raised 139 days later.\nThe basics:\nWho: CEO Lukas Köstler, a former TUM PhD student who worked on Tesla’s Autopilot team and at Nvidia Research; CTO Simon Klenk, his TUM labmate; and chief science officer Daniel Cremers, who runs the computer vision lab the company spun out of.\nWhat it builds: software that fuses video and sensor feeds from many drones and ground vehicles into one 3D map, labels what is in it, and lets soldiers query it or task machines by voice. It also builds onboard autonomy for navigation when GPS is jammed, object detection and swarm behavior.\nWho pays: the Bundeswehr, under contracts to develop fleet command AI, plus Ukraine, where the technology is already deployed. Partners include sensor maker Hensoldt, drone software company Auterion and drone developer ERC.\nWhat the money buys: headcount goes from about 40 to about 120, with new offices in London, Berlin, the Nordics and Baltics, and Poland.\nKöstler described the shared map to Fortune as working “like a mini map, how you would know it from a strategy game.” Gamers will get it instantly. Procurement officers will get it the moment they price what happens when that mini map only shows one vendor’s units.\nThe Backstory\nEvery outlet will frame this as another European defense AI round riding rearmament money. True, and not very useful. The more interesting fact is the market structure SE3 is walking into.\nStart with Ukraine, the world’s largest live test of drone procurement. Its Ministry of Defence codified 413 unmanned aerial systems in the first half of 2026, up more than 30% on the same period of 2025 and more than 73% on 2024. By September 22 the count was 650. Strike copters alone accounted for 238 new models, interc"
+    },
+    {
+     "id": "8928bfa4c8cb",
+     "group_key": "ex tesla engineers se3",
+     "title": "SE3: $30 Million Series A Advances Spatial Intelligence For Autonomous Systems",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/se3-30-million-series-a-advances-spatial-intelligence-for-autonomous-systems/",
+     "published_at": "2026-11-12T16:05:08.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "SE3 has raised $30 million in Series A funding to expand its spatial intelligence software for autonomous systems operating in complex and contested environments. Accel led the financing, with participation from Keen Venture Partners and continued support from Lakestar and Seedcamp.\nThe post SE3: $30 Million Series A Advances Spatial Intelligence For Autonomous Systems appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "coreshell",
+   "company_guess": "Coreshell Technologies",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "14c55fec72b9",
+     "group_key": "coreshell",
+     "title": "Coreshell Technologies Raises $30M Series B to Push Silicon-Based Batteries",
+     "publisher": "citybiz",
+     "url": "https://www.citybiz.co/article/933280/coreshell-technologies-raises-30m-series-b-to-push-silicon-based-batteries/",
+     "published_at": "2026-11-13T11:22:04.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Coreshell Technologies Raises $30M Series B to Push Silicon-Based Batteries citybiz",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "accel leads 30m series",
+   "company_guess": "Accel leads $30M Series",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "41f32e3f5775",
+     "group_key": "accel leads 30m series",
+     "title": "Accel leads $30M Series A in SE3, the Munich startup teaching drones to work without GPS",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/accel-leads-30m-series-a-in-se3-the-munich-startup-teaching-drones-to-work-without-gps/",
+     "published_at": "2026-11-12T10:15:00.000Z",
+     "amount_hint": "$30M",
+     "snippet": "AI has made significant advances in automating digital tasks, but enabling machines to understand and navigate the physical…",
+     "text_status": "thin",
+     "text": "November 13, 2026\nWho is Colette Kress? Meet Nvidia’s interim CEO taking over after Jensen Huang’s exit\nby Abhinaya Prabhu"
+    }
+   ]
+  },
+  {
+   "group_key": "shenzhen boyin biotechnology",
+   "company_guess": "Shenzhen Boyin Biotechnology",
+   "amount_hint_usd": 27500000,
+   "articles": [
+    {
+     "id": "b1e13d91e2f3",
+     "group_key": "shenzhen boyin biotechnology",
+     "title": "Shenzhen Boyin Biotechnology Raises $27.5 Million in Series A",
+     "publisher": "BeautyMatter",
+     "url": "https://beautymatter.com/articles/shenzhen-boyin-biotechnology-raises-27-5-million-in-series-a",
+     "published_at": "2026-11-12T18:42:40.000Z",
+     "amount_hint": "$27.5 Million",
+     "snippet": "Shenzhen Boyin Biotechnology Raises $27.5 Million in Series A BeautyMatter",
+     "text_status": "thin",
+     "text": "MEMBER EXCLUSIVE\nPower Players: 2023's Most Active Investors in Beauty\nFeb. 15, 2024"
+    }
+   ]
+  },
+  {
+   "group_key": "arcanus",
+   "company_guess": "Arcanus",
+   "amount_hint_usd": 27000000,
+   "articles": [
+    {
+     "id": "9c2a0910087c",
+     "group_key": "arcanus",
+     "title": "Arcanus Raises $27 Million to Build Drones in Canada",
+     "publisher": "DroneXL",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS0lvWWRGZGl3T2xlTjB0WHNOVWYySGstZWRsc0tGZjdXNTVxSGg1TDFFMWkyQ2d0M0dENjhaTENqeDhaNjg5LXZ0MFZESy1OMnBIeVktMjJMbVpTMUxSTWVHVml3ekVhekpVSENWOVhQbVhtNTFrSVMxdEpGSkZFLWVtMTRUbXc?oc=5",
+     "published_at": "2026-11-13T23:50:00.000Z",
+     "amount_hint": "$27 Million",
+     "snippet": "Arcanus Raises $27 Million to Build Drones in Canada DroneXL",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "ee0c9328b44c",
+     "group_key": "arcanus",
+     "title": "Arcanus Raises More Than US$27 Million to Bring Allied Drone Technologies into Canadian Production",
+     "publisher": "The Manila Times",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPOVp4bXRGNE9jY2h6dmVnSDlYb2t3VFhpVFNiZUpDV3lnNDVLMExDTkZXOHUxeEc3LUdRamh4MjVheGc0S3I2T3dzREw5ZGcydi1yTHRLZVhWdUdLVThTUmhpVnlrajFGUEgzUDIyZjMtOG9SdWlXa1h6VHgtVFV1clFlZTVMRlRHQ1hrQjA0aHFrc0gtNzQzcjh6QWxJSXk1RHlfUTNyMVA1dW83eDBsRUgzWXc3VWhpcmlEMzRXSlVweEdrdEVQdER5cXFuRzJTUHMzdjl5OFJWWEQ5Q3FSZk5aeEtfZ3oxY0lCVzdyRlVNWTY0QlZxUWxGRmVqb3Vn0gGGAkFVX3lxTFB4UWpDTHdiTFN0Y3BPUmNES2lGUUZFZWRzYUd3X21mVHhFY1M3WjFkVC1HUFFLQnY3dl9MZEVrMnp2eGlMWi14WE1YWkVPdHk5SmVfc19NTVNiQlNKWW1yb3lPcmIzQlg4ZFlKcDB1LXgzd1RFOXBubmF5alBremRUT21VS29hd2VSRjNkOFdmdXNsT1dYQVk1eDE5UUhsSUpGRFMydEEyWEsxYlR5X29kUnBrblhiX0RpWXROaHIyU20yYm83eHJMMERLd0NoZG1mMzZCeDZ0WE9LZlZOX2ViZDZ5cXNndk51cjJnRjNLMkI4bFlCRTNKdnJkTXpiaTc4SjBXQlE?oc=5",
+     "published_at": "2026-11-13T17:58:54.000Z",
+     "amount_hint": "US$27 Million",
+     "snippet": "Arcanus Raises More Than US$27 Million to Bring Allied Drone Technologies into Canadian Production The Manila Times",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "lumbra",
+   "company_guess": "Lumbra",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "13213215891d",
+     "group_key": "lumbra",
+     "title": "Lumbra Raises $25M Series A for AI Agents in DC",
+     "publisher": "Hoodline",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSmtFblBhSEpMeFMzUTFCQm80OHNrLWxyd0lXZi1tb3Fna1lvMDR1VUo0QUhHTHdQRzNtZTNQQVkzc0tFS2k4dXRMY0VNaUprV2xLRE5HSmoyUDRQS2ZlQ0plUFY2dnJSbktVRVFESVNjV1d0SDh5QnRLWXlWTzdrblF4ZW8xVGZqNU14eW1FZGhPMDc2bFJZZlJlQm5uY19WQ2w0?oc=5",
+     "published_at": "2026-11-14T14:39:30.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Lumbra Raises $25M Series A for AI Agents in DC Hoodline",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "luminal",
+   "company_guess": "Luminal",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "a717994aa84b",
+     "group_key": "luminal",
+     "title": "Luminal Raises Series A to Expand AI Inference Across More Chips",
+     "publisher": "www.tokenpost.com",
+     "url": "https://luminal.live/",
+     "published_at": "2026-11-12T19:08:45.000Z",
+     "amount_hint": null,
+     "snippet": "Luminal Raises Series A to Expand AI Inference Across More Chips www.tokenpost.com",
+     "text_status": "thin",
+     "text": ">>\nQUICK START\nLOADOUT\nFIND MATCH 0\nLOBBY 0\nSETTINGS\nKEYBOARD (1)\n|\nCONTROLLER (2)\n|\nTOUCH\nA/D TURN W ACCEL S DECEL\nSHIFT BOOST SPACE BRAKE/DRIFT\nEARLY ALPHA v1.0.7"
+    },
+    {
+     "id": "9fa5f9c175de",
+     "group_key": "luminal",
+     "title": "Luminal raises $25 million to improve inference",
+     "publisher": "news.lavx.hu",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ2JIRDdxQkpILVkzcHVxQ0sxcEM4VlFMQmw1RVZPNHhSLW1vWUtOWHd3Y0xMUFVseU9fMVlEWUZ4c0RyYng3eG9fV1RZYzRfOUlQR3hEelBDMG44RmNPZGV6ZF9Hc284QnNjM0tkUVpDUlAxXzAxdjZEREUtMEljZA?oc=5",
+     "published_at": "2026-11-14T09:18:18.000Z",
+     "amount_hint": "$25 million",
+     "snippet": "Luminal raises $25 million to improve inference news.lavx.hu",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "9b4528f85a0f",
+     "group_key": "luminal",
+     "title": "Luminal Lands $25M Series A as Standard Capital Leads the Round",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmNhOUZLeFlueUY3bkhtUk0zWTlHM1gyWWlJS0hEeHZTbFFRYm9zTm1wbV9BdHgtT09ZLVI0MEdHdlo4bWxkcTRjS0Y0eUZPOXRTZlkzTVBZa01oTlZHOEJMZy1MWWxpZTg1cnNzTGgtX3BBZG5SYzdWYm9QQ0hfVkZlOGh6RUxpbXBXSw?oc=5",
+     "published_at": "2026-11-12T21:31:01.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Luminal Lands $25M Series A as Standard Capital Leads the Round Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "3d328baef0c1",
+     "group_key": "luminal",
+     "title": "YC-backed Luminal raises $25M from Standard Capital to loosen Nvidia’s grip on AI inference",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/luminal-25m-series-a-ai-inference-compiler-cloud/",
+     "published_at": "2026-11-12T15:00:00.000Z",
+     "amount_hint": "$25M",
+     "snippet": "As demand for artificial intelligence grows, the cost of running models is becoming a major infrastructure challenge. Much…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "kansas city regional housing",
+   "company_guess": "Kansas City Regional Housing",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "7783a7bd9da9",
+     "group_key": "kansas city regional housing",
+     "title": "Kansas City Regional Housing Fund launches with $25M",
+     "publisher": "The Business Journals",
+     "url": "https://www.bizjournals.com/kansascity/news/2026/11/13/affordable-housing-funding-25m-kc.html",
+     "published_at": "2026-11-13T13:37:00.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Kansas City Regional Housing Fund launches with $25M The Business Journals",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "hatz",
+   "company_guess": "Hatz AI",
+   "amount_hint_usd": 24000000,
+   "articles": [
+    {
+     "id": "43c3b6d02d7c",
+     "group_key": "hatz",
+     "title": "Hatz AI Raises $24M to Expand Its Enterprise AI Platform for MSPs",
+     "publisher": "Ventureburn",
+     "url": "https://ventureburn.com/hatz-ai-raises-24m-expand-msp-ai-platform/",
+     "published_at": "2026-11-12T21:02:19.000Z",
+     "amount_hint": "$24M",
+     "snippet": "Hatz AI Raises $24M to Expand Its Enterprise AI Platform for MSPs Ventureburn",
+     "text_status": "thin",
+     "text": "Venture Capital\n1 year ago\nZilch Funding $175M Boosts AI Payment Expansion"
+    },
+    {
+     "id": "7f8ffcea242a",
+     "group_key": "hatz",
+     "title": "Hatz AI: $24 Million Series A Expands AI Platform For Managed Service Providers",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/hatz-ai-24-million-series-a-expands-ai-platform-for-managed-service-providers/",
+     "published_at": "2026-11-12T21:13:45.000Z",
+     "amount_hint": "$24 Million",
+     "snippet": "Hatz AI, a provider of artificial intelligence infrastructure for managed service providers (MSPs) and small and medium-sized businesses, has raised $24 million in Series A funding backed by Nadia Partners, Vestigo Ventures, and The Private Shares Fund. The financing was led by Josh Schertzer, a partner at Nadia Partners and former Chief Technology Officer at Blackstone.\nThe post Hatz AI: $24 Million Series A Expands AI Platform For Managed Service Providers appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

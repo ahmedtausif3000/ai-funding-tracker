@@ -1,0 +1,316 @@
+{
+ "run_date": "2026-11-14",
+ "part": 4,
+ "groups": [
+  {
+   "group_key": "path robotics",
+   "company_guess": "Path Robotics",
+   "amount_hint_usd": 300000000,
+   "articles": [
+    {
+     "id": "d9c6e4334cbe",
+     "group_key": "path robotics",
+     "title": "Welding AI Maker Path Robotics Raises $300M Series E With NAVER Ventures",
+     "publisher": "Wowtale",
+     "url": "https://en.wowtale.net/2026/11/14/235995/?utm_source=rss&utm_medium=rss&utm_campaign=welding-ai-maker-path-robotics-raises-300m-series-e-with-naver-ventures",
+     "published_at": "2026-11-14T00:48:16.000Z",
+     "amount_hint": "$300M",
+     "snippet": "Welding AI Maker Path Robotics Raises $300M Series E With NAVER Ventures Wowtale",
+     "text_status": "ok",
+     "text": "Skilled welders are hard to find, and shipyards and heavy-equipment plants are sitting on full order books. Traditional industrial robots do not help much here. They follow pre-programmed paths, which makes them a poor fit for welds that differ slightly from one part to the next. Path Robotics , a Columbus, Ohio-based startup, is betting that a robot that can see and decide for itself can fill that gap. On Nov. 10, the company announced a $300 million Series E at a $2.45 billion post-money valuation.\nGeorgian , an AI-focused growth equity firm, led the round. NAVER Ventures and D. E. Shaw Ventures joined as new investors, and existing backers Addition, Drive Capital, IronArc Ventures, Tiger Global, and Yamaha Motor Ventures also took part. Georgian partner Emily Walsh will join Path’s board.\nGiving the robot eyes and judgment\nA conventional welding robot has to be taught its path step by step, and a part that sits slightly out of place can ruin the weld. Path’s physical AI welding model, Obsidian, takes that teaching out of the loop. The robot finds the weld joint on its own, plans the sequence and path, welds, and adjusts when conditions change mid-job. The model learns from real-world welding data. For a factory, that means variable welds without reprogramming the robot each time.\nThe company recently added Rove, a mobile welding system that puts Obsidian on a quadruped robot. Instead of bringing the part to a welding cell, the robot walks to the part. Path says it shows the same model can run on different robot bodies.\nARR up 17x in 18 months, led by shipbuilding and defense\nPath says its annual recurring revenue grew 17-fold over the past 18 months, though it did not disclose a dollar figure. The growth has come from shipbuilding and defense, heavy equipment, and energy infrastructure. Customers include HII, the largest U.S. shipbuilder, Lockheed Martin, and the maritime defense company Saronic , along with mid-sized manufacturers such as EK Machine, Millerbernd Manufacturing, TransAmerican Power Products, and TYCROP. Earlier this year, Path announced a $600 million performance-based production agreement with HII to deploy physical AI across U.S. Navy shipbuilding programs. Headcount has grown 97% over the past year, and the company plans to reach 400 employees by year-end.\nCEO and co-founder Andy Lonsberry said Path started with welding because it is one of the hardest jobs on the factory floor to automate. “Our goal isn’t to automate one step, but to automate the entire factory,” he said. Founded in 2018, Path has now raised more than $610 million. The new money will go toward scaling the welding business, expanding to tasks before and after welding and to new robot form factors, and training AI models.\nGeorgian pointed to Path’s proprietary models and its growing base of production data, which it said improves the system with every deployment. Lockheed Martin Ventures called the investment an important milestone for strengthening the U.S. defense industrial base.\nCompetition: welding specialists and general-purpose robot AI\nA handful of newer companies are going after the same problem. Korea’s RB-Ware makes a no-code welding robot and has installed more than 250 units in 16 countries, and NeoArcRobotics is building cutting and welding robots for Korean shipyards. Augmentus raised $11 million to scale physical AI for robotic welding, and China’s LE Robotics raised tens of millions of yuan in a Series A+ round in February. None has"
+    }
+   ]
+  },
+  {
+   "group_key": "q ctrl",
+   "company_guess": "Q-CTRL",
+   "amount_hint_usd": 290000000,
+   "articles": [
+    {
+     "id": "5877b4c9839a",
+     "group_key": "q ctrl",
+     "title": "Quantum software startup Q-CTRL raises $290M Series C",
+     "publisher": "Axios",
+     "url": "https://www.axios.com/pro/enterprise-software-deals/2026/11/12/q-ctrl-qunatum-salesforce-ventures",
+     "published_at": "2026-11-13T01:32:40.000Z",
+     "amount_hint": "$290M",
+     "snippet": "Quantum software startup Q-CTRL raises $290M Series C Axios",
+     "text_status": "blocked:403",
+     "text": null
+    },
+    {
+     "id": "5823bdd27744",
+     "group_key": "q ctrl",
+     "title": "Q-CTRL Raises US$290M in Series C Funding",
+     "publisher": "FinSMEs",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkZ5S3FHZUU5d1gwbV9vandGNWZHVmRzNzFVbTBBTkFyVmMyeUxtMC1rSDBXWGJpbEFxdl96eHlVUlJOWFc1UkIxMnN1akRZZHVia2RyanZCcXU4MjFJMXkzcEVERHlHWmREc1k3c0ZXbTByWEo2cDdUWFZMZGdjVVdMQQ?oc=5",
+     "published_at": "2026-11-13T12:15:30.000Z",
+     "amount_hint": "US$290M",
+     "snippet": "Q-CTRL Raises US$290M in Series C Funding FinSMEs",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "8ed499c9215a",
+     "group_key": "q ctrl",
+     "title": "Q-CTRL Raises $290 Million in Series C Funding Led by Salesforce Ventures to Scale Quantum Infrastructure Software",
+     "publisher": "Quantum Computing Report",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUm93aVdNeURCYUdWa0hUWXJ4UzdjV0xITHFmZ1hDS2NraFJWRjRtcTl4SmRneFhrSF9xV21TbnBtQ1VCTGxmWFU0R2dILXEzWFFLRWJyMjIzaHVHam9IVlJnNVRBdHNOYnNiR3Vja1hpNVJUNmpnZlpIUWpzQjZEVjRWLTV5QVE0SDRqV3ZJQUxfQmt1U3dDbzZnWmZQeF9mcElHblZqeTdoUURzbDFHMDdlSE9nZU5aMXptaUVzc0tNU29oQWlrcEdyZ0NQd0VzRWt2QUtpVmhZWjZVdG5jOUY5b9IB6AFBVV95cUxOR1RFUi1odU5fN0lFSUZ3aTFfSC0tVFZpWUhsUXhPNkQtZkx5NjhuRGxQR2pLaWdsQVA0TEh2SVpWSkhhNzk4RkdxZTZYUFk1bnhRcmQtOVNtMDg1T2dWVVlPSFZyMGZMUkdhWXhJZzVzOW1oQjlBdm9oUWI3R3ZXUXlkUFJaMzBZVEhLa3d0eUdzcDZsYURYaGczYmxpYXNHNEtXWlVPdGp6c0ZDblpoUUJad3ZOd0tJbmhhczljd3daMjdMbXhvSEREenBRUU5USjdQSGtPeGFRZUpnSWU2Y091Q2l6TURB?oc=5",
+     "published_at": "2026-11-13T18:23:02.000Z",
+     "amount_hint": "$290 Million",
+     "snippet": "Q-CTRL Raises $290 Million in Series C Funding Led by Salesforce Ventures to Scale Quantum Infrastructure Software Quantum Computing Report",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "ba3d20bf9142",
+     "group_key": "q ctrl",
+     "title": "Q-CTRL Raises $290 Million Series C Led by Salesforce Ventures, Reaching Unicorn Valuation",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQmxPMWllZ0VraU83aktlUTlhc2w1cWk5cGVUZkxrUm1pYUItOFljUXBIeHY4SENoZWF1S0ZTdmlQZmtvVmxaX0swWDZJUUl5dWNwUUJSSi1MVm95M1VuSXgyZzd3ZGdCRmxuN2FqNVRodlVIS3pLaVlFd1U5MkVWQTBDOUtoUWt6Q1pZNTdMTTh6bmZhUnA2QUhWQmRsRHVOc0Q4VXhKNzBWaklhZXpJWnFYQzE3dmZtS3BEWFhtV3daMHJGMUE?oc=5",
+     "published_at": "2026-11-12T19:01:04.000Z",
+     "amount_hint": "$290 Million",
+     "snippet": "Q-CTRL Raises $290 Million Series C Led by Salesforce Ventures, Reaching Unicorn Valuation citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "854dab503f6c",
+     "group_key": "q ctrl",
+     "title": "Q-CTRL Raises $290mn To Merge Quantum And AI",
+     "publisher": "Quantum Zeitgeist",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kdnNkSjJMYWRUYzVEVnFCNVNFMndFcUJ5bjlzZVBtMVVxRzNHaHUwNUFmTkYwLW5jWHdmUUUyNlFxRTlSV2JQaFY4dlV4Vkt3cHc3MFhsLTA2OTZ4cGM3UEJQMVpwOXBmTWc?oc=5",
+     "published_at": "2026-11-13T09:51:32.000Z",
+     "amount_hint": null,
+     "snippet": "Q-CTRL Raises $290mn To Merge Quantum And AI Quantum Zeitgeist",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "8ed39eb3fafc",
+     "group_key": "q ctrl",
+     "title": "Q-CTRL Raises $290M to Scale AI-Powered Quantum Technology",
+     "publisher": "Ventureburn",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtV3Z3T2ZfQUVDb3RtR1FiaFNGdzRCUzJVS1RUVHRJWTBfQlJZVWRBTWVDMmdHY0k3cng1NVNnVXVVazdKYXYxRlBXdlNSdGhCdlREMkRxdWo4dUgxb2Jyb1cyQlNiRnhrc0ZUUGpYU1NxX0dDWEptYzFEeV_SAXxBVV95cUxQLVd2d09mX0FFQ290bUdRYmhTRnc0QlMyVUtUVFR0SVkwX0JSWVVkQU1lQzJnR2NJN3J4NTVTZ1V1VWs3SmF2MUZQV3ZTUnRoQnZURDJEcXVqOHVIMW9icm9XMkJTYkZ4a3NGVFBqWFNTcV9HQ1hKbWMxRHlf?oc=5",
+     "published_at": "2026-11-13T13:00:34.000Z",
+     "amount_hint": "$290M",
+     "snippet": "Q-CTRL Raises $290M to Scale AI-Powered Quantum Technology Ventureburn",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "ce097219e221",
+     "group_key": "q ctrl",
+     "title": "Q-CTRL: $290 Million Series C Funding Led By Salesforce Ventures Creates New Quantum Technology Unicorn",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/q-ctrl-290-million-series-c-funding-led-by-salesforce-ventures-creates-new-quantum-technology-unicorn/",
+     "published_at": "2026-11-14T14:15:17.000Z",
+     "amount_hint": "$290 Million",
+     "snippet": "Q-CTRL, a developer of AI-powered quantum infrastructure software, has raised $290 million (A$415 million) in Series C funding led by Salesforce Ventures, with significant participation from Bullhound Capital and Affinity Partners. The oversubscribed financing establishes Q-CTRL as a new quantum technology unicorn and provides capital to accelerate the commercialization of its quantum computing and sensing technologies across data centers, aviation, autonomous systems, and other industries.\nThe post Q-CTRL: $290 Million Series C Funding Led By Salesforce Ventures Creates New Quantum Technology",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "crypto vc funding project",
+   "company_guess": "Crypto VC funding: Project",
+   "amount_hint_usd": 270000000,
+   "articles": [
+    {
+     "id": "3088f0970c43",
+     "group_key": "crypto vc funding project",
+     "title": "Crypto VC funding: Project Faro commits $270m, Index raises $50m",
+     "publisher": "Crypto News",
+     "url": "https://crypto.news/crypto-vc-funding-project-faro-index-industries/",
+     "published_at": "2026-11-14T06:12:00.000Z",
+     "amount_hint": "$270m",
+     "snippet": "Crypto VC funding: Project Faro commits $270m, Index raises $50m Crypto News",
+     "text_status": "ok",
+     "text": "Home &rarr; News &rarr; Crypto VC funding: Project Faro commits $270m, Index raises $50m\nCrypto VC funding: Project Faro commits $270m, Index raises $50m\nBy Lawrence Mondal\nNov 14, 2026 at 6:12 AM UTC\nEdited by Olivia Stephanie\nNews\nThe payment rail for your crypto. One card. Every chain. No KYC. Spend with Apple Pay or Google Pay in 180+ countries.\nShare\nLink copied\nCrypto financing announcements have totaled approximately $408.55 million across nine disclosed transactions during Nov. 7–13, 2026, led by a reported $270 million commitment to the bank-backed stablecoin venture Project Faro.\nSummary\nNine disclosed financings totaled $408.55 million, including bank commitments and two public token sales.\nProject Faro drew approximately $270 million in reported commitments for five years of operations.\nIndex Industries raised $50 million in seed funding led by Lightspeed Venture Partners.\nAlta secured a $47.5 million Series A, bringing its cumulative funding to $80 million.\nProject Faro, Index and Alta accounted for nearly 90% of the disclosed weekly total.\nThe tally includes corporate funding commitments and public token sales alongside venture rounds. Four further announcements covered cumulative or undisclosed funding.\nDefiLlama’s funding database provided the weekly inventory, with company announcements, investor disclosures and reporting used to check transaction details.\nProject Faro leads crypto financing with $270 million commitment\nGoldman Sachs, Citigroup, Santander and Deutsche Bank were among institutions committing around $270 million to a stablecoin venture , as crypto.news reported, citing Bloomberg’s Nov. 10 report.\nKnown as Project Faro, the proposed business would use the capital to cover five years of operating costs. The figure represents committed corporate financing, with no announcement that the full amount has been paid.\nThe 21-member consortium expects to establish its issuer in the United States. Its stated launch window is the first half of 2027, beginning with a dollar stablecoin intended for payments and digital asset settlement. A euro token is planned later.\nYou might also like:\nCrypto VC funding: Kalshi raises $1b, HIVE secures $129m loan\nIndex Industries raises $50 million for housing investment infrastructure\nIndex Industries emerged from stealth on Nov. 10 with a $50 million seed round led by Lightspeed Venture Partners. Polychain Capital, Galaxy Ventures and Wintermute Ventures participated.\nFounded by former Polychain president Josh Rosenthal and Longmark CEO Brian Hardecker, the company is developing a daily U.S. home-price index and tokenization infrastructure for housing-linked investment products.\nIts first planned application is USHP, issued separately by British Virgin Islands-based USHP Limited. The issuer plans an Ethereum release in 2026 and a Solana expansion in 2027.\nThe announcement states that the referenced securities are unregistered in the United States and cannot be offered to U.S. persons without registration or an applicable exemption.\nAlta secures $47.5 million for institutional blockchain infrastructure\nAlta announced a $47.5 million Series A led by Index Ventures on Nov. 10, with GV, Blackbird Ventures, Square Peg and Capital49 participating.\nThe San Francisco company, previously known as Metal, disclosed $80 million in total funding, including $32.5 million in earlier seed financing. Only the Series A enters this week’s total.\nAlta is building a blockchain with privacy, identity, a"
+    }
+   ]
+  },
+  {
+   "group_key": "swiss biotech windward",
+   "company_guess": "Swiss Biotech Windward",
+   "amount_hint_usd": 225000000,
+   "articles": [
+    {
+     "id": "54c7a153242d",
+     "group_key": "swiss biotech windward",
+     "title": "Swiss Biotech Windward Raises $225 Million in US IPO, Placement",
+     "publisher": "Bloomberg.com",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/swiss-biotech-windward-raises-225-million-in-us-ipo-placement",
+     "published_at": "2026-11-12T23:32:55.000Z",
+     "amount_hint": "$225 Million",
+     "snippet": "Swiss Biotech Windward Raises $225 Million in US IPO, Placement Bloomberg.com",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "sanofi backed windward bio",
+   "company_guess": "Sanofi-backed Windward Bio",
+   "amount_hint_usd": 225000000,
+   "articles": [
+    {
+     "id": "5ece8f62999c",
+     "group_key": "sanofi backed windward bio",
+     "title": "Sanofi-backed Windward Bio raises $225 million in its Nasdaq IPO as Rezera postpones its listing",
+     "publisher": "MLQ.ai",
+     "url": "https://mlq.ai/news/sanofi-backed-windward-bio-raises-225-million-in-its-nasdaq-ipo-as-rezera-postpones-its-listing/",
+     "published_at": "2026-11-13T22:12:10.000Z",
+     "amount_hint": "$225 million",
+     "snippet": "Sanofi-backed Windward Bio raises $225 million in its Nasdaq IPO as Rezera postpones its listing MLQ.ai",
+     "text_status": "ok",
+     "text": "STOCKS\nFUNDING\nIPO\nSANOFI\nWINDWARD BIO\nSanofi-backed Windward Bio raises $225 million in its Nasdaq IPO as Rezera postpones its listing\nNov 13, 2026\n·\n6:57 PM\n·\nBy MLQ.ai Newsroom · Edited by Peter Foy\n·\n2 min read\nKey points\nWindward sold 10,294,117 shares at $17 and Sanofi bought $50 million of shares and pre-funded warrants at the same price, for $225 million in expected gross proceeds [1] .\nIts lead drug, WIN378, a TSLP antibody licensed from China's Kelun Biotech, is in a Phase 2/3 asthma trial with results expected next year [2] .\nRezera postponed its $200 million IPO of 16.7 million shares at $11 to $13 [3] [4] .\nWindward Bio Group priced its initial public offering of 10,294,117 shares at $17 each on Nov. 12, the midpoint of its $16 to $18 range, and sold an additional $50 million of shares and pre-funded warrants to Sanofi in a concurrent private placement at the same price [1] [5] . Gross proceeds are expected to total $225 million before fees and before the underwriters' option on 1,544,117 more shares [1] . The stock began trading on the Nasdaq Global Select Market on Friday under the symbol WWB, and the deal is set to close on Nov. 16 [1] .\nBoston-based Rezera postponed a planned $200 million IPO on the evening of Nov. 11, citing market conditions, according to IPOScoop [4] . Jefferies and TD Cowen were bookrunners on both deals, alongside Piper Sandler and UBS for Windward and Cantor Fitzgerald for Rezera [1] [3] .\nTwo drugs licensed from China\nWindward, formed two years ago, raised $365 million of venture funding before the IPO [2] . Its lead drug, WIN378, is an ultra-long-acting injectable that blocks TSLP, the same inflammatory protein targeted by AstraZeneca and Amgen's Tezspire, and could be dosed as rarely as twice a year against Tezspire's monthly schedule [2] . Windward licensed it from Kelun Biotech, which co-developed it with Harbour BioMed [2] . The Phase 3 part of an asthma trial began in September with results expected next year, and a mid-stage COPD study started in June with data due in 2027 [2] . A second drug, WIN027, licensed from Qyuns Therapeutics, targets both TSLP and IL-13 [2] . Windward paid $70 million upfront in cash and equity for the two programs and owes up to $1.6 billion more in milestone payments [2] .\nWindward is the biotech sector's 30th IPO this year, according to BioPharma Dive, which counts 2026 as the busiest year for drugmaker listings since 2021, with more than $8 billion raised [2] .\nRezera steps back\nRezera, formerly NodThera, develops oral NLRP3 inhibitors for inflammatory diseases and describes itself as Phase 3-ready [3] [4] . It had planned to sell 16.7 million shares at $11 to $13 on the Nasdaq under the symbol RZRA, and GSK had indicated interest in buying up to $25 million of the offering, about 13% of the deal [3] . Its last amended registration statement was filed with the SEC on Nov. 9 [6] . The company has not said when it might return. The postponement came in the same week that Anthropic's bankers weighed pricing its IPO above its marketed range.\nCompanies mentioned\nGSK plc\nGSK\nSanofi\nSNY\nFurther sources\n[1]\nWindward Bio Group AG, Windward Bio Announces Pricing of Initial Public Offerin…\n↗\n[2]\nBioPharma Dive via Yahoo Finance, Windward prices $175M IPO to advance China-li…\n↗\n[3]\nRenaissance Capital, Inflammatory disease biotech Rezera postpones $200 million…\n↗\n[4]\nIPOScoop, Rezera (Postponed)\n↗\n[5]\nRenaissance Capital, Switzerland-based respiratory biotech Windward Bio"
+    }
+   ]
+  },
+  {
+   "group_key": "midwest startups",
+   "company_guess": "Midwest startups",
+   "amount_hint_usd": 213500000,
+   "articles": [
+    {
+     "id": "3b41c20bc71d",
+     "group_key": "midwest startups",
+     "title": "Midwest startups raise $213.5 million in a week. Where is the money going?",
+     "publisher": "Techli",
+     "url": "https://techli.com/midwest-startups-raise-213-5-million-in-a-week-where-is-the-money-going/11701/",
+     "published_at": "2026-11-13T01:41:53.000Z",
+     "amount_hint": "$213.5 million",
+     "snippet": "Midwest startups raise $213.5 million in a week. Where is the money going? Techli",
+     "text_status": "ok",
+     "text": "Four of six deals are reported in Chicago, and the region is experiencing the latest funding activity in the form of investments in AI infrastructure and financial services.\nAccording to StartMidwest’s funding roundup , $213.5 million was raised in six deals by Midwest startups and financial technology companies during the week ending Nov. 6, with two $100 million rounds accounting for almost all the capital.\nOcient, an AI infrastructure firm in Chicago, and Erebor Bank, which is based in Columbus, Ohio, were the leaders of the activity. The remaining included health care technology, artificial intelligence and fintech firms, reflecting the diversity of sectors that are being invested in all over the region.\nThe headline figure, however, requires some qualification: Erebor Bank’s $100 million investment from Japan’s SBI Holdings was announced as a planned commitment, not a completed financing round. The difference is important in evaluating the amount of capital that actually has flowed to companies in the Midwest.\nThe biggest round up to date was Ocient’s $100 million Series C , which was announced on November 5. The investment, led by BOKA Capital and OCA Ventures, totals $260 million for the Chicago firm. Other investors who were on board included existing investors Greycroft, In-Q-Tel, Blue Bear Capital, Buoyant Ventures, PSP Growth, Pritzker Group Venture Capital and Eron Wolf. Dallas Venture Capital joined as a new investor.\nOcient is a company that creates data analytics and AI solutions for enterprises dealing with vast amounts of data. The new investment will allow it to continue developing its OcientAIQ solutions that enable enterprises to deploy AI agents and analytics in petabyte-scale data environments.\nReliable, governed data is becoming a key infrastructure need as businesses delve into agentic AI systems that can analyze information and execute tasks. Ocient claims its solution can be used for data governance along with high-performance data analytics, enabling AI agents and analysts to ask questions about the data in a customer’s environment.\nThe company anticipates that its revenue will more than triple in 2026 due to the demand of customers with growing and high-volume data sets. This projection is not a financial result but an estimate by Ocient.\nThe second $100 million was from a digital bank called Erebor Bank, based in Columbus, Ohio, which offers services to companies in fields such as artificial intelligence, robotics and advanced manufacturing, defense, and energy. The timing of the completion of the investment was not mentioned in the funding roundup, but SBI Holdings revealed its plan to invest $100 million .\nFour of the six transactions were in Chicago. In addition to Ocient, medical technology firm Focused Medical Technologies, a treatment developer for pulmonary embolism, secured $6 million in investment, including two medical technology strategic investors and UCM Ventures. The University of Chicago startup is targeting the funds for product development, manufacturing and setting up for a pivotal study in the United States.\nConsumer insights firm QualSights raised $5 million in funding, led by Duo Partners. The company employs smart sensors and a consumer application and AI analytics to provide a better understanding of how humans use physical products. The funding came with the appointment of Prasanna Pitale as Chief Executive.\nFifth Star Funds and Chicago Early Growth Ventures joined Izou Partners as th"
+    }
+   ]
+  },
+  {
+   "group_key": "patrick industries",
+   "company_guess": "Patrick Industries",
+   "amount_hint_usd": 200000000,
+   "articles": [
+    {
+     "id": "e0c4885f1cda",
+     "group_key": "patrick industries",
+     "title": "Patrick Industries Raises Dividend and Renews $200 Million Buyback",
+     "publisher": "Securities.io",
+     "url": "https://www.securities.io/patrick-industries-raises-dividend-and-renews-200-million-buyback/",
+     "published_at": "2026-11-13T13:50:03.000Z",
+     "amount_hint": "$200 Million",
+     "snippet": "Patrick Industries Raises Dividend and Renews $200 Million Buyback Securities.io",
+     "text_status": "ok",
+     "text": "Market News\nPatrick Industries Raises Dividend and Renews $200 Million Buyback\nPublished\nNovember 13, 2026\nBy\nElena Kovacs Global Equities & Earnings, AI Research Agent\nAdd Securities.io to your preferred sources on Google\nTable Of Contents\nKey Points Patrick raised its dividend while merger covenants block use of the renewed buyback…\nView more\nPatrick raised its dividend while merger covenants block use of the renewed buyback capacity.\nThe repurchase authorization sits idle because the pending LCI merger restricts Patrick from buying its own stock.\nPatrick balances shareholder returns against funding organic growth and acquisitions from its cash generation.\nPatrick Industries ( PATK ) announced on November 13, 2026 that its board had increased the quarterly common-stock dividend to $0.52 per share from $0.47 and replenished its share-repurchase authorization to $200 million. The announcement pairs a higher cash payout with additional repurchase capacity that cannot currently be used because of covenants in Patrick’s pending all-stock merger with LCI Industries ( LCII ) .\nThe board approved the dividend increase on November 11, 2026. The new rate is approximately 10.6% above the previous rate, calculated from the announced per-share amounts. The dividend is payable on December 7, 2026, to shareholders of record at the close of business on November 23, 2026.\nRepurchase Capacity Remains Restricted\nThe authorization covers repurchases over the next 24 months and includes $61.9 million that remained under the previous authorization. The board therefore added $138.1 million of capacity, calculated as the difference between the new total and the remaining amount.\nThe repurchase program cannot presently be used. Patrick entered into the LCI merger agreement on June 30, 2026, and its operating covenants restrict repurchases of Patrick common stock. The company expects those restrictions to remain in place while the agreement is in effect.\nThe restrictions were already visible in Patrick’s third-quarter report , which said the company made no share repurchases during the quarter because of the merger agreement. The SEC declared the merger registration statement effective on October 19, 2026, and Patrick has scheduled a special shareholder meeting for November 18, 2026.\nCash Flow and Capital Allocation\nChief Executive Officer Andy Nemeth said the decisions were grounded in Patrick’s capital allocation, cash generation and balance sheet. “Since initiating our quarterly dividend in 2019, we have raised it each year and have been active with share repurchases, deploying $106.1 million in the first nine months of 2026,” he said.\nReturning capital is only one use of that cash. Nemeth said cash generation through the cycle also enables investment in organic initiatives and strategic mergers and acquisitions, which Patrick expects to remain a priority.\nThe latest results provide context for those competing demands. Third-quarter net sales were $975 million, compared with $976 million a year earlier, while operating income declined to $50 million from $66 million. For the first nine months of 2026, operating cash flow was $147 million, down from $199 million in the prior-year period. Patrick attributed the change to working-capital deployment supporting its composite-products growth strategy and inventory management for customers.\nTrailing-twelve-month free cash flow, which Patrick defines as operating cash flow less purchases of property, plant and equi"
+    }
+   ]
+  },
+  {
+   "group_key": "asset based lending",
+   "company_guess": "Asset Based Lending",
+   "amount_hint_usd": 200000000,
+   "articles": [
+    {
+     "id": "a8a3f1bdc55e",
+     "group_key": "asset based lending",
+     "title": "Asset Based Lending Announces Fourth Securitization of $200 Million, Marking Largest Transaction to Date",
+     "publisher": "",
+     "url": "https://www.prnewswire.com/news-releases/asset-based-lending-announces-fourth-securitization-of-200-million-marking-largest-transaction-to-date-302938285.html",
+     "published_at": "2026-11-12T18:33:00.000Z",
+     "amount_hint": "$200 Million",
+     "snippet": "JERSEY CITY, N.J., Nov. 12, 2026 /PRNewswire/ -- Asset Based Lending (ABL), a national private lender and a driving force behind the next generation of real estate investment, has successfully closed its fourth unrated securitization, totaling $200 million. The transaction, ABL 2026...",
+     "text_status": "ok",
+     "text": "Asset Based Lending Announces Fourth Securitization of $200 Million, Marking Largest Transaction to Date\nNews provided by\nAsset Based Lending, LLC\nNov 12, 2026, 13:33 ET\nShare this article\nShare this article\nJERSEY CITY, N.J. , Nov. 12, 2026 /PRNewswire/ -- Asset Based Lending (ABL) , a national private lender and a driving force behind the next generation of real estate investment, has successfully closed its fourth unrated securitization, totaling $200 million. The transaction, ABL 2026 RTL-1, which priced on October 15 and closed on October 26, marks ABL's largest to date, bringing its cumulative securitization volume to $723 million.\nThe transaction is backed by a diversified pool of business-purpose residential real estate loans, with an industry-leading concentration of ground-up infill construction loans. This reflects ABL's 16 years of experience in ground-up construction lending and its proven ability to manage the complexities and risks of residential development.\n\"We are proud to lead the industry in financing ground-up construction, and to do it at a cost that keeps our pricing competitive for the builders we serve,\" said Kevin Rodman, CEO of ABL. \"This transaction underscores the strength of the platform our team has built and the confidence investors have in our credit. Every one of these loans puts new housing on the ground.\"\nThe transaction also demonstrates ABL's ability to navigate challenging market conditions. Despite heightened volatility and increased investor selectivity across the securitization market, ABL secured competitive financing terms. The deal reached the market in approximately three weeks, making it one of the company's fastest securitization executions.\nPerformance Trust Capital Partners, LLC served as structuring agent, with Nomura Securities International, Inc. (\"Nomura\") and Mizuho Securities USA LLC serving as joint bookrunners.\n\"Successfully executing this transaction amid market volatility reinforces the effectiveness of our capital markets strategy and the quality of our platform,\" said Daniel Gotay, Head of Capital Markets at ABL. \"We have built durable relationships with institutional investors and established a track record they can underwrite, giving us consistent access to capital. For our borrowers, that is what matters most: they can count on ABL to fund their projects from start to finish.\"\nThe securitization also reflects ABL's expanding national footprint, with collateral spanning the Northeast, Sun Belt, Rust Belt and South. This geographic diversification supports the company's strategy to continue growing beyond its established Northeast presence and finance residential development in markets across the country.\nTo learn more about ABL, please visit www.ablfunding.com .\nAbout Asset Based Lending\nAsset Based Lending was established in 2010, providing fast bridge financing to real estate investors for the purchase, renovation, new construction, and long-term refinance of single-family, multi-family, and mixed-use properties. A trusted lender to thousands of investors, Asset Based Lending has closed over $4.4 billion in loans since its founding. Learn more at https://www.ablfunding.com/ . Follow the company on LinkedIn .\nSOURCE Asset Based Lending, LLC\n&times;\nModal title"
+    },
+    {
+     "id": "ce451f16eb52",
+     "group_key": "asset based lending",
+     "title": "Asset Based Lending: $200 Million Securitization Sets Company Record",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/asset-based-lending-200-million-securitization-sets-company-record/",
+     "published_at": "2026-11-12T21:27:50.000Z",
+     "amount_hint": "$200 Million",
+     "snippet": "Asset Based Lending has closed a $200 million unrated securitization, its largest transaction to date, bringing cumulative securitization volume to $723 million.\nThe post Asset Based Lending: $200 Million Securitization Sets Company Record appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "african startups",
+   "company_guess": "African startups",
+   "amount_hint_usd": 183000000,
+   "articles": [
+    {
+     "id": "d2329b4d483a",
+     "group_key": "african startups",
+     "title": "African startups raise $183 million in October",
+     "publisher": "African Manager",
+     "url": "https://en.africanmanager.com/african-startups-raise-183-million-in-october/",
+     "published_at": "2026-11-14T08:47:30.000Z",
+     "amount_hint": "$183 million",
+     "snippet": "African startups raise $183 million in October African Manager",
+     "text_status": "ok",
+     "text": "Trending Now\nQawafel Project: More than 523 companies and organizations benefit from program\nTunisair improves operational efficiency as fuel and maintenance costs surge\nAfrican startups raise $183 million in October\nA Bank losing on lending, profiting from currency exchange\nItaly’s Ansaldo Energia seeks to expand its food print in Tunisia’s electricity sector\nChemicals and fertilizers: Higher prices, but significantly lower export volumes\nDélice Holding shares: Seven block trades worth TND 63.2 million on Tunis Stock Exchange\nRoads move ahead, housing still waiting\nE-payments gain momentum in Tunisia\nTunisia: SAH Lilas Group strengthens operating profitability in H1 2026\nHome News African startups raise $183 million in October\nNews\nAfrican startups raise $183 million in October\nBy AfricanManager\n14/11/2026\n0\n0\nShare\nFacebook\nX\nLinkedin\nEmail\nWhatsApp\nViber\nPinterest\nReddIt\nTumblr\nTelegram\nDigg\nMix\nPrint\nAfrican startups raised a total of $183 million in October 2026 through 34 funding deals worth at least $100,000 each, according to the monthly report published on November 5 by investment tracking platform Africa: The Big Deal.\nThe amount represents a 24% decline compared with September and stands 29% below the average monthly funding of $259 million recorded over the past 12 months.\nThe slowdown was even more pronounced year-on-year. Funding fell by 58% from the $435 million raised by African startups in October 2025. The number of announced transactions also declined, with 34 deals recorded in October, against a monthly average of 43 over the past year.\nEquity financing accounts for 60% of October funding\nEquity investments dominated fundraising activity, accounting for $110 million, or 60% of the total raised during the month.\nDebt financing amounted to $71 million, representing 39% of total funding, while grants accounted for approximately $2 million.\nThe two largest transactions each reached $40 million and were concluded outside Africa’s four leading startup funding markets: Egypt, Kenya, Nigeria and South Africa.\nIn Morocco, health tech company ABA Life secured a $40 million investment agreement with pan-African investment fund Admaius Capital Partners.\nFounded in 2021, the company develops solutions combining artificial intelligence, medical technologies, telemedicine and connected healthcare infrastructure. The funding will support its artificial intelligence programme for healthcare systems and facilitate its international expansion.\nIn Tanzania, agritech platform East Africa Foods raised nearly $40 million to expand its processing, storage and logistics capabilities, as well as its digital tools.\nThe company works with more than 28,000 small-scale farmers and supplies over 10,000 urban retailers. It plans to use the financing to expand into additional East African markets.\nNigeria leads African startup funding\nNigeria topped the continental ranking in October, with nine startups raising a combined $42 million, primarily through debt financing in the energy and mobility sectors.\nMorocco and Tanzania followed with $40 million each, largely driven by the two major transactions involving ABA Life and East Africa Foods.\nEgypt ranked fourth with $19 million, followed by Senegal with $13 million.\nA notable shift in funding distribution was also recorded. Startups based in Africa’s four largest funding markets attracted just 46% of total capital raised in October, their lowest monthly share since November 2022.\nNevertheless, these f"
+    }
+   ]
+  },
+  {
+   "group_key": "windward",
+   "company_guess": "Windward",
+   "amount_hint_usd": 175000000,
+   "articles": [
+    {
+     "id": "9760e942d653",
+     "group_key": "windward",
+     "title": "Windward raises $175M in IPO, adds $50M from Sanofi",
+     "publisher": "European Biotechnology Magazine",
+     "url": "https://european-biotechnology.com/latest-news/windward-raises-175m-in-ipo-adds-50m-from-sanofi/",
+     "published_at": "2026-11-13T16:58:59.000Z",
+     "amount_hint": "$175M",
+     "snippet": "Windward raises $175M in IPO, adds $50M from Sanofi European Biotechnology Magazine",
+     "text_status": "thin",
+     "text": "EyEM, Freepik.com\nDenmark\nThe rollercoaster ride stopps and danish IO Biotech goes bust\nThe Copenhagen-based cancer immunotherapy company IO Biotech has come to an abrupt end, marking one of the more sobering recent failures in Europe’s mid-cap biotech segment. Founded in 2019, the company … more ➔"
+    },
+    {
+     "id": "595b6fd543ac",
+     "group_key": "windward",
+     "title": "Windward Bio Raises $175 Million in IPO for Innovative Antibody Development",
+     "publisher": "Intellectia AI",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTms5SUR2RGRHYndrajNCSnNLVllkQ1hRekhRbjdqVEdBNDY5Y3VnNnBndHZJcHBQYUE2WWFKN054VmVmQlJscFZCV3BXN3FTU3RiNkx4VXFMSVk2YjhLX3Ftb01uSEhUT0pDdm5Vc3pWVUpla1ZQN1BoVmZSREo1T25SS2paQ2NxRF93Wk1TM0RIZlg3VG9OVGZjcFl6czlJQlNBaGxCbHhsbFU5?oc=5",
+     "published_at": "2026-11-14T11:16:08.000Z",
+     "amount_hint": "$175 Million",
+     "snippet": "Windward Bio Raises $175 Million in IPO for Innovative Antibody Development Intellectia AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "4d23f9fa58bb",
+     "group_key": "windward",
+     "title": "Windward Bio Raises $175M in US IPO",
+     "publisher": "Voice of Healthcare",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeVJVTWt1bWpYMjRBOWQ3Rm0zeWt6VFE1Vl91LWpOamY3RG5BcWdjWldxM19ueFRDZXpNVWJxWlJQZ3BKd0xGUWdDQ29XNHhwTTQySlJ6WU9pcXAzMk12czRhWl9VUmZCU1U3RWJHb3lPTW96bFJSNjlUN0ZvelJMWG9QRDNvZEpIYV9Nc3ZsRVZNU3NoVThrZFgtejQxdWIxakVZ?oc=5",
+     "published_at": "2026-11-13T06:50:00.000Z",
+     "amount_hint": "$175M",
+     "snippet": "Windward Bio Raises $175M in US IPO Voice of Healthcare",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "6f709b4b97c7",
+     "group_key": "windward",
+     "title": "Novo Holdings-Backed Windward Bio Raises $175m in US IPO as Biotech Listings Gather Pace",
+     "publisher": "Tekedia",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXQzWXdUNzVzeHYxWDg5UEkycHVzdF9WRGJTZlRqelF2bXVpNGVnRXZoZ2ZKZ2tuUlJxY2RnUWJyeV9nS0ticXJJbnJpVFo4UzBDa0NZaXhLWm15YVpIdkJ1LUNSMXRwRFc2eXMyR01lMzVzSVUyZGNwbGtDTjVCMmpTOVZaWUstTzh1dXoxOW5STXJGbHkyU1JaZE10MUhnMzFieUJBV2ZjczBRNFoyY2J3?oc=5",
+     "published_at": "2026-11-13T19:15:20.000Z",
+     "amount_hint": "$175m",
+     "snippet": "Novo Holdings-Backed Windward Bio Raises $175m in US IPO as Biotech Listings Gather Pace Tekedia",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  }
+ ]
+}
