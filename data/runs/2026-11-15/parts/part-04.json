@@ -1,0 +1,232 @@
+{
+ "run_date": "2026-11-15",
+ "part": 4,
+ "groups": [
+  {
+   "group_key": "q ctrl",
+   "company_guess": "Q-CTRL",
+   "amount_hint_usd": 290000000,
+   "articles": [
+    {
+     "id": "b5d63afd0fad",
+     "group_key": "q ctrl",
+     "title": "Quantum Error-Reduction Software Maker Q-CTRL Raises $290 Million Series C",
+     "publisher": "Wowtale",
+     "url": "https://en.wowtale.net/2026/11/15/236022/?utm_source=rss&utm_medium=rss&utm_campaign=quantum-error-reduction-software-maker-q-ctrl-raises-290-million-series-c",
+     "published_at": "2026-11-15T11:13:23.000Z",
+     "amount_hint": "$290 Million",
+     "snippet": "Quantum Error-Reduction Software Maker Q-CTRL Raises $290 Million Series C Wowtale",
+     "text_status": "ok",
+     "text": "Money is pouring into companies that build quantum computers. Oratomic raised a $475 million Series B in October, and Universal Quantum closed a Series A of more than $100 million. But whether qubits are made from neutral atoms or trapped ions, the problem is the same: they are sensitive to noise and make errors mid-calculation. Q-CTRL , an Australian company that sells software to reduce those errors, said it raised a $290 million Series C (A$415 million). It says the round makes it the newest quantum unicorn, though it did not disclose a valuation.\nSoftware that makes other companies’ chips usable\nQ-CTRL does not build quantum computers. Founded in 2017 by Michael Biercuk , a University of Sydney physicist, it sells software that helps machines built by other companies run better. It pitches a hardware-agnostic design that is not tied to any one qubit technology.\nIt has two main products. Fire Opal is cloud software that automatically shortens the quantum circuits a developer writes, maps them onto a chip according to each machine’s error profile and corrects measurement errors before returning results. It runs on IBM’s quantum service, IonQ and Rigetti systems and Amazon Braket, among others, and the company claims it can run circuits up to 10 times deeper on the same hardware. Boulder Opal is for those who build or operate quantum computers. Even after it is switched on, a quantum computer needs its control signals tuned qubit by qubit, and the product automates that calibration and upkeep without a team of physicists. It supports superconducting and semiconductor spin-qubit machines, with trapped-ion and neutral-atom support available on request, the company says. Its target customers are chipmakers and data center and HPC operators. In computing, the company also claims a 3,000x speedup in materials discovery for the energy sector.\nThe third business pairs software with sensors. Ironstone Opal is a navigation system for places where GPS is unavailable or jammed. It measures tiny variations in the Earth’s magnetic field and matches them against a magnetic map to find its position. The company builds the quantum magnetometers itself, and AI software filters out the magnetic interference the aircraft generates. The company says the system is 100 times better than the best alternative, but in its published flight trial it reported up to 50 times lower positioning uncertainty than an inertial navigation system. It says Ironstone Opal is being deployed on commercial aircraft with Airbus, on autonomous platforms with Lockheed Martin and on drones. All performance figures come from the company.\nLed by Salesforce Ventures, expanded twice\nSalesforce Ventures led the round, with Bullhound Capital and Affinity Partners named as headline participants. The company says it expanded the round twice to meet investor demand and calls it the largest raise by a software-focused quantum company. Q-CTRL expanded its Series B to $113 million in October 2024.\nNew investors are Affinity Partners, AMD Ventures, EDGE Group, MPower Partners, Australia’s National Reconstruction Fund Corporation and SPARX Asset Management. Returning investors are Alpha Edison, Alumni Ventures, Bullhound Capital, DCVC, In-Q-Tel, Lockheed Martin Ventures, Main Sequence, Ridgeline, Salesforce Ventures, Salus Ventures and Square Peg. The company says the mix of strategic, private equity and growth-stage venture investors positions it to scale through joint sales, technology integr"
+    },
+    {
+     "id": "39adc63ede42",
+     "group_key": "q ctrl",
+     "title": "Q-CTRL: $290 Million Series C Funding Led By Salesforce Ventures Creates New Quantum Technology Unicorn",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOXFoeENKSV9pS0hPeGtHUzlLM2ZyanZ0YktEX3U4TUxNUWJzMVVaS0JGR0tSYVhKV09kaUZjaTlsQUFHVGZxOF9OUldGRWk4SDJHM0hpaVY1cXg0c3lfcWVnUzR1ZUJITEFoczFrd25abnVYeEUxV3JrQ2d2eERWajVTcHR1eVB4MF84YzBFNmFENDlUZjRrcEh3aWJKSUtPN1RvTVlHQlN6NVM3anIwczVoQWJhNmU1RUJGVXln?oc=5",
+     "published_at": "2026-11-14T14:15:17.000Z",
+     "amount_hint": "$290 Million",
+     "snippet": "Q-CTRL: $290 Million Series C Funding Led By Salesforce Ventures Creates New Quantum Technology Unicorn Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "ce097219e221",
+     "group_key": "q ctrl",
+     "title": "Q-CTRL: $290 Million Series C Funding Led By Salesforce Ventures Creates New Quantum Technology Unicorn",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/q-ctrl-290-million-series-c-funding-led-by-salesforce-ventures-creates-new-quantum-technology-unicorn/",
+     "published_at": "2026-11-14T14:15:17.000Z",
+     "amount_hint": "$290 Million",
+     "snippet": "Q-CTRL, a developer of AI-powered quantum infrastructure software, has raised $290 million (A$415 million) in Series C funding led by Salesforce Ventures, with significant participation from Bullhound Capital and Affinity Partners. The oversubscribed financing establishes Q-CTRL as a new quantum technology unicorn and provides capital to accelerate the commercialization of its quantum computing and sensing technologies across data centers, aviation, autonomous systems, and other industries.\nThe post Q-CTRL: $290 Million Series C Funding Led By Salesforce Ventures Creates New Quantum Technology",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "crypto vc funding project",
+   "company_guess": "Crypto VC funding: Project",
+   "amount_hint_usd": 270000000,
+   "articles": [
+    {
+     "id": "3088f0970c43",
+     "group_key": "crypto vc funding project",
+     "title": "Crypto VC funding: Project Faro commits $270m, Index raises $50m",
+     "publisher": "Crypto News",
+     "url": "https://crypto.news/crypto-vc-funding-project-faro-index-industries/",
+     "published_at": "2026-11-14T06:12:00.000Z",
+     "amount_hint": "$270m",
+     "snippet": "Crypto VC funding: Project Faro commits $270m, Index raises $50m Crypto News",
+     "text_status": "ok",
+     "text": "Home &rarr; News &rarr; Crypto VC funding: Project Faro commits $270m, Index raises $50m\nCrypto VC funding: Project Faro commits $270m, Index raises $50m\nBy Lawrence Mondal\nNov 14, 2026 at 6:12 AM UTC\nEdited by Olivia Stephanie\nNews\nThe payment rail for your crypto. One card. Every chain. No KYC. Spend with Apple Pay or Google Pay in 180+ countries.\nShare\nLink copied\nCrypto financing announcements have totaled approximately $408.55 million across nine disclosed transactions during Nov. 7–13, 2026, led by a reported $270 million commitment to the bank-backed stablecoin venture Project Faro.\nSummary\nNine disclosed financings totaled $408.55 million, including bank commitments and two public token sales.\nProject Faro drew approximately $270 million in reported commitments for five years of operations.\nIndex Industries raised $50 million in seed funding led by Lightspeed Venture Partners.\nAlta secured a $47.5 million Series A, bringing its cumulative funding to $80 million.\nProject Faro, Index and Alta accounted for nearly 90% of the disclosed weekly total.\nThe tally includes corporate funding commitments and public token sales alongside venture rounds. Four further announcements covered cumulative or undisclosed funding.\nDefiLlama’s funding database provided the weekly inventory, with company announcements, investor disclosures and reporting used to check transaction details.\nProject Faro leads crypto financing with $270 million commitment\nGoldman Sachs, Citigroup, Santander and Deutsche Bank were among institutions committing around $270 million to a stablecoin venture , as crypto.news reported, citing Bloomberg’s Nov. 10 report.\nKnown as Project Faro, the proposed business would use the capital to cover five years of operating costs. The figure represents committed corporate financing, with no announcement that the full amount has been paid.\nThe 21-member consortium expects to establish its issuer in the United States. Its stated launch window is the first half of 2027, beginning with a dollar stablecoin intended for payments and digital asset settlement. A euro token is planned later.\nYou might also like:\nCrypto VC funding: Kalshi raises $1b, HIVE secures $129m loan\nIndex Industries raises $50 million for housing investment infrastructure\nIndex Industries emerged from stealth on Nov. 10 with a $50 million seed round led by Lightspeed Venture Partners. Polychain Capital, Galaxy Ventures and Wintermute Ventures participated.\nFounded by former Polychain president Josh Rosenthal and Longmark CEO Brian Hardecker, the company is developing a daily U.S. home-price index and tokenization infrastructure for housing-linked investment products.\nIts first planned application is USHP, issued separately by British Virgin Islands-based USHP Limited. The issuer plans an Ethereum release in 2026 and a Solana expansion in 2027.\nThe announcement states that the referenced securities are unregistered in the United States and cannot be offered to U.S. persons without registration or an applicable exemption.\nAlta secures $47.5 million for institutional blockchain infrastructure\nAlta announced a $47.5 million Series A led by Index Ventures on Nov. 10, with GV, Blackbird Ventures, Square Peg and Capital49 participating.\nThe San Francisco company, previously known as Metal, disclosed $80 million in total funding, including $32.5 million in earlier seed financing. Only the Series A enters this week’s total.\nAlta is building a blockchain with privacy, identity, a"
+    }
+   ]
+  },
+  {
+   "group_key": "saudi acwa power",
+   "company_guess": "Saudi ACWA Power",
+   "amount_hint_usd": 226000000,
+   "articles": [
+    {
+     "id": "2e938790c673",
+     "group_key": "saudi acwa power",
+     "title": "Saudi ACWA Power closes $226 million financing for Uzbekistan wind power project",
+     "publisher": "jawlah.co",
+     "url": "https://jawlah.co/en/68186",
+     "published_at": "2026-11-15T15:01:01.000Z",
+     "amount_hint": "$226 million",
+     "snippet": "Saudi ACWA Power closes $226 million financing for Uzbekistan wind power project jawlah.co",
+     "text_status": "thin",
+     "text": "15 November، 2026\nCan Nvidia move past Jensen Huang's absence?"
+    }
+   ]
+  },
+  {
+   "group_key": "attorney general mike hilgers",
+   "company_guess": "Attorney General Mike Hilgers",
+   "amount_hint_usd": 183500000,
+   "articles": [
+    {
+     "id": "4df1c8f594e5",
+     "group_key": "attorney general mike hilgers",
+     "title": "Attorney General Mike Hilgers announces $183.5 Million multistate settlement with Rent-to-Own finance company Acima Digital, LLC",
+     "publisher": "Rural Radio Network",
+     "url": "https://ruralradio.com/kneb-fm/news/attorney-general-mike-hilgers-announces-183-5-million-multistate-settlement-with-rent-to-own-finance-company-acima-digital-llc/",
+     "published_at": "2026-11-15T18:03:09.000Z",
+     "amount_hint": "$183.5 Million",
+     "snippet": "Attorney General Mike Hilgers announces $183.5 Million multistate settlement with Rent-to-Own finance company Acima Digital, LLC Rural Radio Network",
+     "text_status": "ok",
+     "text": "Attorney General Mike Hilgers announces $183.5 Million multistate settlement with Rent-to-Own finance company Acima Digital, LLC\nCourtesy Photo\nNovember 15th, 2026 | Nebraska Attorney General’s Office\nLincoln – Attorney General Mike Hilgers announced a $183.5 million multistate settlement with Acima Digital, LLC, and its parent company, Acima Holdings, LLC. The settlement includes $43 million in consumer restitution, $10.5 million to participating states, and $130 million in lease balance reductions. Nebraska will receive more than $292,608.42 in restitution and $593,465.05 in lease forgiveness for Nebraska consumers.\nAcima, a rent-to-own financing company that partners with Nebraska retailers, was accused of misleading consumers about the terms and costs of its rental-purchase agreements. Forty-three states alleged that Acima advertised 90-day payoff programs without clearly disclosing that consumers were automatically placed in 12-month agreements and could end up paying twice the advertised cash price. The company also allegedly misrepresented its services as traditional credit, marked up merchandise prices, and made it difficult for consumers to return merchandise and end agreements.\nUnder the settlement, Acima must improve retail partner training, provide clearer advertising and contract disclosures, stop marking up merchandise prices, allow consumers to return merchandise without obstruction, and properly address delivery, damage, and repair issues. The company also cannot report rental-purchase agreements to the three major credit bureaus for five years.\nConsumers eligible for restitution or lease forgiveness do not need to take action. The settlement administrator will contact consumers receiving restitution, while Acima will notify those eligible for lease forgiveness.\nAlaska, Arizona, Arkansas, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Mississippi, Missouri, Minnesota, New Hampshire, New Jersey, Nevada, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, and Wyoming also joined the settlement.\nShare:"
+    }
+   ]
+  },
+  {
+   "group_key": "ag",
+   "company_guess": "AG",
+   "amount_hint_usd": 183500000,
+   "articles": [
+    {
+     "id": "7bd260809547",
+     "group_key": "ag",
+     "title": "AG ANNOUNCES $183.5 MILLION SETTLEMENT",
+     "publisher": "DoingItLocal",
+     "url": "https://www.doingitlocal.com/2026/11/ag-announces-183-5-million-settlement/",
+     "published_at": "2026-11-14T21:07:52.000Z",
+     "amount_hint": "$183.5 MILLION",
+     "snippet": "AG ANNOUNCES $183.5 MILLION SETTLEMENT DoingItLocal",
+     "text_status": "ok",
+     "text": "ATTORNEY GENERAL TONG ANNOUNCES $183.5 MILLION MULTISTATE SETTLEMENT WITH RENT-TO-OWN COMPANY ACIMA DIGITAL\n(Hartford, CT) — Attorney General William Tong today announced a $183.5 million multistate settlement with Acima Digital, LLC and its parent company, Acima Holdings, LLC, resolving allegations that the rent-to-own finance company misled consumers about its agreements and deceptively marked up prices.\nThe settlement consists of $43 million in consumer restitution, $130 million in lease balance reductions, and a $10.5 million payment to the states. Connecticut consumers will receive $2,441,257 in lease forgiveness, in addition to the $246,090.70 payment to the state.\nConsumers who are eligible to obtain restitution or lease forgiveness pursuant to this settlement do not need to take any action. Consumers eligible to receive restitution will be contacted by the settlement administrator, Rust Consulting. Consumers who are eligible to receive lease forgiveness will be contacted by Acima.\nAcima partners with retailers to offer financing to consumers via rental-purchase agreements. The settlement resolves allegations that Acima deceptively advertised its rental-purchase agreements in manner that misled consumers about the nature and cost of its rental-purchase agreements and deceptively marked up the cash price of the merchandise being rented, amongst other deceptive acts and practices with respect to the consummation and servicing of its rental-purchase agreements and its debt collection and credit reporting practices.\n“Acima lured and locked consumers into overpriced rent-to-own deals by obscuring key information, including the length of these agreements, the total cost, and options for termination. They took advantage of families struggling to afford basic needs, and we are making them pay. Our settlement sends millions of dollars back to consumers and forces strict reforms to ensure fair and honest practices going forward,” said Attorney General Tong.\nThe multistate coalition of 43 states alleged that Acima marketed its rental-purchase agreements as 90-day pay off programs without disclosing that consumers were automatically defaulted into the maximum 12-month term whereby consumers could pay approximately two times the cash price advertised by Acima’s retail partner. Acima also advertised its rental-purchase product using terms like “credit,” which often misled consumers into believing that they were obtaining traditional financing. Acima’s process for electronically executing rental-purchase agreements also obscured the terms of the transaction, further compounding consumer confusion. Additionally, Acima obstructed consumers’ ability to terminate their rental-purchase agreements without penalty by returning their merchandise to Acima.\nUnder the settlement, Acima has agreed to injunctive terms to address these practices, including to:\n• Conduct robust training of its retail partners;\n• Refrain from making certain representations in its advertising unless other material information is clearly and conspicuously disclosed;\n• Refrain from obscuring the material terms and conditions of its rental-purchase agreements during Acima’s electronic signature process;\n• Refrain from marking up the cash price from that of Acima’s retail partners;\n• Refrain from obstructing consumers’ ability to terminate their rental-purchase agreements by returning the merchandise to Acima;\n• Refrain from reporting rental-purchase agreements to the big three cre"
+    }
+   ]
+  },
+  {
+   "group_key": "novo backed windward bio",
+   "company_guess": "Novo Holdings-Backed Windward Bio",
+   "amount_hint_usd": 175000000,
+   "articles": [
+    {
+     "id": "6f709b4b97c7",
+     "group_key": "novo backed windward bio",
+     "title": "Novo Holdings-Backed Windward Bio Raises $175m in US IPO as Biotech Listings Gather Pace",
+     "publisher": "Tekedia",
+     "url": "https://www.tekedia.com/novo-holdings-backed-windward-bio-raises-175m-in-us-ipo-as-biotech-listings-gather-pace/",
+     "published_at": "2026-11-13T19:15:20.000Z",
+     "amount_hint": "$175m",
+     "snippet": "Novo Holdings-Backed Windward Bio Raises $175m in US IPO as Biotech Listings Gather Pace Tekedia",
+     "text_status": "ok",
+     "text": "Latest Insights | News\nNovo Holdings-Backed Windward Bio Raises $175m in US IPO as Biotech Listings Gather Pace\nNovember 13, 2026\n|\nby\nSamuel Nwite\n|\n0\nWindward Bio has raised $175 million in its US initial public offering, adding to a growing pipeline of healthcare and biotechnology companies tapping public markets as listings in other sectors face pressure from economic uncertainty.\nThe Basel, Switzerland-based drug developer sold approximately 10.3 million shares at $17 each, within its marketed range of $16 to $18. Its shares are scheduled to begin trading on Friday on the Nasdaq under the ticker symbol WWB.\nThe offering gives Windward fresh capital to advance its experimental antibody medicines for serious respiratory and dermatological diseases, with its lead programme targeting conditions that affect millions of patients worldwide. The company is backed by Novo Holdings, alongside other healthcare investors, and has attracted a $50 million commitment from French pharmaceutical group Sanofi.\nRegister for the next Tekedia Mini-MBA .\nRegister for Tekedia AI in Business Masterclass.\nJoin Tekedia Capital Syndicate and co-invest in great global startups.\nRegister for Nigeria Capital Market Masterclass .\nSanofi agreed to purchase $50 million in shares and pre-funded warrants through a private placement, providing Windward with an additional source of institutional backing as it enters the public market. The investment also gives the pharmaceutical group exposure to a biotechnology company developing treatments in areas where demand for new therapies remains significant.\nWindward’s lead candidate, WIN378, is being developed for asthma and chronic obstructive pulmonary disease, or COPD. The antibody is designed to block a protein involved in airway inflammation, an approach intended to address an underlying biological mechanism contributing to both conditions.\nThe programme will be central to the company’s development strategy as it moves into the public market. However, WIN378 remains an experimental medicine, and its commercial prospects will depend on clinical results, regulatory approvals and its ability to demonstrate meaningful benefits over existing treatments.\nLed by founder and chief executive Luca Santarelli, Windward has raised $310 million in equity financing from Novo Holdings and other healthcare investors, including OrbiMed, Blue Owl and RTW Investments.\nSantarelli has previously built biotechnology businesses that attracted substantial acquisition interest from larger pharmaceutical companies. VectivBio, one of his earlier ventures, was acquired by Ironwood Pharmaceuticals for $1.2 billion in 2023. Pfizer acquired another company he was associated with, Therachon, in 2019 for $810 million.\nThat history provides Windward with a management team familiar with biotechnology development and the commercial pressures facing companies seeking to bring new medicines to market. However, previous acquisitions do not guarantee that its current drug candidates will achieve similar outcomes.\nThe company’s IPO also underscores the importance of specialist healthcare investors in financing drug development. Biotechnology companies often require substantial capital over several years before generating commercial revenue, as clinical trials, regulatory submissions, and manufacturing preparations result in costs well ahead of product launches.\nPublic listings can provide access to a broader pool of capital, but they also expose early-stage d"
+    },
+    {
+     "id": "595b6fd543ac",
+     "group_key": "novo backed windward bio",
+     "title": "Windward Bio Raises $175 Million in IPO for Innovative Antibody Development",
+     "publisher": "Intellectia AI",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTms5SUR2RGRHYndrajNCSnNLVllkQ1hRekhRbjdqVEdBNDY5Y3VnNnBndHZJcHBQYUE2WWFKN054VmVmQlJscFZCV3BXN3FTU3RiNkx4VXFMSVk2YjhLX3Ftb01uSEhUT0pDdm5Vc3pWVUpla1ZQN1BoVmZSREo1T25SS2paQ2NxRF93Wk1TM0RIZlg3VG9OVGZjcFl6czlJQlNBaGxCbHhsbFU5?oc=5",
+     "published_at": "2026-11-14T11:16:08.000Z",
+     "amount_hint": "$175 Million",
+     "snippet": "Windward Bio Raises $175 Million in IPO for Innovative Antibody Development Intellectia AI",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "vvardis",
+   "company_guess": "vVardis",
+   "amount_hint_usd": 175000000,
+   "articles": [
+    {
+     "id": "bbe508a7a910",
+     "group_key": "vvardis",
+     "title": "vVardis Raises $175 Million Ahead of NYSE IPO: NYSE Content Update",
+     "publisher": "ACROFAN USA",
+     "url": "https://us.acrofan.com/detail.php?number=1025772",
+     "published_at": "2026-11-14T02:30:37.000Z",
+     "amount_hint": "$175 Million",
+     "snippet": "vVardis Raises $175 Million Ahead of NYSE IPO: NYSE Content Update ACROFAN USA",
+     "text_status": "error:fetch failed",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "before trump eased nvidia",
+   "company_guess": "Before Trump Eased Nvidia",
+   "amount_hint_usd": 160000000,
+   "articles": [
+    {
+     "id": "ab48493944f5",
+     "group_key": "before trump eased nvidia",
+     "title": "Before Trump Eased Nvidia Chip Exports to China, He Bought $160 Million in Stock, Raising Conflict-of-Interest Questions",
+     "publisher": "BigGo Finance",
+     "url": "https://finance.biggo.com/news/20d4c76d-3d42-42f9-93b3-c29e9c7deda0",
+     "published_at": "2026-11-14T12:25:00.000Z",
+     "amount_hint": "$160 Million",
+     "snippet": "Before Trump Eased Nvidia Chip Exports to China, He Bought $160 Million in Stock, Raising Conflict-of-Interest Questions BigGo Finance",
+     "text_status": "ok",
+     "text": "Before Trump Eased Nvidia Chip Exports to China, He Bought $160 Million in Stock, Raising Conflict-of-Interest Questions\nAdd preferred source\n1\nU.S. President Donald Trump has been revealed to have purchased $1 million to $5 million worth of Nvidia stock (approximately NT$33 million to NT$160 million) just before rescinding the Biden administration's AI chip export controls, and to have made at least three additional purchases of $250,000 to $500,000 each after opening H200 chip sales to China. An anti-corruption organization is questioning the intersection of policy shifts and personal financial interests. The controversy deepened after Nvidia CEO Jensen Huang resigned amid suspicions of involvement with an alleged Chinese spy. Democrats have launched an investigation, leaving Nvidia's China business prospects facing dual policy and political uncertainties.\nKey Elements\nDonald Trump Nvidia Jensen Huang Alice Huang DeKleptocracy U.S. Department of Commerce H200 chips AI Diffusion Framework Megaspeed The Guardian Council on Foreign Relations\nU.S. President Donald Trump has been revealed to have made large purchases of Nvidia stock on the eve of rescinding the previous administration's AI chip export controls, triggering strong questions about the intersection of policy and personal financial interests. According to an analysis by anti-corruption organization DeKleptocracy of Trump's public financial disclosure filings, Trump purchased $1 million to $5 million worth of Nvidia shares (approximately NT$33 million to NT$160 million) just days before scrapping the Biden administration's \"Framework for Artificial Intelligence Diffusion\" in May of last year.\nThe policy had originally established tiered management of AI chip exports based on each country's diplomatic and security relationship with the United States, with allies such as South Korea placed in a relatively permissive category, while China, Russia, and North Korea faced the strictest export blockades. The core purpose of the Biden administration's framework was to slow China's acquisition of advanced computing power and thereby its ability to build up its own AI capabilities. The Trump administration decided to scrap the entire framework on the grounds that it hindered American corporate innovation, imposed unnecessary regulatory burdens, and effectively relegated dozens of countries to \"second-tier\" status in a way that could damage diplomatic relations.\nThe timing overlap makes this transaction particularly sensitive. Had the framework actually taken effect, Nvidia's shipments to China—a market that once contributed about a quarter of its sales—would have been significantly constrained. After Trump announced the rescission of the controls, Nvidia's stock price promptly rose. The disclosure filings also show that Trump simultaneously purchased shares in tech giants including Apple, Meta, and Microsoft, rather than betting solely on Nvidia.\nThe controversy does not end there. In December 2025, Trump further announced that Nvidia would be allowed to sell H200 chips to approved customers in China, and the U.S. Department of Commerce formally granted approval in January 2026. The H200 was one of Nvidia's most advanced products at the time, with experts estimating its performance at roughly six times that of the chips China could obtain at the time. Disclosure filings show that after the export-opening announcement, Trump made at least three more Nvidia stock purchases, each in the rang"
+    }
+   ]
+  },
+  {
+   "group_key": "maxcyte",
+   "company_guess": "MaxCyte",
+   "amount_hint_usd": 151800000,
+   "articles": [
+    {
+     "id": "83455926d6f0",
+     "group_key": "maxcyte",
+     "title": "MaxCyte: $151.8 Million Akron Bio Acquisition Expands Cell Therapy Platform",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/maxcyte-151-8-million-akron-bio-acquisition-expands-cell-therapy-platform/",
+     "published_at": "2026-11-13T16:44:43.000Z",
+     "amount_hint": "$151.8 Million",
+     "snippet": "MaxCyte has agreed to acquire Akron BioProducts from affiliates of Arcline Investment Management for $151.8 million. The transaction is expected to close before the end of 2026, subject to customary conditions.\nThe post MaxCyte: $151.8 Million Akron Bio Acquisition Expands Cell Therapy Platform appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "MaxCyte: $151.8 Million Akron Bio Acquisition Expands Cell Therapy Platform\nBy Amit Chowdhry\nYesterday at 11:44 AM\nMaxCyte: $151.8 Million Akron Bio Acquisition Expands Cell Therapy Platform\nMaxCyte has agreed to acquire Akron BioProducts from affiliates of Arcline Investment Management for $151.8 million. The transaction is expected to close before the end of 2026, subject to customary conditions.\nAkron Bio supplies Good Manufacturing Practice-grade reagents and ancillary materials used across cell therapy manufacturing. Its products include cytokines, growth factors, human plasma-derived materials, specialty media, and other consumables.\nThe acquisition will expand MaxCyte beyond its historical focus on nonviral cell engineering. Akron’s products are used in both viral and nonviral workflows at stages ranging from cell expansion through cryopreservation.\nThe combined company’s technologies are incorporated into five commercially approved therapies and support more than 100 clinical programs. Both businesses maintain drug master files referenced in customers’ regulatory submissions, creating long-term connections to validated manufacturing processes.\nAkron is expected to produce approximately $28 million in 2026 revenue and between $7 million and $8 million of EBITDA. MaxCyte expects the acquisition to nearly double its revenue base, increase recurring consumables revenue, and accelerate its path toward profitability.\nThe companies have limited customer overlap despite serving similar biopharmaceutical markets. MaxCyte therefore expects to use its commercial infrastructure to introduce Akron products to additional customers and pursue cross-selling opportunities.\nThe buyer projects that Akron’s positive cash flow will help reduce the combined company’s annual cash burn to less than $10 million in 2027. MaxCyte expects to hold approximately $40 million to $45 million of cash when the transaction closes.\nThe consideration consists of $105 million in cash, subject to adjustments, 20,639,733 MaxCyte shares valued at approximately $26.8 million, and $20 million of guaranteed deferred payments. The deferred amount will be paid in two $10 million installments in January 2028 and January 2029.\nMaxCyte has also secured a credit facility of up to $75 million from MidCap Financial, consisting of a $55 million term loan and a $20 million revolver. It plans to draw $20 million from the term loan and $2 million from the revolver at closing.\nAkron will continue operating under its existing brand, with its management team and employees remaining part of the combined organization.\nKEY QUOTES\n“The acquisition of Akron marks an exciting new chapter for MaxCyte. This acquisition represents a significant step forward for us, expanding our presence across the viral and non-viral cell therapy development and manufacturing workflow, while projecting to nearly double our revenue base and accelerate our path to profitability. From day one, Akron provides us with an established portfolio of clinical and commercial programs supported by Akron’s DMFs and reagents. By bringing together two highly complementary businesses, we are diversifying our revenue base, increasing our mix of recurring revenue and expanding our exposure to the growth of commercially approved cell therapies, positioning MaxCyte for more durable near- and long-term growth. Like MaxCyte, Akron has become a trusted supplier to leading biopharma companies by delivering differentiated, high-quality "
+    }
+   ]
+  },
+  {
+   "group_key": "vumedi",
+   "company_guess": "Vumedi",
+   "amount_hint_usd": 140000000,
+   "articles": [
+    {
+     "id": "78aabaae7504",
+     "group_key": "vumedi",
+     "title": "Vumedi Raises $140M Series B, Oakland Health Tech",
+     "publisher": "Hoodline",
+     "url": "https://hoodline.com/2026/11/oakland-s-vumedi-lands-140m-to-grow-ai-learning-tool-for-more-than-150-000-clinicians/",
+     "published_at": "2026-11-14T01:23:08.000Z",
+     "amount_hint": "$140M",
+     "snippet": "Vumedi Raises $140M Series B, Oakland Health Tech Hoodline",
+     "text_status": "ok",
+     "text": "555 12th St. — Oakland Street Scene\nGoogle Street View\nAn Oakland health-tech company has raised $140 million in a new funding round. Vumedi, which builds an AI-powered learning platform for physicians, has raised $140 million in Series B funding, with plans to pour the money into talent, research and development, product development and outreach as it expands its clinical learning tools.\nThe investment came from Oak HC/FT, according to FinSMEs , which reported the round. Vumedi is led by founder and CEO Roman Giverts, and the company describes its platform as a tool that connects clinicians with specialists and peers so they can learn procedures, evaluate treatments and navigate complex cases, the outlet reports.\nWhat the Platform Actually Does\nAt the center of Vumedi's pitch is scale paired with AI. The platform uses artificial intelligence to turn more than 100,000 physician-led videos and nearly 5,000 podcast episodes, spanning more than 21 medical specialties, into what the company calls an on-demand clinical resource, per the same report. Rather than leaving clinicians to sift through hours of footage, the system synthesizes multiple expert perspectives and links directly to time-stamped segments within videos.\nThe company says its platform now serves more than 150,000 NPI-verified clinicians and generated over 56 million minutes of learning over the past 12 months. Back in a 2018 interview, Giverts described Vumedi's mission as helping physicians make the best care decisions through what he called unbiased video education in an interview with MPO-mag.com . That same article reported the platform then had roughly 250,000 physician users and 20,000 videos contributed by more than 5,000 healthcare organizations and professionals, including partnerships with 150 hospitals and conferences such as Cleveland Clinic, Mayo Clinic and Johns Hopkins.\nFunding Figures Don't All Line Up\nNot every account of Vumedi's fundraising history tells the same story. A snippet from 01net referenced a $104 million investment from Oak HC/FT, though it's unclear from that report whether it describes the same financing as the newly reported $140 million round or a separate transaction. Separately, CB Insights lists Vumedi's most recent funding round as a $79.98 million Series B dated May 22, 2025, and puts the company's total raised at $82.08 million across four rounds. The available reporting does not reconcile these differing figures with the $140 million sum reported this week.\nPart of a Broader AI Health-Tech Wave\nVumedi's raise lands amid a broader uptick in digital-health investment. Companies in the sector raised $7.4 billion in the first half of 2026, up roughly $1 billion from the same period in 2025, according to Fierce Healthcare . The outlet counted 244 completed deals in that window, with $4.2 billion invested in the first quarter and $3.2 billion in the second.\nA notable share of that capital came in the form of megadeals. Nineteen companies raised 20 financings of at least $100 million in the first half of 2026, representing 45 percent of all capital invested, Fierce Healthcare reported, citing deals that included AI radiology company Aidoc's $150 million raise. Clinical-reference platform OpenEvidence, a comparable player in physician-facing AI tools, announced its own $210 million Series B at a $3.5 billion valuation in mid-2025, co-led by Google Ventures and Kleiner Perkins with Sequoia Capital, Coatue, Conviction and Thrive also participa"
+    }
+   ]
+  }
+ ]
+}

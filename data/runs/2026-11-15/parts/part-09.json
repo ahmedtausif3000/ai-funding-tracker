@@ -1,0 +1,25 @@
+{
+ "run_date": "2026-11-15",
+ "part": 9,
+ "groups": [
+  {
+   "group_key": "anthropic ipo",
+   "company_guess": "Anthropic IPO",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "9ef3d232e024",
+     "group_key": "anthropic ipo",
+     "title": "Anthropic IPO Draws Six Times Available Shares as AI Company Targets $1.4 Trillion Valuation",
+     "publisher": "Win Warfield",
+     "url": "https://www.citybiz.co/article/933305/anthropic-ipo-draws-six-times-available-shares-as-ai-company-targets-1-4-trillion-valuation/",
+     "published_at": "2026-11-13T13:32:02.000Z",
+     "amount_hint": null,
+     "snippet": "Anthropic, the artificial intelligence company behind Claude, is attracting extraordinary investor demand ahead of its initial public offering, with orders... Read More\nThe post Anthropic IPO Draws Six Times Available Shares as AI Company Targets $1.4 Trillion Valuation appeared first on citybiz .",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  }
+ ]
+}
