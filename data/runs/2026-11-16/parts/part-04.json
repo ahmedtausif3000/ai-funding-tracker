@@ -1,0 +1,280 @@
+{
+ "run_date": "2026-11-16",
+ "part": 4,
+ "groups": [
+  {
+   "group_key": "corma",
+   "company_guess": "Corma",
+   "amount_hint_usd": 125000000,
+   "articles": [
+    {
+     "id": "6ba0e28fd773",
+     "group_key": "corma",
+     "title": "Corma Raises $125M Series A at $1B Valuation to Scale Defensive AI",
+     "publisher": "Unite.AI",
+     "url": "https://www.unite.ai/corma-raises-125m-series-a-at-1b-valuation-to-scale-defensive-ai/",
+     "published_at": "2026-11-16T12:35:05.000Z",
+     "amount_hint": "$125M",
+     "snippet": "Corma Raises $125M Series A at $1B Valuation to Scale Defensive AI Unite.AI",
+     "text_status": "ok",
+     "text": "Funding\nCorma Raises $125M Series A at $1B Valuation to Scale Defensive AI\nPublished\nNovember 16, 2026\nBy\nEvan Mercer, AI Startups & Venture Capital AI Research Agent\nAdd Unite.AI to your preferred sources on Google\nKey Points Corma raised a $125 million Series A at a $1 billion valuation led by NEA.\nView more\nCorma raised a $125 million Series A at a $1 billion valuation led by NEA.\nCorma argues coding-focused models suit offensive security while defense needs continuous log and event analysis.\nCompute capacity rather than model quality is Corma's immediate constraint on serving demand and its waitlist.\nDefensive-cybersecurity company Corma announced on November 16, 2026 that it had raised a $125 million Series A at a $1 billion valuation. NEA led the round, with continued participation from Sequoia Capital , Khosla Ventures and Coatue, bringing Corma’s total funding to $185 million.\nCorma said the new capital would accelerate scaling of its foundation models, expand compute capacity and support selective hiring. The Series A follows its emergence from stealth on August 10, 2026 with $60 million in seed funding.\nThe company characterized demand from the world’s largest organizations as overwhelming and identified securing enough compute for that demand and its waitlist as one of its central challenges. Corma’s ability to expand access therefore depends on obtaining additional infrastructure as well as advancing its models.\nHow the Corma Workforce Operates\nThe company deploys those models through the Corma Workforce , a system designed to work autonomously alongside human security teams. It operates within customers’ existing security and IT stacks, including identity, cloud, endpoint, security information and event management, and firewall or intrusion-detection tools. Its work spans investigations, connecting evidence and taking action across those systems.\nEmployees can assign tasks through Slack or Teams, ask questions, review findings and approve actions. The design adds AI-led execution to a customer’s current operating environment while keeping human review in the workflow.\nCorma reports live deployments across healthcare, finance, energy, critical infrastructure and retail, with 99% of security tasks completed autonomously and successfully, 100 times faster end-to-end completion and 95% lower cost per completed task.\nOne anonymized Fortune 1000 services-company CISO quoted on the product page said end-to-end response time fell 94% in a comparison with the customer’s former service provider, which the customer subsequently replaced with Corma.\nWhy Corma Uses Defense-Specific Models\nCorma’s launch statement argues that improvements in coding and software reasoning map more directly to offensive security than to the broader defensive workload. Vulnerability research and exploit development are code-reasoning problems against bounded targets; defense instead requires continuous analysis of audit logs, events, configurations and network flows. It also involves connecting weak signals across systems and long periods while making thousands of accurate, consistent decisions each day under changing conditions.\nThat distinction is the basis for Corma’s focus on domain-specific foundation models. Its stated development program includes rethinking model architecture, extending context to detect faint anomaly signals, adversarial self-play and continuous learning that can establish baselines over months and years.\nCEO Alon Pluda and the Corm"
+    },
+    {
+     "id": "f2883a9289a3",
+     "group_key": "corma",
+     "title": "Corma Raises $125M Series A at $1B Valuation to Scale Its Frontier Foundation Model for Cyber Defense as Fortune 500 Adoption of Its Models Surges",
+     "publisher": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNSXRJcmZkdjc3VVpnX0Z4QkM2UjFWcDlLM0F1VTliX1JjbVNsN0VhY2VhT0E3SkpTQ2J5ZzVXd1BZSkY5V1dZNGxpZ1NJMzI4ZVY2UkVlZ2ppaUFsRVVCczBlaGN1RTFGUnI2VEoyMTUwaTRWRk0wTVBKOVhoQ0o0RkVTajhfdDJNSTJfM1l0YVFFbkV0dzFDSnc4a0VZWmxxSjM0aWNXUWJybGNITkxWZmc3Mjk2NUwydWE2R2tHNnR5MTJDa254TnZfXzFfdDNfMTM2c1I0TVZMN0U2cE9hdGtLVnMxcEhXZnhwcjlhSXFtVVBUMmFMRF9fTlBPSVJTZUhLQl9ZMTh4YlFfXzF5U2h2V0dFSGFBbXlNLTN4anNnZjdWZE9zNUUtZEhLSURf?oc=5",
+     "published_at": "2026-11-16T14:00:00.000Z",
+     "amount_hint": "$125M",
+     "snippet": "Corma Raises $125M Series A at $1B Valuation to Scale Its Frontier Foundation Model for Cyber Defense as Fortune 500 Adoption of Its Models Surges Business Wire",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "195780f19a7d",
+     "group_key": "corma",
+     "title": "Corma Raises $125M Series A Led by NEA at $1B Valuation",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSHdna3FfV2M4QlZieUtwaU43NWUxek1nbENIRXZLZW9sY2xRZl96R3hhcUZtQ25OeVJkc2ZscW9VUk5KNnNwT1Zzam5LR3FQUktoRVZKWHlodFczazBoUmpCNHp0Skx4aVJlamdXRFJVeFVxMTcxUGFCaVdxMktxczI5T3RGVE9qMFhZNVlJTXNoQ3g2N2dv?oc=5",
+     "published_at": "2026-11-16T17:07:31.000Z",
+     "amount_hint": "$125M",
+     "snippet": "Corma Raises $125M Series A Led by NEA at $1B Valuation citybiz",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "exclusive",
+   "company_guess": "Exclusive",
+   "amount_hint_usd": 125000000,
+   "articles": [
+    {
+     "id": "18b3ad4ead7f",
+     "group_key": "exclusive",
+     "title": "Exclusive | Cyber Startup Corma Raises $125 Million for Defensive AI Agents",
+     "publisher": "WSJ",
+     "url": "https://www.wsj.com/pro/cybersecurity/cyber-startup-corma-raises-125-million-for-defensive-ai-agents-f30a4387",
+     "published_at": "2026-11-16T14:32:39.000Z",
+     "amount_hint": "$125 Million",
+     "snippet": "Exclusive | Cyber Startup Corma Raises $125 Million for Defensive AI Agents WSJ",
+     "text_status": "blocked:401",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "defensive",
+   "company_guess": "Defensive AI",
+   "amount_hint_usd": 125000000,
+   "articles": [
+    {
+     "id": "a227813889bc",
+     "group_key": "defensive",
+     "title": "Defensive AI agents co Corma raises $125m at $1b valuation - Globes",
+     "publisher": "Globes - Israel Business News",
+     "url": "https://en.globes.co.il/en/article-defensive-ai-agents-co-corma-raises-125-million-at-1b-valuation-1001563580",
+     "published_at": "2026-11-16T12:36:13.000Z",
+     "amount_hint": "$125m",
+     "snippet": "Defensive AI agents co Corma raises $125m at $1b valuation Globes - Israel Business News",
+     "text_status": "ok",
+     "text": "Israeli AI language model cybersecurity company Corma , today announced the completion of a $125 million Series A financing round, at a $1 billion valuation, led by NEA, alongside existing investors Sequoia Capital, Khosla Ventures. The company has now raised $185 million, having emerged from stealth just three months ago with a $60 million seed round led by Sequoia.\nCEO Alon Pluda founded the company last year, after leaving Miggo Security, which he cofounded, following a dispute with his cofounders. Pluda is a graduate of the IDF Intelligence Corps’ prestigious Psagot program. He completed his service in 2022, following several years as a career officer in various technical roles at the core of Unit 8200’s technological operations. He founded Corma, which has 20 employees in Tel Aviv and San Francisco, with the aim of more effectively addressing AI-driven cyberattacks. The company achieves this by developing language models from scratch, rather than relying on existing models such as those from Anthropic, OpenAI, and DeepSeek.\nPluda explains, \"General-purpose language models are effective for tasks like software development or research and they are also excellent at identifying bugs and cyber vulnerabilities, which is precisely why hackers and attackers use them so efficiently. However, they are weak when it comes to defense. Defense requires a different kind of expertise: the ability to find a 'needle in a haystack' within the complex landscape of enterprise data systems, specifically regarding code and software maintenance, such as telemetry, logs, and events.\"\nIn Pluda’s view, this is why the language models currently on the market are highly advanced in their capacity to facilitate powerful cyberattacks, yet remain insufficiently developed for the purpose of defending organizations. Fluda explains that Corma addresses this gap by developing its own language model, which is focused entirely on a single task: perimeter defense for organizations. The company also develops AI agents that are integrated into client organizations, working alongside existing cybersecurity teams.\nPluda adds, \"We don’t just provide CISOs with a dashboard or software to manage. We provide AI agents that empower them, enabling them to perform their jobs orders of magnitude better.\"\nThe company trains its models with the goal of achieving \"superintelligence\" for defensive cybersecurity - a capability that will allow security teams to operate at the speed and scale required to counter the advancement of AI-driven cyberattacks.\nThe company’s annual recurring revenue (ARR) is estimated to be in the tens of millions of dollars, and its client base includes companies from the Fortune 100 and Fortune 500 lists.\n\"Since its initial unveiling in August, demand for the company’s models has surged among organizations ranked in the Fortune 100, Fortune 500, and Fortune Global 500. To meet this demand, the company has increased its server capacity 24-fold,\" the company stated.\nCorma works with large organizations, including companies in the healthcare, financial services, energy and critical infrastructure, retail, and telecommunications sectors. These organizations are increasingly delegating their security tasks to Corma’s autonomous workforce, which operates using a foundational model developed by the company.\nPublished by Globes, Israel business news - en.globes.co.il - on November 16, 2026.\n&copy; Copyright of Globes Publisher Itonut (1983) Ltd., 2026."
+    }
+   ]
+  },
+  {
+   "group_key": "ameresco",
+   "company_guess": "Ameresco",
+   "amount_hint_usd": 125000000,
+   "articles": [
+    {
+     "id": "2871f001c692",
+     "group_key": "ameresco",
+     "title": "Ameresco: $125 Million Financing From Nuveen With Expansion Capacity To $225 Million Supports European Energy Infrastructure Growth",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/ameresco-125-million-financing-from-nuveen-with-expansion-capacity-to-225-million-supports-european-energy-infrastructure-growth/",
+     "published_at": "2026-11-15T22:24:54.000Z",
+     "amount_hint": "$125 Million",
+     "snippet": "Ameresco, an energy infrastructure company specializing in reliable power and infrastructure modernization, has secured a $125 million committed financing facility with Nuveen Energy Infrastructure Credit to support its expanding operations in the United Kingdom and Europe. The five-year revolving facility includes an option to increase financing capacity by an additional $100 million, potentially providing Ameresco with access to $225 million in total capital.\nThe post Ameresco: $125 Million Financing From Nuveen With Expansion Capacity To $225 Million Supports European Energy Infrastructure ",
+     "text_status": "ok",
+     "text": "Ameresco: $125 Million Financing From Nuveen With Expansion Capacity To $225 Million Supports European Energy Infrastructure Growth\nBy Amit Chowdhry\nYesterday at 5:24 PM\nAmeresco: $125 Million Financing From Nuveen With Expansion Capacity To $225 Million Supports European Energy Infrastructure Growth\nAmeresco, an energy infrastructure company specializing in reliable power and infrastructure modernization, has secured a $125 million committed financing facility with Nuveen Energy Infrastructure Credit to support its expanding operations in the United Kingdom and Europe. The five-year revolving facility includes an option to increase financing capacity by an additional $100 million, potentially providing Ameresco with access to $225 million in total capital.\nThe facility matures in November 2031 and will provide dedicated financing for energy infrastructure projects and working capital requirements across Ameresco’s European business.\nThe financing has been structured with limited recourse to Ameresco and does not affect the company’s senior secured corporate leverage ratios.\nThis arrangement is intended to create a more self-sustaining capital structure for European operations while preserving financial flexibility at the parent-company level.\nThe facility will also allow Ameresco to expand available borrowing capacity as its project pipeline and working capital requirements increase, subject to the relevant terms.\nThe investment comes amid substantial growth in Ameresco’s European business.\nEuropean revenue increased from $62 million in 2022 to $529 million in 2025, representing more than an eightfold increase over that period.\nThe region now accounts for approximately 25% of Ameresco’s total revenue.\nAmeresco attributes its European expansion partly to increasing electricity demand, higher energy costs, and growing customer interest in renewable energy infrastructure.\nThe company sees further opportunities in battery energy storage systems, commonly known as BESS, as European markets expand their use of technologies that can store electricity and provide greater flexibility to power networks.\nBattery energy storage can help electricity customers manage demand fluctuations, integrate renewable generation, and strengthen energy resilience.\nAmeresco believes its technology expertise and flexible approach to infrastructure development position it to support these requirements across European markets.\nThe company provides energy infrastructure solutions spanning behind-the-meter systems, utility-scale energy resources, and modernization of buildings and public infrastructure.\nIts projects integrate multiple energy technologies according to customer needs rather than focusing on a single equipment or generation category.\nNuveen Energy Infrastructure Credit’s participation builds on an existing financing relationship with Ameresco.\nThe investment manager specializes in providing capital to companies and projects operating across energy infrastructure markets.\nThe new facility provides a dedicated financing source to support project execution without requiring Ameresco to rely exclusively on existing corporate financing arrangements.\nAmeresco has delivered more than $15 billion in solutions and contracted over 5 gigawatts of energy resources since its founding in 2000.\nHeadquartered in Massachusetts, the company serves public and private sector customers throughout North America and Europe.\nThe financing strengthens Ameresco’s ability to purs"
+    }
+   ]
+  },
+  {
+   "group_key": "altius",
+   "company_guess": "Altius",
+   "amount_hint_usd": 122000000,
+   "articles": [
+    {
+     "id": "1a813db0e410",
+     "group_key": "altius",
+     "title": "Altius Announces Estimated $122 Million TNR Gold Acquisition And Exploration Spinoff",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/altius-announces-estimated-122-million-tnr-gold-acquisition-and-exploration-spinoff/",
+     "published_at": "2026-11-16T20:23:06.000Z",
+     "amount_hint": "$122 Million",
+     "snippet": "Altius Minerals has agreed to acquire the TNR Gold shares it does not already own in a transaction with an estimated total value of $122 million, including shares in a newly formed exploration company.\nThe post Altius Announces Estimated $122 Million TNR Gold Acquisition And Exploration Spinoff appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Altius Announces Estimated $122 Million TNR Gold Acquisition And Exploration Spinoff\nBy Amit Chowdhry\nToday at 3:23 PM\nAltius Announces Estimated $122 Million TNR Gold Acquisition And Exploration Spinoff\nAltius Minerals has agreed to acquire the TNR Gold shares it does not already own in a transaction with an estimated total value of $122 million, including shares in a newly formed exploration company.\nThe agreement will add royalty interests associated with Argentina’s Los Azules copper, Mariana lithium and Josemaria copper-gold projects.\nEach eligible TNR share will be exchanged for 0.0072 Altius shares and 0.25 shares of TNR SpinCo. Based on November 10 prices and the assigned spinoff valuation, the implied consideration is approximately $0.48 per TNR share, representing a 60% premium.\nThat amount comprises approximately $97 million in Altius shares and $25 million in SpinCo shares.\nSpinCo will hold the Shotgun Gold Project in Alaska and related assets and liabilities. Altius will retain a 0.5% net smelter return royalty on Shotgun.\nAltius initially expects to own approximately 12% of SpinCo and will invest another $2.2 million to increase its stake to approximately 19.9%. It will also provide technical support.\nThe acquired royalties include an effective 0.36% net smelter return interest in Los Azules and an effective 1.35% interest in Mariana.\nLos Azules is targeting a financing decision in mid-2027 and first production in 2030. Mariana has begun production and is ramping toward an initial target of 20,000 tonnes annually of lithium carbonate equivalent.\nShareholders controlling approximately 28% of TNR’s outstanding shares have signed support agreements.\nClosing is expected around the first quarter of 2027, subject to shareholder, court, exchange and regulatory approvals. A shareholder meeting is expected in December 2026.\nMcCarthy Tétrault is serving as Altius’s legal counsel.\nKEY QUOTES\n“This transaction adds a significant development stage royalty over the Los Azules project, which offers the potential for decades of increased copper exposure within our portfolio. It also results in the consolidation of an operating stage royalty relating to the Mariana lithium brine project. Both of these assets feature attributes that are hallmarks of Altius’s long-term royalty investing strategy. With long to ultra-long potential resource lives, they provide growth optionality over multiple commodity cycles as well as projected cost curve positions that ensure long-term resiliency. We are also pleased to support the TNR SpinCo as it applies the historical project generation and royalty creation strategy that brought the Los Azules and Mariana royalties into its portfolio.”\nBrian Dalton, CEO Of Altius Minerals\n“The Arrangement Agreement with Altius is a pivotal milestone that fully validates the significant value we have created for TNR Gold shareholders. Altius is a premier and highly respected partner in the mining and royalty sector, and this Transaction delivers a compelling outcome for our shareholders, and we are thrilled to be making this announcement.”\nKirill Klip, Executive Chairman Of TNR Gold\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "noeri",
+   "company_guess": "Noeri",
+   "amount_hint_usd": 110000000,
+   "articles": [
+    {
+     "id": "8d7aaaf70c05",
+     "group_key": "noeri",
+     "title": "Nvidia joins $110 million funding round for Stanford-founded AI startup Noeri",
+     "publisher": "Crypto Briefing",
+     "url": "https://cryptobriefing.com/nvidia-backs-noeri-110-million-ai-round/",
+     "published_at": "2026-11-16T16:04:53.000Z",
+     "amount_hint": "$110 million",
+     "snippet": "Nvidia joins $110 million funding round for Stanford-founded AI startup Noeri Crypto Briefing",
+     "text_status": "blocked:403",
+     "text": null
+    },
+    {
+     "id": "30696a00c1b4",
+     "group_key": "noeri",
+     "title": "Noeri Raises $110 Million With Menlo Ventures and Nvidia Backing",
+     "publisher": "Securities.io",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1VTMUVEenBlVXN4ZXRkUTBibF91T1EzaHlhdDlHaHdmeEZTMndEU2VXR0VOWGhxdFo5Qjlrd0FyTFBIZ0gzb1FhaHJCbzJwZnNiTDdSSkVXMzFiNGdTckF1VU8wTEJpdWxOVWRRNk84ZktiNVlOXzlQOTRSdDlEN01SODJfdzhRLW9JYzFZYk5ydDBZ?oc=5",
+     "published_at": "2026-11-16T17:14:01.000Z",
+     "amount_hint": "$110 Million",
+     "snippet": "Noeri Raises $110 Million With Menlo Ventures and Nvidia Backing Securities.io",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "74df669173ff",
+     "group_key": "noeri",
+     "title": "Noeri raises $110 million as Nvidia, Snowflake and Cisco back cost-efficient AI push",
+     "publisher": "Traders Union",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1ZQNWlKU0lLdncxcW9BUjNMcGUzLUxMVm1Sc0l6Yk05alpXOC1IQUpuQ19sUDJtdmpDZjJ4Z29fOHhNbEU2MWVGODVKVUg0S2FRM2ljZXp5Q3UzdXlrR2IxNy1TRGRULVNsbHY5VGM0NmpYRGdhcENrV1JteWtpWHdTQURsRGU1VjNrR2h6cm8?oc=5",
+     "published_at": "2026-11-16T16:10:34.000Z",
+     "amount_hint": "$110 million",
+     "snippet": "Noeri raises $110 million as Nvidia, Snowflake and Cisco back cost-efficient AI push Traders Union",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "83dbedee49a6",
+     "group_key": "noeri",
+     "title": "Noeri Launches With $110 Million To Build Self-Improving Enterprise AI",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/noeri-launches-with-110-million-to-build-self-improving-enterprise-ai/",
+     "published_at": "2026-11-16T20:31:03.000Z",
+     "amount_hint": "$110 Million",
+     "snippet": "Noeri has launched with $110 million in funding to develop AI systems that learn from enterprise work and support scientific discovery. Menlo Ventures led the financing, with participation from Madrona Venture Group, Kindred Ventures, Wing Venture Capital and NEA. Strategic investors include Cisco Investments, NVIDIA and Snowflake.\nThe post Noeri Launches With $110 Million To Build Self-Improving Enterprise AI appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "0ac43f6ab97b",
+     "group_key": "noeri",
+     "title": "Noeri Launches With $110 Million to Develop Self-Improving Enterprise AI",
+     "publisher": "Kevin Parker",
+     "url": "https://www.citybiz.co/article/934195/noeri-launches-with-110-million-to-develop-self-improving-enterprise-ai/",
+     "published_at": "2026-11-16T18:42:51.000Z",
+     "amount_hint": "$110 Million",
+     "snippet": "Noeri, an AI lab founded by Stanford computer science professors Yejin Choi and Carlos Guestrin, has launched with $110 million... Read More\nThe post Noeri Launches With $110 Million to Develop Self-Improving Enterprise AI appeared first on citybiz .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "nvidia backs noeris 110",
+   "company_guess": "Nvidia Backs Noeri’s $110",
+   "amount_hint_usd": 110000000,
+   "articles": [
+    {
+     "id": "7fd2c411e786",
+     "group_key": "nvidia backs noeris 110",
+     "title": "Nvidia Backs Noeri’s $110 Million Enterprise AI Funding Round",
+     "publisher": "www.tokenpost.com",
+     "url": "https://www.tokenpost.com/news/business/58592",
+     "published_at": "2026-11-16T16:17:01.000Z",
+     "amount_hint": "$110 Million",
+     "snippet": "Nvidia Backs Noeri’s $110 Million Enterprise AI Funding Round www.tokenpost.com",
+     "text_status": "ok",
+     "text": "Home Business 1 min read Add as a preferred source on Google\nNvidia Backs Noeri’s $110 Million Enterprise AI Funding Round\nFounded roughly five months ago by Stanford professors Yejin Choi and Carlos Guestrin, the company is building AI tools tailored to businesses’ needs.\nBy John Kim\nPublished Nov 16, 2026, 11:17 AM EST\nSave Share An unmarked accelerator board rests on a laboratory workbench / TokenPost.ai\nNvidia has joined a $110 million financing for Noeri, a five-month-old artificial intelligence startup building specialized systems for companies, adding another early-stage AI investment to the chipmaker’s portfolio.\nMenlo Ventures was the lead investor. Madrona Venture Group, Kindred Ventures, NEA and Nvidia also participated. Noeri has not disclosed how much Nvidia invested, the startup’s valuation or how it plans to spend the funds.\nStanford professors Yejin Choi and Carlos Guestrin started Noeri roughly five months ago. The company focuses on adapting specialized AI systems to businesses’ needs using their proprietary data.\nNvidia has also participated in other AI startup financings. Its venture arm, NVentures, invested in Reactor , bringing that startup’s total funding to $74 million, and Nvidia participated in Simplismart’s $14 million Series B .\nJohn Kim\nJohn Kim reports on the digital-asset business for TokenPost. Send corrections or tips to info@tokenpost.com. AI Nvidia Venture funding Noeri\nJoin the discussion Back to top"
+    }
+   ]
+  },
+  {
+   "group_key": "ex tesla autopilot trio",
+   "company_guess": "Ex-Tesla Autopilot trio",
+   "amount_hint_usd": 110000000,
+   "articles": [
+    {
+     "id": "208accc81028",
+     "group_key": "ex tesla autopilot trio",
+     "title": "Ex-Tesla Autopilot trio raises $110M for simulation startup Zeromatter",
+     "publisher": "Dealroom",
+     "url": "https://app.dealroom.co/news/note/ex-tesla-autopilot-trio-raises-110m-for-simulation-startup-zeromatter",
+     "published_at": "2026-11-16T11:23:33.000Z",
+     "amount_hint": "$110M",
+     "snippet": "Ex-Tesla Autopilot trio raises $110M for simulation startup Zeromatter Dealroom",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "sas yoco",
+   "company_guess": "SA’s Yoco",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "d5699eaa7b82",
+     "group_key": "sas yoco",
+     "title": "SA’s Yoco secures $100m credit facility to scale merchant cash advances -",
+     "publisher": "- Disrupt Africa",
+     "url": "https://disruptafrica.com/2026/11/16/sas-yoco-secures-100m-credit-facility-to-scale-merchant-cash-advances/?utm_source=rss&utm_medium=rss&utm_campaign=sas-yoco-secures-100m-credit-facility-to-scale-merchant-cash-advances",
+     "published_at": "2026-11-16T06:00:04.000Z",
+     "amount_hint": "$100m",
+     "snippet": "SA’s Yoco secures $100m credit facility to scale merchant cash advances - Disrupt Africa",
+     "text_status": "ok",
+     "text": "SA’s Yoco secures $100m credit facility to scale merchant cash advances\n0\nBy\nTom Jackson\non\nNovember 16, 2026\nNews , Southern Africa\nSouth African fintech company Yoco has secured a US$100 million credit facility from US investment firm Victory Park Capital to expand its merchant cash advance operation.\nYoco builds tools and services to help small businesses accept card payments in-store and online, access loans, and manage their day to day activities. The startup has advanced more than ZAR6.5 billion (US$395 million) to over 40,000 merchants since 2018, working with specialist credit providers.\nThe company, which secured US$83 million in Series C funding back in 2021, has now secured a US$100 million credit facility from Victory Park Capital, which will allow it to scale its cash advance operations, and gain greater control over the pricing and risk of its merchant loans.\nThe aim is to use the transaction data generated by merchants using Yoco’s card machines and online payment tools to assess businesses that traditional lenders may struggle to evaluate, helping the company turn its payments relationship with more than 200,000 businesses into a larger cash advance operation.\n“We have spent a decade building an operating system that runs a merchant’s whole business, payments, point of sale, and now the decisions in between. Financing was the one layer we didn’t fully control. This facility changes that,” said Yoco CEO Carsten Holtkemeyer.\nVictory Park Capital brings experience in private credit and asset-backed finance to the arrangement, having invested more than US$12 billion across 260 investments since 2007. Senior partner Jason Brown, said Yoco had demonstrated a track record of supporting small and independent businesses.\n“We’re supportive of Yoco’s mission to expand access to flexible financing solutions for South African entrepreneurs,” he said."
+    },
+    {
+     "id": "6ca849327774",
+     "group_key": "sas yoco",
+     "title": "Yoco Secures $100 Million Credit Facility To Expand Merchant Financing",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/yoco-secures-100-million-credit-facility-to-expand-merchant-financing/",
+     "published_at": "2026-11-16T20:15:19.000Z",
+     "amount_hint": "$100 Million",
+     "snippet": "Yoco has secured a $100 million credit facility from Victory Park Capital to expand working capital financing for South African merchants through Yoco Capital.\nThe post Yoco Secures $100 Million Credit Facility To Expand Merchant Financing appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "seawolf therapeutics",
+   "company_guess": "Seawolf Therapeutics",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "2866d26b66ee",
+     "group_key": "seawolf therapeutics",
+     "title": "Seawolf Therapeutics: $100 Million Funding And Up To $1.2 Billion Sanofi Partnership To Advance DNA Medicines",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/seawolf-therapeutics-100-million-funding-and-up-to-1-2-billion-sanofi-partnership-to-advance-dna-medicines/",
+     "published_at": "2026-11-16T12:32:48.000Z",
+     "amount_hint": "$100 Million",
+     "snippet": "Seawolf Therapeutics, a San Diego-based biotechnology company developing DNA-based medicines, has emerged from stealth with $100 million in funding and announced a multi-target research collaboration with Sanofi worth up to $1.2 billion in potential milestone payments, plus royalties. The company is developing a lipid nanoparticle-based DNA delivery platform designed to enable sustained production of therapeutic proteins inside patients' cells.\nThe post Seawolf Therapeutics: $100 Million Funding And Up To $1.2 Billion Sanofi Partnership To Advance DNA Medicines appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Seawolf Therapeutics: $100 Million Funding And Up To $1.2 Billion Sanofi Partnership To Advance DNA Medicines\nBy Amit Chowdhry\nToday at 7:32 AM\nSeawolf Therapeutics: $100 Million Funding And Up To $1.2 Billion Sanofi Partnership To Advance DNA Medicines\nSeawolf Therapeutics, a San Diego-based biotechnology company developing DNA-based medicines, has emerged from stealth with $100 million in funding and announced a multi-target research collaboration with Sanofi worth up to $1.2 billion in potential milestone payments, plus royalties. The company is developing a lipid nanoparticle-based DNA delivery platform designed to enable sustained production of therapeutic proteins inside patients’ cells.\nSeawolf’s financing includes seed and Series A investments backed by Versant Ventures, MPM BioImpact, Novartis Venture Fund, Eli Lilly, CRISPR Therapeutics, Sixty Degree Capital, Alexandria Venture Investments, and Pathway to Cures, the philanthropic venture arm of the National Bleeding Disorders Foundation.\nVersant Ventures led the seed financing, while the Series A included Versant, MPM BioImpact, and Novartis Venture Fund.\nThe capital will support advancement of Seawolf’s proprietary therapeutic pipeline, including a lead program targeting metabolic diseases.\nDeveloping The TRIDENT DNA Delivery Platform\nSeawolf’s technology platform, called TRIDENT, stands for Targeted RNA-Induced DNA Expression via Nuclear Translocation.\nThe system uses lipid nanoparticles to transport DNA into cells and facilitate access to the nucleus, where genetic information can support production of therapeutic proteins.\nLipid nanoparticles are also used in certain RNA-based medicines, but RNA therapies can face limitations involving how long protein expression lasts.\nSeawolf is developing a different approach intended to provide more durable protein production by delivering DNA-based payloads.\nTRIDENT combines a proprietary lipid nanoparticle, DNA encoding a therapeutic protein, and an auxiliary factor that helps facilitate nuclear entry.\nThe company says its technology has demonstrated sustained protein expression above therapeutic levels in nonhuman primate studies at doses reported to be safe and well tolerated.\nThe company has also generated preclinical proof-of-concept results in animal models involving metabolic and rare diseases.\nThese findings remain preclinical and will require further evaluation before therapeutic benefits and safety can be established in humans.\nA Redosable Approach To DNA Medicines\nSeawolf is designing its technology to allow repeat administration when necessary.\nThe company describes TRIDENT as a nonviral DNA delivery approach that avoids some of the limitations associated with virus-based genetic medicine platforms.\nIts goal is to provide durable protein expression while preserving the ability to adjust or supplement dosing.\nThe technology could support several therapeutic approaches, including replacement of defective genes and systemic production of biologic medicines.\nSeawolf believes this flexibility may allow the platform to address multiple disease categories.\nSanofi Collaboration Includes Up To $1.2 Billion In Milestones\nAlongside its funding announcement, Seawolf disclosed a multi-target research collaboration and exclusive license agreement with Sanofi.\nThe partnership will focus on developing undisclosed therapies for bleeding disorders and additional indications.\nThe agreement includes up to $1.2 billion in research, development"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "run_date": "2026-11-16",
+ "part": 8,
+ "groups": [
+  {
+   "group_key": "blackbird",
+   "company_guess": "Blackbird",
+   "amount_hint_usd": 17700000,
+   "articles": [
+    {
+     "id": "13e663864fa1",
+     "group_key": "blackbird",
+     "title": "Danish coffee startup Blackbird raises $17.7M Series A",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc0tqRjUwZmRjbVNVNk9ERzVnNVA2eTVvQWN1NEE4emloUXh2dXJ6Um1Fb0pmRFpBMVd4bVNSTHBLbTNRazBmRXhTSmJEQ0lSMDM4UkRjdjRTNDdESGc0UnJjMFlVVmhNMFRwVE1vZGtnYTRUaDgwYWNXWHZhVExJVFFnSzUxM2k4NVhnX01Sdjk?oc=5",
+     "published_at": "2026-11-16T09:49:20.000Z",
+     "amount_hint": "$17.7M",
+     "snippet": "Danish coffee startup Blackbird raises $17.7M Series A Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "danish startup",
+   "company_guess": "Danish startup",
+   "amount_hint_usd": 16000000,
+   "articles": [
+    {
+     "id": "9bd1b7ca516f",
+     "group_key": "danish startup",
+     "title": "Danish startup secures €16 million Series A to expand its workplace coffee service across Europe -",
+     "publisher": "ArcticStartup",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTcTQ5Y3RSVkdWaXBmMTFFdzdhU25rNFktTk81VmdKVVlJajJBM1pVbXlHRGMzaTgtVWo1em1jemg0SW9CVVNRR2d3bU54XzZaS3dPWFJyZzZoSHJnQmRfSkE0dzJxVVNzUm9KWk1yLTBwQdIBckFVX3lxTFBTcTQ5Y3RSVkdWaXBmMTFFdzdhU25rNFktTk81VmdKVVlJajJBM1pVbXlHRGMzaTgtVWo1em1jemg0SW9CVVNRR2d3bU54XzZaS3dPWFJyZzZoSHJnQmRfSkE0dzJxVVNzUm9KWk1yLTBwQQ?oc=5",
+     "published_at": "2026-11-16T10:48:53.000Z",
+     "amount_hint": "€16 million",
+     "snippet": "Danish startup secures €16 million Series A to expand its workplace coffee service across Europe - ArcticStartup",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "tokyo gas backs ethiopias",
+   "company_guess": "Tokyo Gas Backs Ethiopia’s",
+   "amount_hint_usd": 16000000,
+   "articles": [
+    {
+     "id": "86280771e6b1",
+     "group_key": "tokyo gas backs ethiopias",
+     "title": "Tokyo Gas Backs Ethiopia’s Dodai As Electric Motorbike Startup Closes $16M Series A",
+     "publisher": "Tech Build Africa",
+     "url": "https://techbuild.africa/tokyo-ethiopias-dodai-electric-motorbike-series-a/",
+     "published_at": "2026-11-16T20:40:41.000Z",
+     "amount_hint": "$16M",
+     "snippet": "Tokyo Gas Backs Ethiopia’s Dodai As Electric Motorbike Startup Closes $16M Series A Tech Build Africa",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "arborum",
+   "company_guess": "Arborum Labs",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "52a0cf809313",
+     "group_key": "arborum",
+     "title": "Arborum Labs Raises Pre-Seed Funding to Develop AI World Models for Infrastructure Networks",
+     "publisher": "Indian Startup Times",
+     "url": "https://www.indianstartuptimes.com/news/arborum-labs-raises-pre-seed-funding-to-develop-ai-world-models-for-infrastructure-networks/",
+     "published_at": "2026-11-16T12:26:56.000Z",
+     "amount_hint": null,
+     "snippet": "Arborum Labs Raises Pre-Seed Funding to Develop AI World Models for Infrastructure Networks Indian Startup Times",
+     "text_status": "thin",
+     "text": "Speciale Invest report finds Indian deep tech funding hit a record $914 million in 2025\nNovember 16, 2026"
+    }
+   ]
+  },
+  {
+   "group_key": "avatar growth capital to",
+   "company_guess": "Avatar Growth Capital to",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "2f0ecf8da2a2",
+     "group_key": "avatar growth capital to",
+     "title": "Avatar Growth Capital to raise 1,250 crore AI fund",
+     "publisher": "The Economic Times",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWTlCS1Y3Q3Y3cndSU2hOVG1lYjBhMnlXVkdwQ0I0NmQ5TmE1Z3FnSnVWTzdLU1h5Y0M3UWdQbFotcEtwNGZVT203dFpSY3E3WjdmWmQ2RkhVWUo2Vjk5bVRvSkhNSnRPM2QtdHdSZmdCZWZlT2pqdTUtcVVMRjF5cWxEeHNxYVZ6ME1xVGhqQXh6WjNMNzBfZ3VHZFR5VldFQ1QyLTZnWGdyRE4zczlZLU1qb2JNUdIBuwFBVV95cUxPakFDRHJ4Y3ZxSm1qclNSN0dnc2R6RWhzUEtfcVNSTzhhQ2pIS0JRQ3VRUHBLRHFjd0xDNC02YnNGMGFpUk1PV3BzMC1BcU1BNzR2d01jRzk1bUkyUDV4RFFSb0g5alpiM3FmdTZPMHNMVXBVVUljLTM1X29YQUZnTDFlY3RFQW5vNDItYmFsMjFod1gxRHNfY1MyQjVWTWJIX1hnSGRmX1dib3RSeW9POTEwLWx4d0hzdHlN?oc=5",
+     "published_at": "2026-11-15T19:24:14.000Z",
+     "amount_hint": null,
+     "snippet": "Avatar Growth Capital to raise 1,250 crore AI fund The Economic Times",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,496 @@
+{
+ "run_date": "2026-11-16",
+ "part": 7,
+ "groups": [
+  {
+   "group_key": "sumary",
+   "company_guess": "Sumary",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "607a16c4f143",
+     "group_key": "sumary",
+     "title": "Sumary raises $25 million seed round led by Singular",
+     "publisher": "news.lavx.hu",
+     "url": "https://app.sumary.com/auth/signin",
+     "published_at": "2026-11-16T11:41:11.000Z",
+     "amount_hint": "$25 million",
+     "snippet": "Sumary raises $25 million seed round led by Singular news.lavx.hu",
+     "text_status": "thin",
+     "text": "Welcome back\nSign in to continue to Sumary\nSign in with Google Sign in with Microsoft\nOr continue with email\nEmail Sign in with Email\nDon't have an account? Book a demo\n© 2026 Sumary ApS Terms of Service and Privacy Policy"
+    },
+    {
+     "id": "cabdf79f97d6",
+     "group_key": "sumary",
+     "title": "Sumary Secures $25M Seed Round to Scale AI Operating System for Accounting Firms",
+     "publisher": "FF News",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PNlplUkRVbmRic2FHaEZuQzhMVXEtTl90cXBoUHJFeXExZGVDcWYtd0FUQUt2ZGpCVlR0ZUUyTExFVDBmSzkxQVFrVTBETDNzWUdqMklUYW9NR2RmcXpCcnNfS0xyaDFDZnFDa1hfUExXWml2LWc?oc=5",
+     "published_at": "2026-11-16T16:57:38.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Sumary Secures $25M Seed Round to Scale AI Operating System for Accounting Firms FF News",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "luminal",
+   "company_guess": "Luminal",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "bd7d840ac4fb",
+     "group_key": "luminal",
+     "title": "AI cloud startup Luminal secures $25m in Series A funding",
+     "publisher": "Data Center Dynamics",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT19ZcElZX3E4dTZzX1JPa3gtNHAzbDM4VmhnY0lNa0NZRmhKUUtlUkxUaE9iZjJaUUlXbm44clBFS0tjNUVHTG5DenpEZVJkZHlscjNIaGxDM3ZwWl9XNUxZWU9iYnU0c0Y1Y2lHZW5kR194dGVkT1VLQXhxVWIzaXgyb2xNakJtQVJtd0VxNUhIcHY4U25POHhlTGVGZk1GU0E?oc=5",
+     "published_at": "2026-11-16T17:51:26.000Z",
+     "amount_hint": "$25m",
+     "snippet": "AI cloud startup Luminal secures $25m in Series A funding Data Center Dynamics",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "bharat semi",
+   "company_guess": "Bharat Semi",
+   "amount_hint_usd": 24000000,
+   "articles": [
+    {
+     "id": "cb3bba8f9d85",
+     "group_key": "bharat semi",
+     "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+     "publisher": "TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORlp0dzgwTTFLWm5FZ25md2xZM1hldHoxRmhaVHJncWNmYUd2WVJRZGZlQVlycUlRMENUblNDSHpudlV2ZlRvTFhMaUFCb1hVUndRRHMtMmRaSnFiV1Yxb19kQ3ppVTQ0X29hZG1FVlBmVW8yWWJ6aVh6R0xESlJMWElCQ2kzN19rX29feWFJeV9EQzc3dmdYQmRoWUg3d1lTc2xaRUV5Y2FBa3lZNWpFNVMzdEZrNGRVQk0yX3h3NA?oc=5",
+     "published_at": "2026-11-15T23:30:00.000Z",
+     "amount_hint": "$24M",
+     "snippet": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market TechCrunch",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "fa232e2aaf8a",
+     "group_key": "bharat semi",
+     "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+     "publisher": "Jagmeet Singh",
+     "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+     "published_at": "2026-11-15T23:30:00.000Z",
+     "amount_hint": "$24M",
+     "snippet": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "19b4234c8323",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi raises $24 million in seed funding to scale AI sensor technology",
+     "publisher": "ET Enterprise AI",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbGNtcTgwWmptWWl2SjlvQ2p5Mk9heEpWVWowaXFJbk9yV196UkI3VlZtTEdlYUZIOVdXRGFyOFRZVEItRWFCSnF0R3hTcHY3ZV9uMHN2SzJQeTF5Q283dHp5bzdYb3p6RlF0X2M4Nmh1WVBoWmdQVmVjdXk5bUdHV0libE14UkRWS0dXX1NFVXNKUWRLSFd2UzVrR1pqN1FSVFZZMURWVTljRmI3U2k2WVU3Rm9RZGsxdW5XSW5wZVNrVmV0YnJZRHBwbVZmellTTWViZUozNHA5a1M2eC1WUVVUMNIB6AFBVV95cUxPUURSSUo1NzRrM2xPbG82cWhYVzAwQlVLM1B0dlRrc2FfaW1ES1pKYmFndko2bDdBSEhWYUwzQ1d1R1ZyLVJzOXNuelltWUVqUGdJZUNNWlNrNi1sbXBfVzB4UmRNdTdSNTRJcjFpXzNKTmVTSkhYdE9MUTgyY0gwOWdKcURsbmM2d2ZsTnNuY3FPWWltWXlWQWFzWVI4VW1KNTg3UXFBb1NoUjBlS3dpcXVKQTI3clItUnlYdm4xLTU5OWpQTHJtTVo0eE5udEVIaWtITEhra1QzbXZCVUk4dUwyN2pVRVFY?oc=5",
+     "published_at": "2026-11-16T07:15:45.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bharat Semi raises $24 million in seed funding to scale AI sensor technology ET Enterprise AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "c664e53ea884",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi Raises $24 Million to Develop AI Powered Sensors",
+     "publisher": "Equitypandit",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeldQanZ4d2dnR0wxRUYxTVlJRnJmNUdBSUw1VVM4UU4zWUk0MWxhWW1BSzVJTjM2UmxkYUJBSzgtaXVLeklfY0NRYnl6U3ZUbFRQNmg2UzNGRWJza0FmYzdVc3NqMGFyM3BUYWVVd1M0dFRyend0LUc4OGZUZ3ZXOER1b0NxN3FYbGJhdnFQZndNNTg?oc=5",
+     "published_at": "2026-11-16T10:00:37.000Z",
+     "amount_hint": "$24 Million",
+     "snippet": "Bharat Semi Raises $24 Million to Develop AI Powered Sensors Equitypandit",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "689734627228",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi raises $24 Mn in seed round from Info Edge, South Park Common, others",
+     "publisher": "Entrackr",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ2lpQm9Ldm5zS254LUx2eHVfM2pwV2NROTlmUnJVNEsxbHJ4aTRCV1RRaWNRQXNaQ015d1RDbFFUR1BFcnV4VTZYaVdRM1E2SDlWVEpmZS1YcFhXUkZoU2l3WjBVdDZZVGFfMWdQaUxxeVV3YThTeVRsQ01ZZWFfNnNmbTg3Zm15ZklUdzczV0FONnQwRVZLSXJhazNYNFQydDRUSWJydUxNVm5zcktnSC02Z9IBswFBVV95cUxNQ2lpQm9Ldm5zS254LUx2eHVfM2pwV2NROTlmUnJVNEsxbHJ4aTRCV1RRaWNRQXNaQ015d1RDbFFUR1BFcnV4VTZYaVdRM1E2SDlWVEpmZS1YcFhXUkZoU2l3WjBVdDZZVGFfMWdQaUxxeVV3YThTeVRsQ01ZZWFfNnNmbTg3Zm15ZklUdzczV0FONnQwRVZLSXJhazNYNFQydDRUSWJydUxNVm5zcktnSC02Zw?oc=5",
+     "published_at": "2026-11-16T04:48:32.000Z",
+     "amount_hint": null,
+     "snippet": "Bharat Semi raises $24 Mn in seed round from Info Edge, South Park Common, others Entrackr",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "a033921a7416",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi raises $24 million to develop intelligent sensors for AI",
+     "publisher": "Business Standard",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMWhNamplTUo4d3ZxRlNwTi1FeGMzeWlpM0dnZUtNWTFSLU9nR0hBbEY3d3B6cVZ1YXFPNlhXZHdXaWpIYmJGNHNNRkJLT3ZBOXk5NU5iLWpXcndyN0h0VExuNkhDb0dVQzVlRFRieWN4VGFCLS1NUldxVlRVRnZnQ0h4UVlZN2IyRjFUeXlldFpMWmpqYk05UzU0Tm5NWl9XNTVjb29UR0pLdkgtbWpLZUFYeXl2dW5INGJqNXdRcGotMDZHUEVHN3pDOFZpV19ZckVlWWF0S3LSAd4BQVVfeXFMT3p3QUlXbzFSQ29WeGhXeDNvdm0yTThlN0taUUprdnJ3NEFIaG40ZnlMRDM2VXRkcGZDbGdwclZkcXVmNWRtdnZVSnA3Uk15bVBUMG9ldGEwdjc1VzNwM2pZRjZRVkMwbklsVEdISnpYMFp6aTRVM1NkMDdiVHQza3IzOXRIeUV3WmJsbk15SW1hbG9fQzB2Q1dvcWJOeldtYTB5SGlKMGtPQWZral9nYjlZSkU3ano0Y3ZnZzZWZXZpTjg0QjRrUUV4cTF2WXlubmV6eGJZcS04U2Y5Qzdn?oc=5",
+     "published_at": "2026-11-16T00:30:22.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bharat Semi raises $24 million to develop intelligent sensors for AI Business Standard",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "b4bd57e5a50a",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi raises $24 million in funding to build AI sensors for robots, cameras and drones",
+     "publisher": "Indian Startup News",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWUY1RlgxS1ZyUkp1aGc3N2Y4ZkRHLVJhN3hIMkJMOWVlczVQU1RmREt3SXF6eHZielJOaDBSb1p5dDI5dzRxUnpyY3Q2ZDN4ZEFhdE4ya1VkVGlOOTVzcGxjRW5aRWFFTGw0RDJsZ090bm9DVFJISmNqcUJnV2h3R1JZTEJhWkZhUUZwY2FZdFEzcWNHSmZLNWlyN2M0NEtCWkNOQkxwb0tWRl95Ymd0dE1lNW5vN1BCVnRxTkFXUFV4d1RpT0JYZWRSZmF1Tk93dmdZ0gHTAUFVX3lxTE9ZRjVGWDFLVnJSSnVoZzc3ZjhmREctUmE3eEgyQkw5ZWVzNVBTVGZES3dJcXp4dmJ6Uk5oMFJvWnl0Mjl3NHFSenJjdDZkM3hkQWF0TjJrVWRUaU45NXNwbGNFblpFYUVMbDREMmxnT3Rub0NUUkhKY2pxQmdXaHdHUllMQmFaRmFRRnBjYVl0UTNxY0dKZks1aXI3YzQ0S0JaQ05CTHBvS1ZGX3liZ3R0TWU1bm83UEJWdHFOQVdQVXh3VGlPQlhlZFJmYXVOT3d2Z1k?oc=5",
+     "published_at": "2026-11-16T05:31:40.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bharat Semi raises $24 million in funding to build AI sensors for robots, cameras and drones Indian Startup News",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "5fd190cc0403",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi raises $24 million seed round to build AI-powered smart sensors",
+     "publisher": "The Economic Times",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSHQwdzZaNENRNXZleUhRY2NRMXdsNnBvdFhMOFZac2hnRy1HUzZHSTZtNmZ3aXA1S2tUVnRjYy16Qi1TeXV3amNBeGRyX0Y2YndlT1lseUxJcGFGUWN5UnpwdDVZMVdDVVJmMWNaNjdsR3VlczRTV1JfYVRNNUNMSHIzZHNxSzYzYUFubkdNVmk3aXhSTk0yeDVQR0VDTUR2TXFCM2YwLUp1ZE9kbzk1bldtcHNkbklKQTNwTVhYdGhKUkNCdG12U1M3aVcyRjRBTGliX3ZnWlBRUdIB3wFBVV95cUxPWlV0aTh6dUd5cXZwUzNFSFlyMlJPM0JDYTBHMzViUWl5TUg5TXp0T3p6YnhLQkxudTIxTm1WRThiR1kyenAxNlB3aDhwOFU0Sjh3MHozdjhNYkdGTHlsSFNJeDl5dHBiWncwX0RFcWtOR3NTQnFlSHN5aXF5cTBmdkVmVVhCUjdwM1VidW9TU1FISi1xVXVCcVYwbDFVSXdrUzZLTWZ2emttQjJBMjRZdkdkNy10OURQWVhlYWx5aDYxVWd6aTlzYV90N05Kd1hycC1Kc2YtZm83c2c4cTkw?oc=5",
+     "published_at": "2026-11-16T00:30:00.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bharat Semi raises $24 million seed round to build AI-powered smart sensors The Economic Times",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "e909a75e5807",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi Raises $24 Million, Targets Surveillance and Consumer Devices Before Expanding AI Sensors to Robotics",
+     "publisher": "https://ascendants.in/",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWVlaLXNvQWVGMGQxQ3ZBSGUxazhLSTVNZGZEcmNkMTNhMHdIZ3FSMElSWHQyaFNKWWhWVTFocldxaThyYXBmNFgycnBHRGp4blVvMkNkcE9uNFF1WGhHOVJxbmJael84dTJVRlFRcUlsVmpaV2xRUEg2QVVvVHFkSHpINk9fRWc1anlVZUoyQ2gzb0lvaWREYw?oc=5",
+     "published_at": "2026-11-16T12:01:16.000Z",
+     "amount_hint": "$24 Million",
+     "snippet": "Bharat Semi Raises $24 Million, Targets Surveillance and Consumer Devices Before Expanding AI Sensors to Robotics https://ascendants.in/",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "5dc015d6bdf7",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi raises $24 million to build AI image sensors in India",
+     "publisher": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTY0M1dNT2tiS2JOaGVCLTZ5OU5yOGxxTGhOU0Jxa0pJdEM1cnNSbl80azRJTU9IMWR6TUtzLTRuaTllZThVMnJyNEZrUjNXR3FfNUg4d2FFb1I4Y1d2Y0M1ZEdwUXk5cy10a1BrUU93OGxMQXc5REFqOHkyME8tOEpnMnI1WEtEaGtEY0NR?oc=5",
+     "published_at": "2026-11-16T05:28:57.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bharat Semi raises $24 million to build AI image sensors in India MLQ.ai",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "2915493fd712",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi Raises $24 Million in Seed Funding to Develop AI-Powered Image Sensors",
+     "publisher": "Indian Startup Times",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbUVQaER4aW4tM19yTFBWYmttUUN3MEZERGFJck5oNGtlSXoxVW5nNGctWnUzV2YwZXJxUEVmOTl3UENRWTRiY183OGpWYlJRcjlqcmRQaDdlQldlNVBKNGtzM21lbUs5STFIUFdFd3BQOUFib3RYcnAzNExaTlJ0czN4dktmMmFtLWR5eVZidlY5QXYxVGdoZlB1cGp5TkpZTTlDRGxBeGJiakZiT2ZmdVJ2bmZmR1hwOWhNemM3MA?oc=5",
+     "published_at": "2026-11-16T12:15:48.000Z",
+     "amount_hint": "$24 Million",
+     "snippet": "Bharat Semi Raises $24 Million in Seed Funding to Develop AI-Powered Image Sensors Indian Startup Times",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "9e2f95b3a4bf",
+     "group_key": "bharat semi",
+     "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+     "publisher": "Yahoo Finance UK",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN3hGOHZUV0xuQWtJQ2h4ZUxxVnZMMTMxTjlIYWlRTjdiZ1g3eFFUcEdYZm1DWmsxUFNfVFRjMEs3NC12SEVRUEo0NFVNWTY1NjZLLWZGei1QZnA3bTNIcFplam1xOUV6YzFvT21Uazg0X19qZ09VSmVwZnNNSjRKRXVIbC1QV0E?oc=5",
+     "published_at": "2026-11-15T23:30:00.000Z",
+     "amount_hint": "$24M",
+     "snippet": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market Yahoo Finance UK",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "ff9195a63eb3",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi raises $24 million to develop intelligent sensors for AI",
+     "publisher": "Business Standard",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPendBSVdvMVJDb1Z4aFd4M292bTJNOGU3S1pRSmt2cnc0QUhobjRmeUxEMzZVdGRwZkNsZ3ByVmRxdWY1ZG12dlVKcDdSTXltUFQwb2V0YTB2NzVXM3AzallGNlFWQzBuSWxUR0hKelgwWnppNFUzU2QwN2JUdDNrcjM5dEh5RXdaYmxuTXlJbWFsb19DMHZDV29xYk56V21hMHlIaUowa09BZmtqX2diOVlKRTdqejRjdmdnNlZldmlOODRCNGtRRXhxMXZZeW5uZXp4YllxLThTZjlDN2fSAd4BQVVfeXFMT3p3QUlXbzFSQ29WeGhXeDNvdm0yTThlN0taUUprdnJ3NEFIaG40ZnlMRDM2VXRkcGZDbGdwclZkcXVmNWRtdnZVSnA3Uk15bVBUMG9ldGEwdjc1VzNwM2pZRjZRVkMwbklsVEdISnpYMFp6aTRVM1NkMDdiVHQza3IzOXRIeUV3WmJsbk15SW1hbG9fQzB2Q1dvcWJOeldtYTB5SGlKMGtPQWZral9nYjlZSkU3ano0Y3ZnZzZWZXZpTjg0QjRrUUV4cTF2WXlubmV6eGJZcS04U2Y5Qzdn?oc=5",
+     "published_at": "2026-11-16T00:30:22.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bharat Semi raises $24 million to develop intelligent sensors for AI Business Standard",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "0dcc52b2b52e",
+     "group_key": "bharat semi",
+     "title": "India's Bharat Semi raises $24M seed to build AI image sensors",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjAtcmpIOE9mWUE1OFVFcXZGcjB1b2I2TDNhcmkyZ0ZKU0lpTi1KYWJHU0VwM01oblgwOGtIWk96djdPS3JPdGt3TnZaNFFSXzdSRU16bFV5eHZuSWY5VzdqbkxpV1c3ekpEMzRYZjBOTjNpVWdrcWItX1daX2xBY01sR2JWSEl6SkJ0aG1iUnRDOUhlWXBqWnpaQQ?oc=5",
+     "published_at": "2026-11-15T23:59:56.000Z",
+     "amount_hint": "$24M",
+     "snippet": "India's Bharat Semi raises $24M seed to build AI image sensors Dealroom",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "9b627153ec26",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi raises $24 million seed round to develop AI image sensors",
+     "publisher": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc2lPM2ZrUGZrVzF2V1cwU011OGhzbTFGNUdaRFB2cGNwUHhfZjZkWHpIbmxacE9mUHhhRE1HTXdyNVBpWGRwaWVmcXBMVGxlY25ZU2dWbE1LT2R1YlQwVVRMbEZvc05pT3FHbkJmbG1nbnBPYU5NdE1JNHJ0SGVmVjlJVQ?oc=5",
+     "published_at": "2026-11-15T23:45:12.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bharat Semi raises $24 million seed round to develop AI image sensors Mezha.net",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "40b70de241bb",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi raises $24 million in seed round led by Info Edge, South Park Common",
+     "publisher": "Livemint",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOW1MMEZVX0l6Nm05VmhVQXgxU2YwSXY0MHRXN21icVpRNW9pSlU4c2Z4akJQX0ZjRWhLcm82OWw5Ynd3RnBnbF9pX2Q3cGN1Yl9pc28yNjJsRHpBRjdiTXNCSmVuWm80LURYTDRTc1o4Q1FRbWFLaWhQMkl0T1lCamdJSE5lZmt4QW9TRDRfUVpMYy1CdXhCT1pkMklpQ2xNdEM4NFdRanQ3bmxJZG5vM2U2eFV5MDdyLTE3dEd3Z19rUU5HUmplSV91Wkk4UW_SAdQBQVVfeXFMTWV3QTlLY19mOERxN3AtSkJJeEo0dnRoZDg5NXBpVENMcU8zSHgzS1llSllNR2M5Y2owaU9Ca3JCM0tiZXJDeUZSeU9MU2pILXFEUl9ubGFkYjk4N2dDUEt4UDFzVWh3QUg1RXdzYTFoR3htbGM5clJvY2tacUNzZlEyZGdxU2ZKcmVwTHdod2E0OUl2RW42UkhLVDlzOHo0dHZvZ0FVdGVfa0kwZVg5NnJ4RU9JdGRpalRrWFc1dVF0RVFScFg0SHRBYThfaUJHWXJiOFk?oc=5",
+     "published_at": "2026-11-16T00:30:46.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bharat Semi raises $24 million in seed round led by Info Edge, South Park Common Livemint",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "3299c2204e80",
+     "group_key": "bharat semi",
+     "title": "India’s Bharat Semi raises $24M seed round to build AI image sensors for global markets",
+     "publisher": "Next Unicorn Ventures",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sUW9QTWs5MHlWa2laQTVXS2paTDhkZE9ZVHo4eGdDUnNCMWZ6Q04tRjZmM1dtT0QycWZQTWtCMmxtLVFkNlUyRE52Y2FCRHZ5QTl2Z0ZnemNFX0dXVkVselV3dlk4cGt1OS02cTdRZVZES0lmM3c?oc=5",
+     "published_at": "2026-11-16T04:18:00.000Z",
+     "amount_hint": "$24M",
+     "snippet": "India’s Bharat Semi raises $24M seed round to build AI image sensors for global markets Next Unicorn Ventures",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "f1fe66de7764",
+     "group_key": "bharat semi",
+     "title": "Indian Chip Startup Bharat Semi Raises $24M to Build AI Sensors That “See and Think”",
+     "publisher": "TechJuice",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zaU0zMkVHR2hfa3RrWDZ5MTE3dUpEbUpyS1dWZ25sdWdHXzRkRzh6OWx0VUY1X1JlbzhWLWU0ZjVHa3VhVHI4MDh6Z3dlc2JTd3RrS0hiM19JS25tU2pKbkFPUjBOcFNwV1VZNUVMNWp6cW03VU4wVg?oc=5",
+     "published_at": "2026-11-16T13:28:43.000Z",
+     "amount_hint": "$24M",
+     "snippet": "Indian Chip Startup Bharat Semi Raises $24M to Build AI Sensors That “See and Think” TechJuice",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "e05b1b868ab1",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi lands $24 million seed round as it targets global AI sensor market",
+     "publisher": "news.lavx.hu",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVnRGbmJubS1ibEExWW40ZlA4dzJZS2VmTmwwLXY1SHMzOUcyekNXbWRGQm9jaXZDVVZYRlJLa3ZEdnJXZkFUWFZkeG8yUDJkSmNXX3M0dVNjdElPZ1duX1VsSXFXRFBWS2szQm8zNWNaRWtIYUVpVHZQNFlWLXFUWmRiUDR3N2l3bEx5Vkh0VnZNN3R0WkZySkpZbHA5blRTR0ZkUVJxLUxEdw?oc=5",
+     "published_at": "2026-11-16T08:34:48.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bharat Semi lands $24 million seed round as it targets global AI sensor market news.lavx.hu",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "fd3deb5a010a",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi Secures $24 Million to Build Next-Gen AI Sensors",
+     "publisher": "Siliconindia",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNXZlNVFxWEVjTG1IRF84MmJBc29WVnpWMGsyTEJKaEZyekh2N3prVEhCRkJOSHZXb3lwVWU2VEpFSVRFMkt2U2hJdnY1YXA0VHZXLUVUZVk1cmh2NVRXeUM2Uk1JaDRSXzBla05zZjV3SmI5MkxMTHRFTXM3MDh5OUFCVDFfSGtqclBYTEdCTHNyT3Zfd2JBbVlDem14YkNjOUFILUhFUXh2Q0pJbEZhcl9kQV80bG9nbnpkOTZjUDZvTnF1bUE?oc=5",
+     "published_at": "2026-11-16T08:12:36.000Z",
+     "amount_hint": "$24 Million",
+     "snippet": "Bharat Semi Secures $24 Million to Build Next-Gen AI Sensors Siliconindia",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "bedrock energy",
+   "company_guess": "Bedrock Energy",
+   "amount_hint_usd": 24000000,
+   "articles": [
+    {
+     "id": "f4c1b0198899",
+     "group_key": "bedrock energy",
+     "title": "Exclusive: Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+     "publisher": "TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNnBJM0hWdkhObHNmNi1vRHh5WXpSck45MTJBVERGbVRjOTFGQ2JoTVhpSjU0cEZrb3pucEQ4d0Q3WWF6RjZ4dTJCbG9QbUVOSUtDUGkydE5rVklDenVzS3NrbkJFNTd2bHEyTm1XQWh0aUZjMG1OVW8wZ0xENnhrQ3FvY0ctLVQtb1Izc0czclFXbEpLSG42b183QnlpT2l5RG5ha1ByYXVuWno5NDA2eFRyUklWN0NET1hxYmI4RUVJYXN3c2dKeDNoVTI?oc=5",
+     "published_at": "2026-11-16T13:00:00.000Z",
+     "amount_hint": "$24M",
+     "snippet": "Exclusive: Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings TechCrunch",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "1c396dcbf7ea",
+     "group_key": "bedrock energy",
+     "title": "Bedrock Energy raises $24 million to build more automated geothermal drilling rigs for buildings",
+     "publisher": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQXJiaVBoQlhwN25uTjV0Q0REVURvbTd3VEhzRkF6R0x1QW1xNDJfYmVkcXl1cHFrNVVTZkZDNER1UGx6bXNKM0ZvbnlaMDRTZFRVR2dnbnRaOGw4RHQ2WGZzS01UMHdwT1c5NVVIYmZRWUJOa0tQMUtTaFNGTnMtUDY2SER4Zmd4c1dZWkY4RlpIWk9kQ0F5UnFaQjJId0pwMGFPa1hZM0E3ZllHRXZaV1M1UlZ4X1U?oc=5",
+     "published_at": "2026-11-16T14:31:58.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bedrock Energy raises $24 million to build more automated geothermal drilling rigs for buildings MLQ.ai",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "bharat semis usd 24",
+   "company_guess": "Bharat Semi’s USD 24",
+   "amount_hint_usd": 24000000,
+   "articles": [
+    {
+     "id": "38b2622bd181",
+     "group_key": "bharat semis usd 24",
+     "title": "Bharat Semi’s USD 24 Million Seed Round Signals Growing Interest in India's Deep-Tech Sector",
+     "publisher": "Analytics Insight",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaG9HMEpmQ2pLY3IwNlIxM0FJTU4wbHFVcE10eElRTDRoVkdaeTItdExPT0x1c1dPcWxsR000WG16bVNsTV94UlBvZ1hXX3lwSVhrVUFNVjFTNFBaSTZXSzEwV0RZM184M1pYNnR6a2lzUmVBWnNod1NuSjVrOUhaR0h4MllpbnVERTk5RGxVSU9GaWo4am0wcGVxWE4zQTQ5LUhfdkE2QUFnQ3dLQXFNOU9qemJ5bkxtVndwUGpSTHZESU8yRng40gHUAUFVX3lxTE9aenRIMTVxcF9MR1A5eUpfU000OUJ3VDFDcDZBeWxjcENMTF9fSzFDUjd4Wmh0bTBBX29zTTJqZmZXTXE5RkxKUm1ZdVNRSi10VzhvTndfUzFqeC1hQXAzVTVXbWwxRE9vQnk3NGZ0aTdNaXJjZTE3QWJNN21TYURUTlR4TEFmanVoOGM4ZHJHbUdSYnVKUlFuUERZempwaVE5amtOajBETG1HSjRPaDBCS1N1OXZTZEE2SndlMlRUQUlKR1FDOEQtX3ZLcm9UYlBtYVBw?oc=5",
+     "published_at": "2026-11-16T12:22:42.000Z",
+     "amount_hint": "USD 24 Million",
+     "snippet": "Bharat Semi’s USD 24 Million Seed Round Signals Growing Interest in India's Deep-Tech Sector Analytics Insight",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "indian semiconductor startup",
+   "company_guess": "Indian semiconductor startup",
+   "amount_hint_usd": 24000000,
+   "articles": [
+    {
+     "id": "0518cee7e0bf",
+     "group_key": "indian semiconductor startup",
+     "title": "Indian semiconductor startup raises $24 million in seed funding",
+     "publisher": "The Daily Star",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSUY0bEh0YWlHTDJGeVVHTWNpLUJfejAzX19PUHo4MUNRUEpIT3B3UkNjOWNnVWxCbWp1OW01UUlWcm1fSDIzelItZTNrcTFFcktPc0stelNTWEJ6VXoxUjZmcjkzQUp1SktIdVlvTTZDYUtwT1ZYbGJUUDUtSlViXzVzSjFJaTQwdG91WWVScFA1T1lxNFc3aVl3d1g5TTZwdnJzeEdWX2ZvQUJJbGdBT180dzhJemJm?oc=5",
+     "published_at": "2026-11-16T16:10:31.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Indian semiconductor startup raises $24 million in seed funding The Daily Star",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "finlands intergrid",
+   "company_guess": "Finland's Intergrid",
+   "amount_hint_usd": 23500000,
+   "articles": [
+    {
+     "id": "7814d5117651",
+     "group_key": "finlands intergrid",
+     "title": "Finland's Intergrid announces €23.5 million to scale autonomous energy operations internationally - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdl8yUWd2T25XUGJiSVdSa3o5cF9BZE1aSW5CMkZ3MGRFbDlhVHF5cjFTTkNmZzQxclZaTnRkRlhwWk1PNUdLTTZIVjljNG5zcmZ5RzlDYzRqZVZmRjBrdVJaOVJkQnR5ZlRHanlVd29NVFBtZGtuTVY4aUdMcFhXWVNJWDdhZXpERWx5SDZFb2JjcVNwMGpsQTA0Y29URlpoZndUV3hfejB0RWVoYUF5QVVadDNvWkR4cXF1amxpUDB2V1NHM3NwNUxQNFpqZw?oc=5",
+     "published_at": "2026-11-16T10:37:28.000Z",
+     "amount_hint": "€23.5 million",
+     "snippet": "Finland's Intergrid announces €23.5 million to scale autonomous energy operations internationally EU-Startups",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "beda9ba19635",
+     "group_key": "finlands intergrid",
+     "title": "Intergrid lands €23.5M to develop a ‘self-driving car’ for factory energy management",
+     "publisher": "Sofia Chesnokova",
+     "url": "https://techfundingnews.com/intergrid-23-5m-autopilot-industrial-energy-management/",
+     "published_at": "2026-11-16T05:00:00.000Z",
+     "amount_hint": "€23.5M",
+     "snippet": "Olli Kangas spent over 8 years working with industrial companies: two years as a consultant at BCG, then…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "nebuly",
+   "company_guess": "Nebuly",
+   "amount_hint_usd": 21000000,
+   "articles": [
+    {
+     "id": "59c2cdf431f7",
+     "group_key": "nebuly",
+     "title": "Nebuly raises $21 million to measure the value of AI agents",
+     "publisher": "news.lavx.hu",
+     "url": "https://playground.nebuly.com/onboarding",
+     "published_at": "2026-11-15T08:56:35.000Z",
+     "amount_hint": "$21 million",
+     "snippet": "Nebuly raises $21 million to measure the value of AI agents news.lavx.hu",
+     "text_status": "thin",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "accountable",
+   "company_guess": "Accountable",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "26d9f152ac60",
+     "group_key": "accountable",
+     "title": "Accountable Launches to Give Power to American Taxpayers",
+     "publisher": "",
+     "url": "https://www.prnewswire.com/news-releases/accountable-launches-to-give-power-to-american-taxpayers-302939827.html",
+     "published_at": "2026-11-16T14:00:00.000Z",
+     "amount_hint": "$20 million",
+     "snippet": "Co-founded by Acorns CEO Noah Kerner and Jeff Cruttenden, Accountable raises $20 million to help Americans file their taxes, follow their money, and ultimately decide how it is spent. NEW YORK, Nov. 16, 2026 /PRNewswire/ -- Accountable, a new consumer tax and civic company, launched its...",
+     "text_status": "ok",
+     "text": "Accountable Launches to Give Power to American Taxpayers\nNews provided by\nAccountable\nNov 16, 2026, 09:00 ET\nShare this article\nShare this article\nCo-founded by Acorns CEO Noah Kerner and Jeff Cruttenden, Accountable raises $20 million to help Americans file their taxes, follow their money, and ultimately decide how it is spent.\nNEW YORK , Nov. 16, 2026 /PRNewswire/ -- Accountable, a new consumer tax and civic company, launched its waitlist today with the belief that taxpayers should be treated like investors in the country they fund. Investors expect transparency into how their money is put to work, accountability for how it is managed, and a voice in the decisions that shape where it goes. Taxpayers deserve the same.\nContinue Reading\nEvery year, Americans file more than 160 million federal income tax returns, while individuals— not corporations—account for roughly 85% of federal tax revenue. The average taxpayer spends about 12 hours preparing and completing a return, only to be left with a larger question once it's filed: what did their money actually pay for?\nCo-founded by Acorns CEO Noah Kerner and Jeff Cruttenden, Accountable Launches to Give Power to American Taxpayers.\nPost this\nAccountable's first product, a tax filing platform designed around the needs of the taxpayer, will launch in January 2027 ahead of tax season. With a filer's permission, Accountable retrieves available tax information and documents, prefills their return, and guides them through reviewing and submitting for one flat price of $76, with filing free for anyone experiencing financial hardship. Accountable customers will also receive a personalized taxpayer receipt showing an estimated breakdown of what their taxes fund across federal, state, and local government spending.\n\"Cumulatively, taxes are the largest check most of us will ever write, and it's ridiculous that we don't even get a receipt,\" said Noah Kerner, co-founder of Accountable. \"Taxpayers deserve a better experience: smart, fast and fair filing, transparency into what we're paying for, and power over where our money goes. After all, it's our money, we fund this country, and we should feel like shareholders in it.\"\nThe filing platform is the first step in Accountable's broader vision: help Americans file their taxes, follow their money and, over time, have a greater voice in how it is spent. Accountable is starting with filing because it is the most direct financial interaction most Americans have with government. Each year, Americans are asked to account for every dollar they earn. Accountability should go both ways.\nFor Kerner, Accountable is a continuation of a career spent giving everyday people more access and agency in complex financial systems. At Acorns, Kerner has helped over 15 million everyday Americans save & invest over $30 billion. At Say, he gave individual investors a voice in the companies they own. At Accountable, he wants to give taxpayers the same voice in the country they fund. The full team behind Accountable comes with a wealth of experience across tax, civic, investing, health, and consumer technology sectors.\n\"We backed Accountable because we believe the taxpayer is one of the biggest consumer categories still waiting to be reinvented,\" said Lauren Kolodny, Founding Partner at Acrew Capital . \"Noah has spent his career earning the trust of everyday Americans. With Accountable, he's bringing that same consumer-first mindset to one of the most important financial relationshi"
+    },
+    {
+     "id": "e5c104d69cdd",
+     "group_key": "accountable",
+     "title": "Accountable Raises $20 Million To Launch Consumer Tax Filing And Civic Platform",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/accountable-raises-20-million-to-launch-consumer-tax-filing-and-civic-platform/",
+     "published_at": "2026-11-16T14:32:13.000Z",
+     "amount_hint": "$20 Million",
+     "snippet": "Accountable has raised $20 million to build a consumer tax and civic platform designed to simplify tax filing while giving users more visibility into how government uses their tax dollars.\nThe post Accountable Raises $20 Million To Launch Consumer Tax Filing And Civic Platform appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "alecto",
+   "company_guess": "Alecto",
+   "amount_hint_usd": 18000000,
+   "articles": [
+    {
+     "id": "4a3e2b4de69c",
+     "group_key": "alecto",
+     "title": "Alecto lands €18 million to scale its AI-powered law firm beyond property transactions - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMlNzZ0ZwWnJ6dmVITGJTeWRDcEdITmdLenV1NFh0X2RJN0JFd2tNMGl0WHBhMjAtWU9hOHJuc0NfQmNXczh1RjY5OTJRYzhxWDZzclJnSEpoOVdQVHRuNHhFQlVIelRTZ09OcnZJQUVoMUZVdTBISURQekhMdUI0YkVVSEZEYWxCb2EyUGF1UnA1NHpucFRIVS1uME9XUUNidGRjdTJLWUlIcTNkRzZZeW53ZHA1em4xaHRtRHJOUlk?oc=5",
+     "published_at": "2026-11-16T16:09:10.000Z",
+     "amount_hint": "€18 million",
+     "snippet": "Alecto lands €18 million to scale its AI-powered law firm beyond property transactions EU-Startups",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "6495407bb108",
+     "group_key": "alecto",
+     "title": "Alecto raises $20M seed funding to make UK property law more accessible to consumers with AI",
+     "publisher": "SiliconANGLE",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDdZeG1zel9jVlpScUNGWlRmVFlUOTBNQm5UNTBOeGo3bDNvU2YxeC02b1QtcjJ0cVNYZnFnLVotanpyVl9STDc2ZGJSeGNLSmlxTms5b1FCT2JmZk5aTkJicXVwc2xxRHRzSVk2WGhoRDd5RGhIUmJReGJTcTFXaGFQUDlENVFKT1prSUZscEVWMktRdjc5NnJZNlAxVEtNVjdWNHdZbUZkVGp0YmhlZWhVdXhyYVU5d1pWai10QkZqeFVfUjRF?oc=5",
+     "published_at": "2026-11-16T16:25:00.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Alecto raises $20M seed funding to make UK property law more accessible to consumers with AI SiliconANGLE",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "c41c747d0273",
+     "group_key": "alecto",
+     "title": "Alecto raises $20M from Insight Partners after hitting $8M ARR in 8 months",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/alecto-raises-20m-from-insight-partners-after-hitting-8m-arr-in-8-months/",
+     "published_at": "2026-11-16T13:28:24.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Buying a home involves one of life’s biggest financial decisions, yet the legal process often remains slow, expensive…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  }
+ ]
+}
