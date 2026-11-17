@@ -1,0 +1,44 @@
+{
+ "run_date": "2026-11-17",
+ "part": 13,
+ "groups": [
+  {
+   "group_key": "august",
+   "company_guess": "August AI",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "c24a6acd9184",
+     "group_key": "august",
+     "title": "August AI raises $12 mn funding from Accel, Peak XV Partners and Claypond Capital",
+     "publisher": "ET Entrepreneur",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWXRjZVpETGF5Q25MRlVQd1FBZG5TQ20wUlFBa2M0em55UWZSZkdzNTY0ZEJManpCb1k4Sjc0eFptb3pyaDliOWxsV2o2eDVRUVV6YTV6clNCX0NwSDNDRDM0RVEwVThTN1ZIdzFtNUZjOW9OYlJWZjk2b1Z1SHFkZWc5SEttOGRGNjdGM3lkNjJLMXRTOUpBZVF4Mkhsd29fQlhSTDVvNkQza3I5a210cC1MRTljRDNHMExtZXJqWXFGRmRRVEdCWWV1R0ZtTE1YN0xhMGVaVXZIVVhtYnB0ODFJaHN3cDTSAewBQVVfeXFMUDBUT2JoNC1SU0ZHNklRbkJZeU85all5UzIzRjBKU3lfOFpsR0ZTRFpTOVE2LV9tUVJ6MVBTSU8ybUxkRXlmQWwxR2pLMzZqN3pkZ05KRTdFYlhKYmQ5U05lMUpnQzFkUWdIS2xPM3E0MDdaVTBMNlJOR1ZMWTVqaDhfamV0d1QwaDlkOGVCOHhRM3ZBU2hXZndhQzNYaVBnaDJWUlhYa0gzelFPVThaU21WNFBhZWxxVGFsY2FodVBYQzYtWUwzbkpQaDVJa3VmZ1FTMUdZNnptdFh6WnFfb1ptcXpfQXlfOGczWkE?oc=5",
+     "published_at": "2026-11-17T08:34:22.000Z",
+     "amount_hint": null,
+     "snippet": "August AI raises $12 mn funding from Accel, Peak XV Partners and Claypond Capital ET Entrepreneur",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "anthropic ipo windfall from",
+   "company_guess": "Anthropic IPO windfall: From",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "9beb68e669e7",
+     "group_key": "anthropic ipo windfall from",
+     "title": "Anthropic IPO windfall: From Sequoia to Amazon, who wins big as Claude maker eyes $1.33 trillion valuation",
+     "publisher": "Livemint",
+     "url": "https://claude.com/platform/api",
+     "published_at": "2026-11-17T11:22:05.000Z",
+     "amount_hint": null,
+     "snippet": "Anthropic IPO windfall: From Sequoia to Amazon, who wins big as Claude maker eyes $1.33 trillion valuation Livemint",
+     "text_status": "thin",
+     "text": "Customer story\n5 million\nAI agents running in customer business workflows each month\n10x\nfaster to build production agents"
+    }
+   ]
+  }
+ ]
+}

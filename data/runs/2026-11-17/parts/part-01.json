@@ -1,0 +1,424 @@
+{
+ "run_date": "2026-11-17",
+ "part": 1,
+ "groups": [
+  {
+   "group_key": "ramp seeks 70 billion",
+   "company_guess": "Ramp Seeks $70 Billion",
+   "amount_hint_usd": 70000000000,
+   "articles": [
+    {
+     "id": "2e5ae7a17371",
+     "group_key": "ramp seeks 70 billion",
+     "title": "Ramp Seeks $70 Billion Valuation in Third Funding Round as AI Spending Fuels Growth",
+     "publisher": "Kevin Parker",
+     "url": "https://www.citybiz.co/article/935150/ramp-seeks-70-billion-valuation-in-third-funding-round-as-ai-spending-fuels-growth/",
+     "published_at": "2026-11-17T21:11:45.000Z",
+     "amount_hint": "$70 Billion",
+     "snippet": "Fintech company is reportedly seeking at least $1 billion after doubling annualized revenue to $2 billion. Ramp, the fast-growing corporate-card... Read More\nThe post Ramp Seeks $70 Billion Valuation in Third Funding Round as AI Spending Fuels Growth appeared first on citybiz .",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "isomorphic",
+   "company_guess": "Isomorphic Labs",
+   "amount_hint_usd": 5000000000,
+   "articles": [
+    {
+     "id": "5b289a61490f",
+     "group_key": "isomorphic",
+     "title": "AI drug developer Isomorphic raises $5 billion in Series C round",
+     "publisher": "Reuters",
+     "url": "https://www.reuters.com/legal/litigation/ai-drug-developer-isomorphic-raises-5-billion-series-c-round-2026-11-17/",
+     "published_at": "2026-11-17T17:11:42.000Z",
+     "amount_hint": "$5 billion",
+     "snippet": "AI drug developer Isomorphic raises $5 billion in Series C round Reuters",
+     "text_status": "blocked:401",
+     "text": null
+    },
+    {
+     "id": "3ddd561d3db5",
+     "group_key": "isomorphic",
+     "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+     "publisher": "Ram Iyer",
+     "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+     "published_at": "2026-11-17T14:50:58.000Z",
+     "amount_hint": "$5B",
+     "snippet": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "d60b30124a4b",
+     "group_key": "isomorphic",
+     "title": "Isomorphic Labs raises $5B series C months after $2.1B round",
+     "publisher": "Fierce Biotech",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOendaLU5JaDRyX040VjJfUHNuRDVrTFVjVVlXeGpkWjVFaWN4a1lENllJVkxWSU5US1hvbHlEYWFnWXRCMlpkTDljWmtaVVM4VnhCOFZIZGFjU0YxaTBLLWNiazhWcjBTZmdoam9qVFJDcE1nQ0ZuRG1kamVwNTBMYUdoajJtajhESVo3WDJuX09aZkoxRWNjVURtVQ?oc=5",
+     "published_at": "2026-11-17T14:20:39.000Z",
+     "amount_hint": "$5B",
+     "snippet": "Isomorphic Labs raises $5B series C months after $2.1B round Fierce Biotech",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "cc455a423617",
+     "group_key": "isomorphic",
+     "title": "Isomorphic Labs raises USD 5 billion in landmark AI drug discovery financing",
+     "publisher": "AllSci",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1VudS1rWXluVXBfZTRMNHNQSm1OSFJrSV9uOE81M2hRS1NiQk8wOHNLZGhHQ2FWejRpLXhZWG1ldkpsRWtFbU5xZTZ2T0hqcUJHOWZFVTNWVUVlYUxpT3RkYTRsUnFCTm5sa1hnSzAwOGdPUXdSdnp2UTFJQmZYVlBqYUl4aWxCM0M2SC0wemZyYjVX?oc=5",
+     "published_at": "2026-11-17T13:06:27.000Z",
+     "amount_hint": "USD 5 billion",
+     "snippet": "Isomorphic Labs raises USD 5 billion in landmark AI drug discovery financing AllSci",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "80a9bccc9cab",
+     "group_key": "isomorphic",
+     "title": "Isomorphic Labs Raises $5B Series C to Advance AI Drug Design",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYzk0VG9GMGJOOFF5MWRCX3JObnd5R0FKYTJmWnFHYVd3MHdRTXB1aGN4QVFaNk9rUm1YVEc1QkVtTFJOSzFQblNUNWxaSzY2MHYySllJQ2tSSWQyX2FhUUlBR1hPZ2t0bGxrM3dmNXA3QVhTcEVvOTlHTGczUEZYaXpvQ0FNdlgxOWc?oc=5",
+     "published_at": "2026-11-17T12:53:15.000Z",
+     "amount_hint": "$5B",
+     "snippet": "Isomorphic Labs Raises $5B Series C to Advance AI Drug Design Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "4c75cee66d1f",
+     "group_key": "isomorphic",
+     "title": "Isomorphic Labs raises $5 billion in Series C to push AI-designed drugs toward clinical trials",
+     "publisher": "Crypto Briefing",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81QjhscWstdm1hVVVwenEwX25UYkhMQUxFSlN3anNHMURBYUlmYng4LUQzUzIzZVQ2N0t1ZGZEQkFVQ1ZRdE5FNU0zWG5BVHEzemVhbEkyclpmNV9rUVB3TXNjdmd3ZEt5UGdjUXFCLXVTUTdOS20yQQ?oc=5",
+     "published_at": "2026-11-17T18:14:40.000Z",
+     "amount_hint": "$5 billion",
+     "snippet": "Isomorphic Labs raises $5 billion in Series C to push AI-designed drugs toward clinical trials Crypto Briefing",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "bc67a4b6283c",
+     "group_key": "isomorphic",
+     "title": "Isomorphic Labs Raises $5 Billion Series C Co-Led by Greenoaks and Sequoia Capital: 8 outlets compared",
+     "publisher": "NewsCord",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT1ozR01IYTlNaXBZRlJqUFBCRlNUYlJkdS1id3NQdkd4LXgxUlFxOE5TMmJMaGxZSG44bVRQQXdBYUpjMGR5MUtncGd4ODNVbVBQYVkxQXMtQW9YcjA2OHNVbWM4empMWFdtVVpHZDBFX2NTazRFRHkyYjBPcUV4YzluTnFJSGxwZTNGWm9RRjFRdG1BelE5T01NRXFXR09DRU0wVVZNSWZMNlowd2RfSm9vQldXNDlWbEtZSmxLX283aGY3d3pvY0pnQXQ3ak0yeVJMS3R3QU5XRVlOZzJoNEJBcVVfWnQ1MFE?oc=5",
+     "published_at": "2026-11-17T17:36:02.000Z",
+     "amount_hint": "$5 Billion",
+     "snippet": "Isomorphic Labs Raises $5 Billion Series C Co-Led by Greenoaks and Sequoia Capital: 8 outlets compared NewsCord",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "bd56a3850818",
+     "group_key": "isomorphic",
+     "title": "AI drug developer Isomorphic raises $5 billion in Series C round",
+     "publisher": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPME5vWVdRemU2aDduX2J1eC11OGdBN1Y5aEgxYWhEODhaZzh6RmFpTHRqZFBkbTdlTUFLc1dXS25peXdlaE1tclVJUnlhTHJ4Qk1UUWY1NmtDYVpCVE5meEtBTFl5MlJkTW5pY1NPTGNkT21nUElHTWgxcFZpbGNUU1RmV19BMG9aZlhuYlhETW1LTTE5Z2dGQk9BUjVCTnJLRXdZM3lLQWtyeGhvX3FVRWwzd3VyUXc?oc=5",
+     "published_at": "2026-11-17T13:42:26.000Z",
+     "amount_hint": "$5 billion",
+     "snippet": "AI drug developer Isomorphic raises $5 billion in Series C round marketscreener.com",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "187f822a57ad",
+     "group_key": "isomorphic",
+     "title": "Isomorphic Labs Raises $5 Billion Series C With Greenoaks, Sequoia Capital",
+     "publisher": "Quantum Zeitgeist",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hazlzaG9zQ2pWQk54Q3ZwQkhYNGlCVlRqZ3pGTXh6RVRJRGtDRk14d291UDN4LTNWa0tuYmdlRmhtQ3U1VkZ3U2ItTFVsUFQzdi00X1YzYzJZcVUzOXNPOWhGNTdManRqaFdtVHpXR2V4MlJnS2Q3M0JMcw?oc=5",
+     "published_at": "2026-11-17T17:12:44.000Z",
+     "amount_hint": "$5 Billion",
+     "snippet": "Isomorphic Labs Raises $5 Billion Series C With Greenoaks, Sequoia Capital Quantum Zeitgeist",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "27df2268e64a",
+     "group_key": "isomorphic",
+     "title": "Isomorphic Labs raises $5 billion in Series C round",
+     "publisher": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMDRNcmh1OGQwSE5nRjZpM1psdVdvY1lMdi1icVBfSmdWTzdmd3ZRTDlXajlDUFBZb1A1d2hmMW5TbmJ3RmktZU4wX0N1NEFac2pTaVJNaGllanJpTDlDVmVUUm81Y3c4WlNOb3RUWEE4S25wbzhwSEtPUHlMWUNPQnJ1VWNXQ3JS?oc=5",
+     "published_at": "2026-11-17T14:31:17.000Z",
+     "amount_hint": "$5 billion",
+     "snippet": "Isomorphic Labs raises $5 billion in Series C round Mezha.net",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "c0a484180404",
+     "group_key": "isomorphic",
+     "title": "Isomorphic Labs Raises $5 Billion for AI Drug Design",
+     "publisher": "The Defiant",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzQwZFpRdEQ1RWpYNURqRG9BODVKcXNyWHUwUERMUzQ5RG9qcVRfY1FYQ0IwblpmOTBCMmFnYUstLWQ1ckFERmJMYXFtb3ZoZ2VtRFVpcHNmaGdQV3JiUEQyTGktQ3ZIQWU4WDlKYXo4RHhNR2JHc0EwQnZ1cVFXcDBJWjViUUExV25EMldR?oc=5",
+     "published_at": "2026-11-17T13:11:57.000Z",
+     "amount_hint": "$5 Billion",
+     "snippet": "Isomorphic Labs Raises $5 Billion for AI Drug Design The Defiant",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "0731209c2ad3",
+     "group_key": "isomorphic",
+     "title": "Isomorphic Labs raises $5 billion in Series C funding for AI drug discovery",
+     "publisher": "BusinessLine",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeTRLRF9oNTR0LWRES1d2MjZiUWJzNjZlOFpuX2cyeDRmSFpNUFBRM2VqblVBUkZHdENKcnZBV2x5bVQtZE5lNUNRYzFSZDVqMzBmOWt3SjRXOHVLRzJfbHRpMXBLSEl1Sm51VFpJRjRnWTVpNGdPM181VTk0NDd3Nk9IalphU0RJTHNLaVZsby1aUU9MYWRrdU9zOUhvMl9tZUI1TzhLVTdDMzJYQ3pPZHA4enMzdVprWDVGTHFqSTdhV05MdEVWSUN1LURVUlZkQ2l0dEhpbUJlM2tDUS1MWklnODbSAesBQVVfeXFMTjJCaEM5dXVPLWNBbTJoRnI4MVA4djZBT1NzcjNvY011UVdVaVBEa1p6WWppTFl5Z202dXU1QkF3VGprMk95cHVxa3hSNzV0cWVKR1FYZk5LMDRmN3Y0WERSMXBRQW1nNnNHRVZhcmZIY1VCRlk1Y0VYQl9Ralpabm16b3pQRlZScGx5WDZaS2JBcmZyLWtrLTZnY0F5T3BxbENmTHpVQmY3cFNWMFBqYW0zOHJXV09Ndlo5V0c2NGVadHVhU1U4QXphVE1lUGtTaGVHOTRXRWF5ZjFyYkQwYm5QR3NteDFDODZ4RQ?oc=5",
+     "published_at": "2026-11-17T17:26:31.000Z",
+     "amount_hint": "$5 billion",
+     "snippet": "Isomorphic Labs raises $5 billion in Series C funding for AI drug discovery BusinessLine",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "31a2baf8ffbb",
+     "group_key": "isomorphic",
+     "title": "Isomorphic Labs raises $5 billion to design drugs with AI",
+     "publisher": "Pasquale Pillitteri",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjlRQzFBbmlXdkg4Z25McnNMX09EZmduQk1oNkY4el92NDFkb3I5bjJud2l6TVYwZ1B6VmdOREdQcDlhWGsxNklieW9HV0g0N3ZYMllZeTQ4bmdldEpFTk50ckZRa25NRm9UeFYwdEptZ0xWWkdReU1veWEtRFhRM2R2ZkE0ZTRfMHczenJCRnU4UUZVU0E?oc=5",
+     "published_at": "2026-11-17T17:16:25.000Z",
+     "amount_hint": "$5 billion",
+     "snippet": "Isomorphic Labs raises $5 billion to design drugs with AI Pasquale Pillitteri",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "12b1e680fa83",
+     "group_key": "isomorphic",
+     "title": "Google’s Isomorphic Labs Raises $5 Billion Series C From Greenoaks And Sequoia Capital",
+     "publisher": "OfficeChai",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRXBHOHlWTm5JaDdJNnQ2VGJhNmVrVElYX1Nkb2poc0pUR2gtLW1PRHQ5dlVOcU1fRDA3eC1JZHNubGZaMVowTDBJTGYzMDh4T3hEUTNCWDBOeFZSMmlSYjJ5N0tBdG9FOGQ4UEpuRU1hUHo3M3JibHRmQzNoX1c0YU13WW1nQlM4ekJrd09mV2lXOXNKd1ItRlZLMlhkVkpScmk2MVZxSHFaeWp3NVN2MA?oc=5",
+     "published_at": "2026-11-17T12:42:42.000Z",
+     "amount_hint": "$5 Billion",
+     "snippet": "Google’s Isomorphic Labs Raises $5 Billion Series C From Greenoaks And Sequoia Capital OfficeChai",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "d35a6c90dddd",
+     "group_key": "isomorphic",
+     "title": "Isomorphic Labs Raises $5 Billion Series C For AI Drug Discovery Platform",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/isomorphic-labs-raises-5-billion-series-c-for-ai-drug-discovery-platform/",
+     "published_at": "2026-11-17T16:30:14.000Z",
+     "amount_hint": "$5 Billion",
+     "snippet": "Isomorphic Labs has raised $5 billion in an oversubscribed Series C financing to expand its artificial intelligence drug-design platform and advance internally developed and partnered therapeutic candidates toward clinical trials.\nThe post Isomorphic Labs Raises $5 Billion Series C For AI Drug Discovery Platform appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "b504aadec77b",
+     "group_key": "isomorphic",
+     "title": "DeepMind spinout Isomorphic Labs lands $5B Series C to take AI-designed medicines into the clinic",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/deepmind-spinout-isomorphic-labs-lands-5b-series-c-to-take-ai-designed-medicines-into-the-clinic/",
+     "published_at": "2026-11-17T15:23:45.000Z",
+     "amount_hint": "$5B",
+     "snippet": "Isomorphic Labs has raised $5 billion in an oversubscribed Series C round, six months after its $2.1 billion…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "demis hassabis",
+   "company_guess": "Demis Hassabis’ AI",
+   "amount_hint_usd": 5000000000,
+   "articles": [
+    {
+     "id": "fa7d72e40927",
+     "group_key": "demis hassabis",
+     "title": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
+     "publisher": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
+     "published_at": "2026-11-17T13:58:07.000Z",
+     "amount_hint": "$5 billion",
+     "snippet": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO CNBC",
+     "text_status": "thin",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "8d8ac17268d7",
+   "company_guess": "AI",
+   "amount_hint_usd": 4500000000,
+   "articles": [
+    {
+     "id": "8d8ac17268d7",
+     "group_key": "8d8ac17268d7",
+     "title": "AI drug discovery giant Isomorphic Labs raises €4.5 billion in blockbuster funding round - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/11/ai-drug-discovery-giant-isomorphic-labs-raises-e4-5-billion-in-blockbuster-funding-round/",
+     "published_at": "2026-11-17T15:30:36.000Z",
+     "amount_hint": "€4.5 billion",
+     "snippet": "AI drug discovery giant Isomorphic Labs raises €4.5 billion in blockbuster funding round EU-Startups",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "funding report",
+   "company_guess": "Funding Report",
+   "amount_hint_usd": 4000000000,
+   "articles": [
+    {
+     "id": "99deac5d5dfa",
+     "group_key": "funding report",
+     "title": "The Weekly Notable Startup Funding Report: 11/16/26",
+     "publisher": "AlleyWatch",
+     "url": "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/",
+     "published_at": "2026-11-15T16:27:34.000Z",
+     "amount_hint": "$4B",
+     "snippet": "The notable startup funding rounds for the week ending 11/14/26 featuring funding details for Rox, Tristar, Luminal, and twenty-four other deals representing $4B in new funding that you need to know about.",
+     "text_status": "thin",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "science corporations brain tech",
+   "company_guess": "Science Corporation’s brain tech",
+   "amount_hint_usd": 3500000000,
+   "articles": [
+    {
+     "id": "bcc5080f4e56",
+     "group_key": "science corporations brain tech",
+     "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+     "publisher": "Tim Fernholz",
+     "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+     "published_at": "2026-11-17T14:26:46.000Z",
+     "amount_hint": "$3.5 billion",
+     "snippet": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+     "text_status": "ok",
+     "text": "In Brief\nPosted:\n6:26 AM PST · November 17, 2026\nImage Credits: Kimberly White/Getty Images for TechCrunch\nTim Fernholz\nScience Corporation’s brain tech is worth $3.5 billion after new funding\nScience Corporation , the medical technology startup founded by former Neuralink president Max Hodak in 2021, raised a $400 million Series D, the company said in a blog post .\nInvestors in the new round valued the company at $3.5 billion, a person familiar with the deal told TechCrunch. Those backers included Khosla Ventures, the Ackman Oxman Institute, Tenet Healthcare, 885 Capital, Y Combinator, and PLC Neurotech.\nHodak, who talked his way into a graduate neuroscience lab as a college student and has pursued biotechnology ever since, co-founded Science to leverage new technologies to understand and interact with the brain.\nScience’s first product is PRIMA, a wearable and implantable chip that helps people with age-related macular degeneration recover some vision. The device is approved in Europe and available in Germany, as well as being trialed for new conditions.\nHodak announced that the device is now being trialed for patients with another blindness-causing condition, Stargardt disease, while onstage at TechCrunch Disrupt.\nWith the funding, the company aims to bring the device to the United States through the FDA’s Humanitarian Device Exemption, which lets experimental medical technology be used to treat rare conditions. Science has convinced the FDA that advanced macular degeneration in both eyes is uncommon enough to let them seek approval to use the device on people in the U.S.\nStill, the startup’s big ambition and founding purpose is connecting directly to the human brain through a bio-hybrid sensor built from a combination of cultured neurons and silicon. The company is currently designing initial human trials of the device with Yale neurosurgery professor Murat Günel, who told TechCrunch it could offer potential treatments for Parkinson’s disease, among other brain injuries and illnesses.\nTopics\nAI , Biotech & Health , Brain , In Brief , science , Science Corporation , Startups\n2027\nSan Francisco\nGet an Early Peek at the Next TechCrunch Disrupt\nDisrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line.\nSign up for our waitlist\nRegister Now\nNewsletters\nSee More\nSubscribe for the industry’s biggest tech news\nTechCrunch Daily News\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\nTechCrunch Mobility\nTechCrunch Mobility is your destination for transportation news and insight.\nStartups Weekly\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\nStrictlyVC\nProvides movers and shakers with the info they need to start their day.\nNo newsletters selected.\nSubscribe\nBy submitting your email, you agree to our Terms and Privacy Notice .\nRelated\nAI\nAs decision model use skyrockets, is customization the next frontier?\nTim Fernholz\n3 hours ago\nRobotics\nGenesis AI raises $500M to deploy glove-wearing robots\nTim Fernholz\n7 hours ago\nApps\nApple reveals new Mac security controls as AI agents raise privacy risks\nSarah Perez\n1 day ago\nLatest in Biotech & Health\nIn Brief\nIsomorphic Labs raises $5B as it looks to take drug candidates to clinical trials\nRam Iyer\n6 hours ago\nIn Brief\nScience Corporation’s brain tech is worth $3.5 billion after new funding\nTim Fernholz\n7 hours ago\nBiotech & Health\nUpside Foods can now make a million pounds of chicken a year without killi"
+    }
+   ]
+  },
+  {
+   "group_key": "indias",
+   "company_guess": "India's AI",
+   "amount_hint_usd": 1910000000,
+   "articles": [
+    {
+     "id": "88120d34596a",
+     "group_key": "indias",
+     "title": "India's AI startups raise $1.91 billion across 102 funding rounds in 2026 so far",
+     "publisher": "ET Enterprise AI",
+     "url": "https://enterpriseai.economictimes.indiatimes.com/amp/news/industry/indias-ai-startups-raise-1-91-billion-across-102-funding-rounds-in-2026-so-far/135876069",
+     "published_at": "2026-11-16T07:12:18.000Z",
+     "amount_hint": "$1.91 billion",
+     "snippet": "India's AI startups raise $1.91 billion across 102 funding rounds in 2026 so far ET Enterprise AI",
+     "text_status": "ok",
+     "text": "Industry\n2 min read\nIndia's AI startups raise $1.91 billion across 102 funding rounds in 2026 so far\nNeysa's $600 million Series B round was the largest transaction during the period, while Peak XV Partners participated in six funding rounds.\nETEnterpriseAI Desk\nETEnterpriseAI\nUpdated On Nov 16, 2026 at 12:42 PM IST\nSarvam subsequently raised another $90.4 million in August, while Freehand secured $75 million through a Series B round in July. India's artificial intelligence (AI) startup ecosystem has attracted approximately $1.91 billion across 102 funding rounds between January 1 and November 5, 2026, with a handful of large-ticket transactions accounting for a significant portion of the capital raised, according to data compiled by Tracxn .\nAdvt\nThe funding activity includes investments across companies developing AI infrastructure, generative AI platforms and enterprise applications, with some of the largest transactions involving businesses operating in the infrastructure and computing ecosystem.\nNeysa's $600 million Series B round in February was the largest funding transaction recorded during the period. Sarvam followed with a $255.1 million Series B round in June, while semiconductor technology company Kandou raised $225 million through a Series E round in March.\nEvent\nThe Fiduciary Architecture of Frontier AI Defense\nEnterprise boards are pressing CFOs to fund generative and autonomous AI initiatives to drive margin expansion, yet the underlying risk economics have shifted dramatically. Frontier cyber capabilities are doubling every five months, compressing exploit windows from 55 days to mere hours.\nSimultaneously, cyber insurers are capping AI-related losses at 10% of policy limits, while maintaining 80+ fragmented security vendors is actively eroding operating margins. Defending against machine-speed threats with manual, siloed processes is financially unsustainable and creates unquantified balance-sheet exposure.\nThu, 26 Nov 2026\nBengaluru\nRegister Now\n4 Speakers\nShow More\nOther significant transactions included Yotta's $150 million Series D round in July and Emergent's $130 million Series C round in the same month. Emergent had also raised $70 million through a Series B round in January.\nSarvam subsequently raised another $90.4 million in August, while Freehand secured $75 million through a Series B round in July.\nThe four largest funding transactions &mdash; involving Neysa, Sarvam, Kandou and Yotta &mdash; together accounted for approximately $1.23 billion, or nearly 64 per cent of the total funding recorded during the period.\nAdvt\nPeak XV Partners leads investor participation\nSarvam subsequently raised another $90.4 million in August, while Freehand secured $75 million through a Series B round in July. On the investor side, Peak XV Partners emerged as the most active investor in India's AI startup funding landscape, participating in six funding rounds during the period.\nKhosla Ventures, Lightspeed Venture Partners, Together, Info Edge Ventures, Capital 2B, IvyCap Ventures, Antler, Venture Catalysts and Wyser followed, with participation in three rounds each.\nAdvt\nIn terms of lead-investor participation, Peak XV Partners led three funding rounds, while IvyCap Ventures and Info Edge Ventures led two rounds each.\nThe investor activity reflects participation by established venture capital firms, as well as funds backing emerging AI companies at different stages of development.\nThe funding rounds recorded during the period in"
+    }
+   ]
+  },
+  {
+   "group_key": "cfg",
+   "company_guess": "CFG",
+   "amount_hint_usd": 1450000000,
+   "articles": [
+    {
+     "id": "820390bd46aa",
+     "group_key": "cfg",
+     "title": "CFG Closes 32 Transactions Totaling More Than $1.45 Billion Across September and October",
+     "publisher": "Kevin Parker",
+     "url": "https://www.citybiz.co/article/934946/cfg-closes-32-transactions-totaling-more-than-1-45-billion-across-september-and-october/",
+     "published_at": "2026-11-17T18:39:23.000Z",
+     "amount_hint": "$1.45 Billion",
+     "snippet": "CFG, a leader in the nationwide healthcare and multifamily financing industries, today announced the closing of 32 transactions totaling more... Read More\nThe post CFG Closes 32 Transactions Totaling More Than $1.45 Billion Across September and October appeared first on citybiz .",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "corma 1b valuation",
+   "company_guess": "Corma $1B Valuation",
+   "amount_hint_usd": 1000000000,
+   "articles": [
+    {
+     "id": "7ba9bdc716b4",
+     "group_key": "corma 1b valuation",
+     "title": "Corma $1B Valuation: $125M Series A Led by NEA",
+     "publisher": "shattered.io",
+     "url": "https://shattered.io/corma-1-billion-valuation-125-million-series-a-nea/",
+     "published_at": "2026-11-17T01:47:23.000Z",
+     "amount_hint": "$1B",
+     "snippet": "Corma $1B Valuation: $125M Series A Led by NEA shattered.io",
+     "text_status": "ok",
+     "text": "Home\nAI & Machine Learning\nCorma Hits $1B Valuation on $125M Series A\nMarcus Bell\nUpdated Nov 17, 2026 &middot; 14 min read\nPhoto: Ynhockey, CC BY-SA 4.0, via Wikimedia Commons\nCorma, an Israeli-founded cybersecurity startup that builds AI models and agents for defense, has raised a $125 million Series A at a $1 billion valuation, Ynetnews reported . NEA led the round, announced on November 16, 2026, and existing investors Sequoia Capital, Khosla Ventures and Coatue took part. The Corma $1 billion valuation arrives about three months after a $60 million seed round, which lifts total disclosed funding to $185 million.\nTable of Contents\nCorma Series A at a Glance: Round, Investors, Valuation\nHow a $1 Billion Valuation Arrived in About Three Months\nNEA, Sequoia, Khosla and Coatue: Reading the Cap Table\nWhat Corma Builds: AI Models and Agents for Cyber Defense\nFounder and Team: What Is Confirmed About Alon Pluda\nWhat Corma and NEA Said: Verified Quotes\nOn the attacker and defender gap\nOn demand and capacity\nFrom the lead investor\nWhy Defense-Trained AI Models Matter\nMarket Impact: AI Security Funding Keeps Moving to the Front\nCompetitive Comparison: Corma’s Approach Versus Today’s Security Stack\nHistorical Context: From Signatures to AI Agents\nRisks and Open Questions Around the Corma Deal\nFive Predictions for Defensive AI After the Corma Round\nWhat to Watch Next\nFAQ: Corma, the $125 Million Series A and the $1 Billion Valuation\nRelated Coverage\nThe company was founded in 2025 and works from Tel Aviv and San Francisco. That is a short road from founding to unicorn status, and it says as much about investor appetite for defensive AI as it does about any single product. This article sorts what the reports confirm from what they leave open, and it tells you which parts of the story are analysis rather than fact.\nThe timing matters. The deal lands in a week already crowded with large AI numbers, including our look at the Anthropic IPO and Nvidia earnings week ahead . Against that backdrop, a 2025-founded security company reaching a billion-dollar price tag will draw attention from buyers, rivals and other investors alike.\nThe Shattered Newsletter\nThe week's biggest stories in tech, gaming and security, in one email.\nEmail address\nSubscribe\nFree, once a week. Unsubscribe any time.\n·\nGoogle · Preferred Sources\nDon't miss new tech stories on Google\nAdd Shattered once in the Google app and our stories show up in your news suggestions. Add now\nCorma Series A at a Glance: Round, Investors, Valuation\nStart with the numbers that appear consistently across the coverage. The table below lists only the details that hold up across the available reports. Anything the reports do not settle stays out of it.\nItem What the reports say\nCompany Corma, Israeli-founded, AI models and agents for cyber defense\nRound $125 million Series A\nValuation $1 billion\nLead investor NEA\nParticipating existing investors Sequoia Capital, Khosla Ventures, Coatue\nEarlier funding $60 million seed, about three months before the Series A\nTotal disclosed funding $185 million\nFounded 2025\nLocations Tel Aviv and San Francisco\nAnnouncement date November 16, 2026\nThe sums check out. A $60 million seed plus a $125 million Series A equals $185 million, and the Series A makes up roughly two thirds of everything the company has raised. If the $1 billion figure is a post-money valuation, which the reports do not specify, the new round represents about 12.5% of the company. Treat that last figur"
+    },
+    {
+     "id": "f2593d69629c",
+     "group_key": "corma 1b valuation",
+     "title": "Corma hits $1B valuation three months after stealth as NEA leads $125M Series A for defencive AI",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/corma-hits-1b-valuation-three-months-after-stealth-as-nea-leads-125m-series-a-for-defencive-ai/",
+     "published_at": "2026-11-17T09:00:00.000Z",
+     "amount_hint": "$1B",
+     "snippet": "As AI makes cyberattacks faster and more sophisticated, enterprises are under pressure to strengthen their defences. Corma, a…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "estonias plural",
+   "company_guess": "Estonia’s Plural",
+   "amount_hint_usd": 1000000000,
+   "articles": [
+    {
+     "id": "172da63af680",
+     "group_key": "estonias plural",
+     "title": "Estonia’s Plural raises €1bn to back Europe’s next technology giants",
+     "publisher": "Estonian World",
+     "url": "https://estonianworld.com/business/estonias-plural-raises-e1bn-to-back-europes-next-technology-giants/",
+     "published_at": "2026-11-16T13:42:32.000Z",
+     "amount_hint": "€1bn",
+     "snippet": "Estonia’s Plural raises €1bn to back Europe’s next technology giants Estonian World",
+     "text_status": "ok",
+     "text": "Estonia’s Plural raises €1bn to back Europe’s next technology giants\nPlural’s team. The Tallinn- and London-based investment firm has raised €1 billion to back European technology companies in sectors including defence, energy, space and artificial intelligence. Photo: Plural.\nBy\nSilver Tambur\n· November 16, 2026 · Business · 4 minutes of reading\nShare\nTweet\nLinkedIn\nEmail\nPlural, the investment firm co-founded by Estonian entrepreneurs Taavet Hinrikus and Sten Tamkivi, has raised €1 billion to back a generation of European technology companies seeking to compete on the world stage.\nThe firm, which operates from Tallinn and London, will invest in businesses tackling some of the continent’s most demanding technological challenges, from fusion energy and artificial intelligence infrastructure to defence and space.\nThe fundraising is the largest in Plural’s history and, according to figures cited by the Estonian business newspaper Äripäev, exceeds the amount raised by the entire Baltic private equity and venture capital industry last year.\nIt also carries a broader ambition: to help Europe build more of the companies on which its prosperity and security depend.\n“For two decades, most of the world’s most valuable technology companies have been built in the US and China,” Plural said in its announcement. “Europe has been a customer rather than a creator, and that has cost us prosperity and bargaining power.”\nA billion-euro commitment\nThe new capital is almost four times the €260 million Plural raised for its first fund in 2022 and double the €500 million raised for its second in 2024.\nIt will be divided roughly two to one. The larger share will finance new early-stage investments through Plural’s third fund; the remainder will go into a separate fund designed primarily to increase its stakes in leading companies already in its portfolio.\nPlural’s proposition is to support founders from the outset and continue backing them as their companies grow.\n“For too long, Europe has funded its best ideas in small instalments,” Carina Namih, a Plural partner, said in comments reported by Äripäev. “Founders raise a little, prove a little and then have to raise again. That is no way to build something complex.”\nA field test by Estonian defence start-up Frankenburg Technologies, one of the companies backed by Plural, which has raised €1 billion in new capital. Photo: Frankenburg Technologies.\nThe firm’s portfolio includes Helsing in defence, Proxima Fusion in energy, The Exploration Company in space and Frankenburg Technologies, the defence company with roots in Tallinn. Plural-backed businesses have raised more than €3 billion in follow-on funding over the past year, according to the firm.\nGrowing ambitions\nFor Estonia, the fundraising offers evidence that its technology industry is developing beyond the generation of companies that established its international reputation.\nHinrikus co-founded Wise and was Skype’s first employee. Tamkivi was an early Skype executive and later co-founded Teleport. Their investment firm now backs founders attempting to build businesses in fields far removed from money transfers and internet calls.\n“Several of the founders behind that success are building companies again, this time tackling much tougher challenges. Global ones,” Tamkivi told Äripäev. “Frankenburg is a good example of how a company founded in Tallinn can become an international player in the defence industry.”\nHalf of Plural’s team is based in Estonia, accord"
+    },
+    {
+     "id": "deb33cc71543",
+     "group_key": "estonias plural",
+     "title": "Plural Raises USD 1.1 Billion to Invest in Europe's AI, Robotics and Defence Startups",
+     "publisher": "Analytics Insight",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYlBLNUF4WDBkaHhzSkxBanFzREtmZ3VQd0Q1MXJoR1NRdFNjTTlzSGdqanlEbXlZV29aUVlwWHlmazRPc3hiY2QyVEVhd0VCd3ktN094VmRObUZZV1Ytc2h6QUdnQjZXM3llc1RVUHdEdmNfd3RTeWd4dlRZdVFHd0hVYlhkeUNQckh6Rlg4YkNHeHhmejl6dGJUd2dkMFczSGlScUVzbTRieE1fcGJJX1RQTUczeVFlbGsxX9IBygFBVV95cUxOTXo1TkVDcmgyRmpWSlNrREpZeER2blNZY3lQYXRIV05OemZWR01IM2RrekR5ZXJ6NzF5eTgyaGRRUlVXaVhKOHdsN2IzZFNtdTFybHRzUlZDS2hzdl80cEExcUx5RzVOWExTVDVNd1lQQ2x0bVd1MEFjYmVOMWtWbTFLRHJvV0dBT3JSMXVUeUUwbFRBYURzZXkxUXVZb3BibS1ZNi1KN21DMjRubjZ1b05iUWhReEhvZWJlU0RhZkJ0ZUJRSHBweFp3?oc=5",
+     "published_at": "2026-11-16T12:35:09.000Z",
+     "amount_hint": "USD 1.1 Billion",
+     "snippet": "Plural Raises USD 1.1 Billion to Invest in Europe's AI, Robotics and Defence Startups Analytics Insight",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "edaa9a6ea2b2",
+     "group_key": "estonias plural",
+     "title": "Plural raises €1 billion to back frontier founders “capable of building Europe’s first trillion-dollar company” - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVW14ZHVtSExZbk1hRk9mU2NWZ1ZsbDUxTGViVTlGSHpIWTVCMWhLVURTclFNZF8xQUxRNHhnUjVnNU02RWRxWHVUNm9PdmVsTVhrTWhVdXE1akxQUHFoemVGa3Zxa05DRlFyUFJ1c1ZseTdISzR3RUQ5cmgxZ05wTGJPVEZfQ2F5ZDZvWk43N1l0Q2hzVmpDWkcwdk5vOWpjVF9VcHZ3eVVaMlJhWUduQWxiZ2ZFMFlpR1NGVGpGN0hCcTZBbTlkMk53TU1vZjRuSnRaU0RqdkVFUDU5R2c?oc=5",
+     "published_at": "2026-11-16T08:31:24.000Z",
+     "amount_hint": "€1 billion",
+     "snippet": "Plural raises €1 billion to back frontier founders “capable of building Europe’s first trillion-dollar company” EU-Startups",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "3a22a649c9ff",
+     "group_key": "estonias plural",
+     "title": "Plural Raises €1B to Back European AI, Robotics and Deep-Tech Startups",
+     "publisher": "AI Insider",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeGtTdEZselpOZmxLWnJ0cG44ek9LcGNDN2FLVGxNOWxXNFF6VVg0VHlyWWpxNVRpQXJLY0NMVVAtZ0owczVxYlYtcHBDSVY1Q0lCM2ZQb1JuTFVPZnhoY3hCaURHWnVEMlh0QjJzY1hxeWt6NVh0QWRybmlMTVo2dFM3MnJUSHlZMVExbFQ0NEFxSUNhYWMtbHVZOGRrU054aHBSQTBETm5zM3M?oc=5",
+     "published_at": "2026-11-16T11:40:51.000Z",
+     "amount_hint": "€1B",
+     "snippet": "Plural Raises €1B to Back European AI, Robotics and Deep-Tech Startups AI Insider",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

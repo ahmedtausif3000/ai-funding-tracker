@@ -1,0 +1,388 @@
+{
+ "run_date": "2026-11-17",
+ "part": 2,
+ "groups": [
+  {
+   "group_key": "corma hits 1b three",
+   "company_guess": "Corma Hits $1B Three",
+   "amount_hint_usd": 1000000000,
+   "articles": [
+    {
+     "id": "17767b0392e6",
+     "group_key": "corma hits 1b three",
+     "title": "Corma Hits $1B Three Months Out of Stealth, 8x Its Series A",
+     "publisher": "FourWeekMBA",
+     "url": "https://fourweekmba.com/ai-corma-hits-1b-three-months-out-of-stealth-8x-its-series-a/",
+     "published_at": "2026-11-16T16:25:34.000Z",
+     "amount_hint": "$1B",
+     "snippet": "Corma Hits $1B Three Months Out of Stealth, 8x Its Series A FourWeekMBA",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "cybersecurity",
+   "company_guess": "Cybersecurity AI",
+   "amount_hint_usd": 1000000000,
+   "articles": [
+    {
+     "id": "aae8c4832e63",
+     "group_key": "cybersecurity",
+     "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+     "publisher": "Julie Bort",
+     "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+     "published_at": "2026-11-16T23:32:32.000Z",
+     "amount_hint": "$1B",
+     "snippet": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+     "text_status": "ok",
+     "text": "In Brief\nPosted:\n3:32 PM PST · November 16, 2026\nImage Credits: TechCrunch (AI-generated)\nJulie Bort\nCybersecurity AI startup Corma reaches $1B valuation in about 3 months\nThree months after introducing its product, AI cybersecurity startup Corma has raised a $125 million Series A round at a $1 billion valuation led by NEA, the company said. Corma offers AI models and agents trained for cybersecurity defense. It has now raised a total of $185 million from backers, including Sequoia Capital, Khosla Ventures, and Coatue.\nThe startup came out of stealth in August. Interest in its product skyrocketed after a series of security incidents sent chief information security officers scrambling on October 21 when a critical flaw was found in PHP , a popular web programming language. Another flaw was found in Node.js , the open source JavaScript runtime environment. Popular open source tool LiteLLM, a proxy for routing requests to multiple LLM providers, also disclosed a security incident. Other incidents were disclosed that day, too. The day showcased the kind of onslaught on security that AI has enabled.\nCorma isn’t the only company using AI to play defense. Other examples include Kevin Mandia’s new startup Armadin , as well as Anthropic, OpenAI, Microsoft, and other established players, and too many other startups to count. Still, it’s a young market and a necessary one. Corma says it stands out from the crowd by being a frontier AI research lab focused on protection.\nTopics\nAI , cybersecurity , Fundraising , In Brief , Security , Startups\n2027\nSan Francisco\nGet an Early Peek at the Next TechCrunch Disrupt\nDisrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line.\nSign up for our waitlist\nRegister Now\nNewsletters\nSee More\nSubscribe for the industry’s biggest tech news\nTechCrunch Daily News\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\nTechCrunch Mobility\nTechCrunch Mobility is your destination for transportation news and insight.\nStartups Weekly\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\nStrictlyVC\nProvides movers and shakers with the info they need to start their day.\nNo newsletters selected.\nSubscribe\nBy submitting your email, you agree to our Terms and Privacy Notice .\nRelated\nApps\nProton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop\nSarah Perez\n3 hours ago\nAI\nAll the questions Nvidia should answer on Tuesday — but probably won’t\nJulie Bort\n23 hours ago\nSecurity\nFBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’\nZack Whittaker\n1 day ago\nLatest in Startups\nAI\nPedestal AI raises $4.7 million to agentify the supply chain\nRussell Brandom\n3 hours ago\nIn Brief\nScience Corporation’s brain tech is worth $3.5 billion after new funding\nTim Fernholz\n7 hours ago\nMedia & Entertainment\nHank Green is self-funding ClockwiseTV, a curated educational video platform for kids\nAmanda Silberling\n7 hours ago"
+    }
+   ]
+  },
+  {
+   "group_key": "early helsing and proxima",
+   "company_guess": "Early Helsing and Proxima",
+   "amount_hint_usd": 1000000000,
+   "articles": [
+    {
+     "id": "a6790117c4c7",
+     "group_key": "early helsing and proxima",
+     "title": "Early Helsing and Proxima Fusion backer Plural raises €1B to chase a European trillion-dollar company",
+     "publisher": "Sofia Chesnokova",
+     "url": "https://techfundingnews.com/plural-raises-1b-europe-trillion-dollar-companies/",
+     "published_at": "2026-11-16T08:57:57.000Z",
+     "amount_hint": "€1B",
+     "snippet": "When Plural started in 2022, it was very difficult for European founders working in fusion, defence and space…",
+     "text_status": "thin",
+     "text": "November 17, 2026\nCable car and ropeway market: saturated, or still room to invest?\nby Editorial team"
+    }
+   ]
+  },
+  {
+   "group_key": "sofinnovas graziano seghezzi",
+   "company_guess": "Sofinnova's Graziano Seghezzi",
+   "amount_hint_usd": 815000000,
+   "articles": [
+    {
+     "id": "57c9249bf3ae",
+     "group_key": "sofinnovas graziano seghezzi",
+     "title": "Sofinnova's Graziano Seghezzi Raises $815 Million to Fix Europe's Biotech Scale-Up Gap",
+     "publisher": "BigGo Finance",
+     "url": "https://finance.biggo.com/news/93900063248647f3",
+     "published_at": "2026-11-16T16:08:00.000Z",
+     "amount_hint": "$815 Million",
+     "snippet": "Sofinnova's Graziano Seghezzi Raises $815 Million to Fix Europe's Biotech Scale-Up Gap BigGo Finance",
+     "text_status": "ok",
+     "text": "Sofinnova's Graziano Seghezzi Raises $815 Million to Fix Europe's Biotech Scale-Up Gap\nAdd preferred source\nSofinnova Partners has raised more than $800 million — roughly three-quarters of a billion — for a fund dedicated entirely to late-stage European biotech and medtech, a direct bet that the continent's problem is no longer invention but the capital to carry companies into commercialization. Managing partner Graziano Seghezzi, speaking at the Jefferies Global Healthcare Conference in London, argues Europe excels at company creation but remains starved of scale-up capital, and that pharma M&A — not European public markets — is the healthy exit route the industry should embrace. The evidence he offers is concrete: a $90 million Series A in Aletheia Therapeutics, a $1.5 billion sale of UK ADC-toxin developer Mirix to Novartis, and Hema now public at a valuation in the low billions. Yet the same conversation carries a counterweight. Seghezzi says Europe \"cannot afford\" to back fast followers against China, tells portfolio boards to treat China as a speed lever rather than a threat, and confirms Sofinnova still recommends US listings because Europe's public market lacks depth. His 2027 forecast is an up year, powered by record-level pharma M&A and a functioning, if unspectacular, IPO window.\nKey Elements\nSofinnova Partners Graziano Seghezzi Aletheia Therapeutics Tea Therapeutics Mirix Surcentrix Hema Novartis Johnson & Johnson Ollin Biosciences Jefferies Global Healthcare Conference Stifel LSEG\nEurope's biotech industry has spent two decades waiting for a public market deep enough to carry its best companies. Graziano Seghezzi has stopped waiting and raised three-quarters of a billion dollars to work around the gap instead.\nSofinnova Partners, where Seghezzi is managing partner, has closed a fund above $800 million dedicated entirely to late-stage European biotech and medtech — B rounds, C rounds, crossovers and companies approaching a listing. The fund was announced at Sofinnova's own growth summit in London, a couple of blocks from the Jefferies Global Healthcare Conference where Seghezzi sat down to explain it in mid-November 2026.\nHis thesis is narrow and specific. \"We are great at technologies and company creation, but what we're still lacking a little bit is on scale-up capital,\" he said. The new vehicle is aimed squarely at that missing layer: European companies ambitious enough to want to bring products into commercialization rather than sell early.\nA repeat of a fund that already returned exits and listings\nThis is not a first attempt. Sofinnova's growth team ran an earlier fund that Seghezzi says deployed roughly half a billion euros into European late-stage companies, producing a couple of exits and a couple of public listings. The new pool repeats the playbook at a larger size.\nThe allocation follows Sofinnova's house pattern of 70–80% biopharma and 20–30% medtech, and stays therapy-area agnostic — the target being, in Seghezzi's words, \"everywhere where there is a big medical need and important solutions.\"\nTwo investments have already been made from the new vehicle:\nCompany Geography Sector framing Status / detail\nSurcentrix UK Not specified Portfolio company the growth team participated in\nHema Nordic Health and disorders Now public, valued at about a couple of billions\nWhy UK rounds are bigger: it's a scale story, not a sophistication story\nThe obvious question for anyone watching European biotech is why the big rounds clu"
+    }
+   ]
+  },
+  {
+   "group_key": "sofinnova",
+   "company_guess": "Sofinnova",
+   "amount_hint_usd": 725000000,
+   "articles": [
+    {
+     "id": "983582e96e4d",
+     "group_key": "sofinnova",
+     "title": "Sofinnova Partners closes €725M Crossover II fund to scale European life sciences companies",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/sofinnova-partners-closes-e725m-crossover-ii-fund-to-scale-european-life-sciences-companies/",
+     "published_at": "2026-11-16T11:08:50.000Z",
+     "amount_hint": "€725M",
+     "snippet": "European life sciences companies are moving from clinical validation to commercialisation, and the funds backing them are growing.…",
+     "text_status": "thin",
+     "text": "November 17, 2026\nCable car and ropeway market: saturated, or still room to invest?\nby Editorial team"
+    }
+   ]
+  },
+  {
+   "group_key": "ballys",
+   "company_guess": "Bally’s Corporation",
+   "amount_hint_usd": 560000000,
+   "articles": [
+    {
+     "id": "1aac9edcfff3",
+     "group_key": "ballys",
+     "title": "Bally’s Corporation Secures $560 Million in Additional Financing to Support Chicago Casino Development and Corporate Operations",
+     "publisher": "Kevin Parker",
+     "url": "https://www.citybiz.co/article/935141/ballys-corporation-secures-560-million-in-additional-financing-to-support-chicago-casino-development-and-corporate-operations/",
+     "published_at": "2026-11-17T21:17:47.000Z",
+     "amount_hint": "$560 Million",
+     "snippet": "Bally’s Corporation (NYSE: BALY), a global casino and entertainment operator, has secured commitments for $560 million in additional financing to... Read More\nThe post Bally’s Corporation Secures $560 Million in Additional Financing to Support Chicago Casino Development and Corporate Operations appeared first on citybiz .",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "exclusive",
+   "company_guess": "Exclusive",
+   "amount_hint_usd": 500000000,
+   "articles": [
+    {
+     "id": "3f4042ffe91e",
+     "group_key": "exclusive",
+     "title": "Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million",
+     "publisher": "WSJ",
+     "url": "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457",
+     "published_at": "2026-11-17T14:00:00.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million WSJ",
+     "text_status": "blocked:401",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "genesis",
+   "company_guess": "Genesis AI",
+   "amount_hint_usd": 500000000,
+   "articles": [
+    {
+     "id": "e5ce17772f3f",
+     "group_key": "genesis",
+     "title": "Genesis AI Raises $500M Series A at $3.5B Valuation to Master Human-Level Dexterity in General-Purpose Robots and Deploy at Scale",
+     "publisher": "PR Newswire",
+     "url": "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html",
+     "published_at": "2026-11-17T14:00:00.000Z",
+     "amount_hint": "$500M",
+     "snippet": "Genesis AI Raises $500M Series A at $3.5B Valuation to Master Human-Level Dexterity in General-Purpose Robots and Deploy at Scale PR Newswire",
+     "text_status": "ok",
+     "text": "Genesis AI Raises $500M Series A at $3.5B Valuation to Master Human-Level Dexterity in General-Purpose Robots and Deploy at Scale\nNews provided by\nGenesis AI\nNov 17, 2026, 09:00 ET\nShare this article\nShare this article\nThe new funding round will fuel Genesis' efforts to transform the range and complexity of tasks physical AI can handle, paving the way for broad adoption of Eno, the company's flagship robot\nPARIS and SAN CARLOS, Calif. , Nov. 17, 2026 /PRNewswire/ -- Genesis AI , a global robotics company, today announced it has raised $500 million in Series A funding at a $3.5 billion post-money valuation. The round was co-led by Premji Invest , Khosla Ventures and Eclipse , with participation from Durable Capital Partners , T. Rowe Price Associates, Inc. ¹, Bpifrance , HSG , NVIDIA , AMD Ventures , Zoom , Samsung Next and Ericsson , as well as visionary leaders including former Google CEO Eric Schmidt , Zoom CEO Eric Yuan , Jerry Yang, former CEO of Yahoo!, French tech entrepreneur Xavier Niel , and former Tesla CFO Zach Kirkhorn .\nContinue Reading\nGenesis AI co-founders Zhou Xian and Théophile Gervet announce the company's $500M Series A\n\"Our mission is to remove the physical limits on human ambition,\" said Zhou Xian , Co-Founder and CEO of Genesis AI. \"To accomplish this, we're working to build the world's best general-purpose robot, one that works reliably in the real world, day after day. That requires the intelligence, hardware, and everything that goes into training and testing the robots to work as one system. By building it all ourselves, we can obsess over every detail and improve the entire robot faster in one closed loop. This funding will accelerate our efforts to deploy our robots in the real world at scale.\"\nThe funds will fuel the company's next phase of growth, with a focus on:\nExpanding data acquisition and large-scale training to vastly extend the range and complexity of tasks robots can perform\nSolving human-level physical manipulation in robots across a full range of environments and use cases, unlocking true physical AI\nDeploying Eno , the company's AI-powered general-purpose robot, at scale with customers\nHiring additional world-class AI researchers, robotics experts and engineers to build the next generation of general-purpose robots\nAdvancing from Development to Deployment\n\"What stood out to us was watching Genesis robots complete long, multi-step tasks on their own at the same speed a person would, with smooth and natural movement,\" said Vedant Agrawal , Partner at Premji Invest. \"Completing full tasks in real time, not just short clips, is what turns a robot into something a business can rely on.\"\n\"General-purpose robotics has the potential to fundamentally transform how we live and work, and Genesis is helping shape that future,\" said Eric Schmidt , former CEO of Google and Genesis investor. \"I've believed in this team's vision since the beginning, and what they've accomplished in such a short time is extraordinary. This funding marks an important milestone as Genesis moves closer to bringing robots with human-level capabilities into the real world at scale.\"\nGenesis is currently ramping up production of Eno, which the company is initially focused on rolling out in industrial environments including manufacturing, logistics and laboratories, before expanding into the hospitality and healthcare industries, followed by consumer and outdoor applications.\nThe Full-Stack Approach to Unlocking General-Purpose Roboti"
+    },
+    {
+     "id": "0dfbe79a1d3a",
+     "group_key": "genesis",
+     "title": "Genesis AI Raises $500M Series A at $3.5B Valuation to Master Human-Level Dexterity in General-Purpose Robots and Deploy at Scale",
+     "publisher": "",
+     "url": "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html",
+     "published_at": "2026-11-17T14:00:00.000Z",
+     "amount_hint": "$500M",
+     "snippet": "The new funding round will fuel Genesis' efforts to transform the range and complexity of tasks physical AI can handle, paving the way for broad adoption of Eno, the company's flagship robot PARIS and SAN CARLOS, Calif., Nov. 17, 2026 /PRNewswire/ -- Genesis AI, a global robotics company,...",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "40a1804474f6",
+     "group_key": "genesis",
+     "title": "French robot maker Genesis raises $500 million at $3.5 billion valuation",
+     "publisher": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQlJMSlpCWFVKaDFXTDB6M1FBSnBqLUs4U3AzNXVTdXpNOHA2Z2hVVHVFdlNzUlNSNEhaMDlQUmcyUlhCcEN6ci1WUjU1MC1OV1NfYXhTQmFRQmo4U0FZWUxPSFdqNG9ubmptX1hVeVUtMDhVVlJGWkRVaXZydnBrMkNZS3pJRjFER1hFN2c2N3ZHNi1VVFFNVDVqY1dOS3M4NXBEOTdlSW9xczVtcE95bEdWbDBhNUxZZWYw?oc=5",
+     "published_at": "2026-11-17T14:04:44.000Z",
+     "amount_hint": "$500 million",
+     "snippet": "French robot maker Genesis raises $500 million at $3.5 billion valuation Reuters",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "bc2e9c453ee3",
+     "group_key": "genesis",
+     "title": "Genesis AI Raises $500M At $3.5B Valuation To Bring Its Robots To Factories And Warehouses",
+     "publisher": "Judy Rider",
+     "url": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/",
+     "published_at": "2026-11-17T14:00:18.000Z",
+     "amount_hint": "$500M",
+     "snippet": "Genesis AI, a startup teaching robots to perform physical tasks by learning from human movements, announced Tuesday it has raised $500 million in Series A funding at a $3.5 billion valuation.",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "0fc22b96acfb",
+     "group_key": "genesis",
+     "title": "Genesis AI Raises $500M Series A Funding to Develop General-Purpose Robots",
+     "publisher": "AI Insider",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUi15aXlZRmtGN0VuamtqS2l6OEdlXzhURHhFUUlHd0QyWGhteVk4SXFvRVNoeHNmNTlkS1ZRQTRiUm9fc2VmakVNX3M5bkRXdVEwWlRIV3hUUFRmSl9rcUJ0eEFha0U1SFR2SzFvZDdHUGptSkE2ODN0TVVWSURsUDlCa2F1X3VYQ1M2RjlfQWlPUWh1bDUxdmM4UUVpcjh3MzNkaUY4TEhETDg4S0QzRg?oc=5",
+     "published_at": "2026-11-17T15:41:43.000Z",
+     "amount_hint": "$500M",
+     "snippet": "Genesis AI Raises $500M Series A Funding to Develop General-Purpose Robots AI Insider",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "cf74e19e1dba",
+     "group_key": "genesis",
+     "title": "Genesis AI Raises $500M Series A to Accelerate Robot Deployment",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmUwTEdLZ1JabHpUMWloRERmS0NlVjBwcWxZM3pzSGNoVjZtUjZXSFYyaDB3bkdBX08yQlo4aDV2ZmpfV0ZtRWNXc3lVcm5UbTJfY3lVQll5a1dwQU5GNlVrNW9Ra21teFViV01tTDdET3VxcDZTN2F5b1VtVGFkWDY1eFBnTVJyd3ByZA?oc=5",
+     "published_at": "2026-11-17T14:18:02.000Z",
+     "amount_hint": "$500M",
+     "snippet": "Genesis AI Raises $500M Series A to Accelerate Robot Deployment Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "04f6fea75e0c",
+     "group_key": "genesis",
+     "title": "Genesis AI Raises $500M Series A at $3.5B Valuation With Backing From T. Rowe Price Associates, NVIDIA and Khosla Ventures",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcWlwWHdBT2JMVHZzVW1OeFFTQWtYU0tnR2F1SlZmQ1VYSWZHRXlvWUVWRUlFc2sxRVZ0cjI1TXkzaTRwOUZCenl6bFhOVEptZExXNXZXSGFGbm9pZlNNUTR1QUU2cTFiRUQ3U3JxUjNjM1lSLXVoWFl4NXRxU0FjSGVUVGVwNGdoaEdMSkNFVjFTYnNnOW1pY0VwbkZKbm9uM25YNWhxVHJ0QTdXRFUxWWgxVFlrT0RONzgtVmlnUnZVLUFWTUJpNTRBOWVGX2gtbjBzTnY2VGdTREgwbjBJZy1qVGxmX2JhU1VwbkZR?oc=5",
+     "published_at": "2026-11-17T15:09:48.000Z",
+     "amount_hint": "$500M",
+     "snippet": "Genesis AI Raises $500M Series A at $3.5B Valuation With Backing From T. Rowe Price Associates, NVIDIA and Khosla Ventures citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "de38a104fd62",
+     "group_key": "genesis",
+     "title": "Genesis AI Raises $500 Million to Deploy Dexterous Robots",
+     "publisher": "The Defiant",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaDRoTXhpdGZxS2NrR2NJSjJFSXhoVzFRUWpZN2lHbzktaVREYzhpbHB4LXlNekdTR2FvWFlNV3YtOWNLME5LNlEyVlBSUUFzQV9sNS0yazJ6UXI2X19pOXUzR0ducHBKTHJCUERuTVpJX2x2ZHB6SWFJX2hMWURIMG05OS1KcTNjUTAzeGdZeFVFOTZtWENhZHRWQ3U1b2c?oc=5",
+     "published_at": "2026-11-17T15:36:57.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "Genesis AI Raises $500 Million to Deploy Dexterous Robots The Defiant",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "e7e10386edc3",
+     "group_key": "genesis",
+     "title": "Genesis AI Raises $500 Million Series A At $3.5 Billion Valuation To Scale General-Purpose Robots",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTlRxS3FDTW14OHM1UnVoWjQ1YWR0YWxCNEV1UzJEb3o1NVQ2LWNwZGZkTjJDSkxkc1BXbmZJYU5MR00wRGVOdi1oX0NBMUlOYUFIVlItMkNrTWpJN2R2eUM2eUFzT1dLWTByYkdTN3VKckc3cjlOTkdCRzRVM0FUZTJ5b1ozbE9tSnhQdWZjYjBiTmV4OF9EdEl0VFhIcWEwb0xqY3BJTGhVZ01ZUFI4Wl92TUowZw?oc=5",
+     "published_at": "2026-11-17T18:59:13.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "Genesis AI Raises $500 Million Series A At $3.5 Billion Valuation To Scale General-Purpose Robots Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "de4ed791da48",
+     "group_key": "genesis",
+     "title": "French robot maker Genesis raises $500 million at $3.5 billion valuation",
+     "publisher": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbEhCMlplVldRdzNKbTZfRTJzQlVmeEJSOFUtWUZLTVlYdFBwODBSS042cEZ4UWd0MTRuekNvRDYzZUtqeGQtcGNQQk9KSWctNGRpbm8ya1k3d1QwSktObi10NFFIRTRVUkdlRy1YVF9wZm1YbEIwTmZhZDFqNk82Mzg2dElvbTJBZVhKdDBWM0N5U0RPS3dkcmVDWnI1UQ?oc=5",
+     "published_at": "2026-11-17T14:04:30.000Z",
+     "amount_hint": "$500 million",
+     "snippet": "French robot maker Genesis raises $500 million at $3.5 billion valuation Yahoo Finance",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "f71e5ffb3000",
+     "group_key": "genesis",
+     "title": "Genesis AI raises $500 million to scale its glove-trained robots",
+     "publisher": "Crypto Briefing",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DcDl0V05Jb0VMWVY0cnBPbHRsbjcwaV9hMWFsaWpnVjNscFRZZ2hncTlUbGlGYTRZSlZ6RjE2MDhHRTRTT0hDRlpBR1l4bktXQXlJU2FIMTBjdzlLclBJSlRXbVlSNHRIVHg2V1BxOGM2Zw?oc=5",
+     "published_at": "2026-11-17T16:29:10.000Z",
+     "amount_hint": "$500 million",
+     "snippet": "Genesis AI raises $500 million to scale its glove-trained robots Crypto Briefing",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "f4f3c1952a74",
+     "group_key": "genesis",
+     "title": "Genesis AI raises $500 million at $3.5 billion valuation",
+     "publisher": "UA.NEWS",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGtWajAxUlZtbmxpcnFvcVl1S2NLeTNiT0ZaMXE0TG4zVGtzX0dObFRfWHpBOXd0bkIwa1dYbHJtSzI2Zjk2ZmVnbXJSc2FmZEM5eUlwV2l5VnJiMDljZ2FRdGEzdWp1c3B1MERjY0JuZmFGcGhGSU5FSF8wdzdEZDl1UjNrMjRHbWgycFd6UTh2aXFxSVdDdW5oUTNxdHZyQ0ZmVkdZN3dGa0k?oc=5",
+     "published_at": "2026-11-17T15:08:25.000Z",
+     "amount_hint": "$500 million",
+     "snippet": "Genesis AI raises $500 million at $3.5 billion valuation UA.NEWS",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "c160b0161224",
+     "group_key": "genesis",
+     "title": "Genesis AI Raises $500 Million To Deploy Glove-wearing Humanoid Robots",
+     "publisher": "Dataconomy",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRnp2N2JHODdsN2wyQWJCalNPTVRMZzBXVjR5WVk0RW00aGFlbHNsMmh1YV91dzhLaXZGeF9NUS1BemdhNEptU09QcXE1Q1k2NURrOUdQbG0yQ0lrUDI5eldzUDdrckZOMTZoUk1DeG5EWmRlSGYxRzlMWmh4OWczOXk3am54R01qRnN0SXNsa1FaUQ?oc=5",
+     "published_at": "2026-11-17T15:38:06.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "Genesis AI Raises $500 Million To Deploy Glove-wearing Humanoid Robots Dataconomy",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "d4ba233a953d",
+     "group_key": "genesis",
+     "title": "Genesis AI raises $500 million at a $3.5 billion valuation to put robots in factories and warehouses",
+     "publisher": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONm15NEVBR05UUk9xTHE3QjQ5eXRqREpyT2Z0SWpZUUtNVnp6WFNoXzRhVktUZklWNmJFZ25FZlpCLXgyYTk1amtjRnNVQXFGUkxlc2NXU0VuZ2E4dmk0WXduV2FBS0VGNDVrblFtTnhyVDRuWEJEalRLQjNDbmpUdEZIZ25ESmt1dkt4QkFXSzVMQWFKUGVDWUpMQWE5Zl9qV1FVZ1NyWmFKNW5SaGxrUW55OFlZb2Z4Znc?oc=5",
+     "published_at": "2026-11-17T16:04:26.000Z",
+     "amount_hint": "$500 million",
+     "snippet": "Genesis AI raises $500 million at a $3.5 billion valuation to put robots in factories and warehouses MLQ.ai",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "89ad8098f805",
+     "group_key": "genesis",
+     "title": "French robot maker Genesis raises $500 million at $3.5 billion valuation - KELO-AM",
+     "publisher": "KELO-AM",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2dLclJ5Z0JnQWRHOFR2TV95N2ZmRFNORUhNUXN1X1NsQThfOWpSSjFtRG5aV1dULVNUTXJSY1o1Y2E2OGVULVl0ZzFyUGM2aVZTcjlaU29oX1BLYlpkaE5rN2Fzc1BIWnJLYW56Yl96TkotNk5uMW9TYXliYkJWZ3hOR0NmZU5ZQTBLbTgwQ0Z2eEFhVUNkeU1ZdDBTRkt2?oc=5",
+     "published_at": "2026-11-17T14:47:11.000Z",
+     "amount_hint": "$500 million",
+     "snippet": "French robot maker Genesis raises $500 million at $3.5 billion valuation KELO-AM",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "5df2e6197ff1",
+     "group_key": "genesis",
+     "title": "Genesis AI raises $500 million to scale robotics for factories and warehouses",
+     "publisher": "Traders Union",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV3N3Rk5FQnF6N3NuTmhOSWE1YnRKZUYwenl2TnR1UTh3bk9ySTRqYzBvZG1UYkIzSjZGaGpoeDJqRndxWHdiVndCa29ERERCUk9uenZOTTVZRXBKaWhtWVJqX2JmYmZFSEJmMzNLeTd5UVQyaGxaSTljdWF1RDNyTkxkZlYwdHAyeXZ0YnNfQW5mZXZ5SFE?oc=5",
+     "published_at": "2026-11-17T14:10:34.000Z",
+     "amount_hint": "$500 million",
+     "snippet": "Genesis AI raises $500 million to scale robotics for factories and warehouses Traders Union",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "46fd538f94e8",
+     "group_key": "genesis",
+     "title": "Genesis AI Raises $500 Million Series A At $3.5 Billion Valuation To Scale General-Purpose Robots",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/genesis-ai-raises-500-million-series-a-at-3-5-billion-valuation-to-scale-general-purpose-robots/",
+     "published_at": "2026-11-17T18:59:13.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "Genesis AI has raised $500 million in Series A financing at a $3.5 billion post-money valuation to expand robot training, develop human-level dexterity and deploy its Eno robot with customers. Individual investors included Eric Schmidt, Eric Yuan, Jerry Yang, Xavier Niel and Zach Kirkhorn.\nThe post Genesis AI Raises $500 Million Series A At $3.5 Billion Valuation To Scale General-Purpose Robots appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "agile robots",
+   "company_guess": "Agile Robots",
+   "amount_hint_usd": 500000000,
+   "articles": [
+    {
+     "id": "dc09e77e21b6",
+     "group_key": "agile robots",
+     "title": "Agile Robots raises $500 million led by SoftBank",
+     "publisher": "CASRAI",
+     "url": "https://casrai.org/news/agile-robots-series-f-softbank-nvidia-2026",
+     "published_at": "2026-11-16T16:43:48.000Z",
+     "amount_hint": "$500 million",
+     "snippet": "Agile Robots raises $500 million led by SoftBank CASRAI",
+     "text_status": "ok",
+     "text": "Munich-based Agile Robots announced on November 12, 2026 that it had closed a $500 million Series F led by SoftBank Group, with NVIDIA among the participants. The financing supports international expansion and manufacturing, putting fresh capital behind a robotics business whose research connections include Franka Robotics and a Google DeepMind partnership. Reuters confirmed the announcement .\nA $500 million round for expansion and production\nThe round values Agile Robots at $8.5 billion and takes its total funding to $2 billion. Alongside SoftBank and NVIDIA, participants include Hitachi Group, comprising Hitachi and Hitachi Ventures, and T.Capital. The company’s November 12 announcement says the proceeds will support a larger presence in the United States, additional production capacity including in Germany, and entry into new markets.\nFounder and chief executive Zhaopeng Chen described the financing as a way to accelerate expansion and bring intelligent robots into industrial production. SoftBank Investment Advisers managing partner Dennis Chang said Agile combines robotics expertise with industrial execution, adding: “We believe Physical AI will transform industries.” These are the company’s and investor’s expectations for the business.\nTech.eu’s November 12 report places the investment in an existing industrial operation: Agile’s machines assemble products, handle components, inspect equipment and move materials through factories. Its portfolio extends across robotic arms, hands, autonomous mobile robots and humanoids, together with their software and AI models.\nFactory capacity and installed systems measure different things\nReuters reported that Agile opened its Fürstenfeldbruck factory, near Munich, earlier in 2026. The company says it can produce up to 10,000 legged and wheeled humanoid robots annually. That is a stated capacity ceiling, rather than a report of annual output or shipments.\nSeparately, Agile reports more than 20,000 robotic solutions installed worldwide. Its announcement describes deployments across automotive, consumer electronics, logistics and other industries; it does not identify that total as humanoid installations. Treating the two numbers as interchangeable would obscure the difference between the company’s established industrial business and its humanoid manufacturing ambitions.\nThe financing release also gives no allocation of the proceeds between the United States, German production and other markets. It therefore establishes the expansion priorities without quantifying how much additional capacity each location will receive.\nA research spin-off with an academic hardware connection\nAgile was founded in 2018 as a spin-off from the German Aerospace Center, according to Reuters and Tech.eu. The company reports more than 2,000 research and development specialists and over 650 patents. Its path from a public research institution into industrial automation provides a concrete technology transfer connection for universities following the investment.\nThere is also a direct research equipment link. Franka Robotics says it has belonged to Agile Robots since 2023. Franka describes its Research 3 system as a force-sensitive platform for robotics and AI, giving researchers low-level access to robot control and learning capabilities. Its website also says Agile’s Diana 7 now supports the Franka Control Interface, extending the ecosystem to a robot with greater reach and payload capacity.\nThe funding follows earlier D"
+    }
+   ]
+  },
+  {
+   "group_key": "physical",
+   "company_guess": "Physical AI",
+   "amount_hint_usd": 500000000,
+   "articles": [
+    {
+     "id": "85767ffdf600",
+     "group_key": "physical",
+     "title": "Physical AI Leader Agile Robots Raises $500 Million Series F at $8.5 Billion Valuation to Accelerate Global Growth",
+     "publisher": "PR Newswire",
+     "url": "https://www.prnewswire.com/apac/news-releases/physical-ai-leader-agile-robots-raises-500-million-series-f-at-8-5-billion-valuation-to-accelerate-global-growth-302941340.html",
+     "published_at": "2026-11-17T03:28:37.000Z",
+     "amount_hint": "$500 Million",
+     "snippet": "Physical AI Leader Agile Robots Raises $500 Million Series F at $8.5 Billion Valuation to Accelerate Global Growth PR Newswire",
+     "text_status": "ok",
+     "text": "Physical AI Leader Agile Robots Raises $500 Million Series F at $8.5 Billion Valuation to Accelerate Global Growth\nAPAC - English\nAPAC - Malay\nAPAC - Thai\nVietnam - Vietnamese\nNews provided by\nAgile Robots\n17 Nov, 2026, 11:25 CST\nShare this article\nShare this article\nMUNICH , Nov. 17, 2026 /PRNewswire/ -- Munich-based Physical AI company Agile Robots has closed a Series F funding round, raising $500 million at a valuation of $8.5 billion. The SoftBank Group-led round, with participation from NVIDIA, Hitachi Group (Hitachi and Hitachi Ventures), T.Capital and others, brings the company's total invested capital to $2 billion.\nContinue Reading\nAgile Robots’ $500M Series F announced on the New York Stock Exchange (NYSE) screens\nAgile Robots builds and deploys Physical AI – humanoid and mobile robots, robotic arms and hands, and the software and AI models behind them – to help industrial customers automate tasks that have traditionally relied on human dexterity and judgment.\n\"Physical AI will fundamentally change how the world builds, moves and makes things,\" said CEO and Founder Dr. Zhaopeng Chen. \"We bring Physical AI out of the lab and into industrial production, across logistics, automotive, electronics and manufacturing. This funding allows us to accelerate our global expansion, strengthen our presence in key markets and build out production capacity.\"\nBuilding capacity and strengthening in strategic markets\nAgile Robots plans to strengthen its presence in the United States and accelerate the development of innovative robotics applications. To expand capacity in Germany, the company opened a new production site in early 2026 at Fürstenfeldbruck, near Munich, with the capacity to produce up to 10,000 legged and wheeled humanoid robots annually.\n\"We believe Physical AI will transform industries. Agile Robots combines deep robotics expertise with the ability to execute at industrial scale, enabling it to bring Physical AI into everyday operations,\" said Dennis Chang, Managing Partner at SoftBank Investment Advisers.\nBuilding on 20,000 deployed industrial robotic solutions\nFounded in 2018 as a spin-off from the German Aerospace Center (DLR), Agile Robots has deployed 20,000 industrial robotic solutions for customers in the automotive, consumer electronics, logistics and other industries. The company has over 2,000 R&D experts and over 650 patents. Its subsidiaries include the AI robotics research platform Franka Robotics and industrial deployment specialist Krause Automation, recently acquired from thyssenkrupp AG.\nAbout Agile Robots\nAgile Robots is a leading provider of AI-powered robotics solutions to automotive, consumer electronics, healthcare and service customers. It employs more than 3,500 people from almost 60 nations. Together with its subsidiaries BÄR Automation, Franka Robotics, Idealworks and Krause Automation, it covers all areas of AI-driven robotics.\nAgile Robots\n[email protected]\nSOURCE Agile Robots\n&times;\nModal title"
+    }
+   ]
+  }
+ ]
+}

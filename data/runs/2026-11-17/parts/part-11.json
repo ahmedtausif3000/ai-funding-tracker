@@ -1,0 +1,292 @@
+{
+ "run_date": "2026-11-17",
+ "part": 11,
+ "groups": [
+  {
+   "group_key": "arva",
+   "company_guess": "Arva AI",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "eeaae396a880",
+     "group_key": "arva",
+     "title": "Exclusive: Arva raises $20 million for bank compliance AI",
+     "publisher": "Axios",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmVXcmlvSlFMdnpsU0ZidHNOb3A2S3dXLTdMMy1HWElXcW9vbVJ2Q1NxODh6Sm5QZFlCeU9KRHZaaE14VTJyaU9nWFgxS0t6NlZqVS0yaUlrNGxweFVXY3E3aHZHSFBYcG03VHd5SVl0VG9mRWNQM3VFMU55WWpST1piZVJ3VWx3MGpoN3QzQS1qb1ZNdzhfRkJseWRVeE9yVk5yYXFZQmhmTUU?oc=5",
+     "published_at": "2026-11-17T13:20:17.000Z",
+     "amount_hint": "$20 million",
+     "snippet": "Exclusive: Arva raises $20 million for bank compliance AI Axios",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "0dc5b1f141bc",
+     "group_key": "arva",
+     "title": "Exclusive: Arva raises $20M for bank compliance AI",
+     "publisher": "Axios",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcUNWcFBPbzB6THVYSTU0XzVVR1Z3bEQ2SGMtTmR0d2RRSnVaeUxXcXY3eWdXYjBiYUw3ZzMtME1DUjI3TlNpNFpRTEkwUVpWeTNkbXNGWkIxOUZfYmhwWDVWaW1EQ0x3cE9zdnRpQnZ1SFJ3clM2cWVYdFVSUXZoSVdkTHBCYkVvWXlmcmhQa3M3T1Q2YktYS1pB?oc=5",
+     "published_at": "2026-11-17T13:20:15.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Exclusive: Arva raises $20M for bank compliance AI Axios",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "400d3f79031b",
+     "group_key": "arva",
+     "title": "Arva AI Raises $20M Series A to Expand Bank Compliance AI and Sales",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzZQV3NFODcwdkRmN0ZiNXRUY2lxOWlUY2dWSGpseEcxTDl0dHNXc2F3b19kRjYxUnZiMFV2REdYeHhwaThjSVV1VU1iX3ZVN01xWFdKWnpzQUJsSXRkTHVYUkNvYUN0N3BLV0tpVGJiN2ZPOW1Tb3REeDJINnQyaFhPVGlIMzcxbU9hODYxRGFrZw?oc=5",
+     "published_at": "2026-11-17T13:51:03.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Arva AI Raises $20M Series A to Expand Bank Compliance AI and Sales Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "3b037816325c",
+     "group_key": "arva",
+     "title": "Arva AI Raises $20M Series A to Build the AI Models and Infrastructure Banks Trust to Run Their Critical Operations",
+     "publisher": "The Joplin Globe",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOS0VDb2YzS3FOOERpYjQySmNGaG9uX1NJSmlrV29XQXlxZzhsZDNKM2ktcWlmdGV4eGRzQXNjTEJzaUJwMjlOQ2NadHBhQ1UxY0d2Q3V4Qmh1X0tPd3phTmRtTTR2STNyTkZFclNCSnh6ZDhtdTI4RTBjckhHQUVjVzhmU3FCUVh5bmpKUFJRMUlub0dHR3dNRkdxRmMxTzBJaERKa0ZuTkFacEdlU25nWWxmSVlQc1llRHVLaWlJTEN5SGk5VFJJSzVZNmExMmJ5MDdUWnlrU0l2eVROLUFIMDBsS0FuLVVPXzdkYmQycDJFTml2S084SlpYMWhhX0hPcUVTa1VwMkd2NjVBcmVFYnNn?oc=5",
+     "published_at": "2026-11-17T13:32:27.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Arva AI Raises $20M Series A to Build the AI Models and Infrastructure Banks Trust to Run Their Critical Operations The Joplin Globe",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "0183e4574b94",
+     "group_key": "arva",
+     "title": "Arva AI Raises $20M Series A to Build the AI Models and Infrastructure Banks Trust to Run Their Critical Operations",
+     "publisher": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMlBrZFlUUVR6NXN2SkZob0ZPaF9jc1BmUEhtTkxaMUJpYW4yRjZQQzV4eF9sLUtVdFJVdGU4bWhXbFlwbUJMN2puaEx3UklfdWZwcUpkeXF2NWVkeENPS19ic3BPVHdFZ3NULVVEellGci1JRjdVaS1WMzcwU2JUekc2UlYybUtIUEZ2c3NhUUNreU1MNGJveUlXaVZ3SXEzcWxuMlBkakt3blIzOUxRRm5FQ29HMGRJLXkxWHpfQWxJbHBzdDV1NWV4clh3YTliY0FlU0JRaHZyMWJCOGh3TUZ0X0o5Z3p0d3hURGE4SUVlRzRuN3JsYzU1dHNWbzhQLVpkUQ?oc=5",
+     "published_at": "2026-11-17T13:30:00.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Arva AI Raises $20M Series A to Build the AI Models and Infrastructure Banks Trust to Run Their Critical Operations Business Wire",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "6b9bd66d003b",
+     "group_key": "arva",
+     "title": "Google-backed Arva AI raises $20m",
+     "publisher": "Finextra Research",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb3pWMGVnanh2Qjl4T1ZsNkxZdjJrcFg4VUJJMXlJZEhFM09HVUVmLVo5RGpXc2xsQzlTYnFJYzBLMTBhT2lJQTExd01WU0FCekVSZ2poZjVGckNkVUFrbjRDRFFtcDk2Q3ZaZWhEcjM5VUwycEEzMlFDSTdtQ2JqVw?oc=5",
+     "published_at": "2026-11-17T15:28:00.000Z",
+     "amount_hint": "$20m",
+     "snippet": "Google-backed Arva AI raises $20m Finextra Research",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "8ec4f68e7aa5",
+     "group_key": "arva",
+     "title": "Arva AI Secures $20M Series A to Automate Critical Banking Decisions with Proprietary AI Models",
+     "publisher": "FF News",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFE4cGdRZUFBYXdEWXV4MU1EQ1k2cE1xM1I5b0hnNVg0SnBrQklsU185Ri1Ea0owMHhzXzM3RmlROUdERXZOUHZlYWZOT2Z2ek1jamRvMFFBbWRJX0d0VWpQU2o1Yy15aF9zU250RnF1ZXJwX2hSUEs3RklyUFRRbjBBTnJaRkFRallFQ09IQWxfcWlrdHM4Uk9CV0VuY0NQcG8zb3QtQ0oxYWtYNVVLelFudw?oc=5",
+     "published_at": "2026-11-17T16:32:48.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Arva AI Secures $20M Series A to Automate Critical Banking Decisions with Proprietary AI Models FF News",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "alecto",
+   "company_guess": "Alecto",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "6495407bb108",
+     "group_key": "alecto",
+     "title": "Alecto raises $20M seed funding to make UK property law more accessible to consumers with AI",
+     "publisher": "SiliconANGLE",
+     "url": "https://siliconangle.com/2026/11/16/alecto-raises-20m-seed-funding-to-make-uk-property-law-more-accessible-to-consumers-with-ai/",
+     "published_at": "2026-11-16T16:25:00.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Alecto raises $20M seed funding to make UK property law more accessible to consumers with AI SiliconANGLE",
+     "text_status": "ok",
+     "text": "UPDATED 11:25 EST / NOVEMBER 16 2026\nAPPS\nAlecto raises $20M seed funding to make UK property law more accessible to consumers with AI\nby Kyt Dotson\nAlecto Conveyancing Ltd. , a London-based artificial intelligence-native law firm, today announced it raised $20 million in seed funding led by Insight Partners to make the law more accessible to the general public.\nFirstminute Capital, Blue Lion Global, Andrena Ventures, FJ Labs, Antiportfolio Ventures, the Rigby Group and Mischon de Reya LLP also joined in the round. Angel investors participating in the round included Octopus Group Chief Executive and founder Simon Rogerson and SwiftKey founder John Reynolds.\nFounded in September 2025 by CEO Will Rice (pictured), a serial entrepreneur who previously built fintech mortgage lender Gen H, Alecto’s first service targets the United Kingdom conveyancing market, the legal work required to buy and sell property. Rice drew on his experience building a mortgage company and decided to focus initially on bringing more people into ownership. With that expertise, Alecto aims to use AI to help give everyday people greater access to the law.\nAlecto argues that traditional legal services are starved, with too few qualified attorneys and too few hours a day. Billing is based on hours, not outcomes and the service model doesn’t lean toward customers; this leads to unpredictable costs and a process that leaves customers in the dark.\nThe law firm said it’s using AI and legal experts to explain opaque legal processes in plain language and help clients make informed decisions. The company intends to target the property conveyancing market, which represents almost $3.3 billion in the U.K. alone, and aims to become the number one leader in property legal services by 2027.\n“For too long, the legal industry has expected customers to work on its terms; now, AI presents the opportunity to put the consumer in control,” Rice said. “People don’t want to buy a lawyer’s time; they want results. Alecto exists to make the law accessible to everyone, giving control back to the consumer.”\nConsumer legal services in the U.K. value growth pushed revenue over £55 billion, around $72.5 billion, in 2026, according to a report from Research and Markets . Business and commercial practices lead with 51% market value, followed by growth in the injury and conveyancing law markets.\n“Property is where we prove the model. We’re building the technology and operations to rapidly break into new countries and new areas of law,” Rice added. “Ultimately, access to exceptional legal support should not depend on how much money you have or how confidently you can navigate the system.”\nPhoto: Alecto\nA message from John Furrier, co-founder of SiliconANGLE:\nSupport our mission to keep content open and free by engaging with theCUBE community. Join theCUBE’s Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities.\n15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more\n11.4k+ theCUBE alumni — Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network\nAre you an AWS customer? Support SiliconANGLE financially by buying your AWS services from our Marketplace portal page and links: https://siliconangle.com/aws-marketplace/\nAbout SiliconANGLE Media\nSiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights"
+    },
+    {
+     "id": "4a3e2b4de69c",
+     "group_key": "alecto",
+     "title": "Alecto lands €18 million to scale its AI-powered law firm beyond property transactions - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMlNzZ0ZwWnJ6dmVITGJTeWRDcEdITmdLenV1NFh0X2RJN0JFd2tNMGl0WHBhMjAtWU9hOHJuc0NfQmNXczh1RjY5OTJRYzhxWDZzclJnSEpoOVdQVHRuNHhFQlVIelRTZ09OcnZJQUVoMUZVdTBISURQekhMdUI0YkVVSEZEYWxCb2EyUGF1UnA1NHpucFRIVS1uME9XUUNidGRjdTJLWUlIcTNkRzZZeW53ZHA1em4xaHRtRHJOUlk?oc=5",
+     "published_at": "2026-11-16T16:09:10.000Z",
+     "amount_hint": "€18 million",
+     "snippet": "Alecto lands €18 million to scale its AI-powered law firm beyond property transactions EU-Startups",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "c41c747d0273",
+     "group_key": "alecto",
+     "title": "Alecto raises $20M from Insight Partners after hitting $8M ARR in 8 months",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/alecto-raises-20m-from-insight-partners-after-hitting-8m-arr-in-8-months/",
+     "published_at": "2026-11-16T13:28:24.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Buying a home involves one of life’s biggest financial decisions, yet the legal process often remains slow, expensive…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "danish biotech specialist",
+   "company_guess": "Danish biotech specialist",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "4cc6cccc29d0",
+     "group_key": "danish biotech specialist",
+     "title": "Danish biotech specialist raises €20 million to accelerate market-ready trait development",
+     "publisher": "Hortidaily",
+     "url": "https://www.hortidaily.com/article/9893687/danish-biotech-specialist-raises-eur20-million-to-accelerate-market-ready-trait-development/",
+     "published_at": "2026-11-17T13:51:20.000Z",
+     "amount_hint": "€20 million",
+     "snippet": "Danish biotech specialist raises €20 million to accelerate market-ready trait development Hortidaily",
+     "text_status": "ok",
+     "text": "Danish biotech specialist raises €20 million to accelerate market-ready trait development\nMake us your Google favorite\nDanish biotechnology company Traitomic has raised €20 million in a Series A round led by Sofinnova Partners. The investor consortium also includes the Export and Investment Fund of Denmark (EIFO), Footprint Firm, Nordic Foodtech VC, PSV Hafnium and SVG Ventures. The round marks Traitomic's first external investment since its spin-out from Carlsberg and follows the development of a growing customer base across multiple industries. The funding will support international expansion and continued development of the company's scientific and commercial capabilities.\nThe world increasingly depends on improved biological performance to address challenges in food security, resource efficiency and sustainability. Yet translating a biological need into a commercially relevant trait can be slow, fragmented and difficult to scale. Traitomic helps bridge that gap not only by developing market-ready traits, but also supporting customers from initial commercial challenges through to deployment.\n© Traitomic (L-R) Toni Wendt, Technology Lead; Jan Gottlieb, Commercial Lead; Gustav Hambraeus, Managing Director\nTraitomic's proprietary FIND-IT platform identifies specific genetic variants in conventionally bred populations without gene editing, enabling rapid trait development while maintaining broad regulatory and commercial applicability. Unlike many trait-development approaches that are tailored to specific organism types, the platform can be applied across both plant and microbial systems.\nTo date, Traitomic has delivered 116 traits to 47 customers across 32 organisms spanning plant breeding and seed; food supply chain and precision nutrition; and biosolutions and industrial biotech. The projects range from improving crop robustness and yield, to developing differentiated food products with enhanced flavour, nutrition or shelf life, and optimising enzymes and strains used in industrial biotechnology. This breadth of applications reflects demand from customers across multiple industries and highlights the significant opportunity to expand trait development across the broader bioeconomy.\n© Traitomic\nThe funding will support Traitomic's international expansion and help the company capture this opportunity across food, agriculture and biosolutions markets. In addition, Traitomic will continue to broaden its integrated offering, enabling closer collaboration with customers from initial biological or commercial challenges through delivery of market-ready traits.\nGustav Hambraeus, CEO and co-founder, Traitomic said: \"This investment marks the beginning of Traitomic's next chapter. Over the past years, we have demonstrated that customers across the food value chain are looking for faster routes from biological insight to commercial impact. With the support of our new investors, we can now expand internationally, deepen our collaboration with customers and bring our integrated approach to trait development to many more innovation challenges.\"\n© Traitomic\nMichael Krel, Partner, Sofinnova Partners said: \"Traitomic has demonstrated something that is rare in biological innovation: the ability to develop commercially relevant traits across a broad range of organisms and applications. Combined with the company's strong customer traction and proven track record, this creates a compelling foundation for future growth. We believe Traitomic is well position"
+    }
+   ]
+  },
+  {
+   "group_key": "fresh off 20m series",
+   "company_guess": "Fresh Off $20M Series",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "6c300244e53e",
+     "group_key": "fresh off 20m series",
+     "title": "Fresh Off $20M Series A, WhiteMatter Taps Leaders from Proofpoint and Hitachi to Scale Globally",
+     "publisher": "",
+     "url": "https://www.prnewswire.com/news-releases/fresh-off-20m-series-a-whitematter-taps-leaders-from-proofpoint-and-hitachi-to-scale-globally-302942201.html",
+     "published_at": "2026-11-17T14:00:00.000Z",
+     "amount_hint": "$20M",
+     "snippet": "Jasmine Wu joins as Chief Marketing Officer and Anuj Gupta as Managing Director, Asia Pacific & Japan SAN FRANCISCO, Nov. 17, 2026 /PRNewswire/ -- Following its $20 million Series A at a $202 million valuation and fivefold revenue growth in six months, WhiteMatter, formerly QuilrAI, today...",
+     "text_status": "ok",
+     "text": "Fresh Off $20M Series A, WhiteMatter Taps Leaders from Proofpoint and Hitachi to Scale Globally\nNews provided by\nWhiteMatter\nNov 17, 2026, 09:00 ET\nShare this article\nShare this article\nJasmine Wu joins as Chief Marketing Officer and Anuj Gupta as Managing Director, Asia Pacific & Japan\nSAN FRANCISCO , Nov. 17, 2026 /PRNewswire/ -- Following its $20 million Series A at a $202 million valuation and fivefold revenue growth in six months, WhiteMatter , formerly QuilrAI, today announced two senior hires to accelerate its global expansion. Jasmine Wu, formerly senior marketing executive of Proofpoint and ByteDance, the parent company of TikTok, joins WhiteMatter as Chief Marketing Officer, while Anuj Gupta, former Managing Director of Hitachi Systems India, joins as Managing Director, Asia Pacific & Japan (APJ). They join Chief Revenue Officer Tammy Sexton, who joined in late 2025, as WhiteMatter builds out its leadership team to meet growing global demand for AI agent governance.\nContinue Reading\nJasmine Wu joins as Chief Marketing Officer and Anuj Gupta as Managing Director, Asia Pacific & Japan\nWhiteMatter was founded by CEO Vidit Arora, a founding member of Securonix who spent more than a decade helping build the security analytics company, leading across product, solution architecture, and global customer experience. He created WhiteMatter to solve a new security challenge: how companies govern AI agents that can make decisions, access systems, and take action on their own. WhiteMatter helps enterprises assess and approve agents before they go live, then continuously control what they can access and do in production. The company has received acquisition offers but is instead focusing on building and scaling the business independently. The new appointments bring the marketing, sales, and leadership needed to support that growth.\n\"When AI began moving from a tool people use to agents that make autonomous decisions, I watched the traditional security model start to break,\" said Arora. \"I founded WhiteMatter on the belief that companies would need to rethink security and infrastructure for a world built around AI and agents. That world is here. Enterprises are scaling agents now, and they need governance based on how agents actually behave, starting from pre-production blueprints. Jasmine, Anuj, and Tammy have each built and scaled category-defining businesses, and they give us the go-to-market strength to deliver that governance worldwide.\"\nWu joins from Proofpoint, where she served as Head of Product Marketing and GTM Operations as the company grew from under $1 billion to more than $2 billion in annual recurring revenue. Before that, she was Head of Marketing at ByteDance, the parent company of TikTok. Her career spans 15+ years across security and consumer technology at global scale. At WhiteMatter, she will lead global marketing to establish WhiteMatter as the company defining the agent and AI lifecycle governance category.\n\"The AI and agent challenge extends far beyond security, yet it has been treated as a security problem for too long,\" said Wu. \"Enterprises are deploying thousands of agents and AI workflows powered by non-deterministic models, but runtime protection alone cannot govern an agent that was never properly assessed before deployment. We believe AI and agent governance must be approached as a lifecycle: from the moment an agent is proposed to every execution in production, with a complete record of the decisions made alo"
+    }
+   ]
+  },
+  {
+   "group_key": "carlsberg spinout traitomic",
+   "company_guess": "Carlsberg spinout Traitomic",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "b55b9b12528b",
+     "group_key": "carlsberg spinout traitomic",
+     "title": "Carlsberg spinout Traitomic raises €20M from Sofinnova to sell non-GM traits beyond barley",
+     "publisher": "Sofia Chesnokova",
+     "url": "https://techfundingnews.com/traitomic-raises-20m-series-a-sofinnova-non-gm-trait-platform/",
+     "published_at": "2026-11-17T07:00:00.000Z",
+     "amount_hint": "€20M",
+     "snippet": "When Carlsberg gave a small team a licence to use its FIND-IT screening tool outside the brewery, they…",
+     "text_status": "thin",
+     "text": "November 17, 2026\nCable car and ropeway market: saturated, or still room to invest?\nby Editorial team"
+    }
+   ]
+  },
+  {
+   "group_key": "polands human biome",
+   "company_guess": "Poland's Human Biome",
+   "amount_hint_usd": 18900000,
+   "articles": [
+    {
+     "id": "58f51f4e7623",
+     "group_key": "polands human biome",
+     "title": "Poland's Human Biome raises $18.9M Series A — and needs far more",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOHJHNGpENDRXWkpZM3VkMFcySE1zeHVRNTk3TmUzbkRKbGpkOFJRbFJ6d0Y3cW94UEItd2NqV1VxcVgwa0dsd1NSMzZCelRFUlE5c2JKNy1WWU42bnN5aUkyY1UxVHRyUlZWaS1LektIWDZUSnNwZXU0ZjIwMHZtWGUxNU1UTjRXMTdjVVpyRzQ1dDdzQmdzaW1Vcw?oc=5",
+     "published_at": "2026-11-17T05:32:34.000Z",
+     "amount_hint": "$18.9M",
+     "snippet": "Poland's Human Biome raises $18.9M Series A — and needs far more Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "blackbird",
+   "company_guess": "Blackbird",
+   "amount_hint_usd": 17700000,
+   "articles": [
+    {
+     "id": "13e663864fa1",
+     "group_key": "blackbird",
+     "title": "Danish coffee startup Blackbird raises $17.7M Series A",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc0tqRjUwZmRjbVNVNk9ERzVnNVA2eTVvQWN1NEE4emloUXh2dXJ6Um1Fb0pmRFpBMVd4bVNSTHBLbTNRazBmRXhTSmJEQ0lSMDM4UkRjdjRTNDdESGc0UnJjMFlVVmhNMFRwVE1vZGtnYTRUaDgwYWNXWHZhVExJVFFnSzUxM2k4NVhnX01Sdjk?oc=5",
+     "published_at": "2026-11-16T09:49:20.000Z",
+     "amount_hint": "$17.7M",
+     "snippet": "Danish coffee startup Blackbird raises $17.7M Series A Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "valkryn",
+   "company_guess": "Valkryn",
+   "amount_hint_usd": 17000000,
+   "articles": [
+    {
+     "id": "699a8916798e",
+     "group_key": "valkryn",
+     "title": "Valkryn raises $17 million to test autonomous defense systems",
+     "publisher": "Traders Union",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObzRGZEhHZVpDbDVJNFdqOHVaZUM2cXdadEEwSVZOdWNNX2Y5WU9iLTBQdW9vczZhVmpweHRRaHNhX1pvMHpZdTE3RUxTMEtENWdDMUdLNGlDVXhiaHlaR3BIbHRZYXFOTUJLSC1sUDZPbzRNMjE1aldZVWM5T1JMT3dDbjQ2bTRVWE11bzZQbUZUbC10aFE?oc=5",
+     "published_at": "2026-11-17T11:27:34.000Z",
+     "amount_hint": "$17 million",
+     "snippet": "Valkryn raises $17 million to test autonomous defense systems Traders Union",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "dodai",
+   "company_guess": "Dodai",
+   "amount_hint_usd": 16000000,
+   "articles": [
+    {
+     "id": "47ecf51f949a",
+     "group_key": "dodai",
+     "title": "Dodai raises $16 million Series A to scale electric motorcycles in Ethiopia",
+     "publisher": "Innovation Village",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQjBlQWtmUFlwVXBMU3NXWTF6ejg0MlJ4TWNZVTNQMlByeWlMX1NJLXU2QnVmdE9vUk8yeVVoQzU5b3lPYmVzb25iX0hnYzZnVjMzVU1qMVRYTzZwNkhFc1NpMTcxWDJzZUhwVU1wRzJTWWRNWTRDb09pbUtTR1E3LWZORnpJY3RCU2VUVy1UNEtIRGFlaUtkU1VBMVlIcHpaS3RpRHhrYUw5dw?oc=5",
+     "published_at": "2026-11-16T14:16:37.000Z",
+     "amount_hint": "$16 million",
+     "snippet": "Dodai raises $16 million Series A to scale electric motorcycles in Ethiopia Innovation Village",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "danish startup",
+   "company_guess": "Danish startup",
+   "amount_hint_usd": 16000000,
+   "articles": [
+    {
+     "id": "9bd1b7ca516f",
+     "group_key": "danish startup",
+     "title": "Danish startup secures €16 million Series A to expand its workplace coffee service across Europe -",
+     "publisher": "ArcticStartup",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTcTQ5Y3RSVkdWaXBmMTFFdzdhU25rNFktTk81VmdKVVlJajJBM1pVbXlHRGMzaTgtVWo1em1jemg0SW9CVVNRR2d3bU54XzZaS3dPWFJyZzZoSHJnQmRfSkE0dzJxVVNzUm9KWk1yLTBwQdIBckFVX3lxTFBTcTQ5Y3RSVkdWaXBmMTFFdzdhU25rNFktTk81VmdKVVlJajJBM1pVbXlHRGMzaTgtVWo1em1jemg0SW9CVVNRR2d3bU54XzZaS3dPWFJyZzZoSHJnQmRfSkE0dzJxVVNzUm9KWk1yLTBwQQ?oc=5",
+     "published_at": "2026-11-16T10:48:53.000Z",
+     "amount_hint": "€16 million",
+     "snippet": "Danish startup secures €16 million Series A to expand its workplace coffee service across Europe - ArcticStartup",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

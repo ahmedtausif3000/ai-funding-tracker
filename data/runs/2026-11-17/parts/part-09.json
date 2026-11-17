@@ -1,0 +1,316 @@
+{
+ "run_date": "2026-11-17",
+ "part": 9,
+ "groups": [
+  {
+   "group_key": "kindo",
+   "company_guess": "Kindo",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "02034ca17974",
+     "group_key": "kindo",
+     "title": "Kindo raises $30 million to govern enterprise AI agents",
+     "publisher": "news.lavx.hu",
+     "url": "https://app.kindo.ai/",
+     "published_at": "2026-11-16T05:22:56.000Z",
+     "amount_hint": "$30 million",
+     "snippet": "Kindo raises $30 million to govern enterprise AI agents news.lavx.hu",
+     "text_status": "thin",
+     "text": "Loading... Checking your session..."
+    }
+   ]
+  },
+  {
+   "group_key": "codex",
+   "company_guess": "Codex",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "f0c2788aa7cf",
+     "group_key": "codex",
+     "title": "Pantera-backed Codex raises $30 million to link Asia to global markets with stablecoins",
+     "publisher": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHFiTFhWWGpUY2t5ak5oZkdrYWZ0cGJEeG5SMF9JcmdNUWVaTk1ISVBLU3dVbEEyc2pRN29ST1pJRjRabE5jUlQ4cEd6TFFuNDU2aWktbFcxbmI4cENwQnpQcUJHcXZvXzNEQTVJYTVXVnlHbHJoYllCZ0VUUzBfTDJuSkNrWDZvVUU0dHVxRXFNcC1qbXd2QUl6SQ?oc=5",
+     "published_at": "2026-11-17T15:00:00.000Z",
+     "amount_hint": "$30 million",
+     "snippet": "Pantera-backed Codex raises $30 million to link Asia to global markets with stablecoins Fortune",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "8cc3570a3c6d",
+     "group_key": "codex",
+     "title": "Codex Raises $30 Million in Series A Led by Pantera Capital",
+     "publisher": "www.tokenpost.com",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qWUZyaWtITTlGRy1lSzhnc3JEQTZqR1hwMTFTaHFXTDhEc3FqeS1COGZGY2ozeXNkUzUyV1JueG43S0hqZU5sMkJiX3UwMUF2Tk1MZXA2bEs?oc=5",
+     "published_at": "2026-11-17T15:18:23.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Codex Raises $30 Million in Series A Led by Pantera Capital www.tokenpost.com",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "bafd05d41b24",
+     "group_key": "codex",
+     "title": "Stablecoin FX platform Codex raises $30 million Series A led by Pantera at $130 million valuation",
+     "publisher": "CryptoRank",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByRkVBLUVXQUJweVltVFNBLTJJNld0LVNxc0lFUzBwTHduT194bERBYjNpLTNKY2EtSXlrVVRxMHd3T2EyVDBMdEI2X3FzdUtNeXp2QWt1bXJ4LTRQVWxnRkVkQUM1YUhIbXliX1FKcUpxT2lN?oc=5",
+     "published_at": "2026-11-17T16:22:15.000Z",
+     "amount_hint": "$30 million",
+     "snippet": "Stablecoin FX platform Codex raises $30 million Series A led by Pantera at $130 million valuation CryptoRank",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "tendrils",
+   "company_guess": "Tendrils",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "bcdc3b9d515b",
+     "group_key": "tendrils",
+     "title": "Tendrils Raises $30 Million To Rebuild General-Purpose Computing",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/tendrils-raises-30-million-to-rebuild-general-purpose-computing/",
+     "published_at": "2026-11-17T04:17:05.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Tendrils has raised $30 million to develop a new processor architecture designed around thousands of parallel computing cores.\nThe post Tendrils Raises $30 Million To Rebuild General-Purpose Computing appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Tendrils Raises $30 Million To Rebuild General-Purpose Computing\nBy Amit Chowdhry\nYesterday at 11:17 PM\nTendrils Raises $30 Million To Rebuild General-Purpose Computing\nTendrils has raised $30 million to develop a new processor architecture designed around thousands of parallel computing cores.\nBenchmark led the round, with participation from Visionaries Club, the UK Sovereign AI Fund, FR8, Antimatter, Cloudberry VC, Conviction, Embassy Ventures, and SV Angel. Angel investors also participated, and Jack Altman has joined the company’s board.\nTendrils is attempting to redesign the central processing unit without the backward-compatibility constraints associated with conventional sequential and single-core architectures.\nThe company argues that modern CPUs continue to inherit architectural decisions dating back to the 1970s. In its view, cache-coherency protocols, reorder buffers, shared mutable memory, and linear instruction sequences create complexity that limits efficient scaling.\nRather than modifying existing architectures, Tendrils is building a processor intended to have thousands of cores operating in parallel. That approach requires the company to develop hardware and software together.\nTendrils is therefore working on Vine, an open-source programming language designed from the outset for parallel-first computer architectures. The company believes closer coordination between language design and processor architecture can eliminate legacy requirements and enable more scalable general-purpose computing.\nThe funding will support the research, engineering, and development required to turn this concept into functioning hardware and software. Tendrils is also recruiting hardware and software engineers interested in developing the architecture.\nAlthough AI accelerators have demonstrated the value of highly parallel computing for specialized workloads, Tendrils is targeting general-purpose applications. The company’s objective is to create an architecture that can support a wider range of software without relying on the sequential design assumptions embedded in conventional processors.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "ex h",
+   "company_guess": "Ex-H Company",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "9981024ba4e2",
+     "group_key": "ex h",
+     "title": "Ex-H Company researchers’ Remanence raises $30M to turn AI agent data into models companies own",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/ex-h-company-researchers-remanence-raises-30m-to-turn-ai-agent-data-into-models-companies-own/",
+     "published_at": "2026-11-17T11:15:00.000Z",
+     "amount_hint": "$30M",
+     "snippet": "As businesses deploy AI agents across increasingly complex workflows, the cost of using general-purpose models is rising. Yet…",
+     "text_status": "thin",
+     "text": "November 17, 2026\nCable car and ropeway market: saturated, or still room to invest?\nby Editorial team"
+    }
+   ]
+  },
+  {
+   "group_key": "air space intelligence",
+   "company_guess": "Air Space Intelligence",
+   "amount_hint_usd": 26000000,
+   "articles": [
+    {
+     "id": "9dcc6f66114b",
+     "group_key": "air space intelligence",
+     "title": "Air Space Intelligence Receives $26 Million Air Force Flyways AI Software Contract",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/air-space-intelligence-receives-26-million-air-force-flyways-ai-software-contract/",
+     "published_at": "2026-11-17T16:08:14.000Z",
+     "amount_hint": "$26 Million",
+     "snippet": "Air Space Intelligence Federal has received a $26 million Air Force purchase order for Flyways AI commercial software licenses and platform customization.\nThe post Air Space Intelligence Receives $26 Million Air Force Flyways AI Software Contract appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Air Space Intelligence Receives $26 Million Air Force Flyways AI Software Contract\nBy Amit Chowdhry\nToday at 11:08 AM\nAir Space Intelligence Receives $26 Million Air Force Flyways AI Software Contract\nAir Space Intelligence Federal has received a $26 million Air Force purchase order for Flyways AI commercial software licenses and platform customization.\nThe Cambridge, Massachusetts-based small business will provide the cloud-hosted Flyways Artificial Intelligence Platform for use by the 618th Air Operations Center.\nWork will be performed at Scott Air Force Base, Illinois, and is expected to continue through September 28, 2031.\nThe firm-fixed-price purchase order was issued as a sole-source acquisition under contract FA4452-26-P-0019. The award was made on September 28, 2026, although it appeared in the government’s November 9 contract announcement.\nThe Air Force will obligate $5 million in fiscal 2026 Transportation Working Capital Funds at the time of award. This is the reported initial funded amount and should be distinguished from the full $26 million purchase-order value.\nFlyways is an AI-based aviation platform designed to support planning and operational decision-making. For the 618th Air Operations Center, the software will be used and customized within an organization responsible for planning, tasking, and controlling global air mobility missions.\nCloud-hosted software can provide planners with scalable computing, regularly updated capabilities, and centralized access to operational information. AI tools may assist with analyzing routes, constraints, schedules, and changing conditions, although the source announcement does not provide a detailed list of functions.\nThe 763rd Enterprise Sourcing Squadron at Scott Air Force Base is the contracting activity. The squadron supports enterprise acquisitions connected to Air Mobility Command and related organizations.\nBecause the procurement was sole-source, the government did not solicit competing proposals for this purchase order. The announcement does not provide the specific statutory justification for that determination.\nThe five-year performance period gives the Air Force continuing access to software licenses and customization support. Additional funding beyond the initial $5 million may be obligated during performance, subject to requirements and available appropriations.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "medintech",
+   "company_guess": "MedInTech",
+   "amount_hint_usd": 25700000,
+   "articles": [
+    {
+     "id": "771711ffe54f",
+     "group_key": "medintech",
+     "title": "Medical Robotics Startup MedInTech Raises USD 25.7M Series C to Expand AI Robotic Endoscopes Into Surgical Robots",
+     "publisher": "Wowtale",
+     "url": "https://en.wowtale.net/2026/11/17/236032/?utm_source=rss&utm_medium=rss&utm_campaign=medical-robotics-startup-medintech-raises-usd-25-7m-series-c-to-expand-ai-robotic-endoscopes-into-surgical-robots",
+     "published_at": "2026-11-17T11:23:30.000Z",
+     "amount_hint": "USD 25.7M",
+     "snippet": "Medical Robotics Startup MedInTech Raises USD 25.7M Series C to Expand AI Robotic Endoscopes Into Surgical Robots Wowtale",
+     "text_status": "ok",
+     "text": "MedInTech , a medical robotics startup, has raised a SeriesC round of USD 25.7 million (33.8 billion won). It plans to use the money to broaden its AI robotic endoscope lineup and move from diagnostic endoscopes into higher-value treatment and surgical applications.\nExisting investor Atinum Investment and new investor KB Investment co-led the round. Existing investors Smilegate Investment , SL Investment , ICF (Nextrans) and Wooshin Venture Investment joined with follow-on investments. K2 Investment Partners came in as a new investor. The funds were paid in on the 2nd and 13th, and MedInTech plans to close the Series C round with additional funding within the year.\nMedInTech previously raised a Series A of USD 6.1 million (8 billion won) in 2022 and a Series B of USD 15.2 million (20 billion won) in 2024. Including the new round, its cumulative funding comes to about USD 47.3 million (62.2 billion won). Since the Series B, the company has been running clinical validation and commercialization of its AI robotic endoscope and building domestic and overseas distribution. The new round provides the funds for a wider product portfolio and next-generation surgical robot development.\nAutonomous steering as the core technology\nFounded in 2020, MedInTech develops AI robotic endoscopes that combine robotic precision control and artificial intelligence with gastrointestinal endoscopy, a field that has relied on manual operation by clinicians for decades. Its flagship product, INTION S, uses motor-based precision control. In conventional endoscopes, clinicians steer by pulling wires by hand.\nThe company says its core strength is extending AI from image analysis to controlling the physical movement of a medical device. Existing medical AI has mostly been used to detect lesions in images or support clinical judgment. MedInTech has built autonomous steering technology that turns what the AI recognizes into endoscope movement. This lowers the operating burden on clinicians and can assist with parts of the procedure, such as steering the scope and tracking lesions.\nThe robot-drive and precision-control technology developed for diagnostic endoscopes can also be applied to therapeutic endoscopes and surgical robots. MedInTech’s growth strategy is to go beyond competing in the existing endoscope market. It aims to combine AI and robotics that support clinicians’ techniques into a medical physical AI platform covering diagnosis, treatment and surgery.\nClinical results and commercialization\nIn a clinical trial with 178 adults at Seoul National University Hospital, MedInTech confirmed non-inferiority in key maneuverability measures against conventional mechanical endoscopes. The trial also showed reduced physical fatigue and workload for clinicians. The results were published in the international journal Scientific Reports, and the company has since examined the product’s potential clinical use through multicenter trials.\nAfter launching INTION S in Korea, MedInTech has expanded supply to medical institutions under a distribution agreement with DK Healthcare. It has supplied the product to institutions including the National Fire Service Hospital and Ajou University Hospital, and has recorded initial sales in three overseas markets: Thailand, the Philippines and Mongolia. The company has also commercialized INTION DEEPEYE, AI software that supports detection and classification of abnormal areas in gastric and colon endoscopy images, strengthening its combined"
+    }
+   ]
+  },
+  {
+   "group_key": "mediintech",
+   "company_guess": "Mediintech",
+   "amount_hint_usd": 25300000,
+   "articles": [
+    {
+     "id": "b38bd2522d65",
+     "group_key": "mediintech",
+     "title": "Mediintech raises $25.3M Series C to build surgical robots",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNzl5REpzU3Z1dTJCNmdPUjg0T2JueXdiRzR0SmFXeUVoZWFFSEl2cHJ6RXo3R2g0dHg1T0NFdlV4aEVRVnpWSjMtLXlnbTRmOHhiakFXZVY1Tkx2MU45NmFaLVpXa1h1TnVIZjM1cTNVOHk5VWNVeGJfWGM3S2ZTdWdwSlBKb1N5Y0cxbWotUm5PMDFDRVE?oc=5",
+     "published_at": "2026-11-16T23:50:48.000Z",
+     "amount_hint": "$25.3M",
+     "snippet": "Mediintech raises $25.3M Series C to build surgical robots Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "denmarks sumary",
+   "company_guess": "Denmark's Sumary",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "fa16a84c8274",
+     "group_key": "denmarks sumary",
+     "title": "Denmark's Sumary raises $25M seed for AI accounting, moves to London",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVzVSejFPbDZUdDkzYTFONWhoYVFyd0oxMVNaeEc0aWJ5N19FbDhuN190aDFiZkVrT2Y3OU5DNWFvVHR6RVp0MjlVX0pndXdMdU5IY1hvc2RTUno4amVPZUZMWGFqYVNJMW5WSlpxWVlrU3V1Wlh5eWdEaHhkVFVZa3ptMDB0N3JpOHNjTjVqU0I0cmVjUXd2cldjVWl3N3VvYkE?oc=5",
+     "published_at": "2026-11-17T05:42:35.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Denmark's Sumary raises $25M seed for AI accounting, moves to London Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "607a16c4f143",
+     "group_key": "denmarks sumary",
+     "title": "Sumary raises $25 million seed round led by Singular",
+     "publisher": "news.lavx.hu",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTWE2OEZockI3WkUyN0NTbWtEVjMxb1E0aUdZVzV1Q2tYcE90SlMyMkRFU3BVTGk5dUJnUnpsRTM5bkk4REFJNWhEempadUZ1b1VYMHNDR0lKLTE4eHF0RnB0bzZXZmlJSW94U1hUVjM4cWNlWHNjdFhMS1V0cDJJTG1vQklVVEE?oc=5",
+     "published_at": "2026-11-16T11:41:11.000Z",
+     "amount_hint": "$25 million",
+     "snippet": "Sumary raises $25 million seed round led by Singular news.lavx.hu",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "cabdf79f97d6",
+     "group_key": "denmarks sumary",
+     "title": "Sumary Secures $25M Seed Round to Scale AI Operating System for Accounting Firms",
+     "publisher": "FF News",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PNlplUkRVbmRic2FHaEZuQzhMVXEtTl90cXBoUHJFeXExZGVDcWYtd0FUQUt2ZGpCVlR0ZUUyTExFVDBmSzkxQVFrVTBETDNzWUdqMklUYW9NR2RmcXpCcnNfS0xyaDFDZnFDa1hfUExXWml2LWc?oc=5",
+     "published_at": "2026-11-16T16:57:38.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Sumary Secures $25M Seed Round to Scale AI Operating System for Accounting Firms FF News",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "avenia",
+   "company_guess": "Avenia",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "78c98230ac75",
+     "group_key": "avenia",
+     "title": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension",
+     "publisher": "The Block",
+     "url": "https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119",
+     "published_at": "2026-11-17T13:08:00.000Z",
+     "amount_hint": "$25 million",
+     "snippet": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension The Block",
+     "text_status": "blocked:403",
+     "text": null
+    },
+    {
+     "id": "9ea1539bb029",
+     "group_key": "avenia",
+     "title": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension",
+     "publisher": "Cryptonews.net",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjd2w0SHppSldSdzFJcEFFM19nYUJPSUx3WG43NXhYdlFxeUhvTXFnZUdFRnlucDZGbzRwOThscGJRSGNWTnYzUWYxVE9KbzFhZUswR1NWdGU?oc=5",
+     "published_at": "2026-11-17T15:30:31.000Z",
+     "amount_hint": "$25 million",
+     "snippet": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension Cryptonews.net",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "6226461d63f0",
+     "group_key": "avenia",
+     "title": "Avenia raises $25M Series A extension led by Lightspeed Faction",
+     "publisher": "Crypto Briefing",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05dXR3bVJQU012RjBJeDF2LXVCc3BwenM4Rk5YakhmZzZ6NnhfbVZtQ0w1UUpNQWRpbDB5TVhmUDlkcEdpTmxHLVVkYkxDWFp1QnJlcjBYWVpPa3l3Mk1CZzBWZ01fdzBEWlI2cTlpaldNQQ?oc=5",
+     "published_at": "2026-11-17T16:55:59.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Avenia raises $25M Series A extension led by Lightspeed Faction Crypto Briefing",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "830cbaf5c9fa",
+     "group_key": "avenia",
+     "title": "Brazilian stablecoin firm Avenia raises $25M Series A extension led by Lightspeed Faction: The Block",
+     "publisher": "CryptoRank",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEE5V044dHRYRlJJWVBDNTNiRVFRbmtkZHZfVGZEc3RoVmtyTkU1enFzT1dEa1JOb3BBYVZnVG9xQUpvbkJlTURYY0lmRHdhQjMzSWZJOW44SGh1ZXRUUWtNM1FvaUtpR1NFdEl3S28xMnhLR3ZlQkJGZzBWbVpZZU5rN1I?oc=5",
+     "published_at": "2026-11-17T15:59:31.000Z",
+     "amount_hint": "$25M",
+     "snippet": "Brazilian stablecoin firm Avenia raises $25M Series A extension led by Lightspeed Faction: The Block CryptoRank",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "c2121b536acb",
+     "group_key": "avenia",
+     "title": "Avenia Raises $25 Million in Series A Extension Led by Lightspeed Faction",
+     "publisher": "www.tokenpost.com",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSYzJFUHNlN2twTVJGYk1IZVdpbFAtZ3lMUW5EMzFzT0dTV0R1YU83SjF2R3NudDh5TnV5NzhVeENBTFVwOUo4bnlKMndWcDJWMmZlT2RZVm8?oc=5",
+     "published_at": "2026-11-17T13:23:08.000Z",
+     "amount_hint": "$25 Million",
+     "snippet": "Avenia Raises $25 Million in Series A Extension Led by Lightspeed Faction www.tokenpost.com",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "luminoah",
+   "company_guess": "Luminoah",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "a4c9b4321830",
+     "group_key": "luminoah",
+     "title": "Luminoah Raises $25 Million Series B To Expand Enteral Feeding Technology",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1Mtd0xrQUZMaUNaV0RWZU5vODNuRlkwZDRya2RrTl93X2xBSnZkNjlHMmp3c1NEbDBUWjFMS0xvZFJxWGIxckZMU29BQjM0ZW5rUXpMZXlTRW1zRFdhSGJib2xrbkJSZzdYZE9wbGp5dVNGWWJnQmQtTTdwZ3I1WnNscnlHN0lFaE81WWR1b3BqX1RWX0lJ?oc=5",
+     "published_at": "2026-11-17T04:58:19.000Z",
+     "amount_hint": "$25 Million",
+     "snippet": "Luminoah Raises $25 Million Series B To Expand Enteral Feeding Technology Pulse 2.0",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "e7e8f67ae644",
+     "group_key": "luminoah",
+     "title": "Luminoah raises $25 million",
+     "publisher": "Coverager",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01bmo2Zms0WDM0Q1FxRjliWGFZYTI1a1FkZjZZeGljOVhYYXRzYU1Xak5ta0pONmZnZG9zeFRveEpTcGdWVTFzbDBISnhZeEN6SWxvXzlXM2VUQ2NfRVE?oc=5",
+     "published_at": "2026-11-16T18:10:06.000Z",
+     "amount_hint": "$25 million",
+     "snippet": "Luminoah raises $25 million Coverager",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "6562e9893d1e",
+     "group_key": "luminoah",
+     "title": "Luminoah Raises $25 Million Series B To Expand Enteral Feeding Technology",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/luminoah-raises-25-million-series-b-to-expand-enteral-feeding-technology/",
+     "published_at": "2026-11-17T04:58:19.000Z",
+     "amount_hint": "$25 Million",
+     "snippet": "Luminoah has raised $25 million in Series B financing to expand access to its FDA-cleared enteral feeding system and increase its manufacturing and distribution capabilities. Sandbox Clinical Ventures led the round, with participation from the Blue Venture Fund, GV, Sands Capital, Texas Medical Center Venture Fund, the CU Healthcare Innovation Fund, the American Gastroenterological Association GI Opportunity Fund, and existing investors.\nThe post Luminoah Raises $25 Million Series B To Expand Enteral Feeding Technology appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

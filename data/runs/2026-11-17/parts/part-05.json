@@ -1,0 +1,340 @@
+{
+ "run_date": "2026-11-17",
+ "part": 5,
+ "groups": [
+  {
+   "group_key": "ramon space",
+   "company_guess": "Ramon.Space",
+   "amount_hint_usd": 124000000,
+   "articles": [
+    {
+     "id": "6451e4af2238",
+     "group_key": "ramon space",
+     "title": "Ramon.Space raises $124 million in a Series B for space computing chips, with Micron investing",
+     "publisher": "MLQ.ai",
+     "url": "https://mlq.ai/news/ramonspace-raises-124-million-in-a-series-b-for-space-computing-chips-with-micron-investing/",
+     "published_at": "2026-11-17T16:04:05.000Z",
+     "amount_hint": "$124 million",
+     "snippet": "Ramon.Space raises $124 million in a Series B for space computing chips, with Micron investing MLQ.ai",
+     "text_status": "blocked:403",
+     "text": null
+    },
+    {
+     "id": "ac8095ce51f7",
+     "group_key": "ramon space",
+     "title": "Ramon.Space Raises $124 Million Series B to Scale Orbital Computing Infrastructure",
+     "publisher": "SatNews Publishers",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcDF4TjBJRUhMSlFCcURvVmNNbUJLSG1peEtycUpVUHctNFA1cl9zM3FadDNWOUlNbTNYU1ZBLVdZQmo3ZW5FQ29wVnJXUE51NzVWZTM3c0RqXzdqaE56QWxGeDdfQ2cwV3RyV25sR285VWcwcHpyMjZSQzdFeXBrLUJhUEQ4OXVKV1RGUTIxQXBGVy1RVmJ4OVEtZlBzcm9XSDdydHlDX1dFWFZGdTd5RkhWRQ?oc=5",
+     "published_at": "2026-11-17T15:35:38.000Z",
+     "amount_hint": "$124 Million",
+     "snippet": "Ramon.Space Raises $124 Million Series B to Scale Orbital Computing Infrastructure SatNews Publishers",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "b16942ce0384",
+     "group_key": "ramon space",
+     "title": "Ramon.Space Raises $124 Million Series B Led by PSG to Expand Space Computing Infrastructure",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNmdMLWRHSDA1eFI1ZGQ3dWtpMmJ0RVhYVEpoUDJBNWhiUGZYS00zeHQzZlo5T2Q4QXBTLWlMUFQyNUt1S1VQSWZ0cXN2OTQ0VXFIcnY5aDhOTEJqNEZqb2xUTXlFLWktdml5RWhlZzdna0ZPc0JMWUM0bW5YZXRWR1ZMQkptaGhoajVHWTY4djJpTm5zZWJTYVNyQ1JzaEFxa3QxMjVBeVp6ZGNjaTlqbGJQUnRwRzYzbDhBSmdlLVFUaWhrVFBTbXRn?oc=5",
+     "published_at": "2026-11-17T14:24:47.000Z",
+     "amount_hint": "$124 Million",
+     "snippet": "Ramon.Space Raises $124 Million Series B Led by PSG to Expand Space Computing Infrastructure citybiz",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "space tech firm",
+   "company_guess": "Space tech firm",
+   "amount_hint_usd": 124000000,
+   "articles": [
+    {
+     "id": "33de06348e63",
+     "group_key": "space tech firm",
+     "title": "Space tech firm named after Ilan Ramon raises $124 million in Series B to power orbital data center",
+     "publisher": "The Jerusalem Post",
+     "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-915203",
+     "published_at": "2026-11-17T14:11:30.000Z",
+     "amount_hint": "$124 million",
+     "snippet": "Space tech firm named after Ilan Ramon raises $124 million in Series B to power orbital data center The Jerusalem Post",
+     "text_status": "thin",
+     "text": "Space tech firm named after Ilan Ramon raises $124 million in Series B to power orbital data center\nBacked by PSG and Micron, the firm builds radiation-hardened computers to process data in orbit, using the new funds to scale global production.\nFollow us on Google\nUS-China space race is heating up\n( photo credit : REUTERS )"
+    }
+   ]
+  },
+  {
+   "group_key": "general dynamics business units",
+   "company_guess": "General Dynamics Business Units",
+   "amount_hint_usd": 117600000,
+   "articles": [
+    {
+     "id": "9ec8394d9ec8",
+     "group_key": "general dynamics business units",
+     "title": "General Dynamics Business Units Receive $117.6 Million In Navy Contract Actions",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/general-dynamics-business-units-receive-117-6-million-in-navy-contract-actions/",
+     "published_at": "2026-11-17T15:53:52.000Z",
+     "amount_hint": "$117.6 Million",
+     "snippet": "General Dynamics business units received three Navy contract actions with a combined announced value of approximately $117.6 million for enterprise IT services, Virginia-class submarine materials, and undersea research.\nThe post General Dynamics Business Units Receive $117.6 Million In Navy Contract Actions appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "General Dynamics Business Units Receive $117.6 Million In Navy Contract Actions\nBy Amit Chowdhry\nToday at 10:53 AM\nGeneral Dynamics Business Units Receive $117.6 Million In Navy Contract Actions\nGeneral Dynamics business units received three Navy contract actions with a combined announced value of approximately $117.6 million for enterprise IT services, Virginia-class submarine materials, and undersea research.\nThe combined figure consists of a $56 million ceiling increase for General Dynamics Information Technology, a $41.6 million undefinitized contract action for General Dynamics Electric Boat, and a $20 million research contract for General Dynamics Applied Physical Sciences. The amounts have different funding and contract structures and should not be interpreted as $117.6 million in guaranteed or immediately obligated revenue.\nGeneral Dynamics Information Technology received a modification increasing the ceiling of indefinite-delivery/indefinite-quantity contract N0003925D7800 by $56 million, from $98.5 million to $154.5 million. The additional ordering capacity will support the Navy’s effort to consolidate legacy help desks into the Navy Enterprise Service Desk by October 1, 2027.\nThe consolidation supports the Secretary of the Navy’s Operation Cattle Drive mandate. Work will continue in Bossier City and New Orleans, Louisiana, with each location accounting for 50% of performance.\nThe GDIT contract is in its second performance year under an option period running from August 2026 through August 2027. One optional year remains and could extend performance through August 2028. The government did not report an immediate obligation associated with the ceiling increase, so the $56 million represents additional potential ordering authority rather than a funded task order.\nThe production contract followed GDIT’s successful completion of an Other Transaction Authority prototype effort that began in 2019. Portfolio Acquisition Executive Mission Systems in San Diego is the contracting activity.\nGeneral Dynamics Electric Boat received a $41.6 million undefinitized action under previously awarded contract N00024-24-C-2124. The action supports the procurement of long-lead materials for Virginia-class submarines.\nElectric Boat will perform the reported work in Franklin, Massachusetts, with completion expected in June 2031. The Navy will obligate approximately $18.9 million in fiscal 2025 other procurement funding at award. Those funds will expire at the end of the current fiscal year.\nBecause the action is undefinitized, the Navy and Electric Boat will finalize certain pricing or contractual terms later. Long-lead procurement enables specialized materials and components to enter production early enough to protect submarine construction schedules. The Supervisor of Shipbuilding, Conversion and Repair in Groton, Connecticut, is the contracting activity.\nGeneral Dynamics Applied Physical Sciences received a $20 million cost-plus-fixed-fee completion contract for Advancements in Undersea Dominance and Naval Engineering.\nThe Groton, Connecticut-based business will conduct studies and develop naval technologies using first-principles analysis and physics-based modeling and simulation. Work will be performed in Groton through September 2031.\nThe Navy will obligate $5.1 million in fiscal 2026 research, development, test, and evaluation funding at award. Those funds will not expire at the end of the current fiscal year.\nThe five-year research contract ha"
+    }
+   ]
+  },
+  {
+   "group_key": "noeri",
+   "company_guess": "Noeri",
+   "amount_hint_usd": 110000000,
+   "articles": [
+    {
+     "id": "eff31daf1208",
+     "group_key": "noeri",
+     "title": "Stanford Professor's Startup Noeri Raises $110 Million to Let Enterprise AI Rewrite Itself",
+     "publisher": "BigGo Finance",
+     "url": "https://finance.biggo.com/news/1eb5912b-98d4-4367-a5c3-12d67d9c23ad",
+     "published_at": "2026-11-17T10:26:00.000Z",
+     "amount_hint": "$110 Million",
+     "snippet": "Stanford Professor's Startup Noeri Raises $110 Million to Let Enterprise AI Rewrite Itself BigGo Finance",
+     "text_status": "ok",
+     "text": "Stanford Professor's Startup Noeri Raises $110 Million to Let Enterprise AI Rewrite Itself\nAdd preferred source\nNoeri, an enterprise AI startup co-founded by Stanford University professors Yejin Choi and Carlos Guestrin, has officially launched and announced it has closed a $110 million funding round led by Menlo Ventures, with Nvidia, Cisco and Snowflake participating as strategic investors. Founded about five months ago and headquartered in Palo Alto, California, Noeri is building \"self-improving\" AI systems that continuously learn from a company's own data and workflows. The systems examine a company's existing models and toolchains and propose modifications, with all changes subject to human review. The idea originated with a Stanford research team that, to save costs, trained a small AI to orchestrate older models such as GPT-4—and found it outperformed GPT-5 on certain scientific tasks. Japan's Sakana AI is exploring a similar direction.\nKey Elements\nNoeri Yejin Choi Carlos Guestrin Menlo Ventures Nvidia Snowflake Cisco Stanford University Sakana AI OpenAI GPT-5 GPT-4\nNoeri, an enterprise AI startup co-founded by two Stanford University artificial intelligence professors, has officially unveiled itself and announced it has raised $110 million. The round was led by Menlo Ventures, with participation from Madrona Venture Group, Kindred Ventures, Wing Venture Capital and NEA, while Cisco's investment arm, Nvidia and Snowflake joined as strategic investors. The company's valuation was not disclosed.\nNoeri was founded only about five months ago and is headquartered in Palo Alto, California. Its co-founders are Yejin Choi and Carlos Guestrin. Choi was previously a distinguished scientist at Nvidia and received a MacArthur Fellowship in 2022; Guestrin is one of the co-developers of the open-source machine learning tool XGBoost, and his earlier machine learning company Turi was acquired by Apple in 2016, after which he led Apple's core machine learning and AI teams. The company's name evokes the idea of \"multiple intelligences,\" and it is currently hiring research and engineering talent in Palo Alto and Zurich.\nThe company's starting point came from cost considerations at a Stanford microbiology and immunology research team. According to Choi, who spoke to Bloomberg , the team considered GPT-5 too expensive, so it trained a small AI to schedule work by older models such as GPT-4. The combination of \"a small model directing older models\" ended up outperforming GPT-5 on specific tasks.\nBuilding on that discovery, Noeri is focused on so-called \"self-improving\" AI systems: the tool examines a company's existing AI models, software development tools and other software, identifies areas for adjustment and proposes modifications—retraining underlying models when necessary. All changes must pass human review before going live, allowing the system to continuously learn from a company's own data and workflows and gradually form specialized models that are cheaper and better tailored to specific business needs, while companies retain the models and processes they have built themselves.\nNoeri is not alone on this path. Japan's Sakana AI launched Fugu in June this year, which likewise uses specially trained models to direct other AIs in completing complex tasks, and it is investing in AI self-improvement research. Noeri's difference lies in its explicit focus on enterprise scenarios and its emphasis on absorbing internal corporate data and practical e"
+    },
+    {
+     "id": "8d7aaaf70c05",
+     "group_key": "noeri",
+     "title": "Nvidia joins $110 million funding round for Stanford-founded AI startup Noeri",
+     "publisher": "Crypto Briefing",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtc2ttZE5oQ2N6clAzYS1TWTRQSUFoRVoyWi1uQS1EdFJ4TXZ0V2Zwc3ozV3puQ203NlNCeTZCNHJuMDc3SkhwNURDWnhfeDRsWktZeEdsQnd5cV93RUZ4elRIUFVOcUg5dmMwRTZZdkE3eUk1d0E?oc=5",
+     "published_at": "2026-11-16T16:04:53.000Z",
+     "amount_hint": "$110 million",
+     "snippet": "Nvidia joins $110 million funding round for Stanford-founded AI startup Noeri Crypto Briefing",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "3f04b69068a9",
+     "group_key": "noeri",
+     "title": "Noeri Launches With $110 Million to Develop Self-Improving Enterprise AI",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmpVRUE2aURpN2lCLWNvVl94OTdibGtUQTl5cE90TlZEX3pKVTE2SDhBTHZKUXFtbFY4cktCQ3lkaHZWdGZYZ0cwdnRfOW1sR0xOTy05RWhOTUZzRWxTRmJFTWdpSEVfWHQtUzRwaG9mOFkxLXhGR09yRWsxTml6cUN4cW1Mem5KZ1FLdHVEVWZYQkNjNWhRUUZUbVZsUHBJMnNSWkhrX29SUXh3eURn?oc=5",
+     "published_at": "2026-11-16T18:53:07.000Z",
+     "amount_hint": "$110 Million",
+     "snippet": "Noeri Launches With $110 Million to Develop Self-Improving Enterprise AI citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "884d8423dc27",
+     "group_key": "noeri",
+     "title": "Noeri, Founded by Leading Stanford AI Professors, Launches with $110 Million to Empower Companies to Build and Own Their AI",
+     "publisher": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWnFfTXNXT3ZROTlkVVdQQ3J4TU1mUVlwRXFsMGFPUDFlRVJFazdDSm11cUFZZEMtNFVINnlmVE9LcUtMSnp4X3RiUzM3cVkwUk9hN2RmTkd6T2pmcXZXdF9ETlNjamc0OER6RFRzbHhqbGZJY1ZQcWFHWC05eWh2cHdOU1FXNnlua0pmN09USDhVMEJQNnJIbjZCQnNkLWgzaGFSY01nTXJtV1I5NUtXQzVGZFlOUHY5QnBUVkNWdW0ydmJ3cjJLaG9XWldrdzl3al9lNlBWaVhrQXh4MWNTNjdIdVpHaGo5MGdIQ3FsaDlaTHpCTHNHQVdYUnRvT3NIT2VNbDdjM285Vkp4?oc=5",
+     "published_at": "2026-11-16T17:18:55.000Z",
+     "amount_hint": "$110 Million",
+     "snippet": "Noeri, Founded by Leading Stanford AI Professors, Launches with $110 Million to Empower Companies to Build and Own Their AI Business Wire",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "1e0754f6a02a",
+     "group_key": "noeri",
+     "title": "Noeri Launches With $110 Million To Build Self-Improving Enterprise AI",
+     "publisher": "Pulse 2.0",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaUtJOERMRmR4V1MxNGgzaDJuNGNHamkyLW9yUHpvdURqdWRURDRvX2VJbUhxYUVSbGZsb0lyZzRYaGZYZHFZTGN6RjVjcElmTDZ0Mks1dDBPR1hzcGZwT2ZHeXJaSkVpdDdNWWJ3NTItdHpwQTNzUTlwUkFZQXZlbFBpTzV2RXFsS1p3N2owR0VMdnc?oc=5",
+     "published_at": "2026-11-16T20:31:03.000Z",
+     "amount_hint": "$110 Million",
+     "snippet": "Noeri Launches With $110 Million To Build Self-Improving Enterprise AI Pulse 2.0",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "6ef1af9a5422",
+     "group_key": "noeri",
+     "title": "Noeri launches with $110 million for tailored AI",
+     "publisher": "CASRAI",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CRkxtSkhOZVI5Vlp6aUprYmxNcHZzdDlMcUNRYmVYbFAxazJ1dHllTzVfVWEtdm9acU1IN1VlLTNjM2QtZm1BV2hVaVV6SmFnb2NoR2RTQjRQUTdLWXE3T1V6Q0hyVk9jT0pmbzIxb3pKZ1VmeHpSbVNTSkhzdw?oc=5",
+     "published_at": "2026-11-16T20:09:14.000Z",
+     "amount_hint": "$110 million",
+     "snippet": "Noeri launches with $110 million for tailored AI CASRAI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "399198deb008",
+     "group_key": "noeri",
+     "title": "Noeri, Founded by Leading Stanford AI Professors, Launches with $110 Million to Empower Companies to Build and Own Their AI",
+     "publisher": "The Joplin Globe",
+     "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxONTFiRzVFUVBiUXpyeVNXckk2ZXpuNDZNZGRWN2k0VS1XbEUzaGFFaXVwMklMVS1YYl9fNUEwVG11QnVhV0xacERYNnRVakt3cEwxQ0dpS1FWOHQ5QzJUV1l0S0NpTFFPV1NRWlBkZ3owWno2QzF1XzJGZW0wZkFrTElpbnU1TmJ0dEFLVzY4MzU1VXlQLWljS0lEVVVQdjBrUWFnc2NKTE5VU0taX0dHelhNNVBBLVZ3aEJXMXM5a3E4aDE5azdHZnRHVDBVeUx3N2dydnMxVmoxNHp6bmMxem1HVDZhZjlQbTdMWmxpSHpKQW1HaWJNSGJwN0VFQjJRWXo4MEhUWGJnaDFSTDB3blc1VHI2Znl0TGdvS3lQbEhOVC0yOFU4?oc=5",
+     "published_at": "2026-11-16T17:17:21.000Z",
+     "amount_hint": "$110 Million",
+     "snippet": "Noeri, Founded by Leading Stanford AI Professors, Launches with $110 Million to Empower Companies to Build and Own Their AI The Joplin Globe",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "83dbedee49a6",
+     "group_key": "noeri",
+     "title": "Noeri Launches With $110 Million To Build Self-Improving Enterprise AI",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/noeri-launches-with-110-million-to-build-self-improving-enterprise-ai/",
+     "published_at": "2026-11-16T20:31:03.000Z",
+     "amount_hint": "$110 Million",
+     "snippet": "Noeri has launched with $110 million in funding to develop AI systems that learn from enterprise work and support scientific discovery. Menlo Ventures led the financing, with participation from Madrona Venture Group, Kindred Ventures, Wing Venture Capital and NEA. Strategic investors include Cisco Investments, NVIDIA and Snowflake.\nThe post Noeri Launches With $110 Million To Build Self-Improving Enterprise AI appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "nvidia backs noeris 110",
+   "company_guess": "Nvidia Backs Noeri’s $110",
+   "amount_hint_usd": 110000000,
+   "articles": [
+    {
+     "id": "7fd2c411e786",
+     "group_key": "nvidia backs noeris 110",
+     "title": "Nvidia Backs Noeri’s $110 Million Enterprise AI Funding Round",
+     "publisher": "www.tokenpost.com",
+     "url": "https://www.tokenpost.com/news/business/58592",
+     "published_at": "2026-11-16T16:17:01.000Z",
+     "amount_hint": "$110 Million",
+     "snippet": "Nvidia Backs Noeri’s $110 Million Enterprise AI Funding Round www.tokenpost.com",
+     "text_status": "ok",
+     "text": "Home Business 1 min read Add as a preferred source on Google\nNvidia Backs Noeri’s $110 Million Enterprise AI Funding Round\nFounded roughly five months ago by Stanford professors Yejin Choi and Carlos Guestrin, the company is building AI tools tailored to businesses’ needs.\nBy John Kim\nPublished Nov 16, 2026, 11:17 AM EST\nSave Share An unmarked accelerator board rests on a laboratory workbench / TokenPost.ai\nNvidia has joined a $110 million financing for Noeri, a five-month-old artificial intelligence startup building specialized systems for companies, adding another early-stage AI investment to the chipmaker’s portfolio.\nMenlo Ventures was the lead investor. Madrona Venture Group, Kindred Ventures, NEA and Nvidia also participated. Noeri has not disclosed how much Nvidia invested, the startup’s valuation or how it plans to spend the funds.\nStanford professors Yejin Choi and Carlos Guestrin started Noeri roughly five months ago. The company focuses on adapting specialized AI systems to businesses’ needs using their proprietary data.\nNvidia has also participated in other AI startup financings. Its venture arm, NVentures, invested in Reactor , bringing that startup’s total funding to $74 million, and Nvidia participated in Simplismart’s $14 million Series B .\nJohn Kim\nJohn Kim reports on the digital-asset business for TokenPost. Send corrections or tips to info@tokenpost.com. AI Nvidia Venture funding Noeri\nJoin the discussion Back to top"
+    }
+   ]
+  },
+  {
+   "group_key": "ex tesla autopilot trio",
+   "company_guess": "Ex-Tesla Autopilot trio",
+   "amount_hint_usd": 110000000,
+   "articles": [
+    {
+     "id": "208accc81028",
+     "group_key": "ex tesla autopilot trio",
+     "title": "Ex-Tesla Autopilot trio raises $110M for simulation startup Zeromatter",
+     "publisher": "Dealroom",
+     "url": "https://app.dealroom.co/news/note/ex-tesla-autopilot-trio-raises-110m-for-simulation-startup-zeromatter",
+     "published_at": "2026-11-16T11:23:33.000Z",
+     "amount_hint": "$110M",
+     "snippet": "Ex-Tesla Autopilot trio raises $110M for simulation startup Zeromatter Dealroom",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "neurosterix",
+   "company_guess": "Neurosterix",
+   "amount_hint_usd": 105000000,
+   "articles": [
+    {
+     "id": "58bc231ff6bb",
+     "group_key": "neurosterix",
+     "title": "Neurosterix raises USD 105 million in Series B funding",
+     "publisher": "Greater Geneva Bern area (GGBa)",
+     "url": "https://ggba.swiss/en/neurosterix-raises-usd-105-million-in-series-b-funding/",
+     "published_at": "2026-11-16T08:29:10.000Z",
+     "amount_hint": "USD 105 million",
+     "snippet": "Neurosterix raises USD 105 million in Series B funding Greater Geneva Bern area (GGBa)",
+     "text_status": "thin",
+     "text": "Life sciences\nCatalan pharmaceutical group STE Pharmaceuticals to establish production and R&D in Couvet\n3 November 2026"
+    }
+   ]
+  },
+  {
+   "group_key": "rox",
+   "company_guess": "Rox",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "7d09ac072752",
+     "group_key": "rox",
+     "title": "Rox Raises $100M Series B at $1.3B Valuation to Scale AI Agents for Sales Operations",
+     "publisher": "citybiz",
+     "url": "https://www.citybiz.co/article/933644/rox-raises-100m-series-b-at-1-3b-valuation-to-scale-ai-agents-for-sales-operations/",
+     "published_at": "2026-11-16T11:27:15.000Z",
+     "amount_hint": "$100M",
+     "snippet": "Rox Raises $100M Series B at $1.3B Valuation to Scale AI Agents for Sales Operations citybiz",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "seawolf",
+   "company_guess": "Seawolf",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "009bf3205826",
+     "group_key": "seawolf",
+     "title": "DNA drug developer Seawolf launches with $100 million funding, Sanofi deal",
+     "publisher": "Reuters",
+     "url": "https://www.reuters.com/legal/litigation/dna-drug-developer-seawolf-launches-with-100-million-funding-sanofi-deal-2026-11-16/",
+     "published_at": "2026-11-16T10:09:20.000Z",
+     "amount_hint": "$100 million",
+     "snippet": "DNA drug developer Seawolf launches with $100 million funding, Sanofi deal Reuters",
+     "text_status": "blocked:401",
+     "text": null
+    },
+    {
+     "id": "f0d8f2a3c902",
+     "group_key": "seawolf",
+     "title": "DNA drug developer Seawolf launches with $100 million funding, Sanofi deal",
+     "publisher": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRF9DOGk5c2RpQWY4eEd2WGtLamU0NzhyTS1mMWFvUFd5Z3k3Y3RZTzNTajZ2RVRjTDdyYmJqU3R2QlMwWkRBWHlsdVY0c0J5d003a0tZeDdMT0dYRlhnX3hHaXZqdk5UVFFESUIyNXg5TkY0STZRTlVMbUpqUTZOdGpFZlc1ai0wQUlQSkk0SjNlNHhPdEZ4ZFRhc3pNcHdYSllyeTFwZUtJTi1neXJvTmpfV0ZpNkhmRzVKd19haXU1WHc4TU84UkFwZDVkQWN0TmlTdHFNVEFFQQ?oc=5",
+     "published_at": "2026-11-16T10:00:00.000Z",
+     "amount_hint": "$100 million",
+     "snippet": "DNA drug developer Seawolf launches with $100 million funding, Sanofi deal TradingView",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "0158ea6561f9",
+     "group_key": "seawolf",
+     "title": "Seawolf Therapeutics Raises $100M, Signs Sanofi Deal",
+     "publisher": "Voice of Healthcare",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQi1DZ3ZZejJ6eENZeEJ3WVVTMVZTVjFoWnE5c0QtdEk2a05zMGhhWDBrcDF3WXFxZ2JVaUFWZ2oxczBxMnJESWxjMk1YbFgyLUhNZzZwVTRySUllWFFsTzBqSElha0lHNkpkSUxlMEVib2dhQ2VhTlBDVXd6SUFxaVdsdC05VUdJMklsc1ZrNXBmeV9WRnpBaHAxZHVfazNrc1lsUkZPLTd2SFNSZjJPNXZScVFIWFhkRkx4UlpRaUhvdw?oc=5",
+     "published_at": "2026-11-16T10:45:00.000Z",
+     "amount_hint": "$100M",
+     "snippet": "Seawolf Therapeutics Raises $100M, Signs Sanofi Deal Voice of Healthcare",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "2fc6aa5682fc",
+     "group_key": "seawolf",
+     "title": "Seawolf launches with $100 million and Sanofi DNA research pact",
+     "publisher": "CASRAI",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15Q1MxNktjaWJVdkpsZ0pzODlVTGxVU0M3cy04Mlk4ajZubFhnaFBxUWJZSTluZWJER3drTG9WMjFtTG1IV1gwWi1yU3J6UllUVDNwbkZ2RnljUC1zbFYxa2ZFNUhucjN3N2JFY2FJbGxkSzRtY1BGQjhB?oc=5",
+     "published_at": "2026-11-17T05:09:51.000Z",
+     "amount_hint": "$100 million",
+     "snippet": "Seawolf launches with $100 million and Sanofi DNA research pact CASRAI",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "trinity capital provides",
+   "company_guess": "Trinity Capital Inc. Provides",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "000f475cb145",
+     "group_key": "trinity capital provides",
+     "title": "Trinity Capital Inc. Provides $100 Million in Debt Financing to Accelerate Phononic's Growth and Manufacturing Expansion for AI Data Centers",
+     "publisher": "",
+     "url": "https://www.prnewswire.com/news-releases/trinity-capital-inc-provides-100-million-in-debt-financing-to-accelerate-phononics-growth-and-manufacturing-expansion-for-ai-data-centers-302941276.html",
+     "published_at": "2026-11-17T13:00:00.000Z",
+     "amount_hint": "$100 Million",
+     "snippet": "PHOENIX, Nov. 17, 2026 /PRNewswire/ -- Trinity Capital Inc. (NYSE: TRIN), a leading alternative asset manager, today announced the commitment of $100 million in debt financing to Phononic, a North Carolina-based company developing solid-state cooling solutions for AI data centers. The...",
+     "text_status": "ok",
+     "text": "Trinity Capital Inc. Provides $100 Million in Debt Financing to Accelerate Phononic's Growth and Manufacturing Expansion for AI Data Centers\nNews provided by\nTrinity Capital Inc.\nNov 17, 2026, 08:00 ET\nShare this article\nShare this article\nPHOENIX , Nov. 17, 2026 /PRNewswire/ -- Trinity Capital Inc. (NYSE: TRIN ), a leading alternative asset manager, today announced the commitment of $100 million in debt financing to Phononic, a North Carolina-based company developing solid-state cooling solutions for AI data centers. The financing will support accelerated growth and manufacturing capacity expansion to meet increasing customer demand.\nPhononic's proprietary Thermal Control Systems™ provide software-defined cooling for AI infrastructure by combining high-performance thermoelectric devices with intelligent controls. Compact, solid-state devices and an integrated software control layer deliver precision cooling at the point of need for critical components, including GPUs, high-bandwidth memory, networking silicon, and the optical transceivers that connect them. Phononic's Thermal Fabric™ software layer monitors conditions throughout the data center and dynamically adjusts thermal control in real time as AI workloads change. Together, these solutions are designed to unlock greater AI infrastructure performance, optimize compute and facility capacity, and reduce energy and water consumption.\n\"As AI hardware continues to evolve, we believe precise, real-time cooling at the chip level is becoming increasingly important,\" said Phil Gager, Senior Managing Director of Tech Lending at Trinity Capital. \"Phononic has built the thermoelectric technology and software to address that need, and we're pleased to back their team as demand for their solutions continues to build.\"\nPhononic enters its next phase of growth as a profitable company backed by leading venture and growth-equity investors. With demand accelerating across AI infrastructure, the company is expanding manufacturing capacity to meet growing customer requirements and scale delivery of its intelligent thermal control solutions.\n\"AI infrastructure is advancing at an unprecedented pace, and cooling has become a critical bottleneck to growth, limiting both facility capacity and compute and optical performance. Our customers are demanding disruptive thermal control solutions that can overcome these limitations at scale,\" said Dr. Tony Atti, CEO and Founder of Phononic. \"Our partnership with Trinity Capital enables us to accelerate manufacturing capacity expansion to meet that demand and support the next wave of growth across AI infrastructure.\"\nAbout Trinity Capital Inc.\nTrinity Capital Inc. (NYSE: TRIN ) is an alternative asset manager that seeks to deliver consistent returns for investors through access to private credit markets. Trinity Capital sources and structures investments in well-capitalized growth-oriented companies across five distinct lending verticals: Tech Lending, Equipment Finance, Healthcare & Life Sciences, Sponsor Finance, and Asset Based Lending. As a long-term, trusted partner for innovative companies seeking tailored debt solutions, Trinity Capital has deployed more than $6.8 billion across over 511 investments since inception in 2008 (as of September 30, 2026). Headquartered in Phoenix, Arizona, Trinity Capital's dedicated team is strategically located across the United States and Europe. For more information on Trinity Capital, please visit trinitycapital.com and stay"
+    }
+   ]
+  }
+ ]
+}

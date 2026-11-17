@@ -1,0 +1,412 @@
+{
+ "run_date": "2026-11-17",
+ "part": 10,
+ "groups": [
+  {
+   "group_key": "luminal",
+   "company_guess": "Luminal",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "bd7d840ac4fb",
+     "group_key": "luminal",
+     "title": "AI cloud startup Luminal secures $25m in Series A funding",
+     "publisher": "Data Center Dynamics",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT19ZcElZX3E4dTZzX1JPa3gtNHAzbDM4VmhnY0lNa0NZRmhKUUtlUkxUaE9iZjJaUUlXbm44clBFS0tjNUVHTG5DenpEZVJkZHlscjNIaGxDM3ZwWl9XNUxZWU9iYnU0c0Y1Y2lHZW5kR194dGVkT1VLQXhxVWIzaXgyb2xNakJtQVJtd0VxNUhIcHY4U25POHhlTGVGZk1GU0E?oc=5",
+     "published_at": "2026-11-16T17:51:26.000Z",
+     "amount_hint": "$25m",
+     "snippet": "AI cloud startup Luminal secures $25m in Series A funding Data Center Dynamics",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "bharat semi",
+   "company_guess": "Bharat Semi",
+   "amount_hint_usd": 24000000,
+   "articles": [
+    {
+     "id": "cb3bba8f9d85",
+     "group_key": "bharat semi",
+     "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+     "publisher": "TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORlp0dzgwTTFLWm5FZ25md2xZM1hldHoxRmhaVHJncWNmYUd2WVJRZGZlQVlycUlRMENUblNDSHpudlV2ZlRvTFhMaUFCb1hVUndRRHMtMmRaSnFiV1Yxb19kQ3ppVTQ0X29hZG1FVlBmVW8yWWJ6aVh6R0xESlJMWElCQ2kzN19rX29feWFJeV9EQzc3dmdYQmRoWUg3d1lTc2xaRUV5Y2FBa3lZNWpFNVMzdEZrNGRVQk0yX3h3NA?oc=5",
+     "published_at": "2026-11-15T23:30:00.000Z",
+     "amount_hint": "$24M",
+     "snippet": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market TechCrunch",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "c2ed2ed811d6",
+     "group_key": "bharat semi",
+     "title": "Semiconductor Startup Bharat Semi Raises $24 Mn Seed Funding",
+     "publisher": "BW Disrupt",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUNJejhVQ1VwWEdLa0h3X1VSdUNoSXlyRkNJMmFWX0lRNDdKNGVBQXZkdTI4VnNvVzB4RGZIY3Bxc0VqbjY0YW1pSzVQSHZ2Q3E3bkpUVmpzLWMxRXRaSjRxallJOUNJZVlDdk9raUxIOHJZazAtaEpsOE5GYy13LWNucjBLZ2d5WlN6ejRNMHdwZERXLUNwbWwtT2dwa2JQdkE?oc=5",
+     "published_at": "2026-11-17T03:57:08.000Z",
+     "amount_hint": null,
+     "snippet": "Semiconductor Startup Bharat Semi Raises $24 Mn Seed Funding BW Disrupt",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "4f07d09d903a",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi Raises $24M Seed to Bring AI Image Sensors to Market",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWXZ4OXVabFcxckpHZ25ickI1Tkoyb0pmSXBubGlKSzJjbHdqYjhfNDEzWGdnMzRSdXItVEJvR2lNanROeUhiVE41V296VlpFeDNfWkg3ZVByZ29YZ25oQnExMlFlc1c3Y0lxOURLaW5IZWt3eHVqMWh5cTh5aWE2X09vME9JY1lRNWVVczB3?oc=5",
+     "published_at": "2026-11-15T23:50:02.000Z",
+     "amount_hint": "$24M",
+     "snippet": "Bharat Semi Raises $24M Seed to Bring AI Image Sensors to Market Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "0dcc52b2b52e",
+     "group_key": "bharat semi",
+     "title": "India's Bharat Semi raises $24M seed to build AI image sensors",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjAtcmpIOE9mWUE1OFVFcXZGcjB1b2I2TDNhcmkyZ0ZKU0lpTi1KYWJHU0VwM01oblgwOGtIWk96djdPS3JPdGt3TnZaNFFSXzdSRU16bFV5eHZuSWY5VzdqbkxpV1c3ekpEMzRYZjBOTjNpVWdrcWItX1daX2xBY01sR2JWSEl6SkJ0aG1iUnRDOUhlWXBqWnpaQQ?oc=5",
+     "published_at": "2026-11-15T23:59:56.000Z",
+     "amount_hint": "$24M",
+     "snippet": "India's Bharat Semi raises $24M seed to build AI image sensors Dealroom",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "19b4234c8323",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi raises $24 million in seed funding to scale AI sensor technology",
+     "publisher": "ET Enterprise AI",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbGNtcTgwWmptWWl2SjlvQ2p5Mk9heEpWVWowaXFJbk9yV196UkI3VlZtTEdlYUZIOVdXRGFyOFRZVEItRWFCSnF0R3hTcHY3ZV9uMHN2SzJQeTF5Q283dHp5bzdYb3p6RlF0X2M4Nmh1WVBoWmdQVmVjdXk5bUdHV0libE14UkRWS0dXX1NFVXNKUWRLSFd2UzVrR1pqN1FSVFZZMURWVTljRmI3U2k2WVU3Rm9RZGsxdW5XSW5wZVNrVmV0YnJZRHBwbVZmellTTWViZUozNHA5a1M2eC1WUVVUMNIB6AFBVV95cUxPUURSSUo1NzRrM2xPbG82cWhYVzAwQlVLM1B0dlRrc2FfaW1ES1pKYmFndko2bDdBSEhWYUwzQ1d1R1ZyLVJzOXNuelltWUVqUGdJZUNNWlNrNi1sbXBfVzB4UmRNdTdSNTRJcjFpXzNKTmVTSkhYdE9MUTgyY0gwOWdKcURsbmM2d2ZsTnNuY3FPWWltWXlWQWFzWVI4VW1KNTg3UXFBb1NoUjBlS3dpcXVKQTI3clItUnlYdm4xLTU5OWpQTHJtTVo0eE5udEVIaWtITEhra1QzbXZCVUk4dUwyN2pVRVFY?oc=5",
+     "published_at": "2026-11-16T07:15:45.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bharat Semi raises $24 million in seed funding to scale AI sensor technology ET Enterprise AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "5dc015d6bdf7",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi raises $24 million to build AI image sensors in India",
+     "publisher": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTY0M1dNT2tiS2JOaGVCLTZ5OU5yOGxxTGhOU0Jxa0pJdEM1cnNSbl80azRJTU9IMWR6TUtzLTRuaTllZThVMnJyNEZrUjNXR3FfNUg4d2FFb1I4Y1d2Y0M1ZEdwUXk5cy10a1BrUU93OGxMQXc5REFqOHkyME8tOEpnMnI1WEtEaGtEY0NR?oc=5",
+     "published_at": "2026-11-16T05:28:57.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bharat Semi raises $24 million to build AI image sensors in India MLQ.ai",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "2915493fd712",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi Raises $24 Million in Seed Funding to Develop AI-Powered Image Sensors",
+     "publisher": "Indian Startup Times",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbUVQaER4aW4tM19yTFBWYmttUUN3MEZERGFJck5oNGtlSXoxVW5nNGctWnUzV2YwZXJxUEVmOTl3UENRWTRiY183OGpWYlJRcjlqcmRQaDdlQldlNVBKNGtzM21lbUs5STFIUFdFd3BQOUFib3RYcnAzNExaTlJ0czN4dktmMmFtLWR5eVZidlY5QXYxVGdoZlB1cGp5TkpZTTlDRGxBeGJiakZiT2ZmdVJ2bmZmR1hwOWhNemM3MA?oc=5",
+     "published_at": "2026-11-16T12:15:48.000Z",
+     "amount_hint": "$24 Million",
+     "snippet": "Bharat Semi Raises $24 Million in Seed Funding to Develop AI-Powered Image Sensors Indian Startup Times",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "e909a75e5807",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi Raises $24 Million, Targets Surveillance and Consumer Devices Before Expanding AI Sensors to Robotics",
+     "publisher": "https://ascendants.in/",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWVlaLXNvQWVGMGQxQ3ZBSGUxazhLSTVNZGZEcmNkMTNhMHdIZ3FSMElSWHQyaFNKWWhWVTFocldxaThyYXBmNFgycnBHRGp4blVvMkNkcE9uNFF1WGhHOVJxbmJael84dTJVRlFRcUlsVmpaV2xRUEg2QVVvVHFkSHpINk9fRWc1anlVZUoyQ2gzb0lvaWREYw?oc=5",
+     "published_at": "2026-11-16T12:01:16.000Z",
+     "amount_hint": "$24 Million",
+     "snippet": "Bharat Semi Raises $24 Million, Targets Surveillance and Consumer Devices Before Expanding AI Sensors to Robotics https://ascendants.in/",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "d3200bedb6f8",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi raises US$24 million to develop AI-enabled image sensors",
+     "publisher": "digitimes",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU3JxX1Bhc2Y5X0U3LWFkVmlHODRqMk11TGtXZzhZdVZvUlp2S3VyOGstZGtMY1dIS2tLS25MY2laTzhWWk90MWRtYTFKT0hkbFNZcVVWbWxWYmZRaXlPcG80NHk4djZuOW5Fa3hOWDZ1djBYc211Q3puVVhTaUdtOGNPTjg2aXRRQ3EtZWkxNW56YnVOWGc?oc=5",
+     "published_at": "2026-11-17T02:15:46.000Z",
+     "amount_hint": "US$24 million",
+     "snippet": "Bharat Semi raises US$24 million to develop AI-enabled image sensors digitimes",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "40b70de241bb",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi raises $24 million in seed round led by Info Edge, South Park Common",
+     "publisher": "Livemint",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOW1MMEZVX0l6Nm05VmhVQXgxU2YwSXY0MHRXN21icVpRNW9pSlU4c2Z4akJQX0ZjRWhLcm82OWw5Ynd3RnBnbF9pX2Q3cGN1Yl9pc28yNjJsRHpBRjdiTXNCSmVuWm80LURYTDRTc1o4Q1FRbWFLaWhQMkl0T1lCamdJSE5lZmt4QW9TRDRfUVpMYy1CdXhCT1pkMklpQ2xNdEM4NFdRanQ3bmxJZG5vM2U2eFV5MDdyLTE3dEd3Z19rUU5HUmplSV91Wkk4UW_SAdQBQVVfeXFMTWV3QTlLY19mOERxN3AtSkJJeEo0dnRoZDg5NXBpVENMcU8zSHgzS1llSllNR2M5Y2owaU9Ca3JCM0tiZXJDeUZSeU9MU2pILXFEUl9ubGFkYjk4N2dDUEt4UDFzVWh3QUg1RXdzYTFoR3htbGM5clJvY2tacUNzZlEyZGdxU2ZKcmVwTHdod2E0OUl2RW42UkhLVDlzOHo0dHZvZ0FVdGVfa0kwZVg5NnJ4RU9JdGRpalRrWFc1dVF0RVFScFg0SHRBYThfaUJHWXJiOFk?oc=5",
+     "published_at": "2026-11-16T00:30:46.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bharat Semi raises $24 million in seed round led by Info Edge, South Park Common Livemint",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "5fd190cc0403",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi raises $24 million seed round to build AI-powered smart sensors",
+     "publisher": "The Economic Times",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSHQwdzZaNENRNXZleUhRY2NRMXdsNnBvdFhMOFZac2hnRy1HUzZHSTZtNmZ3aXA1S2tUVnRjYy16Qi1TeXV3amNBeGRyX0Y2YndlT1lseUxJcGFGUWN5UnpwdDVZMVdDVVJmMWNaNjdsR3VlczRTV1JfYVRNNUNMSHIzZHNxSzYzYUFubkdNVmk3aXhSTk0yeDVQR0VDTUR2TXFCM2YwLUp1ZE9kbzk1bldtcHNkbklKQTNwTVhYdGhKUkNCdG12U1M3aVcyRjRBTGliX3ZnWlBRUdIB3wFBVV95cUxPWlV0aTh6dUd5cXZwUzNFSFlyMlJPM0JDYTBHMzViUWl5TUg5TXp0T3p6YnhLQkxudTIxTm1WRThiR1kyenAxNlB3aDhwOFU0Sjh3MHozdjhNYkdGTHlsSFNJeDl5dHBiWncwX0RFcWtOR3NTQnFlSHN5aXF5cTBmdkVmVVhCUjdwM1VidW9TU1FISi1xVXVCcVYwbDFVSXdrUzZLTWZ2emttQjJBMjRZdkdkNy10OURQWVhlYWx5aDYxVWd6aTlzYV90N05Kd1hycC1Kc2YtZm83c2c4cTkw?oc=5",
+     "published_at": "2026-11-16T00:30:00.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bharat Semi raises $24 million seed round to build AI-powered smart sensors The Economic Times",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "b4bd57e5a50a",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi raises $24 million in funding to build AI sensors for robots, cameras and drones",
+     "publisher": "Indian Startup News",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWUY1RlgxS1ZyUkp1aGc3N2Y4ZkRHLVJhN3hIMkJMOWVlczVQU1RmREt3SXF6eHZielJOaDBSb1p5dDI5dzRxUnpyY3Q2ZDN4ZEFhdE4ya1VkVGlOOTVzcGxjRW5aRWFFTGw0RDJsZ090bm9DVFJISmNqcUJnV2h3R1JZTEJhWkZhUUZwY2FZdFEzcWNHSmZLNWlyN2M0NEtCWkNOQkxwb0tWRl95Ymd0dE1lNW5vN1BCVnRxTkFXUFV4d1RpT0JYZWRSZmF1Tk93dmdZ0gHTAUFVX3lxTE9ZRjVGWDFLVnJSSnVoZzc3ZjhmREctUmE3eEgyQkw5ZWVzNVBTVGZES3dJcXp4dmJ6Uk5oMFJvWnl0Mjl3NHFSenJjdDZkM3hkQWF0TjJrVWRUaU45NXNwbGNFblpFYUVMbDREMmxnT3Rub0NUUkhKY2pxQmdXaHdHUllMQmFaRmFRRnBjYVl0UTNxY0dKZks1aXI3YzQ0S0JaQ05CTHBvS1ZGX3liZ3R0TWU1bm83UEJWdHFOQVdQVXh3VGlPQlhlZFJmYXVOT3d2Z1k?oc=5",
+     "published_at": "2026-11-16T05:31:40.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bharat Semi raises $24 million in funding to build AI sensors for robots, cameras and drones Indian Startup News",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "e05b1b868ab1",
+     "group_key": "bharat semi",
+     "title": "Bharat Semi lands $24 million seed round as it targets global AI sensor market",
+     "publisher": "news.lavx.hu",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVnRGbmJubS1ibEExWW40ZlA4dzJZS2VmTmwwLXY1SHMzOUcyekNXbWRGQm9jaXZDVVZYRlJLa3ZEdnJXZkFUWFZkeG8yUDJkSmNXX3M0dVNjdElPZ1duX1VsSXFXRFBWS2szQm8zNWNaRWtIYUVpVHZQNFlWLXFUWmRiUDR3N2l3bEx5Vkh0VnZNN3R0WkZySkpZbHA5blRTR0ZkUVJxLUxEdw?oc=5",
+     "published_at": "2026-11-16T08:34:48.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bharat Semi lands $24 million seed round as it targets global AI sensor market news.lavx.hu",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "bedrock energy",
+   "company_guess": "Bedrock Energy",
+   "amount_hint_usd": 24000000,
+   "articles": [
+    {
+     "id": "f4c1b0198899",
+     "group_key": "bedrock energy",
+     "title": "Exclusive: Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+     "publisher": "TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNnBJM0hWdkhObHNmNi1vRHh5WXpSck45MTJBVERGbVRjOTFGQ2JoTVhpSjU0cEZrb3pucEQ4d0Q3WWF6RjZ4dTJCbG9QbUVOSUtDUGkydE5rVklDenVzS3NrbkJFNTd2bHEyTm1XQWh0aUZjMG1OVW8wZ0xENnhrQ3FvY0ctLVQtb1Izc0czclFXbEpLSG42b183QnlpT2l5RG5ha1ByYXVuWno5NDA2eFRyUklWN0NET1hxYmI4RUVJYXN3c2dKeDNoVTI?oc=5",
+     "published_at": "2026-11-16T13:00:00.000Z",
+     "amount_hint": "$24M",
+     "snippet": "Exclusive: Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings TechCrunch",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "1c396dcbf7ea",
+     "group_key": "bedrock energy",
+     "title": "Bedrock Energy raises $24 million to build more automated geothermal drilling rigs for buildings",
+     "publisher": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQXJiaVBoQlhwN25uTjV0Q0REVURvbTd3VEhzRkF6R0x1QW1xNDJfYmVkcXl1cHFrNVVTZkZDNER1UGx6bXNKM0ZvbnlaMDRTZFRVR2dnbnRaOGw4RHQ2WGZzS01UMHdwT1c5NVVIYmZRWUJOa0tQMUtTaFNGTnMtUDY2SER4Zmd4c1dZWkY4RlpIWk9kQ0F5UnFaQjJId0pwMGFPa1hZM0E3ZllHRXZaV1M1UlZ4X1U?oc=5",
+     "published_at": "2026-11-16T14:31:58.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bedrock Energy raises $24 million to build more automated geothermal drilling rigs for buildings MLQ.ai",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "a3fab036a0b9",
+     "group_key": "bedrock energy",
+     "title": "Bedrock Energy Raises $24 Million to Mainstream Small-Scale Geothermal",
+     "publisher": "Heatmap News",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52eGlXUEJqdDFQRUp6Wl9IemNKRUw1TnpoY1pEbXd3aHFnOHJtaEZwN2ZuSW1WaUw0am12Q2F0eXlpYnpOd3JBZ1BLWTV5SHczcWwydE13U1lZNkFxNlF2NzNmU2xEa1VYb200?oc=5",
+     "published_at": "2026-11-16T13:02:07.000Z",
+     "amount_hint": "$24 Million",
+     "snippet": "Bedrock Energy Raises $24 Million to Mainstream Small-Scale Geothermal Heatmap News",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "0bfa0bd470b6",
+     "group_key": "bedrock energy",
+     "title": "Bedrock Energy Raises $24 Million to Cut Geothermal Drilling Time by Up To 80% With AI",
+     "publisher": "Ventureburn",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ1U3TnNIQzFzU0pUbk50YmprQ3cxUTdpZjRRVW9mQXFacHFDRlFURGhadHdoanVfeHBDU2FVUHVvOTRMcU1feU1hdnRZTTNub2tmNWRpSmN3cTNzRThLeTU1dVBLei1kMW1kTWNUM2lRYzVGOWl5c1Y3NmF4VWw4c244b1JrbVU0d3fSAYoBQVVfeXFMUENVN05zSEMxc1NKVG5OdGJqa0N3MVE3aWY0UVVvZkFxWnBxQ0ZRVERoWnR3aGp1X3hwQ1NhVVB1bzk0THFNX3lNYXZ0WU0zbm9rZjVkaUpjd3Ezc0U4S3k1NXVQS3otZDFtZE1jVDNpUWM1RjlpeXNWNzZheFVsOHNuOG9Sa21VNHd3?oc=5",
+     "published_at": "2026-11-16T16:40:47.000Z",
+     "amount_hint": "$24 Million",
+     "snippet": "Bedrock Energy Raises $24 Million to Cut Geothermal Drilling Time by Up To 80% With AI Ventureburn",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "7ee43469cc9d",
+     "group_key": "bedrock energy",
+     "title": "Bedrock Energy raises $24 million for AI-guided geothermal drilling rigs",
+     "publisher": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR04zdlpBeWwwMkJyRTluQ085ZGNJOW5CRHd0emh2WHUzcXFHdk4zVEFVY1NDd1dlNlI2QUVtM2tucW11ZTNReTlrYUJmZmlkdHpSRGZ2V091elZoT2ZIMk5nOFR6V0tKNGtPNUEwbUkyZTRSRGRJamVDeWMtYkc0X253a3pKZEE?oc=5",
+     "published_at": "2026-11-16T13:31:07.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Bedrock Energy raises $24 million for AI-guided geothermal drilling rigs Mezha.net",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "indian semiconductor startup",
+   "company_guess": "Indian semiconductor startup",
+   "amount_hint_usd": 24000000,
+   "articles": [
+    {
+     "id": "0518cee7e0bf",
+     "group_key": "indian semiconductor startup",
+     "title": "Indian semiconductor startup raises $24 million in seed funding",
+     "publisher": "The Daily Star",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSUY0bEh0YWlHTDJGeVVHTWNpLUJfejAzX19PUHo4MUNRUEpIT3B3UkNjOWNnVWxCbWp1OW01UUlWcm1fSDIzelItZTNrcTFFcktPc0stelNTWEJ6VXoxUjZmcjkzQUp1SktIdVlvTTZDYUtwT1ZYbGJUUDUtSlViXzVzSjFJaTQwdG91WWVScFA1T1lxNFc3aVl3d1g5TTZwdnJzeEdWX2ZvQUJJbGdBT180dzhJemJm?oc=5",
+     "published_at": "2026-11-16T16:10:31.000Z",
+     "amount_hint": "$24 million",
+     "snippet": "Indian semiconductor startup raises $24 million in seed funding The Daily Star",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "o15 capital",
+   "company_guess": "o15 Capital",
+   "amount_hint_usd": 23600000,
+   "articles": [
+    {
+     "id": "7fb9f16b53c9",
+     "group_key": "o15 capital",
+     "title": "o15 Capital Partners Provides Unitranche Facility and Equity Co-Investment to Support Bluestone Equity Partners' Acquisition of 11th St. Workshop",
+     "publisher": "",
+     "url": "https://www.prnewswire.com/news-releases/o15-capital-partners-provides-unitranche-facility-and-equity-co-investment-to-support-bluestone-equity-partners-acquisition-of-11th-st-workshop-302942496.html",
+     "published_at": "2026-11-17T16:45:00.000Z",
+     "amount_hint": "$23.6 million",
+     "snippet": "ATLANTA, Nov. 17, 2026 /PRNewswire/ -- o15 Capital Partners (\"o15\"), through its Emerging America Credit Opportunities (\"EACO\") fund, is pleased to announce a senior secured \"last-out\" term loan as part of a $23.6 million unitranche facility, along with an equity co-investment, to support...",
+     "text_status": "ok",
+     "text": "o15 Capital Partners Provides Unitranche Facility and Equity Co-Investment to Support Bluestone Equity Partners' Acquisition of 11th St. Workshop\nNews provided by\no15 Capital Partners\nNov 17, 2026, 11:45 ET\nShare this article\nShare this article\nATLANTA , Nov. 17, 2026 /PRNewswire/ -- o15 Capital Partners (\"o15\"), through its Emerging America Credit Opportunities (\"EACO\") fund, is pleased to announce a senior secured \"last-out\" term loan as part of a $23.6 million unitranche facility, along with an equity co-investment, to support the acquisition of 11 th St. Workshop by Bluestone Equity Partners (\"Bluestone\").\n11 th St. Workshop is a leading design and fabrication platform that builds the physical environments behind marquee brand activations for blue-chip agency and brand customers.\n\"11th St. Workshop has built a differentiated platform at the intersection of creative design and highly specialized physical execution, supported by a blue-chip customer base and a reputation for delivering complex, high-profile activations,\" said Harry Savage, Principal at o15. \"We're excited to partner with the Bluestone and 11th St. Workshop teams as the Company builds a leading national platform.\"\nThe transaction reflects o15's focus on partnering with experienced sponsors to provide flexible capital to high-quality lower-middle-market businesses with differentiated market positions and compelling opportunities to scale. Bluestone's investment will support 11th St. Workshop's next phase of growth through investments in capacity and service offerings while maintaining its reputation for quality and customer service.\n\"Experiential marketing is one of the fastest-growing areas of advertising spend, and 11th St. Workshop is a trusted partner for agencies and brands on their most high-profile builds,\" said Shaaz Khan, Senior Vice President at Bluestone. \"The o15 team delivered a flexible financing package to support our acquisition, and we look forward to partnering with them to enable the Company's long-term growth.\"\nAbout o15 Capital Partners\nBased in Atlanta, o15 Capital Partners is an alternative investment firm that provides growth capital to undercapitalized lower-middle-market businesses and communities in the Healthcare, Education and Business Services industries.\nTo learn more about o15 Capital Partners or discuss a new investment opportunity, please visit and follow us on LinkedIn , or reach out to a member of our investment team.\nNew Business and Media Inquiries: [email protected]\nDisclaimer : The information herein should not be construed as investment advice or a recommendation of any security, investment, or investment strategy. References to this investment are for illustrative purposes only, are not representative of all investments made by o15, and should not be construed as a recommendation of any particular investment or investment strategy. Other investments made by o15 have had, and future investments may have, different characteristics and results.\nSOURCE o15 Capital Partners\n&times;\nModal title"
+    }
+   ]
+  },
+  {
+   "group_key": "intergrid",
+   "company_guess": "Intergrid",
+   "amount_hint_usd": 23500000,
+   "articles": [
+    {
+     "id": "beda9ba19635",
+     "group_key": "intergrid",
+     "title": "Intergrid lands €23.5M to develop a ‘self-driving car’ for factory energy management",
+     "publisher": "Sofia Chesnokova",
+     "url": "https://techfundingnews.com/intergrid-23-5m-autopilot-industrial-energy-management/",
+     "published_at": "2026-11-16T05:00:00.000Z",
+     "amount_hint": "€23.5M",
+     "snippet": "Olli Kangas spent over 8 years working with industrial companies: two years as a consultant at BCG, then…",
+     "text_status": "thin",
+     "text": "November 17, 2026\nCable car and ropeway market: saturated, or still room to invest?\nby Editorial team"
+    }
+   ]
+  },
+  {
+   "group_key": "mass general brigham spin off",
+   "company_guess": "Mass General Brigham spin-off",
+   "amount_hint_usd": 22000000,
+   "articles": [
+    {
+     "id": "331c83404123",
+     "group_key": "mass general brigham spin off",
+     "title": "Mass General Brigham spin-off launches with $22M seed round",
+     "publisher": "The Business Journals",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd25JUFpIRnQwaVVrTDlINVRSYUhiaGV5UnVIRHgtZ3RZNHU3Q3NrdnN0ZWl4UFcxZTJHMlpaZ1lqUGc1OXJ2Q01IdkRoYUVJRTU2ZW9rRFQ2Q2xGUEszS3RBWmZGSkFUejBTMExtMFRjbmVSY2FQbjRlNkRfdldLelhyU3JMNnRBc0dmc2xRVTFMZXg4amZ2YXotZTY5N2w2?oc=5",
+     "published_at": "2026-11-17T19:01:00.000Z",
+     "amount_hint": "$22M",
+     "snippet": "Mass General Brigham spin-off launches with $22M seed round The Business Journals",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "aevius",
+   "company_guess": "Aevius",
+   "amount_hint_usd": 22000000,
+   "articles": [
+    {
+     "id": "62ceca046e57",
+     "group_key": "aevius",
+     "title": "Aevius raises $22M seed for whole-patient medical AI",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdGJKcVFsbUNGX1JKOW1NX2tRRU55SUlBRHVOczRyNmF2UjdBZUdJOVRoanhiZk5aRW9XVm1saWZGNHhqdzVoTVlpLW0tbzVldzl1LXlvS25QVWxrd3hvVkU4OE54R05mTVh3LXBnazU0Q0JTbHJsMHZMYU12dDFGdmZkNlF0aGFWMC1BZy1R?oc=5",
+     "published_at": "2026-11-17T11:58:17.000Z",
+     "amount_hint": "$22M",
+     "snippet": "Aevius raises $22M seed for whole-patient medical AI Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "b2d96fe4b648",
+     "group_key": "aevius",
+     "title": "Aevius Launches With $22 Million in Funding Led by Insight Partners to Advance Medical AI",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORks0TmVsdGpZblVfSXFZTnpjN19xZXlUbVJIZEROOHF6SEdtNzB1NHhFc2RjdTRBVzQyc2tMb0k1aDAwbWUyV0ZNUHJ3UURkaVFwNmhIdlMxSEs0Z29mbDJVcFAwQVFOZFdpRVVRS3V6VDQwSUFrbGhRZVJyVEJjd3FEd1BDZVFQb1A4aHdtVWlrVGZWOEVtVjBNZUZhLXBaalR3N2xfT1pobHh1dWZDczBpekk2TmFxQldWMm1VQXAxYVBUSnc?oc=5",
+     "published_at": "2026-11-17T14:14:47.000Z",
+     "amount_hint": "$22 Million",
+     "snippet": "Aevius Launches With $22 Million in Funding Led by Insight Partners to Advance Medical AI citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "200f41c7787f",
+     "group_key": "aevius",
+     "title": "Aevius Launches with $22 Million in Funding to Make Medicine Computable",
+     "publisher": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQmROS0doTjBnd2dWNzlUZy1tRmFrNmVOSzFDbWlWZ254YnVScmtlbGlxWFdKWUswazhQaHNRWDQ1OFFyYTFJU3B4UEVJd21vSEVqbGdRSE84R3NpZktPaVRwa0JUeU1KdVFLVnJmUy1tLTE5Rzd4Vzc0QlU2akdwYkJsdm1kSzNheUd2Q0dWX2ZDYmx4Tnc1cEVEWFNrRGtObXY1MV9vc3B3aXBONFcwclk1TWlMSjVrdWltOTNKNjVIRlVIbUpSUkNR?oc=5",
+     "published_at": "2026-11-17T13:00:00.000Z",
+     "amount_hint": "$22 Million",
+     "snippet": "Aevius Launches with $22 Million in Funding to Make Medicine Computable Business Wire",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "fairly",
+   "company_guess": "Fairly",
+   "amount_hint_usd": 22000000,
+   "articles": [
+    {
+     "id": "278f53b6691e",
+     "group_key": "fairly",
+     "title": "Portland startup Fairly raises $22M to pair local caretakers with AI for vacation rentals",
+     "publisher": "GeekWire",
+     "url": "https://www.geekwire.com/2026/portland-startup-fairly-raises-22m-to-pair-local-caretakers-with-ai-for-vacation-rentals/",
+     "published_at": "2026-11-17T11:00:00.000Z",
+     "amount_hint": "$22M",
+     "snippet": "Portland startup Fairly raises $22M to pair local caretakers with AI for vacation rentals GeekWire",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "hardwick tactical",
+   "company_guess": "Hardwick Tactical",
+   "amount_hint_usd": 20200000,
+   "articles": [
+    {
+     "id": "7b954408dc97",
+     "group_key": "hardwick tactical",
+     "title": "Hardwick Tactical Receives Maximum $20.2 Million DLA Air Force Jacket Contract",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/hardwick-tactical-receives-maximum-20-2-million-dla-air-force-jacket-contract/",
+     "published_at": "2026-11-17T16:04:43.000Z",
+     "amount_hint": "$20.2 Million",
+     "snippet": "Hardwick Tactical has received a fixed-price, indefinite-delivery/indefinite-quantity contract with a maximum value of approximately $20.2 million to produce flame-resistant intermediate-weather jackets for the Air Force.\nThe post Hardwick Tactical Receives Maximum $20.2 Million DLA Air Force Jacket Contract appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Hardwick Tactical Receives Maximum $20.2 Million DLA Air Force Jacket Contract\nBy Amit Chowdhry\nToday at 11:04 AM\nHardwick Tactical Receives Maximum $20.2 Million DLA Air Force Jacket Contract\nHardwick Tactical has received a fixed-price, indefinite-delivery/indefinite-quantity contract with a maximum value of approximately $20.2 million to produce flame-resistant intermediate-weather jackets for the Air Force.\nThe Mayaguez, Puerto Rico-based small business will manufacture intermediate weather outer-layer jackets in sage and operational camouflage pattern configurations.\nThe five-year contract includes no option periods. Its ordering period will conclude on November 11, 2031.\nThe procurement was competitive, with one response received. The Defense Logistics Agency reported the acquisition as competitive despite receiving a single offer.\nFunding will come from fiscal 2027 through 2032 defense working capital funds. The announcement does not identify an initial order, obligation, or guaranteed minimum amount.\nAccordingly, the approximately $20.2 million represents the contract’s maximum ordering ceiling rather than guaranteed revenue to Hardwick Tactical. Actual payments will depend on the quantities DLA orders during the five-year period.\nThe Air Force is the military customer identified for the garments. Intermediate-weather outer layers provide protection in cooler or changing conditions while allowing service members to perform operational duties.\nThe flame-resistant requirement is particularly important for personnel working near aircraft, fuel, machinery, or other environments where exposure to fire or thermal hazards may occur.\nOffering the garment in sage and operational camouflage pattern versions allows DLA to support different uniform and mission requirements.\nDLA Troop Support in Philadelphia is the contracting activity for contract SPE1C1-27-D-0014. The organization manages military clothing and textile supply chains, including the procurement of uniforms, protective apparel, and related materials.\nThe IDIQ structure gives the agency flexibility to place orders based on inventory levels, deployment requirements, sizing demand, and other operational needs.\nThe award adds a long-term Air Force apparel contract to Hardwick Tactical’s production portfolio while preserving its federal designation as a small business.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  }
+ ]
+}
