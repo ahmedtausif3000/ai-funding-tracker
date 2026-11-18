@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-10T06:15:26.532Z",
-  "last_run": "recall-2026-10-01_2026-10-22",
-  "total_rounds": 722,
-  "in_view": 194,
+  "generated_at": "2026-11-18T06:43:17.211Z",
+  "last_run": "catchup-2026-11-10_2026-11-17",
+  "total_rounds": 1105,
+  "in_view": 248,
   "week": {
-    "count": 18,
-    "total_usd": 14766100000,
+    "count": 31,
+    "total_usd": 18452300000,
     "largest": {
       "company": "OpenAI",
-      "amount_usd": 11000000000
+      "amount_usd": 15000000000
     }
   },
   "scope": {
@@ -128,6 +128,1286 @@
         "candidates": 6,
         "articles_fetched": 5,
         "google_rate_limited": false
+      }
+    },
+    {
+      "run_date": "2026-11-10",
+      "superseded_by": "catchup-2026-11-10_2026-11-17",
+      "note": "candidates combined into the catch-up run; not merged on their own",
+      "fetch": {
+        "feeds": [
+          {
+            "id": "gnews-1",
+            "status": 200,
+            "items": 62
+          },
+          {
+            "id": "gnews-2",
+            "status": 200,
+            "items": 19
+          },
+          {
+            "id": "gnews-3",
+            "status": 200,
+            "items": 28
+          },
+          {
+            "id": "gnews-4",
+            "status": 200,
+            "items": 26
+          },
+          {
+            "id": "gnews-5",
+            "status": 200,
+            "items": 27
+          },
+          {
+            "id": "gnews-6",
+            "status": 200,
+            "items": 28
+          },
+          {
+            "id": "gnews-7",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-8",
+            "status": 200,
+            "items": 7
+          },
+          {
+            "id": "gnews-g1",
+            "status": 200,
+            "items": 27
+          },
+          {
+            "id": "gnews-g2",
+            "status": 200,
+            "items": 15
+          },
+          {
+            "id": "gnews-g3",
+            "status": 200,
+            "items": 28
+          },
+          {
+            "id": "gnews-g4",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-g5",
+            "status": 200,
+            "items": 27
+          },
+          {
+            "id": "gnews-g6",
+            "status": 200,
+            "items": 27
+          },
+          {
+            "id": "gnews-g7",
+            "status": 200,
+            "items": 23
+          },
+          {
+            "id": "gnews-g8",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "gnews-g9",
+            "status": 200,
+            "items": 34
+          },
+          {
+            "id": "prnewswire-vc",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "alleywatch",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "pulse2",
+            "status": 200,
+            "items": 120
+          },
+          {
+            "id": "citybiz",
+            "status": 200,
+            "items": 60
+          },
+          {
+            "id": "techcrunch-venture",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-funding",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-ai",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techfundingnews",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "crunchbase-news",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "crunchbase-news-ai",
+            "status": 200,
+            "items": 10
+          }
+        ],
+        "raw_items": 709,
+        "prefiltered": 216,
+        "dropped": {
+          "not_funding": 205,
+          "no_ai_hint": 57,
+          "below_min": 62,
+          "fund_close": 7,
+          "seen": 53,
+          "duplicate_link": 109,
+          "known_round": 28
+        },
+        "groups": 117,
+        "selected_groups": 103,
+        "candidates": 188,
+        "articles_fetched": 65,
+        "google_rate_limited": true
+      }
+    },
+    {
+      "run_date": "2026-11-11",
+      "superseded_by": "catchup-2026-11-10_2026-11-17",
+      "note": "candidates combined into the catch-up run; not merged on their own",
+      "fetch": {
+        "feeds": [
+          {
+            "id": "gnews-1",
+            "status": 200,
+            "items": 82
+          },
+          {
+            "id": "gnews-2",
+            "status": 200,
+            "items": 33
+          },
+          {
+            "id": "gnews-3",
+            "status": 200,
+            "items": 37
+          },
+          {
+            "id": "gnews-4",
+            "status": 200,
+            "items": 28
+          },
+          {
+            "id": "gnews-5",
+            "status": 200,
+            "items": 27
+          },
+          {
+            "id": "gnews-6",
+            "status": 200,
+            "items": 31
+          },
+          {
+            "id": "gnews-7",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-8",
+            "status": 200,
+            "items": 6
+          },
+          {
+            "id": "gnews-g1",
+            "status": 200,
+            "items": 25
+          },
+          {
+            "id": "gnews-g2",
+            "status": 200,
+            "items": 26
+          },
+          {
+            "id": "gnews-g3",
+            "status": 200,
+            "items": 26
+          },
+          {
+            "id": "gnews-g4",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-g5",
+            "status": 200,
+            "items": 26
+          },
+          {
+            "id": "gnews-g6",
+            "status": 200,
+            "items": 26
+          },
+          {
+            "id": "gnews-g7",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "gnews-g8",
+            "status": 200,
+            "items": 15
+          },
+          {
+            "id": "gnews-g9",
+            "status": 200,
+            "items": 26
+          },
+          {
+            "id": "prnewswire-vc",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "alleywatch",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "pulse2",
+            "status": 200,
+            "items": 120
+          },
+          {
+            "id": "citybiz",
+            "status": 200,
+            "items": 60
+          },
+          {
+            "id": "techcrunch-venture",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-funding",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-ai",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techfundingnews",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "crunchbase-news",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "crunchbase-news-ai",
+            "status": 200,
+            "items": 10
+          }
+        ],
+        "raw_items": 756,
+        "prefiltered": 257,
+        "dropped": {
+          "not_funding": 203,
+          "no_ai_hint": 48,
+          "below_min": 67,
+          "fund_close": 9,
+          "seen": 8,
+          "duplicate_link": 164,
+          "known_round": 27
+        },
+        "groups": 122,
+        "selected_groups": 106,
+        "candidates": 230,
+        "articles_fetched": 63,
+        "google_rate_limited": true
+      }
+    },
+    {
+      "run_date": "2026-11-12",
+      "superseded_by": "catchup-2026-11-10_2026-11-17",
+      "note": "candidates combined into the catch-up run; not merged on their own",
+      "fetch": {
+        "feeds": [
+          {
+            "id": "gnews-1",
+            "status": 200,
+            "items": 89
+          },
+          {
+            "id": "gnews-2",
+            "status": 200,
+            "items": 42
+          },
+          {
+            "id": "gnews-3",
+            "status": 200,
+            "items": 42
+          },
+          {
+            "id": "gnews-4",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-5",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-6",
+            "status": 200,
+            "items": 31
+          },
+          {
+            "id": "gnews-7",
+            "status": 200,
+            "items": 28
+          },
+          {
+            "id": "gnews-8",
+            "status": 200,
+            "items": 7
+          },
+          {
+            "id": "gnews-g1",
+            "status": 200,
+            "items": 32
+          },
+          {
+            "id": "gnews-g2",
+            "status": 200,
+            "items": 27
+          },
+          {
+            "id": "gnews-g3",
+            "status": 200,
+            "items": 23
+          },
+          {
+            "id": "gnews-g4",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-g5",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-g6",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "gnews-g7",
+            "status": 200,
+            "items": 16
+          },
+          {
+            "id": "gnews-g8",
+            "status": 200,
+            "items": 27
+          },
+          {
+            "id": "gnews-g9",
+            "status": 200,
+            "items": 27
+          },
+          {
+            "id": "prnewswire-vc",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "alleywatch",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "pulse2",
+            "status": 200,
+            "items": 120
+          },
+          {
+            "id": "citybiz",
+            "status": 200,
+            "items": 60
+          },
+          {
+            "id": "techcrunch-venture",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-funding",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-ai",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techfundingnews",
+            "status": 200,
+            "items": 40
+          },
+          {
+            "id": "crunchbase-news",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "crunchbase-news-ai",
+            "status": 200,
+            "items": 10
+          }
+        ],
+        "raw_items": 800,
+        "prefiltered": 279,
+        "dropped": {
+          "not_funding": 238,
+          "no_ai_hint": 41,
+          "below_min": 80,
+          "fund_close": 11,
+          "seen": 0,
+          "duplicate_link": 151,
+          "known_round": 18
+        },
+        "groups": 138,
+        "selected_groups": 131,
+        "candidates": 261,
+        "articles_fetched": 71,
+        "google_rate_limited": true
+      }
+    },
+    {
+      "run_date": "2026-11-13",
+      "superseded_by": "catchup-2026-11-10_2026-11-17",
+      "note": "candidates combined into the catch-up run; not merged on their own",
+      "fetch": {
+        "feeds": [
+          {
+            "id": "gnews-1",
+            "status": 200,
+            "items": 71
+          },
+          {
+            "id": "gnews-2",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-3",
+            "status": 200,
+            "items": 37
+          },
+          {
+            "id": "gnews-4",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-5",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-6",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-7",
+            "status": 200,
+            "items": 27
+          },
+          {
+            "id": "gnews-8",
+            "status": 200,
+            "items": 9
+          },
+          {
+            "id": "gnews-g1",
+            "status": 200,
+            "items": 31
+          },
+          {
+            "id": "gnews-g2",
+            "status": 200,
+            "items": 25
+          },
+          {
+            "id": "gnews-g3",
+            "status": 200,
+            "items": 22
+          },
+          {
+            "id": "gnews-g4",
+            "status": 200,
+            "items": 28
+          },
+          {
+            "id": "gnews-g5",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-g6",
+            "status": 200,
+            "items": 23
+          },
+          {
+            "id": "gnews-g7",
+            "status": 200,
+            "items": 17
+          },
+          {
+            "id": "gnews-g8",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-g9",
+            "status": 200,
+            "items": 27
+          },
+          {
+            "id": "prnewswire-vc",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "alleywatch",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "pulse2",
+            "status": 200,
+            "items": 120
+          },
+          {
+            "id": "citybiz",
+            "status": 200,
+            "items": 60
+          },
+          {
+            "id": "techcrunch-venture",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-funding",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-ai",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techfundingnews",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "crunchbase-news",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "crunchbase-news-ai",
+            "status": 200,
+            "items": 10
+          }
+        ],
+        "raw_items": 754,
+        "prefiltered": 256,
+        "dropped": {
+          "not_funding": 245,
+          "no_ai_hint": 47,
+          "below_min": 73,
+          "fund_close": 10,
+          "seen": 0,
+          "duplicate_link": 123,
+          "known_round": 11
+        },
+        "groups": 124,
+        "selected_groups": 121,
+        "candidates": 245,
+        "articles_fetched": 78,
+        "google_rate_limited": true
+      }
+    },
+    {
+      "run_date": "2026-11-14",
+      "superseded_by": "catchup-2026-11-10_2026-11-17",
+      "note": "candidates combined into the catch-up run; not merged on their own",
+      "fetch": {
+        "feeds": [
+          {
+            "id": "gnews-1",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-2",
+            "status": 200,
+            "items": 28
+          },
+          {
+            "id": "gnews-3",
+            "status": 200,
+            "items": 28
+          },
+          {
+            "id": "gnews-4",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-5",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-6",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-7",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-8",
+            "status": 200,
+            "items": 9
+          },
+          {
+            "id": "gnews-g1",
+            "status": 200,
+            "items": 21
+          },
+          {
+            "id": "gnews-g2",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "gnews-g3",
+            "status": 200,
+            "items": 18
+          },
+          {
+            "id": "gnews-g4",
+            "status": 200,
+            "items": 18
+          },
+          {
+            "id": "gnews-g5",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-g6",
+            "status": 200,
+            "items": 27
+          },
+          {
+            "id": "gnews-g7",
+            "status": 200,
+            "items": 21
+          },
+          {
+            "id": "gnews-g8",
+            "status": 200,
+            "items": 18
+          },
+          {
+            "id": "gnews-g9",
+            "status": 200,
+            "items": 25
+          },
+          {
+            "id": "prnewswire-vc",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "alleywatch",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "pulse2",
+            "status": 200,
+            "items": 120
+          },
+          {
+            "id": "citybiz",
+            "status": 200,
+            "items": 60
+          },
+          {
+            "id": "techcrunch-venture",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-funding",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-ai",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techfundingnews",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "crunchbase-news",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "crunchbase-news-ai",
+            "status": 200,
+            "items": 10
+          }
+        ],
+        "raw_items": 651,
+        "prefiltered": 195,
+        "dropped": {
+          "not_funding": 251,
+          "no_ai_hint": 42,
+          "below_min": 61,
+          "fund_close": 11,
+          "seen": 0,
+          "duplicate_link": 91,
+          "known_round": 12
+        },
+        "groups": 119,
+        "selected_groups": 112,
+        "candidates": 183,
+        "articles_fetched": 65,
+        "google_rate_limited": true
+      }
+    },
+    {
+      "run_date": "2026-11-15",
+      "superseded_by": "catchup-2026-11-10_2026-11-17",
+      "note": "candidates combined into the catch-up run; not merged on their own",
+      "fetch": {
+        "feeds": [
+          {
+            "id": "gnews-1",
+            "status": 200,
+            "items": 28
+          },
+          {
+            "id": "gnews-2",
+            "status": 200,
+            "items": 31
+          },
+          {
+            "id": "gnews-3",
+            "status": 200,
+            "items": 31
+          },
+          {
+            "id": "gnews-4",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-5",
+            "status": 200,
+            "items": 14
+          },
+          {
+            "id": "gnews-6",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-7",
+            "status": 200,
+            "items": 33
+          },
+          {
+            "id": "gnews-8",
+            "status": 200,
+            "items": 5
+          },
+          {
+            "id": "gnews-g1",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "gnews-g2",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "gnews-g3",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "gnews-g4",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "gnews-g5",
+            "status": 200,
+            "items": 23
+          },
+          {
+            "id": "gnews-g6",
+            "status": 200,
+            "items": 19
+          },
+          {
+            "id": "gnews-g7",
+            "status": 200,
+            "items": 23
+          },
+          {
+            "id": "gnews-g8",
+            "status": 200,
+            "items": 8
+          },
+          {
+            "id": "gnews-g9",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "prnewswire-vc",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "alleywatch",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "pulse2",
+            "status": 200,
+            "items": 60
+          },
+          {
+            "id": "citybiz",
+            "status": 200,
+            "items": 60
+          },
+          {
+            "id": "techcrunch-venture",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-funding",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-ai",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techfundingnews",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "crunchbase-news",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "crunchbase-news-ai",
+            "status": 200,
+            "items": 10
+          }
+        ],
+        "raw_items": 487,
+        "prefiltered": 117,
+        "dropped": {
+          "not_funding": 190,
+          "no_ai_hint": 29,
+          "below_min": 19,
+          "fund_close": 5,
+          "seen": 3,
+          "duplicate_link": 124,
+          "known_round": 8
+        },
+        "groups": 88,
+        "selected_groups": 81,
+        "candidates": 109,
+        "articles_fetched": 57,
+        "google_rate_limited": true
+      }
+    },
+    {
+      "run_date": "2026-11-16",
+      "superseded_by": "catchup-2026-11-10_2026-11-17",
+      "note": "candidates combined into the catch-up run; not merged on their own",
+      "fetch": {
+        "feeds": [
+          {
+            "id": "gnews-1",
+            "status": 429,
+            "items": 0
+          },
+          {
+            "id": "gnews-2",
+            "status": 200,
+            "items": 37
+          },
+          {
+            "id": "gnews-3",
+            "status": 200,
+            "items": 34
+          },
+          {
+            "id": "gnews-4",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-5",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-6",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-7",
+            "status": 200,
+            "items": 31
+          },
+          {
+            "id": "gnews-8",
+            "status": 200,
+            "items": 9
+          },
+          {
+            "id": "gnews-g1",
+            "status": 429,
+            "items": 0
+          },
+          {
+            "id": "gnews-g2",
+            "status": 429,
+            "items": 0
+          },
+          {
+            "id": "gnews-g3",
+            "status": 429,
+            "items": 0
+          },
+          {
+            "id": "gnews-g4",
+            "status": 200,
+            "items": 27
+          },
+          {
+            "id": "gnews-g5",
+            "status": 200,
+            "items": 28
+          },
+          {
+            "id": "gnews-g6",
+            "status": 200,
+            "items": 25
+          },
+          {
+            "id": "gnews-g7",
+            "status": 200,
+            "items": 18
+          },
+          {
+            "id": "gnews-g8",
+            "status": 429,
+            "items": 0
+          },
+          {
+            "id": "gnews-g9",
+            "status": 429,
+            "items": 0
+          },
+          {
+            "id": "prnewswire-vc",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "alleywatch",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "pulse2",
+            "status": 200,
+            "items": 120
+          },
+          {
+            "id": "citybiz",
+            "status": 200,
+            "items": 60
+          },
+          {
+            "id": "techcrunch-venture",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-funding",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-ai",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techfundingnews",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "crunchbase-news",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "crunchbase-news-ai",
+            "status": 200,
+            "items": 10
+          }
+        ],
+        "raw_items": 534,
+        "prefiltered": 150,
+        "dropped": {
+          "not_funding": 199,
+          "no_ai_hint": 33,
+          "below_min": 49,
+          "fund_close": 10,
+          "seen": 1,
+          "duplicate_link": 92,
+          "known_round": 7
+        },
+        "groups": 82,
+        "selected_groups": 75,
+        "candidates": 143,
+        "articles_fetched": 48,
+        "google_rate_limited": true
+      }
+    },
+    {
+      "run_date": "2026-11-17",
+      "superseded_by": "catchup-2026-11-10_2026-11-17",
+      "note": "candidates combined into the catch-up run; not merged on their own",
+      "fetch": {
+        "feeds": [
+          {
+            "id": "gnews-1",
+            "status": 200,
+            "items": 100
+          },
+          {
+            "id": "gnews-2",
+            "status": 200,
+            "items": 51
+          },
+          {
+            "id": "gnews-3",
+            "status": 200,
+            "items": 61
+          },
+          {
+            "id": "gnews-4",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-5",
+            "status": 200,
+            "items": 28
+          },
+          {
+            "id": "gnews-6",
+            "status": 200,
+            "items": 18
+          },
+          {
+            "id": "gnews-7",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-8",
+            "status": 200,
+            "items": 8
+          },
+          {
+            "id": "gnews-g1",
+            "status": 200,
+            "items": 42
+          },
+          {
+            "id": "gnews-g2",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-g3",
+            "status": 200,
+            "items": 12
+          },
+          {
+            "id": "gnews-g4",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-g5",
+            "status": 200,
+            "items": 37
+          },
+          {
+            "id": "gnews-g6",
+            "status": 200,
+            "items": 27
+          },
+          {
+            "id": "gnews-g7",
+            "status": 200,
+            "items": 19
+          },
+          {
+            "id": "gnews-g8",
+            "status": 200,
+            "items": 19
+          },
+          {
+            "id": "gnews-g9",
+            "status": 200,
+            "items": 32
+          },
+          {
+            "id": "prnewswire-vc",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "alleywatch",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "pulse2",
+            "status": 200,
+            "items": 120
+          },
+          {
+            "id": "citybiz",
+            "status": 200,
+            "items": 60
+          },
+          {
+            "id": "techcrunch-venture",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-funding",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-ai",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techfundingnews",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "crunchbase-news",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "crunchbase-news-ai",
+            "status": 200,
+            "items": 10
+          }
+        ],
+        "raw_items": 830,
+        "prefiltered": 297,
+        "dropped": {
+          "not_funding": 173,
+          "no_ai_hint": 64,
+          "below_min": 129,
+          "fund_close": 8,
+          "seen": 0,
+          "duplicate_link": 159,
+          "known_round": 9
+        },
+        "groups": 126,
+        "selected_groups": 122,
+        "candidates": 288,
+        "articles_fetched": 69,
+        "google_rate_limited": true
       }
     }
   ]

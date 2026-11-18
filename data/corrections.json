@@ -115,5 +115,22 @@
  "b2199b651e": {
   "exclude_reason": "duplicate",
   "note": "Early September report of the Upwind round that closed as a $400M Series C on 2026-10-28 (id 12cabeaa0c)."
+ },
+ "f8d05bb122": {
+  "amount_usd": 45000000,
+  "note": "Edelbyte raised $70M in total: a $45M Series A (this row) plus a $25M seed (id f69de392bc). The $70M figure is the combined headline."
+ },
+ "e70dd936c2": {
+  "exclude_reason": "duplicate",
+  "note": "$140M headline = the $100M Series B (id 42138f1b68) plus $40M Stifel venture debt."
+ },
+ "93170cfd19": {
+  "amount_usd": 104000000,
+  "note": "Sources conflict ($104M in the announcement headline and two outlets, $140M in one outlet); kept the announcement figure."
+ },
+ "7742b98459": {
+  "amount_usd": 15000000000,
+  "announced_date": "2026-11-13",
+  "note": "Reports on 2026-11-13/14 put the amount raised at $15B; the earlier $11B figure was the 2026-11-06 report of the same round."
  }
 }

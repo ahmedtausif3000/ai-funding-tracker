@@ -15,7 +15,11 @@ Pipeline (zero runtime dependencies, Node 20+):
 
 ## Daily automation
 
-Two jobs. (1) GitHub Actions `fetch-candidates` runs at 13:00 UTC and commits `data/runs/<date>/candidates.json` + `parts/` (the Claude cloud sandbox blocks outbound connections to the feed hosts, so fetching lives here). (2) A Claude Code scheduled task (cloud routine) runs `ROUTINE_PROMPT.md` at 6:00 AM Pacific: extraction from the committed parts, validate, merge, build, commit to `main`. GitHub Pages then redeploys `docs/`. Manage it at https://claude.ai/code/routines. Each run leaves `data/runs/<date>/summary.md`.
+Two jobs that are deliberately decoupled. (1) GitHub Actions `fetch-candidates` runs at 04:17 and 12:17 UTC and commits `data/runs/<label>/candidates.json` + `parts/` (the Claude cloud sandbox blocks outbound connections to the feed hosts, so fetching lives here). The label is the UTC date; a second fetch on the same day gets a `-HHMM` suffix. (2) A Claude Code scheduled task (cloud routine) runs `ROUTINE_PROMPT.md` at 6:00 AM and 3:00 PM Pacific. It does not look at dates: `node scripts/pending-runs.mjs` lists every run folder that has parts but no `merge-summary.json`, and the routine extracts, validates, merges, builds and pushes whatever is pending (combining several pending folders with `scripts/combine-runs.mjs` first). Extraction is written per part (`extracted.part-NN.json`) and pushed every third part, so an interrupted session resumes. GitHub Pages then redeploys `docs/`. Manage the routine at https://claude.ai/code/routines. Each processed run leaves `data/runs/<label>/summary.md`.
+
+Why it is built this way: GitHub starts scheduled workflows late. For Nov 10 to 17, 2026 the 13:00 UTC fetch started between 18:36 and 22:44 UTC every day, after the routine had already run, and the routine at the time only looked for today's folder, so eight days of candidates were never extracted. Nothing in the pipeline may depend on the fetch landing before a deadline.
+
+If the page looks stale: run `node scripts/pending-runs.mjs` (pending folders mean the routine has not processed them; check its runs at the link above), and `gh run list --workflow fetch-candidates` (no recent runs means GitHub disabled or skipped the schedule; `gh workflow run fetch-candidates` starts one).
 
 To run a day by hand: `npm run fetch -- --days 2`, write `extracted.json` per the contract, then validate, merge, build, commit, push.
 

@@ -1,0 +1,2094 @@
+{
+  "run_date": "catchup-2026-11-10_2026-11-17",
+  "extractor": "parallel agent parts 06-10",
+  "notes": "Parts 06-10 (50 groups, 53 rows). Merged groups (one row each, per rule 3): Mirendil = mirendil + this startup 2 (WSJ headline); Plural fund = plural + early helsing and proxima; Corma = corma 1b valuation + corma hits 1b three + cybersecurity; Sofinnova fund = sofinnova + sofinnovas graziano seghezzi; Fractile = with 720m round + fractile; Paladin Energy = paladin + t pdn successfully completes a 525; Torus = torus + utah based startup (Bloomberg headline); Agile Robots = softbank led agile robots + softbank leads 500 million + germanys agile robots. Round-ups expanded: weeks 10 biggest funding (Crunchbase News, Nov 7-13, read from the stored text only) -> Path Robotics, LangChain, Nominal, Imprint, Mavria, Delix Therapeutics, Rox as own rows dated to the article day unless a lookup gave the date; its Mirendil, Mercor, Torus and Databento items were folded into those groups' rows. cee startup (The Recursive weekly) -> Biomatter, Kardi AI, Hedepy, Valkyrie Dynamics, Kinderpedia, DeltaGen (acquired by Worker.ai), BlackPeak Capital (fund first close); its UFORCE item was folded into the uforce row; Bitspiration VC (fund still being prepared) and Lexroom (product launch) were skipped. six anz startups that -> only Q-CTRL has figures in the stored text; Alta, Vudoo, Refilled, Provectus Algae and Aimer Farming are named without amounts, so no rows. Two rows for Edelbyte (from stealth to a): $25M seed and $45M Series A announced together as $70M; HQ set to US under the dual-HQ rule (offices in Tel Aviv and San Francisco; one outlet calls it an Israeli startup), worth a human check. Mavria: $130M is the stated pre-seed plus seed total; coverage found by lookup puts the Paradigm-led seed itself at about $100M. Emulate: round is reported by Sifted, not announced; leads come from the fetched MLQ article citing the FT, and the validator may drop them because the source URL is the candidate URL. Positron AI is an award release that recaps its September Series C (not-funding). Twelve is a re-dated blog post about its 2024 $645M financing (not-funding; date set to the post date so the row validates). Private-company debt (Resolven, Stonebriar ABS, Panamint project loan, Peak 10 facility) is kept as Debt/Other with no exclude_reason. Non-USD conversions use about EUR 1.11, GBP 1.35, AUD 0.682. Web lookups used: 8 of 25 (Emulate article fetch; CTech fetch that identified Edelbyte; Edelbyte search; Blocks and Files fetch for Edelbyte; AI-claim searches for Databento, Nominal and Imprint; Mavria search for HQ and date). crunchbase.com was not fetched.",
+  "rows": [
+    {
+      "group_key": "preclinical biotech unnatural products",
+      "candidate_ids": [
+        "54eca4a3f4f0"
+      ],
+      "company": "Unnatural Products",
+      "website": null,
+      "amount_usd": 1150000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-10",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Santa Cruz",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Company describes its macrocycle drug-design platform as AI-enabled (not stated in the headline; row is excluded as an acquisition).",
+      "description": "Preclinical biotech developing macrocyclic peptide drugs; WSJ headline reports a $1.15 billion M&A deal for the company.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "Preclinical Biotech Unnatural Products Lands $1.15 Billion M&A Deal",
+        "round": "M&A Deal",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.wsj.com/pro/venture-capital/preclinical-biotech-unnatural-products-lands-1-15-billion-m-a-deal-d42ae726"
+      ],
+      "exclude_reason": "acquisition"
+    },
+    {
+      "group_key": "databento reaches 1 1 billion",
+      "candidate_ids": [
+        "71bd76c02157",
+        "5db699f9ba99"
+      ],
+      "company": "Databento",
+      "website": "databento.com",
+      "amount_usd": 100000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-13",
+      "lead_investors": [
+        "Fifth Down Capital"
+      ],
+      "investors": [
+        "Fifth Down Capital",
+        "NEA",
+        "DRW Venture Capital",
+        "Tribe Capital",
+        "Hedosophia",
+        "Fitch Ventures"
+      ],
+      "hq_city": "Salt Lake City",
+      "hq_state": "UT",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Market data API vendor; frontier AI labs are customers but neither the article nor the release makes an AI/ML claim about the product.",
+      "description": "Market data platform delivering live and historical futures, options, equities and index data through a single API to trading firms, asset managers and AI labs.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "raised $100 million in a Series C round that values the company at $1.1 billion",
+        "round": "raised $100 million in a Series C round",
+        "lead": "Fifth Down Capital, which first backed Databento before it generated revenue, led the round.",
+        "investors": "Most existing investors returned, including NEA, DRW Venture Capital, Tribe Capital and Hedosophia. Fitch Ventures joined as a strategic investor"
+      },
+      "source_urls": [
+        "https://news.lavx.hu/article/databento-reaches-1-1-billion-valuation-in-100-million-series-c",
+        "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "plural",
+      "candidate_ids": [
+        "deb33cc71543",
+        "172da63af680",
+        "3a22a649c9ff",
+        "edaa9a6ea2b2",
+        "a6790117c4c7"
+      ],
+      "company": "Plural",
+      "website": "pluralplatform.com",
+      "amount_usd": 1100000000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 1B; article states USD 1.10 billion",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-16",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "London",
+      "hq_state": null,
+      "hq_country": "GB",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Venture capital fund close, not an operating company.",
+      "description": "Tallinn- and London-based venture firm; raised EUR 1 billion across its third fund and a follow-on vehicle to back European AI infrastructure, energy, defence and deep-tech startups.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "has raised EUR 1 billion (USD 1.10 billion) for its third fund",
+        "round": "for its third fund",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.analyticsinsight.net/news/plural-raises-usd-11-billion-to-invest-in-europes-ai-robotics-and-defence-startups",
+        "https://estonianworld.com/business/estonias-plural-raises-e1bn-to-back-europes-next-technology-giants/",
+        "https://techfundingnews.com/plural-raises-1b-europe-trillion-dollar-companies/"
+      ],
+      "exclude_reason": "fund"
+    },
+    {
+      "group_key": "mirendil",
+      "candidate_ids": [
+        "87ec476a5e0f",
+        "cc76b1a2d5f1",
+        "cd7808c9b0e6",
+        "6bf3b1fad8d0",
+        "211d6b85a535",
+        "31223380fbde",
+        "9653342c46c4",
+        "bdf6e8478d59",
+        "8577bceeec38",
+        "8e7ebc1ec2cb",
+        "784aa599fea4",
+        "e7d6678f36ca",
+        "b8c9b4f086bf",
+        "5db699f9ba99"
+      ],
+      "company": "Mirendil",
+      "website": null,
+      "amount_usd": 1000000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-12",
+      "lead_investors": [
+        "Kleiner Perkins",
+        "Clearlake Capital"
+      ],
+      "investors": [
+        "Kleiner Perkins",
+        "Clearlake Capital",
+        "Battery Ventures",
+        "Doerr Capital",
+        "Gil & Co",
+        "Google",
+        "M13",
+        "Pear VC",
+        "S32"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Frontier AI lab building agentic tools and models (Mirendil-Base, Fern, Lor) that automate AI R&D.",
+      "description": "AI lab founded by ex-Anthropic researchers building agent-driven tools and models (Mirendil-Base, Fern, Lor) to make frontier AI R&D accessible to scientists and engineers.",
+      "confidence": 0.97,
+      "evidence": {
+        "amount": "we've raised $1B in a Series A, led by Kleiner Perkins and Clearlake Capital",
+        "round": "we've raised $1B in a Series A",
+        "lead": "led by Kleiner Perkins and Clearlake Capital",
+        "investors": "with participation from Battery Ventures, Doerr Capital, Gil & Co, Google, M13, Pear VC, and S32"
+      },
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/mirendil-raises-1b-to-democratize-frontier-ai-rd-302937248.html",
+        "https://mlq.ai/news/ex-anthropic-researchers-startup-mirendil-raises-1-billion-to-let-ai-agents-do-the-work-of-an-ai-lab/",
+        "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
+        "https://pulse2.com/mirendil-1-billion-series-a-funds-ai-research-and-development-tools/",
+        "https://diyatvusa.com/mirendil-raises-1-billion-to-advance-ai-research/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "ckx",
+      "candidate_ids": [
+        "1efa1c8e0515"
+      ],
+      "company": "CKX Lands",
+      "website": null,
+      "amount_usd": 1000000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-12",
+      "lead_investors": [],
+      "investors": [
+        "Jacobs Private Equity II",
+        "HRTG Partners"
+      ],
+      "hq_city": "Lake Charles",
+      "hq_state": "LA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Publicly traded land company; public companies are always false.",
+      "description": "Listed Louisiana land company receiving a $1 billion preferred-stock investment from Jacobs Private Equity II and co-investors to become a new Brad Jacobs public-company platform.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "have agreed to invest $1 billion in CKX Lands",
+        "round": "voting convertible perpetual preferred shares",
+        "lead": null,
+        "investors": "Jacobs Private Equity II and minority co-investors have agreed to invest $1 billion in CKX Lands"
+      },
+      "source_urls": [
+        "https://pulse2.com/ckx-lands-1-billion-brad-jacobs-investment-to-launch-new-public-company-platform/"
+      ],
+      "exclude_reason": "public-company"
+    },
+    {
+      "group_key": "weeks 10 biggest funding",
+      "candidate_ids": [
+        "5db699f9ba99"
+      ],
+      "company": "Path Robotics",
+      "website": "path-robotics.com",
+      "amount_usd": 300000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series E",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-13",
+      "lead_investors": [
+        "Georgian"
+      ],
+      "investors": [
+        "Georgian"
+      ],
+      "hq_city": "Columbus",
+      "hq_state": "OH",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Physical AI for robotics and manufacturing (autonomous welding).",
+      "description": "Developer of physical AI technology for robotics and manufacturing, with initial expertise in autonomous welding.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "picked up $300 million in Series E financing",
+        "round": "picked up $300 million in Series E financing",
+        "lead": "Georgian led the round, which set a $2.45 billion valuation for the Columbus, Ohio-based company",
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "weeks 10 biggest funding",
+      "candidate_ids": [
+        "5db699f9ba99"
+      ],
+      "company": "LangChain",
+      "website": "langchain.com",
+      "amount_usd": 300000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-13",
+      "lead_investors": [
+        "CapitalG"
+      ],
+      "investors": [
+        "CapitalG"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Platform for building, running and governing AI agents.",
+      "description": "Developer of a platform to run, improve and govern AI agents.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "closed on $300 million in Series C funding at a $3 billion valuation",
+        "round": "closed on $300 million in Series C funding",
+        "lead": "CapitalG led the round for the 4-year-old, San Francisco-based company",
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "weeks 10 biggest funding",
+      "candidate_ids": [
+        "5db699f9ba99"
+      ],
+      "company": "Nominal",
+      "website": "nominal.io",
+      "amount_usd": 240000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-09",
+      "lead_investors": [
+        "Lightspeed Venture Partners",
+        "Insight Partners"
+      ],
+      "investors": [
+        "Lightspeed Venture Partners",
+        "Insight Partners"
+      ],
+      "hq_city": "Austin",
+      "hq_state": "TX",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Coverage of the round describes an AI and data platform that puts AI agents inside hardware testing.",
+      "description": "Developer of data and intelligence tools for hardware engineering, testing and validation.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "raised $240 million at a $3 billion valuation",
+        "round": null,
+        "lead": "Lightspeed Venture Partners and Insight Partners led the round for the Austin-based startup",
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
+        "https://runtimewire.com/article/nominal-raises-240m-3b-valuation-hardware-testing"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "weeks 10 biggest funding",
+      "candidate_ids": [
+        "5db699f9ba99"
+      ],
+      "company": "Imprint",
+      "website": "imprint.co",
+      "amount_usd": 130000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-11",
+      "lead_investors": [
+        "Khosla Ventures"
+      ],
+      "investors": [
+        "Khosla Ventures"
+      ],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Round is earmarked for AI capabilities in its payments, loyalty and customer intelligence platform, per coverage of the announcement.",
+      "description": "Payments, loyalty and customer intelligence platform for brands (co-branded credit cards).",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "landed $130 million in new funding at a $1.9 billion valuation",
+        "round": null,
+        "lead": "Khosla Ventures led the financing for the 6-year-old, New York-based company",
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
+        "https://pulse2.com/imprint-130-million-financing-at-1-9-billion-valuation-expands-payments-and-ai-capabilities"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "weeks 10 biggest funding",
+      "candidate_ids": [
+        "5db699f9ba99"
+      ],
+      "company": "Mavria",
+      "website": null,
+      "amount_usd": 130000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-09",
+      "lead_investors": [
+        "Paradigm"
+      ],
+      "investors": [
+        "Paradigm"
+      ],
+      "hq_city": "The Woodlands",
+      "hq_state": "TX",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Builds factory-built modular data center infrastructure for AI workloads.",
+      "description": "Startup standardizing how AI data center infrastructure is developed, built and deployed (factory-built modules); founded by former U.S. Department of Energy staff.",
+      "confidence": 0.65,
+      "evidence": {
+        "amount": "said it has raised $130 million in pre-seed and seed funding to date",
+        "round": "pre-seed and seed funding to date",
+        "lead": "Its latest round, led by Paradigm , sets a $1 billion valuation",
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
+        "https://datacenterdynamics.com/en/news/former-us-doe-staffers-launch-modular-data-center-firm-mavria"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "weeks 10 biggest funding",
+      "candidate_ids": [
+        "5db699f9ba99"
+      ],
+      "company": "Delix Therapeutics",
+      "website": "delixtherapeutics.com",
+      "amount_usd": 100000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-13",
+      "lead_investors": [
+        "Johnson & Johnson Innovation",
+        "SV Health Investors' Dementia Discovery Fund"
+      ],
+      "investors": [
+        "Johnson & Johnson Innovation",
+        "SV Health Investors' Dementia Discovery Fund"
+      ],
+      "hq_city": "Bedford",
+      "hq_state": "MA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Neuroscience biotech; no AI/ML claim about the product in the article.",
+      "description": "Biotech developing non-hallucinogenic, psychedelic-derived treatments for psychiatric and psychological disorders.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "closed on $100 million in Series C funding",
+        "round": "closed on $100 million in Series C funding",
+        "lead": "Johnson & Johnson Innovation and SV Health Investors ’ Dementia Discovery Fund led the financing",
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "weeks 10 biggest funding",
+      "candidate_ids": [
+        "5db699f9ba99"
+      ],
+      "company": "Rox",
+      "website": "rox.com",
+      "amount_usd": 100000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-13",
+      "lead_investors": [
+        "General Catalyst",
+        "March Capital"
+      ],
+      "investors": [
+        "General Catalyst",
+        "March Capital"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI revenue agent for enterprise sales.",
+      "description": "Developer of an AI revenue agent for enterprise sales teams.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "announced a $100 million Series B financing led by General Catalyst and March Capital",
+        "round": "announced a $100 million Series B financing",
+        "lead": "led by General Catalyst and March Capital",
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "corma 1b valuation",
+      "candidate_ids": [
+        "7ba9bdc716b4",
+        "f2593d69629c",
+        "17767b0392e6",
+        "aae8c4832e63"
+      ],
+      "company": "Corma",
+      "website": null,
+      "amount_usd": 125000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-16",
+      "lead_investors": [
+        "NEA"
+      ],
+      "investors": [
+        "NEA",
+        "Sequoia Capital",
+        "Khosla Ventures",
+        "Coatue"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Builds AI models and agents trained for cybersecurity defense.",
+      "description": "Israeli-founded frontier AI lab for cyber defense (Tel Aviv and San Francisco) building AI models and agents trained for security work; out of stealth since August 2026.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "has raised a $125 million Series A at a $1 billion valuation",
+        "round": "has raised a $125 million Series A",
+        "lead": "NEA led the round, announced on November 16, 2026",
+        "investors": "existing investors Sequoia Capital, Khosla Ventures and Coatue took part"
+      },
+      "source_urls": [
+        "https://shattered.io/corma-1-billion-valuation-125-million-series-a-nea/",
+        "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+        "https://techfundingnews.com/corma-hits-1b-valuation-three-months-after-stealth-as-nea-leads-125m-series-a-for-defencive-ai/",
+        "https://fourweekmba.com/ai-corma-hits-1b-three-months-out-of-stealth-8x-its-series-a/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "speciale invest report finds",
+      "candidate_ids": [
+        "1e9ef2e968eb"
+      ],
+      "company": "Speciale Invest (Indian deep tech funding report)",
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-16",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Chennai",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Market report from a VC firm, not a company funding round.",
+      "description": "Report by VC firm Speciale Invest finding that Indian deep tech funding hit a record $914 million in 2025.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "Indian deep tech funding hit a record $914 million in 2025",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.indianstartuptimes.com/news/speciale-invest-report-finds-indian-deep-tech-funding-hit-a-record-914-million-in-2025/"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "eqt backed resolven",
+      "candidate_ids": [
+        "c0dda6f68c3d"
+      ],
+      "company": "Resolven",
+      "website": null,
+      "amount_usd": 900000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-10",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Renewable energy platform; no AI/ML claim.",
+      "description": "EQT-backed Indian renewable energy platform (solar, wind, hybrid, storage); mobilised USD 900 million of lender financing in 2026 from 15 lenders.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "it has mobilised USD 900 million (about Rs 8,550 crore) financing this year so far",
+        "round": "about USD 700 million is fund-based debt financing, and USD 200 million group level non-fund lines",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.thehindubusinessline.com/companies/eqt-backed-resolven-raises-900-million-in-financing-from-15-lenders-for-renewable-energy-expansion/article71685726.ece"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "positron",
+      "candidate_ids": [
+        "84b801cc303d"
+      ],
+      "company": "Positron AI",
+      "website": "positron.ai",
+      "amount_usd": 875000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-12",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Reno",
+      "hq_state": "NV",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI inference hardware company.",
+      "description": "AI inference hardware company (Atlas, Titan, Asimov silicon). Release is an AI 100 list award that only recaps its $875M Series C announced in September 2026.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "In September, the company announced an $875 million Series C financing at a $5 billion valuation",
+        "round": "an $875 million Series C financing",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/positron-ai-named-to-the-inaugural-2026-ai-100-list-of-top-private-ai-companies-302938023.html"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "eldridge stonebriar",
+      "candidate_ids": [
+        "cc78e86a477c"
+      ],
+      "company": "Stonebriar Commercial Finance",
+      "website": null,
+      "amount_usd": 869000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-09",
+      "lead_investors": [],
+      "investors": [
+        "Eldridge Diversified Credit Fund II"
+      ],
+      "hq_city": "Plano",
+      "hq_state": "TX",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Equipment finance lender; asset-backed securitization, no AI/ML claim.",
+      "description": "Eldridge-managed equipment finance company; closed its 16th equipment asset-backed securitization (SCFET 2026-1).",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "the closing of an $869 million equipment asset-backed securitization by Stonebriar Commercial Finance",
+        "round": "equipment asset-backed securitization",
+        "lead": null,
+        "investors": "Eldridge Diversified Credit Fund II also participated in the transaction"
+      },
+      "source_urls": [
+        "https://pulse2.com/eldridge-stonebriar-closes-869-million-equipment-asset-backed-securitization/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "aevex",
+      "candidate_ids": [
+        "c3f3e0774094"
+      ],
+      "company": "AEVEX",
+      "website": "aevex.com",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-14",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Solana Beach",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Earnings/guidance news for a listed defense company, not a funding round.",
+      "description": "U.S. uncrewed defense systems company; raised its 2026 revenue guidance to $820-840 million after third-quarter results.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "raised its revenue expectations to $840 million in 2026",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://entarabi.com/en/2026/11/aevex-raises-2026-revenue-to-840-million-dollars-with-drone-growth/"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "sofinnova",
+      "candidate_ids": [
+        "4ced47d1b1a8",
+        "983582e96e4d",
+        "57c9249bf3ae"
+      ],
+      "company": "Sofinnova Partners",
+      "website": "sofinnovapartners.com",
+      "amount_usd": 815000000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 725M; article states approximately $815 million",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-16",
+      "lead_investors": [],
+      "investors": [
+        "European Tech Champions Initiative"
+      ],
+      "hq_city": "Paris",
+      "hq_state": null,
+      "hq_country": "FR",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Venture capital fund close, not an operating company.",
+      "description": "European life sciences VC firm; final close of Sofinnova Crossover II at EUR 725 million to back late-stage biotech and medtech companies.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "has completed the final close of Sofinnova Crossover II at €725 million, equivalent to approximately $815 million",
+        "round": "final close of Sofinnova Crossover II",
+        "lead": null,
+        "investors": "The fund is supported by the European Tech Champions Initiative"
+      },
+      "source_urls": [
+        "https://pulse2.com/sofinnova-partners-815-million-crossover-ii-fund-closes-to-back-late-stage-life-sciences-companies/",
+        "https://finance.biggo.com/news/93900063248647f3",
+        "https://techfundingnews.com/sofinnova-partners-closes-e725m-crossover-ii-fund-to-scale-european-life-sciences-companies/"
+      ],
+      "exclude_reason": "fund"
+    },
+    {
+      "group_key": "panamint capital",
+      "candidate_ids": [
+        "75fd79556693"
+      ],
+      "company": "Panamint Capital",
+      "website": null,
+      "amount_usd": 769000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-09",
+      "lead_investors": [],
+      "investors": [
+        "Lloyds",
+        "Mitsubishi UFJ Financial Group (MUFG)",
+        "Sumitomo Mitsui Banking Corporation (SMBC)"
+      ],
+      "hq_city": "Incline Village",
+      "hq_state": "NV",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Solar project financing; no AI/ML claim.",
+      "description": "U.S. energy investment firm; closed $769 million of project financing for the 491 MW Big Rooter West solar project in Texas.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "has achieved financial close on $769 million in financing for the 491 MW Big Rooter West solar project",
+        "round": "a $240 million senior secured construction-to-term loan, a $461 million tax equity bridge loan, and a $68 million letter of credit facility",
+        "lead": null,
+        "investors": "Lloyds, Mitsubishi UFJ Financial Group (MUFG), and Sumitomo Mitsui Banking Corporation (SMBC) are serving as coordinating lead arrangers"
+      },
+      "source_urls": [
+        "https://mercomcapital.com/panamint-capital-closes-769-million-financing-491mw-solar-project/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "mercor",
+      "candidate_ids": [
+        "8813b6aec4da",
+        "06cfe533b38d",
+        "25520fe9b067",
+        "af1269a28155",
+        "ecec145b4d73",
+        "4d5ded1e6c6a",
+        "1b324c13b8fe",
+        "ea9899153d32",
+        "06912ebeb6ff",
+        "4db61deb1bd7",
+        "8099dae18313",
+        "e61b6ff9a0ed",
+        "3c92a5fbd9a6",
+        "6e2d4f36a440",
+        "d48c1fe27ac8",
+        "b228902479e2",
+        "5b41ea4eaf20",
+        "19859be23326",
+        "e5e2cc70ecab",
+        "045d58dbfb6a",
+        "972a22633337",
+        "5db699f9ba99"
+      ],
+      "company": "Mercor",
+      "website": "mercor.com",
+      "amount_usd": 750000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series D",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-10",
+      "lead_investors": [],
+      "investors": [
+        "Benchmark",
+        "Felicis",
+        "Fundomo",
+        "Apollo",
+        "G Squared",
+        "General Catalyst",
+        "Glade Brook Capital",
+        "NVIDIA",
+        "Salesforce",
+        "Sapphire Ventures",
+        "StepStone Group",
+        "XTX Ventures",
+        "Zoom"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Expert marketplace and tooling for training, evaluating and post-training frontier AI models and agents.",
+      "description": "Platform connecting AI developers and enterprises with human experts for model training, evaluation and post-training; round includes an employee tender.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "$750 million Series D that values the company at $20 billion",
+        "round": "$750 million Series D",
+        "lead": null,
+        "investors": "Investors named in the round include Benchmark, Felicis, Fundomo, funds managed by Apollo affiliates, G Squared, General Catalyst, Glade Brook Capital, NVIDIA, Salesforce, Sapphire Ventures, StepStone Group, XTX Ventures and Zoom."
+      },
+      "source_urls": [
+        "https://www.tokenpost.com/news/business/54467",
+        "https://casrai.org/news/mercor-750-million-series-d-2026",
+        "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
+        "https://ventureburn.com/mercor-raises-750-million-series-d-to-train-ai/",
+        "https://www.citybiz.co/article/931996/mercor-raises-750-million-series-d-at-20-billion-valuation-to-expand-enterprise-ai-platform/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "with 720m round",
+      "candidate_ids": [
+        "019cc9ec163b",
+        "bb54c4d6ab63",
+        "7c74280324c1"
+      ],
+      "company": "Fractile",
+      "website": "fractile.ai",
+      "amount_usd": 720000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-11",
+      "lead_investors": [
+        "Thrive Capital",
+        "Founders Fund",
+        "Lightspeed Venture Partners",
+        "Redpoint"
+      ],
+      "investors": [
+        "Thrive Capital",
+        "Founders Fund",
+        "Lightspeed Venture Partners",
+        "Redpoint",
+        "Sovereign AI Fund"
+      ],
+      "hq_city": "London",
+      "hq_state": null,
+      "hq_country": "GB",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI inference chip developer with a machine learning compiler.",
+      "description": "British startup developing purpose-built AI inference chips (DRAM stacked on logic) plus a machine learning compiler for running LLMs.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "has raised a $720 million Series C backed by Britain’s Sovereign AI Fund",
+        "round": "has raised a $720 million Series C",
+        "lead": "its latest round led by Thrive Capital, Founders Fund, Lightspeed Venture Partners and Redpoint",
+        "investors": "backed by Britain’s Sovereign AI Fund"
+      },
+      "source_urls": [
+        "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+        "https://mlq.ai/news/uk-ai-chip-startup-fractile-closes-a-series-c-of-more-than-500-million-at-a-valuation-above-5-billion/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "edgevana",
+      "candidate_ids": [
+        "e10a7d85b597"
+      ],
+      "company": "Edgevana",
+      "website": "edgevana.com",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-09",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI computing infrastructure provider deploying NVIDIA GPU systems.",
+      "description": "AI computing infrastructure company; announced more than $700 million of take-or-pay customer agreements for NVIDIA Blackwell capacity (customer contracts, not a raise).",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "has secured more than $700 million in fully committed, multiyear agreements to deploy NVIDIA Blackwell computing systems",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://pulse2.com/edgevana-700-million-ai-infrastructure-agreements-bring-committed-demand-to-7-billion/"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "nvidia and unity join",
+      "candidate_ids": [
+        "7e315dde167f"
+      ],
+      "company": "Emulate",
+      "website": null,
+      "amount_usd": 700000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-11",
+      "lead_investors": [
+        "Index Ventures",
+        "Lightspeed Venture Partners"
+      ],
+      "investors": [
+        "Index Ventures",
+        "Lightspeed Venture Partners",
+        "Nvidia",
+        "Unity"
+      ],
+      "hq_city": "London",
+      "hq_state": null,
+      "hq_country": "GB",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Builds AI world models; founded by former Google DeepMind researchers.",
+      "description": "London startup founded by Google DeepMind alumni building AI world models; round reported by Sifted and not yet announced by the company.",
+      "confidence": 0.55,
+      "evidence": {
+        "amount": "Emulate's $700 million round",
+        "round": "advanced talks to raise up to $700 million in a seed round led by Index Ventures and Lightspeed Venture Partners",
+        "lead": "a seed round led by Index Ventures and Lightspeed Venture Partners",
+        "investors": "Nvidia and Unity join Emulate's $700 million round"
+      },
+      "source_urls": [
+        "https://mlq.ai/news/nvidia-and-unity-join-emulates-700-million-round-for-deepmind-alumni-building-world-models-sifted-reports/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "peloton 700 million senior",
+      "candidate_ids": [
+        "8774b3d18a8b"
+      ],
+      "company": "Peloton Interactive",
+      "website": "onepeloton.com",
+      "amount_usd": 700000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-11",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Public company; public companies are always false.",
+      "description": "Listed connected fitness company; priced an upsized $700 million senior secured notes offering due 2032 to refinance its term loan.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "the pricing of an upsized $700 million senior secured notes offering",
+        "round": "senior secured notes offering",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://pulse2.com/peloton-700-million-senior-secured-notes-offering-upsized-from-600-million-as-part-of-debt-refinancing/"
+      ],
+      "exclude_reason": "public-company"
+    },
+    {
+      "group_key": "uforce",
+      "candidate_ids": [
+        "1b43ba0fcc42",
+        "09b87e708f51",
+        "7787659b9f43",
+        "43adfd79770f",
+        "2fff8999c13c",
+        "384b748ec5c0",
+        "c1b52171e438",
+        "88fac90f98ca",
+        "ba7b8fc8b15c",
+        "62b82e7fe182",
+        "575d604977b1",
+        "b71e48d27ba8",
+        "e18f580efd3c",
+        "d627b216acbe"
+      ],
+      "company": "UFORCE",
+      "website": null,
+      "amount_usd": 700000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-12",
+      "lead_investors": [
+        "Valor Equity Partners",
+        "UK National Wealth Fund"
+      ],
+      "investors": [
+        "Valor Equity Partners",
+        "UK National Wealth Fund",
+        "U.S.-Ukraine Reconstruction Investment Fund",
+        "Menlo Ventures",
+        "Xantium",
+        "Hiro Capital",
+        "Shield Capital",
+        "Ballistic Ventures",
+        "Lakestar",
+        "Squadra"
+      ],
+      "hq_city": "London",
+      "hq_state": null,
+      "hq_country": "GB",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Autonomous uncrewed air, land and sea systems plus AI software to coordinate and control them.",
+      "description": "Ukraine-founded, London-headquartered defense company building autonomous drones (MAGURA, NEMESIS, LIUT, PREDATOR) and AI software to coordinate them.",
+      "confidence": 0.92,
+      "evidence": {
+        "amount": "has raised $700 million in Series A funding at a $6 billion valuation",
+        "round": "has raised $700 million in Series A funding",
+        "lead": "The round was co-led by Valor Equity Partners and the UK National Wealth Fund, with participation from the U.S.-Ukraine Reconstruction Investment Fund",
+        "investors": "existing backers Shield Capital , Ballistic Ventures , Lakestar and Squadra increased their stakes"
+      },
+      "source_urls": [
+        "https://theaiinsider.tech/2026/11/13/uforce-raises-700m-in-series-a-funding-to-expand-ukraine-focused-autonomous-defense-production/",
+        "https://www.therecursive.com/cee-startup-tech-weekly-13/",
+        "https://mlq.ai/news/ukrainian-drone-maker-uforce-raises-700-million-at-a-6-billion-valuation-backed-by-the-uks-national-wealth-fund/",
+        "https://pulse2.com/uforce-700-million-series-a-at-6-billion-valuation-expands-defense-manufacturing/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "african tech startups",
+      "candidate_ids": [
+        "eb45e1133499"
+      ],
+      "company": "African tech startups (Tracxn nine-month report)",
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-09",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Aggregate market report, not a company funding round.",
+      "description": "Tracxn report: African tech companies raised $684 million in the first nine months of 2026, led by Nairobi after Spiro's June 2026 Series E.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "African tech companies raised $684 million in the first nine months of 2026",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.fundsforngos.org/2026/11/09/african-tech-funding-684m-9m-2026-nairobi-277m-spiro-215m-series-e/"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "twelve",
+      "candidate_ids": [
+        "e4a4b26d7c2d"
+      ],
+      "company": "Twelve",
+      "website": "twelve.co",
+      "amount_usd": 645000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-13",
+      "lead_investors": [
+        "TPG Rise Climate"
+      ],
+      "investors": [
+        "TPG Rise Climate",
+        "Capricorn Investment Group",
+        "Pulse Fund",
+        "DCVC",
+        "Munich Re Ventures",
+        "Emerson Collective"
+      ],
+      "hq_city": "Berkeley",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Carbon-to-fuel (e-fuels) technology; no AI/ML claim.",
+      "description": "Carbon transformation company making E-Jet sustainable aviation fuel from CO2. Blog post re-dated Nov 2026 recaps its 2024 $645M financing; not a new round.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "has announced a $645 million funding round led by TPG Rise Climate",
+        "round": "$400 million in project equity from TPG Rise Climate , $200 million in Series C financing, and an additional $45 million in credit facilities",
+        "lead": "a $645 million funding round led by TPG Rise Climate",
+        "investors": "Series C was co-led by Capricorn Investment Group and Pulse Fund, with DCVC, Munich Re Ventures, and Emerson Collective participating."
+      },
+      "source_urls": [
+        "https://www.causeartist.com/blog/twelve-645-million-funding-sustainable-aviation-fuel"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "cee startup",
+      "candidate_ids": [
+        "d627b216acbe"
+      ],
+      "company": "Biomatter",
+      "website": "biomatter.ai",
+      "amount_usd": 18000000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 16.2M; article states $18 million",
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-13",
+      "lead_investors": [
+        "Astanor"
+      ],
+      "investors": [
+        "Astanor",
+        "UVC Partners",
+        "Inventure",
+        "Metaplanet"
+      ],
+      "hq_city": "Vilnius",
+      "hq_state": null,
+      "hq_country": "LT",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Uses AI to design enzymes.",
+      "description": "Vilnius-based company that uses AI to design enzymes, starting from the chemical reaction a customer needs.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "has raised an oversubscribed €16.2 million ($18 million) Series A",
+        "round": "€16.2 million ($18 million) Series A",
+        "lead": "The round was led by Astanor",
+        "investors": "with existing investors UVC Partners, Inventure and Metaplanet also taking part"
+      },
+      "source_urls": [
+        "https://www.therecursive.com/cee-startup-tech-weekly-13/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "cee startup",
+      "candidate_ids": [
+        "d627b216acbe"
+      ],
+      "company": "Kardi AI",
+      "website": null,
+      "amount_usd": 5900000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 5.3M converted at 1.11",
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-13",
+      "lead_investors": [
+        "Callisto Health"
+      ],
+      "investors": [
+        "Callisto Health",
+        "Česká spořitelna",
+        "Slovenská sporiteňa",
+        "BrightCap Ventures",
+        "Purple Ventures",
+        "DEPO Ventures",
+        "Garage Angels"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "CZ",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Medtech that brands itself as AI (Kardi AI); AI-based heart monitoring per prior knowledge, not detailed in the article.",
+      "description": "Czech medtech startup; Series A values the company at EUR 23 million.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "has raised €5.3 million in a Series A round led by German healthtech fund Callisto Health",
+        "round": "€5.3 million in a Series A round",
+        "lead": "led by German healthtech fund Callisto Health",
+        "investors": "Earlier backers BrightCap Ventures, Purple Ventures, DEPO Ventures and Garage Angels also put in money."
+      },
+      "source_urls": [
+        "https://www.therecursive.com/cee-startup-tech-weekly-13/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "cee startup",
+      "candidate_ids": [
+        "d627b216acbe"
+      ],
+      "company": "Hedepy",
+      "website": "hedepy.com",
+      "amount_usd": 4400000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 4M converted at 1.11",
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-13",
+      "lead_investors": [],
+      "investors": [
+        "Orbit Capital"
+      ],
+      "hq_city": "Prague",
+      "hq_state": null,
+      "hq_country": "CZ",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Online therapy platform; AI tools are a planned expansion, not the current product claim.",
+      "description": "Prague-based online therapy platform operating in nine European countries; venture debt to fund acquisitions and expansion into clinical care and AI tools.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "has secured €4 million in venture debt from Orbit Capital",
+        "round": "€4 million in venture debt",
+        "lead": null,
+        "investors": "venture debt from Orbit Capital"
+      },
+      "source_urls": [
+        "https://www.therecursive.com/cee-startup-tech-weekly-13/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "cee startup",
+      "candidate_ids": [
+        "d627b216acbe"
+      ],
+      "company": "Valkyrie Dynamics",
+      "website": null,
+      "amount_usd": 1100000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 1M converted at 1.11",
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-13",
+      "lead_investors": [
+        "Hexa"
+      ],
+      "investors": [
+        "Hexa"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Defense hardware (radar seeker for interceptor drones); no explicit AI/ML claim in the text.",
+      "description": "Ukrainian-Lithuanian defense startup building a 100-gram radar seeker that lets low-cost drones intercept targets through cloud and fog.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "raised €1 million in a pre-seed round led by Paris-based venture studio Hexa",
+        "round": "€1 million in a pre-seed round",
+        "lead": "led by Paris-based venture studio Hexa",
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.therecursive.com/cee-startup-tech-weekly-13/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "cee startup",
+      "candidate_ids": [
+        "d627b216acbe"
+      ],
+      "company": "Kinderpedia",
+      "website": "kinderpedia.co",
+      "amount_usd": 3000000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 2.7M converted at 1.11",
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-13",
+      "lead_investors": [
+        "Simpact Ventures"
+      ],
+      "investors": [
+        "Simpact Ventures",
+        "BCR Seed Starter",
+        "Early Game Ventures",
+        "ROCA X"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "RO",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "School management and communication platform; no AI/ML claim.",
+      "description": "Romanian edtech with a management and communication platform for schools and kindergartens; EUR 500,000 from BCR Seed Starter completes its EUR 2.7M round.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "The investment completes Kinderpedia’s €2.7 million funding round",
+        "round": "€2.7 million funding round",
+        "lead": "led by Polish fund Simpact Ventures, with participation from existing investors Early Game Ventures and ROCA X",
+        "investors": "has secured a €500,000 investment from BCR Seed Starter"
+      },
+      "source_urls": [
+        "https://www.therecursive.com/cee-startup-tech-weekly-13/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "cee startup",
+      "candidate_ids": [
+        "d627b216acbe"
+      ],
+      "company": "DeltaGen",
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-13",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Prague",
+      "hq_state": null,
+      "hq_country": "CZ",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Builds real-time voice AI.",
+      "description": "Prague-based startup building real-time voice AI; acquired by Worker.ai for undisclosed terms.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "The financial terms of the deal were not disclosed.",
+        "round": "has acquired DeltaGen",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.therecursive.com/cee-startup-tech-weekly-13/"
+      ],
+      "exclude_reason": "acquisition"
+    },
+    {
+      "group_key": "cee startup",
+      "candidate_ids": [
+        "d627b216acbe"
+      ],
+      "company": "BlackPeak Capital",
+      "website": null,
+      "amount_usd": 139000000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 125M converted at 1.11",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-13",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "BG",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Private equity fund close, not an operating company.",
+      "description": "Southeast Europe growth equity firm; first close of BlackPeak Southeast Europe Growth Equity Fund II at EUR 125 million.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "has announced the first close of BlackPeak Southeast Europe Growth Equity Fund II (BPSEEF II) at €125 million",
+        "round": "first close of BlackPeak Southeast Europe Growth Equity Fund II",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.therecursive.com/cee-startup-tech-weekly-13/"
+      ],
+      "exclude_reason": "fund"
+    },
+    {
+      "group_key": "oura",
+      "candidate_ids": [
+        "5a78a242fed2"
+      ],
+      "company": "Counsel Health",
+      "website": "counselhealth.com",
+      "amount_usd": 625000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-11",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Described as an AI-native primary care company.",
+      "description": "AI-native primary care company being acquired by smart-ring maker Oura for $625 million.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "Oura buys Counsel Health for $625M",
+        "round": "has agreed to acquire AI-native primary care company Counsel Health",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://techfundingnews.com/oura-buys-counsel-health-for-625m-as-smart-ring-maker-bets-on-ai-doctors-after-ipo-delay/"
+      ],
+      "exclude_reason": "acquisition"
+    },
+    {
+      "group_key": "8 baltic startups to",
+      "candidate_ids": [
+        "d57c9095e5ad"
+      ],
+      "company": "Baltic startups (8 startups to watch list)",
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-13",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Listicle with aggregate regional funding statistics, not a funding round.",
+      "description": "List of eight Baltic startups to watch; cites EUR 607 million raised by Lithuanian, Latvian and Estonian startups in 2025.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "startups from Lithuania, Latvia, and Estonia raised €607 million",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://techfundingnews.com/8-baltic-startups-to-watch-according-to-top-vcs/"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "apollo",
+      "candidate_ids": [
+        "86048d7aa241"
+      ],
+      "company": "Apollo Global Management",
+      "website": "apollo.com",
+      "amount_usd": 600000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-09",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Public company; public companies are always false.",
+      "description": "Listed alternative asset manager; priced $600 million of 7.550% fixed-rate resettable junior subordinated notes due 2056.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "it priced $600 million of fixed-rate resettable junior subordinated notes",
+        "round": "junior subordinated notes",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.securities.io/apollo-raises-600-million-with-7-550-junior-notes-due-2056/"
+      ],
+      "exclude_reason": "public-company"
+    },
+    {
+      "group_key": "afdb",
+      "candidate_ids": [
+        "7b47c267c0c9",
+        "ab5cb67586c5"
+      ],
+      "company": "African Development Bank (AfDB)",
+      "website": "afdb.org",
+      "amount_usd": 583400000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-15",
+      "lead_investors": [],
+      "investors": [
+        "JICA"
+      ],
+      "hq_city": "Abidjan",
+      "hq_state": null,
+      "hq_country": "CI",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Multilateral development bank loan, not a company funding round.",
+      "description": "Multilateral development bank; signed a $583.4 million financing agreement with Japan's JICA for the African Development Fund.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "AfDB, JICA sign $583.4 million financing agreement for African Development Fund",
+        "round": "Japanese Loan",
+        "lead": null,
+        "investors": "AfDB, JICA sign $583.4 million financing agreement"
+      },
+      "source_urls": [
+        "https://www.nigeriahousingmarket.com/news/7ruzyrv31gw5l4e8ib23jaak70ce2c-x5jpa-sn5az-ms73b-m7ttb-2m3zz-69gdk-ms72f-ffymh-ef59e-ezhaf-3pdet-t2wf4-fg3rw-8h6p3-s3cnw-yzhn2-ee7b4-k8t6l-cy63m-nze34-y9al3-gkb9r-djtjz-ym8ze-h3mg4-6r24p"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "ballys",
+      "candidate_ids": [
+        "1aac9edcfff3"
+      ],
+      "company": "Bally's Corporation",
+      "website": "ballys.com",
+      "amount_usd": 560000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-17",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Providence",
+      "hq_state": "RI",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Public company (NYSE: BALY); public companies are always false.",
+      "description": "Listed casino and entertainment operator; secured commitments for $560 million of additional financing for its Chicago casino development and corporate operations.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "has secured commitments for $560 million in additional financing",
+        "round": "additional financing",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.citybiz.co/article/935141/ballys-corporation-secures-560-million-in-additional-financing-to-support-chicago-casino-development-and-corporate-operations/"
+      ],
+      "exclude_reason": "public-company"
+    },
+    {
+      "group_key": "onewater marine",
+      "candidate_ids": [
+        "bcaff9da6f6f"
+      ],
+      "company": "OneWater Marine",
+      "website": "onewatermarine.com",
+      "amount_usd": 547000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-11",
+      "lead_investors": [],
+      "investors": [
+        "Truist Bank",
+        "Wells Fargo"
+      ],
+      "hq_city": "Buford",
+      "hq_state": "GA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Public company; public companies are always false.",
+      "description": "Listed premium marine retailer; amended and extended its term loan and floor plan credit facilities to 2029, lifting inventory financing capacity to $547 million.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "raise the company’s available floor plan financing capacity to as much as $547 million",
+        "round": "senior secured term loan and floor plan credit facilities",
+        "lead": null,
+        "investors": "Truist Bank continues to lead the senior secured term loan facility, while Wells Fargo remains the lead lender for the floor plan financing arrangement."
+      },
+      "source_urls": [
+        "https://pulse2.com/onewater-marine-547-million-inventory-financing-facility-and-term-loan-extended-through-2029/"
+      ],
+      "exclude_reason": "public-company"
+    },
+    {
+      "group_key": "jbs",
+      "candidate_ids": [
+        "a49fc92f8e1a"
+      ],
+      "company": "Flora",
+      "website": null,
+      "amount_usd": 542000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-16",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "BR",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Consumer products acquisition; no AI/ML claim.",
+      "description": "Brazilian personal care and household cleaning products company (Minuano, Francis, Neutrox, OX) being acquired by JBS from J&F Group.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "JBS has agreed to acquire Brazilian consumer products company Flora for $542 million",
+        "round": "has agreed to acquire",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://pulse2.com/jbs-announces-542-million-flora-acquisition-to-enter-personal-care-market/"
+      ],
+      "exclude_reason": "acquisition"
+    },
+    {
+      "group_key": "six anz startups that",
+      "candidate_ids": [
+        "5fa30fefd2f3"
+      ],
+      "company": "Q-CTRL",
+      "website": "q-ctrl.com",
+      "amount_usd": 290000000,
+      "amount_disclosed": true,
+      "currency_note": "Stated as US$290 million (AU$425 million)",
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-13",
+      "lead_investors": [
+        "Salesforce Ventures"
+      ],
+      "investors": [
+        "Salesforce Ventures",
+        "National Reconstruction Fund",
+        "AMD",
+        "Affinity Partners",
+        "SPARX Asset Management"
+      ],
+      "hq_city": "Sydney",
+      "hq_state": null,
+      "hq_country": "AU",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Quantum control software; the company markets its error-suppression software as AI-driven (not stated in this article).",
+      "description": "Sydney quantum software scaleup (quantum control and error suppression); the Series C makes it Australia's first quantum unicorn.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "Q-CTRL has raised US$290 million (AU$425 million) in a Series C",
+        "round": "US$290 million (AU$425 million) in a Series C",
+        "lead": "The round was led by existing backer Salesforce Ventures",
+        "investors": "with the federal government’s National Reconstruction Fund (NRF) chipping in $70 million, alongside chipmaker AMD’s venture arm, Jared Kushner’s PE firm Affinity Partners, and SPARX Asset Management"
+      },
+      "source_urls": [
+        "https://www.smartcompany.com.au/startupsmart/six-anz-startups-that-raised-525-million-this-week/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "paladin",
+      "candidate_ids": [
+        "ed2e392fc379",
+        "14e024e4d9d8"
+      ],
+      "company": "Paladin Energy",
+      "website": "paladinenergy.com.au",
+      "amount_usd": 358000000,
+      "amount_disclosed": true,
+      "currency_note": "AUD 525M converted at 0.682",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-12",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Perth",
+      "hq_state": null,
+      "hq_country": "AU",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Public company (ASX/TSX: PDN); public companies are always false.",
+      "description": "Listed uranium miner; completed a fully underwritten A$525 million equity raising (ASX placement plus TSX bought deal) for its Canadian uranium projects.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "the successful completion of its fully underwritten A$525 million equity raising",
+        "round": "ASX institutional placement",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.proactiveinvestors.com.au/a/13cfda17/paladin-raises-a-525-million-to-accelerate-canadian-uranium-growth",
+        "https://sightlineu3o8.com/2026/11/paladin-successfully-completes-a525-million-fully-underwritten-equity-raising/"
+      ],
+      "exclude_reason": "public-company"
+    },
+    {
+      "group_key": "fresenius se",
+      "candidate_ids": [
+        "d68816fd19ca"
+      ],
+      "company": "Fresenius SE",
+      "website": "fresenius.com",
+      "amount_usd": 582000000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 524M converted at 1.11",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-12",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Bad Homburg",
+      "hq_state": null,
+      "hq_country": "DE",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Public company; public companies are always false.",
+      "description": "Listed German healthcare group; raised EUR 524 million by selling shares in Fresenius Medical Care (stake sale, not a funding round).",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "Fresenius SE Raises EUR524 Million from Sale of Fresenius Medical Care Shares",
+        "round": "Sale of Fresenius Medical Care Shares",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.marketscreener.com/news/fresenius-se-raises-eur524-million-from-sale-of-fresenius-medical-care-shares-ce785ed8db80f020"
+      ],
+      "exclude_reason": "public-company"
+    },
+    {
+      "group_key": "rubico",
+      "candidate_ids": [
+        "380070a6c26b"
+      ],
+      "company": "Rubico",
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-10",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "GR",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Shipping company vessel acquisition and revenue backlog news, not a funding round.",
+      "description": "Tanker owner; announced the acquisition of two more newbuilding MR tankers, lifting potential gross revenue backlog to about $523 million.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "a 40% Increase of Potential Gross Revenue Backlog to About $523 Million",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/rubico-announces-acquisition-of-another-two-newbuilding-mr-tankers-and-a-40-increase-of-potential-gross-revenue-backlog-to-about-523-million/2466711"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "monzo in talks to",
+      "candidate_ids": [
+        "87b7e0f83d76"
+      ],
+      "company": "Monzo",
+      "website": "monzo.com",
+      "amount_usd": 675000000,
+      "amount_disclosed": true,
+      "currency_note": "Up to GBP 500M, converted at about 1.35; talks only",
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-09",
+      "lead_investors": [
+        "D.E. Shaw"
+      ],
+      "investors": [
+        "D.E. Shaw"
+      ],
+      "hq_city": "London",
+      "hq_state": null,
+      "hq_country": "GB",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Digital bank; headline makes no AI/ML claim.",
+      "description": "UK digital bank reported by Sky News to be in talks to raise up to GBP 500 million led by D.E. Shaw at about a GBP 7 billion valuation; not a closed round.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "Monzo in talks to raise up to £500 million led by D.E. Shaw at about £7 billion valuation",
+        "round": "in talks to raise",
+        "lead": "led by D.E. Shaw",
+        "investors": null
+      },
+      "source_urls": [
+        "https://mlq.ai/news/monzo-in-talks-to-raise-up-to-500-million-led-by-de-shaw-at-about-7-billion-valuation-sky-news-reports/"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "hasi",
+      "candidate_ids": [
+        "1939a7728603"
+      ],
+      "company": "HA Sustainable Infrastructure Capital (HASI)",
+      "website": "hasi.com",
+      "amount_usd": 500000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-09",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Annapolis",
+      "hq_state": "MD",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Public company; public companies are always false.",
+      "description": "Listed sustainable infrastructure investor; priced a $500 million registered public offering of 7.850% green junior subordinated notes due 2057.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "has priced a $500 million registered public offering of green junior subordinated notes",
+        "round": "registered public offering of green junior subordinated notes",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://pulse2.com/hasi-500-million-green-notes-offering-to-support-renewable-energy-and-sustainable-infrastructure-investments/"
+      ],
+      "exclude_reason": "public-company"
+    },
+    {
+      "group_key": "torus",
+      "candidate_ids": [
+        "8994e1d3034e",
+        "cc58939097f6",
+        "9ea0bab7805c",
+        "cc77e1f3aaf7",
+        "9a1ac4bc1d9c",
+        "2dd3d555f8c4",
+        "16fce703dfe5",
+        "b6626ef3aa3a",
+        "b8cc3f52b23a",
+        "d4c3c46c6b1a",
+        "c9c418a10fbf",
+        "648e9c042b4a",
+        "684a7b0a4a07",
+        "7cddc0eac85e",
+        "89004ac990a7",
+        "f24ff379965a",
+        "5db699f9ba99"
+      ],
+      "company": "Torus",
+      "website": "torus.co",
+      "amount_usd": 500000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Growth",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-11",
+      "lead_investors": [
+        "Magnetar"
+      ],
+      "investors": [
+        "Magnetar",
+        "ICONIQ",
+        "Origin Ventures",
+        "Ridgeline Partners",
+        "Trinity Capital"
+      ],
+      "hq_city": "Salt Lake City",
+      "hq_state": "UT",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Builds power and modular compute infrastructure (Foundry) for AI inference workloads.",
+      "description": "Energy infrastructure manufacturer; launched Foundry, a prefabricated modular AI inference compute system combining power, storage, cooling, networking and GPUs.",
+      "confidence": 0.93,
+      "evidence": {
+        "amount": "raised $500 million in growth capital led by Magnetar on Nov. 11",
+        "round": "raised $500 million in growth capital",
+        "lead": "growth capital led by Magnetar",
+        "investors": "Participating investors include ICONIQ, Origin Ventures, Ridgeline Partners and Trinity Capital."
+      },
+      "source_urls": [
+        "https://www.utahbusiness.com/industry/2026/11/12/torus-launches-foundry-raises-500m-for-ai-inference-boom/",
+        "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
+        "https://jawlah.co/en/68135",
+        "https://app.dealroom.co/news/note/torus-raises-500m-series-c-for-modular-ai-data-centers",
+        "https://proptechconnect.com/torus-raises-500m-series-c-for-modular-ai-data-centres/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "from stealth to a",
+      "candidate_ids": [
+        "069e6d146257"
+      ],
+      "company": "Edelbyte",
+      "website": null,
+      "amount_usd": 45000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-11",
+      "lead_investors": [
+        "Quiet Capital"
+      ],
+      "investors": [
+        "Quiet Capital",
+        "Greenoaks",
+        "Swish Ventures",
+        "QP Ventures",
+        "Startpoint Capital",
+        "Cerca Partners"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Data analytics platform built for AI-agent and AI-driven query workloads.",
+      "description": "Data infrastructure startup founded by four ex-Microsoft engineers (Tel Aviv and San Francisco) building an analytics platform for AI-era workloads; valued at $500M.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "followed by a $45 million Series A led by Quiet Capital, with participation from Greenoaks and Swish Ventures",
+        "round": "a $45 million Series A",
+        "lead": "a $45 million Series A led by Quiet Capital",
+        "investors": "including Gil Ofer's QP Ventures, Startpoint Capital and Cerca Partners"
+      },
+      "source_urls": [
+        "https://www.calcalistech.com/ctechnews/article/rk9dvkfrmx",
+        "https://www.blocksandfiles.com/data-management/2026/11/13/startup-edelbyte-has-70-million-to-develop-big-data-analytics-for-ai-agents/5309783"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "from stealth to a",
+      "candidate_ids": [
+        "069e6d146257"
+      ],
+      "company": "Edelbyte",
+      "website": null,
+      "amount_usd": 25000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-11",
+      "lead_investors": [
+        "Sequoia Capital"
+      ],
+      "investors": [
+        "Sequoia Capital"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Data analytics platform built for AI-agent and AI-driven query workloads.",
+      "description": "Data infrastructure startup founded by four ex-Microsoft engineers (Tel Aviv and San Francisco); seed round disclosed alongside its Series A when exiting stealth.",
+      "confidence": 0.55,
+      "evidence": {
+        "amount": "Edelbyte raised a $25 million Seed round led by Sequoia Capital",
+        "round": "a $25 million Seed round",
+        "lead": "a $25 million Seed round led by Sequoia Capital",
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.calcalistech.com/ctechnews/article/rk9dvkfrmx",
+        "https://www.blocksandfiles.com/data-management/2026/11/13/startup-edelbyte-has-70-million-to-develop-big-data-analytics-for-ai-agents/5309783"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "softbank led agile robots",
+      "candidate_ids": [
+        "a1a77f8764df",
+        "3fa222ee4c61",
+        "66b892f6cc49",
+        "12baa581f481",
+        "dc09e77e21b6",
+        "459c3bb0c174",
+        "b5b489539124",
+        "af37a54a5e30",
+        "e22ca4317fb6",
+        "fa9d2b8f55ce",
+        "87da378ccda6",
+        "e8a20c18a5ec",
+        "a18a51d67b65",
+        "ed4caabf6f82",
+        "6707f0df3de2",
+        "49a55434dde3",
+        "3d1d03054237",
+        "23b2e6da7988",
+        "a3ca053341c8",
+        "e716d0683bd1"
+      ],
+      "company": "Agile Robots",
+      "website": "agile-robots.com",
+      "amount_usd": 500000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series F",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-12",
+      "lead_investors": [
+        "SoftBank Group"
+      ],
+      "investors": [
+        "SoftBank Group",
+        "NVIDIA",
+        "Hitachi",
+        "Hitachi Ventures",
+        "T.Capital"
+      ],
+      "hq_city": "Munich",
+      "hq_state": null,
+      "hq_country": "DE",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Physical AI company building humanoid and industrial robots and the AI models that control them.",
+      "description": "Munich-based physical AI company building humanoid and mobile robots, robotic arms and hands, and the software and AI models behind them.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "has raised a $500 million Series F led by SoftBank Group, valuing it at $8.5 billion",
+        "round": "a $500 million Series F",
+        "lead": "SoftBank Group led, with NVIDIA, Hitachi Group (Hitachi and Hitachi Ventures) and T.Capital among the participants",
+        "investors": "with NVIDIA, Hitachi Group (Hitachi and Hitachi Ventures) and T.Capital among the participants"
+      },
+      "source_urls": [
+        "https://en.wowtale.net/2026/11/12/235979/?utm_source=rss&utm_medium=rss&utm_campaign=softbank-led-agile-robots-raises-500m-series-f-at-8-5b-valuation",
+        "https://www.trendingtopics.eu/agile-robots-500-million-softbank-nvidia/",
+        "https://www.telecompaper.com/news/agile-robots-raises-usd-500-million-in-softbank-led-funding-round--1588759",
+        "https://startupvalley.news/uk/agile-robots-8-5bn-valuation-softbank-nvidia/",
+        "https://casrai.org/news/agile-robots-series-f-softbank-nvidia-2026"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "peak 10 energy",
+      "candidate_ids": [
+        "0e7d9b25792e"
+      ],
+      "company": "Peak 10 Energy",
+      "website": null,
+      "amount_usd": 500000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-12",
+      "lead_investors": [],
+      "investors": [
+        "U.S. Bank"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Oil and gas asset acquirer; no AI/ML claim.",
+      "description": "Acquirer of producing U.S. oil and gas assets backed by Legacy Star Capital Partners; set up an acquisition finance facility of up to $500 million with U.S. Bank.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "a financing partnership with U.S. Bank that provides as much as $500 million for acquisitions",
+        "round": "acquisition finance facility",
+        "lead": null,
+        "investors": "has established a financing partnership with U.S. Bank"
+      },
+      "source_urls": [
+        "https://pulse2.com/peak-10-energy-500-million-facility-to-finance-oil-and-gas-acquisitions/"
+      ],
+      "exclude_reason": null
+    }
+  ]
+}

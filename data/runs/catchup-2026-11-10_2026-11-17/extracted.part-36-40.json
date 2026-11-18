@@ -1,0 +1,1774 @@
+{
+ "run_date": "catchup-2026-11-10_2026-11-17",
+ "extractor": "parallel agent parts 36-40",
+ "notes": "Parts 36-40: 50 groups, 45 rows. Merged groups (one row each): Griffin = 'fintech griffin' + 'uk bank griffin' + 'bank behind ubers uk' + 'londons griffin'; Blackbird = 'blackbird' + 'danish startup' (same day, same Series A, EUR 16M vs $17.7M; match inferred, not stated in either headline); Dodai = 'dodai' + 'tokyo gas backs ethiopias'; 4Minds = '4minds' + 'dallas'. Round-up expanded: the Healthcare IT Today headline in group 'duet' also names Vumedi, emitted as a second row under group_key 'duet'. Lookups used: 25 of 25 (WebSearch/WebFetch calls). For rows that needed a lookup, evidence spans that are not in the stored title/snippet/text are quoted from the fetched publisher page, a search-result headline, or the search-result summary of the URLs added to source_urls; investor lists taken from search summaries (Drogue, geniosAI Zoom/General Catalyst, Atomarine, WhiteMatter, Valkryn, Arva participants, Surf, C2i) are less certain than fetched text. 'scottsdale startup' resolved to XpertDox (Pulse 2.0, Nov 11). 'fresh off 20m series' is a hiring release; the WhiteMatter Series A itself was reported on 2026-11-10 (Blumberg Capital lead) and may duplicate a WhiteMatter row from another part. Valkryn: headline $17M is total funding; the row records the $15M seed (plus an earlier $2M pre-seed). Accountable: $20M is total funding including the seed round. Delphina: new round is $7.5M ($15M is total funding). geniosAI: $19.1M is combined seed and Series A; HQ San Jose per most sources, Dealroom says Santa Clara. Vumedi: sources conflict on amount ($104M in the candidate headline and two sources, $140M on TheSaaSNews); kept $104M, exact announcement date not confirmed. ODAIA: release says headquartered in Toronto with a Boston office; dateline is Boston so hq_country is US per the contract. Arva AI: Business Wire dateline New York (also operates from London). Stale re-coverage kept with the true date and exclude_reason 'not-funding' (the validator will reject these as older than 120 days): Surf (round announced 2025-12-10) and C2i Semiconductors (Series A announced 2026-02-15). Unresolved: QuikTech and Islo HQ unknown (Islo's parent Incredibuild is Tel Aviv-based); the Stock Titan cross-border payments company could not be named; Fort Technology/Nexera HQ unknown; Raise3D HQ conflicts (Irvine CA vs Shanghai) and the $15M Series C could not be dated independently (a $15.8M Series C closed in 2022, an undated $15M C2+ round also appears); Mawsool, SandBaseAI HQ unknown (amount hint below the lookup threshold). From background knowledge rather than article text: hq_country for OSMUNDA, WEIBUILD, Guance Cloud (CN), Zya (GB), Raise3D; hq_city for Dodai, Traitomic, Hyliion, Vumedi; Traitomic round type Series A comes from the publisher URL slug. Guance Cloud and Human Biome set is_ai_ml false without a lookup (non-US, budget spent). Bopu Semiconductor amount is 'several hundred million yuan' (undisclosed figure); bucket set to Early Stage Venture by default. Clawlab 'Pre-A3' mapped to Venture - Unspecified. Hadean Energy $15M is AUD (ARENA grant). Mis-resolved candidate pages ignored as text: Wikipedia (Olivia Rodrigo), Lonely Planet (Griffin), duet.org (a different Duet), 4minds.ai/about (404).",
+ "rows": [
+  {
+   "group_key": "fintech griffin",
+   "candidate_ids": [
+    "862d0485b87c",
+    "30dee986ad69",
+    "d830e9af57b2",
+    "d0920ea0b17a",
+    "1b2d5068e58e",
+    "64044a1adff1",
+    "1449ac5a30ba",
+    "2b0f686d4979",
+    "2284951d16db"
+   ],
+   "company": "Griffin",
+   "website": "griffin.com",
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": "Announced in USD; EU-Startups reports the same round as EUR 18.02M",
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-12",
+   "lead_investors": [
+    "Octagon Partners"
+   ],
+   "investors": [
+    "Octagon Partners",
+    "Notion Capital",
+    "A+ Ventures",
+    "Nordic Ninja",
+    "Breega"
+   ],
+   "hq_city": "London",
+   "hq_state": null,
+   "hq_country": "GB",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Lead investor cites Griffin's combination of proprietary technology, AI and regulated banking infrastructure; one headline calls it an AI banking platform.",
+   "description": "UK licensed bank providing embedded banking infrastructure (accounts, payments, compliance) to fintechs and platforms; expanding into card issuing and stablecoin services.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$20 million in Series B funding led by Octagon Partners",
+    "round": "$20 million in Series B funding",
+    "lead": "Series B funding led by Octagon Partners",
+    "investors": "Notion Capital, A+ Ventures, Nordic Ninja, Breega, and other existing investors participated in the round"
+   },
+   "source_urls": [
+    "https://pulse2.com/griffin-20-million-series-b-funding-led-by-octagon-partners-to-expand-card-issuing-and-stablecoin-banking-services/",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvRW5GN1E1N2JTdllBelI5YWxRTU95OUJaR0ZpRmtqbzAzU0Q0Qks4ZWFvcmkxcHpEdnFvNjVuajFmY0NjTHdaaTR3X0NhdXdfTzU3Q09La21xRWY5RVVpbk5jd3MtNjhqY2xKT1VYRW85RTR6bW9peUpIUzY1NW8?oc=5",
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeGR3aC11RkJsdFFaX1J3d1V6QnNOQUIxb3ZVRnhVa0sycHVWWm1GNU9lSmtWdkJCZlQxclhKY2RETk9DLS1LOU9fU0dhTWd3ckx3SllVdXp1TW1nUlpGd1JNXzRxLWxJMnhrQ3RMeFR5SmQxZ2ZJWXczbXZpRWYydEllNGZiekRwMUQ0VXBfNDJtSUFRdHpwMHdkM29IQVRpWjM4MVNRN1pkSk9ockt6cHNTb3Jnc2k2UkI2Y3lwTXFLRnhOR241UUFKYjJ0dTdjdjRPRlc2MmYzU2tNOERHN2ZfR29nMHFmWWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmpDTXVWNzZLUTVsZXZNYVRwaGtQOG91VDQ5WWJLZHhOd2lWYW1uZ09FcmdnSXZlSnFOUXBuSUVGZXlwR1p3ZmN1WU84NjhTR1hhcWp0OFFSRkplaHh4blJaOU82cGRvbmN5TXpTZ2ZWYzBnNllJWWlrbGNRYmp6Qi11WG9RY1pQcHVtZHhkUnFySElrVlEtX3JRRGY1VC1XUEVv?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUFdzZU5oa3N6b3k1QVlQOGVPTW1uT19QNThqY1pZSlJmLWdSd1NmSTdvbW10RkVpVkktaFZybXNYRFBvdmhmejdSZm5wTzhvRmd0Rmd5VG9QTDFPRkRlenJmcmJtY1BxVnRMbWFrdW4tbEFZMzVVNUdSTXJSMVJqUkdMaFh3VzNmdHZGMEJlSVhWSHQzN2R3MlVfSkZ0WF9BZlVPZFlxTEZaUGp4Ym9zRkQ1eWRCdVU?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxORUpRM2tmRFBOVk9hMVFfbHNUWmhndkhxVzc3UHdWQ2wybVFqU1JwME50TEN3clhhSE9EZHcxN0JCa0poS0pvaEdsM1V1ajc5bHg3OFNVOFlhWDRBNnRGbnZ0YWNITU50bE0wdXVaN09FcE5CajdNemZSaVhCT0JqR1gxQi02MXNmRW5va2JzS2JVZV9pOHlqNmUtSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE1TVHJieTQyWFRvaDV2RlBacGRUTUI4RllXb0xwSlczeXF0SVdDY1R4a210VnpoWEdnQXNGal9TQVc1eEY3Nmx6dUdYNHRVTDBhUkpBNzUzMjh1a3JJYUhKWnkzczdUOGpFaFBLLTEtcG9QQQ?oc=5",
+    "https://techfundingnews.com/griffin-20m-series-b-cards-stablecoins/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "scottsdale startup",
+   "candidate_ids": [
+    "6f0c8a78229b",
+    "bec53711610a"
+   ],
+   "company": "XpertDox",
+   "website": "xpertdox.com",
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-11",
+   "lead_investors": [
+    "Savant Growth"
+   ],
+   "investors": [
+    "Savant Growth",
+    "Kennet Partners"
+   ],
+   "hq_city": "Scottsdale",
+   "hq_state": "AZ",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Described as an artificial intelligence-powered medical coding platform.",
+   "description": "AI medical coding platform (XpertCoding) that turns clinical documentation in EHRs into coded billing data for healthcare providers.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "Scottsdale startup raises $20 million",
+    "round": "XpertDox has raised $20 million in Series A funding",
+    "lead": "Savant Growth led the round with funding from investment partner Kennet Partners.",
+    "investors": "Savant Growth led the round with funding from investment partner Kennet Partners."
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeGJGOEpZYkVXLTZxRHd0RVZFb3M4dE5tR1UzalJPVTJPS3NSQ25tQjROZndObjdoNTVpbTNTeklBVGdrcWtfQWQzTlB0bHFjUW1kQmFGVUlUTDJ6RVhnQzd3a0ZzME5WbXFOOUpJNmwyZUI2eVROX1ZmLWxfOE9nZG8xZXFKanFEWERKRVFJcUxvV1BUTFotcGFHTnhYeEM4?oc=5",
+    "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBBN0U5UjJOWThDTnBzeFhzUG80aFZaZzlOR2EzeXJtb1VjejRiSXNzRC1za1JaQ0c4dTM0?oc=5",
+    "https://pulse2.com/xpertdox-20-million-series-a-to-expand-ai-medical-coding-platform/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "drogue",
+   "candidate_ids": [
+    "b540537ab1c1",
+    "f4bce455c9ea",
+    "f79c818bdd14",
+    "a4483be2e4b8"
+   ],
+   "company": "Drogue",
+   "website": null,
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-13",
+   "lead_investors": [],
+   "investors": [
+    "XYZ Venture Capital",
+    "Toyota Ventures",
+    "Tamarack Global",
+    "Dream",
+    "FDVC",
+    "Garuda Ventures",
+    "Flexcap",
+    "Boost VC",
+    "Slow Ventures"
+   ],
+   "hq_city": "Washington",
+   "hq_state": "DC",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Builds floating data centers for AI workloads powered by ocean thermal energy (AI infrastructure).",
+   "description": "Developer of offshore floating AI data centers powered by ocean thermal energy conversion and cooled by seawater; prototype planned for 2028.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Drogue raises $20 million",
+    "round": null,
+    "lead": null,
+    "investors": "The financing came from XYZ Venture Capital, Toyota Ventures, Tamarack Global, Dream, FDVC, Garuda Ventures, Flexcap, Boost VC, and Slow Ventures"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0YyTHFGVjhzZEZGSDltaWlXaE5JNXRPLS1Zd2FsVHVidXJXdzZSWHNQc1VXUnNDbU1wMGZRb0prTXBFNWpKRXhWMkxPcktSWlF5LVp1ZWNRZjlSeU5vcjlfRFoxQnpqTUR1RkN2SzVOTURtbzM3bndmUDNnZWxfYzY3RUt4UXlRdnBTX25uSF9uREVjQld3dGdvWVEyRHJNcVE?oc=5",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zckxHSUIzRzNGbU1iYmk0S3NLcUoyZnpwVGNXNHJxeWVEcWtsY2FybXFBbHI2OW81Z2FoaU9xOWxxYnJzNnZOWDd2UzVxVGltSmpqZUNSNlQ?oc=5",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFA4V1VISFJpN2hJSDJac3lBQkx4dkhxRndRSnNMQTdHUkhGYXFuVE5KMVZNakpGOWo5Vl84cXh2bjlQNlpxZlpkNVM2dlVaM1g3SnVfNmc3Z1NBbzR2QmlGYlJwc2F0MkdxTVQzb05ucHVFUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUHJ6YlpabmFGQ3RXR1M1dG55U3VkbXJxX2I3a0J0OWxwUmEwblM5LUxBMGp1U0RwZnJoRGVxMXlrRnJCeGFWdnFrVjhmRmIxVktFX2VPWk04T0t4WUxULTZtMjh1bUpQVDU4UmFyalpxSVRSMkZBQTdqMVhuNzVDSmRR?oc=5",
+    "https://runtimewire.com/article/drogue-raises-20m-ocean-powered-floating-data-centers"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "nexera",
+   "candidate_ids": [
+    "5edd2ecb31b4"
+   ],
+   "company": "Fort Technology",
+   "website": null,
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-13",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Convertible note financing announced by a listed company; public companies are always false.",
+   "description": "Up to $20M convertible note financing from institutional investors for Fort Technology, announced by Nexera Technologies.",
+   "confidence": 0.45,
+   "evidence": {
+    "amount": "Secures Up to $20 Million Convertible Note Financing From Institutional Investors",
+    "round": "Convertible Note Financing",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaXQ2SVJmQUVTMktnWllGcVNBVWtxbERzeDhLbmVsenNBUGdHNGNfMGZ1VTlZSVlPT2M0cjE1am8tSXdEUXBGa0h0cEg0dEVFQVZzSjV1Q1hnRjlkWlk0VXFCRjBGVHNteXAyY0Zlb2YxODdiLUdLcmhsXzN3VzdPcGpUVEdFUU5WQnNyQXVwMFVUN0xldEM2WHNYWGlMdFBwNEw5dmltZmZOeGdkUnllbDVUZ0c5eG54TXpRYlp2RnhqUjJPRk4teXZTaUkxYkViSlkwQ3dNSVBtazRSRFhSbnE3OXEzckdVeWJ5bkJJN0xkYUda?oc=5"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "group_key": "olivia rodrigos daisy chain",
+   "candidate_ids": [
+    "4352198bd1cf"
+   ],
+   "company": "Daisy Chain Fields Festival",
+   "website": null,
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-14",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Music festival fundraising story, not a company funding round.",
+   "description": "Music festival associated with Olivia Rodrigo that reportedly raised $20 million; not a venture financing.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "Raises $20 Million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNTFl0Y29NN2RqbjAyNUtLY0RsRHp0VlRPb0tqYzN0U3hhb0pLQWVJNXlpRU9XMXc5bkxJUkpCTHhBRmt4bHdMenhqNGtMSUxzNV9VQVBpM2thV0pYZDByUGZNTFNya051RzZQZGlvVklMUDZfQWlWYklhbVYyTVlsZlB2NGJnaDFOSmd0ZW5qekk2TkhsQ0gzbGNycl8xZw?oc=5"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "accountable",
+   "candidate_ids": [
+    "26d9f152ac60",
+    "e5c104d69cdd"
+   ],
+   "company": "Accountable",
+   "website": "accountableusa.com",
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-16",
+   "lead_investors": [
+    "Acrew Capital",
+    "M13"
+   ],
+   "investors": [
+    "Acrew Capital",
+    "M13",
+    "Greycroft",
+    "Torch Capital",
+    "Treasury",
+    "645 Ventures",
+    "Eniac Ventures",
+    "Lerer Hippeau",
+    "Tusk Ventures",
+    "Josh Wolfe",
+    "Zach Perret"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Press release describes a consumer tax-filing and civic platform and makes no AI/ML claim about the product.",
+   "description": "Consumer tax and civic company; flat-price tax filing platform launching January 2027 with a personalized taxpayer receipt showing what taxes fund.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "Accountable has raised $20 million in total funding, including a seed round co-led by Acrew Capital and M13",
+    "round": "including a seed round co-led by Acrew Capital and M13",
+    "lead": "a seed round co-led by Acrew Capital and M13",
+    "investors": "with participation from Greycroft, Torch Capital, Treasury, 645 Ventures, Eniac Ventures, Lerer Hippeau, Tusk Ventures, and angel investors like Josh Wolfe, founder of Lux Capital, and Zach Perret, co-founder of Plaid"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/accountable-launches-to-give-power-to-american-taxpayers-302939827.html",
+    "https://pulse2.com/accountable-raises-20-million-to-launch-consumer-tax-filing-and-civic-platform/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "arva",
+   "candidate_ids": [
+    "eeaae396a880",
+    "0dc5b1f141bc",
+    "400d3f79031b",
+    "3b037816325c",
+    "0183e4574b94",
+    "6b9bd66d003b",
+    "8ec4f68e7aa5"
+   ],
+   "company": "Arva AI",
+   "website": "arva.ai",
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-17",
+   "lead_investors": [
+    "Arthur Ventures"
+   ],
+   "investors": [
+    "Arthur Ventures",
+    "Y Combinator",
+    "Gradient Ventures"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Builds AI models and agents that automate bank compliance decisions.",
+   "description": "AI models and agents that automate compliance and other high-risk operational decisions (screening, KYB/KYC, transaction monitoring) for banks and fintechs.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Arva AI Raises $20M Series A",
+    "round": "Arva AI Raises $20M Series A",
+    "lead": "Arva AI Raises $20 Million Series A Led by Arthur Ventures to Expand AI Automation for Banks and Fintechs",
+    "investors": "Y Combinator and Gradient Ventures continued to participate"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmVXcmlvSlFMdnpsU0ZidHNOb3A2S3dXLTdMMy1HWElXcW9vbVJ2Q1NxODh6Sm5QZFlCeU9KRHZaaE14VTJyaU9nWFgxS0t6NlZqVS0yaUlrNGxweFVXY3E3aHZHSFBYcG03VHd5SVl0VG9mRWNQM3VFMU55WWpST1piZVJ3VWx3MGpoN3QzQS1qb1ZNdzhfRkJseWRVeE9yVk5yYXFZQmhmTUU?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcUNWcFBPbzB6THVYSTU0XzVVR1Z3bEQ2SGMtTmR0d2RRSnVaeUxXcXY3eWdXYjBiYUw3ZzMtME1DUjI3TlNpNFpRTEkwUVpWeTNkbXNGWkIxOUZfYmhwWDVWaW1EQ0x3cE9zdnRpQnZ1SFJ3clM2cWVYdFVSUXZoSVdkTHBCYkVvWXlmcmhQa3M3T1Q2YktYS1pB?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzZQV3NFODcwdkRmN0ZiNXRUY2lxOWlUY2dWSGpseEcxTDl0dHNXc2F3b19kRjYxUnZiMFV2REdYeHhwaThjSVV1VU1iX3ZVN01xWFdKWnpzQUJsSXRkTHVYUkNvYUN0N3BLV0tpVGJiN2ZPOW1Tb3REeDJINnQyaFhPVGlIMzcxbU9hODYxRGFrZw?oc=5",
+    "https://news.google.com/rss/articles/CBMikgJBVV95cUxOS0VDb2YzS3FOOERpYjQySmNGaG9uX1NJSmlrV29XQXlxZzhsZDNKM2ktcWlmdGV4eGRzQXNjTEJzaUJwMjlOQ2NadHBhQ1UxY0d2Q3V4Qmh1X0tPd3phTmRtTTR2STNyTkZFclNCSnh6ZDhtdTI4RTBjckhHQUVjVzhmU3FCUVh5bmpKUFJRMUlub0dHR3dNRkdxRmMxTzBJaERKa0ZuTkFacEdlU25nWWxmSVlQc1llRHVLaWlJTEN5SGk5VFJJSzVZNmExMmJ5MDdUWnlrU0l2eVROLUFIMDBsS0FuLVVPXzdkYmQycDJFTml2S084SlpYMWhhX0hPcUVTa1VwMkd2NjVBcmVFYnNn?oc=5",
+    "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMlBrZFlUUVR6NXN2SkZob0ZPaF9jc1BmUEhtTkxaMUJpYW4yRjZQQzV4eF9sLUtVdFJVdGU4bWhXbFlwbUJMN2puaEx3UklfdWZwcUpkeXF2NWVkeENPS19ic3BPVHdFZ3NULVVEellGci1JRjdVaS1WMzcwU2JUekc2UlYybUtIUEZ2c3NhUUNreU1MNGJveUlXaVZ3SXEzcWxuMlBkakt3blIzOUxRRm5FQ29HMGRJLXkxWHpfQWxJbHBzdDV1NWV4clh3YTliY0FlU0JRaHZyMWJCOGh3TUZ0X0o5Z3p0d3hURGE4SUVlRzRuN3JsYzU1dHNWbzhQLVpkUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb3pWMGVnanh2Qjl4T1ZsNkxZdjJrcFg4VUJJMXlJZEhFM09HVUVmLVo5RGpXc2xsQzlTYnFJYzBLMTBhT2lJQTExd01WU0FCekVSZ2poZjVGckNkVUFrbjRDRFFtcDk2Q3ZaZWhEcjM5VUwycEEzMlFDSTdtQ2JqVw?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFE4cGdRZUFBYXdEWXV4MU1EQ1k2cE1xM1I5b0hnNVg0SnBrQklsU185Ri1Ea0owMHhzXzM3RmlROUdERXZOUHZlYWZOT2Z2ek1jamRvMFFBbWRJX0d0VWpQU2o1Yy15aF9zU250RnF1ZXJwX2hSUEs3RklyUFRRbjBBTnJaRkFRallFQ09IQWxfcWlrdHM4Uk9CV0VuY0NQcG8zb3QtQ0oxYWtYNVVLelFudw?oc=5",
+    "https://www.citybiz.co/article/935206/arva-ai-raises-20-million-series-a-led-by-arthur-ventures-to-expand-ai-automation-for-banks-and-fintechs/",
+    "https://finance.yahoo.com/technology/ai/articles/arva-ai-raises-20m-series-133000393.html",
+    "https://www.unite.ai/arva-ai-raises-20m-series-a-to-expand-bank-compliance-ai-and-sales/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "fresh off 20m series",
+   "candidate_ids": [
+    "6c300244e53e"
+   ],
+   "company": "WhiteMatter",
+   "website": "whitematter.io",
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-10",
+   "lead_investors": [
+    "Blumberg Capital"
+   ],
+   "investors": [
+    "Blumberg Capital",
+    "Crew Capital",
+    "Sprout & Oak"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI agent governance and security platform built on a Guardian agent architecture.",
+   "description": "Formerly QuilrAI; platform that assesses, approves and governs enterprise AI agents before deployment and controls what they can access and do in production.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Following its $20 million Series A at a $202 million valuation",
+    "round": "Fresh Off $20M Series A",
+    "lead": "Blumberg Capital led the round, with existing investors Crew Capital and Sprout & Oak participating",
+    "investors": "11/10/26 $20,000,000 Series A Blumberg Capital Crew Capital Sprout & Oak undisclosed"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/fresh-off-20m-series-a-whitematter-taps-leaders-from-proofpoint-and-hitachi-to-scale-globally-302942201.html",
+    "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/",
+    "https://vcnewsdaily.com/WhiteMatter/venture-funding.php"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "carlsberg spinout traitomic",
+   "candidate_ids": [
+    "b55b9b12528b"
+   ],
+   "company": "Traitomic",
+   "website": "traitomic.com",
+   "amount_usd": 22200000,
+   "amount_disclosed": true,
+   "currency_note": "EUR 20M converted at 1.11",
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-17",
+   "lead_investors": [],
+   "investors": [
+    "Sofinnova"
+   ],
+   "hq_city": "Copenhagen",
+   "hq_state": null,
+   "hq_country": "DK",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Non-GM crop trait screening platform; no AI/ML claim in the title or snippet.",
+   "description": "Carlsberg spinout licensing the FIND-IT screening tool to develop and sell non-GM crop traits beyond barley.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "raises €20M from Sofinnova",
+    "round": null,
+    "lead": null,
+    "investors": "raises €20M from Sofinnova"
+   },
+   "source_urls": [
+    "https://techfundingnews.com/traitomic-raises-20m-series-a-sofinnova-non-gm-trait-platform/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "factset backs geniosais 19 1m",
+   "candidate_ids": [
+    "2494200cd2d9"
+   ],
+   "company": "geniosAI",
+   "website": null,
+   "amount_usd": 19100000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-09",
+   "lead_investors": [
+    "FactSet"
+   ],
+   "investors": [
+    "FactSet",
+    "Zoom",
+    "General Catalyst"
+   ],
+   "hq_city": "San Jose",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI platform for traceable institutional financial analysis.",
+   "description": "Financial intelligence platform that pairs AI analysis with FactSet data so institutional users can trace answers back to sources; emerged from stealth.",
+   "confidence": 0.75,
+   "evidence": {
+    "amount": "FactSet backs GeniosAI's $19.1M raise",
+    "round": "GeniosAI emerges from stealth with $19.1m in seed and Series A funding",
+    "lead": "geniosAI Emerges From Stealth With $19.1 Million in Funding Led by FactSet",
+    "investors": "FactSet led the Series A, with Zoom and General Catalyst also participating"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaDZxdmFQaW9kcGQ0N0RSalhDSV9SUjNDdlIyVmIwb3RuSWN3cmF1Sld3eUt2QWx5NVQ1YXdtZnliRmh5blVHbVl2NDdxUHRPdDd4MmZST0FzOFN5b1NxdXpNZXJiZGFXUkZjRzNQUTlqZk4tY3RaQjJWR2xrejdQLW9OYS1ENExBbi1JdFVmZUxaS3k2S0dhOU1uSQ?oc=5",
+    "https://www.fintechfutures.com/venture-capital-funding/fintech-geniosai-emerges-from-stealth",
+    "https://www.citybiz.co/?p=931245"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "atomarine",
+   "candidate_ids": [
+    "f84af35beca6"
+   ],
+   "company": "Atomarine",
+   "website": "atomarine.co",
+   "amount_usd": 19000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-11",
+   "lead_investors": [],
+   "investors": [
+    "Y Combinator",
+    "Pantera Capital",
+    "Soma Capital",
+    "Seven Seven Six",
+    "Liquid 2 Ventures"
+   ],
+   "hq_city": "Boston",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Offshore power and compute infrastructure (floating data centers) built for AI workloads.",
+   "description": "Builds shipyard-manufactured floating data center platforms with standalone power (gas first, marine nuclear reactors later) and seawater cooling for AI compute.",
+   "confidence": 0.75,
+   "evidence": {
+    "amount": "Atomarine raises $19 million",
+    "round": "atomarine secures 19 million in seed funding to develop floating nuclear powered data centers",
+    "lead": null,
+    "investors": "The round is backed by Y Combinator, Pantera Capital, Soma Capital, Seven Seven Six, Liquid 2 Ventures, among others."
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0V2cGFxdlFmRHpUWUoxdHVyWTgxNEpBMUpENjU0QXFINkg4cnZmaWtuT2dHZlBwRnpfSTh5N2Uxc1NpMVlaR01tV0tqdUswRlRyNDIzS2ZfaXhUd09RcGxrdDhTT0lwRlhrOEJ5ZC1ZejZLc0p6U1V2ZnpIMG9laWZ5cFlfYzBWaEJaMkVHeU5PazEtOU9mYUktX2YzSmdvV3lRNlBRQjBBaGpNYUYyMmU0WnFOMGJQNGhwT2lvTHZhWVI1TTNGUHJB?oc=5",
+    "https://datacenterdynamics.com/en/news/atomarine-raises-19m-for-nuclear-powered-floating-data-centers",
+    "https://www.blackridgeresearch.com/news-releases/us-based-atomarine-raises-usd-19-million-to-develop-nuclear-powered-floating-data-centers",
+    "https://traded.co/vc/deal/atomarine-secures-19-million-in-seed-funding-to-develop-floating-nuclear-powered-data-centers/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "polands human biome",
+   "candidate_ids": [
+    "58f51f4e7623"
+   ],
+   "company": "Human Biome",
+   "website": null,
+   "amount_usd": 18900000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-17",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "PL",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Title gives no AI/ML claim; microbiome company.",
+   "description": "Polish microbiome company that raised an $18.9M Series A.",
+   "confidence": 0.55,
+   "evidence": {
+    "amount": "raises $18.9M Series A",
+    "round": "raises $18.9M Series A",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOHJHNGpENDRXWkpZM3VkMFcySE1zeHVRNTk3TmUzbkRKbGpkOFJRbFJ6d0Y3cW94UEItd2NqV1VxcVgwa0dsd1NSMzZCelRFUlE5c2JKNy1WWU42bnN5aUkyY1UxVHRyUlZWaS1LektIWDZUSnNwZXU0ZjIwMHZtWGUxNU1UTjRXMTdjVVpyRzQ1dDdzQmdzaW1Vcw?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "primordial",
+   "candidate_ids": [
+    "c29e516adfd0",
+    "228924b65d6e"
+   ],
+   "company": "Primordial Labs",
+   "website": "primordiallabs.com",
+   "amount_usd": 18000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-10",
+   "lead_investors": [
+    "Ballistic Ventures"
+   ],
+   "investors": [
+    "Ballistic Ventures",
+    "Squadra Ventures",
+    "Lockheed Martin Ventures"
+   ],
+   "hq_city": "New Haven",
+   "hq_state": "CT",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-powered natural-language command and control software for military and uncrewed systems.",
+   "description": "Defense tech company whose Anura platform lets operators direct military vehicles, aircraft and uncrewed systems with natural-language instructions.",
+   "confidence": 0.92,
+   "evidence": {
+    "amount": "has raised $18 million in Series A funding",
+    "round": "has raised $18 million in Series A funding",
+    "lead": "The financing was led by Ballistic Ventures",
+    "investors": "with participation from existing investors Squadra Ventures and Lockheed Martin Ventures"
+   },
+   "source_urls": [
+    "https://pulse2.com/primordial-labs-18-million-series-a-funding-to-expand-ai-powered-military-command-and-control-platform/",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS3JNQVVUZGk2NXNLRWh4TWJTaDdKcW96azJBbEt1aG5LZ2lodS00T29obHFlNzZiU2R3T1B1cFBOTHdwM01BaE5ScTYxNGdneFVKZzYxVHVIcEltVnMyQXh1a1MxS2xFNjc1UzNzallIQmxIelBaY0h2d3R1NXF2c0p0VWdCUU5vdTNVaFZWel80bjA5cExRWEdrYkN4cUlLVUl5elRHMU9SUU03VXVVTXpxOVlaRjlCQmw0MFAxRHNub2NaYm1B?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "hyliion",
+   "candidate_ids": [
+    "114ff945c883"
+   ],
+   "company": "Hyliion",
+   "website": "hyliion.com",
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-10",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Cedar Park",
+   "hq_state": "TX",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Public company earnings/guidance news, not a funding round.",
+   "description": "Listed power-generation company raising its 2026 revenue guidance to $18 million; not a financing.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": null,
+    "round": "raises 2026 revenue guidance to $18 million",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdUlKdndtR2RMTXF3Rko1MkdIMXMtV3NQN2N3ZlpJbmZJQlYyMTJtZE9OWHFQQkF6cWk5ZF9fTlRSUmZ3QlIyN2RhNlh5ajcyTjFpMDdEcUdOZUk2dEpFUW9FOXdtYm9sRXlEOVJEWVpxTFQ2TmxTRTVGX2UwbGJSSEZlOHh6U1F6MFFLRURBX2wzMTVqUHRxaENUeWdjcXNoOUZaa1hFUjZBRjE1MXllWHAxSTM2aDVXeEpLcA?oc=5"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "biomatter",
+   "candidate_ids": [
+    "c2c2665a6c9f",
+    "50cdc988a464",
+    "a0df077f4637",
+    "3a5559d13312",
+    "6c09c6ce321c",
+    "165132eab3cb",
+    "df57e1454e38",
+    "77b73d7c933f",
+    "f19f4e8e4670",
+    "904b031cdb8b"
+   ],
+   "company": "Biomatter",
+   "website": "biomatter.ai",
+   "amount_usd": 18000000,
+   "amount_disclosed": true,
+   "currency_note": "Announced in USD; EU-Startups reports EUR 16.2M",
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-12",
+   "lead_investors": [
+    "Astanor"
+   ],
+   "investors": [
+    "Astanor",
+    "UVC Partners",
+    "Inventure",
+    "Metaplanet"
+   ],
+   "hq_city": "Vilnius",
+   "hq_state": null,
+   "hq_country": "LT",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-powered enzyme design platform.",
+   "description": "Uses generative AI to design custom enzymes not found in nature for pharma, food, diagnostics and industrial customers.",
+   "confidence": 0.88,
+   "evidence": {
+    "amount": "Biomatter has raised $18 million in an oversubscribed Series A round",
+    "round": "oversubscribed Series A round",
+    "lead": "Astanor led the financing",
+    "investors": "with participation from existing investors UVC Partners, Inventure, and Metaplanet"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVGlCUVZhalpHbW1Cc0JLdi16QnFsMTB1ZkhhcnpSa3ZpdjR5d0dZcWFGX0R6R0RxMnhzUkNLcGxMLTNGZnVkaWt1RU5ENGRrS3NVbTM5d3FpT1VJQ0ZxWXlrRGN4Q1A5V2hqRURONjE4TWNCS1g5S2ZuOHFnSXNvQXBDdWNMSXA4ek03TXFwSFozdnpj?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUZxbG1JVXNScXZiMTNBRzlWbDZweElvTkw0WGU5OVgyYUZYQnlmSW55UXI3U0ZKaExtdFBBdTVkUl9ZUDd5SnlYb1JqUzA5aEF0VUtSTUJ3UWVmN0Fkc2VKYUlITXBJU3h1cnBYRTB6enl6d0NvUEVzRXp1cXpLY1lxLXROZkYwMGFlY2lJYXZTbW1ZMC1PT1lRa0JSVjE3di1kVGo4MkNSOF9FRi1rLUhlS1JtM3RMZ2o3QWs5b0ZNLTg?oc=5",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbVRVV0FXQ1YxYldVMy1CM3gwOUh2X3VITjl3SjNORWpfdGdxVlN6OGVHd0xzYm1sMDZwYmxzVU9uNzduUDFSbDk3Ri1WYTU5X1ZlVjMyX0I1MVFZWDRRQW9TUlFfM0JKUzQxSm1IUFFrOE9uYTd1UGxMM0lQd3pVTW9SaDJZLTgtM2o4dmhRZWVqTUl2bTZjczMyVTlqZzVWVE5COE9KWC1YLU1hNkJ0OVduYjJnR3gxY2xHTFpjU0Voem0wRlRaSENKblAtX2I4ZlE?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWHRScVIwYUZsWm9nS3hzTGlOMDFiSnVDOWxNVk5ETWNENFJDNEpDWFRkOUJfU2xnT0xFQVQ4TmcyUmFZQl9GQmI3VVZNZERHTFloaUlYUHpqODQyRzQxUzMydGlWb1NFZTNmNnk4OFZwa3A3dUF3X0pWU3dZcGFnOFQyVnBSS21Qd3B3aFJsWElNM3NsTTJxejhmZUoySWpIcWZORTFaQ0phc2NJUGVEc3Yxaw?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVk9ZeFg3V3d1SG9KeXAwSW5ZcFY5YXdaSWVmZ0FrMFRVWTRhdFg5N2FtcEZMSFIxank2UzYtQ0lPSi1aR0I3bUtiN0YyTXFYcWR6eEtHSmQtYVZjdGxoZGRvMTZPcGNPeDdDeFotajVVX2VBdHR2amk1R2dCY0FmUjd2ZlJrVk52S0JlY0xUVExISXY2N0FEVzEwS0dsMEw1VV91TlZpMFhxNWNnLWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdTJRUlFqWWpVUEY3QnhqcGhKVUZEemIxcWJmSXdlcmJmTkZzdXhVZXZWczNTempfeEVuTEZ1dWtWb09qVkNVaDgzNUgwd2FuSnFabjdGM3hzVHRRS0pTc1R3aWNXRlJDS3JKd1N1N1BZTjIwOWFkYlRndHpKUERTSmJZVkEzYUs1UXhkd3JfZ1J4TGx5T09BcXRyRnFONkI4TVhoclVTOVZFZWxHYkQybGpqUzFPTXJm?oc=5",
+    "https://pulse2.com/biomatter-18-million-series-a-to-expand-ai-designed-enzyme-platform/",
+    "https://techfundingnews.com/biomatter-lands-18m-from-astanor-and-uvc-partners-to-build-a-vilnius-enzyme-lab/",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkZEQkg5b0hIaFRLdFBmT1J3MkpyLURvdVdkT2pXdTB4SDRqNzdxV29TMTk3VHRBRWdHNjh4UDVja25zQmVFc2NqQy1sQnR1c3JxdmVHT2pud2hSamh5a0hOcTItVXlObmNndkY3VXhyZkZKeFlfWmZYZnlRYWctWlBmMXJhSmR6SDR1M0ZZa01wM1MyVkVfek13RUdIZw?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX0lZSTJIX2k4cDdwQzljZDg0aEo0Zk1zdncyTERKczJCOTdLZjNiMnRGNXhpTlk1dnYzakN6RmNISER4cXZjaHpqNTNGZWU1aHZ6SHIzNjZmSHFzODJ4NTlPemJwSVFBZExaMmFYNU9mVTNKN1Q4bmxhYUZSVlpjc1RSTlBiYnlrZXc2WXR5aFN5aEhNUHc5YXM1QmxOWFI4VDBQQ0pSak4yTVdEbktfQg?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "alecto",
+   "candidate_ids": [
+    "6495407bb108",
+    "4a3e2b4de69c",
+    "c41c747d0273"
+   ],
+   "company": "Alecto",
+   "website": null,
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": "Announced in USD; EU-Startups reports EUR 18M",
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-16",
+   "lead_investors": [
+    "Insight Partners"
+   ],
+   "investors": [
+    "Insight Partners",
+    "Firstminute Capital",
+    "Blue Lion Global",
+    "Andrena Ventures",
+    "FJ Labs",
+    "Antiportfolio Ventures",
+    "Rigby Group",
+    "Mischon de Reya",
+    "Simon Rogerson",
+    "John Reynolds"
+   ],
+   "hq_city": "London",
+   "hq_state": null,
+   "hq_country": "GB",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Describes itself as an artificial intelligence-native law firm.",
+   "description": "AI-native law firm (Alecto Conveyancing) starting with UK residential property conveyancing for consumers.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "raised $20 million in seed funding led by Insight Partners",
+    "round": "$20 million in seed funding",
+    "lead": "seed funding led by Insight Partners",
+    "investors": "Firstminute Capital, Blue Lion Global, Andrena Ventures, FJ Labs, Antiportfolio Ventures, the Rigby Group and Mischon de Reya LLP also joined in the round. Angel investors participating in the round included Octopus Group Chief Executive and founder Simon Rogerson and SwiftKey founder John Reynolds."
+   },
+   "source_urls": [
+    "https://siliconangle.com/2026/11/16/alecto-raises-20m-seed-funding-to-make-uk-property-law-more-accessible-to-consumers-with-ai/",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMlNzZ0ZwWnJ6dmVITGJTeWRDcEdITmdLenV1NFh0X2RJN0JFd2tNMGl0WHBhMjAtWU9hOHJuc0NfQmNXczh1RjY5OTJRYzhxWDZzclJnSEpoOVdQVHRuNHhFQlVIelRTZ09OcnZJQUVoMUZVdTBISURQekhMdUI0YkVVSEZEYWxCb2EyUGF1UnA1NHpucFRIVS1uME9XUUNidGRjdTJLWUlIcTNkRzZZeW53ZHA1em4xaHRtRHJOUlk?oc=5",
+    "https://techfundingnews.com/alecto-raises-20m-from-insight-partners-after-hitting-8m-arr-in-8-months/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "blackbird",
+   "candidate_ids": [
+    "13e663864fa1",
+    "9bd1b7ca516f"
+   ],
+   "company": "Blackbird",
+   "website": null,
+   "amount_usd": 17700000,
+   "amount_disclosed": true,
+   "currency_note": "EUR 16M per ArcticStartup; Dealroom reports $17.7M",
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-16",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "DK",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Workplace coffee service; no AI/ML claim.",
+   "description": "Danish coffee startup expanding its workplace coffee service across Europe.",
+   "confidence": 0.65,
+   "evidence": {
+    "amount": "raises $17.7M Series A",
+    "round": "raises $17.7M Series A",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc0tqRjUwZmRjbVNVNk9ERzVnNVA2eTVvQWN1NEE4emloUXh2dXJ6Um1Fb0pmRFpBMVd4bVNSTHBLbTNRazBmRXhTSmJEQ0lSMDM4UkRjdjRTNDdESGc0UnJjMFlVVmhNMFRwVE1vZGtnYTRUaDgwYWNXWHZhVExJVFFnSzUxM2k4NVhnX01Sdjk?oc=5",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBTcTQ5Y3RSVkdWaXBmMTFFdzdhU25rNFktTk81VmdKVVlJajJBM1pVbXlHRGMzaTgtVWo1em1jemg0SW9CVVNRR2d3bU54XzZaS3dPWFJyZzZoSHJnQmRfSkE0dzJxVVNzUm9KWk1yLTBwQdIBckFVX3lxTFBTcTQ5Y3RSVkdWaXBmMTFFdzdhU25rNFktTk81VmdKVVlJajJBM1pVbXlHRGMzaTgtVWo1em1jemg0SW9CVVNRR2d3bU54XzZaS3dPWFJyZzZoSHJnQmRfSkE0dzJxVVNzUm9KWk1yLTBwQQ?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "salka energy",
+   "candidate_ids": [
+    "9e87ce4ccd2a"
+   ],
+   "company": "Salka Energy",
+   "website": null,
+   "amount_usd": 17650000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-12",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "San Diego",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Renewable energy developer; wind farm project financing with no AI/ML claim.",
+   "description": "Renewable energy developer and owner that secured project financing for its 37.4 MW Cabazon wind farm and acquired the Edom Hills project.",
+   "confidence": 0.65,
+   "evidence": {
+    "amount": "has secured $17.65 million in financing for its 37.4-megawatt Cabazon",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/932905/salka-energy-secures-17-65-million-for-cabazon-wind-farm-expands-california-portfolio-with-edom-hills-acquisition/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "valkryn",
+   "candidate_ids": [
+    "699a8916798e"
+   ],
+   "company": "Valkryn",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-17",
+   "lead_investors": [
+    "Andreessen Horowitz"
+   ],
+   "investors": [
+    "Andreessen Horowitz",
+    "Cantos Ventures",
+    "Ambition Capital",
+    "Caffeinated Capital"
+   ],
+   "hq_city": "Washington",
+   "hq_state": "DC",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Tests and scores robotic and autonomous military systems (autonomy/robotics).",
+   "description": "Defense-tech tester whose Battle Lab instruments real-world tests of autonomous systems and scores them against government criteria; $17M total including a $2M pre-seed.",
+   "confidence": 0.75,
+   "evidence": {
+    "amount": "a16z leads $15M seed into defense-tech tester Valkryn",
+    "round": "a16z leads $15M seed into defense-tech tester Valkryn",
+    "lead": "a $15 million seed round led by Andreessen Horowitz's (a16z) American Dynamism fund, with participation from Cantos Ventures, Ambition Capital and Caffeinated Capital",
+    "investors": "with participation from Cantos Ventures, Ambition Capital and Caffeinated Capital"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxObzRGZEhHZVpDbDVJNFdqOHVaZUM2cXdadEEwSVZOdWNNX2Y5WU9iLTBQdW9vczZhVmpweHRRaHNhX1pvMHpZdTE3RUxTMEtENWdDMUdLNGlDVXhiaHlaR3BIbHRZYXFOTUJLSC1sUDZPbzRNMjE1aldZVWM5T1JMT3dDbjQ2bTRVWE11bzZQbUZUbC10aFE?oc=5",
+    "https://www.axios.com/2026/11/17/valkryn-seed-a16z-autonomy-testing-drones",
+    "https://dealroom.co/news/173481-a16z-leads-15m-seed-into-defense-tech-tester-valkryn/",
+    "https://finance.yahoo.com/technology/ai/articles/valkryn-emerges-stealth-build-battle-113000729.html"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "dodai",
+   "candidate_ids": [
+    "47ecf51f949a",
+    "86280771e6b1"
+   ],
+   "company": "Dodai",
+   "website": null,
+   "amount_usd": 16000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-16",
+   "lead_investors": [],
+   "investors": [
+    "Tokyo Gas"
+   ],
+   "hq_city": "Addis Ababa",
+   "hq_state": null,
+   "hq_country": "ET",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Electric motorcycle maker; no AI/ML claim.",
+   "description": "Electric motorbike startup scaling electric motorcycles in Ethiopia.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Dodai raises $16 million Series A",
+    "round": "Closes $16M Series A",
+    "lead": null,
+    "investors": "Tokyo Gas Backs Ethiopia’s Dodai"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQjBlQWtmUFlwVXBMU3NXWTF6ejg0MlJ4TWNZVTNQMlByeWlMX1NJLXU2QnVmdE9vUk8yeVVoQzU5b3lPYmVzb25iX0hnYzZnVjMzVU1qMVRYTzZwNkhFc1NpMTcxWDJzZUhwVU1wRzJTWWRNWTRDb09pbUtTR1E3LWZORnpJY3RCU2VUVy1UNEtIRGFlaUtkU1VBMVlIcHpaS3RpRHhrYUw5dw?oc=5",
+    "https://techbuild.africa/tokyo-ethiopias-dodai-electric-motorbike-series-a/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "eaglerock",
+   "candidate_ids": [
+    "45a6f94ae0e5"
+   ],
+   "company": "EagleRock",
+   "website": null,
+   "amount_usd": 15400000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-09",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Land and water infrastructure acquisitions in the Permian Basin; not a funding round.",
+   "description": "Permian Basin surface land and water infrastructure company that bought two Midland Basin properties for a combined $15.4M.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "completed two acquisitions in the Midland Basin for a combined $15.4 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/eaglerock-15-4-million-midland-basin-acquisitions-and-double-eagle-v-agreement-expand-permian-footprint/"
+   ],
+   "exclude_reason": "acquisition"
+  },
+  {
+   "group_key": "raise3d",
+   "candidate_ids": [
+    "8e64373265db"
+   ],
+   "company": "Raise3D",
+   "website": "raise3d.com",
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-10",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Irvine",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "3D printer manufacturer; no AI/ML claim found.",
+   "description": "3D printer manufacturer moving from prototyping machines toward production-grade additive manufacturing.",
+   "confidence": 0.4,
+   "evidence": {
+    "amount": "raises $15M Series C",
+    "round": "raises $15M Series C",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDFmaWpDMVROVjRfMnVPTjlYd25uNGEzTVA4Z2k2cW1rOVExUXRPSTBDaHJvMnRjWE14TzU3c00xS2gxeFVjcTgtS0ZOUUNER0YxS3BkOG9SMzZGcWUySXZGUWhRc3dlR01fQ01YZlhTNFRfT0hhclZiVTU3dHl2WXMxMG5BSXZkNXNQdVJlSExFaTdQLUtneXhPWU1TWW1VcVhuRzFVVTRMNnVWVmJVMA?oc=5",
+    "https://3dprinting.com/news/raise3d-closes-15-million-round-and-introduces-t450-and-t700-large-format-3d-printers/",
+    "https://www.yicaiglobal.com/news/chinese-3d-printing-device-maker-raise3d-bags-usd158-million-in-latest-fundraiser"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "csiro spinout",
+   "candidate_ids": [
+    "2e48f0caf654"
+   ],
+   "company": "Hadean Energy",
+   "website": null,
+   "amount_usd": 9750000,
+   "amount_disclosed": true,
+   "currency_note": "AUD 15M converted at 0.65 (Australian publication)",
+   "round_type": "Grant",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-09",
+   "lead_investors": [],
+   "investors": [
+    "Australian Renewable Energy Agency"
+   ],
+   "hq_city": "Melbourne",
+   "hq_state": null,
+   "hq_country": "AU",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Solid oxide electrolyser for green hydrogen; no AI/ML claim.",
+   "description": "CSIRO spinout commercialising a tubular solid oxide electrolyser that uses industrial waste heat to make green hydrogen with less electricity.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "has secured a $15 million grant from the Australian Renewable Energy Agency (ARENA)",
+    "round": "$15 million grant",
+    "lead": null,
+    "investors": "grant from the Australian Renewable Energy Agency (ARENA)"
+   },
+   "source_urls": [
+    "https://www.startupdaily.net/topic/funding/csiro-spinout-lands-15-million-to-make-green-hydrogen-using-less-power/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "cross border payments",
+   "candidate_ids": [
+    "1107989d02c8"
+   ],
+   "company": "Unnamed cross-border payments company (Stock Titan)",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-09",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Listed-company financing item from a stock news wire; public companies are always false.",
+   "description": "Stock news item about a cross-border payments company receiving $15M in gross funding from a single investor; company name not given in the headline.",
+   "confidence": 0.3,
+   "evidence": {
+    "amount": "received $15 million in gross funding from one investor",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX1hGQ044aUFiRzV6aXdnRWxBNnVRNW9lWk1fcXIwOHlORk1UVkxya2pIYmF2VHhpZGE0ZnRPYkdzN2RXYWZfbEdfVnJNaGM2blVQcWFrR1YtREZHaTdqb3FHR2UwN3NZdlU4MzJUVm9ocTdkVTJUeHp1QU9KMW80dUlKbjlhZUZNWmxjdGVUMzR0aGM3Yk02aWxVZkZVVEpMaGhkamdGcGxxOW4tVDdHN09UM0pWZVBPYzhWUEhhYw?oc=5"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "group_key": "noctua science ventures pre seed",
+   "candidate_ids": [
+    "fb7df93711dd"
+   ],
+   "company": "Noctua Science Ventures",
+   "website": null,
+   "amount_usd": 16650000,
+   "amount_disclosed": true,
+   "currency_note": "EUR 15M converted at 1.11",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-10",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "AT",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Venture fund launch; funds are always false.",
+   "description": "Pre-seed fund for Austrian university spin-offs launching with EUR 15M.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "Launches With €15 Million",
+    "round": "Pre-Seed Fund for Austrian University Spin-Offs",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM0J2UkFER3pfNVd3UkNiTFllSmxDNEo2YWtuZ1JnakRmdG1ES3RnNk1KTzZKMzVkY2JEZDhOQlZ0bHpldFdzenEydVE4bFpjYl93LUx5bmhBOVBJOEZKOUJILVd2bkFfZUNmT2VRVEdrRnRmemU1SVlENTQ1WlB6OUE0MFV5dkZJOTdTOTNyclA0M2taMWpvbGFRd1RidngxSzRyRHhRbnIxWFRKYzJrZ244TFU?oc=5"
+   ],
+   "exclude_reason": "fund"
+  },
+  {
+   "group_key": "myeloma fund",
+   "candidate_ids": [
+    "a2027dda6b24"
+   ],
+   "company": "Myeloma fund",
+   "website": null,
+   "amount_usd": 19800000,
+   "amount_disclosed": true,
+   "currency_note": "GBP 15M converted at 1.32",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-09",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "GB",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Disease-research fund launch; funds are always false.",
+   "description": "Myeloma research/investment fund launching with GBP 15M of initial backing.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "launches with £15m initial backing",
+    "round": "Myeloma fund launches",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pharmatimes.com/uncategorized/myeloma-fund-launches-with-15m-initial-backing/"
+   ],
+   "exclude_reason": "fund"
+  },
+  {
+   "group_key": "4minds",
+   "candidate_ids": [
+    "67ad88a708d1",
+    "65322d9ea478",
+    "44c38714b89c",
+    "05ce6bc25aee",
+    "497d822ee60c",
+    "1b478f911f08",
+    "b108bbdf46a6",
+    "5a430794ba91",
+    "c74aa77e8988"
+   ],
+   "company": "4Minds",
+   "website": "4minds.ai",
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-12",
+   "lead_investors": [],
+   "investors": [
+    "Waterwood Capital Group",
+    "Isom Holdings"
+   ],
+   "hq_city": "Dallas",
+   "hq_state": "TX",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Enterprise AI platform that builds knowledge graphs and continuously trains AI models on company data.",
+   "description": "Enterprise AI platform that pulls data from 40+ business systems into a knowledge graph and continuously trains models inside the customer's own environment.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "raised a $15 million Series A round at a $500 million post-money valuation",
+    "round": "$15 million Series A round",
+    "lead": null,
+    "investors": "Investors include Dallas-based Waterwood Capital Group and Lubbock-based Isom Holdings"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWG1OWTZ6bE1WeHUzOGkxTHhiZHhoRlZPcFB5Q2VTN2xkWGxTejFIMUdySmxFbmJfZkVjdXBFdmpxS0JYdGNhaVRIVDdjV0YyV1JMeXNibU9NYmJVNDdmSVk4bXNvaDR3Y1F5cmF2TkZUQTNxUk5GcXdUaF80M3daSkl1eW1kYWtOeGdSNjNTa1JVb3ZlbGU2N1JTdWZxa2o4QVVfZ0huNjJWMWFrS2hlOA?oc=5",
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORmtvcnBqbExDYXVPbmoybnowQ3NIaEtuQ3phcGJMU1Z5VmgzdEpwdjVtdENGTWJCS2hacmRVOUZnVG85ZWc1aTd5cDFwdVM5dHhzOUdubWN6SFlIYXF2a3J5UXpMV1NPcWZ5SWlSa1NRR0xocG9JZFNhWFBfZDhKZ1BpVE5SNGxhZXdSOXQ2cnFNd2ZlQW5rWk9tWDFPUHVoU1c4THBLUWdTYXpzOHZoSy1Uc0dmdUJoU2dSMGJmZDFxaEFhRnpuZk9jb3BoUzVhU0hIQUcxTFowVkZFcTR5U0Rn?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOel9WdmRIREJIUU50TlpMUnRJTEJfZ2hMdUVkVFhIQzkxUFgxeHNWXzF0bUNNMzlocmZ4MDhIaHJHelF6Q2twUFE2UXkzVnZzakJHblJOU2tPTG1qay1MS2hoak1ZMVFVdU14akZoblZtVnRKQWlYMktxWU4ycURqNkRQMUduT0wydjhmcnhVWXdlZzlFNFZZVHluLTQ2QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdnRmMGxpSC1iZTE2b2FLZEdoQ3JSbmhrVy11UjUwRkxIM3BhODZTQjNIT2Q5czNEeDFZcUVKN1lMZTZhZjRJY2RBVVN6aE15b0tUSEJGR1d6OFVfcW1OZmNvNmhNQW5lZXZybFdQbG04T0E5NmtUN1RuWHlCRXlRYUFISlVhbnBXVXZyUEx4YXR6M3JOa0h1YkhXNHJtQkxMVlM2UEN0U0J6bEJmTXZuY2hMMmxfM2VoTUpGNDFLdzZucU8xN2k5NnIzbTlOYzFx?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNYWlTT01kNjVJeWc0ZTNaQjExVXZCaDR5eXpPbDRwMzZkTnpKZFlwUUpqQlZpelhpQWl6RGpPa0xZM3lyU2ZFdl9La2pHYkVpSEtkV3dRWEp5Y0I4MU1tekVDaF9BVFNQeUJBQ3c5enVUMkgxVmNiU2F3cG1LSWRyTjFMT3JFOEd3ZUswV0IyUzJ6RDdEMGxqVnVqLU5fdw?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2RBVU1UQmNCNWxqUVFJYWE4VzdYdm4yU1B6OWw2UTdOLXhucmtpS0JNZm1DRkZVSUVlWUNoVEFrY2VlVDNFMllIbkVKVWc0UnNWdTgtM1VkNWk5aGU2YkhkNHVHTHVwRzR4ZGZlX2E4bDh1b3hFSnp1Z0ZoSGQxNHFWV2lsdUlDcXRIZmNJWU1VamxoVzNESA?oc=5",
+    "https://pulse2.com/4minds-15-million-series-a-funding-at-500-million-valuation-to-expand-enterprise-ai-platform/",
+    "https://dallasinnovates.com/dallas-ai-startup-4minds-raises-15m-series-a-at-500m-valuation/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "clawlab",
+   "candidate_ids": [
+    "569de99d95dc",
+    "2f5a34e38c89",
+    "4bd23ec10701"
+   ],
+   "company": "Clawlab",
+   "website": "clawlab.com",
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-12",
+   "lead_investors": [
+    "miHoYo"
+   ],
+   "investors": [
+    "miHoYo",
+    "Vision Plus Capital",
+    "Shunwei Capital"
+   ],
+   "hq_city": "Shenzhen",
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Smart knitting hardware; the release contrasts it with AI software and makes no AI/ML claim about the product.",
+   "description": "Consumer hardware startup building a desktop smart knitting machine for home use that turns an image or idea into a knitted item.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "has raised more than $15 million in a Pre-A3 funding round led by miHoYo",
+    "round": "Pre-A3 funding round",
+    "lead": "Pre-A3 funding round led by miHoYo",
+    "investors": "Vision Plus Capital and Shunwei Capital also increased their investments through super pro rata participation"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/clawlab-raises-over-15-million-in-pre-a3-funding-to-bring-smart-knitting-home-302937289.html",
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOemR3ck5Td1FyRnRGNW5WNGdyUEowTGpVeFRqcnhOU1d2cGhMMm1Rc29fVFNRanBCeDhHZTBjbks5QUx2SGoxRXpLWHJRVGpmZS1wZTI0RmJOWjZtbjR4a0xGUjNpbmVDbUtCMEtaMDllVWR0VWJ0Z2o3eDkwZjlvOG03RkJQdzl2cDk2SWo3dlZQNGwyUWlrOENiNWFXWUhQRlFtbGwzSXJLemhBRi1RVURTUVRKZFFyWU92ODRkM0thNloyUzM4bkhycWg0LWkwOG9hVVFqTW16OFdZWGNJem02c9IB6AFBVV95cUxPdERtaFF6ajFybTlfdEJPXy1MQi1CN3lmRGlCblZSN1FSNTdPWmgwUFNwRkI1S3VIOFJSYmctTGNoSmhCZDdzVXhSVEs0OFV3bVNqb1dadFU2RWZrT05wVXJvRWI5UVlVOXBtZFhrQU0tSkJ6S3VRNWdrMlNOdWZaUHptZVVTX3YzeG50MGFwYnlIY1NRNmp0aTk3UlkxOG1EX3JSM0Y5Zkl1RENJcFFnd2VVT1lDcVJOYmM1UHg1R3JTODc5dHdqOERVQnBfMFFCWU1lVTVWZTFvWXZoRF81ZVVmbElrTWta?oc=5",
+    "https://pulse2.com/clawlab-over-15-million-funding-advances-smart-knitting-machine-for-home-use/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "duet",
+   "candidate_ids": [
+    "8f334ae89388",
+    "f7ba2d01d879",
+    "7c9b21ae9eda",
+    "bf8af1e5b281"
+   ],
+   "company": "Duet",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-12",
+   "lead_investors": [
+    "Kairos"
+   ],
+   "investors": [
+    "Kairos",
+    "Lerer Hippeau"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Funding supports AI-powered operational tools; the company uses AI-powered technology to identify patients who have fallen out of care.",
+   "description": "Healthcare technology company supporting independent nurse practitioner-owned primary care practices with a clinic network, tools and value-based care contracts.",
+   "confidence": 0.75,
+   "evidence": {
+    "amount": "has raised $15 million in Series A funding led by Kairos",
+    "round": "$15 million in Series A funding",
+    "lead": "Series A funding led by Kairos",
+    "investors": "with participation from Lerer Hippeau"
+   },
+   "source_urls": [
+    "https://pulse2.com/duet-15-million-series-a-funding-to-expand-nurse-practitioner-owned-primary-care-clinics-across-the-u-s/",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZMmQzNVJUZXhtcXZMRkhNZTRnRW4zMjJuWkIzczRKTEZ3UklRZFcwTzNFZ21zU0F2MmRmTzIxY3N4S3hoZmFUSDB1NmRyZUtDTTVzRVN6UHNQa3FNX1p0dXZPVkhxY211bVBVX0NrVG9oWE85YUpPQWV4Szg?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPazN4Q3lYejgxbE5Cb1haaGxTbHRQbUF4bnpFU3pmLVJ1RmhKN2NkTTVPelo5ZW9hWmVlUkt2VXJXZ3VBTnJlWWc1TlpqU0Q5T0E4SzRqWEVnWkt0M2xKNEZWb1VGMkhfZ0NyZXhxLW9LeVU1emZGdGVqVUlYTW9LUzU5a0xKZjNkd0QzSjJaTFNUdFUzUFRFX1dKRmUwNlYwUzhGcjRZcHlvQ3BCbldFTzdJb2p1QQ?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "duet",
+   "candidate_ids": [
+    "bf8af1e5b281"
+   ],
+   "company": "Vumedi",
+   "website": "vumedi.com",
+   "amount_usd": 104000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-13",
+   "lead_investors": [
+    "Oak HC/FT"
+   ],
+   "investors": [
+    "Oak HC/FT"
+   ],
+   "hq_city": "Oakland",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Coverage describes Vumedi as an AI-powered clinical learning platform for physicians.",
+   "description": "Physician video education and clinical learning platform with more than 100,000 physician-led videos across 21 specialties.",
+   "confidence": 0.55,
+   "evidence": {
+    "amount": "Vumedi Receives $104 Million Investment from Oak HC/FT",
+    "round": "a Series B growth investment from Oak HC/FT",
+    "lead": "Series B round led by Oak HC/FT",
+    "investors": "Vumedi Receives $104 Million Investment from Oak HC/FT"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPazN4Q3lYejgxbE5Cb1haaGxTbHRQbUF4bnpFU3pmLVJ1RmhKN2NkTTVPelo5ZW9hWmVlUkt2VXJXZ3VBTnJlWWc1TlpqU0Q5T0E4SzRqWEVnWkt0M2xKNEZWb1VGMkhfZ0NyZXhxLW9LeVU1emZGdGVqVUlYTW9LUzU5a0xKZjNkd0QzSjJaTFNUdFUzUFRFX1dKRmUwNlYwUzhGcjRZcHlvQ3BCbldFTzdJb2p1QQ?oc=5",
+    "https://briefglance.com/articles/vumedis-ai-expansion-how-peer-video-is-reshaping-medical-decision-making",
+    "https://www.thesaasnews.com/news/vumedi-raises-140m-series-b/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "delphina brings total funding",
+   "candidate_ids": [
+    "25d983cb9759"
+   ],
+   "company": "Delphina",
+   "website": "delphina.ai",
+   "amount_usd": 7500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-12",
+   "lead_investors": [
+    "Radical Ventures",
+    "Costanoa"
+   ],
+   "investors": [
+    "Radical Ventures",
+    "Costanoa",
+    "Tenacity Capital",
+    "Fei-Fei Li",
+    "Guido Imbens"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI analytics product whose Context Factory uses AI agents to build and maintain business context.",
+   "description": "AI analytics platform whose Context Factory uses AI agents to build and maintain the business context behind trusted answers from company data.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "announced $7.5 million in new funding, bringing its total funding to $15 million",
+    "round": null,
+    "lead": "The round was co-led by Radical Ventures and Costanoa",
+    "investors": "with participation from Tenacity Capital joining high-profile angels Fei-Fei Li, Nobel laureate Guido Imbens, and early employees of Anthropic and OpenAI"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/delphina-brings-total-funding-to-15m-to-take-trusted-ai-analytics-from-the-data-team-to-the-ceos-office-302937371.html"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "transition",
+   "candidate_ids": [
+    "a2dfdec2603f"
+   ],
+   "company": "Gama",
+   "website": "gamaspace.com",
+   "amount_usd": 16650000,
+   "amount_disclosed": true,
+   "currency_note": "EUR 15M converted at 1.11",
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-12",
+   "lead_investors": [],
+   "investors": [
+    "Transition",
+    "Planet A",
+    "Draper"
+   ],
+   "hq_city": "Paris",
+   "hq_state": null,
+   "hq_country": "FR",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Space hardware (satellite solar arrays); no AI/ML claim.",
+   "description": "Paris-based spacetech developing solar arrays for satellites.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "just closed €15 million in seed funding",
+    "round": "€15 million in seed funding",
+    "lead": null,
+    "investors": "Transition, Planet A and Draper back €15M seed"
+   },
+   "source_urls": [
+    "https://techfundingnews.com/gama-15m-seed-satellite-solar-arrays-wing/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "osmunda",
+   "candidate_ids": [
+    "64caaf607d4a"
+   ],
+   "company": "OSMUNDA",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series D",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-13",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Headline says the round funds an AI platform alongside a device factory.",
+   "description": "Medical device services company raising to build a device factory and an AI platform.",
+   "confidence": 0.4,
+   "evidence": {
+    "amount": "raises ~$15M Series D",
+    "round": "raises ~$15M Series D",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFJjUjZ6MEIxQ0VvYXI2NWYwOUEyQzhwZDU4dDRBdjh5d1JsNklvLWlwcVRaQWdlaXFzMHB6NWdaYVFHcUVLR21lUG9nN1lFVFVOVGkwbTgtalhFTXVqYWpiYUlhRVlOcnpnZkxFNjhTaWdUVU5PQ2o1NkdGNnNveDhQWmRHczNrNmJnYkItZFBQZzRSZnFtZUl3VjA4ZE1VOEZn?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "quiktech",
+   "candidate_ids": [
+    "16ffe3402580"
+   ],
+   "company": "QuikTech",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-13",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Builds self-driving (autonomous, AI-directed) laboratories for science.",
+   "description": "Builds self-driving labs for scientific research.",
+   "confidence": 0.4,
+   "evidence": {
+    "amount": "raises $15M Series A",
+    "round": "raises $15M Series A",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTXhFbWdVT191SGVZTGdueWdZc3J3UFVZZlRIcXFRNEVFR0RaYk85SS1qZllqZy1nNDNWSzI4SHd0UkZiaDhKTlZzV2RQVzkwQUo3ckQxQTlxbmtMdEx0QWpVaExkck5RcXJKTGZpRVYtMWt6T2lFZ0VkV1JhNmw2TUVRczlUUDdOX052Tm9hN1pzU0F5bkxWQXNBMHllLVBHUEJv?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "surf",
+   "candidate_ids": [
+    "1b4b1b2ef6fd"
+   ],
+   "company": "Surf",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2025-12-10",
+   "lead_investors": [
+    "Pantera Capital"
+   ],
+   "investors": [
+    "Pantera Capital",
+    "Coinbase Ventures",
+    "Digital Currency Group"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Crypto-native AI model and research platform.",
+   "description": "AI model and research platform purpose-built for digital assets.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "Surf Raises $15M for Crypto-Native AI Platform",
+    "round": null,
+    "lead": "Crypto AI Startup Surf Raises $15M Led by Pantera Capital",
+    "investors": "Coinbase Ventures and Digital Currency Group also took part"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWnJlem9ib0ZHcW5Gek9PWEVCbXp2V0h1Y1h5c0ZJX2dJRVU4Mk1aWmxBcEp1OExhYm4tcl85UHBpa01tYVlCMnE0QmlyTFQxMGppX3hNU1UwTG1rbFBkQjBIeVZrVExwRmlsa19FQW9Nc19sRUE5Z2FYaXUtM0YydWRnTFVyTWFzTGRZaVdfbklfTGFnWVdGUQ?oc=5",
+    "https://cointelegraph.com/news/surf-15m-build-crypto-ai-model-pantera-coinbase-ventures",
+    "https://fortune.com/2025/12/10/exclusive-surf-an-ai-platform-raises-15-million/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "dli backed c2i semiconductors",
+   "candidate_ids": [
+    "a8dc9b572167"
+   ],
+   "company": "C2i Semiconductors",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-02-15",
+   "lead_investors": [
+    "Peak XV Partners"
+   ],
+   "investors": [
+    "Peak XV Partners",
+    "Yali Deeptech",
+    "TDK Ventures"
+   ],
+   "hq_city": "Bengaluru",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Grid-to-GPU power delivery chips for AI data centers (AI infrastructure).",
+   "description": "Indian fabless chip startup building grid-to-GPU power delivery solutions for AI data centers.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "raises $15 million from Peak XV",
+    "round": "India: C2i Semiconductors raises $15m Series A led by Peak XV Partners",
+    "lead": "Semiconductor startup C2i Semiconductors raises $15 Mn led by Peak XV",
+    "investors": "with participation from Yali Deeptech and TDK Ventures"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSFVfSTY2U3hXSXZQLWhPejhWakJWSmw4elV1T01yRWdWR3lGZ0hTVGVxRjVBb09JVFlMQm5taHROaFhWRFViR0dWak1CM2JnQ2tEenl6dzlWSThJSVNoOXZVcWNMMkJCX0xmLXNjZHFJTE5sTGJoU1lBSXdBeTg1UjJLRGdienpvVDhzMDZZZUhSS0xaSENiNm40V1FXdUR6UHc5d2VJYlFGMDVCZEg1Ty1NZm1BMEhZSVQydTQ2eVJfUFRJNTJBVC1XanNZb1owdlFYNEpkVQ?oc=5",
+    "https://entrackr.com/news/semiconductor-startup-c2i-semiconductors-raises-15-mn-led-by-peak-xv-11110040",
+    "https://evertiq.com/news/2026-03-06-indias-c2i-semiconductors-raises-15-million-in-series-a",
+    "https://startupintros.com/news/c2i-semiconductors-series-a-2026-02-15"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "guance cloud",
+   "candidate_ids": [
+    "92672018a6cd"
+   ],
+   "company": "Guance Cloud",
+   "website": "guance.com",
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-13",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Shanghai",
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Headline describes an observability platform (a Chinese Datadog) with no AI/ML claim; not verified by lookup.",
+   "description": "Chinese cloud observability and monitoring platform positioned as a Chinese Datadog.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "raises $15M Series A",
+    "round": "raises $15M Series A",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd1FIa2FfbVF1LWRDZlZxS0h0Y0NEUVNWaHcyMjczXzY0bmxGZmE2cDFNQ05oRDl4RkJDbXlJbFY2eVN3Y3ZwU1NieEh6cVZhbWZVN0lodUpjVE9nUWo4SVlEZUYtblJGY0VfNXZmbTBRb1pDRWFHSjdjWUdFd3ZTMUNhRk14RVFHUDktRUNMNDlHdFNhSU9DTQ?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "weibuild",
+   "candidate_ids": [
+    "4892defeabb7"
+   ],
+   "company": "WEIBUILD",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-15",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Embodied-AI construction robots (robotics).",
+   "description": "Builds embodied-AI robots for construction work.",
+   "confidence": 0.45,
+   "evidence": {
+    "amount": "raises $15M to scale embodied-AI construction robots",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVlljb3ZJeHNnZHM5T2RTSkltYVl0S3M2eGZ4Qms3U2tEZnlnN084UHZ1SmhjRUliNGotQ0huYnhGWUlXM2ZSSDlqM0JRejRCLUM0aHhKNVoybF81UXlvLXdQZTBhTEJFT3RXZDdMN25mTm5rZG5EZzZzUGJrNzlNckM2XzI0cTBGLTVseDNRYWE3aEowdkhDRjhn?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "odaia",
+   "candidate_ids": [
+    "140301049769",
+    "769a8cef0334",
+    "fbcfbec8eebf"
+   ],
+   "company": "ODAIA",
+   "website": "odaia.ai",
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-17",
+   "lead_investors": [
+    "Monograph Capital"
+   ],
+   "investors": [
+    "Monograph Capital",
+    "PHM",
+    "BDC Capital",
+    "Flint Capital",
+    "Innospark Ventures",
+    "Graphite Ventures",
+    "Threshold Ventures",
+    "Wittington Ventures"
+   ],
+   "hq_city": "Boston",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Describes itself as an AI company delivering predictive commercial intelligence for pharma.",
+   "description": "AI commercial intelligence platform that helps pharma brand, marketing and field teams prioritize healthcare professionals and coordinate engagement.",
+   "confidence": 0.88,
+   "evidence": {
+    "amount": "closed a US$15 million Series C financing led by Monograph Capital",
+    "round": "US$15 million Series C financing",
+    "lead": "Series C financing led by Monograph Capital",
+    "investors": "anchored by strategic investor PHM"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/odaia-raises-series-c-to-scale-predictive-commercial-intelligence-for-pharma-302941628.html",
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQemlWMjBMSjl3Rnd2YXRlZHRjSDNPVVJBR3g4U3FoXzJ2Uml4SEZFdUFsbUxEcVVEZ05EVFdTNk9Fdzh6MUJJcDFPRV9acDcyOEVUUlFWUkFPV0xYWVg4TzkxUWwyS2YyMFVXZlVjVE1IbEFLb2lFd1VyQnhpLV9YSGk2MlUxdGtzMFZTbzBLdmszVldmUktWWjdSRmdCWkczenFOaFljMVVSM2dLcVdFUVF0c2FOOUJ5MkJpbThYZVBVZ3dFRE5HZTVteEtyUHNZcHkxemZDVTh5QzgwYktTeQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcndXZW05cmVxb2xuWWluQ1ZCeGhpYmU2aFA1cDY4RjJPZEFGM3Z5cTlCd1dVdHFqWllUTTllUEZHSVZ4d1hKRDN4N1M5bVllandtNUx4bkdxbG8wSlp4UVFyckNDbGJuYmE4bmJRb1BxdGpIUElWODlPUkF2bzB6b0VB?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "islo",
+   "candidate_ids": [
+    "15e69edd1902",
+    "10f5e700ff1c",
+    "10fa21bdefe4"
+   ],
+   "company": "Islo",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-17",
+   "lead_investors": [
+    "Insight Partners"
+   ],
+   "investors": [
+    "Insight Partners"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Platform automates engineering workflows with AI agents.",
+   "description": "Enterprise Software Factory platform that automates complete engineering workflows with AI agents; part of the Incredibuild family of products.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "Islo has secured a $15 million investment led by Insight Partners",
+    "round": null,
+    "lead": "$15 million investment led by Insight Partners",
+    "investors": "$15 million investment led by Insight Partners"
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1NtLW9UanQ1Wk9TeDFKTFhad0hHTm1JRHpqa01memNFdUdDWUJMVHIzSEhkRGFaQ3M3VXVHdmd4akVMRDY1NWpscWhaV2tqQ0hzTHZoS0NqM3pQUDlhWnRNOTdtYXRNeTFGbjQ3VW9STS05M1g0MnNJak5YRXA2ZllyekVjRzNOS3RqV25Ob3R1VGNJLTFfNg?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNDhCVmVSeHZhR2NEd3c4QzB0UUZSZW9GcTkwYllMWDRTWXVCLXhJZ0dhbHNjcjFfYkk1cVY0V1RLczkzRWhmNnhNUEhhLV9qN0twbHVhMkNJVENWUmpXMmxRbkhDZXo3dk1CQW9rU200SGUyT3lJb3hJODg1eFl3OUJiNF9MTGJDa09IWHdBeVRtMjBDX2NPM1BR?oc=5",
+    "https://pulse2.com/islo-15-million-investment/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "holosolis",
+   "candidate_ids": [
+    "c65a0c9a8ab0"
+   ],
+   "company": "HoloSolis",
+   "website": "holosolis.com",
+   "amount_usd": 16650000,
+   "amount_disclosed": true,
+   "currency_note": "Over EUR 15M converted at 1.11",
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-16",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "FR",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Solar photovoltaic manufacturing; no AI/ML claim.",
+   "description": "French solar photovoltaic cell and module gigafactory developer.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "Raises Over EUR15 Million in Series A Funding",
+    "round": "Series A Funding",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTBxam5rZWNuYnVVNXZHS2lydFc3MEp5eTF2SnctSGE5ckpEZjJOUUVsclNMbk5IeE1LU2czeXdmcVNsQVJOaXNleUhzaHpyVDBJazh3ZVc1dVhIeHhKQWsteW85ODJESVYtQTR3cXRiNkcxX0RMRFZCRGFDNmJFU0d4LWFaVWpH?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "zya",
+   "candidate_ids": [
+    "7d2d89592744"
+   ],
+   "company": "Zya",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-16",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "GB",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Food enzyme biotech; no AI/ML claim in the headline.",
+   "description": "Food biotech developing an enzyme that turns sugar into fibre in the gut after eating.",
+   "confidence": 0.45,
+   "evidence": {
+    "amount": "raises $15M Series A",
+    "round": "raises $15M Series A",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZEVpdk1scFVLeEMxMUFaZ08ybERnX3o3VmVSU3llRnlvbnVfNUd1MkVYLTV2SUJYUHN0cEQzVkxrZUYzbXBXa3lPSHkwTWlUTTFlN0ZpSHVlTXAzaEFHOTNiYkYzYVBsSi1QNTFyX21DU1FNN0dOaTUzVFVYY0JxeFRxMTFteEhJQ2Nra2g0WldGYjJldDF0alJsVVI?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "mawsool",
+   "candidate_ids": [
+    "c133ed9ffcee",
+    "1ae1bc7dfb1a"
+   ],
+   "company": "Mawsool",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Pre-Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-10",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-powered sales intelligence platform.",
+   "description": "MENA startup developing an AI-powered sales intelligence platform.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": null,
+    "round": "raises pre-seed funding",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.wamda.com/2026/11/mawsool-raises-pre-seed-funding-develop-ai-powered-sales-intelligence-platform",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2cwTHdIVXV1TFZoSkcxX1FxS09WWE91NmdBaWM1RGp0UHF5ei1ST3EyWTlmVHlyN2hJcW0zMkNUZmFrYjYyVmgtR0RRY2pPQ1RtMndVb2tFNUgwcTBoZjFZOGtrXzlLb09KN1QtbkY0WjcyaFZhTWxCVEs2Qkx6VXlmY01BSUdzaW5KLXB3?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "bopu semiconductor",
+   "candidate_ids": [
+    "a9c3a071a004"
+   ],
+   "company": "Bopu Semiconductor",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-09",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Photonics chips for AI data centers (AI infrastructure).",
+   "description": "Chinese semiconductor company developing photonics for AI data centers.",
+   "confidence": 0.45,
+   "evidence": {
+    "amount": "raises several hundred million yuan",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMUZ1Mk14S05uRVhnV2YzOGVyTm52YWdpdTRsbHVaRnVxdmU1Q2YtNUN5UU44Wmt6MkVzWjB5My1ySXNkZGFGNXhLOXJHMmxPcV9RMnhfRnFzX3hFOHUxY1dXWDhmcVltUThBVnprcDhoNUNMWXNGOEtXNWFadjFFS1YwbWZNUUx2anVweXIzNVRFQ0NBazg2R0o1R1hYczRDdV9UNDdzQmIyelc5VlJWUHZWMklTOE50?oc=5"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "sandbaseai",
+   "candidate_ids": [
+    "14c58920be6f"
+   ],
+   "company": "SandBaseAI",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-10",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Infrastructure for personal AI agents.",
+   "description": "Builds infrastructure for personal AI agents.",
+   "confidence": 0.45,
+   "evidence": {
+    "amount": "raises multi-million-dollar seed",
+    "round": "multi-million-dollar seed",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWEJnanh1MldXaXhEVUNoZnE0NWJRN0dhc0V1TnY2SGtFX2NLRTJrN0MwX2VYbjJ2TE9OMHp0V2swYXdQdC1fLXlwMDZIYUpITnJCREg4TkEzU1dYQmEtTTUwdjIzNUE3R0FFcE1Ub2dEU0Nrck5qWHVXblZJOVdGaGw5ODZzQlBfVUhadWdOQTlSWFFNUllKRS1ubUFlNnV3cUdvRVQzQ2xnUXdkYWM0Qg?oc=5"
+   ],
+   "exclude_reason": null
+  }
+ ]
+}

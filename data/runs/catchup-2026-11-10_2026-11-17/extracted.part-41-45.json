@@ -1,0 +1,1487 @@
+{
+  "run_date": "catchup-2026-11-10_2026-11-17",
+  "extractor": "parallel agent parts 41-45",
+  "notes": "Parts 41-45: 41 groups processed, 40 rows. Merged groups: \"chinas qingtianzu\" + \"botshare\" are the same 2026-11-13 strategic round (Qingtianzu/Qingtian Lease and Botshare are the same robot-rental company; the identity is inferred from matching date, business and round wording, not stated outright by a source), emitted once under group_key \"botshare\"; \"xilect\" + \"metax and ubtechs robot\" are the same RMB 500M angel round, emitted once under \"xilect\". Round-up expanded: \"erie strategic ventures\" yields two rows (Blitzy, HiddenLayer); both are undisclosed strategic investments by a corporate VC, and their HQ cities come from prior knowledge, not the article. Group \"cibc innovation banking\" is a nondilutive growth financing for PortX (Debt); \"backswing ventures\" is an investment in Vigilant Works. Not-funding rows: Ring, State Bank of Pakistan, Google Gemini 4 Hydrogen, NVIDIA commentary, and Worker.ai (launch plus DeltaGen acquisition; Ratmir Timashev is its sole backer with an undisclosed amount and no round was announced). Web lookups used: 18 of 25 (8 searches, 10 fetches, one of which returned 403): Sennder (tech.eu; EUR 73M equity reported as led by Scania, spelled \"Scanai\" in the tech.eu text, plus EUR 155M debt from Coface, EIB and Deutsche Bank), iPronics (UPV page; the Series B was first announced in early September 2026, so announced_date is 2026-09-02 and the November feed item is a resurfaced UPV news page), Alta (pulse2; USD 47.5M Series A, with a separate earlier USD 32.5M seed not emitted as a row because its date and investors are not confirmed; HQ not stated), DeepSeek (Kyunghyang and Yonhap via stockhub.kr; the round total is CNY 105.5B, about KRW 21.1 trillion, so the feed headline figure of 2.1 trillion won appears to drop a digit; announced_date is the date of the report on the round, whose original close date is not confirmed), Qvyon (BetaKit; USD 8M seed of which USD 2M is venture debt, round closed in April and was announced 2026-11-12), Worker.ai (Technical.ly), Botshare/Qingtianzu (36Kr newsflash), Tongxin Intelligence (runtimewire; seed and angel rounds, investors omitted because no verbatim span was retrieved). Wrongly resolved article URLs: Stoa resolved to an unrelated meditation app site, the MLQ.ai Xilect item to the MetaX homepage and the DeepSeek item to cdn.deepseek.com; for Stoa and DeepSeek source_urls carry the Google News feed link instead, and the Xilect row cites only the TechNode article. Froncort.AI: the article says grant recipients were announced on 15 September, so announced_date is 2026-09-15 rather than the 2026-11-14 article date. Unresolved: group \"serial founder\" has no company name in the headline and the article text was not available (pre-seed, so no lookup under the $15M rule); the row carries a placeholder company string and low confidence. HQ is unknown for Trina, Nagaris, Distribution Demon, QB MEN, Morsa, StitchStudio, Stoa and Alta. Currency conversions use about 1.16 USD/EUR, 0.15 USD/CNY, 89 INR/USD and 21 CZK/USD.",
+  "rows": [
+    {
+      "website": "icaremanager.com",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [
+        "Five Elms Capital"
+      ],
+      "hq_city": "Columbia",
+      "hq_state": "MD",
+      "exclude_reason": null,
+      "group_key": "icaremanager",
+      "candidate_ids": [
+        "a8d5b8cf4adb"
+      ],
+      "company": "iCareManager",
+      "round_type": "Growth",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-10",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Press release says the investment is to build a leading AI-native platform and expand AI capabilities.",
+      "description": "EHR and care management platform for providers supporting people with intellectual and developmental disabilities.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": null,
+        "round": "today announced a strategic growth investment from Five Elms Capital",
+        "lead": null,
+        "investors": "today announced a strategic growth investment from Five Elms Capital"
+      },
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/icaremanager-announces-growth-investment-from-five-elms-capital-302935488.html"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": "portx.io",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [
+        "CIBC Innovation Banking"
+      ],
+      "hq_city": "Seattle",
+      "hq_state": "WA",
+      "exclude_reason": null,
+      "group_key": "cibc innovation banking",
+      "candidate_ids": [
+        "069d52ecba50"
+      ],
+      "company": "PortX",
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-10",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Described as developing an AI-native integration platform for community banks and credit unions.",
+      "description": "AI-native integration and API infrastructure platform connecting core banking systems, fintech apps and payment networks for community banks and credit unions.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": null,
+        "round": "The financing provides nondilutive capital",
+        "lead": null,
+        "investors": "CIBC Innovation Banking has provided growth capital financing to PortX"
+      },
+      "source_urls": [
+        "https://pulse2.com/cibc-innovation-banking-growth-financing-to-support-portxs-ai-native-banking-integration-platform/"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": "ring.com",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": "not-funding",
+      "group_key": "ring",
+      "candidate_ids": [
+        "02281cb01b0b"
+      ],
+      "company": "Ring",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-10",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Product launch by a subsidiary of public company Amazon; not a funding event.",
+      "description": "Amazon's smart home security company; article covers the launch of Ring Robotics drone and rover security cameras.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": null,
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://pulse2.com/ring-launches-with-249-99-drone-cam-and-999-99-rover-cam-for-autonomous-security/"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": 6200000,
+      "amount_disclosed": true,
+      "currency_note": "CZK 130M converted at about 21 CZK per USD",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "kardi",
+      "candidate_ids": [
+        "229d18882748"
+      ],
+      "company": "Kardi Ai",
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-11",
+      "hq_country": "CZ",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Headline describes AI ECG monitoring.",
+      "description": "Czech digital health company offering AI-based ECG heart monitoring.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "CZK 130M Series A",
+        "round": "CZK 130M Series A",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV3hCRW9BcHlZZWp6YS04MlZrZzRfY2pUa1lHdFZJVlpTLUUta1Y2T2RoSi1KdVdkeXk5UUM3d2Qta3M2RzR3bE9GY2JCbUt1QVF3ZDE4NWNVRVk1NU1Dcl8wQzlUNU9BaFJpX2ljOFJVcWxIRXpDZDB0N0RFQTkxNXFMS3c1cDZobFJWNXhVSmJVZlNTQ1lZRkVHOA?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": 112000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "trina",
+      "candidate_ids": [
+        "fed1adb10132"
+      ],
+      "company": "Trina",
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-11",
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Headline calls it an AI startup building team-wide AI tools.",
+      "description": "AI startup building team-wide AI tools.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "raises $112,000 seed",
+        "round": "raises $112,000 seed",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDIzQnNLejJ5TWc5aF95eDlZNXdtOHdPVWM3cWxWS25iZWlBLVZ4bVh3dHlTWHJRcjl6ZlhtbEJmUFhERVVOdE04OFFyMmJ0OVA3Yk8wdjd4d0hMSi10M1haOTA5Q0JLSGhBdHNrZTB5anBWQnlTaTBaZVJmNE11QnVXYjZTcFNzQkUzSEZfcHZMV1hKR01yMjc3anV5N0k?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": 872000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [
+        "BPAG's partners"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "nagaris",
+      "candidate_ids": [
+        "32cbfbb42c5a"
+      ],
+      "company": "Nagaris",
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-10",
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Headline applies 'AI-native' to the backer firm BPAG, not to Nagaris's own product.",
+      "description": "Startup backed by partners of the AI-native firm BPAG; the headline gives no product description.",
+      "confidence": 0.4,
+      "evidence": {
+        "amount": "raises $872K seed",
+        "round": "raises $872K seed",
+        "lead": null,
+        "investors": "AI-native firm BPAG's partners back it"
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQalVPSGtHdGdtVU0yZFZ0UnVJVFh4STUxT05iWXBRczVvSktHc0dGamZqcG1QUVZUalRZbHNYOHRabHNLcnNYdHJaNXdUcEpubzRXNHRnQ29Sc0szZTg0WGhkQmJEOUFObFd5WVctcDFZQkZCMGVZblYxV0w4ZnZlei12a050V3JfWUxGemRaLUJJOE1ZMHRpRGtPVmZ3bTA3SFE?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": "sennder.com",
+      "amount_usd": 264500000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 228M (EUR 73M equity plus EUR 155M debt facilities) converted at 1.16",
+      "lead_investors": [],
+      "investors": [
+        "Scania",
+        "Coface",
+        "European Investment Bank",
+        "Deutsche Bank"
+      ],
+      "hq_city": "Berlin",
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "sennder",
+      "candidate_ids": [
+        "c5acb104bddc"
+      ],
+      "company": "Sennder",
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-11",
+      "hq_country": "DE",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "tech.eu says Sennder leverages AI, software and data and is rolling out AI agents on its platform.",
+      "description": "Berlin-based digital road freight forwarder connecting shippers and carriers across Europe through its sennOS technology platform.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Sennder secures 228 million euros in financing, mostly debt facilities",
+        "round": "said it had raised €228m in equity and debt",
+        "lead": null,
+        "investors": "It has raised €73 million in equity from existing investors, led by Scanai | a €100 million credit facility with Coface | a €40 million facility with the European Investment Bank (EIB) | a €15 million facility with Deutsche Bank"
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZGQ2R3pSS2dkRHJMcjRVeWpKbWFVVU54TDdIa3laZWl4bUtUdHdybDUxMDZJWkpHVDhfem90OEpEWnJTOEw0N1dPSDgtdXA1MUI4MVZOZjdHbzg4RmR4NFNES0w3VGlrakx5b3VaVnBoek05QmUyRmlueFBjTk9NQkVaNUstSEJOc1lVLWRvSHdKQnNwM0p3Nlh5OWcwWGtNZ3lQTUdxMzg5UFo2dzJjTERGWlBKQQ?oc=5",
+        "https://tech.eu/2026/11/11/berlin-freight-unicorn-sennder-raises-228m-in-debt-and-equity//"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": "ipronics.com",
+      "amount_usd": 125000000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 108M, reported elsewhere as USD 125M (about 1.16)",
+      "lead_investors": [
+        "Maverick Silicon",
+        "Light Street Capital"
+      ],
+      "investors": [
+        "Maverick Silicon",
+        "Light Street Capital",
+        "NVIDIA",
+        "Criteria Venture Tech",
+        "Triatomic Capital",
+        "Bosch Ventures",
+        "Catalight Capital",
+        "European Innovation Council Fund",
+        "The Tate Family Trust",
+        "Fine Structure Ventures",
+        "Amadeus Capital Partners",
+        "Build Collective"
+      ],
+      "hq_city": "Valencia",
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "ipronics",
+      "candidate_ids": [
+        "140a1ad236cd"
+      ],
+      "company": "iPronics",
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-09-02",
+      "hq_country": "ES",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Photonic (optical networking) infrastructure built for AI data centers, i.e. AI infrastructure.",
+      "description": "Valencia-based UPV spin-off building programmable photonic optical switching and networking chips for AI data centers.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "iPronics secures 108 million euros",
+        "round": "has completed a landmark Series B funding round, raising €108 million",
+        "lead": "The round, co-led by Maverick Silicon and Light Street Capital",
+        "investors": "NVIDIA join alongside new and existing investors such as Criteria Venture Tech, Triatomic Capital, Bosch Ventures, | Catalight Capital, the European Innovation Council Fund, The Tate Family Trust, Fine Structure Ventures, | Amadeus Capital Partners, and Build Collective."
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iS0dyNHBHUUU3dnFQa0d1My1OeEZjY1I3cTRhVEd5Uy1ZSG9iLUFQUWZIbm1hR1lnV3MwSkdQUlJXTW5xYkF1RldLR09tX0xkQnAtS2ZkRXFoZnVwU1RIVlVzbXdzWW12cERxYUljWmpKUzVwZ3Zv?oc=5",
+        "https://www.upv.es/noticias-upv/noticia-16018-ronda-de-inver-en.html"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "fuwei",
+      "candidate_ids": [
+        "a86f80dc3f08"
+      ],
+      "company": "FUWEI",
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-10",
+      "hq_country": "CN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Industrial robotics startup; robotics counts under the contract.",
+      "description": "Chinese industrial robotics startup.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "raises tens of millions in yuan Series A",
+        "round": "raises tens of millions in yuan Series A",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVJkUkFPSnY3c3FDS1hpSVhYakpBY3pBWm9fSjBmZTdzY3FFOEdNX1M3MkNjOUxBOHg5a25jNnVkQm9qZ2llQlJFUC13M0w2ZDJoVkFfSEFSMDEzLUVaV3NBRHhNNFRiRjZZQUZpemZBdlpaQ3pyOTVoUm55bU5hdEVDMXlfUGltNzNNc3JxWWhvMWdhYnV3UGxjb0s2dUozdUcyZFlHODI4VmJI?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": 47500000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Index Ventures"
+      ],
+      "investors": [
+        "Index Ventures",
+        "GV",
+        "Blackbird Ventures",
+        "Square Peg",
+        "Capital 49"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "index ventures leads altas",
+      "candidate_ids": [
+        "a8afd81dee8e"
+      ],
+      "company": "Alta",
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-10",
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Blockchain infrastructure for banks; coverage mentions AI agents only as a transaction use case, with no AI/ML claim about the product.",
+      "description": "Startup co-founded by Airwallex co-founder Jack Zhang building a Layer 1 blockchain with privacy and compliance tools for banks and payment providers.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "a $47.5 million Series A led by Index Ventures",
+        "round": "Index Ventures leads Alta's Series A",
+        "lead": "Index Ventures leads Alta's Series A",
+        "investors": "GV, Blackbird Ventures, Square Peg and Capital 49 participated in the Series A."
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWXZZVWpGLTFNVXhWSWRRRzBNSXZrclg0WTFTbW5BS1hqQXc1aGxPdGNIQjdBT01ZS2E4RzBzemo0ZmRlVFdRMWRyV2JTNGNqWG9zeDVlbkRKcW9hSk9KUm9lVlB3a3pydDhCR0ZPQ2VTYURidzY2WVJIVVI2S1h1Tl81b083YjRNRGg4dFo5a19OQTdmSWNjaTh5ZVJkZTZ1alpBQ29EX0RxYnlITE5uUEF3QXNKNHA4QzlncTExRzdWRFh0SmZCcTlXVld1TWpQMmc?oc=5",
+        "https://pulse2.com/alta-80-million-in-total-funding-advances-institutional-blockchain-infrastructure"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": "scalestack.ai",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [
+        "Leonis Capital"
+      ],
+      "investors": [
+        "Leonis Capital",
+        "Zapier",
+        "Deel",
+        "AAF"
+      ],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "exclude_reason": null,
+      "group_key": "scalestack",
+      "candidate_ids": [
+        "d053c5a06df6"
+      ],
+      "company": "Scalestack",
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-11",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Provides infrastructure connecting and governing AI agents across enterprise systems.",
+      "description": "Platform that gives enterprise AI agents business context, applies company rules and controls and records what agents read, write and spend; acquired Alysio.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": null,
+        "round": "Scalestack has raised new funding led by Leonis Capital",
+        "lead": "Scalestack has raised new funding led by Leonis Capital",
+        "investors": "Zapier, Deel and AAF participated in the financing."
+      },
+      "source_urls": [
+        "https://pulse2.com/scalestack-alysio-acquisition-and-leonis-led-funding-expand-enterprise-ai-agent-controls/"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": 8000000,
+      "amount_disclosed": true,
+      "currency_note": "USD 8M (CAD 11.4M): USD 6M equity plus USD 2M venture debt from RBCx",
+      "lead_investors": [],
+      "investors": [
+        "MaC Venture Capital",
+        "BDC Capital's Black Entrepreneurs Fund",
+        "BKR Capital",
+        "Spotlight VP",
+        "RBCx"
+      ],
+      "hq_city": "Montréal",
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "qvyon",
+      "candidate_ids": [
+        "399803a02e44"
+      ],
+      "company": "Qvyon Technologies",
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-12",
+      "hq_country": "CA",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Builds testing and validation infrastructure for physical AI (AI-enabled robots and self-driving vehicles).",
+      "description": "Montréal-based company whose platform lets robotics and autonomous vehicle developers test and validate physical AI systems against hazardous edge cases.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "with $8 million USD ($11.4 million CAD) in seed financing",
+        "round": "Qvyon raises seed round for physical AI testing",
+        "lead": null,
+        "investors": "consists of $6 million USD in equity from Mac Venture Capital, BDC Capital's Black Entrepreneurs Fund, BKR Capital, | and Spotlight VP, as well as $2 million in venture debt from RBCx."
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaU00alByZ2JJbjNFUEtvY1JHSTZXYlBYUm43dS1HcTY1MG1UbTBEMWlPZl9qNU0tOTF2QmE2cjZyNm1abHdQbF9BS1hnVVhXQ0NUTUd1M3VmY2xjcUM4OTIxaGwtUHpLdDJ2Wjhtak5BUkctY2MyMF9EV29JODZqLXQyT2ZGMl94Skc1OGh5R3VYU2VMd1RIOFNoTmpfNkFYd2sweUZPSVU3clE?oc=5",
+        "https://betakit.com/?p=412086"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": 200000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "distribution demon",
+      "candidate_ids": [
+        "561bb69e93d3"
+      ],
+      "company": "Distribution Demon",
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-12",
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Headline calls it an AI influencer startup.",
+      "description": "AI influencer startup.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "raises $200K pre-seed",
+        "round": "raises $200K pre-seed",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUJadDhudUM2UjZ6NmpNNUUzT0kxbUFPbl9JQTVrSTdtOEFkb3ZVMEFZMzJYSlRtM1ZmTHNYZ2I2SEJNQWFRX1hKN3FTaW8wXzFISVJ0MUs3dnJrd1JBMDE3ckktVlFuYkQydGxhU0dXS3RGSVlnenVsbjlocWFTWnVjUnNBc1FCVkcyN3ozdUdjMGlQWXdSbkhWSQ?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": 2000000,
+      "amount_disclosed": true,
+      "currency_note": "INR 18 crore converted at about 89 INR per USD",
+      "lead_investors": [
+        "MGF-Kavachh"
+      ],
+      "investors": [
+        "MGF-Kavachh"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "misteo",
+      "candidate_ids": [
+        "fc8b4b45a219",
+        "6d9d80cb3a80"
+      ],
+      "company": "mistEO",
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-12",
+      "hq_country": "IN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Headline describes AI-powered climate risk intelligence.",
+      "description": "AI-powered climate risk intelligence platform for banks, insurers and agri-value chains.",
+      "confidence": 0.65,
+      "evidence": {
+        "amount": "Raises ₹18 Crore Seed Funding",
+        "round": "Raises ₹18 Crore Seed Funding",
+        "lead": "Seed Funding Round Led by MGF-Kavachh",
+        "investors": "Seed Funding Round Led by MGF-Kavachh"
+      },
+      "source_urls": [
+        "https://www.indianstartuptimes.com/investment/misteo-raises-%e2%82%b918-crore-seed-funding-to-scale-ai-powered-climate-risk-intelligence-for-banks-insurers-and-agri-value-chains/",
+        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS3RiVXNHMVQ5ZWVKUVdBUWJwWklXTl90cGF2NWZ0U3lCeHdjZDdhUmxsVV9QUXZhTk00ekpRS3lKQmx4S0Y4TEUzNm9rejFBbEZYSFcxUk1WZEY5OTFFa2E4LWt2SWFub2xWd3F4TXFGRmIwb3F0YVhhUi01cW1nZ3VHUWVmNndIeFJXZmhsRWp4a3NJQTZwbm9NNjFma0xPTnNGTzFZRGtFd3M4Vm5DVFN4NU1rVTQzT1FxcHN5S3BoS3p3VmRrV3VoLWl2RXhkMU9YVWgzSkR3STFvTzJqLXpHX05HMTA?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": "desible.ai",
+      "amount_usd": 3600000,
+      "amount_disclosed": true,
+      "currency_note": "INR 32 crore converted at about 89 INR per USD",
+      "lead_investors": [
+        "Prime Venture Partners"
+      ],
+      "investors": [
+        "Prime Venture Partners"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "desible",
+      "candidate_ids": [
+        "3e3225865590"
+      ],
+      "company": "Desible.ai",
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-12",
+      "hq_country": "IN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI company by name; reported as an AI platform for BFSI workflows.",
+      "description": "Indian AI platform for banking, financial services and insurance workflows.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "raises Rs 32 crore in round led by Prime Venture Partners",
+        "round": null,
+        "lead": "raises Rs 32 crore in round led by Prime Venture Partners",
+        "investors": "raises Rs 32 crore in round led by Prime Venture Partners"
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaTltRzgwaDlsT2ZwcUlRM05KaFhOeUlIVG1WZUo3bkd2VmZNYlA3TnZheE5Jd2dYNWxIYl90WWdXc25ITEdlTXlBZ091cVJtc0NWNVBvQVQ0a2ppSU1iSkd1QWRCYmtwcl9xRGkwNXFISFVheXpuOGRYVGF2MVk2NzQ1a2JTRUc4bERBWGxueGFFTzQ5d1ZjVUdnZHRCZGJ0R0VOQU5YZXNIc0hGWHlmMGlSNG52b0pLRzd1MW1QZDZ2TE93VmlFZGotbUJqOGw10gHWAUFVX3lxTE1SeHl1Q204ampBc2UxdnhLUXVfM1FGRXJ0Y25xN3luR19odXJGQWJTVDdyajFjV1R2MGZpUDgwcVNmR1UyZUlSaFQ5eE5mWWxlcHpISmFxMGFqZFh4Qm9tM3ZVOTVlOG9QYy1CNlZ5aVRLcUFZbk1QaVBMNnBaRTBtc1V2R0lmV0VXMUwxR0lPYWVVNEhJcnFGZTkweUdaZTExWFNGMjRHZk1uU3lpUzlwT0ZRLUNwMHBfdTE1anZRcFEwWmY0S2NUem9SMXo2Wk9sOFNRVlE?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": 6000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [
+        "Village Global"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "siggy",
+      "candidate_ids": [
+        "f3d93e1f2c08"
+      ],
+      "company": "Siggy",
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-11",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI-enabled virtual mental health provider using AI for intake, preliminary diagnosis and between-visit support.",
+      "description": "AI-enabled virtual mental health provider combining human clinicians, prescription management and AI-powered patient support between appointments.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "launched out of stealth with $6 million in pre-seed funding",
+        "round": "launched out of stealth with $6 million in pre-seed funding",
+        "lead": null,
+        "investors": "The startup is backed by Village Global and several angel investors."
+      },
+      "source_urls": [
+        "https://www.digitalhealthnews.com/ai-mental-health-startup-siggy-launches-with-6-mn-in-pre-seed-funding"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [
+        "Backswing Ventures"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "backswing ventures",
+      "candidate_ids": [
+        "18431438d553"
+      ],
+      "company": "Vigilant Works",
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-12",
+      "hq_country": "UA",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Develops autonomous counter-UAS interceptors with a proprietary autonomy stack (robotics/autonomy).",
+      "description": "Ukrainian defense technology company developing autonomous counter-drone interceptor platforms, autonomy software and radar-based detection.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": null,
+        "round": "today announced its investment in Vigilant Works",
+        "lead": null,
+        "investors": "Backswing Ventures, the defense venture capital firm, today announced its investment in Vigilant Works"
+      },
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/backswing-ventures-announces-investment-in-ukrainian-defense-technology-company-vigilant-works-302936158.html"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [
+        "BeyondSeed"
+      ],
+      "investors": [
+        "BeyondSeed"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "qb men",
+      "candidate_ids": [
+        "53bf2cc63342"
+      ],
+      "company": "QB MEN",
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-12",
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Headline contains no AI/ML claim about the product.",
+      "description": "Startup that raised pre-seed funding led by BeyondSeed; the headline gives no product description.",
+      "confidence": 0.4,
+      "evidence": {
+        "amount": null,
+        "round": "Raises Pre-Seed Funding Led by BeyondSeed",
+        "lead": "Raises Pre-Seed Funding Led by BeyondSeed",
+        "investors": "Raises Pre-Seed Funding Led by BeyondSeed"
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLXluVUZHSGVzeVhzOEtXMGlXX0FoQ1UwNWw4TlRqQzhjOGlBc0FISVNnWnhrYi1VdWRRZ2UwTTRfUHBrTUpyZEZCaUsyWDh5dm9icWVMVS1iVW5EWXZhaHN6RXpkQ0JXQnc5N3d6dHpObWx2azc2Yy0zcU52ZXhFZHZWdUFJRTc5eFhMeVkyUW1aUk4zaGJzbDBCbTFkV3VuRHByUFl5MDlXbTdJTnlaVVBfTVFiYnc?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": 1500000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Jackson Square Ventures"
+      ],
+      "investors": [
+        "Jackson Square Ventures"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "morsa",
+      "candidate_ids": [
+        "a3c074b1a8be"
+      ],
+      "company": "Morsa",
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-13",
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Headline contains no AI/ML claim about the product.",
+      "description": "Startup that raised pre-seed funding led by Jackson Square Ventures; the headline gives no product description.",
+      "confidence": 0.45,
+      "evidence": {
+        "amount": "raises $1.5 mn pre-seed funding led by Jackson Square Ventures",
+        "round": "raises $1.5 mn pre-seed funding led by Jackson Square Ventures",
+        "lead": "raises $1.5 mn pre-seed funding led by Jackson Square Ventures",
+        "investors": "raises $1.5 mn pre-seed funding led by Jackson Square Ventures"
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaEtuTjVUY1htV040b2t3REJtRS1HRmtFQlgyX25yeGh4QjFMemJHazNFUFZqVUdSMGFDR3hybXFsbjhYcUtVbkNERXNJM0tDZlVrMjZ1UlFfQUYzdVFoTURQYkM5VTdvRjhvR2tCWTZYNkctLTN2UFIyT1VLYUhDTUNwYkd6bXB3MEtOT1JMZGNaMk9ORmdoRG5ZTlo1QVhvd0lJM1NieVZwNWlTZHZ4c0FkRC0tX29HZW5mUlIzWGRUWHIwTXN3Qldsc2dEM2FVOXo5UUljY9IB3AFBVV95cUxPRnEwUTYtaWNUTnR0d25JeXluSXlvM2JMTjBRNkdHRDZCV0FiS0tsS3BWN3VVdFNtcTRjVi1sYmFFZFRQS0IwVUR6WDhULWFSX2RfNVU1LXVjOWVTRl9fSmo4V2d0RWpJRGx3cmNvb1hhRTNtVDlvczRvMHJRQklSNi1wbzlYSXNaalJHdHAyeHRQVGluR3BiVDAwa0psalBmdkJZaVRxSnQ4REZSMGVPS21nNUN5Y3E1WnU5TUFGYmlxUURqVVI0cjIwWkRrUkVfVV9XSHlRYzR2Uldi?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "chinas tongxin intelligence",
+      "candidate_ids": [
+        "ec69867417f4"
+      ],
+      "company": "Tongxin Intelligence",
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-12",
+      "hq_country": "CN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Designs AI inference chips on an AGI-native architecture (AI infrastructure).",
+      "description": "Chinese chip startup designing a cost-focused AI inference chip built around an AGI-native architecture.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "raises hundreds of millions of yuan in six months",
+        "round": "disclosed the completed seed and angel rounds on November 12th, 2026",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UMllubTRJdWljN1pNQU1tSGFLdVJHdkFVdGt4REZXX1IyZlVHQVNlMVlEd245c0tuOGJwdWQ2UVRHZXFxQmRRQ241Q093a2tYbnFnZjJyM05icTQ4MXlqLVBjcnY2cHF4XzBoNlhjb0ozSG5hX2c?oc=5",
+        "https://runtimewire.com/article/zhu-songchun-tongxin-ai-agi-chip-funding"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": "kutlerri.ai",
+      "amount_usd": 4000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [
+        "Narahari Investments"
+      ],
+      "hq_city": "Houston",
+      "hq_state": "TX",
+      "exclude_reason": null,
+      "group_key": "kutlerri",
+      "candidate_ids": [
+        "e5651f9c8a78"
+      ],
+      "company": "Kutlerri.ai",
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-13",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Builds AI agents for restaurants, starting with an AI Catering Sales Agent.",
+      "description": "Houston and Bhubaneswar-based startup building performance-priced AI agents that help restaurants win catering sales and control costs.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "has raised $4 million in funding from Houston-based Narahari Investments",
+        "round": null,
+        "lead": null,
+        "investors": "has raised $4 million in funding from Houston-based Narahari Investments"
+      },
+      "source_urls": [
+        "https://ascendants.in/funding-feed/kutlerri-ai-raises-4-million-narahari-investments-restaurant-ai-agents/"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": "sbp.org.pk",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": "not-funding",
+      "group_key": "sbp",
+      "candidate_ids": [
+        "1168a2cd7ac1"
+      ],
+      "company": "State Bank of Pakistan",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-13",
+      "hq_country": "PK",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Central bank regulatory news; not a company funding event.",
+      "description": "Pakistan's central bank raised its cash reporting threshold to Rs3 million; regulatory news, not a funding round.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": null,
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbHJ2YWUtUlZhNmxQR0IwR0xHQ2lRVjJ1c09zdkZuWlZrOThOam9vUGN6a2FXeWdOazQzREhoYUpGVFRSN05NM0FnM3FaRWU1c0pVQ19ZVTQ4RGx0Q19LVnAtd0xlWHpjYU8za2lIMFd3S1cxcmxOTzllMnVOMFFJc1FkR2hMN0JSakFiNTducmJmeDNXMjVleVNiSVpDUDM3blg4bks1ZWpxbGlpb3hLUjdUaXJUU1ZidHY5SW1XOA?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [
+        "Heda Investment",
+        "Mango Industrial Investor (Houwei Capital)",
+        "Zhonglian Jisong"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "botshare",
+      "candidate_ids": [
+        "4abaefaf0299",
+        "d979e8917eeb"
+      ],
+      "company": "Botshare (Qingtianzu)",
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-13",
+      "hq_country": "CN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Robot rental and robot productivity services platform; robotics counts under the contract.",
+      "description": "Chinese robot rental platform moving from equipment leasing to robot productivity services; this was its seventh disclosed round in under a year.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "closes hundreds of millions in strategic round",
+        "round": "Qingtian Lease has completed the closing of a strategic financing deal worth hundreds of millions of yuan.",
+        "lead": null,
+        "investors": "Heda Investment, Mango Industrial Investor (Houwei Capital), and Zhonglian Jisong"
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVlhNdm9ta25vOGhoX1ZFX0E1VVE3VUZFX3IzRVpfY0RySzYzTXNVbEh6STd2dWxySG54c0pma0NybTRaWUJLTjhqaXdDOUtndjRnQTRhbVZneE9qSG1SUUl3VWx6S3pfY1VuOG1rODRvNkI5Mnd3QmJRb2tNUDVCQXJ0SGtQS0UzelRBU1paV1hQSDNOT0x1M3RvZURWZzloZjZsRTBTMDBkVHBVVU9j?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TXy1DbzdOdi1rcmxKOVJpVzR5cUdJcmlHU19CVmZaTThFTTlIMFFFUW9GUzRBbzNzdWlXUDN6SVI0QVJZLU1xblJIa3FCaS1LNXhtakRNV3VBUXlWNmxCbVpOUTl3TktUNWdmNE9uYnc3UmhHQnc?oc=5",
+        "https://eu.36kr.com/en/newsflashes/4067611378291590"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": 75000000,
+      "amount_disclosed": true,
+      "currency_note": "RMB 500M converted at about 0.15",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "xilect",
+      "candidate_ids": [
+        "456a41e533e3",
+        "fbd5825e2921"
+      ],
+      "company": "Xilect",
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-13",
+      "hq_country": "CN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Designs a robotics system-on-chip that runs AI models for perception, decision-making and motion control.",
+      "description": "Robotics chip startup founded by GPU maker MetaX and humanoid maker UBTech, designing an on-robot SoC and software toolchain for AI models.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "has raised RMB 500 million in an angel round",
+        "round": "has raised RMB 500 million in an angel round",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://technode.com/2026/11/13/metax-and-ubtech-backed-robotics-chip-startup-xilect-raises-rmb-500-million/"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": "google.com",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Mountain View",
+      "hq_state": "CA",
+      "exclude_reason": "not-funding",
+      "group_key": "google gemini 4 hydrogen",
+      "candidate_ids": [
+        "6db1c392bf3e",
+        "a727b510f117"
+      ],
+      "company": "Google",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-12",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Public company product launch; always false for public companies under the contract.",
+      "description": "Launch of the Gemini 4 Hydrogen model and a multi-model Orchestrator; product news, not a funding round.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": null,
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://pulse2.com/google-gemini-4-hydrogen-launches-with-faster-agentic-ai-1-million-token-context-window-and-new-multi-model-orchestration/"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": "worker.ai",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [
+        "Ratmir Timashev"
+      ],
+      "hq_city": "Raleigh",
+      "hq_state": "NC",
+      "exclude_reason": "not-funding",
+      "group_key": "worker",
+      "candidate_ids": [
+        "6e10c8eb47ae"
+      ],
+      "company": "Worker.ai",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-12",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Small-business operations platform that plans to sell AI agents and acquired voice AI startup DeltaGen.",
+      "description": "Raleigh-based free small-business operations platform that launched publicly and acquired Prague voice AI startup DeltaGen; founder backing amount undisclosed.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": null,
+        "round": "launches with backing from billionaire Veeam founder Ratmir Timashev",
+        "lead": null,
+        "investors": "launches with backing from billionaire Veeam founder Ratmir Timashev"
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnlWV2hkanhYLUdUUkxKazJOeTk4NEl0ekM2WEYwc0l5SGo4cWxyaC1wcWpzYkJZYXU4M0RvT2w1dkpZWkI1R2EzMXJHM3JDQ1B4OTdxOVRRcUwxNXRTVmZ2a3BlN3hSVVlmblE0cHNUNnJqV3NnUHlIN2dObnRjT3pabG1OQmRLVTg4cFBkMkM3dU9rc05udUFHWGdXalBkWFFF?oc=5",
+        "https://technical.ly/entrepreneurship/why-raleigh-startup-worker-ai-is-making-small-business-ops-free/"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": "blitzy.com",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [
+        "Erie Strategic Ventures"
+      ],
+      "hq_city": "Cambridge",
+      "hq_state": "MA",
+      "exclude_reason": null,
+      "group_key": "erie strategic ventures",
+      "candidate_ids": [
+        "c0f36dbf23da"
+      ],
+      "company": "Blitzy",
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-12",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Autonomous software development platform that coordinates thousands of AI agents.",
+      "description": "Autonomous software development platform that uses coordinated AI agents to modernize large enterprise codebases and build new applications.",
+      "confidence": 0.55,
+      "evidence": {
+        "amount": null,
+        "round": "has announced investments in Blitzy and HiddenLayer",
+        "lead": null,
+        "investors": "has announced investments in Blitzy and HiddenLayer"
+      },
+      "source_urls": [
+        "https://pulse2.com/erie-strategic-ventures-investments-in-blitzy-and-hiddenlayer-to-advance-enterprise-ai-infrastructure-and-security/"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": "hiddenlayer.com",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [
+        "Erie Strategic Ventures"
+      ],
+      "hq_city": "Austin",
+      "hq_state": "TX",
+      "exclude_reason": null,
+      "group_key": "erie strategic ventures",
+      "candidate_ids": [
+        "c0f36dbf23da"
+      ],
+      "company": "HiddenLayer",
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-12",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Security platform protecting generative, predictive and agentic AI systems.",
+      "description": "Security technology that protects generative, predictive and agentic AI systems across their development and deployment lifecycle.",
+      "confidence": 0.55,
+      "evidence": {
+        "amount": null,
+        "round": "has announced investments in Blitzy and HiddenLayer",
+        "lead": null,
+        "investors": "has announced investments in Blitzy and HiddenLayer"
+      },
+      "source_urls": [
+        "https://pulse2.com/erie-strategic-ventures-investments-in-blitzy-and-hiddenlayer-to-advance-enterprise-ai-infrastructure-and-security/"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [
+        "212"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "stoa",
+      "candidate_ids": [
+        "b2aed8faa386"
+      ],
+      "company": "Stoa",
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-13",
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Building a GPU exchange, i.e. AI compute infrastructure.",
+      "description": "Startup building a GPU exchange.",
+      "confidence": 0.4,
+      "evidence": {
+        "amount": null,
+        "round": "Stoa raises seed from 212 to build a GPU exchange",
+        "lead": null,
+        "investors": "Stoa raises seed from 212 to build a GPU exchange"
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUG53Y0tyaUNxSVFGWGp4VWE5RXJWbnlkaDRXV2x6RDZybl9CaFJJSnVqYlVITDJLSW9Objg0SWJqMGRVMkZxZUs1eGd4VFRHc01ZSC1jY2hZUUQ4N25QRTZPa1pOdjYwbEpyOTVUV0NIeTRIUjlmaEFjNDJXc2xvQWptRGN6VzQ2bFA0?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": "deepseek.com",
+      "amount_usd": 15800000000,
+      "amount_disclosed": true,
+      "currency_note": "CNY 105.5B (about KRW 21.1 trillion per Yonhap) converted at about 0.15; the feed headline says 2.1 trillion won",
+      "lead_investors": [],
+      "investors": [
+        "Century Ritong",
+        "Jiangsu Retal Electronics"
+      ],
+      "hq_city": "Hangzhou",
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "deepseeks 2 1 trillion won",
+      "candidate_ids": [
+        "13913c73667e"
+      ],
+      "company": "DeepSeek",
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-12",
+      "hq_country": "CN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Frontier AI model developer.",
+      "description": "Chinese developer of open-source large language models; its second funding round ran from July to October 2026 with around 30 investors.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "DeepSeek raised 105.5 billion yuan",
+        "round": "during a second fundraising round conducted from July∼October this year",
+        "lead": null,
+        "investors": "The investors were Chinese cloud computing firm Century Ritong and its parent company, Jiangsu Retal Electronics."
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXR3ZweG13VU9PTTR4SENmVmdYM29lMXcwLWY5eDNtVUdjdl9XWkVTcTg0SjdTQUNaeFIyYTFWRmxMbm96NEdwMy1ObUVTSWRrN2cxQVV6c2FSRWhVZlk0YmNvT0dfVmNTLWFHSTBiZjhyUVBuMEE?oc=5",
+        "https://www.khan.co.kr/en/article/202611131103027",
+        "https://stockhub.kr/en/news/news_9c75b2cd9a26"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": "astrome.co",
+      "amount_usd": 7200000,
+      "amount_disclosed": true,
+      "currency_note": "INR 64 crore converted at about 89 INR per USD",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Bengaluru",
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "astrome",
+      "candidate_ids": [
+        "3d5c7b97ef23"
+      ],
+      "company": "Astrome",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-13",
+      "hq_country": "IN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Headline says the funding is to build an AI-powered satellite network.",
+      "description": "Indian telecom and satellite communications company building an AI-powered satellite network.",
+      "confidence": 0.55,
+      "evidence": {
+        "amount": "Secures Rs 64 Crore RDI Funding",
+        "round": "Secures Rs 64 Crore RDI Funding",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVDBCcUp5Szl6Ulh5eGJBc2dSWGgtSkNKWk1xS3FQTEZjQVY3dHF1dkdkV1l0Y1YyN2Z4R1VZVUM3eVA4dUZKaGFPelltWjlBXzd1cXJVYXAwN1p2OHVwY0ZHaTB1REV2NnJ1SVNGUThwWWlVREN6OFByb096WnFVM29UNjRfNjFFdk5ncWZ6a1RnbmZCZTd6dmlpTlY5WjJfemtNOS1JM2FrN2ZNbktoREl3Y2VNQVh3WkpGVl9VZ3VWdXVGOVdTSTRBNHc2MWd2NkI1Tmp5eXo3WTA3SGc?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "serial founder",
+      "candidate_ids": [
+        "8c931b9157f2"
+      ],
+      "company": "Unnamed startup (company name not in headline)",
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-14",
+      "hq_country": "GB",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Headline describes AI that spots UK building projects before they start.",
+      "description": "AI that spots UK building projects before they start, founded by a serial founder.",
+      "confidence": 0.2,
+      "evidence": {
+        "amount": null,
+        "round": "Serial founder raises pre-seed for AI that spots UK building projects before they start",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLWlWbkUtRGQ3ZGpqcHpyci1zdURkX2Q5S29tUEZYQXppTThMenpUampLTUx1ZEFRTHFaWEs2azdBVVJLMDJUZmpNR3RoU21YUGR1cnpwdzJGcC1EZ1RzRlRCWm9femZaLVhvRHlRNTMySEZhZkNYb3JhV1p5VXFzLS1STmRFYmE0ZGMzb2tZUUdzdTJaMDBJbGxmcWNxUlo5LVVaSTFkVERfSTlOMjd5SFRyU2ZpZ0pSZzF1Ykt3?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": 8000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "insurtech stitchstudio",
+      "candidate_ids": [
+        "1a85cd19e84b"
+      ],
+      "company": "StitchStudio",
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-14",
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Headline says the funding expands AI automation in insurance.",
+      "description": "Insurtech providing AI automation for insurance.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "raises $8 mn",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxObzZjU3E0WXFtUXhUVTNFU0s4WjE3VXczNmxYdXBfUi1SR3JZNjNzX2VyZVVkV2NpNnB1MmRJUkRmN0FHbTNaOGR5bDRzY2pRSDhIV1Q3U0VXRHFPNHgzTW5UR3lGMm5IbzFOLTFsY1dQQVZfcnFVNWU2bVpiYmlwQVRJdnNBMlVqT2NfMzRuZHg?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": "froncort.ai",
+      "amount_usd": 2300000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [
+        "Google.org"
+      ],
+      "hq_city": "Pune",
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "froncort",
+      "candidate_ids": [
+        "5afda89bf6fd"
+      ],
+      "company": "Froncort.AI",
+      "round_type": "Grant",
+      "stage_bucket": "Other",
+      "announced_date": "2026-09-15",
+      "hq_country": "IN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Healthcare AI startup; its AI-NETRA platform flags high-risk areas for disease screening.",
+      "description": "Pune-based healthcare AI startup whose AI-NETRA platform tells frontline health workers which households to screen first for TB and other infections.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "has received a $2.3 million grant from Google.org",
+        "round": "has received a $2.3 million grant from Google.org",
+        "lead": null,
+        "investors": "has received a $2.3 million grant from Google.org"
+      },
+      "source_urls": [
+        "https://bharatfast.com/english/tech-english/froncort-ai-2-3-mn-google-org-grant/37128/"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": "nvidia.com",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Santa Clara",
+      "hq_state": "CA",
+      "exclude_reason": "not-funding",
+      "group_key": "huangs nvidia exit could",
+      "candidate_ids": [
+        "31d955a8dd9c"
+      ],
+      "company": "NVIDIA",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-14",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Commentary about a public company; always false for public companies under the contract.",
+      "description": "Economist commentary on how Jensen Huang's exit from NVIDIA could tighten AI funding; not a funding round.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": null,
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2ozWDNnMkhETHhLVXkySkxPbkFZRVhNbDlFOFd5SFBaWEdFcnBxRGkxUjZWYmgwMHhiTEV1bXNGc3pERG5lWFV4OThjR0Z2RTJORGNka25RZVMyaTVpNzFNSC0tbjQyT09KWVl6MlpiUUd4T0V5RUFhZnVWTm0wMHZUYw?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "arborum",
+      "candidate_ids": [
+        "52a0cf809313",
+        "7c911aa5ce09"
+      ],
+      "company": "Arborum Labs",
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-16",
+      "hq_country": "IN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Develops AI world models for infrastructure networks.",
+      "description": "Indian AI startup developing AI world models for infrastructure networks.",
+      "confidence": 0.55,
+      "evidence": {
+        "amount": null,
+        "round": "Raises Pre-Seed Funding to Develop AI World Models for Infrastructure Networks",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.indianstartuptimes.com/news/arborum-labs-raises-pre-seed-funding-to-develop-ai-world-models-for-infrastructure-networks/",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVFFNRXhxbkM0Nm5TVERJenU0OVI1TTYxXzYzaGM3UzJLZ2VlR09mMXNfT2lZckwxZUFDTUtYUXJDY1IwSmV6a0FIVGtHUVh3MUJWWThaTVU1Y2RHbDFrcXNJNV8zVGxYYVNPZmNCRE91a0t2VUN6ZGhoTTZwWFJCN1hhdHNMZm5ra3JqcWpR?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "chipverse",
+      "candidate_ids": [
+        "4a96e3e8c262"
+      ],
+      "company": "Chipverse",
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-17",
+      "hq_country": "EG",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Headline says the funding expands AI infrastructure in Egypt.",
+      "description": "Startup expanding AI infrastructure in Egypt.",
+      "confidence": 0.45,
+      "evidence": {
+        "amount": null,
+        "round": "Raises Pre-Seed Funding to Expand AI Infrastructure in Egypt",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMiREFVX3lxTFBvTmZsNW5hY3pLS2VxZE5Hc2gzaDNQMGZDRXlZZHlVbGt0Zl8wQThMNWlIdmxxYmpxZm1mRzdWNGVEV0Jk?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": 1000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Shastra VC"
+      ],
+      "investors": [
+        "Shastra VC",
+        "Rukam Sitara"
+      ],
+      "hq_city": "Mumbai",
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "lemonpeel",
+      "candidate_ids": [
+        "6c7d7a178b78",
+        "24813adc5e2f"
+      ],
+      "company": "Lemonpeel",
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-17",
+      "hq_country": "IN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI video production infrastructure using specialised AI agents and a model-agnostic engine.",
+      "description": "Mumbai-based AI video production infrastructure for enterprise creative teams, combining specialised agents with a model-agnostic engine.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "has raised $1 million in a pre-seed funding round led by Shastra VC",
+        "round": "has raised $1 million in a pre-seed funding round led by Shastra VC",
+        "lead": "led by Shastra VC",
+        "investors": "led by Shastra VC, with participation from Rukam Sitara and angel investors"
+      },
+      "source_urls": [
+        "https://entrackr.com/snippets/ai-video-production-startup-lemonpeel-raises-1-mn-in-pre-seed-round-led-by-shastra-vc-12816726",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc3lBc3Z3VXdGVGVzbEhXM0s3b2lXYnBvSTdqUmxCMHlpQU13OVdiR0VleGNvWjQ3VFVNZUQ4TG83akJCVGhocFBRb0s2WnA5UGppa1dFOUVGYUVXSUs2MXFtTTdmSmdhNkZnSGgwcDluNHM2YmFJTHdRa2xGNW03TFNGYm9GWjRRUXRBdmhHZENMQVM2bDYzR2d4Umxwb1NpVXdGSGF3RFlXd0M5NWk5UEoyYnlPZVYxVFJUYVFvaXZwTVVpZmhaaNIBzgFBVV95cUxQTGNhYUsybFhxRVR0V0NrUTdnSlNWcG1zMUo0eEJnWEpqUURYbktIbU00MDFNSDlOc1F5XzFPZ0Rqcm1pb2lZZ0tPOVRWclZCdjgwUWNVSHNRWHJPb1JQbHh0R0V1M0RVbkVFWVNDVUVlckMzd29pYmZEaHhhLTQzU3BJVHVvRnVFS3puSV91SXNjUFdZb0FiNWliZmQ5b09ITWNTaU5qOGpVTU5wZXlhdDRQclFDaXl5ektfRXkzYnVGVE5Gc0pOYlpVeHFmdw?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": null,
+      "amount_usd": 1900000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Crane Venture Partners"
+      ],
+      "investors": [
+        "Crane Venture Partners",
+        "Neon Fund"
+      ],
+      "hq_city": "Bengaluru",
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "johnaic",
+      "candidate_ids": [
+        "e58128a657e0"
+      ],
+      "company": "JohnAIC",
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-17",
+      "hq_country": "IN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Sovereign AI infrastructure: on-premise GPU servers, inference software and optimised open-source models.",
+      "description": "Bengaluru-based maker of on-premise AI infrastructure combining GPU servers, inference software, open-source models and local data management.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "has raised $1.9 million in a pre-seed funding round led by Crane Venture Partners",
+        "round": "has raised $1.9 million in a pre-seed funding round led by Crane Venture Partners",
+        "lead": "led by Crane Venture Partners",
+        "investors": "led by Crane Venture Partners, with participation from Neon Fund"
+      },
+      "source_urls": [
+        "https://entrackr.com/snippets/ai-infra-startup-johnaic-raises-19-mn-in-pre-seed-round-12815778"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "website": "meetaugust.ai",
+      "amount_usd": 12000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [
+        "Accel",
+        "Peak XV Partners",
+        "Claypond Capital"
+      ],
+      "hq_city": "Bengaluru",
+      "hq_state": null,
+      "exclude_reason": null,
+      "group_key": "august",
+      "candidate_ids": [
+        "c24a6acd9184"
+      ],
+      "company": "August AI",
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-17",
+      "hq_country": "IN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI company by name; an AI health assistant.",
+      "description": "AI health assistant startup.",
+      "confidence": 0.55,
+      "evidence": {
+        "amount": "raises $12 mn funding from Accel, Peak XV Partners and Claypond Capital",
+        "round": null,
+        "lead": null,
+        "investors": "raises $12 mn funding from Accel, Peak XV Partners and Claypond Capital"
+      },
+      "source_urls": [
+        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWXRjZVpETGF5Q25MRlVQd1FBZG5TQ20wUlFBa2M0em55UWZSZkdzNTY0ZEJManpCb1k4Sjc0eFptb3pyaDliOWxsV2o2eDVRUVV6YTV6clNCX0NwSDNDRDM0RVEwVThTN1ZIdzFtNUZjOW9OYlJWZjk2b1Z1SHFkZWc5SEttOGRGNjdGM3lkNjJLMXRTOUpBZVF4Mkhsd29fQlhSTDVvNkQza3I5a210cC1MRTljRDNHMExtZXJqWXFGRmRRVEdCWWV1R0ZtTE1YN0xhMGVaVXZIVVhtYnB0ODFJaHN3cDTSAewBQVVfeXFMUDBUT2JoNC1SU0ZHNklRbkJZeU85all5UzIzRjBKU3lfOFpsR0ZTRFpTOVE2LV9tUVJ6MVBTSU8ybUxkRXlmQWwxR2pLMzZqN3pkZ05KRTdFYlhKYmQ5U05lMUpnQzFkUWdIS2xPM3E0MDdaVTBMNlJOR1ZMWTVqaDhfamV0d1QwaDlkOGVCOHhRM3ZBU2hXZndhQzNYaVBnaDJWUlhYa0gzelFPVThaU21WNFBhZWxxVGFsY2FodVBYQzYtWUwzbkpQaDVJa3VmZ1FTMUdZNnptdFh6WnFfb1ptcXpfQXlfOGczWkE?oc=5"
+      ],
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    }
+  ]
+}

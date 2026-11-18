@@ -1,0 +1,3032 @@
+{
+  "run_date": "catchup-2026-11-10_2026-11-17",
+  "extractor": "parallel agent parts 11-15",
+  "notes": "Parts 11-15 of the catch-up run: 50 groups processed into 77 rows. Merged groups (one row each): Agile Robots = \"physical\" + \"softbank and nvidia back\" + \"softbank tse\"; Genesis AI = \"genesis\" + \"exclusive 2\"; Q-CTRL = \"q ctrl\" + \"q ctrl 2\" + \"salesforce stock\"; LangChain = \"langchain\" + \"this\"; sennder = \"german unicorn\" + \"freighttech unicorn\"; Redalpine fund = \"swiss vc redalpine\" + \"mistral and n26 backer\"; ACWA Power = \"acwa power stock 226\" + \"saudi acwa power\"; Windward Bio = \"sanofi backed windward bio\" + \"swiss biotech windward\"; Indian weekly round-up = \"indian startups\" + \"between november 02 and\" (Instagram teaser, no extra facts). Round-ups expanded: Indian Startup News week of Nov 2-7 (22 rows; the table column is headed \"Lead investor(s)\" so listed names are recorded as leads; rows without their own date use 2026-11-07, Braid uses its 2026-10-29 press release date; KPN Ventures also backed Braid per the press release but is left out because no candidate text names it), crypto.news week of Nov 7-13 (13 rows; undated ones use 2026-11-13; DECA Labs' $12M is cumulative funding, not one round; vibe/vibe and Mori Finance are token sales), Techli Midwest week ending Nov 6 (6 rows; Ocient dated Nov 5, Erebor Bank dated Nov 2 from SBI's statement and it is a planned commitment; QualSights and CareLumi placed in Chicago by the article's four-of-six count). Judgment calls to review: VulcanForms $500M is recorded as Debt (press release only says \"financing\" led by J.P. Morgan and Apollo-managed funds; Dealroom calls it debt), so it falls out of scope, and its HQ follows Pulse 2.0's \"Boston-based\"; Agile Robots is dated 2026-11-12 (first coverage) although the PR Newswire APAC copy is dated Nov 17; Genesis AI is US under the dual-HQ rule (dateline \"PARIS and SAN CARLOS, Calif.\"); Model ML stays GB (all coverage says London-based; no US dateline found); Science Corporation is is_ai_ml false after a lookup found no AI claim, with Alameda, CA from general knowledge; Zilch amount is the GBP 165M upsizing rather than the GBP 395M total; sennder's EUR 228M mixes EUR 73M equity and EUR 155M debt facilities so round_type is Other; Monzo is a talks-stage report (not-funding); Mentari, Windward Bio, Bird Construction, VICI, StandardAero, ACWA Power and MAIR Group are public-company rows; StandardAero, Viasat, LPL, Soros, UA Little Rock and Patrick Industries carry no funding amount. Web lookups used: 13 searches (Mentari, Science Corporation, Onodrim, sennder, Model ML, Bird, Erebor Bank, EloElo, Index Industries, Alta, Braid, Agile Robots date, VulcanForms instrument); URLs relied on are in source_urls, which means the validator skips its text check on those rows. Unresolved: HQ country for Mentari Therapeutics, Index Industries, BALI Treatment and most crypto round-up companies is \"unknown\"; Sand.ai investors are unknown (article blocked, title only).",
+  "rows": [
+    {
+      "group_key": "physical",
+      "candidate_ids": [
+        "85767ffdf600",
+        "2ceec475909e",
+        "509d670dce5c"
+      ],
+      "company": "Agile Robots",
+      "website": "agile-robots.com",
+      "amount_usd": 500000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series F",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-12",
+      "lead_investors": [
+        "SoftBank Group"
+      ],
+      "investors": [
+        "SoftBank Group",
+        "NVIDIA",
+        "Hitachi",
+        "Hitachi Ventures",
+        "T.Capital"
+      ],
+      "hq_city": "Munich",
+      "hq_state": null,
+      "hq_country": "DE",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Physical AI company building humanoid and mobile robots plus the AI models behind them.",
+      "description": "Munich-based physical AI company building humanoid and mobile robots, robotic arms and hands, and the software and AI models behind them for industrial customers.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "raising $500 million at a valuation of $8.5 billion",
+        "round": "has closed a Series F funding round",
+        "lead": "The SoftBank Group-led round",
+        "investors": "with participation from NVIDIA, Hitachi Group (Hitachi and Hitachi Ventures), T.Capital and others"
+      },
+      "source_urls": [
+        "https://www.prnewswire.com/apac/news-releases/physical-ai-leader-agile-robots-raises-500-million-series-f-at-8-5-billion-valuation-to-accelerate-global-growth-302941340.html",
+        "https://mlq.ai/news/softbank-and-nvidia-back-germanys-agile-robots-in-a-500-million-round-at-an-85-billion-valuation/",
+        "https://finance.yahoo.com/technology/ai/articles/softbank-tse-9434-leads-500-062035919.html",
+        "https://www.forbes.com/sites/johnkoetsier/2026/11/12/germanys-agile-robots-raises-500-million-from-softbank-nvidia-at-85-billion-valuation/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "vulcanforms",
+      "candidate_ids": [
+        "9193af7629d4",
+        "7aeaf01d518f"
+      ],
+      "company": "VulcanForms",
+      "website": "vulcanforms.com",
+      "amount_usd": 500000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-12",
+      "lead_investors": [
+        "J.P. Morgan",
+        "Apollo"
+      ],
+      "investors": [
+        "J.P. Morgan",
+        "Apollo"
+      ],
+      "hq_city": "Boston",
+      "hq_state": "MA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Company says its manufacturing platform combines metal additive manufacturing, machining, automation and physical AI.",
+      "description": "Advanced digital manufacturing company combining metal additive manufacturing, precision machining, automation and physical AI to make engineered metal parts at industrial scale.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "has secured an agreement for $500 million in financing led by J.P. Morgan and funds managed by Apollo",
+        "round": "fueled by a $500 million financing deal the company announced Thursday",
+        "lead": "The financing, led by J.P. Morgan and Apollo-managed funds",
+        "investors": "The financing, led by J.P. Morgan and Apollo-managed funds"
+      },
+      "source_urls": [
+        "https://wbjournal.com/article/vulcanforms-announces-500m-financing-agreement/",
+        "https://pulse2.com/vulcanforms-500-million-financing-led-by-j-p-morgan-and-apollo-to-build-three-new-u-s-manufacturing-factories/",
+        "https://www.globenewswire.com/news-release/2026/11/12/3401536/0/en/vulcanforms-secures-500-million-to-scale-the-next-generation-of-american-manufacturing.html",
+        "https://dealroom.co/news/172222-vulcanforms-lands-500m-debt-to-build-three-new-us-factories/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "vici properties",
+      "candidate_ids": [
+        "42d4cd629548"
+      ],
+      "company": "VICI Properties",
+      "website": "viciproperties.com",
+      "amount_usd": 500000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-15",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Publicly traded real estate investment trust; no AI product.",
+      "description": "Publicly traded real estate investment trust owning gaming, hospitality and entertainment properties; took a $500M unsecured term loan to refinance 2027 notes.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "has secured a new $500 million unsecured term loan",
+        "round": "new $500 million unsecured term loan",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://pulse2.com/vici-properties-500-million-unsecured-term-loan-refinances-2027-debt-and-improves-revolving-credit-facility-pricing/"
+      ],
+      "exclude_reason": "public-company",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "genesis",
+      "candidate_ids": [
+        "e5ce17772f3f",
+        "3f4042ffe91e"
+      ],
+      "company": "Genesis AI",
+      "website": null,
+      "amount_usd": 500000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-17",
+      "lead_investors": [
+        "Premji Invest",
+        "Khosla Ventures",
+        "Eclipse"
+      ],
+      "investors": [
+        "Premji Invest",
+        "Khosla Ventures",
+        "Eclipse",
+        "Durable Capital Partners",
+        "T. Rowe Price Associates",
+        "Bpifrance",
+        "HSG",
+        "NVIDIA",
+        "AMD Ventures",
+        "Zoom",
+        "Samsung Next",
+        "Ericsson",
+        "Eric Schmidt",
+        "Eric Yuan",
+        "Jerry Yang",
+        "Xavier Niel",
+        "Zach Kirkhorn"
+      ],
+      "hq_city": "San Carlos",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Robotics company building an AI foundation model (GENE) and the AI-powered general-purpose robot Eno.",
+      "description": "Full-stack robotics company (Paris and San Carlos, Calif.) building the GENE robotics foundation model, dexterous hands, simulation and the Eno general-purpose robot.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "has raised $500 million in Series A funding at a $3.5 billion post-money valuation",
+        "round": "raised $500 million in Series A funding",
+        "lead": "The round was co-led by Premji Invest , Khosla Ventures and Eclipse",
+        "investors": "with participation from Durable Capital Partners , T. Rowe Price Associates, Inc. ¹, Bpifrance , HSG , NVIDIA , AMD Ventures , Zoom , Samsung Next and Ericsson , as well as visionary leaders including former Google CEO Eric Schmidt , Zoom CEO Eric Yuan , Jerry Yang, former CEO of Yahoo!, French tech entrepreneur Xavier Niel , and former Tesla CFO Zach Kirkhorn"
+      },
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html",
+        "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "mentari therapeutics",
+      "candidate_ids": [
+        "b26cbc369eb6"
+      ],
+      "company": "Mentari Therapeutics",
+      "website": null,
+      "amount_usd": 490000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-09",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Biotech that became Nasdaq-listed through a reverse merger; no AI claim.",
+      "description": "Biopharmaceutical company developing PACAP-targeted programs; became Nasdaq-listed by merging with InMed Pharmaceuticals alongside a $490M pre-closing private financing.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "Previously Announced $490 Million Financing",
+        "round": "Closing of Merger with InMed Pharmaceuticals",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.manilatimes.net/2026/11/09/tmt-newswire/globenewswire/mentari-therapeutics-announces-closing-of-merger-with-inmed-pharmaceuticals-and-previously-announced-490-million-financing/2465128",
+        "https://www.tipranks.com/news/company-announcements/inmed-merger-closes-as-mentari-therapeutics-begins-nasdaq-trading"
+      ],
+      "exclude_reason": "public-company",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "ballistic ventures",
+      "candidate_ids": [
+        "474397d7efd9"
+      ],
+      "company": "Ballistic Ventures",
+      "website": "ballisticventures.com",
+      "amount_usd": 490000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-14",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Venture capital firm raising funds, not an operating company.",
+      "description": "Cybersecurity-focused venture capital firm seeking $490M across two new funds ($360M flagship Fund III and $130M Fund B) per SEC filings.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "is seeking to raise $490 million across two new investment funds",
+        "round": "seeking $360 million for its third flagship fund and an additional $130 million for a separate investment vehicle",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://pulse2.com/ballistic-ventures-490-million-fundraising-target-for-two-new-cybersecurity-funds-amid-ai-security-boom/"
+      ],
+      "exclude_reason": "fund",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "viasat",
+      "candidate_ids": [
+        "1555e9fe1b34"
+      ],
+      "company": "Viasat",
+      "website": "viasat.com",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-13",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Carlsbad",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Public satellite communications company; item is a government contract award.",
+      "description": "Publicly traded satellite communications provider; received a U.S. Space Force IDIQ contract with a $450M ceiling for the Space Data Network Backbone.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": null,
+        "round": "has received an indefinite-delivery/indefinite-quantity (IDIQ) contract with a ceiling of $450 million",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://pulse2.com/viasat-450-million-u-s-space-force-contract-for-golden-dome-space-data-network-backbone-development/"
+      ],
+      "exclude_reason": "not-funding",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "q ctrl",
+      "candidate_ids": [
+        "b341a20c594e",
+        "ce097219e221",
+        "b5d63afd0fad",
+        "93c200d13835",
+        "8288bb3fdc13"
+      ],
+      "company": "Q-CTRL",
+      "website": "q-ctrl.com",
+      "amount_usd": 290000000,
+      "amount_disclosed": true,
+      "currency_note": "Announced as USD 290M (A$415M)",
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-12",
+      "lead_investors": [
+        "Salesforce Ventures"
+      ],
+      "investors": [
+        "Salesforce Ventures",
+        "Bullhound Capital",
+        "Affinity Partners",
+        "AMD Ventures",
+        "EDGE Group",
+        "MPower Partners",
+        "National Reconstruction Fund Corporation",
+        "SPARX Asset Management",
+        "Alpha Edison",
+        "Alumni Ventures",
+        "DCVC",
+        "In-Q-Tel",
+        "Lockheed Martin Ventures",
+        "Main Sequence",
+        "Ridgeline",
+        "Salus Ventures",
+        "Square Peg"
+      ],
+      "hq_city": "Sydney",
+      "hq_state": null,
+      "hq_country": "AU",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Described as a developer of AI-powered quantum infrastructure software using AI-powered control techniques.",
+      "description": "Sydney-headquartered developer of AI-powered quantum infrastructure software for error reduction and control, plus the Ironstone Opal quantum navigation system.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "has raised $290 million (A$415 million) in Series C funding led by Salesforce Ventures",
+        "round": "in Series C funding led by Salesforce Ventures",
+        "lead": "Series C funding led by Salesforce Ventures",
+        "investors": "New investors include Affinity Partners, AMD Ventures, EDGE Group, MPower Partners, Australia’s National Reconstruction Fund Corporation, and SPARX Asset Management.\nReturning investors include Alpha Edison, Alumni Ventures, Bullhound Capital, DCVC, In-Q-Tel, Lockheed Martin Ventures, Main Sequence, Ridgeline, Salesforce Ventures, Salus Ventures, and Square Peg."
+      },
+      "source_urls": [
+        "https://www.capitalbrief.com/briefing/q-ctrl-raises-415m-in-series-c-raise-led-by-salesforce-ventures-154500ad-6c82-4001-a535-5c8993d454d0/",
+        "https://pulse2.com/q-ctrl-290-million-series-c-funding-led-by-salesforce-ventures-creates-new-quantum-technology-unicorn/",
+        "https://en.wowtale.net/2026/11/15/236022/?utm_source=rss&utm_medium=rss&utm_campaign=quantum-error-reduction-software-maker-q-ctrl-raises-290-million-series-c",
+        "https://entarabi.com/en/2026/11/q-ctrl-raises-290-million-in-series-c-funding-round-with-participation-from/",
+        "https://www.ad-hoc-news.de/boerse/news/corporate-news/salesforce-stock-salesforce-ventures-leads-us-290-million-q-ctrl-round/70521754"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "science",
+      "candidate_ids": [
+        "e00280634964"
+      ],
+      "company": "Science Corporation",
+      "website": "science.xyz",
+      "amount_usd": 400000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series D",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-17",
+      "lead_investors": [],
+      "investors": [
+        "Khosla Ventures",
+        "Ackman Oxman Institute",
+        "Tenet Healthcare",
+        "885 Capital",
+        "Y Combinator",
+        "PLC Neurotech"
+      ],
+      "hq_city": "Alameda",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Neurotechnology and medical device company; neither the article nor press coverage makes an AI/ML claim about the product.",
+      "description": "Brain-computer interface company behind the PRIMA retinal implant for vision loss and a biohybrid neural-interface research program.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "it raised a $400 million Series D",
+        "round": "raised a $400 million Series D",
+        "lead": null,
+        "investors": "Khosla Ventures, the Ackman Oxman Institute, Tenet Healthcare, 885 Capital, Y Combinator and PLC Neurotech participated"
+      },
+      "source_urls": [
+        "https://www.unite.ai/science-corporation-raises-400m-series-d-to-expand-prima-access/",
+        "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "zilch",
+      "candidate_ids": [
+        "d081eae29ab3"
+      ],
+      "company": "Zilch",
+      "website": "zilch.com",
+      "amount_usd": 214500000,
+      "amount_disclosed": true,
+      "currency_note": "GBP 165M upsizing converted at 1.30; total facilities now GBP 395M",
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-12",
+      "lead_investors": [
+        "Deutsche Bank"
+      ],
+      "investors": [
+        "Deutsche Bank"
+      ],
+      "hq_city": "London",
+      "hq_state": null,
+      "hq_country": "GB",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Consumer payments and credit company; article makes no AI claim.",
+      "description": "UK consumer payments platform combining debit, credit, installments and rewards; upsized its securitization and corporate debt facilities.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "has increased its securitization and corporate debt facilities by £165 million, bringing total commitments to £395 million",
+        "round": "securitization and corporate debt facilities",
+        "lead": "Deutsche Bank led the latest financing",
+        "investors": "Deutsche Bank led the latest financing"
+      },
+      "source_urls": [
+        "https://pulse2.com/zilch-395-million-debt-facilities-expand-consumer-lending-capacity/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "lpl financial",
+      "candidate_ids": [
+        "10fcb24c4cf8"
+      ],
+      "company": "LPL Financial",
+      "website": "lpl.com",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-10",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "San Diego",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Public broker-dealer; item is an advisor team joining its platform.",
+      "description": "Publicly traded broker-dealer and RIA platform for independent advisors; added Contour Wealth Management, a practice with about $390M in client assets.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": null,
+        "round": "has added Contour Wealth Management, a Pennsylvania-based financial advisory practice serving approximately $390 million in client assets",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://pulse2.com/lpl-financial-brings-in-390-million-firm-contour-wealth-management/"
+      ],
+      "exclude_reason": "not-funding",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "cyberstarts",
+      "candidate_ids": [
+        "76596a48bd81"
+      ],
+      "company": "Cyberstarts",
+      "website": "cyberstarts.com",
+      "amount_usd": 360000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-15",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "IL",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Venture capital firm raising funds, not an operating company.",
+      "description": "Israeli cybersecurity venture capital firm; raised $360M across two funds, including $300M earmarked for Cyera.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "Cyberstarts raises $360 million across two funds",
+        "round": "across two funds, including $300 million for Cyera",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.calcalistech.com/ctechnews/article/ukdmm9bbi"
+      ],
+      "exclude_reason": "fund",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "standardaero",
+      "candidate_ids": [
+        "1e1d1b9a54bc"
+      ],
+      "company": "StandardAero",
+      "website": "standardaero.com",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-16",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Scottsdale",
+      "hq_state": "AZ",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Public aerospace maintenance company; no AI claim.",
+      "description": "Publicly traded aircraft engine maintenance, repair and overhaul provider; announced a financing and a $350M share repurchase.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": null,
+        "round": "StandardAero Announces Financing and $350 Million Share Repurchase",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.tipranks.com/news/company-announcements/standardaero-announces-financing-and-350-million-share-repurchase"
+      ],
+      "exclude_reason": "public-company",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "exus",
+      "candidate_ids": [
+        "1797c4ff517a",
+        "351325733e3f"
+      ],
+      "company": "Exus Renewables North America",
+      "website": null,
+      "amount_usd": 345000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-12",
+      "lead_investors": [
+        "Goldman Sachs Alternatives"
+      ],
+      "investors": [
+        "Goldman Sachs Alternatives"
+      ],
+      "hq_city": "Pittsburgh",
+      "hq_state": "PA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Renewable energy developer; no AI claim.",
+      "description": "Independent owner, developer and operator of utility-scale wind, solar and battery storage projects in the U.S.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "the closing of $345 million in senior secured holding company financing led by Goldman Sachs Alternatives",
+        "round": "senior secured holding company financing",
+        "lead": "financing led by Goldman Sachs Alternatives",
+        "investors": "financing led by Goldman Sachs Alternatives"
+      },
+      "source_urls": [
+        "https://hoodline.com/2026/11/exus-closes-345-million-financing-led-by-goldman-sachs-alternatives/",
+        "https://www.powermag.com/exus-renewables-north-america-closes-345-million-in-financing-to-support-new-projects/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "soros fund",
+      "candidate_ids": [
+        "e4217deb884d"
+      ],
+      "company": "Soros Fund Management",
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-14",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Investment firm; item is a 13F stock holding disclosure.",
+      "description": "Investment firm whose 13F filing shows it raised its Intel stake to 2.83M shares worth $340.3M as of Sept. 30, 2026.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": null,
+        "round": "Soros Fund Management held 2,830,000 Intel shares worth $340.3 million on Sept. 30",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://mlq.ai/news/soros-fund-raises-its-intel-stake-to-more-than-340-million-13f-shows/"
+      ],
+      "exclude_reason": "not-funding",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "uaes mair group",
+      "candidate_ids": [
+        "52564ed83715"
+      ],
+      "company": "MAIR Group",
+      "website": null,
+      "amount_usd": 327000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-14",
+      "lead_investors": [],
+      "investors": [
+        "Emirates NBD"
+      ],
+      "hq_city": "Abu Dhabi",
+      "hq_state": null,
+      "hq_country": "AE",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Listed retail and real estate group; no AI claim.",
+      "description": "UAE retail and commercial real estate group listed in Abu Dhabi; secured a $327M credit facility from Emirates NBD to fund expansion.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "secures $327 million credit facility from Emirates NBD",
+        "round": "$327 million credit facility",
+        "lead": null,
+        "investors": "credit facility from Emirates NBD"
+      },
+      "source_urls": [
+        "https://jawlah.co/en/68151"
+      ],
+      "exclude_reason": "public-company",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "path robotics 2",
+      "candidate_ids": [
+        "6b990033ffcb",
+        "d9c6e4334cbe",
+        "101bee35108a"
+      ],
+      "company": "Path Robotics",
+      "website": "path-robotics.com",
+      "amount_usd": 300000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series E",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-10",
+      "lead_investors": [
+        "Georgian"
+      ],
+      "investors": [
+        "Georgian",
+        "NAVER Ventures",
+        "D. E. Shaw Ventures",
+        "Addition",
+        "Drive Capital",
+        "IronArc Ventures",
+        "Tiger Global",
+        "Yamaha Motor Ventures"
+      ],
+      "hq_city": "Columbus",
+      "hq_state": "OH",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Develops physical AI models (Obsidian) that let welding robots perceive, plan and adapt autonomously.",
+      "description": "Columbus, Ohio developer of physical AI for manufacturing; its Obsidian model powers autonomous robotic welding for shipbuilding, defense and heavy industry.",
+      "confidence": 0.97,
+      "evidence": {
+        "amount": "has raised $300 million in Series E financing at a $2.45 billion post-money valuation",
+        "round": "raised $300 million in Series E financing",
+        "lead": "AI-focused growth equity firm Georgian led the round",
+        "investors": "NAVER Ventures and D. E. Shaw Ventures joined as new investors, and existing backers Addition, Drive Capital, IronArc Ventures, Tiger Global, and Yamaha Motor Ventures also took part"
+      },
+      "source_urls": [
+        "https://www.ohiotechnews.com/path-robotics-raises-300m-scale-physical-ai-manufacturing/",
+        "https://en.wowtale.net/2026/11/14/235995/?utm_source=rss&utm_medium=rss&utm_campaign=welding-ai-maker-path-robotics-raises-300m-series-e-with-naver-ventures",
+        "https://pulse2.com/path-robotics-300-million-series-e-at-2-45-billion-valuation-funds-manufacturing-ai-expansion/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "palantir alumnis onodrim",
+      "candidate_ids": [
+        "8d537729aecc",
+        "a09f350e6061"
+      ],
+      "company": "Onodrim Industries",
+      "website": null,
+      "amount_usd": 300000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-09",
+      "lead_investors": [
+        "Lux Capital"
+      ],
+      "investors": [
+        "Lux Capital",
+        "General Catalyst",
+        "Lakestar",
+        "Altimeter",
+        "Strike Capital",
+        "137 Ventures",
+        "8090",
+        "Expeditions"
+      ],
+      "hq_city": "Amsterdam",
+      "hq_state": null,
+      "hq_country": "NL",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Acquisition platform for defence and industrial suppliers; article and press release make no AI/ML product claim.",
+      "description": "Amsterdam-based defence and industrial scale-up platform founded by Palantir alumni that takes majority stakes in European defence, aerospace and manufacturing suppliers.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "has closed a $300 million Series A round",
+        "round": "closed a $300 million Series A round",
+        "lead": "The round was led by Lux Capital",
+        "investors": "New and existing investors including General Catalyst, Lakestar, Altimeter, Strike Capital, 137 Ventures, 8090 and Expeditions also took part"
+      },
+      "source_urls": [
+        "https://www.trendingtopics.eu/onodrim-raises-300-million-series-a-defense/",
+        "https://techfundingnews.com/onodrim-300m-series-a-european-defence-acquisitions/",
+        "https://www.prnewswire.com/news-releases/onodrim-industries-secures-300-million-series-a-at-1-3-billion-valuation-to-strengthen-europes-defence-and-industrial-foundations-302932791.html"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "anthropic investor de shaw",
+      "candidate_ids": [
+        "86827815f24a"
+      ],
+      "company": "Monzo",
+      "website": "monzo.com",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-10",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "London",
+      "hq_state": null,
+      "hq_country": "GB",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Digital bank; headline makes no AI claim.",
+      "description": "UK digital bank; a report says DE Shaw is in talks to lead a round of more than £300M, not yet an announced financing.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": null,
+        "round": "DE Shaw in talks to lead £300M+ Monzo round: Report",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://techfundingnews.com/de-shaw-monzo-300m-funding-round-7bn-valuation/"
+      ],
+      "exclude_reason": "not-funding",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "institutional infrastructure battery fund",
+      "candidate_ids": [
+        "7f1b95e10377"
+      ],
+      "company": "Institutional Infrastructure Battery Fund",
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-12",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "DE",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Infrastructure investment fund, not an operating company.",
+      "description": "German infrastructure fund for institutional investors focused on large-scale battery storage, launched with two projects and a pipeline above EUR 300M.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": null,
+        "round": "is launching as an infrastructure investment fund for institutional investors",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://assetphysics.com/institutional-infrastructure-battery-fund-startet-mit-ersten-gesicherten-grosspeicherprojekten-und-uber-300-millionen-euro-pipeline-en"
+      ],
+      "exclude_reason": "fund",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "langchain",
+      "candidate_ids": [
+        "ebec2010b0ba",
+        "4784a95a67af",
+        "eeb8eb6399a3",
+        "db98c367425b",
+        "48d4ba21920a"
+      ],
+      "company": "LangChain",
+      "website": "langchain.com",
+      "amount_usd": 300000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-13",
+      "lead_investors": [
+        "CapitalG"
+      ],
+      "investors": [
+        "CapitalG",
+        "GIC",
+        "DFJ Growth",
+        "IVP",
+        "Sapphire Ventures",
+        "Salesforce Ventures",
+        "Insight Partners",
+        "QuantumLight",
+        "MongoDB Ventures",
+        "Sequoia",
+        "Amplify",
+        "Benchmark"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI agent engineering platform (LangSmith, LangGraph, LangChain) for building, running and governing AI agents.",
+      "description": "San Francisco provider of open-source frameworks and the LangSmith platform for building, deploying, observing and governing AI agents.",
+      "confidence": 0.97,
+      "evidence": {
+        "amount": "has raised $300 million in Series C funding at a $3 billion valuation",
+        "round": "raised $300 million in Series C funding",
+        "lead": "The round was led by existing investor CapitalG",
+        "investors": "with significant participation from new investors GIC and DFJ Growth and existing investors IVP and Sapphire Ventures .\nNew investors also include Salesforce Ventures , Insight Partners , QuantumLight and MongoDB Ventures, and existing investors Sequoia , Amplify and Benchmark returned."
+      },
+      "source_urls": [
+        "https://en.wowtale.net/2026/11/14/235988/?utm_source=rss&utm_medium=rss&utm_campaign=langchain-raises-300m-series-c-at-a-3b-valuation-led-by-capitalg",
+        "https://karvtechinsider.com/ai/news/langchain-raises-300-million-series-c-at-3-billion-valuation-to-advance-enterprise-ai-agents",
+        "https://pulse2.com/langchain-300-million-series-c-funding-led-by-capitalg-at-3-billion-valuation-to-expand-ai-agent-platform/",
+        "https://www.citybiz.co/article/933425/langchain-raises-300-million-series-c-led-by-capitalg-at-3-billion-valuation/",
+        "https://www.newsbytesapp.com/news/business/langchain-raises-300m-at-3b-valuation-to-manage-ai-agents/story"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "barcelona has",
+      "candidate_ids": [
+        "8b53ece746fe"
+      ],
+      "company": "FC Barcelona",
+      "website": "fcbarcelona.com",
+      "amount_usd": 336000000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 300M converted at 1.12",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-14",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Barcelona",
+      "hq_state": null,
+      "hq_country": "ES",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Football club stadium financing; no AI claim.",
+      "description": "Spanish football club; raised a further EUR 300M to complete the Camp Nou stadium refurbishment.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "Barcelona has raised a further €300 million to complete the Camp Nou refurbishment",
+        "round": "raised a further €300 million",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://logos-pres.md/en/news/barcelona-has-raised-a-further-e300-million-to-complete-the-camp-nou-refurbishment/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "GIVA",
+      "website": "giva.co",
+      "amount_usd": 100000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "Multiples Alternate Asset Management"
+      ],
+      "investors": [
+        "Multiples Alternate Asset Management",
+        "Epiq Capital",
+        "Edelweiss Discovery Fund"
+      ],
+      "hq_city": "Bengaluru",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Round-up table lists the company under a non-AI sector with no AI/ML claim.",
+      "description": "Bengaluru-based jewellery brand with more than 400 retail outlets.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "GIVA raised $100 million (about Rs 955 crore) in a round led by Multiples Alternate Asset Management",
+        "round": "GIVA Jewelry Undisclosed $100M Multiples Alternate Asset Management Bengaluru",
+        "lead": "in a round led by Multiples Alternate Asset Management",
+        "investors": "with existing investors Epiq Capital and Edelweiss Discovery Fund also taking part"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "EloElo Group",
+      "website": null,
+      "amount_usd": 80000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "Hornbill Capital",
+        "NBCUniversal"
+      ],
+      "investors": [
+        "Hornbill Capital",
+        "NBCUniversal",
+        "MIT Investment Co."
+      ],
+      "hq_city": "Bengaluru",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Coverage of the round says proceeds will scale its microdrama and AI businesses, including Dolphin AI.",
+      "description": "Bengaluru mobile entertainment company behind the Story TV microdrama app and live social entertainment products.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "EloElo Group raised $80 million (approx Rs 764 crore) in a Series C round co-led by Hornbill Capital and NBCUniversal",
+        "round": "in a Series C round co-led by Hornbill Capital and NBCUniversal",
+        "lead": "co-led by Hornbill Capital and NBCUniversal",
+        "investors": "MIT Investment Co. and existing"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052",
+        "https://www.storyboard18.com/brand-marketing/story-tv-parent-eloelo-raises-80-million-led-by-hornbill-capital-nbcuniversal-to-scale-microdrama-ai-businesses-114012.htm"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "Braid",
+      "website": null,
+      "amount_usd": 38000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-10-29",
+      "lead_investors": [
+        "Octopus Ventures"
+      ],
+      "investors": [
+        "Octopus Ventures"
+      ],
+      "hq_city": "The Hague",
+      "hq_state": null,
+      "hq_country": "NL",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Embedded mobile connectivity (eSIM API) provider; no AI/ML claim in the article or press release.",
+      "description": "The Hague-based embedded connectivity company (formerly Next Communications) offering an eSIM API so brands can sell mobile data inside their apps.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "Braid Telecom Series A $38M Octopus Ventures The Hague",
+        "round": "Braid Telecom Series A $38M Octopus Ventures The Hague",
+        "lead": "Braid Telecom Series A $38M Octopus Ventures The Hague",
+        "investors": "Octopus Ventures backed Braid's $38 million round"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052",
+        "https://nextcommunications.io/seriesa/",
+        "https://techfundingnews.com/braid-38m-series-a-octopus-kpn-embedded-connectivity/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "Clinics On Cloud",
+      "website": null,
+      "amount_usd": 12750000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "Model42"
+      ],
+      "investors": [
+        "Model42"
+      ],
+      "hq_city": "Pune",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Round-up table lists the company under a non-AI sector with no AI/ML claim.",
+      "description": "Pune-based healthtech startup.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Clinics On Cloud Healthtech Series A $12.75M Model42 Pune",
+        "round": "Clinics On Cloud Healthtech Series A $12.75M Model42 Pune",
+        "lead": "Clinics On Cloud Healthtech Series A $12.75M Model42 Pune",
+        "investors": "Clinics On Cloud Healthtech Series A $12.75M Model42 Pune"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "Peppermint Robotics",
+      "website": null,
+      "amount_usd": 10620000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "pi Ventures",
+        "Crane Venture Partners"
+      ],
+      "investors": [
+        "pi Ventures",
+        "Crane Venture Partners"
+      ],
+      "hq_city": "Pune",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Robotics company, which the contract counts as AI/ML.",
+      "description": "Pune-based robotics startup; round reported as Pre Series B.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Peppermint Robotics Robotics Pre Series B $10.62M pi Ventures, Crane Venture Partners Pune",
+        "round": "Peppermint Robotics Robotics Pre Series B $10.62M pi Ventures, Crane Venture Partners Pune",
+        "lead": "Peppermint Robotics Robotics Pre Series B $10.62M pi Ventures, Crane Venture Partners Pune",
+        "investors": "Peppermint Robotics Robotics Pre Series B $10.62M pi Ventures, Crane Venture Partners Pune"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "altM",
+      "website": null,
+      "amount_usd": 10300000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "Rainmatter by Zerodha",
+        "Mela Ventures"
+      ],
+      "investors": [
+        "Rainmatter by Zerodha",
+        "Mela Ventures"
+      ],
+      "hq_city": "Bengaluru",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Round-up table lists the company under a non-AI sector with no AI/ML claim.",
+      "description": "Bengaluru-based cleantech startup.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "altM Cleantech Series A $10.3M Rainmatter by Zerodha, Mela Ventures Bengaluru",
+        "round": "altM Cleantech Series A $10.3M Rainmatter by Zerodha, Mela Ventures Bengaluru",
+        "lead": "altM Cleantech Series A $10.3M Rainmatter by Zerodha, Mela Ventures Bengaluru",
+        "investors": "altM Cleantech Series A $10.3M Rainmatter by Zerodha, Mela Ventures Bengaluru"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "Two Point O Capital",
+      "website": null,
+      "amount_usd": 10000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "Transition Venture Capital"
+      ],
+      "investors": [
+        "Transition Venture Capital"
+      ],
+      "hq_city": "Mumbai",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Round-up table lists the company under a non-AI sector with no AI/ML claim.",
+      "description": "Mumbai-based cleantech company.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Two Point O Capital Cleantech Series A $10M Transition Venture Capital Mumbai",
+        "round": "Two Point O Capital Cleantech Series A $10M Transition Venture Capital Mumbai",
+        "lead": "Two Point O Capital Cleantech Series A $10M Transition Venture Capital Mumbai",
+        "investors": "Two Point O Capital Cleantech Series A $10M Transition Venture Capital Mumbai"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "PowerUp Money",
+      "website": null,
+      "amount_usd": 10000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "Flourish Ventures"
+      ],
+      "investors": [
+        "Flourish Ventures"
+      ],
+      "hq_city": "Bengaluru",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Round-up table lists the company under a non-AI sector with no AI/ML claim.",
+      "description": "Bengaluru-based fintech startup.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "PowerUp Money Fintech Series B $10M Flourish Ventures Bengaluru",
+        "round": "PowerUp Money Fintech Series B $10M Flourish Ventures Bengaluru",
+        "lead": "PowerUp Money Fintech Series B $10M Flourish Ventures Bengaluru",
+        "investors": "PowerUp Money Fintech Series B $10M Flourish Ventures Bengaluru"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "Cosmoserve Space",
+      "website": null,
+      "amount_usd": 6000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "Rebright Partners"
+      ],
+      "investors": [
+        "Rebright Partners"
+      ],
+      "hq_city": "Hyderabad",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Round-up table lists the company under a non-AI sector with no AI/ML claim.",
+      "description": "Hyderabad-based spacetech startup.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Cosmoserve Space Spacetech Seed $6M Rebright Partners Hyderabad",
+        "round": "Cosmoserve Space Spacetech Seed $6M Rebright Partners Hyderabad",
+        "lead": "Cosmoserve Space Spacetech Seed $6M Rebright Partners Hyderabad",
+        "investors": "Cosmoserve Space Spacetech Seed $6M Rebright Partners Hyderabad"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "Ottonomy",
+      "website": null,
+      "amount_usd": 4250000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "Enrission India Capital"
+      ],
+      "investors": [
+        "Enrission India Capital"
+      ],
+      "hq_city": null,
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Robotics company, which the contract counts as AI/ML.",
+      "description": "California-headquartered robotics startup listed in an Indian weekly funding round-up.",
+      "confidence": 0.65,
+      "evidence": {
+        "amount": "Ottonomy Robotics Undisclosed $4.25M Enrission India Capital California",
+        "round": "Ottonomy Robotics Undisclosed $4.25M Enrission India Capital California",
+        "lead": "Ottonomy Robotics Undisclosed $4.25M Enrission India Capital California",
+        "investors": "Ottonomy Robotics Undisclosed $4.25M Enrission India Capital California"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "Venomics AI",
+      "website": null,
+      "amount_usd": 2700000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "Speciale Invest",
+        "South Park Commons"
+      ],
+      "investors": [
+        "Speciale Invest",
+        "South Park Commons"
+      ],
+      "hq_city": "Bengaluru",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Company brands itself as an AI biotech (name Venomics AI).",
+      "description": "Bengaluru-based biotech startup.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "Venomics AI Biotech Pre Seed $2.7M Speciale Invest, South Park Commons Bengaluru",
+        "round": "Venomics AI Biotech Pre Seed $2.7M Speciale Invest, South Park Commons Bengaluru",
+        "lead": "Venomics AI Biotech Pre Seed $2.7M Speciale Invest, South Park Commons Bengaluru",
+        "investors": "Venomics AI Biotech Pre Seed $2.7M Speciale Invest, South Park Commons Bengaluru"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "The Croffle Guys",
+      "website": null,
+      "amount_usd": 1490000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "V3 Ventures"
+      ],
+      "investors": [
+        "V3 Ventures"
+      ],
+      "hq_city": "Mumbai",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Round-up table lists the company under a non-AI sector with no AI/ML claim.",
+      "description": "Mumbai-based food brand.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "The Croffle Guys Foodtech Series A $1.49M V3 Ventures Mumbai",
+        "round": "The Croffle Guys Foodtech Series A $1.49M V3 Ventures Mumbai",
+        "lead": "The Croffle Guys Foodtech Series A $1.49M V3 Ventures Mumbai",
+        "investors": "The Croffle Guys Foodtech Series A $1.49M V3 Ventures Mumbai"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "OneStack",
+      "website": null,
+      "amount_usd": 1330000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "Shepherd's Hill"
+      ],
+      "investors": [
+        "Shepherd's Hill"
+      ],
+      "hq_city": "Gurugram",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Round-up table lists the company under a non-AI sector with no AI/ML claim.",
+      "description": "Gurugram-based fintech startup.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "OneStack Fintech Series A $1.33M Shepherd's Hill Gurugram",
+        "round": "OneStack Fintech Series A $1.33M Shepherd's Hill Gurugram",
+        "lead": "OneStack Fintech Series A $1.33M Shepherd's Hill Gurugram",
+        "investors": "OneStack Fintech Series A $1.33M Shepherd's Hill Gurugram"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "Solgram",
+      "website": null,
+      "amount_usd": 1000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "DSG Consumer Partners",
+        "Saama Capital"
+      ],
+      "investors": [
+        "DSG Consumer Partners",
+        "Saama Capital"
+      ],
+      "hq_city": "Gurugram",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Round-up table lists the company under a non-AI sector with no AI/ML claim.",
+      "description": "Gurugram-based foodtech startup.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Solgram Foodtech Pre Seed $1M DSG Consumer Partners, Saama Capital Gurugram",
+        "round": "Solgram Foodtech Pre Seed $1M DSG Consumer Partners, Saama Capital Gurugram",
+        "lead": "Solgram Foodtech Pre Seed $1M DSG Consumer Partners, Saama Capital Gurugram",
+        "investors": "Solgram Foodtech Pre Seed $1M DSG Consumer Partners, Saama Capital Gurugram"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "Hyeglo Beauty",
+      "website": null,
+      "amount_usd": 740000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "Sauce"
+      ],
+      "investors": [
+        "Sauce"
+      ],
+      "hq_city": "Delhi",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Round-up table lists the company under a non-AI sector with no AI/ML claim.",
+      "description": "Delhi-based beauty brand.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Hyeglo Beauty Beauty Seed $0.74M Sauce Delhi",
+        "round": "Hyeglo Beauty Beauty Seed $0.74M Sauce Delhi",
+        "lead": "Hyeglo Beauty Beauty Seed $0.74M Sauce Delhi",
+        "investors": "Hyeglo Beauty Beauty Seed $0.74M Sauce Delhi"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "Unify Foodworks",
+      "website": null,
+      "amount_usd": 530000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "Atrium Ventures",
+        "SailThru Ventures"
+      ],
+      "investors": [
+        "Atrium Ventures",
+        "SailThru Ventures"
+      ],
+      "hq_city": "New Delhi",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Round-up table lists the company under a non-AI sector with no AI/ML claim.",
+      "description": "New Delhi-based foodtech startup.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Unify Foodworks Foodtech Seed $0.53M Atrium Ventures, SailThru Ventures New Delhi",
+        "round": "Unify Foodworks Foodtech Seed $0.53M Atrium Ventures, SailThru Ventures New Delhi",
+        "lead": "Unify Foodworks Foodtech Seed $0.53M Atrium Ventures, SailThru Ventures New Delhi",
+        "investors": "Unify Foodworks Foodtech Seed $0.53M Atrium Ventures, SailThru Ventures New Delhi"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "Dispatch Network",
+      "website": null,
+      "amount_usd": 530000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "Antler India"
+      ],
+      "investors": [
+        "Antler India"
+      ],
+      "hq_city": "Pune",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Round-up table lists the company under a non-AI sector with no AI/ML claim.",
+      "description": "Pune-based logistics startup.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Dispatch Network Logistics Pre Seed $0.53M Antler India Pune",
+        "round": "Dispatch Network Logistics Pre Seed $0.53M Antler India Pune",
+        "lead": "Dispatch Network Logistics Pre Seed $0.53M Antler India Pune",
+        "investors": "Dispatch Network Logistics Pre Seed $0.53M Antler India Pune"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "Cellegant Energy",
+      "website": null,
+      "amount_usd": 310000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "GVFL",
+        "CoCreate Aarambh",
+        "IIEC"
+      ],
+      "investors": [
+        "GVFL",
+        "CoCreate Aarambh",
+        "IIEC"
+      ],
+      "hq_city": "Gandhinagar",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Round-up table lists the company under a non-AI sector with no AI/ML claim.",
+      "description": "Gandhinagar-based cleantech startup.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Cellegant Energy Cleantech Undisclosed $0.31M GVFL, CoCreate Aarambh, and IIEC Gandhinagar",
+        "round": "Cellegant Energy Cleantech Undisclosed $0.31M GVFL, CoCreate Aarambh, and IIEC Gandhinagar",
+        "lead": "Cellegant Energy Cleantech Undisclosed $0.31M GVFL, CoCreate Aarambh, and IIEC Gandhinagar",
+        "investors": "Cellegant Energy Cleantech Undisclosed $0.31M GVFL, CoCreate Aarambh, and IIEC Gandhinagar"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "Viraasat",
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "Sumit Gupta"
+      ],
+      "investors": [
+        "Sumit Gupta"
+      ],
+      "hq_city": "Kolkata",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Round-up table lists the company under a non-AI sector with no AI/ML claim.",
+      "description": "Kolkata-based luxury brand; angel round of undisclosed size.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": null,
+        "round": "Viraasat Luxury Angel - Sumit Gupta Kolkata",
+        "lead": "Viraasat Luxury Angel - Sumit Gupta Kolkata",
+        "investors": "Viraasat Luxury Angel - Sumit Gupta Kolkata"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "Metasports Interactive",
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "Sachin Tendulkar"
+      ],
+      "investors": [
+        "Sachin Tendulkar"
+      ],
+      "hq_city": "Hyderabad",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Round-up table lists the company under a non-AI sector with no AI/ML claim.",
+      "description": "Hyderabad-based gaming startup; undisclosed round.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": null,
+        "round": "Metasports Interactive Gaming Undisclosed - Sachin Tendulkar Hyderabad",
+        "lead": "Metasports Interactive Gaming Undisclosed - Sachin Tendulkar Hyderabad",
+        "investors": "Metasports Interactive Gaming Undisclosed - Sachin Tendulkar Hyderabad"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "OBSESS",
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "Pushpendra Singh",
+        "Harshit Vij"
+      ],
+      "investors": [
+        "Pushpendra Singh",
+        "Harshit Vij"
+      ],
+      "hq_city": "Noida",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Round-up table lists the company under a non-AI sector with no AI/ML claim.",
+      "description": "Noida-based fitness startup; angel round of undisclosed size.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": null,
+        "round": "OBSESS Fitness Angel - Pushpendra Singh and Harshit Vij Noida",
+        "lead": "OBSESS Fitness Angel - Pushpendra Singh and Harshit Vij Noida",
+        "investors": "OBSESS Fitness Angel - Pushpendra Singh and Harshit Vij Noida"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "indian startups",
+      "candidate_ids": [
+        "ab2af5c80791"
+      ],
+      "company": "Shortgun Games",
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-07",
+      "lead_investors": [
+        "Mahesh Babu"
+      ],
+      "investors": [
+        "Mahesh Babu"
+      ],
+      "hq_city": "Mumbai",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Round-up table lists the company under a non-AI sector with no AI/ML claim.",
+      "description": "Mumbai-based gaming startup; undisclosed round.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": null,
+        "round": "Shortgun Games Gaming Undisclosed - Mahesh Babu Mumbai",
+        "lead": "Shortgun Games Gaming Undisclosed - Mahesh Babu Mumbai",
+        "investors": "Shortgun Games Gaming Undisclosed - Mahesh Babu Mumbai"
+      },
+      "source_urls": [
+        "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "crypto vc funding project",
+      "candidate_ids": [
+        "3088f0970c43"
+      ],
+      "company": "Project Faro",
+      "website": null,
+      "amount_usd": 270000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-10",
+      "lead_investors": [],
+      "investors": [
+        "Goldman Sachs",
+        "Citigroup",
+        "Santander",
+        "Deutsche Bank"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Crypto or blockchain company; the round-up makes no AI/ML claim about the product.",
+      "description": "Bank-backed stablecoin venture from a 21-member consortium planning a U.S. issuer and a dollar stablecoin for payments and settlement in 2027.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "Project Faro drew approximately $270 million in reported commitments for five years of operations",
+        "round": "The figure represents committed corporate financing",
+        "lead": null,
+        "investors": "Goldman Sachs, Citigroup, Santander and Deutsche Bank were among institutions committing around $270 million to a stablecoin venture"
+      },
+      "source_urls": [
+        "https://crypto.news/crypto-vc-funding-project-faro-index-industries/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "crypto vc funding project",
+      "candidate_ids": [
+        "3088f0970c43"
+      ],
+      "company": "Index Industries",
+      "website": null,
+      "amount_usd": 50000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-10",
+      "lead_investors": [
+        "Lightspeed Venture Partners"
+      ],
+      "investors": [
+        "Lightspeed Venture Partners",
+        "Polychain Capital",
+        "Galaxy Ventures",
+        "Wintermute Ventures"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Housing index and tokenization infrastructure; no AI/ML claim in the article or other coverage.",
+      "description": "Developer of a daily U.S. home-price index and tokenization infrastructure for housing-linked investment products.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "Index Industries emerged from stealth on Nov. 10 with a $50 million seed round led by Lightspeed Venture Partners",
+        "round": "a $50 million seed round",
+        "lead": "seed round led by Lightspeed Venture Partners",
+        "investors": "Polychain Capital, Galaxy Ventures and Wintermute Ventures participated"
+      },
+      "source_urls": [
+        "https://crypto.news/crypto-vc-funding-project-faro-index-industries/",
+        "https://ventureburn.com/index-industries-raises-50-million-easy-us-housing-investment/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "crypto vc funding project",
+      "candidate_ids": [
+        "3088f0970c43"
+      ],
+      "company": "Alta",
+      "website": null,
+      "amount_usd": 47500000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-10",
+      "lead_investors": [
+        "Index Ventures"
+      ],
+      "investors": [
+        "Index Ventures",
+        "GV",
+        "Blackbird Ventures",
+        "Square Peg",
+        "Capital49"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Compliance-focused blockchain for banks; no AI/ML claim in the article or other coverage.",
+      "description": "San Francisco company (formerly Metal) building a blockchain with privacy, identity and programmable compliance for regulated financial institutions.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "Alta announced a $47.5 million Series A led by Index Ventures on Nov. 10",
+        "round": "a $47.5 million Series A",
+        "lead": "Series A led by Index Ventures",
+        "investors": "with GV, Blackbird Ventures, Square Peg and Capital49 participating"
+      },
+      "source_urls": [
+        "https://crypto.news/crypto-vc-funding-project-faro-index-industries/",
+        "https://fortune.com/2026/11/10/alta-series-a-airwallex/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "crypto vc funding project",
+      "candidate_ids": [
+        "3088f0970c43"
+      ],
+      "company": "Griffin",
+      "website": null,
+      "amount_usd": 20000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-12",
+      "lead_investors": [
+        "Octagon Partners"
+      ],
+      "investors": [
+        "Octagon Partners",
+        "Notion Capital",
+        "A+ Ventures",
+        "Nordic Ninja",
+        "Breega"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "GB",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "UK bank building card issuing and stablecoin services; no AI/ML claim.",
+      "description": "UK bank whose platform serves more than 80 companies; plans to develop card issuing and stablecoin services.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "Griffin raised a $20 million Series B led by Octagon Partners",
+        "round": "a $20 million Series B",
+        "lead": "Series B led by Octagon Partners",
+        "investors": "joined by Notion Capital, A+ Ventures, Nordic Ninja, Breega and existing investors"
+      },
+      "source_urls": [
+        "https://crypto.news/crypto-vc-funding-project-faro-index-industries/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "crypto vc funding project",
+      "candidate_ids": [
+        "3088f0970c43"
+      ],
+      "company": "Marble",
+      "website": null,
+      "amount_usd": 11000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-10",
+      "lead_investors": [
+        "Polychain Capital"
+      ],
+      "investors": [
+        "Polychain Capital",
+        "Maven 11",
+        "Ripple",
+        "Susquehanna Crypto",
+        "Lattice",
+        "Blockwall"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Institutional trading and credit firm that finances AI infrastructure; the product itself is not described as AI/ML.",
+      "description": "Developer of institutional trading and credit financing for AI infrastructure, led by former BitGo and Galaxy executives.",
+      "confidence": 0.65,
+      "evidence": {
+        "amount": "Marble launched on Nov. 10 with an $11 million seed round led by Polychain Capital",
+        "round": "an $11 million seed round",
+        "lead": "seed round led by Polychain Capital",
+        "investors": "Maven 11, Ripple, Susquehanna Crypto, Lattice and Blockwall participated"
+      },
+      "source_urls": [
+        "https://crypto.news/crypto-vc-funding-project-faro-index-industries/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "crypto vc funding project",
+      "candidate_ids": [
+        "3088f0970c43"
+      ],
+      "company": "DECA Labs",
+      "website": null,
+      "amount_usd": 12000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-13",
+      "lead_investors": [],
+      "investors": [
+        "Polychain",
+        "Pantera",
+        "Accel",
+        "dao5"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Operates an AI-agent network that identifies and validates software ideas.",
+      "description": "Operator of an AI-agent network that identifies and validates software ideas before development and distribution; disclosed $12M in cumulative funding.",
+      "confidence": 0.4,
+      "evidence": {
+        "amount": "DECA Labs announced $12 million in cumulative funding from investors including Polychain, Pantera, Accel and dao5",
+        "round": "cumulative funding",
+        "lead": null,
+        "investors": "from investors including Polychain, Pantera, Accel and dao5"
+      },
+      "source_urls": [
+        "https://crypto.news/crypto-vc-funding-project-faro-index-industries/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "crypto vc funding project",
+      "candidate_ids": [
+        "3088f0970c43"
+      ],
+      "company": "Seva Money",
+      "website": null,
+      "amount_usd": 5000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-13",
+      "lead_investors": [
+        "Blockwall",
+        "Revent"
+      ],
+      "investors": [
+        "Blockwall",
+        "Revent",
+        "Seedcamp",
+        "Stride",
+        "Ada Ventures"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Crypto or blockchain company; the round-up makes no AI/ML claim about the product.",
+      "description": "Supplies remittance providers with wallets, cards and embedded services.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "Seva Money secured a $5 million seed round co-led by Blockwall and Revent",
+        "round": "a $5 million seed round",
+        "lead": "seed round co-led by Blockwall and Revent",
+        "investors": "with Seedcamp, Stride and Ada Ventures participating"
+      },
+      "source_urls": [
+        "https://crypto.news/crypto-vc-funding-project-faro-index-industries/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "crypto vc funding project",
+      "candidate_ids": [
+        "3088f0970c43"
+      ],
+      "company": "Quranum Protocol",
+      "website": null,
+      "amount_usd": 4500000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-13",
+      "lead_investors": [],
+      "investors": [
+        "Archer Capital",
+        "Tidal Capital",
+        "Astra Capital"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Crypto or blockchain company; the round-up makes no AI/ML claim about the product.",
+      "description": "Crypto protocol raising strategic funding for protocol development and financial infrastructure.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "Quranum Protocol announced $4.5 million in strategic funding from Archer Capital, Tidal Capital and Astra Capital",
+        "round": "strategic funding",
+        "lead": null,
+        "investors": "from Archer Capital, Tidal Capital and Astra Capital"
+      },
+      "source_urls": [
+        "https://crypto.news/crypto-vc-funding-project-faro-index-industries/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "crypto vc funding project",
+      "candidate_ids": [
+        "3088f0970c43"
+      ],
+      "company": "vibe/vibe",
+      "website": null,
+      "amount_usd": 300000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-13",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Crypto or blockchain company; the round-up makes no AI/ML claim about the product.",
+      "description": "Project developing a Robinhood Chain launchpad; raised through a public token sale.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "vibe/vibe recorded a $300,000 public token sale",
+        "round": "public token sale",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://crypto.news/crypto-vc-funding-project-faro-index-industries/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "crypto vc funding project",
+      "candidate_ids": [
+        "3088f0970c43"
+      ],
+      "company": "Mori Finance",
+      "website": null,
+      "amount_usd": 250000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-13",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Crypto or blockchain company; the round-up makes no AI/ML claim about the product.",
+      "description": "Solana options platform offering covered calls executed through institutional counterparties; raised via a MetaDAO token raise.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "Mori Finance recorded a $250,000 token raise on MetaDAO",
+        "round": "token raise on MetaDAO",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://crypto.news/crypto-vc-funding-project-faro-index-industries/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "crypto vc funding project",
+      "candidate_ids": [
+        "3088f0970c43"
+      ],
+      "company": "Kailash",
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-13",
+      "lead_investors": [
+        "UTXO Management"
+      ],
+      "investors": [
+        "UTXO Management"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Crypto or blockchain company; the round-up makes no AI/ML claim about the product.",
+      "description": "Builder of institutional investment products onchain.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": null,
+        "round": "Kailash closed a pre-seed round led by UTXO Management",
+        "lead": "pre-seed round led by UTXO Management",
+        "investors": "led by UTXO Management"
+      },
+      "source_urls": [
+        "https://crypto.news/crypto-vc-funding-project-faro-index-industries/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "crypto vc funding project",
+      "candidate_ids": [
+        "3088f0970c43"
+      ],
+      "company": "Spout",
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-13",
+      "lead_investors": [],
+      "investors": [
+        "Ondo"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Crypto or blockchain company; the round-up makes no AI/ML claim about the product.",
+      "description": "Preparing lending against tokenized stocks on Solana.",
+      "confidence": 0.55,
+      "evidence": {
+        "amount": null,
+        "round": "Spout received an Ondo investment",
+        "lead": null,
+        "investors": "Spout received an Ondo investment"
+      },
+      "source_urls": [
+        "https://crypto.news/crypto-vc-funding-project-faro-index-industries/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "crypto vc funding project",
+      "candidate_ids": [
+        "3088f0970c43"
+      ],
+      "company": "Lithium",
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-13",
+      "lead_investors": [],
+      "investors": [
+        "LitVM"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Crypto or blockchain company; the round-up makes no AI/ML claim about the product.",
+      "description": "Proposed lending service letting users supply USDC or borrow against zkLTC collateral.",
+      "confidence": 0.55,
+      "evidence": {
+        "amount": null,
+        "round": "Lithium secured a strategic investment from LitVM",
+        "lead": null,
+        "investors": "strategic investment from LitVM"
+      },
+      "source_urls": [
+        "https://crypto.news/crypto-vc-funding-project-faro-index-industries/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "ua little rock",
+      "candidate_ids": [
+        "22e10f977bd6"
+      ],
+      "company": "University of Arkansas at Little Rock",
+      "website": "ualr.edu",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-05",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Little Rock",
+      "hq_state": "AR",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "University philanthropy campaign; not a company financing.",
+      "description": "Public university that completed its Centennial donor campaign with $266.5M raised against a $250M goal.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": null,
+        "round": "has completed its Centennial Campaign with $266.5 million raised",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://pulse2.com/ua-little-rock-266-5-million-centennial-campaign-exceeds-fundraising-goal/"
+      ],
+      "exclude_reason": "not-funding",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "german unicorn",
+      "candidate_ids": [
+        "8063b68e45af",
+        "f3bf36ee6dee"
+      ],
+      "company": "sennder",
+      "website": "sennder.com",
+      "amount_usd": 255000000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 228M (USD 255M per headline, about 1.12); coverage splits it into EUR 73M equity and EUR 155M debt facilities",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-11",
+      "lead_investors": [],
+      "investors": [
+        "Scania",
+        "Poste Italiane",
+        "Coface",
+        "EIB"
+      ],
+      "hq_city": "Berlin",
+      "hq_state": null,
+      "hq_country": "DE",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Coverage says the financing will expand its digital freight platform and AI tools.",
+      "description": "Berlin-based digital road freight forwarder connecting shippers with carriers across Europe.",
+      "confidence": 0.65,
+      "evidence": {
+        "amount": "sennder lands $255M from Scania, Poste Italiane, Coface, and the EIB",
+        "round": "sennder secures €228 million after turning profitable",
+        "lead": null,
+        "investors": "from Scania, Poste Italiane, Coface, and the EIB"
+      },
+      "source_urls": [
+        "https://techfundingnews.com/sennder-228m-financing-positive-ebitda-1bn-revenue/",
+        "https://www.eu-startups.com/2026/11/freighttech-unicorn-sennder-secures-e228-million-after-turning-profitable-targets-e1-billion-in-revenue-for-2026/",
+        "https://trans.info/en/sennder-228-million-financing-scania-eib-carriers-514221",
+        "https://dealroom.co/news/171684-freight-unicorn-sennder-lands-228m-in-equity-and-credit/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "swiss vc redalpine",
+      "candidate_ids": [
+        "290fab0e6a2f",
+        "25c08d27c830",
+        "6f86a667a924"
+      ],
+      "company": "Redalpine",
+      "website": "redalpine.com",
+      "amount_usd": 250000000,
+      "amount_disclosed": true,
+      "currency_note": "USD 250M; EU-Startups reports EUR 222.53M",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-10",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Zug",
+      "hq_state": null,
+      "hq_country": "CH",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Venture capital fund close, not an operating company.",
+      "description": "Swiss early-stage venture firm; closed its eighth fund, Redalpine Capital VIII, at $250M to back about 20 European seed to Series A startups.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "has closed its eighth early-stage fund, Redalpine Capital VIII (RAC VIII), at $250 million",
+        "round": "closed its eighth early-stage fund",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.trendingtopics.eu/redalpine-fund-viii-250-million-dollars/",
+        "https://fintechnews.ch/funding/redalpine-250m-fund-rac-viii-close/87025/",
+        "https://www.eu-startups.com/2026/11/mistral-and-n26-backer-redalpine-closes-e222-63-million-rac-viii-fund-to-back-20-european-startups/"
+      ],
+      "exclude_reason": "fund",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "model ml",
+      "candidate_ids": [
+        "d9a047affb02",
+        "3be834268363"
+      ],
+      "company": "Model ML",
+      "website": "modelml.com",
+      "amount_usd": 250000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-17",
+      "lead_investors": [
+        "General Atlantic",
+        "QED Investors"
+      ],
+      "investors": [
+        "General Atlantic",
+        "QED Investors",
+        "Evolution Equity Partners",
+        "Airtree",
+        "Forestay Capital",
+        "Y Combinator",
+        "FT Partners",
+        "Latitude",
+        "Inception Fund",
+        "13Books Capital"
+      ],
+      "hq_city": "London",
+      "hq_state": null,
+      "hq_country": "GB",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Builds AI agents that automate financial modelling, pitch decks and diligence work for bankers and consultants.",
+      "description": "London-based startup whose AI agents automate work done by junior bankers and consultants, such as financial models, pitch decks and due diligence reports.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "has raised $250 million in Series B funding at a $1.5 billion valuation",
+        "round": "raised $250 million in Series B funding",
+        "lead": "was co-led by General Atlantic and earlier backer QED Investors",
+        "investors": "Evolution Equity Partners, Airtree, Forestay Capital, Y Combinator, FT Partners, Latitude, Inception Fund, and 13Books Capital also participated"
+      },
+      "source_urls": [
+        "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+        "https://pulse2.com/model-ml-raises-250-million-at-1-5-billion-valuation-for-personal-ai-agents/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "acwa power stock 226",
+      "candidate_ids": [
+        "500ad1f2e5bc",
+        "2e938790c673"
+      ],
+      "company": "ACWA Power",
+      "website": "acwapower.com",
+      "amount_usd": 226000000,
+      "amount_disclosed": true,
+      "currency_note": "USD 226M, equivalent to SAR 847.5M",
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-15",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Riyadh",
+      "hq_state": null,
+      "hq_country": "SA",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Listed power and water developer; project finance with no AI claim.",
+      "description": "Listed Saudi developer of power, water desalination and renewable projects; closed long-term project financing for the 300 MW Bash II wind farm in Uzbekistan.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "secured long-term financing of 226 million US dollars",
+        "round": "has reached financial close on the Bash II wind farm",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.ad-hoc-news.de/boerse/news/nebenwerte/acwa-power-stock-226-million-financing-closes-for-uzbek-wind-farm/70518281",
+        "https://jawlah.co/en/68186"
+      ],
+      "exclude_reason": "public-company",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "sanofi backed windward bio",
+      "candidate_ids": [
+        "5ece8f62999c",
+        "2ec5717ecdb3",
+        "54c7a153242d"
+      ],
+      "company": "Windward Bio",
+      "website": null,
+      "amount_usd": 225000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-12",
+      "lead_investors": [],
+      "investors": [
+        "Sanofi"
+      ],
+      "hq_city": "Basel",
+      "hq_state": null,
+      "hq_country": "CH",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Clinical-stage biotech IPO; no AI claim.",
+      "description": "Basel-based clinical-stage biotech developing ultra-long-acting antibodies for asthma and COPD; raised $225M in a Nasdaq IPO and concurrent Sanofi private placement.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "raising $225 million in gross proceeds, including a $50 million concurrent private placement from Sanofi",
+        "round": "pricing an initial public offering at $17 per share",
+        "lead": null,
+        "investors": "a $50 million concurrent private placement from Sanofi"
+      },
+      "source_urls": [
+        "https://mlq.ai/news/sanofi-backed-windward-bio-raises-225-million-in-its-nasdaq-ipo-as-rezera-postpones-its-listing/",
+        "https://pulse2.com/windward-bio-raises-225-million-in-nasdaq-debut-at-1-69-billion-market-capitalization/",
+        "https://www.bloomberg.com/news/articles/2026-11-12/swiss-biotech-windward-raises-225-million-in-us-ipo-placement"
+      ],
+      "exclude_reason": "public-company",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "church & dwight",
+      "candidate_ids": [
+        "cca7f9ee322b"
+      ],
+      "company": "BALI Treatment",
+      "website": null,
+      "amount_usd": 225000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-17",
+      "lead_investors": [],
+      "investors": [
+        "Church & Dwight"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Consumer hair care brand; no AI claim.",
+      "description": "European hair care and styling company behind BALI CURLS and BALI GENTS; Church & Dwight agreed to acquire 45% with an option on the remaining 55%.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "has agreed to acquire 45% of BALI Treatment for approximately $225 million",
+        "round": "agreed to acquire 45% of BALI Treatment",
+        "lead": null,
+        "investors": "Church & Dwight has agreed to acquire 45% of BALI Treatment"
+      },
+      "source_urls": [
+        "https://pulse2.com/church-dwight-announces-225-million-investment-in-bali-hair-care-business/"
+      ],
+      "exclude_reason": "acquisition",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "bird",
+      "candidate_ids": [
+        "53ac0019a50d"
+      ],
+      "company": "Bird Construction",
+      "website": "bird.ca",
+      "amount_usd": 158400000,
+      "amount_disclosed": true,
+      "currency_note": "CAD 220M converted at 0.72",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-17",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Mississauga",
+      "hq_state": null,
+      "hq_country": "CA",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "TSX-listed construction company; no AI claim.",
+      "description": "TSX-listed Canadian construction company; upsized a bought deal offering of common shares to about C$220M to help fund its Kel-Gor acquisition.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "Bought Deal Financing to $220 Million",
+        "round": "Upsize of Previously Announced Bought Deal Financing",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.manilatimes.net/2026/11/17/tmt-newswire/globenewswire/bird-announces-upsize-of-previously-announced-bought-deal-financing-to-220-million/2472328",
+        "https://www.marketscreener.com/news/bird-construction-upsizes-private-placement-of-shares-to-ca-220-million-ce785edcda80f123"
+      ],
+      "exclude_reason": "public-company",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "nextchem to",
+      "candidate_ids": [
+        "05077968e467"
+      ],
+      "company": "Nextchem",
+      "website": null,
+      "amount_usd": 220000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-17",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "IT",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Acquisition of LNG process technologies; no AI claim.",
+      "description": "Technology arm of Italian engineering group MAIRE; agreed to buy LNG liquefaction process technologies from Chart Industries for $220M in cash.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "to acquire liquefied natural gas process technologies from Chart Industries for $220 million in cash",
+        "round": "has signed a binding agreement to acquire",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://pulse2.com/nextchem-agrees-to-acquire-lng-technologies-for-220-million/"
+      ],
+      "exclude_reason": "acquisition",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "midwest startups",
+      "candidate_ids": [
+        "3b41c20bc71d"
+      ],
+      "company": "Ocient",
+      "website": "ocient.com",
+      "amount_usd": 100000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-05",
+      "lead_investors": [
+        "BOKA Capital",
+        "OCA Ventures"
+      ],
+      "investors": [
+        "BOKA Capital",
+        "OCA Ventures",
+        "Greycroft",
+        "In-Q-Tel",
+        "Blue Bear Capital",
+        "Buoyant Ventures",
+        "PSP Growth",
+        "Pritzker Group Venture Capital",
+        "Eron Wolf",
+        "Dallas Venture Capital"
+      ],
+      "hq_city": "Chicago",
+      "hq_state": "IL",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Described as an AI infrastructure firm whose OcientAIQ lets enterprises deploy AI agents and analytics on petabyte-scale data.",
+      "description": "Chicago data analytics and AI infrastructure company; its OcientAIQ products let enterprises run AI agents and analytics in petabyte-scale data environments.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "Ocient’s $100 million Series C , which was announced on November 5",
+        "round": "$100 million Series C",
+        "lead": "The investment, led by BOKA Capital and OCA Ventures",
+        "investors": "existing investors Greycroft, In-Q-Tel, Blue Bear Capital, Buoyant Ventures, PSP Growth, Pritzker Group Venture Capital and Eron Wolf. Dallas Venture Capital joined as a new investor."
+      },
+      "source_urls": [
+        "https://techli.com/midwest-startups-raise-213-5-million-in-a-week-where-is-the-money-going/11701/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "midwest startups",
+      "candidate_ids": [
+        "3b41c20bc71d"
+      ],
+      "company": "Erebor Bank",
+      "website": null,
+      "amount_usd": 100000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-02",
+      "lead_investors": [],
+      "investors": [
+        "SBI Holdings"
+      ],
+      "hq_city": "Columbus",
+      "hq_state": "OH",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Digital national bank that lends to AI, defense and robotics firms; its own product is banking, with no AI/ML claim.",
+      "description": "Columbus, Ohio digital bank serving companies in AI, robotics, advanced manufacturing, defense and energy; SBI Holdings announced a planned $100M investment.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "Erebor Bank’s $100 million investment from Japan’s SBI Holdings was announced as a planned commitment",
+        "round": "announced as a planned commitment, not a completed financing round",
+        "lead": null,
+        "investors": "SBI Holdings revealed its plan to invest $100 million"
+      },
+      "source_urls": [
+        "https://techli.com/midwest-startups-raise-213-5-million-in-a-week-where-is-the-money-going/11701/",
+        "https://www.sbigroup.co.jp/english/news/pdf/2026/1102_c_en.pdf"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "midwest startups",
+      "candidate_ids": [
+        "3b41c20bc71d"
+      ],
+      "company": "Focused Medical Technologies",
+      "website": null,
+      "amount_usd": 6000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-06",
+      "lead_investors": [],
+      "investors": [
+        "UCM Ventures"
+      ],
+      "hq_city": "Chicago",
+      "hq_state": "IL",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Medical device developer for pulmonary embolism; no AI/ML claim.",
+      "description": "University of Chicago medical technology startup developing a treatment for pulmonary embolism.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "secured $6 million in investment, including two medical technology strategic investors and UCM Ventures",
+        "round": "secured $6 million in investment",
+        "lead": null,
+        "investors": "including two medical technology strategic investors and UCM Ventures"
+      },
+      "source_urls": [
+        "https://techli.com/midwest-startups-raise-213-5-million-in-a-week-where-is-the-money-going/11701/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "midwest startups",
+      "candidate_ids": [
+        "3b41c20bc71d"
+      ],
+      "company": "QualSights",
+      "website": "qualsights.com",
+      "amount_usd": 5000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-06",
+      "lead_investors": [
+        "Duo Partners"
+      ],
+      "investors": [
+        "Duo Partners"
+      ],
+      "hq_city": "Chicago",
+      "hq_state": "IL",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Uses smart sensors, a consumer app and AI analytics for consumer insights.",
+      "description": "Consumer insights firm using smart sensors, a consumer app and AI analytics to show how people use physical products.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Consumer insights firm QualSights raised $5 million in funding, led by Duo Partners",
+        "round": "raised $5 million in funding",
+        "lead": "led by Duo Partners",
+        "investors": "led by Duo Partners"
+      },
+      "source_urls": [
+        "https://techli.com/midwest-startups-raise-213-5-million-in-a-week-where-is-the-money-going/11701/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "midwest startups",
+      "candidate_ids": [
+        "3b41c20bc71d"
+      ],
+      "company": "CareLumi",
+      "website": null,
+      "amount_usd": 2500000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-06",
+      "lead_investors": [
+        "Izou Partners",
+        "Fifth Star Funds",
+        "Chicago Early Growth Ventures"
+      ],
+      "investors": [
+        "Izou Partners",
+        "Fifth Star Funds",
+        "Chicago Early Growth Ventures"
+      ],
+      "hq_city": "Chicago",
+      "hq_state": "IL",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Software tracks AI-powered and automated workflows in healthcare delivery systems.",
+      "description": "Healthcare technology company whose software tracks AI-powered and automated workflows, starting with provider credentialing and payer enrollment.",
+      "confidence": 0.65,
+      "evidence": {
+        "amount": "an oversubscribed $2.5 million pre-seed round for healthcare technology company CareLumi",
+        "round": "$2.5 million pre-seed round",
+        "lead": "Fifth Star Funds and Chicago Early Growth Ventures joined Izou Partners as the lead investors",
+        "investors": "Fifth Star Funds and Chicago Early Growth Ventures joined Izou Partners as the lead investors"
+      },
+      "source_urls": [
+        "https://techli.com/midwest-startups-raise-213-5-million-in-a-week-where-is-the-money-going/11701/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "midwest startups",
+      "candidate_ids": [
+        "3b41c20bc71d"
+      ],
+      "company": "Duome",
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-06",
+      "lead_investors": [],
+      "investors": [
+        "Great Lakes Credit Union"
+      ],
+      "hq_city": "Minneapolis",
+      "hq_state": "MN",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Home co-investment fintech; no AI/ML claim.",
+      "description": "Minneapolis company working with credit unions to help qualified homebuyers acquire homes through a co-investment approach.",
+      "confidence": 0.65,
+      "evidence": {
+        "amount": null,
+        "round": "a capital investment from Great Lakes Credit Union",
+        "lead": null,
+        "investors": "a capital investment from Great Lakes Credit Union"
+      },
+      "source_urls": [
+        "https://techli.com/midwest-startups-raise-213-5-million-in-a-week-where-is-the-money-going/11701/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "square nine capital leads",
+      "candidate_ids": [
+        "d96804cc9676"
+      ],
+      "company": "Aline Accounting Partners",
+      "website": null,
+      "amount_usd": 206000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-16",
+      "lead_investors": [
+        "Square Nine Capital"
+      ],
+      "investors": [
+        "Square Nine Capital"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Accounting and professional services platform; no AI claim.",
+      "description": "Accounting and professional services platform formed in 2024 by merging three firms; financing is a revolver, term loan and delayed draw term loan.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "Square Nine Capital has led a $206 million financing for Aline Accounting Partners",
+        "round": "The financing consists of a revolving credit facility, a term loan and a delayed draw term loan facility",
+        "lead": "Square Nine Capital has led a $206 million financing",
+        "investors": "Square Nine Capital has led a $206 million financing"
+      },
+      "source_urls": [
+        "https://pulse2.com/square-nine-capital-leads-206-million-financing-for-aline-accounting-partners/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "chinas sand",
+      "candidate_ids": [
+        "1d663485737b"
+      ],
+      "company": "Sand.ai",
+      "website": "sand.ai",
+      "amount_usd": 200000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-10",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "CN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI company by name and business (generative video models).",
+      "description": "Chinese AI startup; raised $200M in a Series A+ round.",
+      "confidence": 0.65,
+      "evidence": {
+        "amount": "Sand.ai Raises $200M in Series A+ Round",
+        "round": "Series A+ Round",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.crowdfundinsider.com/2026/11/322148-chinas-sand-ai-raises-200m-in-series-a-round/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "modern wealth management",
+      "candidate_ids": [
+        "72178cef0ede"
+      ],
+      "company": "Modern Wealth Management",
+      "website": null,
+      "amount_usd": 200000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-10",
+      "lead_investors": [],
+      "investors": [
+        "Centerbridge Partners",
+        "Harvest Partners SCF"
+      ],
+      "hq_city": "Monterey",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Wealth management RIA platform; no AI claim.",
+      "description": "Employee-owned registered investment advisory platform with nearly $17B in assets under management, grown through 26 acquisitions since 2023.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "has secured a $200 million hybrid debt-and-equity investment from funds managed by Centerbridge Partners",
+        "round": "hybrid debt-and-equity investment",
+        "lead": null,
+        "investors": "Funds managed by Harvest Partners SCF also participated in the investment"
+      },
+      "source_urls": [
+        "https://pulse2.com/modern-wealth-management-200-million-centerbridge-investment-to-accelerate-growth-of-17-billion-ria-platform/"
+      ],
+      "exclude_reason": null,
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "asset based lending",
+      "candidate_ids": [
+        "a8a3f1bdc55e",
+        "ce451f16eb52"
+      ],
+      "company": "Asset Based Lending",
+      "website": "ablfunding.com",
+      "amount_usd": 200000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-12",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Jersey City",
+      "hq_state": "NJ",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Private real estate lender; loan securitization with no AI claim.",
+      "description": "Private lender providing bridge and construction loans to real estate investors; closed its fourth unrated securitization of business-purpose loans.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "has successfully closed its fourth unrated securitization, totaling $200 million",
+        "round": "fourth unrated securitization",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/asset-based-lending-announces-fourth-securitization-of-200-million-marking-largest-transaction-to-date-302938285.html",
+        "https://pulse2.com/asset-based-lending-200-million-securitization-sets-company-record/"
+      ],
+      "exclude_reason": "not-funding",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    },
+    {
+      "group_key": "patrick industries",
+      "candidate_ids": [
+        "e0c4885f1cda"
+      ],
+      "company": "Patrick Industries",
+      "website": "patrickind.com",
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-13",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Elkhart",
+      "hq_state": "IN",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Public components manufacturer; dividend and buyback news.",
+      "description": "Publicly traded component maker for RV, marine and housing markets; raised its dividend and replenished its buyback authorization to $200M.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": null,
+        "round": "replenished its share-repurchase authorization to $200 million",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.securities.io/patrick-industries-raises-dividend-and-renews-200-million-buyback/"
+      ],
+      "exclude_reason": "not-funding",
+      "run_date": "catchup-2026-11-10_2026-11-17"
+    }
+  ]
+}

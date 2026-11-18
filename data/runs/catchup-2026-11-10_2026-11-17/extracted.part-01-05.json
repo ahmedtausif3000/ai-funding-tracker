@@ -1,0 +1,3592 @@
+{
+ "run_date": "catchup-2026-11-10_2026-11-17",
+ "extractor": "parallel agent parts 01-05",
+ "notes": "Parts 01-05, 50 groups. Merged groups (one row each): Mercor = 6845f7d3186b + e8165f2fd8b3 + mercor hits 20b valuation + b012d65ebd4b + mercor doubles valuation to + 9aa2fc304e68; Anthropic IPO = anthropic seeks record 88 5b + anthropic ipo; OpenAI = openai reportedly + techfundingnews reports openais funding (the Nov 9 report of a round cut to $20B and the Nov 13-14 reports of $15B raised are treated as one round, amount = $15B); Fractile = uk backed + fractile hits 7 billion + nvidia rival fractile hits; Isomorphic Labs = isomorphic + demis hassabis + 8d8ac17268d7; Nominal = hardware testing startup + nominal reaches 3 billion. Round-ups expanded: crunchbase unicorn (October unicorn board; text truncated after four entries) -> TypeSafe AI, Manus AI, Nous Research, Upstage; softbank (BigGo feature) -> ABB Robotics acquisition + Gravis Robotics August Series A; to -> LSV Advisors stake sale + Avatar Growth Capital fund; funding report (AlleyWatch week ending 11/7, 24 deals) and funding report 2 (AlleyWatch week ending 11/14, 27 deals; its Mercor, Nominal, LangChain and Path Robotics items are folded into those rows; Edelbyte split into Seed + Series A). Both AlleyWatch parts had no text, so the deal lists come from fetching the publisher page: it gives amount, city, a one-line blurb and a backer list but no round type, lead or per-deal date, so those rows are Venture - Unspecified with the week-ending date (2026-11-07 / 2026-11-14) unless another source in these parts gave a date, and their evidence spans are the page values as returned by the fetch rather than checked verbatim quotes. Rows that restate a round already in data/rounds.json with a matching amount carry exclude_reason=duplicate and the stored announced_date (TypeSafe AI, Manus AI, Nous Research, Gravis Robotics, Applied Compute, Corridian, Firmly.ai, Harbinger, Kalepa, Larridin, Lazarus AI, Northwood Space, Numica, Ocient, Sentra, Traversal, Tutor Intelligence, Zipline International, Coframe). CONFLICT with data/rounds.json: Fractile is stored as $774M dated 2026-10-30, the official announcement here is $720M on 2026-11-11; OpenAI is stored as $11B dated 2026-11-06, reports here say $15B; CesiumAstro is stored as $730M, AlleyWatch lists $630M; Shield AI is stored as $1B Series H plus $500M debt, AlleyWatch lists $2.0B. Ottonomy: AlleyWatch lists $406.0M but the same entry gives total equity raised of $9.6M, so amount_usd is null and confidence 0.2. Upstage: only \"October\" is known, so the article date is used. Avatar Growth Capital: unresolved Google News link, title only. India AI (Tracxn) names February-August rounds (Neysa, Sarvam, Kandou, Yotta, Emergent, Freehand) with month-only dates, mostly older than the 120-day window, so it is kept as one not-funding row. Sidebar headlines inside article texts (Blue J, Mosaic, Kindo, Genesis AI, redalpine and others) were not turned into rows. Lookups used: 16 of 25 (AlleyWatch 11/9 and 11/16 pages; techfundingnews Agile Robots; TechCrunch Isomorphic Labs; mlq.ai Grab/SoftBank/PETROS; tradersunion LangChain, which returned 403; searches for Path Robotics, Science Corporation, LangChain, Nominal, Rowan Digital Infrastructure, Imprint, Databento, Edelbyte and Garage; robotics247 Path Robotics article). Validator caveat: for Agile Robots, Isomorphic Labs and the AlleyWatch rows the extra facts came from the candidate's own URL (parts text was thin, skipped or empty), so validate-extracted will not find those investor names or amounts in the stored text and will drop the names and cap confidence at 0.5 unless the candidate text is refreshed.",
+ "rows": [
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "crunchbase unicorn",
+   "candidate_ids": [
+    "89acdb41ed05"
+   ],
+   "company": "TypeSafe AI",
+   "website": null,
+   "amount_usd": 870000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-09",
+   "lead_investors": [
+    "Andreessen Horowitz"
+   ],
+   "investors": [
+    "Andreessen Horowitz",
+    "DCVC",
+    "Sequoia Capital"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI model developer (Jev model for structured decision-making).",
+   "description": "Develops Jev, an AI model for structured decision-making that automates classification, scoring and routing with confidence estimates.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "raised an $870 million Series A at a $7.5 billion valuation",
+    "round": "$870 million Series A",
+    "lead": "Andreessen Horowitz led the round",
+    "investors": "with participation from DCVC and Sequoia Capital"
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "crunchbase unicorn",
+   "candidate_ids": [
+    "89acdb41ed05"
+   ],
+   "company": "Manus AI",
+   "website": "manus.im",
+   "amount_usd": 500000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-10-08",
+   "lead_investors": [
+    "Boyu Capital",
+    "IDG Capital"
+   ],
+   "investors": [
+    "Boyu Capital",
+    "IDG Capital"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "SG",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "General-purpose AI agent developer.",
+   "description": "Develops general-purpose AI agents for research, browser automation, content creation and software development.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Manus AI raised $500 million at a $4 billion valuation",
+    "round": null,
+    "lead": "Boyu Capital and IDG Capital led the round",
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "crunchbase unicorn",
+   "candidate_ids": [
+    "89acdb41ed05"
+   ],
+   "company": "Nous Research",
+   "website": "nousresearch.com",
+   "amount_usd": 90000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-07",
+   "lead_investors": [
+    "Robot Ventures"
+   ],
+   "investors": [
+    "Robot Ventures",
+    "Nvidia",
+    "M12",
+    "Menlo Ventures",
+    "Union Square Ventures"
+   ],
+   "hq_city": "Austin",
+   "hq_state": "TX",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Develops open-source AI models and the Hermes agent.",
+   "description": "Develops open-source AI models, agents and infrastructure, including the Hermes Agent it deploys for businesses.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "raised a $90 million Series B at a $1.5 billion valuation",
+    "round": "$90 million Series B",
+    "lead": "Robot Ventures led the financing",
+    "investors": "with investors including Nvidia , Microsoft’s M12 , Menlo Ventures and Union Square Ventures"
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "crunchbase unicorn",
+   "candidate_ids": [
+    "89acdb41ed05"
+   ],
+   "company": "Upstage",
+   "website": "upstage.ai",
+   "amount_usd": 30000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-10",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "KR",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Developer of the open-source Solar language models and document-processing AI.",
+   "description": "South Korean developer of the open-source Solar language models and document-processing technology.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "raised $30 million in Series C funding, reaching $1.5 billion in value",
+    "round": "$30 million in Series C funding",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "anthropic seeks record 88 5b",
+   "candidate_ids": [
+    "8bb2199ec326",
+    "80f04b1e1b6e",
+    "9ef3d232e024"
+   ],
+   "company": "Anthropic",
+   "website": "anthropic.com",
+   "amount_usd": 88500000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-10",
+   "lead_investors": [],
+   "investors": [
+    "AMD",
+    "Broadcom",
+    "Google",
+    "Micron Technology",
+    "Microsoft",
+    "Nvidia",
+    "TSMC"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Frontier AI model developer (Claude); row is excluded because the raise is an IPO plus concurrent private placement.",
+   "description": "AI lab behind Claude seeking up to $88.5B via a Nasdaq IPO (about $62.5B at the top of the range) and a concurrent $26B private placement.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "seeking to secure up to $88.5 billion in its planned IPO and a concurrent private placement",
+    "round": "planned IPO and a concurrent private placement",
+    "lead": null,
+    "investors": "Investors in this include AMD , Broadcom , Google , Micron Technology , Microsoft , Nvidia and TSMC"
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
+    "https://techfundingnews.com/anthropic-ipo-81b-run-rate-revenue-900b-in-compute-commitments-and-a-1-4t-price-tag/",
+    "https://www.citybiz.co/article/933305/anthropic-ipo-draws-six-times-available-shares-as-ai-company-targets-1-4-trillion-valuation/"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "h i g capital signs definitive",
+   "candidate_ids": [
+    "62e11c8989b8",
+    "2a73caa236be"
+   ],
+   "company": "go asia",
+   "website": "goasia.net",
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-11",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Berlin",
+   "hq_state": null,
+   "hq_country": "DE",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Asian food retail chain; private-equity majority-stake acquisition, no AI claim.",
+   "description": "Germany's largest retail chain for Asian food; H.I.G. Capital signed a definitive agreement to acquire a majority stake.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "Financial terms of the transaction were not disclosed",
+    "round": "signed a definitive agreement to acquire a majority stake in go asia",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/hig-capital-signs-definitive-agreement-to-acquire-majority-stake-in-go-asia-302935623.html",
+    "https://www.prnewswire.com/news-releases/hig-capital-signs-definitive-agreement-to-acquire-majority-stake-in-go-asia-302935606.html"
+   ],
+   "exclude_reason": "acquisition"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "ramp seeks 70 billion",
+   "candidate_ids": [
+    "2e5ae7a17371"
+   ],
+   "company": "Ramp",
+   "website": "ramp.com",
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-17",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Corporate-card and spend-management fintech that markets AI-powered finance automation; headline ties growth to AI spending.",
+   "description": "Corporate-card and spend-management fintech reportedly seeking at least $1B at a $70B valuation; talks only, no closed round.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "reportedly seeking at least $1 billion",
+    "round": "Ramp Seeks $70 Billion Valuation in Third Funding Round",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/935150/ramp-seeks-70-billion-valuation-in-third-funding-round-as-ai-spending-fuels-growth/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "series a in 2026",
+   "candidate_ids": [
+    "436ff1e6edbd"
+   ],
+   "company": "U.S. Series A market (Crunchbase News 2026 report)",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-09",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Aggregate market report, not a company round.",
+   "description": "Crunchbase News analysis: U.S. startups raised $42B at Series A through October 2026 while deal counts stayed flat.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "U.S. companies have raised $42 billion at that stage this year through October",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/series-a-2026-startup-capital-up-deals-steady/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "nebius tests the neocloud",
+   "candidate_ids": [
+    "412b4e746837"
+   ],
+   "company": "Nebius",
+   "website": "nebius.com",
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-12",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Amsterdam",
+   "hq_state": null,
+   "hq_country": "NL",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Listed neocloud; public companies are always false under the contract.",
+   "description": "Publicly traded neocloud that laid out $40B of planned 2027 spending, to be funded by customer prepayments and contract-backed loans.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$40 billion in planned spending for 2027",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "applied intuition is in",
+   "candidate_ids": [
+    "bf889937fe99"
+   ],
+   "company": "Applied Intuition",
+   "website": "appliedintuition.com",
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-11",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Autonomy and vehicle-intelligence software developer.",
+   "description": "Vehicle autonomy software company reported to be in talks to raise at a $30B valuation; no closed round or amount.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "in talks to raise at a $30 billion valuation",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://mlq.ai/news/applied-intuition-is-in-talks-to-raise-at-a-30-billion-valuation-double-its-2025-price-bloomberg-reports/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "6845f7d3186b",
+   "candidate_ids": [
+    "6845f7d3186b",
+    "e8165f2fd8b3",
+    "8db76fa36a7d",
+    "b012d65ebd4b",
+    "ce78d5b3cd79",
+    "9aa2fc304e68"
+   ],
+   "company": "Mercor",
+   "website": "mercor.com",
+   "amount_usd": 750000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series D",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-10",
+   "lead_investors": [],
+   "investors": [
+    "Benchmark",
+    "Felicis",
+    "Fundomo",
+    "Nvidia",
+    "Apollo"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI training-data company; started as an AI-powered hiring platform and now trains and evaluates AI models and agents.",
+   "description": "Connects technology companies with subject-matter experts whose knowledge is used to train, test and improve AI models and agents.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "raised $750 million in a funding round that valued the AI training startup at $20 billion",
+    "round": "The Series D round",
+    "lead": null,
+    "investors": "drew participation from Benchmark, Felicis, Fundomo, Nvidia and funds managed by affiliates of Apollo, among others"
+   },
+   "source_urls": [
+    "https://www.reuters.com/legal/transactional/ai-training-startup-mercor-valued-20-billion-latest-funding-round-2026-11-10/",
+    "https://www.thenewstribune.com/news/business/article318015568.html",
+    "https://theaiinsider.tech/2026/11/11/mercor-hits-20b-valuation-after-750m-series-d-to-train-and-test-ai-agents/",
+    "https://www.aol.com/articles/ai-training-startup-mercor-valued-153730000.html",
+    "https://techfundingnews.com/mercor-doubles-valuation-to-20b-with-750m-series-d-to-train-and-test-ai-agents-for-enterprises/",
+    "https://www.centraloregondaily.com/news/consumer/ai-training-startup-mercor-valued-at-20-billion-in-latest-funding-round/article_340143af-4d2e-527e-8eb0-ac680004683b.html"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "openai reportedly",
+   "candidate_ids": [
+    "0a6165fbc396",
+    "1be687d38b86",
+    "22c224561807"
+   ],
+   "company": "OpenAI",
+   "website": "openai.com",
+   "amount_usd": 15000000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-13",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Frontier AI lab (ChatGPT).",
+   "description": "AI lab behind ChatGPT; reported to have raised $15B at a $1.25T valuation, half its original $30B target, with UAE funds said to lead.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "OpenAI has raised $15 billion in new capital, pushing its valuation to $1.25 trillion",
+    "round": "The latest financing round represents half of the $30 billion target OpenAI originally sought",
+    "lead": "funds from the United Arab Emirates (UAE) are leading the round",
+    "investors": null
+   },
+   "source_urls": [
+    "https://n24.com.tr/en/companies/openai-secures-15b-funding-at-125t-valuation-598",
+    "https://techfundingnews.com/openai-reportedly-raises-15b-at-1-25t-valuation-as-anthropic-ipo-approaches/",
+    "https://news.fundsforngos.org/2026/11/09/openai-funding-round-cut-to-20b-uae-funds-lead-valuation-1-25t/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "hugging face ceo vows",
+   "candidate_ids": [
+    "deea79b353af"
+   ],
+   "company": "Hugging Face",
+   "website": "huggingface.co",
+   "amount_usd": 12900000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-12",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Platform for open-source AI models; row is an acquisition, not a round.",
+   "description": "Open-source AI model platform being acquired by Nvidia for $12.9B (announced in September, close expected in the first half of 2027).",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "acquire the platform for open source AI models in September for $12.9 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+   ],
+   "exclude_reason": "acquisition"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "ferguson 9 billion in",
+   "candidate_ids": [
+    "c43a8a49e8c4"
+   ],
+   "company": "Ferguson Enterprises",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-10",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Newport News",
+   "hq_state": "VA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Public distributor reporting quarterly earnings.",
+   "description": "Publicly traded North American distributor of water and air solutions; article covers Q3 2026 sales of $9.03B and raised guidance.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "reported third-quarter 2026 sales of $9.03 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/ferguson-9-billion-in-third-quarter-sales-9-5-growth-and-raised-2026-guidance/"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "meet europes most valuable",
+   "candidate_ids": [
+    "f159ab67a08a",
+    "1be2925a233e"
+   ],
+   "company": "Agile Robots",
+   "website": "agile-robots.com",
+   "amount_usd": 500000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series F",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-12",
+   "lead_investors": [
+    "SoftBank"
+   ],
+   "investors": [
+    "SoftBank",
+    "Nvidia",
+    "Hitachi",
+    "T.Capital"
+   ],
+   "hq_city": "Munich",
+   "hq_state": null,
+   "hq_country": "DE",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Robotics company (robotic arms, hands, mobile robots, humanoids and software).",
+   "description": "Makes robotic arms, hands, mobile robots, humanoids and associated software; valued at $8.5B after the round.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "just raised $500 million",
+    "round": "Agile Robots has raised $500 million in a Series F round led by SoftBank",
+    "lead": "Series F round led by SoftBank",
+    "investors": "Nvidia, Hitachi and T.Capital also joined the round"
+   },
+   "source_urls": [
+    "https://techfundingnews.com/agile-robots-500m-series-f-softbank-8-5b-valuation/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "solareit supports over 8 5",
+   "candidate_ids": [
+    "bec7d83b5427"
+   ],
+   "company": "SolaREIT",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-16",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": "VA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Solar real-estate financier milestone; no raise and no AI claim.",
+   "description": "Virginia-based REIT financing land under solar and storage projects; milestone of $8.5B in supported project value, not a raise.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "surpassed $8.5 billion in project value supported through its real estate financing",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/solareit-supports-over-8-5-billion-in-clean-energy-project-value/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "uk backed",
+   "candidate_ids": [
+    "55898f332abc",
+    "51314e7801cf",
+    "646bdd71a172",
+    "a559a5297a4a",
+    "ff63b57a2082"
+   ],
+   "company": "Fractile",
+   "website": "fractile.ai",
+   "amount_usd": 720000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-11",
+   "lead_investors": [
+    "Thrive Capital",
+    "Founders Fund",
+    "Lightspeed",
+    "Redpoint"
+   ],
+   "investors": [
+    "Thrive Capital",
+    "Founders Fund",
+    "Lightspeed",
+    "Redpoint",
+    "CapitalG",
+    "BlackRock",
+    "DST Global",
+    "Elad Gil",
+    "Balderton",
+    "SV Angel",
+    "Sovereign AI Fund",
+    "British Business Bank"
+   ],
+   "hq_city": "London",
+   "hq_state": null,
+   "hq_country": "GB",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI inference chip developer.",
+   "description": "London- and Bristol-based startup developing chips for AI inference that it says run faster while cutting energy use and cost.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "The company raised $720 million in a Series",
+    "round": "securing $720 million in a Series C round",
+    "lead": "The round was led by Thrive Capital, Founders Fund, Lightspeed and Redpoint",
+    "investors": "with participation from Google’s venture arm CapitalG, BlackRock, DST Global, Elad Gil, Balderton, SV Angel, Britain’s Sovereign AI fund and the British Business Bank"
+   },
+   "source_urls": [
+    "https://kfgo.com/2026/11/11/uk-backed-ai-chip-startup-fractile-hits-7-billion-valuation-in-funding-round/",
+    "https://theaiinsider.tech/2026/11/13/uk-backed-ai-chip-startup-fractile-reaches-7b-valuation-in-720m-series-c/",
+    "https://www.reuters.com/legal/transactional/uk-backed-ai-chip-startup-fractile-hits-7-billion-valuation-funding-round-2026-11-11/",
+    "https://www.cryptopolitan.com/fractile-7-billion-valuation-720-million/",
+    "https://coinpaper.com/38740/nvidia-rival-fractile-hits-7-b-valuation-with-720-m-ai-chip-funding"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "surgery",
+   "candidate_ids": [
+    "d59024e4b4d9"
+   ],
+   "company": "Surgery Partners",
+   "website": null,
+   "amount_usd": 6000000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-09",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Brentwood",
+   "hq_state": "TN",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Take-private merger of an outpatient surgical facility operator.",
+   "description": "Operator of outpatient surgical facilities; HealthSpan Partners raised its merger offer to $25 per share, enterprise value up to about $6B.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "total enterprise value potentially reaching approximately $6 billion",
+    "round": "amended their merger agreement",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/surgery-partners-healthspan-partners-raises-merger-offer-to-25-per-share-in-deal-valued-at-up-to-6-billion/"
+   ],
+   "exclude_reason": "acquisition"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "softbank",
+   "candidate_ids": [
+    "3036fe8cb60a"
+   ],
+   "company": "ABB Robotics",
+   "website": null,
+   "amount_usd": 5400000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-11",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Zurich",
+   "hq_state": null,
+   "hq_country": "CH",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Industrial robotics division; row is an acquisition, not a round.",
+   "description": "ABB's robotics division, which SoftBank Group agreed to acquire for $5.4B.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "agreeing to acquire ABB's robotics division for $5.4 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://finance.biggo.com/news/105d3f4c-a73e-4719-8550-4d5ce9495fd0"
+   ],
+   "exclude_reason": "acquisition"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "softbank",
+   "candidate_ids": [
+    "3036fe8cb60a"
+   ],
+   "company": "Gravis Robotics",
+   "website": null,
+   "amount_usd": 200000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-08-15",
+   "lead_investors": [],
+   "investors": [
+    "SoftBank"
+   ],
+   "hq_city": "Zurich",
+   "hq_state": null,
+   "hq_country": "CH",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Construction-robotics startup.",
+   "description": "Construction-robotics startup spun out of ETH Zurich; its August Series A was called the largest ever in construction robotics.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "investing $200 million in Gravis Robotics",
+    "round": "the round was the largest Series A investment ever in the construction-robotics sector",
+    "lead": null,
+    "investors": "SoftBank in August invested $200 million"
+   },
+   "source_urls": [
+    "https://finance.biggo.com/news/105d3f4c-a73e-4719-8550-4d5ce9495fd0"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "to",
+   "candidate_ids": [
+    "a58fd5d3bc74"
+   ],
+   "company": "LSV Advisors",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-10",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "GP-led secondaries investment manager selling a minority stake; no AI claim.",
+   "description": "New York investment manager specializing in GP-led secondaries (about $5B in assets); Mubadala Capital is acquiring a minority stake.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "manages approximately $5 billion in assets and commitments",
+    "round": "entered into a definitive agreement to acquire a minority ownership stake in LSV Advisors",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/mubadala-capital-lsv-advisors-5-billion-secondaries-platform-to-receive-strategic-minority-investment/"
+   ],
+   "exclude_reason": "acquisition"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "to",
+   "candidate_ids": [
+    "2f0ecf8da2a2"
+   ],
+   "company": "Avatar Growth Capital",
+   "website": null,
+   "amount_usd": 142000000,
+   "amount_disclosed": true,
+   "currency_note": "INR 1,250 crore (12.5B INR) converted at about 88 INR per USD; fund target, not a close",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-15",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Investment fund; funds are always false under the contract.",
+   "description": "Indian growth investor planning to raise a 1,250 crore fund focused on AI.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "to raise 1,250 crore AI fund",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWTlCS1Y3Q3Y3cndSU2hOVG1lYjBhMnlXVkdwQ0I0NmQ5TmE1Z3FnSnVWTzdLU1h5Y0M3UWdQbFotcEtwNGZVT203dFpSY3E3WjdmWmQ2RkhVWUo2Vjk5bVRvSkhNSnRPM2QtdHdSZmdCZWZlT2pqdTUtcVVMRjF5cWxEeHNxYVZ6ME1xVGhqQXh6WjNMNzBfZ3VHZFR5VldFQ1QyLTZnWGdyRE4zczlZLU1qb2JNUdIBuwFBVV95cUxPakFDRHJ4Y3ZxSm1qclNSN0dnc2R6RWhzUEtfcVNSTzhhQ2pIS0JRQ3VRUHBLRHFjd0xDNC02YnNGMGFpUk1PV3BzMC1BcU1BNzR2d01jRzk1bUkyUDV4RFFSb0g5alpiM3FmdTZPMHNMVXBVVUljLTM1X29YQUZnTDFlY3RFQW5vNDItYmFsMjFod1gxRHNfY1MyQjVWTWJIX1hnSGRmX1dib3RSeW9POTEwLWx4d0hzdHlN?oc=5"
+   ],
+   "exclude_reason": "fund"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "blackstone digital infrastructure trust",
+   "candidate_ids": [
+    "84e67a4a4b9c"
+   ],
+   "company": "Blackstone Digital Infrastructure Trust",
+   "website": null,
+   "amount_usd": 5000000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-16",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Listed data center trust buying joint-venture interests; public companies are always false.",
+   "description": "Recently listed Blackstone-managed trust acquiring a 75% interest in two AWS data center joint ventures valued at about $5B.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "in a transaction valued at approximately $5 billion",
+    "round": "agreed to acquire a 75% majority interest in two joint ventures",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/blackstone-digital-infrastructure-trust-announces-5-billion-aws-data-center-transaction/"
+   ],
+   "exclude_reason": "acquisition"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "isomorphic",
+   "candidate_ids": [
+    "5b289a61490f",
+    "3ddd561d3db5",
+    "bc67a4b6283c",
+    "12b1e680fa83",
+    "d35a6c90dddd",
+    "b504aadec77b",
+    "fa7d72e40927",
+    "8d8ac17268d7"
+   ],
+   "company": "Isomorphic Labs",
+   "website": "isomorphiclabs.com",
+   "amount_usd": 5000000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-17",
+   "lead_investors": [
+    "Greenoaks",
+    "Sequoia Capital"
+   ],
+   "investors": [
+    "Greenoaks",
+    "Sequoia Capital",
+    "Andreessen Horowitz",
+    "GV",
+    "CapitalG",
+    "Thrive Capital",
+    "MGX",
+    "Temasek",
+    "U.K. Sovereign AI Fund"
+   ],
+   "hq_city": "London",
+   "hq_state": null,
+   "hq_country": "GB",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI drug-discovery platform spun out of Google DeepMind.",
+   "description": "AI drug-design company spun out of Google DeepMind in 2021; the oversubscribed round funds taking drug candidates into clinical trials.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "has raised $5 billion in a Series C funding round",
+    "round": "Series C funding round",
+    "lead": "Isomorphic Labs Raises $5 Billion Series C Co-Led by Greenoaks and Sequoia Capital",
+    "investors": "with new investor Andreessen Horowitz and other investors also participating. | Alphabet’s venture divisions GV and Capita G, Thrive Capital, MGX, Temasek, and the U.K. Sovereign AI Fund, also invested"
+   },
+   "source_urls": [
+    "https://www.reuters.com/legal/litigation/ai-drug-developer-isomorphic-raises-5-billion-series-c-round-2026-11-17/",
+    "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+    "https://pulse2.com/isomorphic-labs-raises-5-billion-series-c-for-ai-drug-discovery-platform/",
+    "https://techfundingnews.com/deepmind-spinout-isomorphic-labs-lands-5b-series-c-to-take-ai-designed-medicines-into-the-clinic/",
+    "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
+    "https://www.eu-startups.com/2026/11/ai-drug-discovery-giant-isomorphic-labs-raises-e4-5-billion-in-blockbuster-funding-round/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "sea",
+   "candidate_ids": [
+    "895c2fca494b"
+   ],
+   "company": "Southeast Asia AI startups (Tracxn 9M 2026 report)",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-12",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Regional aggregate funding report, not a company round.",
+   "description": "Tracxn report: Southeast Asia AI funding rose 121 percent to $4.2B in the first nine months of 2026.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "SEA AI funding rises 121 percent to $4.2 billion in 9M 2026",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://technode.global/2026/11/12/sea-ai-funding-rises-121-percent-to-4-2-billion-in-9m-2026-tracxn/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "eic scaling club companies",
+   "candidate_ids": [
+    "989fe1f1a82f"
+   ],
+   "company": "EIC Scaling Club companies (aggregate)",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-12",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Aggregate of European deeptech raises, not a company round.",
+   "description": "Tech.eu report that European Innovation Council Scaling Club companies have raised EUR 4B in aggregate.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "EIC Scaling Club companies raise €4B",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://tech.eu/2026/11/12/eic-scaling-club-companies-raise-eur4b-outpacing-european-deeptech-peers/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "norwest",
+   "candidate_ids": [
+    "3371ea88f39a"
+   ],
+   "company": "Norwest (Norwest 18 fund)",
+   "website": "norwest.com",
+   "amount_usd": 4000000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-13",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Menlo Park",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Venture and growth equity fund close; funds are always false.",
+   "description": "Multi-stage venture and growth investor that closed Norwest 18, a $4B global fund, the largest in its 65-year history.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "closed Norwest 18, a $4 billion global investment fund",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/norwest-4-billion-fund-expands-global-multi-stage-investment-strategy/"
+   ],
+   "exclude_reason": "fund"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "science corporations brain tech",
+   "candidate_ids": [
+    "bcc5080f4e56"
+   ],
+   "company": "Science Corporation",
+   "website": "science.xyz",
+   "amount_usd": 400000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series D",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-17",
+   "lead_investors": [],
+   "investors": [
+    "Khosla Ventures",
+    "Ackman Oxman Institute",
+    "Tenet Healthcare",
+    "885 Capital",
+    "Y Combinator",
+    "PLC Neurotech"
+   ],
+   "hq_city": "Alameda",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Brain-computer interface company; TechCrunch files the round under AI and Crunchbase News categorizes Science under Artificial intelligence.",
+   "description": "Neurotech startup founded by ex-Neuralink president Max Hodak; makes the PRIMA vision-restoring implant and a biohybrid brain interface.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "raised a $400 million Series D",
+    "round": "$400 million Series D",
+    "lead": null,
+    "investors": "Those backers included Khosla Ventures, the Ackman Oxman Institute, Tenet Healthcare, 885 Capital, Y Combinator, and PLC Neurotech"
+   },
+   "source_urls": [
+    "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "hardware testing startup",
+   "candidate_ids": [
+    "fab06f6a1d56",
+    "c2de3e3291a4"
+   ],
+   "company": "Nominal",
+   "website": "nominal.io",
+   "amount_usd": 240000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-09",
+   "lead_investors": [
+    "Lightspeed Venture Partners",
+    "Insight Partners"
+   ],
+   "investors": [
+    "Lightspeed Venture Partners",
+    "Insight Partners"
+   ],
+   "hq_city": "Austin",
+   "hq_state": "TX",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Hardware-testing data platform marketed as hardware engineering AI with AI agents for testing.",
+   "description": "Software that helps hardware engineering teams collect, manage, monitor and analyze test data; valuation tripled to $3B.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "triples its valuation to $3 billion in a $240 million round",
+    "round": "nominal raises 240 million series c at 3 billion valuation",
+    "lead": "Lightspeed Venture Partners led the round and Insight Partners co-led it",
+    "investors": null
+   },
+   "source_urls": [
+    "https://mlq.ai/news/hardware-testing-startup-nominal-triples-its-valuation-to-3-billion-in-a-240-million-round/",
+    "https://finway.com.ua/en/nominals-valuation-rises-billion-after/",
+    "https://www.newsbytesapp.com/news/business/nominal-raises-240-million-with-lightspeed-and-insight-reaches-3b-valuation/tldr",
+    "https://runtimewire.com/article/nominal-raises-240m-3b-valuation-hardware-testing"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "langchain 2",
+   "candidate_ids": [
+    "70bf504b770c"
+   ],
+   "company": "LangChain",
+   "website": "langchain.com",
+   "amount_usd": 300000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-12",
+   "lead_investors": [
+    "CapitalG"
+   ],
+   "investors": [
+    "CapitalG",
+    "GIC",
+    "DFJ Growth",
+    "IVP",
+    "Sapphire Ventures"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Frameworks and the LangSmith platform for building and managing AI agents.",
+   "description": "Develops frameworks and the LangSmith platform for building, evaluating, deploying and governing AI agents; valued at $3B.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "LangChain Hits $3B Valuation on $300M Series C Led by CapitalG",
+    "round": "LangChain raises Series C at $3 billion valuation",
+    "lead": "$300M Series C Led by CapitalG",
+    "investors": "Participation came from investors including Singapore's GIC, DFJ Growth, IVP, and Sapphire Ventures"
+   },
+   "source_urls": [
+    "https://tradersunion.com/news/business-wealth/show/4239361-langchain-series-c-ai-agent-software/",
+    "https://aiweekly.co/alerts/langchain-hits-3b-valuation-on-300m-series-c-led-by-capitalg",
+    "https://www.thesaasnews.com/news/langchain-raises-300m-series-c/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "path robotics",
+   "candidate_ids": [
+    "7cd9f0ce0f56"
+   ],
+   "company": "Path Robotics",
+   "website": "path-robotics.com",
+   "amount_usd": 300000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series E",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-10",
+   "lead_investors": [
+    "Georgian"
+   ],
+   "investors": [
+    "Georgian",
+    "Addition",
+    "Drive Capital",
+    "IronArc Ventures",
+    "Tiger Global",
+    "Yamaha Motor Ventures",
+    "D. E. Shaw Ventures",
+    "NAVER Ventures"
+   ],
+   "hq_city": "Columbus",
+   "hq_state": "OH",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Describes itself as a physical AI for manufacturing company.",
+   "description": "Physical AI and robotic automation systems for manufacturing (autonomous welding); post-money valuation of $2.45B.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "announced $300 million in Series E financing at a post-money valuation of $2.45 billion",
+    "round": "$300 million in Series E financing",
+    "lead": "led by AI-focused growth equity firm Georgian",
+    "investors": "includes participation from existing investors Addition, Drive Capital, IronArc Ventures, | Tiger Global, Yamaha Motor Ventures and its affiliates, | additional investors D. E. Shaw Ventures and NAVER Ventures"
+   },
+   "source_urls": [
+    "https://www.bloomberg.com/news/articles/2026-11-10/path-robotics-quadruples-valuation-to-2-5-billion-in-latest-funding-round",
+    "https://www.robotics247.com/article/path-robotics-announces-300m-series-e-financing-at-2.45b-valuation"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "lpl financial 2",
+   "candidate_ids": [
+    "09d03755aab4"
+   ],
+   "company": "LPL Financial",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-11",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "San Diego",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Public broker-dealer recruiting advisor practices; not a raise.",
+   "description": "Publicly traded broker-dealer and RIA platform; four joining wealth practices report about $2.035B in combined client assets.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "approximately $2.035 billion in combined client assets",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/lpl-financial-brings-in-2-035-billion-in-combined-client-assets-represented-by-four-joining-practices/"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "ten london",
+   "candidate_ids": [
+    "068ab2f170bb"
+   ],
+   "company": "London AI labs out of stealth in 2026 (Dealroom note)",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-09",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "London",
+   "hq_state": null,
+   "hq_country": "GB",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Aggregate note covering ten labs, not a single company round.",
+   "description": "Dealroom note: ten London AI labs came out of stealth this year with more than $2B raised between them.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "more than $2bn raised between them",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/ten-london-ai-labs-out-of-stealth-this-year-with-more-than-2bn-raised-between-them"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "indias",
+   "candidate_ids": [
+    "5a9f3712ea04",
+    "88120d34596a"
+   ],
+   "company": "India AI startups (Tracxn 2026 year-to-date report)",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-16",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Aggregate funding report, not a company round.",
+   "description": "Tracxn data: Indian AI startups raised about $1.91B across 102 rounds from January 1 to November 5, 2026, led by Neysa's $600M Series B.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "approximately $1.91 billion across 102 funding rounds between January 1 and November 5, 2026",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://enterpriseai.economictimes.indiatimes.com/news/industry/indias-ai-startups-raise-1-91-billion-across-102-funding-rounds-in-2026-so-far/135876069",
+    "https://enterpriseai.economictimes.indiatimes.com/amp/news/industry/indias-ai-startups-raise-1-91-billion-across-102-funding-rounds-in-2026-so-far/135876069"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "grab",
+   "candidate_ids": [
+    "50a0df42b956"
+   ],
+   "company": "Malaysia AI data center joint ventures (SoftBank, Grab, PETROS)",
+   "website": null,
+   "amount_usd": 1850000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-10",
+   "lead_investors": [],
+   "investors": [
+    "SoftBank",
+    "Grab",
+    "PETROS"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "MY",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI data center infrastructure projects; row is a joint-venture capital commitment, not a company round.",
+   "description": "Two unnamed project vehicles for AI data centers in Sarawak and Peninsular Malaysia: SoftBank $1B, Grab $750M and PETROS $100M in seed capital.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "commit $1.85 billion in seed capital to Malaysian AI data centers",
+    "round": "plan to invest $1.85 billion of initial seed capital in AI data center infrastructure in Malaysia",
+    "lead": null,
+    "investors": "Grab, SoftBank and PETROS commit $1.85 billion in seed capital"
+   },
+   "source_urls": [
+    "https://mlq.ai/news/grab-softbank-and-petros-commit-1-85-billion-in-seed-capital-to-malaysian-ai-data-centers/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "constellation energy 1 8 billion",
+   "candidate_ids": [
+    "452684ad870c"
+   ],
+   "company": "Constellation Energy",
+   "website": null,
+   "amount_usd": 5000000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-10",
+   "lead_investors": [],
+   "investors": [
+    "U.S. Department of Energy"
+   ],
+   "hq_city": "Baltimore",
+   "hq_state": "MD",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Public power producer; public companies are always false.",
+   "description": "Publicly traded power producer; Q3 2026 earnings plus a conditional DOE loan commitment of up to $5B to finance nuclear uprates.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "conditional loan commitment with the U.S. Department of Energy for up to $5 billion",
+    "round": "30-year loan from the Federal Financing Bank",
+    "lead": null,
+    "investors": "conditional loan commitment with the U.S. Department of Energy"
+   },
+   "source_urls": [
+    "https://pulse2.com/constellation-energy-1-8-billion-q3-net-income-raised-2026-guidance-and-5-billion-nuclear-financing-commitment/"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "pfizer",
+   "candidate_ids": [
+    "d69f5c8f2035"
+   ],
+   "company": "Pfizer",
+   "website": null,
+   "amount_usd": 1500000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-13",
+   "lead_investors": [],
+   "investors": [
+    "Blackstone Life Sciences"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Public pharmaceutical company; development-funding agreement, not a round.",
+   "description": "Public drugmaker; Blackstone funds will provide up to $1.5B through 2028 to develop berobenatide, a monthly GLP-1 obesity drug.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "funds managed by Blackstone will provide up to $1.5 billion through 2028",
+    "round": "strategic funding agreement",
+    "lead": null,
+    "investors": "Pfizer and Blackstone Life Sciences have entered into a strategic funding agreement"
+   },
+   "source_urls": [
+    "https://pulse2.com/pfizer-up-to-1-5-billion-funding-agreement-with-blackstone-life-sciences-to-advance-monthly-glp-1-obesity-drug/"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "rowan digital infrastructure",
+   "candidate_ids": [
+    "38f5c133b67d"
+   ],
+   "company": "Rowan Digital Infrastructure",
+   "website": "rowan.digital",
+   "amount_usd": 1500000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-12",
+   "lead_investors": [
+    "Apterra Infrastructure Capital",
+    "Citibank"
+   ],
+   "investors": [
+    "Apterra Infrastructure Capital",
+    "Citibank"
+   ],
+   "hq_city": "Denver",
+   "hq_state": "CO",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Hyperscale data center developer whose campuses are built for cloud and AI infrastructure demand.",
+   "description": "Denver-based developer of hyperscale data center campuses with a 5.5 GW pipeline; term loan expansion plus revolver and letter of credit.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "secured more than $1.5 billion in new corporate financing capacity",
+    "round": "$600 million expansion of its holding company term loan led by Apterra Infrastructure Capital, along with a new $590 million revolving credit facility and a $355 million letter of credit facility led by Citibank",
+    "lead": "term loan led by Apterra Infrastructure Capital, along with a new $590 million revolving credit facility and a $355 million letter of credit facility led by Citibank",
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/rowan-digital-infrastructure-1-5-billion-in-new-financing-to-accelerate-5-5-gw-hyperscale-data-center-pipeline/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "cfg",
+   "candidate_ids": [
+    "820390bd46aa"
+   ],
+   "company": "CFG (Capital Funding Group)",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-17",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Baltimore",
+   "hq_state": "MD",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Lender announcing its own loan closings; not a raise.",
+   "description": "Healthcare and multifamily lender that closed 32 financing transactions totaling more than $1.45B in September and October.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "CFG Closes 32 Transactions Totaling More Than $1.45 Billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/934946/cfg-closes-32-transactions-totaling-more-than-1-45-billion-across-september-and-october/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "solv energy revenue rises",
+   "candidate_ids": [
+    "4124f556d25d"
+   ],
+   "company": "SOLV Energy",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-12",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "San Diego",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Public solar and storage contractor reporting earnings.",
+   "description": "Publicly traded solar and storage EPC contractor; article covers quarterly revenue of $1.24B and a raised 2026 outlook.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "revenue rises 65% to $1.24 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://mlq.ai/news/solv-energy-revenue-rises-65-to-124-billion-and-it-raises-its-2026-outlook/"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "whitecap resources",
+   "candidate_ids": [
+    "76470bf1188f"
+   ],
+   "company": "Whitecap Resources",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-15",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Calgary",
+   "hq_state": null,
+   "hq_country": "CA",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Public oil and gas producer reporting earnings.",
+   "description": "TSX-listed Calgary oil and gas producer; article covers record Q3 2026 funds flow and raised production guidance.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "posted Q3 2026 funds flow of $888 million USD (CAD 1.2 billion)",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://energiesmedia.com/whitecap-resources-q3-results-energy/"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Applied Compute",
+   "website": null,
+   "amount_usd": 350000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-03",
+   "lead_investors": [],
+   "investors": [
+    "Abstract",
+    "Blackstone",
+    "Definition",
+    "Diffusion",
+    "Elad Gil",
+    "First Harmonic",
+    "Hanabi Capital",
+    "HubSpot Ventures",
+    "Kleiner Perkins",
+    "Layer Global",
+    "Lux Capital",
+    "Neo",
+    "Nova",
+    "NVIDIA",
+    "QuantumLight",
+    "Shopify Ventures",
+    "Swish Ventures",
+    "Timeless"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Builds custom AI models for enterprises.",
+   "description": "Builds custom AI models and \"Specific Intelligence\" solutions for enterprises.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$350.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Abstract, Blackstone, Definition, Diffusion, Elad Gil, First Harmonic, Hanabi Capital, HubSpot Ventures, Kleiner Perkins, Layer Global, Lux Capital, Neo, Nova, NVIDIA, QuantumLight, Shopify Ventures, Swish Ventures, Timeless"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Avanlee Care",
+   "website": null,
+   "amount_usd": 3500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-07",
+   "lead_investors": [],
+   "investors": [
+    "Black Economic Alliance Venture Fund",
+    "Chrysalis Ventures",
+    "Esther Dyson",
+    "Fairbridge"
+   ],
+   "hq_city": "Billings",
+   "hq_state": "MT",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Caregiving services platform; no AI claim in the round-up blurb.",
+   "description": "Caregiving services platform.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$3.5M",
+    "round": null,
+    "lead": null,
+    "investors": "Black Economic Alliance Venture Fund, Chrysalis Ventures, Esther Dyson, Fairbridge"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Betski",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-07",
+   "lead_investors": [],
+   "investors": [
+    "Nimbus Capital"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "PA",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Online casino ownership platform; no AI claim.",
+   "description": "Online casino ownership platform based in Panama.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$15.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Nimbus Capital"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "CesiumAstro",
+   "website": null,
+   "amount_usd": 630000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-07",
+   "lead_investors": [],
+   "investors": [
+    "Airbus Ventures",
+    "Incharge Capital Partners",
+    "Insight Partners",
+    "Janus Henderson Investors",
+    "Magnetar Capital",
+    "NewSpace Capital",
+    "Sands Capital Ventures",
+    "Sumitomo Corporation of America",
+    "Woven Capital"
+   ],
+   "hq_city": "Austin",
+   "hq_state": "TX",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Satellite communications hardware; no AI claim in the blurb and the stored record is tagged non-AI.",
+   "description": "Satellite communication systems and spacecraft solutions for aerospace, commercial and defense use.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$630.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Airbus Ventures, Incharge Capital Partners, Insight Partners, Janus Henderson Investors, Magnetar Capital, NewSpace Capital, Sands Capital Ventures, Sumitomo Corporation of America, Woven Capital"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Corridian",
+   "website": null,
+   "amount_usd": 38000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-03",
+   "lead_investors": [],
+   "investors": [
+    "Balerion Space Ventures",
+    "Cameron McCord",
+    "DCVC",
+    "Harpoon",
+    "Jackson Moses",
+    "Marlinspike Capital",
+    "Point72 Ventures"
+   ],
+   "hq_city": "Boston",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Autonomous underwater vehicles (autonomy).",
+   "description": "Ultra-large autonomous underwater vehicles for undersea military logistics.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$38.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Balerion Space Ventures, Cameron McCord, DCVC, Harpoon, Jackson Moses, Marlinspike Capital, Point72 Ventures"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Cowboy",
+   "website": null,
+   "amount_usd": 5000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-07",
+   "lead_investors": [],
+   "investors": [
+    "Aashay Sanghvi",
+    "Anagram",
+    "Compound",
+    "Farnaz Azmoodeh",
+    "Ian Lapham",
+    "James Smits",
+    "Kevin Kwok",
+    "Mats Olsen",
+    "Nebular",
+    "Semantic Ventures",
+    "Shine Capital",
+    "Uncommon Projects"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Autonomous AI agents for business workflows.",
+   "description": "Autonomous AI agents and tools that streamline business workflows.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$5.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Aashay Sanghvi, Anagram, Compound, Farnaz Azmoodeh, Ian Lapham, James Smits, Kevin Kwok, Mats Olsen, Nebular, Semantic Ventures, Shine Capital, Uncommon Projects"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554",
+    "8db76fa36a7d"
+   ],
+   "company": "Finpilot",
+   "website": null,
+   "amount_usd": 10000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-07",
+   "lead_investors": [
+    "Lobby Capital"
+   ],
+   "investors": [
+    "Lobby Capital",
+    "Madrona"
+   ],
+   "hq_city": "Seattle",
+   "hq_state": "WA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI agents for institutional investor research.",
+   "description": "AI that searches public corporate filings and answers research requests in natural language for institutional investors.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "$10.0M",
+    "round": "Finpilot Raises $10M Series A Led by Lobby Capital",
+    "lead": "Series A Led by Lobby Capital",
+    "investors": "Lobby Capital, Madrona"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Firmly.ai",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-05",
+   "lead_investors": [],
+   "investors": [
+    "Alumni Ventures",
+    "ARK Investment Management",
+    "Benhamou Global Ventures",
+    "Granada Funds",
+    "Hike Ventures",
+    "JP Morgan",
+    "Mastercard",
+    "Samsung NEXT",
+    "Squarepoint Capital",
+    "The Mercantile Companies",
+    "Versus Ventures"
+   ],
+   "hq_city": "Seattle",
+   "hq_state": "WA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Agentic commerce platform across AI channels.",
+   "description": "Agentic commerce platform for product discovery and checkout across AI and digital channels.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$15.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Alumni Ventures, ARK Investment Management, Benhamou Global Ventures, Granada Funds, Hike Ventures, JP Morgan, Mastercard, Samsung NEXT, Squarepoint Capital, The Mercantile Companies, Versus Ventures"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Harbinger",
+   "website": null,
+   "amount_usd": 240000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-06",
+   "lead_investors": [],
+   "investors": [
+    "ArcTern Ventures",
+    "Australian Gulf Capital",
+    "BuildGroup",
+    "Capricorn Investment Group",
+    "FedEx",
+    "Fidelity",
+    "Greycroft",
+    "Leitmotif",
+    "Maniv Mobility",
+    "Panacea VC",
+    "Ridgeline",
+    "Squarepoint Capital",
+    "TechNexus Venture Collaborative",
+    "Tiger Global Management",
+    "Xantium"
+   ],
+   "hq_city": "Garden Grove",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Electric commercial vehicle maker; no AI claim.",
+   "description": "Electric and hybrid commercial vehicles for medium-duty applications.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$240.0M",
+    "round": null,
+    "lead": null,
+    "investors": "ArcTern Ventures, Australian Gulf Capital, BuildGroup, Capricorn Investment Group, FedEx, Fidelity, Greycroft, Leitmotif, Maniv Mobility, Panacea VC, Ridgeline, Squarepoint Capital, TechNexus Venture Collaborative, Tiger Global Management, Xantium"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Journify",
+   "website": null,
+   "amount_usd": 12000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-07",
+   "lead_investors": [],
+   "investors": [
+    "Al Mada Ventures",
+    "Bunat Ventures",
+    "Du Ventures",
+    "Oraseya Capital",
+    "Shorooq Partners",
+    "Silicon Badia"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Customer data platform; no AI claim in the round-up blurb.",
+   "description": "Composable customer data platform.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$12.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Al Mada Ventures, Bunat Ventures, Du Ventures, Oraseya Capital, Shorooq Partners, Silicon Badia"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Kalepa",
+   "website": null,
+   "amount_usd": 75000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-05",
+   "lead_investors": [],
+   "investors": [
+    "IA Ventures",
+    "Inspired Capital Partners",
+    "Updata Partners"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI software for insurance underwriting.",
+   "description": "AI software for commercial insurance underwriting and risk assessment.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$75.0M",
+    "round": null,
+    "lead": null,
+    "investors": "IA Ventures, Inspired Capital Partners, Updata Partners"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Larridin",
+   "website": null,
+   "amount_usd": 30000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-02",
+   "lead_investors": [],
+   "investors": [
+    "Alumni Ventures",
+    "Andreessen Horowitz",
+    "Cougar Capital Management",
+    "DG Daiwa Ventures",
+    "GFT Ventures",
+    "Gradient",
+    "Pelion Venture Partners",
+    "Thayer Investment Partners",
+    "W23"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI analytics platform.",
+   "description": "AI analytics platform measuring AI adoption, spending, productivity and business impact.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$30.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Alumni Ventures, Andreessen Horowitz, Cougar Capital Management, DG Daiwa Ventures, GFT Ventures, Gradient, Pelion Venture Partners, Thayer Investment Partners, W23"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Lazarus AI",
+   "website": null,
+   "amount_usd": 43000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-03",
+   "lead_investors": [],
+   "investors": [
+    "Allegis Capital",
+    "AngelList",
+    "Indelible",
+    "Joyance Partners",
+    "Motivate Venture Capital",
+    "Mucker Capital",
+    "One Way Ventures",
+    "Plug and Play",
+    "QBE Ventures",
+    "State Farm Ventures",
+    "Techstars",
+    "Wave Function"
+   ],
+   "hq_city": "Boston",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Builds AI systems.",
+   "description": "Builds AI systems to help solve difficult global problems.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$43.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Allegis Capital, AngelList, Indelible, Joyance Partners, Motivate Venture Capital, Mucker Capital, One Way Ventures, Plug and Play, QBE Ventures, State Farm Ventures, Techstars, Wave Function"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Northwood Space",
+   "website": null,
+   "amount_usd": 375000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-06",
+   "lead_investors": [],
+   "investors": [
+    "Alpine Space Ventures",
+    "Andreessen Horowitz",
+    "DFJ Growth",
+    "IQT",
+    "StepStone Group",
+    "Washington Harbour Partners"
+   ],
+   "hq_city": "Los Angeles",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Satellite ground infrastructure; no AI claim.",
+   "description": "Ground infrastructure and deployable systems for spacecraft communication and data handling.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$375.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Alpine Space Ventures, Andreessen Horowitz, DFJ Growth, IQT, StepStone Group, Washington Harbour Partners"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Numica",
+   "website": null,
+   "amount_usd": 21000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-06",
+   "lead_investors": [],
+   "investors": [
+    "Flashpoint"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "No AI claim in the round-up blurb; the stored record for this round is already tagged AI.",
+   "description": "Accounting and tax services for companies and individuals.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$21.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Flashpoint"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Ocient",
+   "website": null,
+   "amount_usd": 100000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-05",
+   "lead_investors": [],
+   "investors": [
+    "Blue Bear Capital",
+    "BOKA Capital",
+    "Buoyant Ventures",
+    "Dallas Venture Capital",
+    "Eron Wolf",
+    "Greycroft",
+    "IQT",
+    "OCA Ventures",
+    "Pritzker Group Venture Capital",
+    "PSP Growth"
+   ],
+   "hq_city": "Chicago",
+   "hq_state": "IL",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "No AI claim in the round-up blurb; the stored record for this round is already tagged AI.",
+   "description": "Hyper-scale data analytics for petabyte- to exabyte-scale data sets.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$100.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Blue Bear Capital, BOKA Capital, Buoyant Ventures, Dallas Venture Capital, Eron Wolf, Greycroft, IQT, OCA Ventures, Pritzker Group Venture Capital, PSP Growth"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Ottonomy",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-07",
+   "lead_investors": [],
+   "investors": [
+    "Enrission India Capital"
+   ],
+   "hq_city": "Sunnyvale",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Autonomous delivery robots.",
+   "description": "Autonomous delivery robots and fleet management software for indoor and outdoor logistics.",
+   "confidence": 0.2,
+   "evidence": {
+    "amount": "$406.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Enrission India Capital"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "RadianX",
+   "website": null,
+   "amount_usd": 9000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-07",
+   "lead_investors": [],
+   "investors": [
+    "Alumni Ventures",
+    "Avila VC",
+    "California Innovation Fund",
+    "One Small Planet",
+    "quantumEDGE Ventures",
+    "Riceberg Ventures",
+    "Sahsen Ventures",
+    "SOSV",
+    "Twynam Agricultural Group"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Perovskite solar modules; no AI claim.",
+   "description": "Supplies perovskite-based solar modules.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$9.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Alumni Ventures, Avila VC, California Innovation Fund, One Small Planet, quantumEDGE Ventures, Riceberg Ventures, Sahsen Ventures, SOSV, Twynam Agricultural Group"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Sentra",
+   "website": null,
+   "amount_usd": 150000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-04",
+   "lead_investors": [],
+   "investors": [
+    "Bessemer Venture Partners",
+    "Capital One Ventures",
+    "Key 1 Capital",
+    "Munich Re Ventures",
+    "Standard Investments",
+    "Zeev Ventures"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "No AI claim in the round-up blurb; the stored record for this round is already tagged AI.",
+   "description": "Data security platform that discovers, classifies, monitors and protects sensitive information.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$150.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Bessemer Venture Partners, Capital One Ventures, Key 1 Capital, Munich Re Ventures, Standard Investments, Zeev Ventures"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Shield AI",
+   "website": null,
+   "amount_usd": 2000000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-07",
+   "lead_investors": [],
+   "investors": [
+    "Advent International",
+    "Apandion",
+    "Blackstone",
+    "Center15 Capital",
+    "Disruptive",
+    "InnovationX",
+    "JPMorganChase",
+    "Snowpoint Ventures"
+   ],
+   "hq_city": "San Diego",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-powered autonomy systems for defense.",
+   "description": "AI-powered systems that enhance the safety of service members and civilians.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$2.0B",
+    "round": null,
+    "lead": null,
+    "investors": "Advent International, Apandion, Blackstone, Center15 Capital, Disruptive, InnovationX, JPMorganChase, Snowpoint Ventures"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Syncere",
+   "website": null,
+   "amount_usd": 11000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-07",
+   "lead_investors": [],
+   "investors": [
+    "a16z speedrun",
+    "Draper Associates",
+    "Physical World",
+    "SeaX Ventures",
+    "sequel"
+   ],
+   "hq_city": "Palo Alto",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Home robotics.",
+   "description": "Home robotics that combine household automation with everyday furniture and lighting.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$11.0M",
+    "round": null,
+    "lead": null,
+    "investors": "a16z speedrun, Draper Associates, Physical World, SeaX Ventures, sequel"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Traversal",
+   "website": null,
+   "amount_usd": 120000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-03",
+   "lead_investors": [],
+   "investors": [
+    "Amex Ventures",
+    "Battery Ventures",
+    "Khosla Ventures",
+    "Kleiner Perkins",
+    "Redpoint",
+    "Sequoia Capital"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI platform for incident resolution.",
+   "description": "AI platform for monitoring and resolving software infrastructure incidents.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$120.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Amex Ventures, Battery Ventures, Khosla Ventures, Kleiner Perkins, Redpoint, Sequoia Capital"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Tutor Intelligence",
+   "website": null,
+   "amount_usd": 75000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-02",
+   "lead_investors": [],
+   "investors": [
+    "Andreessen Horowitz",
+    "Neo",
+    "Union Square Ventures"
+   ],
+   "hq_city": "Watertown",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-powered industrial robots.",
+   "description": "AI-powered robots and automation for industrial tasks.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$75.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Andreessen Horowitz, Neo, Union Square Ventures"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report",
+   "candidate_ids": [
+    "0db2e0e8f554"
+   ],
+   "company": "Zipline International",
+   "website": null,
+   "amount_usd": 1500000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-05",
+   "lead_investors": [],
+   "investors": [
+    "ARK Investment Management",
+    "Fidelity",
+    "JP Morgan",
+    "Layer Global",
+    "Paradigm",
+    "Salesforce Ventures",
+    "Tiger Global Management",
+    "Uber",
+    "Valor Equity Partners",
+    "WCM Investment Management"
+   ],
+   "hq_city": "South San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Autonomous drone delivery (autonomy).",
+   "description": "Autonomous drone delivery and logistics for healthcare, retail and food.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$1.5B",
+    "round": null,
+    "lead": null,
+    "investors": "ARK Investment Management, Fidelity, JP Morgan, Layer Global, Paradigm, Salesforce Ventures, Tiger Global Management, Uber, Valor Equity Partners, WCM Investment Management"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Graphon",
+   "website": null,
+   "amount_usd": 35000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-14",
+   "lead_investors": [],
+   "investors": [
+    "Energy Impact Partners",
+    "Gaia Ventures",
+    "Hitachi Ventures",
+    "HP",
+    "RRE Ventures"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Pre-model intelligence layer for enterprise AI.",
+   "description": "Creates relational representation layers and pre-model intelligence for enterprise AI.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$35.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Energy Impact Partners, Gaia Ventures, Hitachi Ventures, HP, RRE Ventures"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Imprint",
+   "website": null,
+   "amount_usd": 130000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-11",
+   "lead_investors": [
+    "Khosla Ventures"
+   ],
+   "investors": [
+    "Khosla Ventures",
+    "Ribbit Capital",
+    "Thrive Capital",
+    "Positive Sum",
+    "Hedosophia",
+    "Spice Expeditions"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Co-brand card fintech whose raise is pitched at AI capabilities; it ships an MCP server so AI agents can use rewards, cards and transactions.",
+   "description": "Platform for brands to launch co-branded credit cards and loyalty programs; valued at about $1.9B.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "$130.0M",
+    "round": "Co-branded card fintech Imprint hits $1.9bn valuation with $130m funding round",
+    "lead": "Existing investor Khosla Ventures led the round. Other participants were Ribbit Capital, Thrive Capital and new investor Positive Sum.",
+    "investors": "Ribbit Capital, Thrive Capital, Positive Sum, Hedosophia, Spice Expeditions"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/",
+    "https://www.fintechfutures.com/venture-capital-funding/imprint-fintech-cards-130m-funding-round-1-9bn-valuation",
+    "https://pulse2.com/imprint-130-million-financing-at-1-9-billion-valuation-expands-payments-and-ai-capabilities"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Hatz AI",
+   "website": null,
+   "amount_usd": 24000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-14",
+   "lead_investors": [],
+   "investors": [
+    "Nadia Partners",
+    "The Private Shares Fund",
+    "Vestigo Ventures"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI platform for building business applications and workflows.",
+   "description": "AI platform for building and managing business applications and automated workflows.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$24.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Nadia Partners, The Private Shares Fund, Vestigo Ventures"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Mirendil",
+   "website": null,
+   "amount_usd": 1000000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-14",
+   "lead_investors": [],
+   "investors": [
+    "Battery Ventures",
+    "Clearlake Capital Group",
+    "Doerr Capital",
+    "Gil Capital",
+    "Google",
+    "Kleiner Perkins",
+    "M13",
+    "Pear VC",
+    "S32"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI research lab.",
+   "description": "AI research lab that creates self-accelerating systems that convert computing power into scientific advancements.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$1.0B",
+    "round": null,
+    "lead": null,
+    "investors": "Battery Ventures, Clearlake Capital Group, Doerr Capital, Gil Capital, Google, Kleiner Perkins, M13, Pear VC, S32"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Garage",
+   "website": null,
+   "amount_usd": 41000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-10",
+   "lead_investors": [
+    "Invus Opportunities"
+   ],
+   "investors": [
+    "Invus Opportunities",
+    "Infinity Ventures",
+    "Initialized Capital",
+    "Y Combinator",
+    "Benchstrength",
+    "FJ Labs"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Used heavy-equipment marketplace that uses AI-based appraisals.",
+   "description": "Online marketplace connecting buyers and sellers of specialized vehicles such as used fire trucks, with AI-based appraisals.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "$41.0M",
+    "round": "Garage raises $41M Series B to sell America's used fire trucks nationwide",
+    "lead": "Invus Opportunities led the round, and Infinity Ventures, Initialized Capital, Y Combinator, Benchstrength, and FJ Labs also participated",
+    "investors": "Infinity Ventures, Initialized Capital, Y Combinator, Benchstrength, FJ Labs"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/",
+    "https://runtimewire.com/article/garage-41m-series-b-used-fire-trucks",
+    "https://fortune.com/2026/11/10/garage-used-fire-trucks-martin-hunt-funding/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "PuppyGraph",
+   "website": null,
+   "amount_usd": 10000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-14",
+   "lead_investors": [],
+   "investors": [
+    "Defy.vc",
+    "Particle Future"
+   ],
+   "hq_city": "Santa Clara",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Graph analytics platform; no AI claim in the round-up blurb.",
+   "description": "Graph analytics platform that enables native graph queries across relational data.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$10.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Defy.vc, Particle Future"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Databento",
+   "website": null,
+   "amount_usd": 100000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-12",
+   "lead_investors": [
+    "Fifth Down Capital"
+   ],
+   "investors": [
+    "Fifth Down Capital",
+    "Fitch Ventures",
+    "Alumni Ventures",
+    "Cross Creek",
+    "DRW Venture Capital",
+    "Hedosophia",
+    "New Enterprise Associates",
+    "Operator Collective",
+    "Redpoint",
+    "TGVP",
+    "Tribe Capital",
+    "Trousdale Ventures"
+   ],
+   "hq_city": "Salt Lake City",
+   "hq_state": "UT",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Market data API provider; AI labs are customers but its own announcement makes no AI claim about the product.",
+   "description": "Live and historical financial market data delivered through a single API; valued at $1.1B.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "$100.0M",
+    "round": "Databento: $100 Million Series C Values Market Data Company At $1.1 Billion",
+    "lead": "Databento Raised $100 Million in a Series C at a $1.1 Billion Valuation Led by Fifth Down Capital",
+    "investors": "Fitch Ventures, Alumni Ventures, Cross Creek, DRW Venture Capital, Hedosophia, New Enterprise Associates, Operator Collective, Redpoint, TGVP, Tribe Capital, Trousdale Ventures"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/",
+    "https://databento.com/blog/series-c",
+    "https://pulse2.com/databento-100-million-series-c-values-market-data-company-at-1-1-billion"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Rox",
+   "website": null,
+   "amount_usd": 100000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-14",
+   "lead_investors": [],
+   "investors": [
+    "Databricks Ventures",
+    "Factory",
+    "General Catalyst",
+    "March Capital",
+    "Prosperity7 Ventures",
+    "Sequoia Capital"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI agents for sales productivity.",
+   "description": "Leverages AI agents to enhance sales productivity.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$100.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Databricks Ventures, Factory, General Catalyst, March Capital, Prosperity7 Ventures, Sequoia Capital"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Coreshell Technologies",
+   "website": null,
+   "amount_usd": 30000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-14",
+   "lead_investors": [],
+   "investors": [
+    "Access Industries",
+    "ADS",
+    "Entrada Ventures",
+    "Ferroglobe",
+    "Helios Climate Ventures",
+    "Mana Ventures",
+    "Pegasus Tech Ventures"
+   ],
+   "hq_city": "San Leandro",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Battery materials; no AI claim.",
+   "description": "Lithium-ion battery technology using metallurgical-grade silicon as an alternative to graphite anodes.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$30.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Access Industries, ADS, Entrada Ventures, Ferroglobe, Helios Climate Ventures, Mana Ventures, Pegasus Tech Ventures"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa",
+    "0a6165fbc396"
+   ],
+   "company": "Reflect Orbital",
+   "website": null,
+   "amount_usd": 73500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-11",
+   "lead_investors": [],
+   "investors": [
+    "Buckley Ventures",
+    "Convective Capital",
+    "Lux Capital",
+    "Salesforce Ventures",
+    "Sequoia Capital",
+    "Starship Ventures",
+    "The Uncommon Group"
+   ],
+   "hq_city": "Hawthorne",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Orbital mirror satellites; no AI claim.",
+   "description": "Satellite technology that uses orbital mirrors to redirect sunlight to Earth.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$73.5M",
+    "round": "Reflect Orbital Secures $73.5M to Beam Sunlight From Space",
+    "lead": null,
+    "investors": "Buckley Ventures, Convective Capital, Lux Capital, Salesforce Ventures, Sequoia Capital, Starship Ventures, The Uncommon Group"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "WhiteMatter",
+   "website": null,
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-14",
+   "lead_investors": [],
+   "investors": [
+    "Blumberg Capital",
+    "Crew Capital",
+    "Sprout & Oak"
+   ],
+   "hq_city": "Austin",
+   "hq_state": "TX",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-powered insights company using machine learning.",
+   "description": "AI-powered insights company that uses machine learning to analyze digital data.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$20.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Blumberg Capital, Crew Capital, Sprout & Oak"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Bay",
+   "website": null,
+   "amount_usd": 37000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-14",
+   "lead_investors": [],
+   "investors": [
+    "Assaf Rappaport",
+    "Battery Ventures",
+    "M12",
+    "Micron Ventures"
+   ],
+   "hq_city": "Wilmington",
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI security platform for governing agents.",
+   "description": "AI security platform that helps organizations discover, monitor, govern and control agents.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$37.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Assaf Rappaport, Battery Ventures, M12 – Microsoft's Venture Fund, Micron Ventures"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Delphina",
+   "website": null,
+   "amount_usd": 7500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-14",
+   "lead_investors": [],
+   "investors": [
+    "Costanoa Ventures",
+    "Fei-Fei Li",
+    "Guido Imbens",
+    "Radical Ventures",
+    "Tenacity Capital"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Data agent for AI-native teams.",
+   "description": "The data agent for AI-native teams.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$7.5M",
+    "round": null,
+    "lead": null,
+    "investors": "Costanoa Ventures, Fei-Fei Li, Guido Imbens, Radical Ventures, Tenacity Capital"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Tristar AI",
+   "website": null,
+   "amount_usd": 12400000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-14",
+   "lead_investors": [],
+   "investors": [
+    "Blackhorn Ventures",
+    "Capgemini",
+    "Ford Street Ventures",
+    "Isai",
+    "Isogon Ventures",
+    "Las Olas Venture Capital",
+    "NextView Ventures",
+    "Seraph Group",
+    "SNR.vc",
+    "TenOneTen Ventures"
+   ],
+   "hq_city": "Boston",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-enabled manufacturing software.",
+   "description": "Software development company that provides AI-enabled manufacturing solutions.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$12.4M",
+    "round": null,
+    "lead": null,
+    "investors": "Blackhorn Ventures, Capgemini, Ford Street Ventures, Isai, Isogon Ventures, Las Olas Venture Capital, NextView Ventures, Seraph Group, SNR.vc, TenOneTen Ventures"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Torus",
+   "website": null,
+   "amount_usd": 500000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-14",
+   "lead_investors": [],
+   "investors": [
+    "ICONIQ Capital",
+    "Magnetar Capital",
+    "Origin Ventures",
+    "Ridgeline",
+    "Trinity Capital"
+   ],
+   "hq_city": "Salt Lake City",
+   "hq_state": "UT",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Energy plus AI computing infrastructure.",
+   "description": "Provides integrated energy and AI computing infrastructure.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$500.0M",
+    "round": null,
+    "lead": null,
+    "investors": "ICONIQ Capital, Magnetar Capital, Origin Ventures, Ridgeline, Trinity Capital"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Edelbyte",
+   "website": null,
+   "amount_usd": 45000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-11",
+   "lead_investors": [
+    "Quiet Capital"
+   ],
+   "investors": [
+    "Quiet Capital",
+    "Greenoaks",
+    "Swish Ventures",
+    "Cerca Partners",
+    "QP Ventures",
+    "Startpoint Capital"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Unified data platform for search, analytics and AI applications, pitched as data infrastructure for AI agents.",
+   "description": "Unified data platform for search, analytics and AI applications, founded by Microsoft data-systems veterans; emerged from stealth.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "$45.0M",
+    "round": "a $45 million Series A led by Quiet Capital, with participation from Greenoaks and Swish Ventures",
+    "lead": "a $45 million Series A led by Quiet Capital",
+    "investors": "Greenoaks, Swish Ventures, Cerca Partners, QP Ventures, Startpoint Capital"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/",
+    "https://www.calcalistech.com/ctechnews/article/rk9dvkfrmx",
+    "https://www.newswire.com/news/sequoia-backs-microsoft-veterans-edelbyte-with-70m-to-challenge-data-22887310"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Edelbyte",
+   "website": null,
+   "amount_usd": 25000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-11",
+   "lead_investors": [
+    "Sequoia Capital"
+   ],
+   "investors": [
+    "Sequoia Capital"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Unified data platform for search, analytics and AI applications, pitched as data infrastructure for AI agents.",
+   "description": "Unified data platform for search, analytics and AI applications; seed round disclosed alongside its Series A when it left stealth.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "a $25 million Seed round led by Sequoia Capital",
+    "round": "AI data company Edelbyte completed a $70 million seed and Series A financing round, led by Sequoia Capital",
+    "lead": "a $25 million Seed round led by Sequoia Capital",
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/",
+    "https://www.calcalistech.com/ctechnews/article/rk9dvkfrmx",
+    "https://www.newswire.com/news/sequoia-backs-microsoft-veterans-edelbyte-with-70m-to-challenge-data-22887310"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa",
+    "f159ab67a08a"
+   ],
+   "company": "Luminal",
+   "website": null,
+   "amount_usd": 25000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-12",
+   "lead_investors": [],
+   "investors": [
+    "Standard Capital",
+    "Y Combinator",
+    "Batuhan Taskaya",
+    "Ben Porterfield",
+    "Erik Bernhardsson",
+    "Felicis",
+    "Guillermo Rauch",
+    "Kasra Nejatian",
+    "Liquid 2 Ventures",
+    "Palm Drive Capital",
+    "Paul Graham",
+    "Saga Ventures"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Machine learning compiler and inference cloud.",
+   "description": "Machine learning compiler and serverless cloud platform aimed at loosening Nvidia's grip on AI inference.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$25.0M",
+    "round": "YC-backed Luminal raises $25M from Standard Capital",
+    "lead": null,
+    "investors": "Standard Capital, Y Combinator, Batuhan Taskaya, Ben Porterfield, Erik Bernhardsson, Felicis, Guillermo Rauch, Kasra Nejatian, Liquid 2 Ventures, Palm Drive Capital, Paul Graham, Saga Ventures"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Coframe",
+   "website": null,
+   "amount_usd": 25000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-09",
+   "lead_investors": [],
+   "investors": [
+    "Antler",
+    "Hanabi Capital",
+    "Khosla Ventures",
+    "Nat Friedman"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Automated website generation and optimization; the stored record for this round is tagged AI.",
+   "description": "Automates the creation, testing and optimization of websites and landing pages.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$25.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Antler, Hanabi Capital, Khosla Ventures, Nat Friedman"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "MedHaul",
+   "website": null,
+   "amount_usd": 4099999.9999999995,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-14",
+   "lead_investors": [],
+   "investors": [
+    "450 Ventures",
+    "Black Operator Ventures",
+    "BrightEdge",
+    "Launch Tennessee",
+    "Pier 70 Ventures",
+    "Seae Ventures",
+    "Stanford University"
+   ],
+   "hq_city": "Memphis",
+   "hq_state": "TN",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Medical transportation coordination; no AI claim in the blurb.",
+   "description": "Platform for coordinating non-emergency medical transportation.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$4.1M",
+    "round": null,
+    "lead": null,
+    "investors": "450 Ventures, Black Operator Ventures, BrightEdge – American Cancer Society, Launch Tennessee, Pier 70 Ventures, Seae Ventures, Stanford University"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Project Omega",
+   "website": null,
+   "amount_usd": 80000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-14",
+   "lead_investors": [],
+   "investors": [
+    "645 Ventures",
+    "B Capital",
+    "Decisive Point",
+    "Essential Capital",
+    "MANTIS Venture Capital",
+    "noa",
+    "Pace Ventures",
+    "Starship Ventures",
+    "Virta Ventures",
+    "Washington Harbour Partners"
+   ],
+   "hq_city": "Newport",
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Nuclear fuel recycling; no AI claim.",
+   "description": "Develops nuclear fuel recycling technologies and long-duration energy systems.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$80.0M",
+    "round": null,
+    "lead": null,
+    "investors": "645 Ventures, B Capital, Decisive Point, Essential Capital, MANTIS Venture Capital, noa, Pace Ventures, Starship Ventures, Virta Ventures, Washington Harbour Partners"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "XpertDox",
+   "website": null,
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-14",
+   "lead_investors": [],
+   "investors": [
+    "Kennet Partners",
+    "Savant Growth"
+   ],
+   "hq_city": "Scottsdale",
+   "hq_state": "AZ",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI software that automates medical coding.",
+   "description": "Develops artificial intelligence software that automates medical coding.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$20.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Kennet Partners, Savant Growth"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Charta Health",
+   "website": null,
+   "amount_usd": 55000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-14",
+   "lead_investors": [],
+   "investors": [
+    "Bain Capital Ventures",
+    "Insight Partners",
+    "Madrona",
+    "QuantumLight",
+    "South Park Commons"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI software for medical chart review.",
+   "description": "Develops AI software that automates medical chart reviews and clinical documentation.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$55.0M",
+    "round": null,
+    "lead": null,
+    "investors": "Bain Capital Ventures, Insight Partners, Madrona, QuantumLight, South Park Commons"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "group_key": "funding report 2",
+   "candidate_ids": [
+    "99deac5d5dfa"
+   ],
+   "company": "Finite State",
+   "website": null,
+   "amount_usd": 27000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-14",
+   "lead_investors": [],
+   "investors": [
+    "CIBC Innovation Banking",
+    "Energize Capital",
+    "Energy Impact Partners",
+    "National Grid Partners",
+    "The O.H.I.O. Fund"
+   ],
+   "hq_city": "Columbus",
+   "hq_state": "OH",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-powered product security platform.",
+   "description": "AI-powered product security platform that helps manufacturers identify software vulnerabilities.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$27.0M",
+    "round": null,
+    "lead": null,
+    "investors": "CIBC Innovation Banking, Energize Capital, Energy Impact Partners, National Grid Partners (NGP), The O.H.I.O. Fund"
+   },
+   "source_urls": [
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-16-26/"
+   ],
+   "exclude_reason": null
+  }
+ ]
+}
