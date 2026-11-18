@@ -1,0 +1,132 @@
+{
+ "run_date": "2026-11-18",
+ "part": 3,
+ "groups": [
+  {
+   "group_key": "arva",
+   "company_guess": "Arva AI",
+   "amount_hint_usd": 20000000,
+   "articles": [
+    {
+     "id": "c268e59709e8",
+     "group_key": "arva",
+     "title": "Arva AI Raises $20 Million Series A Led by Arthur Ventures to Expand AI Automation for Banks and Fintechs",
+     "publisher": "citybiz",
+     "url": "https://www.citybiz.co/article/935206/arva-ai-raises-20-million-series-a-led-by-arthur-ventures-to-expand-ai-automation-for-banks-and-fintechs/",
+     "published_at": "2026-11-17T21:55:58.000Z",
+     "amount_hint": "$20 Million",
+     "snippet": "Arva AI Raises $20 Million Series A Led by Arthur Ventures to Expand AI Automation for Banks and Fintechs citybiz",
+     "text_status": "blocked:403",
+     "text": null
+    },
+    {
+     "id": "9b1bbf254ff3",
+     "group_key": "arva",
+     "title": "Arva AI Raises $20 Million Series A Led by Arthur Ventures to Expand AI Automation for Banks and Fintechs",
+     "publisher": "Kevin Parker",
+     "url": "https://www.citybiz.co/article/935206/arva-ai-raises-20-million-series-a-led-by-arthur-ventures-to-expand-ai-automation-for-banks-and-fintechs/",
+     "published_at": "2026-11-17T21:54:12.000Z",
+     "amount_hint": "$20 Million",
+     "snippet": "Arva AI, a financial technology company developing artificial intelligence models and autonomous agents for banking operations, has raised $20 million... Read More\nThe post Arva AI Raises $20 Million Series A Led by Arthur Ventures to Expand AI Automation for Banks and Fintechs appeared first on citybiz .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "valkryn",
+   "company_guess": "Valkryn",
+   "amount_hint_usd": 17000000,
+   "articles": [
+    {
+     "id": "508461a7b91d",
+     "group_key": "valkryn",
+     "title": "Valkryn Emerges From Stealth With $17M to Develop Military Robotics Testing Systems",
+     "publisher": "AI Insider",
+     "url": "https://theaiinsider.tech/2026/11/18/valkryn-emerges-from-stealth-with-17m-to-develop-military-robotics-testing-systems/",
+     "published_at": "2026-11-18T00:02:00.000Z",
+     "amount_hint": "$17M",
+     "snippet": "Valkryn Emerges From Stealth With $17M to Develop Military Robotics Testing Systems AI Insider",
+     "text_status": "ok",
+     "text": "Physical AI · Defence & Autonomous Systems\nValkryn Emerges From Stealth With $17M to Develop Military Robotics Testing Systems\nBy Greg Bock · 18 November 2026 · 3 min read\nValkryn co-founders, from left to right, CTO Andrew Hoff & CEO Hugh Zabriskie, (Credit: Valkryn)\nInsider Brief\nValkryn has emerged from stealth with $17 million in total funding to develop technology for testing military robots, drones and other autonomous systems under realistic conditions.\nThe funding includes a $15 million seed round led by Andreessen Horowitz’s American Dynamism fund, with participation from Cantos Ventures, Ambition Capital and Caffeinated Capital.\nValkryn’s Battle Lab technology records and evaluates autonomous systems against government-defined criteria, and the company reports multiple funded contracts with U.S. military testing organizations.\nValkryn, a defense technology startup developing systems to test military robots, drones and other autonomous equipment, has emerged from stealth with $17 million in total funding.\nThe funding includes a $15 million seed round led by Andreessen Horowitz ‘s American Dynamism fund with Cantos Ventures , Ambition Capital and Caffeinated Capital . According to the Washington, D.C.-based startup , the funding will go to expanding its technology and growing its team across Washington, New York City and Los Angeles.\nUnlike companies developing military robots and drones, Valkryn does not manufacture or sell the equipment it evaluates. The company said this separation allows it to operate as an independent testing provider for government agencies and defense contractors.\nBattle Lab\nFounded in 2025, Valkryn develops what it calls Battle Lab technology to evaluate how autonomous military systems perform under realistic conditions before they are deployed in combat. Valkryn combines physical testing environments with software that records information from sensors, autonomous systems and human operators to track how equipment behaves and automatically scores results against criteria established by the government.\nIt also creates a detailed record of each test, allowing military organizations to review what happened and compare performance across different systems, locations and exercises. According to Valkryn, many military testing programs still rely on handwritten notes and presentations to assess increasingly complex autonomous equipment.\n“Warfighters need to trust that their systems have been proven before the fight,” co-founder and CEO Hugh Zabriskie said in the announcement. “But software-defined systems and threats now change faster than today’s test enterprise can keep up. Leading software and robotics companies solved this long ago by investing in rapid, realistic evaluation as a core advantage, and we founded Valkryn to bring that advantage to the military.”\nValkryn said its technology was deployed with the U.S. military in the Middle East within three weeks of its first demonstration. It has also secured multiple funded contracts with Department of War testing organizations in less than 12 months.\nValkryn was founded by Zabriskie and Chief Technology Officer Andrew Hoff. Its founding team has experience developing autonomous systems, simulation software and hardware at companies including Palantir, Anduril, SpaceX and Applied Intuition.\nMore Funding Autonomous Defense Systems\nThe launch comes as the Pentagon seeks substantially more funding for autonomous military systems, Valkryn noted.\nAccording to figu"
+    }
+   ]
+  },
+  {
+   "group_key": "native",
+   "company_guess": "AI-native",
+   "amount_hint_usd": 15000000,
+   "articles": [
+    {
+     "id": "7ef886c24374",
+     "group_key": "native",
+     "title": "AI-native conveyancing firm raises £15m in seed funding",
+     "publisher": "Legal Futures",
+     "url": "https://www.legalfutures.co.uk/latest-news/ai-native-conveyancing-firm-raises-15m-in-seed-funding",
+     "published_at": "2026-11-18T01:01:45.000Z",
+     "amount_hint": "£15m",
+     "snippet": "AI-native conveyancing firm raises £15m in seed funding Legal Futures",
+     "text_status": "ok",
+     "text": "AI-native conveyancing firm raises £15m in seed funding\n18 November 2026\nPosted by Neil Rose\nRice: AI puts consumer in control\nAI-native law firm Alecto wants to become the UK’s leading provider of property legal services in 2027, it said yesterday after raising £15m in a seed round.\nThe new funding will support its expansion into areas of consumer law beyond conveyancing as well as new jurisdictions, with its first international launch also planned for next year.\nAmong the new investors are London law firm Mishcon de Reya, Simon Rogerson, founder and CEO of Octopus Group, which has its own legal arm too, and Firstminute Capital.\nFirstminute’s managing partner is serial entrepreneur Brett Haberman, who backs another law firm in the news today, Founders Law.\nAlecto, which is regulated by the Council for Licensed Conveyancers, was founded in September 2025 by Will Rice, who previously built fintech mortgage lender Gen H.\nAccording to Companies House records, he resigned as chief executive of Gen H last year, buying Generation Home Legal Ltd from it for £326,558 and renaming it Alecto Conveyancing. It is owned by Mr Rice’s company, Alecto Legal.\nThough initially targeted at conveyancing, the goal is to move into other consumer legal services.\nThe promise is that the technology “reads, checks and chases every part of your move around the clock, and your own conveyancer makes every decision that matters”.\nAlecto said yesterday that it has reached £6m in annualised revenue within eight months of trading and has acted on more than £1bn in property transactions.\nStaff numbers have grown from three in January to 85 today and the firm is on the panel for 65 mortgage lenders, including all of the top 30.\nHowever, this growth is not reflected in HM Land Registry statistics, which indicate low levels of activity compared to the major players in the market – in October, it made 23 applications in relation to registered land, compared to 10,396 by ONP Solicitors.\nMr Rice said: “For too long, the legal industry has expected customers to work on its terms; now, AI presents the opportunity to put the consumer in control.\n“People don’t want to buy a lawyer’s time; they want results. Alecto exists to make the law accessible to everyone, giving control back to the consumer. We’re not building a law firm; we’re replacing the traditional law firm.”\nAlessandro Luciano, principal at Insight Partners, who has become a director of Alecto Legal, added: “Consumer legal services represent a huge market opportunity as cost and complexity mean the necessary support is beyond the reach of so many people. Alecto’s approach redefines how those services are delivered.”\nThe announcement said the company “aims to become the UK’s leading provider of property legal services in 2027, forging relationships with mortgage brokers and estate agents searching for better service for their customers and faster completion times”.\nMr Rice added: “Property is where we prove the model. We’re building the technology and operations to rapidly break into new countries and new areas of law. Ultimately, access to exceptional legal support should not depend on how much money you have or how confidently you can navigate the system.”\nSign up to our free e-newsletter\nLeave a Comment Cancel reply By clicking Submit you consent to Legal Futures storing your personal data and confirm you have read our Privacy Policy and section 5 of our Terms & Conditions which deals with user-generated content. All"
+    }
+   ]
+  },
+  {
+   "group_key": "henfruit",
+   "company_guess": "Henfruit",
+   "amount_hint_usd": 15000000,
+   "articles": [
+    {
+     "id": "a8088a741707",
+     "group_key": "henfruit",
+     "title": "Henfruit raises $15 million in Series A funding",
+     "publisher": "BusinessLine",
+     "url": "https://www.thehindubusinessline.com/markets/henfruit-raises-15-million-in-series-a-funding/article71714528.ece",
+     "published_at": "2026-11-18T05:00:18.000Z",
+     "amount_hint": "$15 million",
+     "snippet": "Henfruit raises $15 million in Series A funding BusinessLine",
+     "text_status": "ok",
+     "text": "SENSEX 82,225.42\n-306.77\nNIFTY 25,285.25\n-102.15\nCRUDEOIL 7,927.00\n-163.00\nGOLD 131,379.00\n-2,844.00\nSILVER 163,882.00\n-5,820.00\nSENSEX 82,225.42\n-306.77\nNIFTY 25,285.25\n-102.15\nNIFTY 25,285.25\n-102.15\nCRUDEOIL 7,927.00\n-163.00\nCRUDEOIL 7,927.00\n-163.00\nGOLD 131,379.00\n-2,844.00\nSubscribe\nCompanies\nMarkets\nPortfolio\nOpinion\nEconomy\nPremium\nX\nSTOCKS\nSTORIES\nACCOUNT Subscribe SIGN UP / LOGIN\nX\nSTOCKS\nSTORIES\nMENU\nX\nSTOCKS\nSTORIES\nSections My Account\nCompanies\nMSME\nMarkets\nIPO Dashboard\nCommodities\nForex\nGold & Silver\nStocks\nGold rate today\nSilver rate today\nTop gainers today\nTop losers today\nResults Calendar\nNifty 50\nBSE Sensex\n52 Week High\n52 Week Low\nPortfolio\nPersonal Finance\nBig Story\nDerivatives\nStock Fundamentals\nMutual Funds\nDay Trading Guide\nEconomy\nBudget 2026\nMacro Economy\nPolicy\nAgri Business\nLogistics\nWorld Economic Forum\nOpinion\nEditorial\nColumns\nQuick Take\nLetters\nBlogs\nSpecials\nBusiness Laws\nScience and Technology\nCorporate File\nAuto focus\nClean Tech\nCurrent Account\nFlight Plan\nPulse\nTechnophile\nMarketing\nNews\nMoney & Banking\nBL Explainer\nInfo-tech\nBL On Campus\nData Stories\nMarketing\nVideo\nPodcast\nPackage\nBooks\nLatest News\nCartoons\nResources\nContacts\nWebinar\nePaper\nBrandhub\nLive News\nDigital access to daily edition e-Paper Subscribe to Newsletters\nConnect with us\nGet BusinessLine apps on\nLogin\nBookmarks\nNewsletters\nAccount Settings\nSubscribe\nLog Out\n1 Updates\nImportant Stories\nReliance plans 1,600-satellite network to take on Elon Musk’s Starlink\nRupee rises 24 paise to 93.27 against US dollar in early trade\nApple outage adds to growing list of technology disruptions affecting major companies\nAt $10 billion, net November FPI flows highest ever for a month\nRBI’s reply to Tata Sons triggers debate over suo motu powers\nFollow Us\nFOLLOW US ON WHATSAPP\nHome\nGO BACK TO HOME\nInteractives\nInteractive reads from\nthe businessline desk\nEl Niño\nHas GDP growth outgrown El Nino impact? Crop output certainly hasn't &rarr; Crude oil\n$100 oil, three times. What came next was different every time &rarr; Muhurat trading\nIs Muhurat trading an indicator of what's in store the following year? &rarr;\nTHIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.\nTHIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.\nHome\nMarkets\nHenfruit raises $15 million in Series A funding\nThe fresh capital will support the company’s expansion towards a pan-India presence, through its online and offline distribution network\nBy BL Mangaluru Bureau\nUpdated - November 18, 2026 at 10:31 AM.\n|\nMangaluru\n&times;\nShare\nWhatsApp X Facebook LinkedIn Messenger Reddit Mail\nhttps://www.thehindubusinessline.com/markets/henfruit-raises-15-million-in-series-a-funding/article71714528.ece Copy\nHenfruit, an egg brand, has raised $15 million in a Series A funding round from Lok Capital, DSG Consumer Partners and RPSG Capital Ventures.\nThe fresh capital will support the company’s expansion towards a pan-India presence, through its online and offline distribution network.\nA media statement said Henfruit has recorded a 10X increase in scale over the past three years, with FY27 revenues expected to exceed ₹350 crore. The company currently processes more than four crore eggs every month and serves consumers across 15 major Indian cities.\nTarun Gupta, Founder of Henfruit\nQuoting Tarun Gupta, Founder of Henfruit, the statement said: “ Over the past 12 years, we have invested in technology, stringent quality standards and accountability, driven by a genuine care for the families who t"
+    }
+   ]
+  },
+  {
+   "group_key": "defense tech startup",
+   "company_guess": "Defense tech startup",
+   "amount_hint_usd": 15000000,
+   "articles": [
+    {
+     "id": "db1f846f8d3c",
+     "group_key": "defense tech startup",
+     "title": "Defense tech startup Valkryn Systems emerges from stealth after closing $15M seed round",
+     "publisher": "The Business Journals",
+     "url": "https://www.bizjournals.com/washington/news/2026/11/17/valkryn-systems-palantir-anduril-hugh-zabriskie.html",
+     "published_at": "2026-11-17T20:15:00.000Z",
+     "amount_hint": "$15M",
+     "snippet": "Defense tech startup Valkryn Systems emerges from stealth after closing $15M seed round The Business Journals",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "gama",
+   "company_guess": "Gama",
+   "amount_hint_usd": 15000000,
+   "articles": [
+    {
+     "id": "93b0de3e80de",
+     "group_key": "gama",
+     "title": "Gama Raises €15 Million To Mass-Produce Wing Satellite Solar Arrays",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/gama-raises-e15-million-to-mass-produce-wing-satellite-solar-arrays/",
+     "published_at": "2026-11-18T03:50:45.000Z",
+     "amount_hint": "€15 Million",
+     "snippet": "Gama has raised €15 million in seed funding to establish production of Wing, an ultra-light deployable solar array designed for high-power satellites. Transition Ventures, Planet A, Draper Associates, and Manta Ray Ventures participated in the financing.\nThe post Gama Raises €15 Million To Mass-Produce Wing Satellite Solar Arrays appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Gama Raises €15 Million To Mass-Produce Wing Satellite Solar Arrays\nBy Amit Chowdhry\nToday at 10:50 PM\nGama Raises €15 Million To Mass-Produce Wing Satellite Solar Arrays\nGama has raised €15 million in seed funding to establish production of Wing, an ultra-light deployable solar array designed for high-power satellites. Transition Ventures, Planet A, Draper Associates, and Manta Ray Ventures participated in the financing.\nThe company will use the capital to build its first Wing production line in Ivry-sur-Seine, France, expand in-house testing capabilities, and hire approximately 60 employees.\nGama is recruiting across mechanical engineering, power electronics, software, production, and test engineering as it prepares the technology for volume manufacturing.\nBuilding Deployable Solar Arrays For High-Power Satellites\nWing is designed to provide a large solar-power-generating surface while occupying relatively little space before deployment.\nSatellites must fit within the dimensional limits of a launch vehicle. Components such as solar arrays therefore need to remain compact during launch before unfolding or extending after the spacecraft reaches orbit.\nGama’s system is intended to combine an ultra-light structure with a high packaging ratio, allowing a large array to be folded into a smaller volume.\nThe company is designing Wing for high-power satellites, which may require substantially more electricity than conventional spacecraft to operate communications, computing, sensing, propulsion, or other onboard systems.\nGama is also prioritizing production cost. The company said Wing is being engineered for volume manufacturing and a lower cost per watt.\nThose objectives will need to be demonstrated as the company moves from development into larger-scale production.\nTargeting Lead Times Of Six Months Or Less\nGama plans to reduce the time required to manufacture and deliver space-based solar arrays.\nOnce its production line is operational, the company is targeting lead times of six months or less. Gama said current industry lead times for space solar systems can reach one year or longer.\nShorter delivery periods could help satellite manufacturers reduce schedule risk and obtain power systems closer to the timing of their broader spacecraft-production programs.\nThe company has not yet disclosed when the production line will reach full operating capacity or how many Wing systems it expects to manufacture annually.\nIts ability to achieve the six-month target will depend on supply-chain availability, workforce hiring, testing requirements, customer specifications, and production performance.\nEstablishing Production In Ivry-Sur-Seine\nThe financing will support Gama’s first production line in Ivry-sur-Seine, located near Paris.\nThe company plans to perform more testing internally rather than depending entirely on outside facilities. Bringing testing closer to manufacturing could allow engineering and production teams to identify issues, implement changes, and validate systems more quickly.\nSpace hardware must operate in demanding launch and orbital environments. Testing can include evaluations of deployment mechanisms, structural loads, vibration, temperature changes, electrical output, and other mission-specific requirements.\nThe exact qualification process will depend on the spacecraft, launch vehicle, orbit, and customer.\nGama has not disclosed the initial customers for Wing or provided a timetable for the first commercial deliveries.\nHiring Appr"
+    }
+   ]
+  }
+ ]
+}

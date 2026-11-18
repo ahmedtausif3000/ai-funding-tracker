@@ -1,0 +1,1228 @@
+{
+  "run_date": "2026-11-18",
+  "generated_at": "2026-11-18T06:31:35.656Z",
+  "window_days": 2,
+  "range": null,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 200,
+        "items": 100
+      },
+      {
+        "id": "gnews-2",
+        "status": 200,
+        "items": 54
+      },
+      {
+        "id": "gnews-3",
+        "status": 200,
+        "items": 58
+      },
+      {
+        "id": "gnews-4",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-5",
+        "status": 200,
+        "items": 26
+      },
+      {
+        "id": "gnews-6",
+        "status": 200,
+        "items": 18
+      },
+      {
+        "id": "gnews-7",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-8",
+        "status": 200,
+        "items": 8
+      },
+      {
+        "id": "gnews-g1",
+        "status": 200,
+        "items": 46
+      },
+      {
+        "id": "gnews-g2",
+        "status": 200,
+        "items": 35
+      },
+      {
+        "id": "gnews-g3",
+        "status": 200,
+        "items": 14
+      },
+      {
+        "id": "gnews-g4",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-g5",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-g6",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "gnews-g7",
+        "status": 200,
+        "items": 18
+      },
+      {
+        "id": "gnews-g8",
+        "status": 200,
+        "items": 19
+      },
+      {
+        "id": "gnews-g9",
+        "status": 200,
+        "items": 36
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "pulse2",
+        "status": 200,
+        "items": 120
+      },
+      {
+        "id": "citybiz",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 839,
+    "prefiltered": 52,
+    "dropped": {
+      "not_funding": 178,
+      "no_ai_hint": 65,
+      "below_min": 129,
+      "fund_close": 4,
+      "seen": 385,
+      "duplicate_link": 24,
+      "known_round": 12,
+      "noise": 2
+    },
+    "groups": 33,
+    "selected_groups": 26,
+    "candidates": 40,
+    "articles_fetched": 17,
+    "google_rate_limited": false
+  },
+  "groups": [
+    {
+      "key": "isomorphic",
+      "company_guess": "Isomorphic Labs",
+      "amount_hint_usd": 5000000000,
+      "candidate_ids": [
+        "a42dd7fd09f9",
+        "2369c850bf46"
+      ]
+    },
+    {
+      "key": "space force",
+      "company_guess": "Space Force",
+      "amount_hint_usd": 985000000,
+      "candidate_ids": [
+        "54171fbae304"
+      ]
+    },
+    {
+      "key": "onward therapeutics",
+      "company_guess": "Onward Therapeutics",
+      "amount_hint_usd": 900000000,
+      "candidate_ids": [
+        "21eee2dd6aad",
+        "0b7d810eb605"
+      ]
+    },
+    {
+      "key": "exclusive",
+      "company_guess": "Exclusive",
+      "amount_hint_usd": 606000000,
+      "candidate_ids": [
+        "25ca6049d787"
+      ]
+    },
+    {
+      "key": "genesis",
+      "company_guess": "Genesis AI",
+      "amount_hint_usd": 500000000,
+      "candidate_ids": [
+        "b6da5f4ab043",
+        "3dea64365739",
+        "5c352f627169",
+        "2c07e7d52f22"
+      ]
+    },
+    {
+      "key": "metlife investment management",
+      "company_guess": "MetLife Investment Management",
+      "amount_hint_usd": 370000000,
+      "candidate_ids": [
+        "190d00d32d42"
+      ]
+    },
+    {
+      "key": "langchain",
+      "company_guess": "LangChain",
+      "amount_hint_usd": 300000000,
+      "candidate_ids": [
+        "acaf94822cff"
+      ]
+    },
+    {
+      "key": "model ml",
+      "company_guess": "Model ML",
+      "amount_hint_usd": 250000000,
+      "candidate_ids": [
+        "eeff3a9f2a6d",
+        "0b79e137bd5c",
+        "8bb406b8f1f0",
+        "8ad43bf6d93a",
+        "df722fd15a1f"
+      ]
+    },
+    {
+      "key": "sennder",
+      "company_guess": "Sennder",
+      "amount_hint_usd": 228000000,
+      "candidate_ids": [
+        "2d24b9f061f9"
+      ]
+    },
+    {
+      "key": "sickle cell drug marrow",
+      "company_guess": "Sickle Cell Drug: Marrow",
+      "amount_hint_usd": 173000000,
+      "candidate_ids": [
+        "12e2268f5404"
+      ]
+    },
+    {
+      "key": "watertown based marrow therapeuticsm led",
+      "company_guess": "Watertown-Based Marrow Therapeuticsm Led",
+      "amount_hint_usd": 173000000,
+      "candidate_ids": [
+        "955e88812ceb"
+      ]
+    },
+    {
+      "key": "general flash",
+      "company_guess": "General Flash",
+      "amount_hint_usd": 128000000,
+      "candidate_ids": [
+        "315cc4edef37",
+        "6d8ae7fa511a"
+      ]
+    },
+    {
+      "key": "corma",
+      "company_guess": "Corma",
+      "amount_hint_usd": 125000000,
+      "candidate_ids": [
+        "a8a1ef323593"
+      ]
+    },
+    {
+      "key": "ramon space",
+      "company_guess": "Ramon.Space",
+      "amount_hint_usd": 124000000,
+      "candidate_ids": [
+        "921ada90c468"
+      ]
+    },
+    {
+      "key": "seawolf therapeutics",
+      "company_guess": "Seawolf Therapeutics",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "f5b34ced3d7c"
+      ]
+    },
+    {
+      "key": "55bcdf2db0c5",
+      "company_guess": "",
+      "amount_hint_usd": 54000000,
+      "candidate_ids": [
+        "55bcdf2db0c5"
+      ]
+    },
+    {
+      "key": "promise robotics",
+      "company_guess": "Promise Robotics",
+      "amount_hint_usd": 40000000,
+      "candidate_ids": [
+        "2fb130751a44"
+      ]
+    },
+    {
+      "key": "bharat semi",
+      "company_guess": "Bharat Semi",
+      "amount_hint_usd": 24000000,
+      "candidate_ids": [
+        "f795c3d13b3e"
+      ]
+    },
+    {
+      "key": "aevius",
+      "company_guess": "Aevius",
+      "amount_hint_usd": 22000000,
+      "candidate_ids": [
+        "550e2dff4300"
+      ]
+    },
+    {
+      "key": "alecto",
+      "company_guess": "Alecto",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "f58ea3967607",
+        "89da8eae8350",
+        "198a3dd7f8dd",
+        "4c43858071e2"
+      ]
+    },
+    {
+      "key": "arva",
+      "company_guess": "Arva AI",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "c268e59709e8",
+        "9b1bbf254ff3"
+      ]
+    },
+    {
+      "key": "valkryn",
+      "company_guess": "Valkryn",
+      "amount_hint_usd": 17000000,
+      "candidate_ids": [
+        "508461a7b91d"
+      ]
+    },
+    {
+      "key": "native",
+      "company_guess": "AI-native",
+      "amount_hint_usd": 15000000,
+      "candidate_ids": [
+        "7ef886c24374"
+      ]
+    },
+    {
+      "key": "henfruit",
+      "company_guess": "Henfruit",
+      "amount_hint_usd": 15000000,
+      "candidate_ids": [
+        "a8088a741707"
+      ]
+    },
+    {
+      "key": "defense tech startup",
+      "company_guess": "Defense tech startup",
+      "amount_hint_usd": 15000000,
+      "candidate_ids": [
+        "db1f846f8d3c"
+      ]
+    },
+    {
+      "key": "gama",
+      "company_guess": "Gama",
+      "amount_hint_usd": 15000000,
+      "candidate_ids": [
+        "93b0de3e80de"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "a42dd7fd09f9",
+      "title": "AI Drug Design Lab Isomorphic Labs Raises $5B Series C",
+      "publisher": "Wowtale",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EN3d3RGxtNXFTT0FoQnhuVXQ4VzVyb1dzbDc0cXVvX1VjZF9pbE5ib0VWR2E2SnQ5R0tmMHdVeDAxUHV3dWhjUWRENjAtTzVteVI0?oc=5",
+      "published_at": "2026-11-17T21:54:20.000Z",
+      "publisher_url": "https://en.wowtale.net",
+      "snippet": "AI Drug Design Lab Isomorphic Labs Raises $5B Series C Wowtale",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 5000000000,
+        "currency": "USD",
+        "raw": "$5B"
+      },
+      "company_guess": "Isomorphic Labs",
+      "group_key": "isomorphic",
+      "group_rank": 0,
+      "resolved_url": "https://en.wowtale.net/2026/11/18/236070/?utm_source=rss&utm_medium=rss&utm_campaign=ai-drug-design-lab-isomorphic-labs-raises-5b-series-c",
+      "text": "Bringing a single drug to market typically takes about a decade and costs on the order of a billion dollars, with the early search for candidate molecules among the slowest and most expensive stages. Isomorphic Labs, the Google DeepMind spin-out that wants to shorten that stage with AI, has raised a $5 billion Series C.\nIsomorphic Labs was founded in 2021 and is headquartered in London, with offices in Cambridge, Massachusetts and Lausanne, Switzerland. Its core asset is IsoDDE, a proprietary drug design engine that unifies a suite of foundational simulation AI models working across multiple therapeutic areas and drug modalities. The engine explores vast chemical spaces so the company’s team can design and refine molecules with drug-like properties.\nThe company says the models push predictions toward experimental accuracy, and that combining them with its own agents, which reason over complex biological systems, lets advances carry over repeatedly into its candidate pipeline. It reports positive preclinical results for internal programs in oncology and immunology and for partnered programs, and says it is preparing to enter the clinic.\nFounder and CEO Sir Demis Hassabis co-founded Google DeepMind and shared the 2024 Nobel Prize in Chemistry for AlphaFold. Max Jaderberg is President. The company describes its team as machine learning researchers working alongside experienced drug hunters.\nIsomorphic announced the $5 billion round on November 17. Greenoaks and Sequoia Capital co-led, with a16z and several other new investors joining. Parent Alphabet continued to invest significantly. All existing investors took part: Thrive Capital , MGX , GV , CapitalG , Temasek and the UK Sovereign AI Fund. The valuation was not disclosed.\nIt follows an initial $600 million external round in 2025 and a $2.1 billion Series B in May, and is larger than both.\nThe company will use the money to mature IsoDDE and push into new biology with more advanced models. It is also building a partner ecosystem to improve the understanding of disease mechanisms, along with AI-first translational and clinical development infrastructure, as it moves its candidates toward clinical trials.\nHassabis said the company was founded on the conviction that biology could be modelled at the most fundamental molecular level and sped up with AI, and that the round lets it drive its first therapeutic programs toward the clinic. Jaderberg said the models produce repeatable scientific advances every week that translate into better molecular profiles. Greenoaks founder Neil Mehta said Isomorphic is building deep learning systems that predict complex biological behavior and map the path to new medicines, and Sequoia partner Konstantine Buhler said it is inspiring to see the team turn advanced AI into a growing portfolio of drug candidates.\nCapital Keeps Flowing to AI Drug Design\nLarge rounds are going to AI drug design across the board. Chai Discovery raised $400 million led by Index Ventures at a $3.8 billion valuation, and Eli Lilly and Pfizer already use its platform. Basecamp Research raised a $140 million Series C to move its in-body cell therapy pipeline toward the clinic. Superluminal, which uses AI to find drugs for GPCR targets, raised a $60 million Series B and expects its obesity drug candidate to enter the clinic this year.\nSome players invest differently. Pathos AI raised a $237 million Series E led directly by drugmaker Bristol Myers Squibb at a valuation of about $3 billion. It uses AI to decide which clinical assets to back rather than designing drugs itself. Formation Bio set up a $600 million fund to buy 10 to 15 stalled clinical-stage drugs and develop them with AI. Warp Sciences, a chemistry CRO founded by former OpenAI science head Kevin Weil, raised a $215 million Series A to have chemists and robots synthesize drug candidates together.\nBig pharma and frontier AI labs are moving in too. Nvidia and Eli Lilly launched a joint AI drug discovery lab with up to $1 billion over five years. OpenAI acquired drug discovery AI agent startup Orchestra Bio, and Anthropic bought Coefficient Bio for $400 million. a16z argues that AI will make pharma even bigger by raising the odds of success and shortening development time.\nOutside Wowtale’s coverage, Xaira Therapeutics, which launched in 2024 with about $1 billion, and Recursion, which merged with Exscientia the same year, are among the best-known names. Isomorphic signed research collaborations with Eli Lilly and Novartis in 2024, and its pitch is that it pairs models with the backing of parent Alphabet and builds its own pipeline of drug candidates directly.\nFor more on competitors, see here .",
+      "text_status": "ok"
+    },
+    {
+      "id": "2369c850bf46",
+      "title": "Isomorphic Labs Raises $5 Billion Series C For AI Drug Discovery Platform",
+      "publisher": "Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ09Lbk96eWJRZjRGZEdhdFpZVmpzLVlHVHQzZFJLTkNjOWxjUndodHJERXAzbURkV2pyWUoxM0JDNGExR1VKZ1dvV2dBZmRHUGphZ0JBd3hHLUU4eGU5Ni02UjlEVW5YTEpQWWtqSGQ3SGhUN1E0REMxNmo2WnZfam8xanI4eHNzQktuV0YzS2JWVEZyVnhj?oc=5",
+      "published_at": "2026-11-17T16:30:15.000Z",
+      "publisher_url": "https://pulse2.com",
+      "snippet": "Isomorphic Labs Raises $5 Billion Series C For AI Drug Discovery Platform Pulse 2.0",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 5000000000,
+        "currency": "USD",
+        "raw": "$5 Billion"
+      },
+      "company_guess": "Isomorphic Labs",
+      "group_key": "isomorphic",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "54171fbae304",
+      "title": "Space Force raises SpaceX, ULA and Blue Origin launch contracts by up to $985 million",
+      "publisher": "MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONTR2aGF2S0RnbzJ2WWE1MlVLMFZDSEljUEJlV0hWdXJuS0RsREpTbC0ySzhUS3dDTUlUQlAwcF91Z2F0NVNOclp3YjAwWmRVNDhCQjIyV1BLZEZ1elZFNjZlM3EyeWpEazZnXzZCR1VqalNVT0tfMC1JY21meFFoM2xKWGItVm5WYThpM1JqdlJ5cFpxMExBRWk2ZE52WWEtTUVpREpINA?oc=5",
+      "published_at": "2026-11-17T23:21:31.000Z",
+      "publisher_url": "https://mlq.ai",
+      "snippet": "Space Force raises SpaceX, ULA and Blue Origin launch contracts by up to $985 million MLQ.ai",
+      "source_feed": "gnews-g9",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 985000000,
+        "currency": "USD",
+        "raw": "$985 million"
+      },
+      "company_guess": "Space Force",
+      "group_key": "space force",
+      "group_rank": 0,
+      "resolved_url": "https://mlq.ai/news/space-force-raises-spacex-ula-and-blue-origin-launch-contracts-by-up-to-985-million/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "21eee2dd6aad",
+      "title": "Onward Therapeutics Closes NT$900 Million (approximately US$28 Million) Series B Financing to Advance Clinical-Stage Oncology Pipeline",
+      "publisher": "",
+      "link": "https://www.prnewswire.com/news-releases/onward-therapeutics-closes-nt900-million-approximately-us28-million-series-b-financing-to-advance-clinical-stage-oncology-pipeline-302942490.html",
+      "published_at": "2026-11-17T23:00:00.000Z",
+      "publisher_url": null,
+      "snippet": "First capital increase since relocating global headquarters to Taiwan; Company targets Emerging Stock Board registration by the end of 2027 TAIPEI and EPALINGES, Switzerland and PARIS, Nov. 17, 2026 /PRNewswire/ -- Onward Therapeutics, Inc. (\"Onward Therapeutics\" or the \"Company\") today...",
+      "source_feed": "prnewswire-vc",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 900000000,
+        "currency": "USD",
+        "raw": "$900 Million"
+      },
+      "company_guess": "Onward Therapeutics",
+      "group_key": "onward therapeutics",
+      "group_rank": 0,
+      "resolved_url": "https://www.prnewswire.com/news-releases/onward-therapeutics-closes-nt900-million-approximately-us28-million-series-b-financing-to-advance-clinical-stage-oncology-pipeline-302942490.html",
+      "text": "Onward Therapeutics Closes NT$900 Million (approximately US$28 Million) Series B Financing to Advance Clinical-Stage Oncology Pipeline\nUSA - English\nAPAC - English\nAPAC - Traditional Chinese\nNews provided by\nOnward Therapeutics, Inc.\nNov 17, 2026, 18:00 ET\nShare this article\nShare this article\nFirst capital increase since relocating global headquarters to Taiwan; Company targets Emerging Stock Board registration by the end of 2027\nTAIPEI and EPALINGES, Switzerland and PARIS , Nov. 17, 2026 /PRNewswire/ -- Onward Therapeutics, Inc. (\"Onward Therapeutics\" or the \"Company\") today announced that it has closed its NT$900 million (approximately US$28 million) Series B financing. The round was raised in two closings, the second of which took place in October 2026. It is the Company's first capital increase in Taiwan since it completed its share exchange and moved its global headquarters from Switzerland to Taiwan in October 2025. Before the share exchange, the Company had raised a total of CHF 75.5 million (approximately US$90 million) in its previous rounds. Proceeds from the Series B will fund the Company's clinical programs, the manufacturing of clinical supplies, and early-stage R&D.\nExisting individual and institutional shareholders, including CDIB Capital Healthcare Ventures and Hong Kong Chlitina International, continued to support the Company in this round. New institutional investors include Beiley Biofund, Everbright Biofund, Test Rite International Co., Ltd., Grand Fortune Venture Capital, Hercules Bioventure Partners, MitoBitTech Venture, and Top Taiwan Venture Capital. A number of individual investors also joined the round.\nDr. C. Grace Yeh, Chairperson and CEO of Onward Therapeutics, said, \"This financing, our first since establishing our global headquarters in Taiwan, allows us to advance our clinical programs while building our R&D presence here. We are grateful for the continued support of our existing shareholders and welcome our new investors. Many patients with difficult-to-treat or relapsed cancers still have limited treatment options. We aim to bring them new options through different types of cancer therapies.\"\nOnward Therapeutics' portfolio includes two clinical-stage programs (an innovative bispecific antibody and an allogeneic cell therapy) and two early-stage drug discovery programs.\nOT-A201 is a tetravalent bispecific antibody designed to address complementary mechanisms of tumor immune evasion and potential resistance to existing therapies. In solid tumors, OT-A201 has completed monotherapy dose escalation and advanced to Phase 1b, where planned studies include indication-specific expansion cohorts and combination regimens. In hematologic malignancies, enrollment in the Phase 1a study is expected to be completed by the end of 2026. Preliminary clinical activity, including tumor responses and disease stabilization, has been observed across different cancer types with a manageable safety profile, supporting further clinical investigation.\nOT-C001 is an off-the-shelf, allogeneic natural killer (NK) cell therapy derived from umbilical cord blood. It is being evaluated in combination with rituximab in a Phase 1 clinical trial in France for patients with diffuse large B-cell lymphoma (DLBCL) who have relapsed after, or are refractory to, prior CAR-T and T-cell engager therapies. Preliminary results indicate a favorable safety profile, and several cases of complete metabolic response have been observed. Enrollment and follow-up are ongoing.\nOnward Therapeutics' early-stage pipeline includes a small-molecule project in onco-metabolism (OT-S00X) and an antibody program against tumor-associated antigens (OT-A30X) with potential first-in-class characteristics.\nDr. Armand de Gramont, one of the Company's three co-founders, was promoted from Chief Scientific Officer to President of R&D in April 2026. He oversees the Company's overall R&D strategy and clinical development. \"Our priority is to translate innovative science into meaningful clinical results. By focusing on indications where our therapies have the greatest potential to overcome treatment resistance, we aim to build a differentiated oncology pipeline to deliver new treatment options for patients,\" said Dr. de Gramont.\nOnward Therapeutics has signed a listing advisory agreement with a securities firm and begun preparing to register on the Taipei Exchange's Emerging Stock Board by the end of 2027. In addition, the Company plans to expand its team and start clinical trials in Taiwan, further strengthening its local R&D presence.\nAbout Onward Therapeutics\nFounded in November 2019, Onward Therapeutics, Inc. is a clinical-stage drug development company focused on overcoming cancer drug resistance. Headquartered in Taipei, Taiwan, with teams in Switzerland and France, the Company is developing a multi-modality portfolio to bring new treatment options to patients with difficult-to-treat or relapsed cancers. For more information, visit www.onward-therapeutics.com .\nForward-Looking Statements\nThis press release contains forward-looking statements, including statements about clinical development plans, timelines, and the Company's planned registration on the Emerging Stock Board. These statements are based on current expectations and involve risks and uncertainties, and actual results may differ materially. Onward Therapeutics undertakes no obligation to update these statements.\nSOURCE Onward Therapeutics, Inc.\n&times;\nModal title",
+      "text_status": "ok"
+    },
+    {
+      "id": "0b7d810eb605",
+      "title": "Onward Therapeutics Closes NT$900 Million (approximately US$28 Million) Series B Financing to Advance Clinical-Stage Oncology Pipeline",
+      "publisher": "StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNZkJVLUtzZ3dvcno0UE9TbWtXVHptMlB6cE1lS29fUUZSMjQwQmNqZU1PX0Q0T0IzT2lwb08xRGJyUXo4SGhDYjBYWUtTQ3hUU3VNdS1lQWxjeGRuQnc0RmZXdXVLTks4dnlodlpWTUdfWUR2RWFpWmNJUGE0d1Z1ekJtOXlTekhwTXNNR0tPekdxZ19IaGJ0dDNtRFg2NXQ2TzNING53SWZJeDRoSmNHWWdMOTA5M2stR0hIYV8td3BBRFRjWnhFbDRfZDJQR0ozc2s0WG9SeTZFMU14a0ZLcTZ6OXFHc0d1SVJENXI5WG5kd3UtaHY4amQxekVDVlFxcU9TY1BoQmJkVDdaWWRxVTFYNi1fMi1mM0lNbWNYLWduZDA?oc=5",
+      "published_at": "2026-11-18T00:03:04.000Z",
+      "publisher_url": "https://www.streetinsider.com",
+      "snippet": "Onward Therapeutics Closes NT$900 Million (approximately US$28 Million) Series B Financing to Advance Clinical-Stage Oncology Pipeline StreetInsider",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 900000000,
+        "currency": "USD",
+        "raw": "$900 Million"
+      },
+      "company_guess": "Onward Therapeutics",
+      "group_key": "onward therapeutics",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "25ca6049d787",
+      "title": "Exclusive | Argonaut Private Equity Raises $606 Million to Buy Industrial Businesses",
+      "publisher": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZldMZkZaXzRDSlNDZjJISWVDTWZXLWprd3dodXdVRVYtb2ZvdTNuYjBIRGFoSC16SGVBS0trVklBRENaU0lfaDUzRFpxUExUaUZQb2dpalpQUk1lRlNJVE1EMHVJdnp4dWtnYU1mRmJVTjBveUxsQ2gwOXMyTGo4VTFJWmZWbEMwaGQyM0FIUHVVdnlpRmF1V3VwS1VrRnNMaC0xWC04eUxNQjBmd01zd1BMMVMwQ2Yyc0lN?oc=5",
+      "published_at": "2026-11-17T07:54:14.000Z",
+      "publisher_url": "https://www.wsj.com",
+      "snippet": "Exclusive | Argonaut Private Equity Raises $606 Million to Buy Industrial Businesses WSJ",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 606000000,
+        "currency": "USD",
+        "raw": "$606 Million"
+      },
+      "company_guess": "Exclusive",
+      "group_key": "exclusive",
+      "group_rank": 0,
+      "resolved_url": "https://www.wsj.com/pro/private-equity/argonaut-private-equity-raises-606-million-to-buy-industrial-businesses-846ef895",
+      "text_status": "blocked:401"
+    },
+    {
+      "id": "b6da5f4ab043",
+      "title": "Genesis AI raises $500M to deploy glove-wearing robots",
+      "publisher": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObHhyRC1XRF9xXzdGcUtGZWtOVDdnT01na21ranFlSE1LcnNCVU9PZWltd21oaVpmblZ2djduZzdDNlJIeG93U2ZaM0xmYWd1TkhPRXplek0zRHdOM3BhclhLdXlkVzJGclZ6UmdqYmJKU1Q5aU5ZOXA1c3ZwSktERGlIQW1BNGR0aXE4Nzh6SkdWcEswUVQzOUtPdi04Njg2VHY4ZmswNA?oc=5",
+      "published_at": "2026-11-17T14:00:00.000Z",
+      "publisher_url": "https://techcrunch.com",
+      "snippet": "Genesis AI raises $500M to deploy glove-wearing robots TechCrunch",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 500000000,
+        "currency": "USD",
+        "raw": "$500M"
+      },
+      "company_guess": "Genesis AI",
+      "group_key": "genesis",
+      "group_rank": 0,
+      "resolved_url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+      "text": "Genesis AI has “cracked dexterous manipulation,” CEO and co-founder Zhou Xian says.\nTo make his case, Xian hosted TechCrunch at Genesis AI’s Silicon Valley facility, where its physical AI model operated a pair of off-the-shelf robotic arms. In one demo, the arms picked up two small cardboard boxes, scanned them, placed them in a larger cardboard box, folded it closed, taped it shut, and then plucked a label off a strip of printer tape and applied it to the box.\nIt’s an impressive demo, exactly the kind of complex workflow that today’s robots struggle to complete. And while Genesis wouldn’t let your reporter mess with the robot’s mise en place to test its wiles, the company did agree to rerun the presentation. During the second go-round, the robot fumbled a box and had a heck of a time peeling the tiny adhesive label off the printer tape. A mistake, but also the kind of edge case that can be used to improve a model — “hiccup data,” a Genesis executive suggests.\nThis is the exact gap — between a lab demo and reliable automation — that Genesis , and the rest of the humanoid physical AI ecosystem, need to bridge if they want to avoid another robot winter. To do so, Xian’s company is announcing a $500 million Series A round led by Khosla Ventures, Premji Invest, and Eclipse.\nXian and Genesis president Théophile Gervet, who met as graduate students in a Carnegie Mellon University lab, co-founded the company in 2024. Genesis announced its $105 million seed round in July 2025. The company’s strategy is vertical integration: generating the bulk of its own training data, developing its own generative AI model, and doing both in concert with the design and construction of a humanoid robot.\n“We wanted to ship the best robot, end-to-end product,” Xian said.\nThe startup’s focus on dexterity — the robot’s ability to do stuff with its hands — and gathering the right data to achieve it sets it apart from competitors like Figure or Agility. Genesis gathers force data (apparently the unlock for effective manipulation) using a sensor-enabled glove. The gloves, and accompanying headset cameras, are worn by more than 100 real workers around the world, whose activities contribute to a training dataset that feeds into the company’s model.\nThe company’s robots wear the same sensor-equipped gloves, and their “hands” are designed to mimic the proportions of human hands. That fidelity, Xian says, enables the robots’ capabilities in sorting and wire manipulation.\nThe other big investment the company has made is in simulation. One of its advisers, Minchen Li, is a co-author of an influential physics algorithm used by the startup to create millions of high-fidelity models of the robot’s experience.\nStill, about that robot: Xian said that the company’s model was more capable when operating Eno, Genesis’ flagship humanoid robot. But Eno wasn’t ready to demonstrate its abilities for TechCrunch.\nA handsome machine bearing more than a hint of the late Steve Jobs’ influence on tech gadgets and their marketing, Eno reflects “the feeling” the company wants to deliver to its customers. That means less of a Terminator-style metal skeleton and more of an iMac on wheels.\nA pair of robotic arms, left, and Genesis AI’s Eno Robot, right. Image Credits: TechCrunch / Tim Fernholz\nGenesis said it has built 30 to 40 Enos but wasn’t ready to share how many it would make in the year ahead. The company would only say that a mass-manufacturing contractor had been chosen to start work next year in the U.S. and that the design of the mass-produced version had been finalized. The company is piloting the machine with a handful of undisclosed customers.\nTo realize the company’s vision, Xian says the key bottleneck is hardware capability, both in mechanical design and in the supply chains needed to produce industrial-grade machines. Right now, the company’s dexterous hands can only operate for a few weeks of regular work before they need to be replaced.\nFor truly generalized robotic intelligence, Genesis needs more data. Xian pooh-poohs the finer distinctions between architectures like vision-language-action models and world action models . In his view, the software is ultimately transformers and attention, so “what really matters is the whole infra — the training infrastructure, the data infrastructure, and the quality of the data.” He estimates that “the model architecture contributes to maybe 10% of the final [result].”\n“I don’t think we expect or we need another fundamental scientific leap,” he told TechCrunch. “No, we have all the recipes. It’s just about execution.”\nTopics\nGenesis AI , Robotics\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\nTim Fernholz\nSenior Reporter\nTim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C.\nYou can contact or verify outreach from Tim by emailing [email protected] or via an encrypted message to tim_fernholz.21 on Signal.\nView Bio\n2027\nSan Francisco\nGet an Early Peek at the Next TechCrunch Disrupt\nDisrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line.\nSign up for our waitlist\nRegister Now\nMost Popular\nFBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’\nZack Whittaker\nWhere was Nvidia’s security team?\nConnie Loizos\nElon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang\nAnthony Ha\nThe unfolding Jensen Huang scandal: a timeline\nAmanda Silberling\nMicrosoft’s latest email outage turned into a full-blown global cloud crisis\nZack Whittaker\nJensen Huang didn’t show confidence in his",
+      "text_status": "ok"
+    },
+    {
+      "id": "3dea64365739",
+      "title": "Robotics startup Genesis AI raises $500m backed by Nvidia",
+      "publisher": "Sifted",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1c3VtQkRvTHBNQVRCX2k2WVdOWmJHUlJCNGhUdldPMnJTN3RhenFoMWV1Z3BESFhYaEhqaXN6NEtQN3lPZ0c5Y1JOelljbVR4ck9aYms3dFpjaFRXMGc?oc=5",
+      "published_at": "2026-11-17T14:04:07.000Z",
+      "publisher_url": "https://sifted.eu",
+      "snippet": "Robotics startup Genesis AI raises $500m backed by Nvidia Sifted",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 500000000,
+        "currency": "USD",
+        "raw": "$500m"
+      },
+      "company_guess": "Genesis AI",
+      "group_key": "genesis",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "5c352f627169",
+      "title": "Genesis AI Raises $500 Million to Scale Robots With Human-Like Dexterity",
+      "publisher": "PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSEZRTktORjhOMjJHaV9RUlJJbDBsRjlqdl9RUXlIU1M4dE5lRWhBMDdHRWhYSUY1ZUF3bEVvR2x6UzB0YnhIRG9HcHo3N0YzNm9oMmpacnJvN0RJR3B0NE8wdHR0bTZObmJTOU1IODI0cFJjRUFLVXdORFp1dk5XZU5kemVNcE1wNFJKNHZ1U0RvbC1ubklQSDFFeHI4WkxEUVN0ZzhOeUdCN1hhcmxITmN4WmFuR2J0Y2ZBYV9xeFlxQQ?oc=5",
+      "published_at": "2026-11-17T18:39:08.000Z",
+      "publisher_url": "https://www.pymnts.com",
+      "snippet": "Genesis AI Raises $500 Million to Scale Robots With Human-Like Dexterity PYMNTS.com",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 500000000,
+        "currency": "USD",
+        "raw": "$500 Million"
+      },
+      "company_guess": "Genesis AI",
+      "group_key": "genesis",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "2c07e7d52f22",
+      "title": "French Robotics Startup Genesis Raises $500 Million in Series A, Valuation Soars to $3.5 Billion with Nvidia Participating",
+      "publisher": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42WHh3TnFfUnNNWlFkdklpbnZ3WjZ0Z1NCZ0FVVjRETDIzcy1sMEpEdVF4aHhEU3B3NWo4VnluZnU4VXNBblh6VEtaMTJENkVxTms3OExhZEd5RmI4Q3A2MG5VREJwZUdoc2M0VlBvX1JISzBvUUE?oc=5",
+      "published_at": "2026-11-18T04:25:00.000Z",
+      "publisher_url": "https://finance.biggo.com",
+      "snippet": "French Robotics Startup Genesis Raises $500 Million in Series A, Valuation Soars to $3.5 Billion with Nvidia Participating BigGo Finance",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 500000000,
+        "currency": "USD",
+        "raw": "$500 Million"
+      },
+      "company_guess": "Genesis",
+      "group_key": "genesis",
+      "group_rank": 3,
+      "text_status": "skipped"
+    },
+    {
+      "id": "190d00d32d42",
+      "title": "MetLife Investment Management Closes $370 Million Opportunistic Real Estate Debt Fund",
+      "publisher": "Kevin Parker",
+      "link": "https://www.citybiz.co/article/935212/metlife-investment-management-closes-370-million-opportunistic-real-estate-debt-fund/",
+      "published_at": "2026-11-17T21:57:42.000Z",
+      "publisher_url": null,
+      "snippet": "MetLife Investment Management (MIM), the institutional asset management business of MetLife Inc. (NYSE: MET), has closed its MetLife Opportunistic Real... Read More\nThe post MetLife Investment Management Closes $370 Million Opportunistic Real Estate Debt Fund appeared first on citybiz .",
+      "source_feed": "citybiz",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 370000000,
+        "currency": "USD",
+        "raw": "$370 Million"
+      },
+      "company_guess": "MetLife Investment Management",
+      "group_key": "metlife investment management",
+      "group_rank": 0,
+      "resolved_url": "https://www.citybiz.co/article/935212/metlife-investment-management-closes-370-million-opportunistic-real-estate-debt-fund/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "acaf94822cff",
+      "title": "LangChain raises $300M Series C for agent operations",
+      "publisher": "Quasa.io",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObjAyS1Q5eVRGdTd1aFJ0NnZSMENCVnpYX21hajBRako4NFBTUXY3SUFKUnE4bWcySzNNWHhHTXZ5YU1wdndjV3BBclVGMER0ZkRDdF9uTzhwVEw4dGxtUlI5UmdHcXhRSFh1ODJEZUFwaGNwcFVsa3hKX2V1enl1M1B6eUVxazBhRHZsaWVHV2RFdUVUY2d6Zw?oc=5",
+      "published_at": "2026-11-17T18:58:00.000Z",
+      "publisher_url": "https://quasa.io",
+      "snippet": "LangChain raises $300M Series C for agent operations Quasa.io",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 300000000,
+        "currency": "USD",
+        "raw": "$300M"
+      },
+      "company_guess": "LangChain",
+      "group_key": "langchain",
+      "group_rank": 0,
+      "resolved_url": "https://quasa.io/stories/langchain-raises-300m-after-shifting-from-framework-to-agent-control",
+      "text": "Langfuse vs LangSmith: Free Self-Hosting Meets Native LangGraph Depth\nOct 20, 2026 · AI & Automation · 5",
+      "text_status": "thin"
+    },
+    {
+      "id": "eeff3a9f2a6d",
+      "title": "Model ML raises $250m in Series B funding at $1.5bn valuation",
+      "publisher": "FinTech Futures",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWNQbWdPdy1nVTgxN1ZaTXpGdVlMSUxvWDdINHJxNEhmbWlrdjZpQTRMaHJEclZVSVk2OWRYMUo4cmNVU3hkcUt0OTRTdmpYLUhWWDNSb2hhcXFKcGU2TFgydlVQS0VoLXFFaWxpdzVIYldNTHl5cHJrOC1XRjRsSmoxNUNRdDBwRENzUUdYRXdZVkNReEtPMTRMbWVSUDZJUlV0ekFLUERuVnc?oc=5",
+      "published_at": "2026-11-18T06:00:39.000Z",
+      "publisher_url": "https://www.fintechfutures.com",
+      "snippet": "Model ML raises $250m in Series B funding at $1.5bn valuation FinTech Futures",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 250000000,
+        "currency": "USD",
+        "raw": "$250m"
+      },
+      "company_guess": "Model ML",
+      "group_key": "model ml",
+      "group_rank": 0,
+      "resolved_url": "https://www.fintechfutures.com/venture-capital-funding/model-ml-250m-series-b-funding-round-1-5bn-valuation",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "0b79e137bd5c",
+      "title": "Model ML Raises $250M at $1.5B Valuation for Personal AI Agents in Finance",
+      "publisher": "Wowtale",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yQ1RFRkZwamxab0l3TmRFTUNsLWNHQ3dMM1daVWNhRzRGR1RRWXZyeTVyUDNOeDNzbEdkRjNmZ01vS3UzbnptLWFBZmlJMHhoODZ3?oc=5",
+      "published_at": "2026-11-17T22:34:04.000Z",
+      "publisher_url": "https://en.wowtale.net",
+      "snippet": "Model ML Raises $250M at $1.5B Valuation for Personal AI Agents in Finance Wowtale",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 250000000,
+        "currency": "USD",
+        "raw": "$250M"
+      },
+      "company_guess": "Model ML",
+      "group_key": "model ml",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "8bb406b8f1f0",
+      "title": "Model ML raises $250 million at a $1.5 billion valuation for AI agents built for bankers and consultants",
+      "publisher": "MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaHRZTG8zd29fcUJpZEU4WWFEZ2h3NEM5UW9VNGFCMmliZFc4MldVR3ZGSElDOUttQ1lHd2podTJ4SFNfOENDR3dZalV3VjN1MFJ1ZmJzQkVIRjQ4TEFKbGZPcGI0bW51aGJqYWcyRW5PaVRNVHY1SWQtTzlabFRJWFNGMFJLalB6bFUzVTVaSDZfS2Z0dkVjWlJRcU1qN1JRaVk2UXBaR1V4cGdZVm9kUjdSaG8zcGpCNjl6T1RDaw?oc=5",
+      "published_at": "2026-11-17T16:04:26.000Z",
+      "publisher_url": "https://mlq.ai",
+      "snippet": "Model ML raises $250 million at a $1.5 billion valuation for AI agents built for bankers and consultants MLQ.ai",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 250000000,
+        "currency": "USD",
+        "raw": "$250 million"
+      },
+      "company_guess": "Model ML",
+      "group_key": "model ml",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "8ad43bf6d93a",
+      "title": "AI agent startup Model ML raises $250M at $1.5B valuation, led by General Atlantic and QED",
+      "publisher": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FeUViTWxJbllGQWtPNVozUElYZkNjNWdNMGdtZWN0TktURkttZXR0eHlqWTl4U09TOHJ0SWZvUEJVU0htY2pxQzN3NHRlRTBPVGhGR2xPUTB1OW54YmRFSHItWWtMazB0ZjBqRUFaRXZNSHVpdXc?oc=5",
+      "published_at": "2026-11-18T01:56:00.000Z",
+      "publisher_url": "https://finance.biggo.com",
+      "snippet": "AI agent startup Model ML raises $250M at $1.5B valuation, led by General Atlantic and QED BigGo Finance",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 250000000,
+        "currency": "USD",
+        "raw": "$250M"
+      },
+      "company_guess": "Model ML",
+      "group_key": "model ml",
+      "group_rank": 3,
+      "text_status": "skipped"
+    },
+    {
+      "id": "df722fd15a1f",
+      "title": "Model ML Raises $250 Million to Automate Investment Banking",
+      "publisher": "www.tokenpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SSkw0aE43OFBjMl9GNzBmQ2gzTVd0VFNENnJpNVc2VU5acmlYNUU4T1FGZlR5N1F1UzJFWTB4Y2xlaVdWeGNJemVXQXFld2J0d2RRekc2WWw?oc=5",
+      "published_at": "2026-11-17T19:42:31.000Z",
+      "publisher_url": "https://www.tokenpost.com",
+      "snippet": "Model ML Raises $250 Million to Automate Investment Banking www.tokenpost.com",
+      "source_feed": "gnews-g2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 250000000,
+        "currency": "USD",
+        "raw": "$250 Million"
+      },
+      "company_guess": "Model ML",
+      "group_key": "model ml",
+      "group_rank": 4,
+      "text_status": "skipped"
+    },
+    {
+      "id": "2d24b9f061f9",
+      "title": "Sennder Secures €228 Million To Expand European Road Freight Platform",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/sennder-secures-e228-million-to-expand-european-road-freight-platform/",
+      "published_at": "2026-11-18T04:53:06.000Z",
+      "publisher_url": null,
+      "snippet": "Sennder has secured €228 million in new financing to support its European road freight network, technology platform, artificial intelligence capabilities, and working-capital requirements.\nThe post Sennder Secures €228 Million To Expand European Road Freight Platform appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 228000000,
+        "currency": "EUR",
+        "raw": "€228 Million"
+      },
+      "company_guess": "Sennder",
+      "group_key": "sennder",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/sennder-secures-e228-million-to-expand-european-road-freight-platform/",
+      "text": "Sennder Secures €228 Million To Expand European Road Freight Platform\nBy Amit Chowdhry\nYesterday at 11:53 PM\nSennder Secures €228 Million To Expand European Road Freight Platform\nSennder has secured €228 million in new financing to support its European road freight network, technology platform, artificial intelligence capabilities, and working-capital requirements.\nThe package comprises €155 million in financing facilities and €73 million of additional equity supplied over the previous two years by existing investors led by Scania and Poste Italiane.\nThe financing facilities consist of a €100 million non-recourse factoring line from Coface, a €40 million facility from the European Investment Bank, and a €15 million supply-chain finance program involving cflox and Deutsche Bank.\nAll three facilities are active and are already being drawn.\nEquity Supports Acquisition And Technology Integration\nSennder raised €47 million in equity during the two years preceding 2026 and an additional €26 million in 2026.\nThe €73 million total supported the acquisition and integration of C.H. Robinson’s European Surface Transportation business. Sennder has migrated that operation onto sennOS, its proprietary technology platform.\nThe equity will also support the expansion of sennder’s transport network and deployment of its technology and AI agents to shippers, carriers, and other freight forwarders.\nExisting shareholders provided the entire equity investment, limiting dilution from new investors while demonstrating their continued support for the company’s strategy.\nFacilities Strengthen Working-Capital Position\nRoad freight platforms frequently pay carriers before receiving corresponding payments from customers. Sennder’s new financing facilities are designed to bridge that timing difference.\nBy using external facilities for working-capital requirements, the company can direct more of its equity toward technology, network expansion, and longer-term growth.\nThe €100 million Coface facility is non-recourse, meaning the financing is tied to eligible receivables without giving the lender general recourse to sennder under ordinary circumstances.\nThe European Investment Bank’s €40 million facility represents its second financing commitment to the company. The EIB said its participation supports digital innovation and the development of a more efficient and potentially lower-emission European freight system.\nThe €15 million cflox and Deutsche Bank supply-chain finance program has been active since August 2026. It enables earlier payment for participants in sennder’s network of more than 40,000 vetted carriers.\nFinancing Follows Profitability Milestone\nThe announcement follows sennder’s October 21 disclosure that it had become IFRS EBITDA-positive on an unadjusted monthly basis.\nThe company expects to achieve IFRS EBITDA profitability for the full 2026 financial year and reach €1 billion in annual revenue.\nSennder said reaching profitability has expanded its access to a broader and more attractive range of financing options. The new capital structure combines equity, factoring, venture debt, and supply-chain finance rather than relying on a single source.\nThe diversified structure is intended to improve liquidity, provide greater financial flexibility, and create a scalable foundation for future growth.\nKEY QUOTES:\nOver the past ten years, we have built sennder through innovation and scale. With profitability achieved, we now have the financial flexibility to accelerate our next phase of growth. The €73 million in equity has supported the integration of C.H. Robinson’s European Surface Transportation business, while our new financing facilities free up capital to expand our network, technology platform and AI capabilities. The continued backing of our shareholders, alongside Coface, the EIB, cflox and Deutsche Bank, reinforces our ambition to transform European road freight.\nDavid Nothacker, Co-Founder and CEO of Sennder\nSennder has built a strong position in European road freight, and its move to profitability is the kind of progress we look for in a long-term partner. Our non-recourse factoring line gives sennder dependable access to working capital, and we are glad to support the next stage of its growth.\nAnsgar Kugelstadt, Managing Director of Coface Finanz\nWith this €40 million venture debt financing, the EIB is backing sennder for a second time as it scales Europe’s leading digital road freight platform. By freeing up capital for technology, AI and network expansion, this financing helps sennder turn data into a more efficient, transparent and lower-emission European logistics system.\nNicola Beer, Vice President of the European Investment Bank\nDeutsche Bank has partnered with sennder since its foundation, and we are proud to continue supporting the company as it enters its next chapter. Working with ambitious, entrepreneur-led businesses is central to our Global Hausbank strategy and our ambition to be the go-to bank for innovative companies. This reverse factoring program demonstrates how we combine our global capabilities with tailored solutions to strengthen sennder’s financial position and create additional capacity to invest in its future.\nMilos Spiridonovic, Head of New Economy Coverage at Deutsche Bank\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "12e2268f5404",
+      "title": "Sickle Cell Drug: Marrow Raises $173 Million Without Releasing Anemia or Selectivity Data",
+      "publisher": "Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUHZhQmkzMDZyRDdXcElweEdmeVNtcnBXR0FLR1F1bWRyVGVEanZIYU5pV2pmYWFidERMQ0hZSElFRlYxMXJrbHFZSmdPY0JrRW1VbGNSdDNvQ3RMS0lPNTRIQkFVVDRSNldJcWVuS2R4RE5Gb3VWMzdhYktJS0VoN0RaT1FnaWMteGM3S01halBwOXlnSkcwRktlS255cXMtdm9rQl9GZUZheHNZZ3drNFJkVEpaYWR3Zm42ckFjWjVoR0RIMzM2WlA3eEZHZ3FkaFVrREtB?oc=5",
+      "published_at": "2026-11-17T18:21:54.000Z",
+      "publisher_url": "https://www.techtimes.com",
+      "snippet": "Sickle Cell Drug: Marrow Raises $173 Million Without Releasing Anemia or Selectivity Data Tech Times",
+      "source_feed": "gnews-g2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 173000000,
+        "currency": "USD",
+        "raw": "$173 Million"
+      },
+      "company_guess": "Sickle Cell Drug: Marrow",
+      "group_key": "sickle cell drug marrow",
+      "group_rank": 0,
+      "resolved_url": "https://www.techtimes.com/articles/330910/20261117/sickle-cell-drug-marrow-raises-173-million-without-releasing-anemia-selectivity-data.htm",
+      "text": "By\nBrandi Henkel\nPublished: Nov 17 2026, 1:21 PM EST\nShare on Facebook\nShare on Twitter\nShare on LinkedIn\nShare on Reddit\nShare on Flipboard Share on WhatsApp\nCell lines are prepared in the laboratory of Dr. John Tisdale, a Senior Investigator at the National Heart, Lung, and Blood Institute's Cellular and Molecular Therapeutics Laboratory, at the National Institutes of Health on February 8, 2024, in Bethesda, Maryland. Two Americans whose lives were turned around by newly-approved treatments for sickle cell disease (SCD) tell AFP they want others to benefit too. But the eye-watering cost -- up to $3.1 million per course of treatment -- could limit access for other patients. Tesha Samuels was born in 1982, just before the invention of prenatal screening for SCD, an inherited red blood cell disorder. SCD affects around 100,000 people in the US and some 20 million worldwide. Most people with the condition are Black. Scientists say this is because the sickle cell trait evolved to protect people exposed to malaria, so the risk of SCD is higher. (Photo by Brendan Smialowski / AFP)\nBRENDAN SMIALOWSKI/AFP via Getty Images\nMarrow Therapeutics launched Tuesday with $173 million in Series A and Series B financing to develop MAR-101, a sickle cell and beta thalassemia drug that has not been tested in people and that comes with no public data on the two things it must get right: sparing red cells' iron supply and silencing BCL11A only in the cells that should lose it.\nThe company's pitch is a drug that could stand in for gene therapy, which requires collecting a patient's stem cells, chemotherapy conditioning and a specialized treatment center. Marrow has not said when MAR-101 will enter the clinic, and its claims about efficacy and safety come from the company alone.\nFor patients, families and investors, the useful question is what would have to be true for the pitch to hold. This article lays out the two technical tests MAR-101 faces, the gene therapy results it is measured against, including Editas Medicine's reni-cel and Vertex's Casgevy, and the disclosures that would show whether it passes.\nSeries B Led by OrbiMed Supplies 69 Percent of Marrow's $173 Million Raise\nThe $53 million Series A was co-led by Scion Life Sciences , which founded Marrow, and venBio. OrbiMed led the $120 million Series B, which also drew all Series A investors plus RTW Investments, Surveyor Capital (a Citadel company), Opaleye, NEXTBio Capital, Affinity Advisors, KKR, Spruce Street Capital and Columbia Threadneedle Investments. BioPharma Dive counts eleven investors in all .\nThe Series B is about 69 percent of the total. Part of the money will build manufacturing, which CEO Romesh Subramanian calls a priority for global access. The launch release does not state a use of funds or a location, though BioSpace places the company in Watertown , Massachusetts.\nTransferrin Receptor Is Marrow's Delivery Route and Red Cells' Iron Supply Line\nMarrow's platform, called Transferrin Antibody Bioconjugate (TAB) , uses engineered antibodies that bind transferrin receptor 1 (TfR1), the receptor cells use to take up iron, to carry payloads into bone marrow. MAR-101 is a twist on the antibody-drug conjugate: a small interfering RNA (siRNA) rides on the antibody where a toxin would normally go, and once marrow cells take it up, the siRNA lowers production of BCL11A, the protein that keeps fetal hemoglobin switched off after infancy.\nThe same receptor is the main iron-entry route for most cells , especially developing red cells, which is where the risk sits. A March 2026 Dyne Therapeutics poster says anemia has been reported in nonclinical and clinical work on biologics that use TfR1 to deliver payloads to muscle and the central nervous system. An Avidity Biosciences trial poster lists hemoglobin decrease or anemia among treatment-related adverse events in its TfR1-targeted facioscapulohumeral muscular dystrophy program, in two or more participants.\nDyne's own monkey studies found no anemia with its TfR1 platform, according to a poster authored by company employees or advisors. Reticulocytes, the immature red cells, dipped briefly 24 to 72 hours after dosing with two payload types but not with its siRNA version, and hemoglobin stayed unchanged. Patent filings on anti-TfR antibodies describe reducing or eliminating the antibody's immune-effector function as one approach to limiting reticulocyte depletion, which points to antibody design as one lever.\nBioPharma Dive reports that earlier iterations of these therapies could not safely treat inherited blood disorders, and Subramanian said the company believes it has reached drug levels in marrow that are \"efficacious, but also very safe.\" The release discloses no antibody sequences , animal results or dose levels. The muscle and brain programs above deliver to tissues that do not make red cells. Marrow is aiming at the tissue that does.\nThe team knows this ground. Romesh Subramanian co-founded Dyne and later led Ascidian Therapeutics, Fierce Biotech reported . Chief scientific officer Tim Weeden and chief operating and technology officer John Najim are formerly of Dyne, BioSpace reports , and Art Levin joined Marrow's board , Avidity's founding chief scientific officer. A Dyne patent lists Subramanian, Weeden among the inventors of \"Complexes comprising an anti-transferrin receptor antibody linked to an oligonucleotide,\" and Dyne, not Marrow, is its assignee. Marrow has not disclosed its antibody sequences or its patent position.\nRelated\nRoche Trontinemab Brain Scans at Alzheimer's Meeting CTAD Today Test Drug Delivery Claim\nBlood-Brain Barrier Crossed: Denali's FDA Approval Unlocks Alzheimer's Pipeline\nMAR-101 Must Spare B Cells and Blood Stem Cells, and Marrow Has Not Said How\nBCL11A is a repressor that shuts off fetal hemoglobin after birth, and fetal hemoglobin does not sickle. Stuart Orkin's lab at Boston Children's Hospital led BCL11A treatment-target work , and it is the gene Vertex's Ca",
+      "text_status": "ok"
+    },
+    {
+      "id": "955e88812ceb",
+      "title": "Watertown-Based Marrow Therapeuticsm Led By Romesh Subramanian, Launches with $173 Million to Develop Treatments for Severe Blood Disorders",
+      "publisher": "INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNDFQRm92RExMTGlUcDJXbFhHeGMzbWpHTVAyRm04eG1FdWRrZ0V4ZVZkSXZTeE1MQ2pWYjRCQlVQdmhXV3BIYXJodXFBaVhvcHlwTjJ4UGUyT3pmQjR1Z00wNzVxeVFtMk1OQjlZcGVpeDM3cVB0X3N5MVhaREZ5c0ZGMm03em1NYmN5eERJaGJ1X1BUbXd4SEhUazUyX3lpcTBOeTNGSFN0NW9zTTM5Q1VnUG05V2JROG1uUFhOWlJMZ2M3OTk3NTlNcHYyV3hTblhLS2hpMTZqYmFDckFjcmRDa1pBcXdhU25zTC1wOTY5RV85azNrRzJn?oc=5",
+      "published_at": "2026-11-17T21:49:32.000Z",
+      "publisher_url": "https://indianewengland.com",
+      "snippet": "Watertown-Based Marrow Therapeuticsm Led By Romesh Subramanian, Launches with $173 Million to Develop Treatments for Severe Blood Disorders INDIA New England News",
+      "source_feed": "gnews-g8",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 173000000,
+        "currency": "USD",
+        "raw": "$173 Million"
+      },
+      "company_guess": "Watertown-Based Marrow Therapeuticsm Led",
+      "group_key": "watertown based marrow therapeuticsm led",
+      "group_rank": 0,
+      "resolved_url": "https://indianewengland.com/watertown-based-marrow-therapeuticsm-led-by-romesh-subramanian-launches-with-173-million-to-develop-treatments-for-severe-blood-disorders/",
+      "text": "Home / Business / Watertown-Based Marrow Therapeuticsm Led By Romesh Subramanian, Launches with $173 Million to Develop Treatments for Severe Blood Disorders\nBusiness\nWatertown-Based Marrow Therapeuticsm Led By Romesh Subramanian, Launches with $173 Million to Develop Treatments for Severe Blood Disorders\nThe biotech startup, founded by Scion Life Sciences, is developing bone marrow-targeted genetic medicines for sickle cell disease, beta thalassemia and other hematological conditions.\n9 hours ago\n474 2 minutes read\nFacebook X LinkedIn Tumblr Pinterest Reddit VKontakte Odnoklassniki Pocket\nRomesh Subramanian\nWATERTOWN, Mass. — Marrow Therapeutics, a biotechnology company developing genetic medicines for severe blood disorders, has launched with $173 million in combined Series A and Series B financing to advance its proprietary technology platform and develop treatments targeting bone marrow.\nFounded by Scion Life Sciences, Marrow raised $53 million in Series A financing co-led by Scion Life Sciences and venBio. OrbiMed led the $120 million Series B round, which included participation from all Series A investors and new investors RTW Investments, Surveyor Capital, Opaleye, NEXTBio Capital, Affinity Advisors, KKR, Spruce Street Capital and Columbia Threadneedle Investments.\nThe company is led by President and CEO Romesh Subramanian, alongside Tim Weeden, Chief Scientific Officer, and John Najim, Chief Operating Officer and Chief Technology Officer. Gavriel Mullokandov serves as Founder and Vice President of Corporate Development.\nMarrow is developing engineered antibodies designed to deliver genetic medicine directly to bone marrow cells by targeting the transferrin receptor, known as TfR1. Its proprietary Transferrin Antibody Bioconjugate (TAB) platform is intended to deliver therapeutic payloads to bone marrow while minimizing off-target effects and addressing safety, manufacturing and patient-access challenges associated with earlier genetic medicine approaches.\nThe company is advancing multiple programs for blood and bone marrow disorders. Its lead candidate, MAR-101, is currently in investigational new drug (IND)-enabling studies and is designed to treat both sickle cell disease and beta thalassemia. The treatment aims to reduce BCL11a, a regulator of fetal hemoglobin, to reactivate fetal hemoglobin production.\n“We’re at a pivotal moment in genetic medicine and its application in severe blood disorders – the field has validated key targets and shown that genetic approaches can work, but we need to solve the safety and accessibility challenges to truly transform patient outcomes,” Subramanian said. He added that the company’s bone marrow-targeting approach is designed to deliver sustained therapeutic benefits while avoiding risks that have limited earlier treatments.\nMarrow says its platform builds on experience with transferrin receptor biology and is designed to engage the receptor while avoiding unintended effects, particularly anemia risks associated with other TfR1-targeted approaches.\nThe company also announced additions to its board and scientific advisory board. Art Levin, founding Chief Scientific Officer of Avidity Biosciences, has joined the board, while Stuart Orkin, David G. Nathan Distinguished Professor of Pediatrics at Harvard Medical School and an investigator at Boston Children’s Hospital and the Howard Hughes Medical Institute, has joined the scientific advisory board.\nMona Ashiya, General Partner at OrbiMed, said the platform’s potential to address multiple blood disorders through a single therapeutic approach makes it particularly compelling. She pointed to MAR-101’s development for both sickle cell disease and beta thalassemia as an example of the platform’s potential, alongside the company’s broader pipeline.\nAaron Kantoff, co-founder and managing partner at Scion Life Sciences, said Marrow had been built around an experienced leadership team and a platform informed by lessons from earlier TfR1 technologies. He said the company aims to advance its programs into clinical development in the coming year.\nMarrow Therapeutics is developing therapies for sickle cell disease, beta thalassemia and other blood and bone marrow disorders. The company is based in Watertown, Massachusetts.\n9 hours ago\n474 2 minutes read\nFacebook X LinkedIn Tumblr Pinterest Reddit VKontakte Odnoklassniki Pocket\nShare Facebook X LinkedIn Tumblr Pinterest Reddit VKontakte Odnoklassniki Pocket Share via Email Print",
+      "text_status": "ok"
+    },
+    {
+      "id": "315cc4edef37",
+      "title": "General Flash raises $128 million to scale US critical metals production",
+      "publisher": "Mining.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDFFNXg1TEcxdG9Ec2sxeDFEX3ZfUGtEZGVocEVtclJlcVhVQ1R5MV9IRUhQZ0VHbFJaWk9sRDVfV2JjQ0pNNFhVZC1fR2xnZ3dPbzBJMFBhYXE2MDVudDFvQXh5MlhhamFSVHQwOVgyMVN0WkM2Sl9XY1p1Y1RfTFJfNFVHVU5sbGFRYmJKdDE2RElzZXRyVUQ2SQ?oc=5",
+      "published_at": "2026-11-17T23:15:57.000Z",
+      "publisher_url": "https://www.mining.com",
+      "snippet": "General Flash raises $128 million to scale US critical metals production Mining.com",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 128000000,
+        "currency": "USD",
+        "raw": "$128 million"
+      },
+      "company_guess": "General Flash",
+      "group_key": "general flash",
+      "group_rank": 0,
+      "resolved_url": "https://www.mining.com/general-flash-raises-128-million-to-scale-us-critical-metals-production/",
+      "text": "General Flash raises $128 million to scale US critical metals production\nStaff Writer | November 17, 2026 | 3:09 pm\nCritical Minerals Markets USA\nSmelting metal. Stock image.\nCambridge, Massachusetts-based startup General Flash announced Tuesday it has raised $128 million in equity capital across its Seed and Series A rounds to scale domestic production of critical metals essential to national security.\nInvestors include Lux Capital, Construct Capital, Overmatch Ventures, GreatPoint Ventures, Pillar VC, Lowercarbon Capital, Ensemble VC, Ravelin and leading angel investors.\nCritical metals such as tungsten, titanium, zirconium, tantalum and rare earths are vital components in semiconductors, defense, aerospace and advanced manufacturing. In the 20th century, the US developed most of the techniques used to make these materials but allowed production to move overseas, and today it depends heavily on foreign supply, with China accounting for more than 80% of refining capacity.\nStarting January 1, 2027, Department of War rules will bar Chinese supply for many of these critical materials from U.S. defense supply chains. Rules set by the Defense Federal Acquisition Regulation Supplement (DFARS) stipulates any prime contractor or subcontractor supplying goods, services, or technology to the DoW must follow these standards.\nMetal oxides conversion\nGeneral Flash said its process converts metal oxides directly into high-purity, semiconductor-grade metal, with no emissions. The company said it is faster and lower cost than conventional refining and gives the U.S. a way to build cost-effective refining capacity at home instead of relying on foreign supply.\nThe company said its process for metallization will scale from its pilot line near MIT to 1,000 metric tons per year of commercial production in 2027.\nIts Solid-State Flash Electrolysis (SSFE) process is metal-agnostic and can be used to refine materials like tungsten, tantalum, titanium, hafnium, zirconium, germanium, yttrium, niobium, molybdenum, and rare earth elements.\nThe funding will support commercial-scale production by Summer 2027, in what will be one of the largest and most advanced critical materials production plants in the world, the company said.\n“Critical metals are foundational to every advanced industry,” General Flash CEO and member of the visiting committee of the MIT Department of Materials Science and Engineering and research scientist at the MIT Center Ric Fulop said in a news release.\n“We started General Flash because we believe there’s a better, cleaner and more efficient way to make these materials. We’ve already demonstrated it at our multi-ton pilot facility near MIT, and this funding fully finances production of our first large plant in the U.S.”\n“Every advanced industry runs on critical metals, and the way we make them has barely changed in decades,” Lux Capital Partner Peter Hebert said. “General Flash has a genuinely new process, proven at pilot scale, and a founder who has built and scaled a manufacturing company before. We believe it can become one of the important American industrial companies of the next decade.”\nShare\nComments\nCancel reply\nYour email address will not be published. Required fields are marked *\nSave my name, email, and website in this browser for the next time I comment.\nΔ\nNo comments found.\nMore News\nAngloGold Ashanti to invest about $2.5 billion in Colombia copper mine\nConstruction of the project is due to begin in 2028, once the required environmental permits are obtained.\nNovember 17, 2026 | 02:17 pm",
+      "text_status": "ok"
+    },
+    {
+      "id": "6d8ae7fa511a",
+      "title": "General Flash Raises $128 Million To Scale U.S. Critical Metals Production",
+      "publisher": "Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU05wWTd5V0k5Q3dERDIyeEVEWnhaaHZYNEhHTkVmWG5TYkoyTkVUQXNiUll2Rndfdi05RmpjNlpXTHFPVXp3bXpuUlBSa1ZUd0E3SVg4THZEREwtY21DdUxvZzJnMEJKLWxpWlVOc29MT1hBWkV6Y2kteHhEXzRWOGI5YWd3MG90RDk4a2JhVDROelE5SFVR?oc=5",
+      "published_at": "2026-11-17T14:01:24.000Z",
+      "publisher_url": "https://pulse2.com",
+      "snippet": "General Flash Raises $128 Million To Scale U.S. Critical Metals Production Pulse 2.0",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 128000000,
+        "currency": "USD",
+        "raw": "$128 Million"
+      },
+      "company_guess": "General Flash",
+      "group_key": "general flash",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "a8a1ef323593",
+      "title": "Corma Raises $125 Million At $1 Billion Valuation For Cyber Defense AI",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/corma-raises-125-million-at-1-billion-valuation-for-cyber-defense-ai/",
+      "published_at": "2026-11-18T04:02:31.000Z",
+      "publisher_url": null,
+      "snippet": "Corma has raised $125 million in Series A funding at a $1 billion valuation to expand its foundation models and autonomous AI workforce for defensive cybersecurity. NEA led the round, with existing investors Sequoia Capital, Khosla Ventures, and Coatue participating.\nThe post Corma Raises $125 Million At $1 Billion Valuation For Cyber Defense AI appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 125000000,
+        "currency": "USD",
+        "raw": "$125 Million"
+      },
+      "company_guess": "Corma",
+      "group_key": "corma",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/corma-raises-125-million-at-1-billion-valuation-for-cyber-defense-ai/",
+      "text": "Corma Raises $125 Million At $1 Billion Valuation For Cyber Defense AI\nBy Amit Chowdhry\nToday at 11:02 PM\nCorma Raises $125 Million At $1 Billion Valuation For Cyber Defense AI\nCorma has raised $125 million in Series A funding at a $1 billion valuation to expand its foundation models and autonomous AI workforce for defensive cybersecurity. NEA led the round, with existing investors Sequoia Capital, Khosla Ventures, and Coatue participating.\nThe financing comes three months after Corma announced a $60 million seed round led by Sequoia. The company has now raised $185 million in total funding.\nDeveloping Foundation Models For Cyber Defense\nCorma is training foundation models specifically for defensive cybersecurity rather than adapting general coding models to security operations.\nThe company argues that defensive work requires AI systems capable of analyzing large volumes of audit logs, network flows, security alerts, and other operational data.\nThese systems must correlate weak signals across different tools and extended periods while remaining consistent across thousands of decisions.\nCorma deploys its models through an autonomous AI workforce that works alongside enterprise security teams. The agents operate within a customer’s existing security tools and perform tasks across the defensive cybersecurity environment.\nThe company said demand has increased among Fortune 100, Fortune 500, and Fortune Global 500 companies since it emerged from stealth.\nCorma has increased its server capacity by 24 times to support that growth. The company did not disclose customer counts, revenue, or detailed deployment metrics.\nResponding To AI-Powered Attacks\nCorma’s strategy is based on the view that improvements in AI coding capabilities also strengthen offensive cybersecurity.\nModels capable of identifying and correcting software errors can potentially identify vulnerabilities. AI agents can then combine discovery with exploitation and other actions.\nCorma refers to a wave of significant vulnerabilities and breaches in October 2026 as “Black October.” The company believes those incidents demonstrated the need for defensive models trained specifically for security operations.\nIts technology remains subject to the same requirements applied to other consequential cybersecurity systems, including accuracy, security, human oversight, and controls preventing inappropriate autonomous actions.\nCombining AI And Cybersecurity Expertise\nCorma’s team includes researchers from Google DeepMind and cybersecurity professionals with experience in Israel’s Unit 8200.\nThe company is headquartered in Tel Aviv and San Francisco.\nThe Series A will help Corma expand its research, computing capacity, and deployments with large organizations.\nKEY QUOTES:\n“Cybersecurity is now a battle of intelligence against intelligence, and Black October made that impossible to ignore. Since we came out of stealth, demand from the world’s largest organizations has been overwhelming, and one of our hardest problems has been securing capacity fast enough to keep up with the demand.”\nAlon Pluda, Co-Founder and Chief Executive Officer of Corma\n“Corma is building the intelligence layer that defensive security needs. As AI gives attackers an advantage, Corma’s combination of frontier AI research and deep cybersecurity expertise has the potential to help organizations defend against these threats at scale. Corma is the only company taking this on in a way that is scalable across organizations to prevent the next big cyberattack.”\nAaron Jacobson, Partner at NEA\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "921ada90c468",
+      "title": "Ramon.Space raises $124 million Series B led by PSG",
+      "publisher": "space & defense",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRWl1Q19oWlFXWWx5M01QbVVzaTVwQ1dqWHB2MUl6cWJlbldaZXh6d2lIalR6RzFuSmh2NnB6dk1FVGM3aUlYblpjQ2dURDY2XzhjZl9KQkxoNk5sQ2thbFJQVlY3S0tjUTVINjFaYzI1OTczcGR6SjdzeHJKUFdIWEVubUc?oc=5",
+      "published_at": "2026-11-18T00:37:02.000Z",
+      "publisher_url": "https://spaceanddefense.io",
+      "snippet": "Ramon.Space raises $124 million Series B led by PSG space & defense",
+      "source_feed": "gnews-g2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 124000000,
+        "currency": "USD",
+        "raw": "$124 million"
+      },
+      "company_guess": "Ramon.Space",
+      "group_key": "ramon space",
+      "group_rank": 0,
+      "resolved_url": "https://spaceanddefense.io/ramon-space-raises-124-million-series-b-led-by-psg/?utm_source=rss&utm_medium=rss&utm_campaign=ramon-space-raises-124-million-series-b-led-by-psg",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "f5b34ced3d7c",
+      "title": "Seawolf Therapeutics Launches with $100M, Sanofi Partnership",
+      "publisher": "Global Banking & Finance Review",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMDVOcjVtTUJoMC1IRmdtMHlzQ3NwVjV5UkVBZXNEQ0VfcUtqbzlPSU5nZnVTVC1OcVZoaWc3aUFwdEU3eTNJaWhvU3FIY1FSU1EwVHdGeUlmSFNvZWcySUJzMS1MZFZ1cXFIQkVyUUJnQkx1bXVPRXBUX3YxQXh3YnJWREpPRWJvSFQzRzI5Vjk5QTVQcVhENEp3WlI?oc=5",
+      "published_at": "2026-11-16T10:12:28.000Z",
+      "publisher_url": "https://www.globalbankingandfinance.com",
+      "snippet": "Seawolf Therapeutics Launches with $100M, Sanofi Partnership Global Banking & Finance Review",
+      "source_feed": "gnews-g8",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100M"
+      },
+      "company_guess": "Seawolf Therapeutics",
+      "group_key": "seawolf therapeutics",
+      "group_rank": 0,
+      "resolved_url": "https://www.globalbankingandfinance.com/dna-drug-developer-seawolf-launches-100-million-funding/",
+      "text": "Morning Bid: Jensen Huang's last hurrah, and a nervy future for Nvidia",
+      "text_status": "thin"
+    },
+    {
+      "id": "55bcdf2db0c5",
+      "title": "Secure Properties Completes $54 Million Sale-Leaseback Across 29 Automotive Sites",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/secure-properties-completes-54-million-sale-leaseback-across-29-automotive-sites/",
+      "published_at": "2026-11-17T23:42:04.000Z",
+      "publisher_url": null,
+      "snippet": "Secure Properties has completed an approximately $54 million sale-leaseback involving 29 automotive service properties across the Midwest, providing capital alongside an operating company acquisition.\nThe post Secure Properties Completes $54 Million Sale-Leaseback Across 29 Automotive Sites appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 54000000,
+        "currency": "USD",
+        "raw": "$54 Million"
+      },
+      "company_guess": "",
+      "group_key": "55bcdf2db0c5",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/secure-properties-completes-54-million-sale-leaseback-across-29-automotive-sites/",
+      "text": "Secure Properties Completes $54 Million Sale-Leaseback Across 29 Automotive Sites\nBy Amit Chowdhry\nYesterday at 6:42 PM\nSecure Properties Completes $54 Million Sale-Leaseback Across 29 Automotive Sites\nSecure Properties has completed an approximately $54 million sale-leaseback involving 29 automotive service properties across the Midwest, providing capital alongside an operating company acquisition.\nThe transaction followed a major acquisition by an unnamed national automotive services platform.\nSecure acquired the full real estate portfolio in a single closing immediately after the corporate transaction, allowing the operator to monetize newly acquired properties and reinvest the proceeds in its combined business.\nThe sites are subject to new long-term net leases. That structure allows the operator to continue using essential locations while transferring property ownership to a real estate investor.\nThe transaction connects real estate financing with acquisition integration, providing capital at the point when the buyer is combining businesses and pursuing its growth plans.\nManaging Principal Brian Mansouri said operators are increasingly evaluating owned property as a strategic financing resource.\nHe identified more expensive and selective traditional financing as a factor contributing to interest in sale-leasebacks.\nThe automotive properties serve established Midwest markets. Secure described them as essential operating locations within the tenant’s service network.\nAutomotive services is a core investment area for the firm, which has completed other portfolio transactions involving acquisition-driven operators.\nSecure also invests in quick-service restaurants, childcare, auto parts, industrial properties and other essential-use real estate.\nThe New York-based firm works with operators, private equity sponsors and investment bankers on transactions ranging from single assets to large portfolios.\nIts investment structures include institutional capital, joint ventures and private capital arrangements.\nThe completed portfolio illustrates how a corporate buyer can separate operating ownership from property ownership while retaining access to its locations.\nThe operator receives immediate proceeds in exchange for ongoing lease obligations, with the real estate transaction supporting its broader acquisition strategy.\nKEY QUOTE :\n“More operators are recognizing that owned real estate can play a strategic role in acquisition activity and supporting expansion. In this case, we were able to execute in a single transaction, giving the operator access to significant capital at a critical inflection point. As traditional financing has become more expensive and selective, we’re seeing greater interest in sale-leasebacks as a way to unlock capital without disrupting operations.”\nBrian Mansouri, Managing Principal At Secure Properties\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "2fb130751a44",
+      "title": "Promise Robotics Raises C$40 Million in Series B Funding to Expand AI-Powered Homebuilding Factories",
+      "publisher": "citybiz",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONkcydDdlbU94dlJ4SnRKc0Q1VTVQcUxTYmsxalhqT1RJUUdZTnMyRkM0cXZhV2Z5dzdtYkRMdmdwUWpZT1RQdUVacllaZTRaV0lxd1hSY1hpLVRWM282VkktMnJ3QVYyd0piQ2JBbzV6UVhsRW5ldHdzYWlydHRvZ3BRWmNibmxpcFJwUnZqTHZmVWNyRThxMTZpMGtOckQyeXhGZ2lRdEJuTDhCQkc1b3VfaHhscWZCVEpNTEhLWHZjYkNxZlA1SnFHLXdQVGVJaVg5Nw?oc=5",
+      "published_at": "2026-11-17T15:34:48.000Z",
+      "publisher_url": "https://www.citybiz.co",
+      "snippet": "Promise Robotics Raises C$40 Million in Series B Funding to Expand AI-Powered Homebuilding Factories citybiz",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 40000000,
+        "currency": "CAD",
+        "raw": "C$40 Million"
+      },
+      "company_guess": "Promise Robotics",
+      "group_key": "promise robotics",
+      "group_rank": 0,
+      "resolved_url": "https://www.citybiz.co/article/934647/promise-robotics-raises-c40-million-in-series-b-funding-to-expand-ai-powered-homebuilding-factories/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "f795c3d13b3e",
+      "title": "Bharat Semi raises $24 million in seed funding to scale AI sensor technology",
+      "publisher": "ET Enterprise AI",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUURSSUo1NzRrM2xPbG82cWhYVzAwQlVLM1B0dlRrc2FfaW1ES1pKYmFndko2bDdBSEhWYUwzQ1d1R1ZyLVJzOXNuelltWUVqUGdJZUNNWlNrNi1sbXBfVzB4UmRNdTdSNTRJcjFpXzNKTmVTSkhYdE9MUTgyY0gwOWdKcURsbmM2d2ZsTnNuY3FPWWltWXlWQWFzWVI4VW1KNTg3UXFBb1NoUjBlS3dpcXVKQTI3clItUnlYdm4xLTU5OWpQTHJtTVo0eE5udEVIaWtITEhra1QzbXZCVUk4dUwyN2pVRVFY0gHoAUFVX3lxTE9RRFJJSjU3NGszbE9sbzZxaFhXMDBCVUszUHR2VGtzYV9pbURLWkpiYWd2SjZsN0FISFZhTDNDV3VHVnItUnM5c256WW1ZRWpQZ0llQ01aU2s2LWxtcF9XMHhSZE11N1I1NElyMWlfM0pOZVNKSFh0T0xRODJjSDA5Z0pxRGxuYzZ3ZmxOc25jcU9ZaW1ZeVZBYXNZUjhVbUo1ODdRcUFvU2hSMGVLd2lxdUpBMjdyUi1SeVh2bjEtNTk5alBMcm1NWjR4Tm50RUhpa0hMSGtrVDNtdkJVSTh1TDI3alVFUVg?oc=5",
+      "published_at": "2026-11-16T07:15:45.000Z",
+      "publisher_url": "https://enterpriseai.economictimes.indiatimes.com",
+      "snippet": "Bharat Semi raises $24 million in seed funding to scale AI sensor technology ET Enterprise AI",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 24000000,
+        "currency": "USD",
+        "raw": "$24 million"
+      },
+      "company_guess": "Bharat Semi",
+      "group_key": "bharat semi",
+      "group_rank": 0,
+      "resolved_url": "https://enterpriseai.economictimes.indiatimes.com/amp/news/industry/bharat-semi-raises-24-million-in-seed-funding-to-scale-ai-sensor-technology/135876215",
+      "text": "Industry\n3 min read\nBharat Semi raises $24 million in seed funding to scale AI sensor technology\nThe startup is developing AI-enabled image sensors on a single chip, targeting applications in defence, surveillance, industrial automation and aerospace.\nETEnterpriseAI Desk\nETEnterpriseAI\nUpdated On Nov 16, 2026 at 12:45 PM IST\nThe nearly five-year-old, pre-revenue company has secured design wins with US defence technology firm General Atomics and India's Kaynes Semicon. Indian semiconductor startup Bharat Semi has raised $24 million in a seed funding round as it looks to develop AI-enabled image sensors and expand its presence in international markets, according to TechCrunch .\nAdvt\nThe funding round was led by Info Edge Group, South Park Commons and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels and individual investors, the company said.\nFounded in late 2021 by Vrinda Kapoor and Vinayak Dalmia, Bharat Semi is developing programmable image sensors that integrate image capture, processing and artificial intelligence capabilities into a single chip. The approach is designed to reduce dependence on separate processing components, potentially lowering system costs and enabling devices to analyse visual information closer to where it is captured.\nEvent\nThe Fiduciary Architecture of Frontier AI Defense\nEnterprise boards are pressing CFOs to fund generative and autonomous AI initiatives to drive margin expansion, yet the underlying risk economics have shifted dramatically. Frontier cyber capabilities are doubling every five months, compressing exploit windows from 55 days to mere hours.\nSimultaneously, cyber insurers are capping AI-related losses at 10% of policy limits, while maintaining 80+ fragmented security vendors is actively eroding operating margins. Defending against machine-speed threats with manual, siloed processes is financially unsustainable and creates unquantified balance-sheet exposure.\nThu, 26 Nov 2026\nBengaluru\nRegister Now\n4 Speakers\nShow More\nThe nearly five-year-old, pre-revenue company has secured design wins with US defence technology firm General Atomics and India's Kaynes Semicon. Its sensors are still under development, with the startup targeting initial commercial production in 2027.\nBringing AI processing closer to the sensor\nConventional imaging systems typically rely on separate components for image capture, image signal processing and computing. Bharat Semi aims to bring these functions together, allowing devices to process visual information without routinely transferring data to separate processors.\nAdvt\nAccording to co-founder Vrinda Kapoor, this architecture could reduce system costs by at least 70 per cent compared with conventional configurations involving separate image sensors, image signal processors and system-on-chip components.\nThe company's technology is aimed at applications where real-time processing, power efficiency and cost are critical. These include smart home devices, industrial automation, surveillance systems and aerospace applications.\nAdvt\nFor instance, an air conditioner equipped with such sensors could identify whether a room is occupied and adjust its operation accordingly. Drones could also process visual information locally without requiring expensive computing hardware elsewhere in the system.\nDevelopment roadmap and global expansion\nBharat Semi's first-generation sensors are already in the prototyping stage. Its second-generation products, which will incorporate more advanced AI capabilities, are expected to reach the prototype stage by mid-2027. The company aims to begin placing these products with customers by the end of that year.\nThe fresh capital will be used to strengthen its engineering workforce, complete product development and accelerate commercialisation.\nBharat Semi currently employs around 75 people across India and the US, including 10-12 employees in its American operations. The company plans to expand its US workforce to approximately 20 employees by mid-2027 and has also started hiring engineers in Europe.\nIts US presence includes engineering and business development operations in Santa Clara, California, as it looks to build relationships with international customers.\nThe startup's ambitions come amid growing interest in specialised semiconductor technologies as artificial intelligence moves beyond cloud-based applications into physical devices, machines and autonomous systems.\nFabless model remains separate from fabrication plans\nBharat Semi is also pursuing a separate semiconductor fabrication initiative announced in 2024, involving a technology partnership with the US Space Force. The project remains under development, with the company working to identify domestic partners to establish and operate the facility.\nHowever, the proposed fabrication project is separate from its image-sensor business. Bharat Semi intends to continue operating as a fabless semiconductor company for this business, outsourcing manufacturing while concentrating on chip design and software development.\nThe latest $24 million funding round will not be directed towards the proposed fabrication facility.\nThe company is positioning its sensor technology as a potential building block for physical AI applications, where machines need to interpret their surroundings and respond in real time. Its longer-term ambition is to develop a globally competitive semiconductor design business originating in India.\nBy\nETEnterpriseAI Desk\nETEnterpriseAI\nPublished On Nov 16, 2026 at 12:45 PM IST\nSee more on:\nBharat Semi ,\nAI sensor technology ,\nseed funding ,\nprogrammable image sensors ,\nimage processing\nJoin the community of 2M+ industry professionals.\nSubscribe to Newsletter to get latest insights & analysis in your inbox.\nEnter Email\nGet updates on your preferred social platform\nFollow us for the latest news, insider access to events and more.",
+      "text_status": "ok"
+    },
+    {
+      "id": "550e2dff4300",
+      "title": "Aevius Launches with $22 Million in Funding to Make Medicine Computable",
+      "publisher": "The Joplin Globe",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNb1NEc25UX2NHeVNKYkRCRXE0YU5BT2J2SnZwemNCUDhTTE1mTVg3SGdJNTVXS2lwcmhKalloeU83b2s4bm1rdFpMVkZVMDJ1Ulg4RmhaSGZZWTltX0ZxNlc5OVVqQVl4TnY3Zkc2QnA4aFN5WEVpNllVVXFvSk8zeEVjOExlZHljX0lCMFVQT0dBNUlseEJrNlVBSDd5QzgyaFdDNm5hZENsZWxVSnlXSTB5QUk2ZXBmX3ZmTFNsT3pnVFRpNTliWFphQ0hINkJFYWNsMkdPRm55cHBqVHZJRHdlcHBBc3RYRmR6X3BpZ0N6ZVdacXNwOVc3VGNaa2VrMkFj?oc=5",
+      "published_at": "2026-11-17T13:03:20.000Z",
+      "publisher_url": "https://www.joplinglobe.com",
+      "snippet": "Aevius Launches with $22 Million in Funding to Make Medicine Computable The Joplin Globe",
+      "source_feed": "gnews-g8",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 22000000,
+        "currency": "USD",
+        "raw": "$22 Million"
+      },
+      "company_guess": "Aevius",
+      "group_key": "aevius",
+      "group_rank": 0,
+      "resolved_url": "https://www.joplinglobe.com/region/national_business/aevius-launches-with-22-million-in-funding-to-make-medicine-computable/article_36144b9d-410a-5b8f-a9d1-ea3ced4ac0ba.html",
+      "text": "Atiba Bradley out as MSSU head football coach, …",
+      "text_status": "thin"
+    },
+    {
+      "id": "f58ea3967607",
+      "title": "AI law firm Alecto raises a seed round led by Insight Partners",
+      "publisher": "Axios",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOS1aTnhrakFQUDlSUGVRdE91S2dTXzZiOUxxaVU0Tkd5dHNBaHkxVXdsOHh0T0ZsZkFrQjA4RUw1UE91Z1k1Q2I2S085cURNaHBNYmdDV244VWpoSDFKYmNUcV9WMkFFXzVaVnZ6WVIxYXVMeTg0OXV6MWt0VzIyUHNR?oc=5",
+      "published_at": "2026-11-16T11:20:54.000Z",
+      "publisher_url": "https://www.axios.com",
+      "snippet": "AI law firm Alecto raises a seed round led by Insight Partners Axios",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Alecto",
+      "group_key": "alecto",
+      "group_rank": 0,
+      "resolved_url": "https://www.axios.com/pro/all-deals/2026/11/16/ai-native-law-firm-alecto-20m",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "89da8eae8350",
+      "title": "AI-Powered Conveyancing Provider Alecto Raises $20M in Seed Round",
+      "publisher": "Law.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXduaWhnaWNWS2twbnJ1SWZnYXBsRVhZRzJCc1FQRGhUZlNnVnZZcFVDNDluMnowd21RYV9OM1BWVFpFSWFlTnl6SHU5TmhBMVR4S08tN2RoXzZXdTgxNlRscHhRT3A1Qjk3MlRURTZ0QW5sdjludHJabnlZWGRTZzZnT3kwZG5YUVhMaHVnU2NCS0VNQkRlQkNLNC1oWElPNmRBa3A1cWxqa1pzbFdUZA?oc=5",
+      "published_at": "2026-11-17T18:40:08.000Z",
+      "publisher_url": "https://www.law.com",
+      "snippet": "AI-Powered Conveyancing Provider Alecto Raises $20M in Seed Round Law.com",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20M"
+      },
+      "company_guess": "Alecto",
+      "group_key": "alecto",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "198a3dd7f8dd",
+      "title": "AI Law Firm Alecto Raises $20M Seed, 2.5x Its $8M Run Rate",
+      "publisher": "FourWeekMBA",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQclBsLVVhUmQ1R3pSNFlsWjRtR054SDVHVXNHd212M2l0Y2ZzSEdGR1pEUUxzMnV2R0ZRcDNZd3c4R091b3ZUamRRUUxIemFhV1JtQ3NPT3Z5Y0pYdlZNTnVOTnVZTUNHUVlPTFY3WnV0aTJIZkZETGE3dzV1cldjUHZpaU0zX3M?oc=5",
+      "published_at": "2026-11-17T08:03:01.000Z",
+      "publisher_url": "https://fourweekmba.com",
+      "snippet": "AI Law Firm Alecto Raises $20M Seed, 2.5x Its $8M Run Rate FourWeekMBA",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20M"
+      },
+      "company_guess": "Alecto",
+      "group_key": "alecto",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "4c43858071e2",
+      "title": "Alecto Raises $20 Million To Expand AI-Native Consumer Legal Services",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/alecto-raises-20-million-to-expand-ai-native-consumer-legal-services/",
+      "published_at": "2026-11-18T03:53:33.000Z",
+      "publisher_url": null,
+      "snippet": "Alecto has raised $20 million in seed funding to expand its AI-enabled consumer law firm into additional legal services and international markets. Insight Partners led the round, with participation from Firstminute Capital, Blue Lion Global, Andrena Ventures, FJ Labs, Antiportfolio Ventures, the Rigby Group, and Mishcon de Reya. Angel investors included Octopus Group founder and CEO Simon Rogerson and SwiftKey founder John Reynolds.\nThe post Alecto Raises $20 Million To Expand AI-Native Consumer Legal Services appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20 Million"
+      },
+      "company_guess": "Alecto",
+      "group_key": "alecto",
+      "group_rank": 3,
+      "text_status": "skipped"
+    },
+    {
+      "id": "c268e59709e8",
+      "title": "Arva AI Raises $20 Million Series A Led by Arthur Ventures to Expand AI Automation for Banks and Fintechs",
+      "publisher": "citybiz",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUXByV0lJcTk4OXMweFc4ejhrWHI1Z215TjdYQVNOY0pqdEdRcDJxT1lZZWNpODlIMWhVZkhoaTFEMmhoeVFpMFBZUWRXbjhENE5YQnN1YkliSzdkdkJucjJNWjFCeURtczBtQXRQZ2V4VG8yOFFfWWJ1emhqVmlFblJlbllEMUJvNlRtaW1ERWE4Zkx2aE1MSzczS1BGYzlkZjY4OXBCSEZYYTBhMDEtZ2ZJSkUzemFpMGxmOGhka0RaMG84LVBtQXhQNUF1NVZfREtyRThpcDIxZEU?oc=5",
+      "published_at": "2026-11-17T21:55:58.000Z",
+      "publisher_url": "https://www.citybiz.co",
+      "snippet": "Arva AI Raises $20 Million Series A Led by Arthur Ventures to Expand AI Automation for Banks and Fintechs citybiz",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20 Million"
+      },
+      "company_guess": "Arva AI",
+      "group_key": "arva",
+      "group_rank": 0,
+      "resolved_url": "https://www.citybiz.co/article/935206/arva-ai-raises-20-million-series-a-led-by-arthur-ventures-to-expand-ai-automation-for-banks-and-fintechs/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "9b1bbf254ff3",
+      "title": "Arva AI Raises $20 Million Series A Led by Arthur Ventures to Expand AI Automation for Banks and Fintechs",
+      "publisher": "Kevin Parker",
+      "link": "https://www.citybiz.co/article/935206/arva-ai-raises-20-million-series-a-led-by-arthur-ventures-to-expand-ai-automation-for-banks-and-fintechs/",
+      "published_at": "2026-11-17T21:54:12.000Z",
+      "publisher_url": null,
+      "snippet": "Arva AI, a financial technology company developing artificial intelligence models and autonomous agents for banking operations, has raised $20 million... Read More\nThe post Arva AI Raises $20 Million Series A Led by Arthur Ventures to Expand AI Automation for Banks and Fintechs appeared first on citybiz .",
+      "source_feed": "citybiz",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20 Million"
+      },
+      "company_guess": "Arva AI",
+      "group_key": "arva",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "508461a7b91d",
+      "title": "Valkryn Emerges From Stealth With $17M to Develop Military Robotics Testing Systems",
+      "publisher": "AI Insider",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWTBFam1xUE9rZXZqalhXNzVYWVFXY01jckVUbWhaR0ZfTWlMdDgtYTZzdDd5QVQxRUtPczN6TDZDeUNydmJHY29LRVpXRzZ5MlFGRzd4bWMyM3BQdjl2TjJzUDEyMWtsbnVHajByRjZNYWVXY29qVmRTVkc5TFZ1QmVwY0tzUzJFRjcyamxBSUQ2aVZNb0M5SE5wS082eXlnSGkwT0lBOGM1VnlRTU5DU3hyR0JmOEZ1SjNxVQ?oc=5",
+      "published_at": "2026-11-18T00:02:00.000Z",
+      "publisher_url": "https://theaiinsider.tech",
+      "snippet": "Valkryn Emerges From Stealth With $17M to Develop Military Robotics Testing Systems AI Insider",
+      "source_feed": "gnews-8",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 17000000,
+        "currency": "USD",
+        "raw": "$17M"
+      },
+      "company_guess": "Valkryn",
+      "group_key": "valkryn",
+      "group_rank": 0,
+      "resolved_url": "https://theaiinsider.tech/2026/11/18/valkryn-emerges-from-stealth-with-17m-to-develop-military-robotics-testing-systems/",
+      "text": "Physical AI · Defence & Autonomous Systems\nValkryn Emerges From Stealth With $17M to Develop Military Robotics Testing Systems\nBy Greg Bock · 18 November 2026 · 3 min read\nValkryn co-founders, from left to right, CTO Andrew Hoff & CEO Hugh Zabriskie, (Credit: Valkryn)\nInsider Brief\nValkryn has emerged from stealth with $17 million in total funding to develop technology for testing military robots, drones and other autonomous systems under realistic conditions.\nThe funding includes a $15 million seed round led by Andreessen Horowitz’s American Dynamism fund, with participation from Cantos Ventures, Ambition Capital and Caffeinated Capital.\nValkryn’s Battle Lab technology records and evaluates autonomous systems against government-defined criteria, and the company reports multiple funded contracts with U.S. military testing organizations.\nValkryn, a defense technology startup developing systems to test military robots, drones and other autonomous equipment, has emerged from stealth with $17 million in total funding.\nThe funding includes a $15 million seed round led by Andreessen Horowitz ‘s American Dynamism fund with Cantos Ventures , Ambition Capital and Caffeinated Capital . According to the Washington, D.C.-based startup , the funding will go to expanding its technology and growing its team across Washington, New York City and Los Angeles.\nUnlike companies developing military robots and drones, Valkryn does not manufacture or sell the equipment it evaluates. The company said this separation allows it to operate as an independent testing provider for government agencies and defense contractors.\nBattle Lab\nFounded in 2025, Valkryn develops what it calls Battle Lab technology to evaluate how autonomous military systems perform under realistic conditions before they are deployed in combat. Valkryn combines physical testing environments with software that records information from sensors, autonomous systems and human operators to track how equipment behaves and automatically scores results against criteria established by the government.\nIt also creates a detailed record of each test, allowing military organizations to review what happened and compare performance across different systems, locations and exercises. According to Valkryn, many military testing programs still rely on handwritten notes and presentations to assess increasingly complex autonomous equipment.\n“Warfighters need to trust that their systems have been proven before the fight,” co-founder and CEO Hugh Zabriskie said in the announcement. “But software-defined systems and threats now change faster than today’s test enterprise can keep up. Leading software and robotics companies solved this long ago by investing in rapid, realistic evaluation as a core advantage, and we founded Valkryn to bring that advantage to the military.”\nValkryn said its technology was deployed with the U.S. military in the Middle East within three weeks of its first demonstration. It has also secured multiple funded contracts with Department of War testing organizations in less than 12 months.\nValkryn was founded by Zabriskie and Chief Technology Officer Andrew Hoff. Its founding team has experience developing autonomous systems, simulation software and hardware at companies including Palantir, Anduril, SpaceX and Applied Intuition.\nMore Funding Autonomous Defense Systems\nThe launch comes as the Pentagon seeks substantially more funding for autonomous military systems, Valkryn noted.\nAccording to figures cited by Valkryn, the Pentagon requested $53.6 billion for autonomy and drone platforms in fiscal 2027, up from $13.4 billion the previous year. Requests for counter-drone systems increased to $21 billion from $3.1 billion. The company also pointed to a September 30 memorandum from Defense Secretary Pete Hegseth directing the establishment of an Autonomous Warfare Command. The initiative calls for testing autonomous equipment against realistic opposition in demanding exercises, making improvements and deploying systems that demonstrate their effectiveness.\nTopics AI Ambition Capital American Dynamism fund Andreessen Horowitz autonomous defense systems Caffeinated Capital Cantos Ventures defence Defense drones funding Robotics Seed round Valkryn\nAbout the author Greg Bock\nGreg Bock is an award-winning investigative journalist with more than 25\nyears of experience in print, digital, and broadcast news. His reporting\nhas spanned crime, politics, business and technology, earning multiple\nKeystone Awards and a Pennsylvania Association of Broadcasters honors. Through the Associated Press and Nexstar Media Group, his coverage has reached audiences across the United States.\nTrending today\n1\nBusiness & Markets · Enterprise Jensen Huang’s Exit Leaves Nvidia’s Open Source AI Strategy in Question\n2\nBusiness & Markets How Big Is the AI Software Market? A Bottom-Up Estimate Puts It Near $144B\n3\nBusiness & Markets · Enterprise AMD Completes World Labs Acquisition, Names Fei-Fei Li Chief Scientist\n4\nBusiness & Markets Oura to Acquire AI-Native Primary Care Provider Counsel Health for $625M\n5\nLG Electronics Partners With Korean Robotics Group to Develop Humanoid Safety Standards\nThe AI economy, every weekday morning\nThe daily briefing on LinkedIn. Free, one tap to follow.\nSubscribe on LinkedIn\nExclusives\nExclusive The AI Insider Funding Pulse\nExclusive How Big Is the AI Software Market? A Bottom-Up Estimate Puts It Near $144B\nDecision Models What Are AI Decision Models? The Next Evolution Beyond Large Language Models\nFunding Pulse The AI Insider Funding Pulse\nExclusive South Korea’s AI G3 Strategy: Decoded\nAll series",
+      "text_status": "ok"
+    },
+    {
+      "id": "7ef886c24374",
+      "title": "AI-native conveyancing firm raises £15m in seed funding",
+      "publisher": "Legal Futures",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNXlzaDQtcGFaN2Jick1VanRzcjJKSnVEWEdaME9iSFMzWGxPSVlVZ0gwZU01Tm1yWU1CeEtpVnZyLWtHeXZ0aUtiLVFyQ1lza19ydGMwZ21NbDNJV19PWGNxdy1saDF1UGtTSWpNVk5VcnltVjFDNXdFU0hrcVZmVkxRYlVyTHpBdGpGX2dBekZrQ2xJcy1sbXJNN0NJdw?oc=5",
+      "published_at": "2026-11-18T01:01:45.000Z",
+      "publisher_url": "https://www.legalfutures.co.uk",
+      "snippet": "AI-native conveyancing firm raises £15m in seed funding Legal Futures",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 15000000,
+        "currency": "GBP",
+        "raw": "£15m"
+      },
+      "company_guess": "AI-native",
+      "group_key": "native",
+      "group_rank": 0,
+      "resolved_url": "https://www.legalfutures.co.uk/latest-news/ai-native-conveyancing-firm-raises-15m-in-seed-funding",
+      "text": "AI-native conveyancing firm raises £15m in seed funding\n18 November 2026\nPosted by Neil Rose\nRice: AI puts consumer in control\nAI-native law firm Alecto wants to become the UK’s leading provider of property legal services in 2027, it said yesterday after raising £15m in a seed round.\nThe new funding will support its expansion into areas of consumer law beyond conveyancing as well as new jurisdictions, with its first international launch also planned for next year.\nAmong the new investors are London law firm Mishcon de Reya, Simon Rogerson, founder and CEO of Octopus Group, which has its own legal arm too, and Firstminute Capital.\nFirstminute’s managing partner is serial entrepreneur Brett Haberman, who backs another law firm in the news today, Founders Law.\nAlecto, which is regulated by the Council for Licensed Conveyancers, was founded in September 2025 by Will Rice, who previously built fintech mortgage lender Gen H.\nAccording to Companies House records, he resigned as chief executive of Gen H last year, buying Generation Home Legal Ltd from it for £326,558 and renaming it Alecto Conveyancing. It is owned by Mr Rice’s company, Alecto Legal.\nThough initially targeted at conveyancing, the goal is to move into other consumer legal services.\nThe promise is that the technology “reads, checks and chases every part of your move around the clock, and your own conveyancer makes every decision that matters”.\nAlecto said yesterday that it has reached £6m in annualised revenue within eight months of trading and has acted on more than £1bn in property transactions.\nStaff numbers have grown from three in January to 85 today and the firm is on the panel for 65 mortgage lenders, including all of the top 30.\nHowever, this growth is not reflected in HM Land Registry statistics, which indicate low levels of activity compared to the major players in the market – in October, it made 23 applications in relation to registered land, compared to 10,396 by ONP Solicitors.\nMr Rice said: “For too long, the legal industry has expected customers to work on its terms; now, AI presents the opportunity to put the consumer in control.\n“People don’t want to buy a lawyer’s time; they want results. Alecto exists to make the law accessible to everyone, giving control back to the consumer. We’re not building a law firm; we’re replacing the traditional law firm.”\nAlessandro Luciano, principal at Insight Partners, who has become a director of Alecto Legal, added: “Consumer legal services represent a huge market opportunity as cost and complexity mean the necessary support is beyond the reach of so many people. Alecto’s approach redefines how those services are delivered.”\nThe announcement said the company “aims to become the UK’s leading provider of property legal services in 2027, forging relationships with mortgage brokers and estate agents searching for better service for their customers and faster completion times”.\nMr Rice added: “Property is where we prove the model. We’re building the technology and operations to rapidly break into new countries and new areas of law. Ultimately, access to exceptional legal support should not depend on how much money you have or how confidently you can navigate the system.”\nSign up to our free e-newsletter\nLeave a Comment Cancel reply By clicking Submit you consent to Legal Futures storing your personal data and confirm you have read our Privacy Policy and section 5 of our Terms & Conditions which deals with user-generated content. All comments will be moderated before posting.\nRequired fields are marked *\nEmail address will not be published.\nName *\nEmail *\nComment *\nΔ\nThis site uses Akismet to reduce spam. Learn how your comment data is processed.\nBlog\n17 November 2026\nThe AI competence test every junior solicitor should pass\nA junior solicitor can produce a polished legal argument with an AI tool before lunch. The more revealing question comes afterward: can that solicitor explain it?\nRead More\nMore Blogs\n13 November 2026\nThe AI question law firms should answer before a client asks it\nMost law firms we speak to are already using AI, whether or not they have approved it, because fee-earners are doing it anyway. The tool people settle on is often Claude.\nRead More\nMore Blogs\n12 November 2026\nFrom chat to Cowork: preparing your law firm for agentic AI\nAI is evolving quickly. For law firms still working out how to get consistent value from the tools they already have, the conversation has moved on again to agentic AI.\nRead More\nMore Blogs\nUpcoming Webinars\n18/11/2026\nLifetime gifts and Inheritance Tax: a practical guide to tax, taper relief and the NRB\n18/11/2026\nQuick succession relief\n20/11/2026\nFinancial abuse of vulnerable clients: prevention, protection and recovery\nMore Webinars\nConferences\nRegulation & Compliance Conference 2026\nLaw Firm Growth Summit 2027\nHousing Condition Conference 2027\nRelated News\nAI-driven conveyancing start-up set to expand nationally\nRegulator calls for 2,000 more conveyancing lawyers\nAML: Conveyancers “should report membership of developer panels”\nConveyancers “can see path” to home-buying reform\nAvoidable requisitions plummet amid warning of ethical dimension\nMore Stories\nFeatures\nRegulation and compliance: First-tier complaints handling\nAwaab’s Law phase 2: Why social housing repair deadlines are becoming an operational test\nWhen disclosure goes too far: Defending a claimant’s medical privacy\nMore Features\nAssociate News\nThe legal architecture behind scalable partnerships\nLegal AI is moving deeper into legal workflows – is your firm ready?\nHow one search redirected an entire estate to charity\nIs your legal work “too complex” for AI?\nILFM and SOLAS strengthen collaboration to support legal finance and law accounting professionals\nLEAP Enterprise completes major migration for Legal 500 law firm Lisa’s Law\nThe personal injury justice gap: Why injuries are rising but claims are falling in 2026\nMore Stories\nAssociates\nNexa Law\nCEL Solicitors\nAllianz Legal Pro",
+      "text_status": "ok"
+    },
+    {
+      "id": "a8088a741707",
+      "title": "Henfruit raises $15 million in Series A funding",
+      "publisher": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbkgyRGtUSGFfYVJqb29TMGl5SFlvc21panN6T3ctRkhoYU5VTXRPelAtR1lOSUJpdVk1YjZ6em5VUmdmT1lqNjNxemVkbU44X2NwRzdDRFU2Z1pKd2w0NHR3dWRrMHNfcHFONmoydkltbjdha3VmeU1JY2JzZ1gwVUpWTlFQX3QwVVhLWUtTZXYyOVNMNWxqVXdkTDJMYWNwOWI1R0gtajZpNzNoWkF1WNIBtwFBVV95cUxOMWJsRHdtT0JiaXp3bmJGMzVzRFZKOXV3TFRIamkzMUROTjdPSENCRXlMYlFjTjVsdU00dVY2NVdEaDh6MHBxZDZMV0VHX3lFOXZ6S2xDQ0lBcDU2MTAyUmJmcnpobndXX1NWaF8xNldNN2cwTklia0xldVdlYnFOZHpLSVFFUDJ0MEs0aFk4S3JKeU4zRFFOWWk2NWVkNExzelpqcGRINDlvY2hBOFgtZHhxY1dIYTg?oc=5",
+      "published_at": "2026-11-18T05:00:18.000Z",
+      "publisher_url": "https://www.thehindubusinessline.com",
+      "snippet": "Henfruit raises $15 million in Series A funding BusinessLine",
+      "source_feed": "gnews-g1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 15000000,
+        "currency": "USD",
+        "raw": "$15 million"
+      },
+      "company_guess": "Henfruit",
+      "group_key": "henfruit",
+      "group_rank": 0,
+      "resolved_url": "https://www.thehindubusinessline.com/markets/henfruit-raises-15-million-in-series-a-funding/article71714528.ece",
+      "text": "SENSEX 82,225.42\n-306.77\nNIFTY 25,285.25\n-102.15\nCRUDEOIL 7,927.00\n-163.00\nGOLD 131,379.00\n-2,844.00\nSILVER 163,882.00\n-5,820.00\nSENSEX 82,225.42\n-306.77\nNIFTY 25,285.25\n-102.15\nNIFTY 25,285.25\n-102.15\nCRUDEOIL 7,927.00\n-163.00\nCRUDEOIL 7,927.00\n-163.00\nGOLD 131,379.00\n-2,844.00\nSubscribe\nCompanies\nMarkets\nPortfolio\nOpinion\nEconomy\nPremium\nX\nSTOCKS\nSTORIES\nACCOUNT Subscribe SIGN UP / LOGIN\nX\nSTOCKS\nSTORIES\nMENU\nX\nSTOCKS\nSTORIES\nSections My Account\nCompanies\nMSME\nMarkets\nIPO Dashboard\nCommodities\nForex\nGold & Silver\nStocks\nGold rate today\nSilver rate today\nTop gainers today\nTop losers today\nResults Calendar\nNifty 50\nBSE Sensex\n52 Week High\n52 Week Low\nPortfolio\nPersonal Finance\nBig Story\nDerivatives\nStock Fundamentals\nMutual Funds\nDay Trading Guide\nEconomy\nBudget 2026\nMacro Economy\nPolicy\nAgri Business\nLogistics\nWorld Economic Forum\nOpinion\nEditorial\nColumns\nQuick Take\nLetters\nBlogs\nSpecials\nBusiness Laws\nScience and Technology\nCorporate File\nAuto focus\nClean Tech\nCurrent Account\nFlight Plan\nPulse\nTechnophile\nMarketing\nNews\nMoney & Banking\nBL Explainer\nInfo-tech\nBL On Campus\nData Stories\nMarketing\nVideo\nPodcast\nPackage\nBooks\nLatest News\nCartoons\nResources\nContacts\nWebinar\nePaper\nBrandhub\nLive News\nDigital access to daily edition e-Paper Subscribe to Newsletters\nConnect with us\nGet BusinessLine apps on\nLogin\nBookmarks\nNewsletters\nAccount Settings\nSubscribe\nLog Out\n1 Updates\nImportant Stories\nReliance plans 1,600-satellite network to take on Elon Musk’s Starlink\nRupee rises 24 paise to 93.27 against US dollar in early trade\nApple outage adds to growing list of technology disruptions affecting major companies\nAt $10 billion, net November FPI flows highest ever for a month\nRBI’s reply to Tata Sons triggers debate over suo motu powers\nFollow Us\nFOLLOW US ON WHATSAPP\nHome\nGO BACK TO HOME\nInteractives\nInteractive reads from\nthe businessline desk\nEl Niño\nHas GDP growth outgrown El Nino impact? Crop output certainly hasn't &rarr; Crude oil\n$100 oil, three times. What came next was different every time &rarr; Muhurat trading\nIs Muhurat trading an indicator of what's in store the following year? &rarr;\nTHIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.\nTHIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.\nHome\nMarkets\nHenfruit raises $15 million in Series A funding\nThe fresh capital will support the company’s expansion towards a pan-India presence, through its online and offline distribution network\nBy BL Mangaluru Bureau\nUpdated - November 18, 2026 at 10:31 AM.\n|\nMangaluru\n&times;\nShare\nWhatsApp X Facebook LinkedIn Messenger Reddit Mail\nhttps://www.thehindubusinessline.com/markets/henfruit-raises-15-million-in-series-a-funding/article71714528.ece Copy\nHenfruit, an egg brand, has raised $15 million in a Series A funding round from Lok Capital, DSG Consumer Partners and RPSG Capital Ventures.\nThe fresh capital will support the company’s expansion towards a pan-India presence, through its online and offline distribution network.\nA media statement said Henfruit has recorded a 10X increase in scale over the past three years, with FY27 revenues expected to exceed ₹350 crore. The company currently processes more than four crore eggs every month and serves consumers across 15 major Indian cities.\nTarun Gupta, Founder of Henfruit\nQuoting Tarun Gupta, Founder of Henfruit, the statement said: “ Over the past 12 years, we have invested in technology, stringent quality standards and accountability, driven by a genuine care for the families who trust us to deliver the goodness of eggs without compromising on their safety. This fundraise gives us the opportunity to take that trust across the country and set higher benchmarks for the industry I grew up in.”\nDeepak Shahdadpuri, Managing Director and Founder of DSG Consumer Partners said eggs are among India’s most widely consumed protein sources, yet the category remains largely unbranded, with limited focus on safety and freshness. Henfruit is addressing this gap through centralised processing, rigorous testing and traceability, building a differentiated proposition.\n“With deep family experience in poultry, Tarun brings the ambition and operating discipline to build a trusted national brand, and we are delighted to partner with him,” Shahdadpuri said.\nAbhishek Goenka, Managing Partner of RPSG Capital Ventures, said: “With branded penetration at 30-plus per cent in categories such as dairy and atta, we believe the egg category, which remains largely unorganised, presents a compelling opportunity for long-term growth. Tarun is obsessed with customer love and equally committed to building a process-driven organisation that can deliver quality-assured eggs every day, in every city.”\nChhavi Uboweja, Vice President at Lok Capital, said: “What drew us to Henfruit was Tarun’s deep understanding of the poultry ecosystem and the rigour with which he approaches the business -- from farmer relationships and sourcing to quality control, processing and supply chain management. His ambition to build a business where quality and trust are embedded in every stage of the value chain is what makes this opportunity compelling to us.” Comments\nPublished on November 18, 2026\nREAD MORE\nTHIS AD SUPPORTS OUR JOURNALISM.\nSUBSCRIBE\nFOR MINIMAL ADS.\nTHIS AD SUPPORTS OUR JOURNALISM.\nSUBSCRIBE\nFOR MINIMAL ADS.\nTHIS AD SUPPORTS OUR JOURNALISM.\nSUBSCRIBE\nFOR MINIMAL ADS.\nTHIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.\nThe Hindu Businessline\nAbout Us\nArchive\nNewsletter\nRss Feeds\nContact us\nNewsroom\nCustomer care\nAdvertisement\nCareers\nNews\nBusiness News\nCompanies News\nMarkets News\nEconomy News\nForex News\nAgri Business News\nLogistics News\nToday's News\nIndia News\nSports News\nInternational News\nScience News\nGroup News Sites\nThe Hindu\nBL on Campus\nSportstar\nBusiness Line\nஇந்து தமிழ் திசை\nThe Hindu Centre\nFrontline\nYoung World Club\nThe Hindu ePaper\nBusiness Line ePaper\nTH Games\nCalculators\nEMI Calculator\nHome Loan EMI Calculator\nCar Loan EMI Calculator\nPersonal Loan EMI Calcu",
+      "text_status": "ok"
+    },
+    {
+      "id": "db1f846f8d3c",
+      "title": "Defense tech startup Valkryn Systems emerges from stealth after closing $15M seed round",
+      "publisher": "The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUE1MYVdRSFJPTFU5TElPTkI0dlh3Vk1uRUdTbHdoYnJCNUJScDMyd3RycFQ0TnBlM29ET0NnZm5MY2RJck5aanV3SHcxU3ZGUF9CZVV1QjJfOUN2eDhZZWlMZ3BkUmhqS0x6cHhoMi1YXzI2SmZXbE04SUxlYU9Oa1NPVWQwN0VKMW1XUGhYZHp2aS11RHJySE9EbkkwWHRRNmJDNEMyMjc4TFU?oc=5",
+      "published_at": "2026-11-17T20:15:00.000Z",
+      "publisher_url": "https://www.bizjournals.com",
+      "snippet": "Defense tech startup Valkryn Systems emerges from stealth after closing $15M seed round The Business Journals",
+      "source_feed": "gnews-g5",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 15000000,
+        "currency": "USD",
+        "raw": "$15M"
+      },
+      "company_guess": "Defense tech startup",
+      "group_key": "defense tech startup",
+      "group_rank": 0,
+      "resolved_url": "https://www.bizjournals.com/washington/news/2026/11/17/valkryn-systems-palantir-anduril-hugh-zabriskie.html",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "93b0de3e80de",
+      "title": "Gama Raises €15 Million To Mass-Produce Wing Satellite Solar Arrays",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/gama-raises-e15-million-to-mass-produce-wing-satellite-solar-arrays/",
+      "published_at": "2026-11-18T03:50:45.000Z",
+      "publisher_url": null,
+      "snippet": "Gama has raised €15 million in seed funding to establish production of Wing, an ultra-light deployable solar array designed for high-power satellites. Transition Ventures, Planet A, Draper Associates, and Manta Ray Ventures participated in the financing.\nThe post Gama Raises €15 Million To Mass-Produce Wing Satellite Solar Arrays appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 15000000,
+        "currency": "EUR",
+        "raw": "€15 Million"
+      },
+      "company_guess": "Gama",
+      "group_key": "gama",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/gama-raises-e15-million-to-mass-produce-wing-satellite-solar-arrays/",
+      "text": "Gama Raises €15 Million To Mass-Produce Wing Satellite Solar Arrays\nBy Amit Chowdhry\nToday at 10:50 PM\nGama Raises €15 Million To Mass-Produce Wing Satellite Solar Arrays\nGama has raised €15 million in seed funding to establish production of Wing, an ultra-light deployable solar array designed for high-power satellites. Transition Ventures, Planet A, Draper Associates, and Manta Ray Ventures participated in the financing.\nThe company will use the capital to build its first Wing production line in Ivry-sur-Seine, France, expand in-house testing capabilities, and hire approximately 60 employees.\nGama is recruiting across mechanical engineering, power electronics, software, production, and test engineering as it prepares the technology for volume manufacturing.\nBuilding Deployable Solar Arrays For High-Power Satellites\nWing is designed to provide a large solar-power-generating surface while occupying relatively little space before deployment.\nSatellites must fit within the dimensional limits of a launch vehicle. Components such as solar arrays therefore need to remain compact during launch before unfolding or extending after the spacecraft reaches orbit.\nGama’s system is intended to combine an ultra-light structure with a high packaging ratio, allowing a large array to be folded into a smaller volume.\nThe company is designing Wing for high-power satellites, which may require substantially more electricity than conventional spacecraft to operate communications, computing, sensing, propulsion, or other onboard systems.\nGama is also prioritizing production cost. The company said Wing is being engineered for volume manufacturing and a lower cost per watt.\nThose objectives will need to be demonstrated as the company moves from development into larger-scale production.\nTargeting Lead Times Of Six Months Or Less\nGama plans to reduce the time required to manufacture and deliver space-based solar arrays.\nOnce its production line is operational, the company is targeting lead times of six months or less. Gama said current industry lead times for space solar systems can reach one year or longer.\nShorter delivery periods could help satellite manufacturers reduce schedule risk and obtain power systems closer to the timing of their broader spacecraft-production programs.\nThe company has not yet disclosed when the production line will reach full operating capacity or how many Wing systems it expects to manufacture annually.\nIts ability to achieve the six-month target will depend on supply-chain availability, workforce hiring, testing requirements, customer specifications, and production performance.\nEstablishing Production In Ivry-Sur-Seine\nThe financing will support Gama’s first production line in Ivry-sur-Seine, located near Paris.\nThe company plans to perform more testing internally rather than depending entirely on outside facilities. Bringing testing closer to manufacturing could allow engineering and production teams to identify issues, implement changes, and validate systems more quickly.\nSpace hardware must operate in demanding launch and orbital environments. Testing can include evaluations of deployment mechanisms, structural loads, vibration, temperature changes, electrical output, and other mission-specific requirements.\nThe exact qualification process will depend on the spacecraft, launch vehicle, orbit, and customer.\nGama has not disclosed the initial customers for Wing or provided a timetable for the first commercial deliveries.\nHiring Approximately 60 Employees\nThe company expects the seed funding to support about 60 new hires.\nOpen positions will span several disciplines needed to develop and manufacture a deployable power system.\nMechanical engineers will work on structures and deployment mechanisms, while power-electronics engineers will address the collection and management of electricity generated by the arrays.\nSoftware engineers may support design, testing, control, and production systems. Manufacturing and test engineers will help establish repeatable processes and validate completed hardware.\nThe hiring plan represents a substantial expansion as Gama moves from product development toward industrial production.\nThe company is positioning Wing as infrastructure for a growing range of space systems that require larger structures and greater electrical capacity.\nKEY QUOTES:\n“We’ve raised €15M to mass-produce Wing. Wing is an ultra-light deployable solar array built for high-power satellites. Very large arrays, folded into a small volume, designed for volume production and low cost per watt. Our target once the line is running: lead times of six months or less, while industry lead times for space solar run to a year or more. The Seed round, from Transition Ventures, Planet A, Draper Associates and Manta Ray Ventures, funds our first production line in Ivry-sur-Seine, more in-house test capability and around 60 new hires. We’re hiring in mechanical, power electronics, software, production and test engineering. Let’s build the large structures the space economy runs on.”\nGama statement\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    }
+  ]
+}
