@@ -1,0 +1,907 @@
+{
+  "run_date": "2026-11-18",
+  "validated_at": "2026-11-18T06:45:59.759Z",
+  "rows": [
+    {
+      "group_key": "isomorphic",
+      "candidate_ids": [
+        "a42dd7fd09f9",
+        "2369c850bf46"
+      ],
+      "company": "Isomorphic Labs",
+      "website": null,
+      "amount_usd": 5000000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-17",
+      "lead_investors": [
+        "Greenoaks",
+        "Sequoia Capital"
+      ],
+      "investors": [
+        "Greenoaks",
+        "Sequoia Capital",
+        "a16z",
+        "Alphabet",
+        "Thrive Capital",
+        "MGX",
+        "GV",
+        "CapitalG",
+        "Temasek",
+        "UK Sovereign AI Fund"
+      ],
+      "hq_city": "London",
+      "hq_state": null,
+      "hq_country": "GB",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI drug design engine built on foundational simulation AI models.",
+      "description": "Google DeepMind spin-out using AI models and agents to design drug molecules.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "has raised a $5 billion Series C",
+        "round": "has raised a $5 billion Series C",
+        "lead": "Greenoaks and Sequoia Capital co-led",
+        "investors": "Greenoaks and Sequoia Capital co-led, with a16z and several other new investors joining. Parent Alphabet continued to invest significantly. All existing investors took part: Thrive Capital , MGX , GV , CapitalG , Temasek and the UK Sovereign AI Fund"
+      },
+      "source_urls": [
+        "https://en.wowtale.net/2026/11/18/236070/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "space force",
+      "candidate_ids": [
+        "54171fbae304"
+      ],
+      "company": "Space Force",
+      "website": null,
+      "amount_usd": 985000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-17",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Government launch contract change, not a funding round.",
+      "description": "US Space Force raises launch contract ceilings for SpaceX, ULA and Blue Origin.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "up to $985 million",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://mlq.ai/news/space-force-raises-spacex-ula-and-blue-origin-launch-contracts-by-up-to-985-million/"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "onward therapeutics",
+      "candidate_ids": [
+        "21eee2dd6aad",
+        "0b7d810eb605"
+      ],
+      "company": "Onward Therapeutics",
+      "website": null,
+      "amount_usd": 28000000,
+      "amount_disclosed": true,
+      "currency_note": "NT$900 million, approx. US$28 million as stated",
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-17",
+      "lead_investors": [],
+      "investors": [
+        "CDIB Capital Healthcare Ventures",
+        "Beiley Biofund",
+        "Everbright Biofund",
+        "Hercules Bioventure Partners",
+        "Top Taiwan Venture Capital"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "TW",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Clinical-stage oncology company; no AI claim.",
+      "description": "Clinical-stage oncology company headquartered in Taiwan.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "NT$900 million (approximately US$28 million) Series B financing",
+        "round": "closed its NT$900 million (approximately US$28 million) Series B financing",
+        "lead": null,
+        "investors": "CDIB Capital Healthcare Ventures and Hong Kong Chlitina International"
+      },
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/onward-therapeutics-closes-nt900-million-approximately-us28-million-series-b-financing-to-advance-clinical-st"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "exclusive",
+      "candidate_ids": [
+        "25ca6049d787"
+      ],
+      "company": "Argonaut Private Equity",
+      "website": null,
+      "amount_usd": 606000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-17",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Private equity fund raise.",
+      "description": "Private equity firm buying industrial businesses.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "Argonaut Private Equity Raises $606 Million to Buy Industrial Businesses",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.wsj.com/pro/private-equity/argonaut-private-equity-raises-606-million-to-buy-industrial-businesses-846ef895"
+      ],
+      "exclude_reason": "fund"
+    },
+    {
+      "group_key": "genesis",
+      "candidate_ids": [
+        "b6da5f4ab043",
+        "3dea64365739",
+        "5c352f627169",
+        "2c07e7d52f22"
+      ],
+      "company": "Genesis AI",
+      "website": null,
+      "amount_usd": 500000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-17",
+      "lead_investors": [
+        "Khosla Ventures",
+        "Premji Invest",
+        "Eclipse"
+      ],
+      "investors": [
+        "Khosla Ventures",
+        "Premji Invest",
+        "Eclipse"
+      ],
+      "hq_city": null,
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Physical AI model and humanoid robots.",
+      "description": "Robotics startup building a physical AI model and humanoid robot for dexterous manipulation.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "a $500 million Series A round led by Khosla Ventures, Premji Invest, and Eclipse",
+        "round": "a $500 million Series A round",
+        "lead": "led by Khosla Ventures, Premji Invest, and Eclipse",
+        "investors": "led by Khosla Ventures, Premji Invest, and Eclipse"
+      },
+      "source_urls": [
+        "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "metlife investment management",
+      "candidate_ids": [
+        "190d00d32d42"
+      ],
+      "company": "MetLife Investment Management",
+      "website": null,
+      "amount_usd": 370000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-17",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Real estate debt fund close.",
+      "description": "Asset manager closing an opportunistic real estate debt fund.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "Closes $370 Million Opportunistic Real Estate Debt Fund",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.citybiz.co/article/935212/metlife-investment-management-closes-370-million-opportunistic-real-estate-debt-fund/"
+      ],
+      "exclude_reason": "fund"
+    },
+    {
+      "group_key": "langchain",
+      "candidate_ids": [
+        "acaf94822cff"
+      ],
+      "company": "LangChain",
+      "website": "langchain.com",
+      "amount_usd": 300000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-13",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Platform for building and operating AI agents.",
+      "description": "Platform (LangChain, LangSmith) for building, evaluating and deploying AI agents.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "LangChain raises $300M Series C for agent operations",
+        "round": "LangChain raises $300M Series C for agent operations",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://quasa.io/stories/langchain-raises-300m-after-shifting-from-framework-to-agent-control",
+        "https://www.langchain.com/blog/series-c"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "model ml",
+      "candidate_ids": [
+        "eeff3a9f2a6d",
+        "0b79e137bd5c",
+        "8bb406b8f1f0",
+        "8ad43bf6d93a",
+        "df722fd15a1f"
+      ],
+      "company": "Model ML",
+      "website": null,
+      "amount_usd": 250000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-17",
+      "lead_investors": [
+        "General Atlantic",
+        "QED"
+      ],
+      "investors": [
+        "General Atlantic",
+        "QED"
+      ],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI agents for bankers and consultants.",
+      "description": "AI agents automating investment banking and financial services workflows.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "Model ML raises $250m in Series B funding at $1.5bn valuation",
+        "round": "Model ML raises $250m in Series B funding",
+        "lead": "led by General Atlantic and QED",
+        "investors": "led by General Atlantic and QED"
+      },
+      "source_urls": [
+        "https://www.fintechfutures.com/venture-capital-funding/model-ml-250m-series-b-funding-round-1-5bn-valuation"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "sennder",
+      "candidate_ids": [
+        "2d24b9f061f9"
+      ],
+      "company": "Sennder",
+      "website": null,
+      "amount_usd": 246000000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 228M converted at 1.08",
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-17",
+      "lead_investors": [],
+      "investors": [
+        "Scania",
+        "Poste Italiane"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "DE",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Freight platform deploying proprietary tech and AI agents.",
+      "description": "European road freight platform; mostly debt facilities plus equity from existing investors.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "€228 million in new financing",
+        "round": "€155 million in financing facilities",
+        "lead": null,
+        "investors": "existing investors led by Scania and Poste Italiane"
+      },
+      "source_urls": [
+        "https://pulse2.com/sennder-secures-e228-million-to-expand-european-road-freight-platform/"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "watertown based marrow therapeuticsm led",
+      "candidate_ids": [
+        "955e88812ceb",
+        "12e2268f5404"
+      ],
+      "company": "Marrow Therapeutics",
+      "website": null,
+      "amount_usd": 173000000,
+      "amount_disclosed": true,
+      "currency_note": "Combined $53M Series A and $120M Series B",
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-17",
+      "lead_investors": [
+        "OrbiMed",
+        "Scion Life Sciences",
+        "venBio"
+      ],
+      "investors": [
+        "Scion Life Sciences",
+        "venBio",
+        "OrbiMed",
+        "RTW Investments",
+        "Surveyor Capital",
+        "Opaleye",
+        "NEXTBio Capital",
+        "Affinity Advisors",
+        "KKR",
+        "Spruce Street Capital",
+        "Columbia Threadneedle Investments"
+      ],
+      "hq_city": "Watertown",
+      "hq_state": "MA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Genetic medicine biotech; no AI claim.",
+      "description": "Biotech developing antibody-delivered genetic medicines for sickle cell disease and beta thalassemia. Also group sickle cell drug marrow.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "$173 million in combined Series A and Series B financing",
+        "round": "OrbiMed led the $120 million Series B round",
+        "lead": "co-led by Scion Life Sciences and venBio. OrbiMed led the $120 million Series B round",
+        "investors": "new investors RTW Investments, Surveyor Capital, Opaleye, NEXTBio Capital, Affinity Advisors, KKR, Spruce Street Capital and Columbia Threadneedle Investments"
+      },
+      "source_urls": [
+        "https://indianewengland.com/",
+        "https://www.techtimes.com/articles/330910/20261117/sickle-cell-drug-marrow-raises-173-million-without-releasing-anemia-selectivity-data.htm"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "general flash",
+      "candidate_ids": [
+        "315cc4edef37",
+        "6d8ae7fa511a"
+      ],
+      "company": "General Flash",
+      "website": null,
+      "amount_usd": 128000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-17",
+      "lead_investors": [],
+      "investors": [
+        "Lux Capital",
+        "Construct Capital",
+        "Overmatch Ventures",
+        "GreatPoint Ventures",
+        "Pillar VC",
+        "Lowercarbon Capital",
+        "Ensemble VC",
+        "Ravelin"
+      ],
+      "hq_city": "Cambridge",
+      "hq_state": "MA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Critical metals refining; no AI claim.",
+      "description": "Startup converting metal oxides into high-purity metals to scale US critical metals production.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "raised $128 million in equity capital across its Seed and Series A rounds",
+        "round": "across its Seed and Series A rounds",
+        "lead": null,
+        "investors": "Lux Capital, Construct Capital, Overmatch Ventures, GreatPoint Ventures, Pillar VC, Lowercarbon Capital, Ensemble VC, Ravelin"
+      },
+      "source_urls": [
+        "https://www.mining.com/general-flash-raises-128-million-to-scale-us-critical-metals-production/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "corma",
+      "candidate_ids": [
+        "a8a1ef323593"
+      ],
+      "company": "Corma",
+      "website": null,
+      "amount_usd": 125000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-17",
+      "lead_investors": [
+        "NEA"
+      ],
+      "investors": [
+        "NEA",
+        "Sequoia Capital",
+        "Khosla Ventures",
+        "Coatue"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Foundation models and AI workforce for defensive cybersecurity.",
+      "description": "Trains foundation models for defensive cybersecurity and deploys an autonomous AI workforce. Tel Aviv and San Francisco.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "$125 million in Series A funding",
+        "round": "$125 million in Series A funding",
+        "lead": "NEA led the round",
+        "investors": "NEA led the round, with existing investors Sequoia Capital, Khosla Ventures, and Coatue participating"
+      },
+      "source_urls": [
+        "https://pulse2.com/corma-raises-125-million-at-1-billion-valuation-for-cyber-defense-ai/",
+        "https://www.ynetnews.com/business/article/sju50socmg"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "ramon space",
+      "candidate_ids": [
+        "921ada90c468"
+      ],
+      "company": "Ramon.Space",
+      "website": null,
+      "amount_usd": 124000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-17",
+      "lead_investors": [
+        "PSG"
+      ],
+      "investors": [
+        "PSG"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Space computing hardware; AI claim not verified.",
+      "description": "Space-grade computing and data infrastructure company.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "Ramon.Space raises $124 million Series B led by PSG",
+        "round": "Ramon.Space raises $124 million Series B led by PSG",
+        "lead": "led by PSG",
+        "investors": "led by PSG"
+      },
+      "source_urls": [
+        "https://spaceanddefense.io/ramon-space-raises-124-million-series-b-led-by-psg/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "seawolf therapeutics",
+      "candidate_ids": [
+        "f5b34ced3d7c"
+      ],
+      "company": "Seawolf Therapeutics",
+      "website": null,
+      "amount_usd": 100000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-16",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "San Diego",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "DNA delivery biotech; no AI claim.",
+      "description": "DNA delivery biotech launching with $100M and a Sanofi partnership.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "Seawolf Therapeutics Launches with $100M, Sanofi Partnership",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.globalbankingandfinance.com/dna-drug-developer-seawolf-launches-100-million-funding/",
+        "https://fiercebiotech.com/biotech/dna-delivery-biotech-seawolf-surfaces-alongside-investors-novartis-lilly-and-partner-sanofi"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "55bcdf2db0c5",
+      "candidate_ids": [
+        "55bcdf2db0c5"
+      ],
+      "company": "Secure Properties",
+      "website": null,
+      "amount_usd": 54000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-17",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Real estate sale-leaseback.",
+      "description": "Real estate investor completing a sale-leaseback of 29 automotive sites.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "approximately $54 million sale-leaseback",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://pulse2.com/secure-properties-completes-54-million-sale-leaseback-across-29-automotive-sites/"
+      ],
+      "exclude_reason": "not-funding"
+    },
+    {
+      "group_key": "promise robotics",
+      "candidate_ids": [
+        "2fb130751a44"
+      ],
+      "company": "Promise Robotics",
+      "website": null,
+      "amount_usd": 28000000,
+      "amount_disclosed": true,
+      "currency_note": "CAD 40M converted at 0.71",
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-17",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "CA",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI-powered homebuilding factories.",
+      "description": "Robotics and AI-powered homebuilding factories.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "Raises C$40 Million in Series B Funding",
+        "round": "Series B Funding",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.citybiz.co/article/934647/promise-robotics-raises-c40-million-in-series-b-funding-to-expand-ai-powered-homebuilding-factories/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "bharat semi",
+      "candidate_ids": [
+        "f795c3d13b3e"
+      ],
+      "company": "Bharat Semi",
+      "website": null,
+      "amount_usd": 24000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-16",
+      "lead_investors": [
+        "Info Edge Group",
+        "South Park Commons",
+        "Indus Bridge Ventures"
+      ],
+      "investors": [
+        "Info Edge Group",
+        "South Park Commons",
+        "Indus Bridge Ventures",
+        "Valour Capital",
+        "Micromax",
+        "Gaingels"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI-enabled image sensors on a single chip.",
+      "description": "Indian semiconductor startup building programmable AI image sensors.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "raised $24 million in a seed funding round",
+        "round": "$24 million in seed funding",
+        "lead": "led by Info Edge Group, South Park Commons and Indus Bridge Ventures",
+        "investors": "led by Info Edge Group, South Park Commons and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels"
+      },
+      "source_urls": [
+        "https://enterpriseai.economictimes.indiatimes.com/amp/news/industry/bharat-semi-raises-24-million-in-seed-funding-to-scale-ai-sensor-technology/135876"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "aevius",
+      "candidate_ids": [
+        "550e2dff4300"
+      ],
+      "company": "Aevius",
+      "website": null,
+      "amount_usd": 22000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-17",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Medical intelligence platform (unverified).",
+      "description": "Digital health company aiming to make medicine computable.",
+      "confidence": 0.4,
+      "evidence": {
+        "amount": "Aevius Launches with $22 Million in Funding to Make Medicine Computable",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.joplinglobe.com/region/national_business/aevius-launches-with-22-million-in-funding-to-make-medicine-computable/article_36144b9d-410a-5b8f"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "alecto",
+      "candidate_ids": [
+        "f58ea3967607",
+        "89da8eae8350",
+        "198a3dd7f8dd",
+        "4c43858071e2",
+        "7ef886c24374"
+      ],
+      "company": "Alecto",
+      "website": null,
+      "amount_usd": 20000000,
+      "amount_disclosed": true,
+      "currency_note": "GBP 15M reported as $20M",
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-17",
+      "lead_investors": [
+        "Insight Partners"
+      ],
+      "investors": [
+        "Insight Partners",
+        "Firstminute Capital",
+        "Blue Lion Global",
+        "Andrena Ventures",
+        "FJ Labs",
+        "Antiportfolio Ventures",
+        "Mishcon de Reya"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "GB",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI-native consumer law firm.",
+      "description": "AI-native UK law firm focused on conveyancing, expanding into consumer legal services.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "Alecto Raises $20 Million To Expand AI-Native Consumer Legal Services",
+        "round": "seed funding",
+        "lead": "Insight Partners led the round",
+        "investors": "Insight Partners led the round, with participation from Firstminute Capital, Blue Lion Global, Andrena Ventures, FJ Labs, Antiportfolio Ventures"
+      },
+      "source_urls": [
+        "https://pulse2.com/alecto-raises-20-million-to-expand-ai-native-consumer-legal-services/",
+        "https://www.legalfutures.co.uk/latest-news/ai-native-conveyancing-firm-raises-15m-in-seed-funding"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "arva",
+      "candidate_ids": [
+        "c268e59709e8",
+        "9b1bbf254ff3"
+      ],
+      "company": "Arva AI",
+      "website": null,
+      "amount_usd": 20000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-17",
+      "lead_investors": [
+        "Arthur Ventures"
+      ],
+      "investors": [
+        "Arthur Ventures"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI models and agents for banking operations.",
+      "description": "Fintech building AI models and autonomous agents for banking operations.",
+      "confidence": 0.75,
+      "evidence": {
+        "amount": "Arva AI Raises $20 Million Series A Led by Arthur Ventures",
+        "round": "Series A",
+        "lead": "Led by Arthur Ventures",
+        "investors": "Led by Arthur Ventures"
+      },
+      "source_urls": [
+        "https://www.citybiz.co/article/935206/arva-ai-raises-20-million-series-a-led-by-arthur-ventures-to-expand-ai-automation-for-banks-and-fintechs/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "valkryn",
+      "candidate_ids": [
+        "508461a7b91d",
+        "db1f846f8d3c"
+      ],
+      "company": "Valkryn",
+      "website": null,
+      "amount_usd": 15000000,
+      "amount_disclosed": true,
+      "currency_note": "$15M seed; $17M total funding",
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-17",
+      "lead_investors": [
+        "Andreessen Horowitz"
+      ],
+      "investors": [
+        "Andreessen Horowitz",
+        "Cantos Ventures",
+        "Ambition Capital",
+        "Caffeinated Capital"
+      ],
+      "hq_city": "Washington",
+      "hq_state": "DC",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Testing and evaluation systems for autonomous military robots and drones.",
+      "description": "Defense tech startup building Battle Lab testing systems for military robots, drones and autonomous systems.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "a $15 million seed round led by Andreessen Horowitz",
+        "round": "a $15 million seed round",
+        "lead": "led by Andreessen Horowitz",
+        "investors": "led by Andreessen Horowitz ‘s American Dynamism fund with Cantos Ventures , Ambition Capital and Caffeinated Capital"
+      },
+      "source_urls": [
+        "https://theaiinsider.tech/2026/11/18/valkryn-emerges-from-stealth-with-17m-to-develop-military-robotics-testing-systems/"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "henfruit",
+      "candidate_ids": [
+        "a8088a741707"
+      ],
+      "company": "Henfruit",
+      "website": null,
+      "amount_usd": 15000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-18",
+      "lead_investors": [],
+      "investors": [
+        "Lok Capital",
+        "DSG Consumer Partners",
+        "RPSG Capital Ventures"
+      ],
+      "hq_city": "Mangaluru",
+      "hq_state": null,
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Egg brand; no AI claim.",
+      "description": "Indian egg brand expanding across India.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "raised $15 million in a Series A funding round",
+        "round": "Series A funding round",
+        "lead": null,
+        "investors": "Lok Capital, DSG Consumer Partners and RPSG Capital Ventures"
+      },
+      "source_urls": [
+        "https://www.thehindubusinessline.com/markets/henfruit-raises-15-million-in-series-a-funding/article71714528.ece"
+      ],
+      "exclude_reason": null
+    },
+    {
+      "group_key": "gama",
+      "candidate_ids": [
+        "93b0de3e80de"
+      ],
+      "company": "Gama",
+      "website": null,
+      "amount_usd": 16200000,
+      "amount_disclosed": true,
+      "currency_note": "EUR 15M converted at 1.08",
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-18",
+      "lead_investors": [],
+      "investors": [
+        "Transition Ventures",
+        "Planet A",
+        "Draper Associates",
+        "Manta Ray Ventures"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "FR",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Satellite solar arrays; no AI claim.",
+      "description": "Builds Wing, an ultra-light deployable solar array for satellites.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "€15 million in seed funding",
+        "round": "seed funding",
+        "lead": null,
+        "investors": "Transition Ventures, Planet A, Draper Associates, and Manta Ray Ventures"
+      },
+      "source_urls": [
+        "https://pulse2.com/gama-raises-e15-million-to-mass-produce-wing-satellite-solar-arrays/"
+      ],
+      "exclude_reason": null
+    }
+  ],
+  "problems": [],
+  "counts": {
+    "input": 23,
+    "accepted": 23,
+    "rejected": 0
+  }
+}

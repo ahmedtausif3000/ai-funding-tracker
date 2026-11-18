@@ -1442,3 +1442,27 @@
 {"run":"catchup-2026-11-10_2026-11-17","action":"inserted","id":"5a841d278f","company":"Lemonpeel","in_view":false,"exclude_reason":"non-us"}
 {"run":"catchup-2026-11-10_2026-11-17","action":"inserted","id":"008c450ffb","company":"JohnAIC","in_view":false,"exclude_reason":"non-us"}
 {"run":"catchup-2026-11-10_2026-11-17","action":"inserted","id":"deeb5430b2","company":"August AI","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-18","action":"merged","id":"2eeb6dcb32","company":"Isomorphic Labs","from":"Isomorphic Labs"}
+{"run":"2026-11-18","action":"inserted","id":"fc9f5bebf5","company":"Space Force","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-18","action":"inserted","id":"405c713da3","company":"Onward Therapeutics","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-18","action":"inserted","id":"da3d6d278c","company":"Argonaut Private Equity","in_view":false,"exclude_reason":"fund"}
+{"run":"2026-11-18","action":"merged","id":"caae083ade","company":"Genesis AI","from":"Genesis AI"}
+{"run":"2026-11-18","action":"inserted","id":"15043cf7ab","company":"MetLife Investment Management","in_view":false,"exclude_reason":"fund"}
+{"run":"2026-11-18","action":"merged","id":"ce52a2e5a3","company":"LangChain","from":"LangChain"}
+{"run":"2026-11-18","action":"merged","id":"a3383536e3","company":"Model ML","from":"Model ML"}
+{"run":"2026-11-18","action":"merged","id":"1e7f5d207f","company":"sennder","from":"Sennder"}
+{"run":"2026-11-18","action":"amount-conflict","id":"f5b7134b68","company":"Marrow Therapeutics","stored_amount":120000000,"incoming_amount":173000000,"incoming_sources":["https://indianewengland.com/","https://www.techtimes.com/articles/330910/20261117/sickle-cell-drug-marrow-raises-173-million-without-releasing-anemia-selectivity-data.htm"]}
+{"run":"2026-11-18","action":"merged","id":"f5b7134b68","company":"Marrow Therapeutics","from":"Marrow Therapeutics"}
+{"run":"2026-11-18","action":"merged","id":"aa79e80f3a","company":"General Flash","from":"General Flash"}
+{"run":"2026-11-18","action":"merged","id":"48f9b4211e","company":"Corma","from":"Corma"}
+{"run":"2026-11-18","action":"merged","id":"4a5c363738","company":"Ramon.Space","from":"Ramon.Space"}
+{"run":"2026-11-18","action":"merged","id":"0b57cf0750","company":"Seawolf Therapeutics","from":"Seawolf Therapeutics"}
+{"run":"2026-11-18","action":"merged","id":"425d1177f2","company":"Secure Properties","from":"Secure Properties"}
+{"run":"2026-11-18","action":"merged","id":"52de6c4362","company":"Promise Robotics","from":"Promise Robotics"}
+{"run":"2026-11-18","action":"merged","id":"f79f104ecf","company":"Bharat Semi","from":"Bharat Semi"}
+{"run":"2026-11-18","action":"merged","id":"1002501b89","company":"Aevius","from":"Aevius"}
+{"run":"2026-11-18","action":"merged","id":"7b0b18aa67","company":"Alecto","from":"Alecto"}
+{"run":"2026-11-18","action":"merged","id":"82730f7b3f","company":"Arva AI","from":"Arva AI"}
+{"run":"2026-11-18","action":"merged","id":"1751f62958","company":"Valkryn","from":"Valkryn"}
+{"run":"2026-11-18","action":"inserted","id":"d555705295","company":"Henfruit","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-18","action":"merged","id":"ac75d6288b","company":"Gama","from":"Gama"}

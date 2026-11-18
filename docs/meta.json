@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-18T06:43:17.211Z",
-  "last_run": "catchup-2026-11-10_2026-11-17",
-  "total_rounds": 1105,
+  "generated_at": "2026-11-18T06:46:02.125Z",
+  "last_run": "2026-11-18",
+  "total_rounds": 1110,
   "in_view": 248,
   "week": {
     "count": 31,
@@ -1408,6 +1408,171 @@
         "candidates": 288,
         "articles_fetched": 69,
         "google_rate_limited": true
+      }
+    },
+    {
+      "run_date": "2026-11-18",
+      "inserted": 5,
+      "merged": 18,
+      "excluded_on_insert": 5,
+      "corrected": 15,
+      "total_rounds": 1110,
+      "in_view": 248,
+      "fetch": {
+        "feeds": [
+          {
+            "id": "gnews-1",
+            "status": 200,
+            "items": 100
+          },
+          {
+            "id": "gnews-2",
+            "status": 200,
+            "items": 54
+          },
+          {
+            "id": "gnews-3",
+            "status": 200,
+            "items": 58
+          },
+          {
+            "id": "gnews-4",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-5",
+            "status": 200,
+            "items": 26
+          },
+          {
+            "id": "gnews-6",
+            "status": 200,
+            "items": 18
+          },
+          {
+            "id": "gnews-7",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-8",
+            "status": 200,
+            "items": 8
+          },
+          {
+            "id": "gnews-g1",
+            "status": 200,
+            "items": 46
+          },
+          {
+            "id": "gnews-g2",
+            "status": 200,
+            "items": 35
+          },
+          {
+            "id": "gnews-g3",
+            "status": 200,
+            "items": 14
+          },
+          {
+            "id": "gnews-g4",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-g5",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-g6",
+            "status": 200,
+            "items": 27
+          },
+          {
+            "id": "gnews-g7",
+            "status": 200,
+            "items": 18
+          },
+          {
+            "id": "gnews-g8",
+            "status": 200,
+            "items": 19
+          },
+          {
+            "id": "gnews-g9",
+            "status": 200,
+            "items": 36
+          },
+          {
+            "id": "prnewswire-vc",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "alleywatch",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "pulse2",
+            "status": 200,
+            "items": 120
+          },
+          {
+            "id": "citybiz",
+            "status": 200,
+            "items": 60
+          },
+          {
+            "id": "techcrunch-venture",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-funding",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-ai",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techfundingnews",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "crunchbase-news",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "crunchbase-news-ai",
+            "status": 200,
+            "items": 10
+          }
+        ],
+        "raw_items": 839,
+        "prefiltered": 52,
+        "dropped": {
+          "not_funding": 178,
+          "no_ai_hint": 65,
+          "below_min": 129,
+          "fund_close": 4,
+          "seen": 385,
+          "duplicate_link": 24,
+          "known_round": 12,
+          "noise": 2
+        },
+        "groups": 33,
+        "selected_groups": 26,
+        "candidates": 40,
+        "articles_fetched": 17,
+        "google_rate_limited": false
       }
     }
   ]

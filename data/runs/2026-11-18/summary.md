@@ -1,0 +1,11 @@
+# Run 2026-11-18
+- Feed health: 27 feeds all HTTP 200; 839 raw items, 52 prefiltered, 33 groups (26 selected), 40 candidates, 17 articles fetched; Google not rate limited.
+- Counts: 40 candidates, 23 rows extracted, 5 inserted (all out of view: not-funding, fund, non-US), 18 merged into existing rounds, 248 in view (1110 total).
+- In-scope rounds added: none new. All qualifying US rounds were already stored from the earlier catchup run and were enriched/merged:
+  - Genesis AI, $500M Series A, led by Khosla Ventures / Premji Invest / Eclipse
+  - LangChain, $300M Series C, led by CapitalG (stored)
+  - Corma, $125M Series A, led by NEA
+  - Ramon.Space, $124M Series B, led by PSG
+  - Arva AI, $20M Series A, led by Arthur Ventures
+  - Valkryn, $15M seed, led by a16z
+- Suspicious: web lookups could not confirm Model ML's $250M Series B, Ramon.Space's $124M, Aevius ($22M; stored round says Seed led by Insight Partners, which looks like Alecto's data) or Arva's $20M Series A (search found only older rounds). Treat Aevius as possibly a mismatch. Ramon.Space HQ unknown in my row; Corma is dual Tel Aviv/San Francisco (set US).

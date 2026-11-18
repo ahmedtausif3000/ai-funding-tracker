@@ -1,7 +1,53 @@
 {
  "version": 1,
- "updated_at": "2026-11-18T06:43:16.914Z",
+ "updated_at": "2026-11-18T06:46:01.974Z",
  "rounds": [
+  {
+   "id": "d555705295",
+   "group_key": "henfruit",
+   "candidate_ids": [
+    "a8088a741707"
+   ],
+   "company": "Henfruit",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [
+    "Lok Capital",
+    "DSG Consumer Partners",
+    "RPSG Capital Ventures"
+   ],
+   "hq_city": "Mangaluru",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Egg brand; no AI claim.",
+   "description": "Indian egg brand expanding across India.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "raised $15 million in a Series A funding round",
+    "round": "Series A funding round",
+    "lead": null,
+    "investors": "Lok Capital, DSG Consumer Partners and RPSG Capital Ventures"
+   },
+   "source_urls": [
+    "https://www.thehindubusinessline.com/markets/henfruit-raises-15-million-in-series-a-funding/article71714528.ece"
+   ],
+   "exclude_reason": null,
+   "transaction_name": "Series A - Henfruit",
+   "first_seen_run": "2026-11-18",
+   "runs": [
+    "2026-11-18"
+   ],
+   "created_at": "2026-11-18T06:46:01.965Z",
+   "updated_at": "2026-11-18T06:46:01.965Z",
+   "in_view": false
+  },
   {
    "id": "2eeb6dcb32",
    "run_date": "catchup-2026-11-10_2026-11-17",
@@ -30,7 +76,15 @@
    ],
    "investors": [
     "Greenoaks",
-    "Sequoia Capital"
+    "Sequoia Capital",
+    "a16z",
+    "Alphabet",
+    "Thrive Capital",
+    "MGX",
+    "GV",
+    "CapitalG",
+    "Temasek",
+    "UK Sovereign AI Fund"
    ],
    "hq_city": "London",
    "hq_state": null,
@@ -38,7 +92,7 @@
    "is_ai_ml": true,
    "ai_ml_rationale": "AI drug-discovery platform spun out of Google DeepMind.",
    "description": "AI drug-design company spun out of Google DeepMind in 2021; the oversubscribed round funds taking drug candidates into clinical trials.",
-   "confidence": 0.9,
+   "confidence": 0.95,
    "evidence": {
     "amount": "has raised $5 billion in a Series C funding round",
     "round": "Series C funding round",
@@ -51,16 +105,102 @@
     "https://pulse2.com/isomorphic-labs-raises-5-billion-series-c-for-ai-drug-discovery-platform/",
     "https://techfundingnews.com/deepmind-spinout-isomorphic-labs-lands-5b-series-c-to-take-ai-designed-medicines-into-the-clinic/",
     "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
-    "https://www.eu-startups.com/2026/11/ai-drug-discovery-giant-isomorphic-labs-raises-e4-5-billion-in-blockbuster-funding-round/"
+    "https://www.eu-startups.com/2026/11/ai-drug-discovery-giant-isomorphic-labs-raises-e4-5-billion-in-blockbuster-funding-round/",
+    "https://en.wowtale.net/2026/11/18/236070/"
    ],
    "exclude_reason": null,
    "transaction_name": "Series C - Isomorphic Labs",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
    ],
    "created_at": "2026-11-18T06:42:51.038Z",
-   "updated_at": "2026-11-18T06:42:51.038Z",
+   "updated_at": "2026-11-18T06:46:01.941Z",
+   "in_view": false
+  },
+  {
+   "id": "fc9f5bebf5",
+   "group_key": "space force",
+   "candidate_ids": [
+    "54171fbae304"
+   ],
+   "company": "Space Force",
+   "website": null,
+   "amount_usd": 985000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-17",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Government launch contract change, not a funding round.",
+   "description": "US Space Force raises launch contract ceilings for SpaceX, ULA and Blue Origin.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "up to $985 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://mlq.ai/news/space-force-raises-spacex-ula-and-blue-origin-launch-contracts-by-up-to-985-million/"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Other - Space Force",
+   "first_seen_run": "2026-11-18",
+   "runs": [
+    "2026-11-18"
+   ],
+   "created_at": "2026-11-18T06:46:01.944Z",
+   "updated_at": "2026-11-18T06:46:01.944Z",
+   "in_view": false
+  },
+  {
+   "id": "da3d6d278c",
+   "group_key": "exclusive",
+   "candidate_ids": [
+    "25ca6049d787"
+   ],
+   "company": "Argonaut Private Equity",
+   "website": null,
+   "amount_usd": 606000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-17",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Private equity fund raise.",
+   "description": "Private equity firm buying industrial businesses.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "Argonaut Private Equity Raises $606 Million to Buy Industrial Businesses",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.wsj.com/pro/private-equity/argonaut-private-equity-raises-606-million-to-buy-industrial-businesses-846ef895"
+   ],
+   "exclude_reason": "fund",
+   "transaction_name": "Other - Argonaut Private Equity",
+   "first_seen_run": "2026-11-18",
+   "runs": [
+    "2026-11-18"
+   ],
+   "created_at": "2026-11-18T06:46:01.956Z",
+   "updated_at": "2026-11-18T06:46:01.956Z",
    "in_view": false
   },
   {
@@ -159,17 +299,19 @@
    },
    "source_urls": [
     "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html",
-    "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457"
+    "https://www.wsj.com/cio-journal/genesis-ai-a-robotics-startup-raises-500-million-35198457",
+    "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/"
    ],
    "exclude_reason": null,
    "run_date": "catchup-2026-11-10_2026-11-17",
    "transaction_name": "Series A - Genesis AI",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
    ],
    "created_at": "2026-11-18T06:42:51.103Z",
-   "updated_at": "2026-11-18T06:42:51.103Z",
+   "updated_at": "2026-11-18T06:46:01.956Z",
    "in_view": true
   },
   {
@@ -224,6 +366,48 @@
    "in_view": true
   },
   {
+   "id": "15043cf7ab",
+   "group_key": "metlife investment management",
+   "candidate_ids": [
+    "190d00d32d42"
+   ],
+   "company": "MetLife Investment Management",
+   "website": null,
+   "amount_usd": 370000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-17",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Real estate debt fund close.",
+   "description": "Asset manager closing an opportunistic real estate debt fund.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "Closes $370 Million Opportunistic Real Estate Debt Fund",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/935212/metlife-investment-management-closes-370-million-opportunistic-real-estate-debt-fund/"
+   ],
+   "exclude_reason": "fund",
+   "transaction_name": "Other - MetLife Investment Management",
+   "first_seen_run": "2026-11-18",
+   "runs": [
+    "2026-11-18"
+   ],
+   "created_at": "2026-11-18T06:46:01.958Z",
+   "updated_at": "2026-11-18T06:46:01.958Z",
+   "in_view": false
+  },
+  {
    "id": "a3383536e3",
    "group_key": "model ml",
    "candidate_ids": [
@@ -240,7 +424,8 @@
    "announced_date": "2026-11-17",
    "lead_investors": [
     "General Atlantic",
-    "QED Investors"
+    "QED Investors",
+    "QED"
    ],
    "investors": [
     "General Atlantic",
@@ -252,10 +437,11 @@
     "FT Partners",
     "Latitude",
     "Inception Fund",
-    "13Books Capital"
+    "13Books Capital",
+    "QED"
    ],
    "hq_city": "London",
-   "hq_state": null,
+   "hq_state": "NY",
    "hq_country": "GB",
    "is_ai_ml": true,
    "ai_ml_rationale": "Builds AI agents that automate financial modelling, pitch decks and diligence work for bankers and consultants.",
@@ -269,17 +455,19 @@
    },
    "source_urls": [
     "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-    "https://pulse2.com/model-ml-raises-250-million-at-1-5-billion-valuation-for-personal-ai-agents/"
+    "https://pulse2.com/model-ml-raises-250-million-at-1-5-billion-valuation-for-personal-ai-agents/",
+    "https://www.fintechfutures.com/venture-capital-funding/model-ml-250m-series-b-funding-round-1-5bn-valuation"
    ],
    "exclude_reason": null,
    "run_date": "catchup-2026-11-10_2026-11-17",
    "transaction_name": "Series B - Model ML",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
    ],
    "created_at": "2026-11-18T06:42:51.135Z",
-   "updated_at": "2026-11-18T06:42:51.135Z",
+   "updated_at": "2026-11-18T06:46:01.958Z",
    "in_view": false
   },
   {
@@ -499,17 +687,19 @@
     "investors": "Investors include Lux Capital, Construct Capital, Overmatch Ventures, GreatPoint Ventures, Pillar VC, Lowercarbon Capital, Ensemble VC, Ravelin and leading angel investors"
    },
    "source_urls": [
-    "https://www.prnewswire.com/news-releases/general-flash-announces-128-million-in-funding-to-scale-us-production-of-critical-metals-302941551.html"
+    "https://www.prnewswire.com/news-releases/general-flash-announces-128-million-in-funding-to-scale-us-production-of-critical-metals-302941551.html",
+    "https://www.mining.com/general-flash-raises-128-million-to-scale-us-critical-metals-production/"
    ],
    "exclude_reason": null,
    "run_date": "catchup-2026-11-10_2026-11-17",
    "transaction_name": "Series A - General Flash",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
    ],
    "created_at": "2026-11-18T06:42:51.167Z",
-   "updated_at": "2026-11-18T06:42:51.167Z",
+   "updated_at": "2026-11-18T06:46:01.962Z",
    "in_view": false
   },
   {
@@ -558,17 +748,19 @@
     "https://mlq.ai/news/ramonspace-raises-124-million-in-a-series-b-for-space-computing-chips-with-micron-investing/",
     "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-915203",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNmdMLWRHSDA1eFI1ZGQ3dWtpMmJ0RVhYVEpoUDJBNWhiUGZYS00zeHQzZlo5T2Q4QXBTLWlMUFQyNUt1S1VQSWZ0cXN2OTQ0VXFIcnY5aDhOTEJqNEZqb2xUTXlFLWktdml5RWhlZzdna0ZPc0JMWUM0bW5YZXRWR1ZMQkptaGhoajVHWTY4djJpTm5zZWJTYVNyQ1JzaEFxa3QxMjVBeVp6ZGNjaTlqbGJQUnRwRzYzbDhBSmdlLVFUaWhrVFBTbXRn?oc=5",
-    "https://www.cbinsights.com/company/ramonspace"
+    "https://www.cbinsights.com/company/ramonspace",
+    "https://spaceanddefense.io/ramon-space-raises-124-million-series-b-led-by-psg/"
    ],
    "exclude_reason": null,
    "run_date": "catchup-2026-11-10_2026-11-17",
    "transaction_name": "Series B - Ramon.Space",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
    ],
    "created_at": "2026-11-18T06:42:51.169Z",
-   "updated_at": "2026-11-18T06:42:51.169Z",
+   "updated_at": "2026-11-18T06:46:01.962Z",
    "in_view": true
   },
   {
@@ -583,12 +775,14 @@
    "website": null,
    "amount_usd": 120000000,
    "amount_disclosed": true,
-   "currency_note": null,
+   "currency_note": "Combined $53M Series A and $120M Series B",
    "round_type": "Series B",
    "stage_bucket": "Early Stage Venture",
    "announced_date": "2026-11-17",
    "lead_investors": [
-    "OrbiMed"
+    "OrbiMed",
+    "Scion Life Sciences",
+    "venBio"
    ],
    "investors": [
     "OrbiMed",
@@ -617,18 +811,24 @@
     "investors": "All Series A investors participated in the Series B alongside RTW Investments, Surveyor Capital, Opaleye, NEXTBio Capital, Affinity Advisors, KKR, Spruce Street Capital, and Columbia Threadneedle Investments"
    },
    "source_urls": [
-    "https://pulse2.com/marrow-therapeutics-launches-with-173-million-for-bone-marrow-targeted-medicines/"
+    "https://pulse2.com/marrow-therapeutics-launches-with-173-million-for-bone-marrow-targeted-medicines/",
+    "https://indianewengland.com/",
+    "https://www.techtimes.com/articles/330910/20261117/sickle-cell-drug-marrow-raises-173-million-without-releasing-anemia-selectivity-data.htm"
    ],
    "exclude_reason": null,
    "run_date": "catchup-2026-11-10_2026-11-17",
    "transaction_name": "Series B - Marrow Therapeutics",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
    ],
    "created_at": "2026-11-18T06:42:51.158Z",
-   "updated_at": "2026-11-18T06:42:51.158Z",
-   "in_view": false
+   "updated_at": "2026-11-18T06:46:01.962Z",
+   "in_view": false,
+   "alt_amounts": [
+    173000000
+   ]
   },
   {
    "id": "4b97fc5934",
@@ -1291,18 +1491,69 @@
     "investors": "The round also included participation from Horizons Ventures, Radical Ventures, Public Sector Pension Investment Board (PSP Investments)."
    },
    "source_urls": [
-    "https://www.prnewswire.com/news-releases/promise-robotics-raises-40-million-cad-series-b-to-scale-the-production-infrastructure-powering-homebuilding-302941746.html"
+    "https://www.prnewswire.com/news-releases/promise-robotics-raises-40-million-cad-series-b-to-scale-the-production-infrastructure-powering-homebuilding-302941746.html",
+    "https://www.citybiz.co/article/934647/promise-robotics-raises-c40-million-in-series-b-funding-to-expand-ai-powered-homebuilding-factories/"
    ],
    "exclude_reason": null,
    "run_date": "catchup-2026-11-10_2026-11-17",
    "transaction_name": "Series B - Promise Robotics",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
    ],
    "created_at": "2026-11-18T06:42:51.241Z",
-   "updated_at": "2026-11-18T06:42:51.241Z",
+   "updated_at": "2026-11-18T06:46:01.963Z",
    "in_view": true
+  },
+  {
+   "id": "405c713da3",
+   "group_key": "onward therapeutics",
+   "candidate_ids": [
+    "21eee2dd6aad",
+    "0b7d810eb605"
+   ],
+   "company": "Onward Therapeutics",
+   "website": null,
+   "amount_usd": 28000000,
+   "amount_disclosed": true,
+   "currency_note": "NT$900 million, approx. US$28 million as stated",
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-17",
+   "lead_investors": [],
+   "investors": [
+    "CDIB Capital Healthcare Ventures",
+    "Beiley Biofund",
+    "Everbright Biofund",
+    "Hercules Bioventure Partners",
+    "Top Taiwan Venture Capital"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "TW",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Clinical-stage oncology company; no AI claim.",
+   "description": "Clinical-stage oncology company headquartered in Taiwan.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "NT$900 million (approximately US$28 million) Series B financing",
+    "round": "closed its NT$900 million (approximately US$28 million) Series B financing",
+    "lead": null,
+    "investors": "CDIB Capital Healthcare Ventures and Hong Kong Chlitina International"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/onward-therapeutics-closes-nt900-million-approximately-us28-million-series-b-financing-to-advance-clinical-st"
+   ],
+   "exclude_reason": null,
+   "transaction_name": "Series B - Onward Therapeutics",
+   "first_seen_run": "2026-11-18",
+   "runs": [
+    "2026-11-18"
+   ],
+   "created_at": "2026-11-18T06:46:01.950Z",
+   "updated_at": "2026-11-18T06:46:01.950Z",
+   "in_view": false
   },
   {
    "id": "7e0e979f8a",
@@ -1583,16 +1834,18 @@
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQmROS0doTjBnd2dWNzlUZy1tRmFrNmVOSzFDbWlWZ254YnVScmtlbGlxWFdKWUswazhQaHNRWDQ1OFFyYTFJU3B4UEVJd21vSEVqbGdRSE84R3NpZktPaVRwa0JUeU1KdVFLVnJmUy1tLTE5Rzd4Vzc0QlU2akdwYkJsdm1kSzNheUd2Q0dWX2ZDYmx4Tnc1cEVEWFNrRGtObXY1MV9vc3B3aXBONFcwclk1TWlMSjVrdWltOTNKNjVIRlVIbUpSUkNR?oc=5",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxORks0TmVsdGpZblVfSXFZTnpjN19xZXlUbVJIZEROOHF6SEdtNzB1NHhFc2RjdTRBVzQyc2tMb0k1aDAwbWUyV0ZNUHJ3UURkaVFwNmhIdlMxSEs0Z29mbDJVcFAwQVFOZFdpRVVRS3V6VDQwSUFrbGhRZVJyVEJjd3FEd1BDZVFQb1A4aHdtVWlrVGZWOEVtVjBNZUZhLXBaalR3N2xfT1pobHh1dWZDczBpekk2TmFxQldWMm1VQXAxYVBUSnc?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdGJKcVFsbUNGX1JKOW1NX2tRRU55SUlBRHVOczRyNmF2UjdBZUdJOVRoanhiZk5aRW9XVm1saWZGNHhqdzVoTVlpLW0tbzVldzl1LXlvS25QVWxrd3hvVkU4OE54R05mTVh3LXBnazU0Q0JTbHJsMHZMYU12dDFGdmZkNlF0aGFWMC1BZy1R?oc=5",
-    "https://app.dealroom.co/companies/aevius_labs"
+    "https://app.dealroom.co/companies/aevius_labs",
+    "https://www.joplinglobe.com/region/national_business/aevius-launches-with-22-million-in-funding-to-make-medicine-computable/article_36144b9d-410a-5b8f"
    ],
    "exclude_reason": null,
    "transaction_name": "Seed - Aevius",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
    ],
    "created_at": "2026-11-18T06:42:51.278Z",
-   "updated_at": "2026-11-18T06:42:51.278Z",
+   "updated_at": "2026-11-18T06:46:01.963Z",
    "in_view": true
   },
   {
@@ -1739,10 +1992,11 @@
    "transaction_name": "Series A - Arva AI",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
    ],
    "created_at": "2026-11-18T06:42:51.289Z",
-   "updated_at": "2026-11-18T06:42:51.289Z",
+   "updated_at": "2026-11-18T06:46:01.963Z",
    "in_view": true
   },
   {
@@ -1797,7 +2051,7 @@
    "website": null,
    "amount_usd": 15000000,
    "amount_disclosed": true,
-   "currency_note": null,
+   "currency_note": "$15M seed; $17M total funding",
    "round_type": "Seed",
    "stage_bucket": "Seed",
    "announced_date": "2026-11-17",
@@ -1816,7 +2070,7 @@
    "is_ai_ml": true,
    "ai_ml_rationale": "Tests and scores robotic and autonomous military systems (autonomy/robotics).",
    "description": "Defense-tech tester whose Battle Lab instruments real-world tests of autonomous systems and scores them against government criteria; $17M total including a $2M pre-seed.",
-   "confidence": 0.75,
+   "confidence": 0.85,
    "evidence": {
     "amount": "a16z leads $15M seed into defense-tech tester Valkryn",
     "round": "a16z leads $15M seed into defense-tech tester Valkryn",
@@ -1827,16 +2081,18 @@
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxObzRGZEhHZVpDbDVJNFdqOHVaZUM2cXdadEEwSVZOdWNNX2Y5WU9iLTBQdW9vczZhVmpweHRRaHNhX1pvMHpZdTE3RUxTMEtENWdDMUdLNGlDVXhiaHlaR3BIbHRZYXFOTUJLSC1sUDZPbzRNMjE1aldZVWM5T1JMT3dDbjQ2bTRVWE11bzZQbUZUbC10aFE?oc=5",
     "https://www.axios.com/2026/11/17/valkryn-seed-a16z-autonomy-testing-drones",
     "https://dealroom.co/news/173481-a16z-leads-15m-seed-into-defense-tech-tester-valkryn/",
-    "https://finance.yahoo.com/technology/ai/articles/valkryn-emerges-stealth-build-battle-113000729.html"
+    "https://finance.yahoo.com/technology/ai/articles/valkryn-emerges-stealth-build-battle-113000729.html",
+    "https://theaiinsider.tech/2026/11/18/valkryn-emerges-from-stealth-with-17m-to-develop-military-robotics-testing-systems/"
    ],
    "exclude_reason": null,
    "transaction_name": "Seed - Valkryn",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
    ],
    "created_at": "2026-11-18T06:42:51.297Z",
-   "updated_at": "2026-11-18T06:42:51.297Z",
+   "updated_at": "2026-11-18T06:46:01.964Z",
    "in_view": true
   },
   {
@@ -2872,16 +3128,18 @@
     "https://fourweekmba.com/ai-corma-hits-1b-three-months-out-of-stealth-8x-its-series-a/",
     "https://www.unite.ai/corma-raises-125m-series-a-at-1b-valuation-to-scale-defensive-ai/",
     "https://en.globes.co.il/en/article-defensive-ai-agents-co-corma-raises-125-million-at-1b-valuation-1001563580",
-    "https://www.ynetnews.com/business/article/sju50socmg"
+    "https://www.ynetnews.com/business/article/sju50socmg",
+    "https://pulse2.com/corma-raises-125-million-at-1-billion-valuation-for-cyber-defense-ai/"
    ],
    "exclude_reason": null,
    "transaction_name": "Series A - Corma",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
    ],
    "created_at": "2026-11-18T06:42:51.077Z",
-   "updated_at": "2026-11-18T06:42:51.168Z",
+   "updated_at": "2026-11-18T06:46:01.962Z",
    "in_view": true
   },
   {
@@ -3037,16 +3295,19 @@
    },
    "source_urls": [
     "https://pulse2.com/seawolf-therapeutics-100-million-funding-and-up-to-1-2-billion-sanofi-partnership-to-advance-dna-medicines/",
-    "https://www.reuters.com/legal/litigation/dna-drug-developer-seawolf-launches-with-100-million-funding-sanofi-deal-2026-11-16/"
+    "https://www.reuters.com/legal/litigation/dna-drug-developer-seawolf-launches-with-100-million-funding-sanofi-deal-2026-11-16/",
+    "https://www.globalbankingandfinance.com/dna-drug-developer-seawolf-launches-100-million-funding/",
+    "https://fiercebiotech.com/biotech/dna-delivery-biotech-seawolf-surfaces-alongside-investors-novartis-lilly-and-partner-sanofi"
    ],
    "exclude_reason": null,
    "transaction_name": "Series A - Seawolf Therapeutics",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
    ],
    "created_at": "2026-11-18T06:42:51.187Z",
-   "updated_at": "2026-11-18T06:42:51.187Z",
+   "updated_at": "2026-11-18T06:46:01.962Z",
    "in_view": false
   },
   {
@@ -3107,6 +3368,51 @@
    "created_at": "2026-11-18T06:42:51.190Z",
    "updated_at": "2026-11-18T06:42:51.190Z",
    "in_view": true
+  },
+  {
+   "id": "425d1177f2",
+   "group_key": "0511b77015cc",
+   "candidate_ids": [
+    "0511b77015cc"
+   ],
+   "company": "Secure Properties",
+   "website": null,
+   "amount_usd": 54000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-16",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Real estate sale-leaseback transaction; no AI/ML product.",
+   "description": "Real estate firm that completed an approximately $54M sale-leaseback of 29 Midwest automotive service properties (property transaction, not a financing round).",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "has completed an approximately $54 million sale-leaseback transaction",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/934140/secure-properties-completes-54-million-sale-leaseback-of-29-midwest-automotive-properties/",
+    "https://pulse2.com/secure-properties-completes-54-million-sale-leaseback-across-29-automotive-sites/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "catchup-2026-11-10_2026-11-17",
+   "transaction_name": "Other - Secure Properties",
+   "first_seen_run": "catchup-2026-11-10_2026-11-17",
+   "runs": [
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
+   ],
+   "created_at": "2026-11-18T06:42:51.224Z",
+   "updated_at": "2026-11-18T06:46:01.963Z",
+   "in_view": false
   },
   {
    "id": "59d3af6e33",
@@ -3547,7 +3853,8 @@
     "Rigby Group",
     "Mischon de Reya",
     "Simon Rogerson",
-    "John Reynolds"
+    "John Reynolds",
+    "Mishcon de Reya"
    ],
    "hq_city": "London",
    "hq_state": null,
@@ -3565,16 +3872,19 @@
    "source_urls": [
     "https://siliconangle.com/2026/11/16/alecto-raises-20m-seed-funding-to-make-uk-property-law-more-accessible-to-consumers-with-ai/",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMlNzZ0ZwWnJ6dmVITGJTeWRDcEdITmdLenV1NFh0X2RJN0JFd2tNMGl0WHBhMjAtWU9hOHJuc0NfQmNXczh1RjY5OTJRYzhxWDZzclJnSEpoOVdQVHRuNHhFQlVIelRTZ09OcnZJQUVoMUZVdTBISURQekhMdUI0YkVVSEZEYWxCb2EyUGF1UnA1NHpucFRIVS1uME9XUUNidGRjdTJLWUlIcTNkRzZZeW53ZHA1em4xaHRtRHJOUlk?oc=5",
-    "https://techfundingnews.com/alecto-raises-20m-from-insight-partners-after-hitting-8m-arr-in-8-months/"
+    "https://techfundingnews.com/alecto-raises-20m-from-insight-partners-after-hitting-8m-arr-in-8-months/",
+    "https://pulse2.com/alecto-raises-20-million-to-expand-ai-native-consumer-legal-services/",
+    "https://www.legalfutures.co.uk/latest-news/ai-native-conveyancing-firm-raises-15m-in-seed-funding"
    ],
    "exclude_reason": null,
    "transaction_name": "Seed - Alecto",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
    ],
    "created_at": "2026-11-18T06:42:51.295Z",
-   "updated_at": "2026-11-18T06:42:51.295Z",
+   "updated_at": "2026-11-18T06:46:01.963Z",
    "in_view": false
   },
   {
@@ -4006,49 +4316,6 @@
    ],
    "created_at": "2026-11-18T06:42:51.220Z",
    "updated_at": "2026-11-18T06:42:51.220Z",
-   "in_view": false
-  },
-  {
-   "id": "425d1177f2",
-   "group_key": "0511b77015cc",
-   "candidate_ids": [
-    "0511b77015cc"
-   ],
-   "company": "Secure Properties",
-   "website": null,
-   "amount_usd": null,
-   "amount_disclosed": false,
-   "currency_note": null,
-   "round_type": "Other",
-   "stage_bucket": "Other",
-   "announced_date": "2026-11-16",
-   "lead_investors": [],
-   "investors": [],
-   "hq_city": null,
-   "hq_state": null,
-   "hq_country": "unknown",
-   "is_ai_ml": false,
-   "ai_ml_rationale": "Real estate sale-leaseback transaction; no AI/ML product.",
-   "description": "Real estate firm that completed an approximately $54M sale-leaseback of 29 Midwest automotive service properties (property transaction, not a financing round).",
-   "confidence": 0.9,
-   "evidence": {
-    "amount": "has completed an approximately $54 million sale-leaseback transaction",
-    "round": null,
-    "lead": null,
-    "investors": null
-   },
-   "source_urls": [
-    "https://www.citybiz.co/article/934140/secure-properties-completes-54-million-sale-leaseback-of-29-midwest-automotive-properties/"
-   ],
-   "exclude_reason": "not-funding",
-   "run_date": "catchup-2026-11-10_2026-11-17",
-   "transaction_name": "Other - Secure Properties",
-   "first_seen_run": "catchup-2026-11-10_2026-11-17",
-   "runs": [
-    "catchup-2026-11-10_2026-11-17"
-   ],
-   "created_at": "2026-11-18T06:42:51.224Z",
-   "updated_at": "2026-11-18T06:42:51.224Z",
    "in_view": false
   },
   {
@@ -4487,11 +4754,20 @@
    "announced_date": "2026-11-15",
    "lead_investors": [
     "Info Edge",
-    "South Park Common"
+    "South Park Common",
+    "Info Edge Group",
+    "South Park Commons",
+    "Indus Bridge Ventures"
    ],
    "investors": [
     "Info Edge",
-    "South Park Common"
+    "South Park Common",
+    "Info Edge Group",
+    "South Park Commons",
+    "Indus Bridge Ventures",
+    "Valour Capital",
+    "Micromax",
+    "Gaingels"
    ],
    "hq_city": null,
    "hq_state": null,
@@ -4499,7 +4775,7 @@
    "is_ai_ml": true,
    "ai_ml_rationale": "Chip startup building AI-enabled / AI-powered image sensors.",
    "description": "Indian chip startup developing AI-enabled image sensors for robots, cameras, drones and surveillance devices.",
-   "confidence": 0.85,
+   "confidence": 0.9,
    "evidence": {
     "amount": "Bharat Semi raises $24 million in seed round led by Info Edge, South Park Common",
     "round": "Bharat Semi raises $24 million in seed round led by Info Edge, South Park Common",
@@ -4509,16 +4785,18 @@
    "source_urls": [
     "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOW1MMEZVX0l6Nm05VmhVQXgxU2YwSXY0MHRXN21icVpRNW9pSlU4c2Z4akJQX0ZjRWhLcm82OWw5Ynd3RnBnbF9pX2Q3cGN1Yl9pc28yNjJsRHpBRjdiTXNCSmVuWm80LURYTDRTc1o4Q1FRbWFLaWhQMkl0T1lCamdJSE5lZmt4QW9TRDRfUVpMYy1CdXhCT1pkMklpQ2xNdEM4NFdRanQ3bmxJZG5vM2U2eFV5MDdyLTE3dEd3Z19rUU5HUmplSV91Wkk4UW_SAdQBQVVfeXFMTWV3QTlLY19mOERxN3AtSkJJeEo0dnRoZDg5NXBpVENMcU8zSHgzS1llSllNR2M5Y2owaU9Ca3JCM0tiZXJDeUZSeU9MU2pILXFEUl9ubGFkYjk4N2dDUEt4UDFzVWh3QUg1RXdzYTFoR3htbGM5clJvY2tacUNzZlEyZGdxU2ZKcmVwTHdod2E0OUl2RW42UkhLVDlzOHo0dHZvZ0FVdGVfa0kwZVg5NnJ4RU9JdGRpalRrWFc1dVF0RVFScFg0SHRBYThfaUJHWXJiOFk?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ2lpQm9Ldm5zS254LUx2eHVfM2pwV2NROTlmUnJVNEsxbHJ4aTRCV1RRaWNRQXNaQ015d1RDbFFUR1BFcnV4VTZYaVdRM1E2SDlWVEpmZS1YcFhXUkZoU2l3WjBVdDZZVGFfMWdQaUxxeVV3YThTeVRsQ01ZZWFfNnNmbTg3Zm15ZklUdzczV0FONnQwRVZLSXJhazNYNFQydDRUSWJydUxNVm5zcktnSC02Z9IBswFBVV95cUxNQ2lpQm9Ldm5zS254LUx2eHVfM2pwV2NROTlmUnJVNEsxbHJ4aTRCV1RRaWNRQXNaQ015d1RDbFFUR1BFcnV4VTZYaVdRM1E2SDlWVEpmZS1YcFhXUkZoU2l3WjBVdDZZVGFfMWdQaUxxeVV3YThTeVRsQ01ZZWFfNnNmbTg3Zm15ZklUdzczV0FONnQwRVZLSXJhazNYNFQydDRUSWJydUxNVm5zcktnSC02Zw?oc=5"
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ2lpQm9Ldm5zS254LUx2eHVfM2pwV2NROTlmUnJVNEsxbHJ4aTRCV1RRaWNRQXNaQ015d1RDbFFUR1BFcnV4VTZYaVdRM1E2SDlWVEpmZS1YcFhXUkZoU2l3WjBVdDZZVGFfMWdQaUxxeVV3YThTeVRsQ01ZZWFfNnNmbTg3Zm15ZklUdzczV0FONnQwRVZLSXJhazNYNFQydDRUSWJydUxNVm5zcktnSC02Z9IBswFBVV95cUxNQ2lpQm9Ldm5zS254LUx2eHVfM2pwV2NROTlmUnJVNEsxbHJ4aTRCV1RRaWNRQXNaQ015d1RDbFFUR1BFcnV4VTZYaVdRM1E2SDlWVEpmZS1YcFhXUkZoU2l3WjBVdDZZVGFfMWdQaUxxeVV3YThTeVRsQ01ZZWFfNnNmbTg3Zm15ZklUdzczV0FONnQwRVZLSXJhazNYNFQydDRUSWJydUxNVm5zcktnSC02Zw?oc=5",
+    "https://enterpriseai.economictimes.indiatimes.com/amp/news/industry/bharat-semi-raises-24-million-in-seed-funding-to-scale-ai-sensor-technology/135876"
    ],
    "exclude_reason": null,
    "transaction_name": "Seed - Bharat Semi",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
    ],
    "created_at": "2026-11-18T06:42:51.272Z",
-   "updated_at": "2026-11-18T06:42:51.272Z",
+   "updated_at": "2026-11-18T06:46:01.963Z",
    "in_view": false
   },
   {
@@ -7958,16 +8236,19 @@
     "https://www.citybiz.co/article/933425/langchain-raises-300-million-series-c-led-by-capitalg-at-3-billion-valuation/",
     "https://www.newsbytesapp.com/news/business/langchain-raises-300m-at-3b-valuation-to-manage-ai-agents/story",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMll4VGZLNmFxNGROMUlxLUhQTGcxanRpLV9DeTdaM010ZFhkNndZX0sxQ3F1RFFkeTFYM1doYVZNR0t1U09RQVZnTS16N2FBSjBzQzlKSU1ISWlBMHlnUjNHU2c3NGItcUszVG5ISzhJQ2R0ek5jUWJsTkRHVk94aHdoV29EZw?oc=5",
-    "https://fourweekmba.com/ai-rounds-of-100m-raised-5-59b-in-a-week-1-7x-the-last/"
+    "https://fourweekmba.com/ai-rounds-of-100m-raised-5-59b-in-a-week-1-7x-the-last/",
+    "https://quasa.io/stories/langchain-raises-300m-after-shifting-from-framework-to-agent-control",
+    "https://www.langchain.com/blog/series-c"
    ],
    "exclude_reason": null,
    "transaction_name": "Series C - LangChain",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
    ],
    "created_at": "2026-11-18T06:42:51.043Z",
-   "updated_at": "2026-11-18T06:42:51.185Z",
+   "updated_at": "2026-11-18T06:46:01.958Z",
    "in_view": true
   },
   {
@@ -9307,7 +9588,10 @@
    "investors": [
     "Transition",
     "Planet A",
-    "Draper"
+    "Draper",
+    "Transition Ventures",
+    "Draper Associates",
+    "Manta Ray Ventures"
    ],
    "hq_city": "Paris",
    "hq_state": null,
@@ -9315,7 +9599,7 @@
    "is_ai_ml": false,
    "ai_ml_rationale": "Space hardware (satellite solar arrays); no AI/ML claim.",
    "description": "Paris-based spacetech developing solar arrays for satellites.",
-   "confidence": 0.8,
+   "confidence": 0.85,
    "evidence": {
     "amount": "just closed €15 million in seed funding",
     "round": "€15 million in seed funding",
@@ -9323,16 +9607,18 @@
     "investors": "Transition, Planet A and Draper back €15M seed"
    },
    "source_urls": [
-    "https://techfundingnews.com/gama-15m-seed-satellite-solar-arrays-wing/"
+    "https://techfundingnews.com/gama-15m-seed-satellite-solar-arrays-wing/",
+    "https://pulse2.com/gama-raises-e15-million-to-mass-produce-wing-satellite-solar-arrays/"
    ],
    "exclude_reason": null,
    "transaction_name": "Seed - Gama",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
    ],
    "created_at": "2026-11-18T06:42:51.307Z",
-   "updated_at": "2026-11-18T06:42:51.307Z",
+   "updated_at": "2026-11-18T06:46:01.966Z",
    "in_view": false
   },
   {
@@ -10732,17 +11018,19 @@
     "https://trans.info/en/sennder-228-million-financing-scania-eib-carriers-514221",
     "https://dealroom.co/news/171684-freight-unicorn-sennder-lands-228m-in-equity-and-credit/",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZGQ2R3pSS2dkRHJMcjRVeWpKbWFVVU54TDdIa3laZWl4bUtUdHdybDUxMDZJWkpHVDhfem90OEpEWnJTOEw0N1dPSDgtdXA1MUI4MVZOZjdHbzg4RmR4NFNES0w3VGlrakx5b3VaVnBoek05QmUyRmlueFBjTk9NQkVaNUstSEJOc1lVLWRvSHdKQnNwM0p3Nlh5OWcwWGtNZ3lQTUdxMzg5UFo2dzJjTERGWlBKQQ?oc=5",
-    "https://tech.eu/2026/11/11/berlin-freight-unicorn-sennder-raises-228m-in-debt-and-equity//"
+    "https://tech.eu/2026/11/11/berlin-freight-unicorn-sennder-raises-228m-in-debt-and-equity//",
+    "https://pulse2.com/sennder-secures-e228-million-to-expand-european-road-freight-platform/"
    ],
    "exclude_reason": null,
    "run_date": "catchup-2026-11-10_2026-11-17",
    "transaction_name": "Other - sennder",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-18"
    ],
    "created_at": "2026-11-18T06:42:51.134Z",
-   "updated_at": "2026-11-18T06:42:51.321Z",
+   "updated_at": "2026-11-18T06:46:01.958Z",
    "in_view": false
   },
   {
@@ -52921,5 +53209,5 @@
    "in_view": true
   }
  ],
- "last_run": "catchup-2026-11-10_2026-11-17"
+ "last_run": "2026-11-18"
 }

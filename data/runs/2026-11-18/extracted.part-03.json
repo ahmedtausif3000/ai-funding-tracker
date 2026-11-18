@@ -1,0 +1,161 @@
+{
+ "run_date": "2026-11-18",
+ "extractor": "claude-code routine",
+ "notes": "Group 'native' (Alecto, UK) is covered by the alecto row in part 2; 'defense tech startup' merged into valkryn.",
+ "rows": [
+  {
+   "group_key": "arva",
+   "candidate_ids": [
+    "c268e59709e8",
+    "9b1bbf254ff3"
+   ],
+   "company": "Arva AI",
+   "website": null,
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-17",
+   "lead_investors": [
+    "Arthur Ventures"
+   ],
+   "investors": [
+    "Arthur Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI models and agents for banking operations.",
+   "description": "Fintech building AI models and autonomous agents for banking operations.",
+   "confidence": 0.75,
+   "evidence": {
+    "amount": "Arva AI Raises $20 Million Series A Led by Arthur Ventures",
+    "round": "Series A",
+    "lead": "Led by Arthur Ventures",
+    "investors": "Led by Arthur Ventures"
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/935206/arva-ai-raises-20-million-series-a-led-by-arthur-ventures-to-expand-ai-automation-for-banks-and-fintechs/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "valkryn",
+   "candidate_ids": [
+    "508461a7b91d",
+    "db1f846f8d3c"
+   ],
+   "company": "Valkryn",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": "$15M seed; $17M total funding",
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-17",
+   "lead_investors": [
+    "Andreessen Horowitz"
+   ],
+   "investors": [
+    "Andreessen Horowitz",
+    "Cantos Ventures",
+    "Ambition Capital",
+    "Caffeinated Capital"
+   ],
+   "hq_city": "Washington",
+   "hq_state": "DC",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Testing and evaluation systems for autonomous military robots and drones.",
+   "description": "Defense tech startup building Battle Lab testing systems for military robots, drones and autonomous systems.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "a $15 million seed round led by Andreessen Horowitz",
+    "round": "a $15 million seed round",
+    "lead": "led by Andreessen Horowitz",
+    "investors": "led by Andreessen Horowitz ‘s American Dynamism fund with Cantos Ventures , Ambition Capital and Caffeinated Capital"
+   },
+   "source_urls": [
+    "https://theaiinsider.tech/2026/11/18/valkryn-emerges-from-stealth-with-17m-to-develop-military-robotics-testing-systems/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "henfruit",
+   "candidate_ids": [
+    "a8088a741707"
+   ],
+   "company": "Henfruit",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [
+    "Lok Capital",
+    "DSG Consumer Partners",
+    "RPSG Capital Ventures"
+   ],
+   "hq_city": "Mangaluru",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Egg brand; no AI claim.",
+   "description": "Indian egg brand expanding across India.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "raised $15 million in a Series A funding round",
+    "round": "Series A funding round",
+    "lead": null,
+    "investors": "Lok Capital, DSG Consumer Partners and RPSG Capital Ventures"
+   },
+   "source_urls": [
+    "https://www.thehindubusinessline.com/markets/henfruit-raises-15-million-in-series-a-funding/article71714528.ece"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "gama",
+   "candidate_ids": [
+    "93b0de3e80de"
+   ],
+   "company": "Gama",
+   "website": null,
+   "amount_usd": 16200000,
+   "amount_disclosed": true,
+   "currency_note": "EUR 15M converted at 1.08",
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [
+    "Transition Ventures",
+    "Planet A",
+    "Draper Associates",
+    "Manta Ray Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "FR",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Satellite solar arrays; no AI claim.",
+   "description": "Builds Wing, an ultra-light deployable solar array for satellites.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "€15 million in seed funding",
+    "round": "seed funding",
+    "lead": null,
+    "investors": "Transition Ventures, Planet A, Draper Associates, and Manta Ray Ventures"
+   },
+   "source_urls": [
+    "https://pulse2.com/gama-raises-e15-million-to-mass-produce-wing-satellite-solar-arrays/"
+   ],
+   "exclude_reason": null
+  }
+ ]
+}
