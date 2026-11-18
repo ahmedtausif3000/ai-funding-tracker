@@ -1,0 +1,44 @@
+{
+ "run_date": "2026-11-18-2028",
+ "part": 5,
+ "groups": [
+  {
+   "group_key": "botsync",
+   "company_guess": "Botsync",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "5c098dd3d9a7",
+     "group_key": "botsync",
+     "title": "Botsync raises $11 mn funding led by IvyCap Ventures",
+     "publisher": "ET Entrepreneur",
+     "url": "https://entrepreneur.economictimes.indiatimes.com/news/funding/botsync-raises-11-mn-funding-led-by-ivycap-ventures/135951834",
+     "published_at": "2026-11-18T06:15:17.000Z",
+     "amount_hint": null,
+     "snippet": "Botsync raises $11 mn funding led by IvyCap Ventures ET Entrepreneur",
+     "text_status": "ok",
+     "text": "Funding\n2 min read\nBotsync raises $11 mn funding led by IvyCap Ventures\nThe company will use the capital to develop new artificial intelligence capabilities for its physical AI platform, SyncOS, improve the performance of its autonomous mobile robots, and expand its engineering and project delivery teams in India. It also plans to deepen partnerships with local systems integrators and automation providers.\nETEntrepreneur Desk\nETEntrepreneur\nPublished On Nov 18, 2026 at 11:45 AM IST\nCopy Link\nShare on WhatsApp\nShare on Linkedin\nShare on X\nShare on Telegram\nShare on Facebook\nFounded in 2019 by Rahul Nambiar, Nikhil Venkatesh and Prashant Trivedi, Botsync combines autonomous mobile robots with SyncOS, a software platform that connects robots, machines and enterprise systems within a manufacturing facility. Botsync , a Singapore-headquartered robotics company developing automation solutions for manufacturing facilities and distribution centres, has raised $11 million in a funding round led by IvyCap Ventures with participation from Capital 2B, AppWorks, Iterative, AngelCentral, Genesis Alternate Investments and angel investor Nalin Advani.\nThe company will use the capital to develop new artificial intelligence capabilities for its physical AI platform, SyncOS, improve the performance of its autonomous mobile robots (AMRs), and expand its engineering and project delivery teams in India. It also plans to deepen partnerships with local systems integrators and automation providers.\nFounded in 2019 by Rahul Nambiar, Nikhil Venkatesh and Prashant Trivedi, Botsync combines autonomous mobile robots with SyncOS, a software platform that connects robots, machines and enterprise systems within a manufacturing facility. The system coordinates workflows and material movement across production floors and warehouses, allowing different automation systems to operate through a common interface.\nThe company&rsquo;s platform also analyses operational data to identify bottlenecks, predict maintenance requirements and improve throughput.\nBotsync has completed more than 70 projects across six countries, executing over two million production tasks at 99 per cent uptime, according to the company. It says customers have been able to recover their investments within 24 months through reduced dependence on forklifts and manual material handling, alongside improvements in productivity. Its global customers include Caterpillar, Ford, Nestle, Honda, Coca-Cola and Kimberly-Clark.\nThe company is also looking to expand its presence in Australia and establish a go-to-market operation in the US, while continuing to serve Singapore, India, Thailand and Indonesia. Its expansion plans include building a wider network of robot manufacturers and providers of factory and warehouse software that can integrate with SyncOS.\n&ldquo;As India&rsquo;s manufacturing ecosystem evolves, solutions combining robotics, AI, and intelligent automation will play a critical role in driving efficiency and scale. We believe Botsync is well positioned to address this growing opportunity and expand its footprint across global markets,&rdquo; said Vikram Gupta, founder and managing partner of IvyCap Ventures.\nBy\nETEntrepreneur Desk\n,\nETEntrepreneur\nPublished On Nov 18, 2026 at 11:45 AM IST\nSee more on:\nBotsync ,\nIvyCap Ventures ,\nautonomous mobile robots ,\nartificial intelligence ,\nmanufacturing automation ,\nETEntrepreneur ,\nFunding ,\nStartups ,\nDeeptech ,\nRobotics\nTelegram\nFacebook\nCopy Link\nComments\n"
+    }
+   ]
+  },
+  {
+   "group_key": "more",
+   "company_guess": "More",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "708e52618cd9",
+     "group_key": "more",
+     "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+     "publisher": "Tim Fernholz",
+     "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+     "published_at": "2026-11-18T17:32:10.000Z",
+     "amount_hint": null,
+     "snippet": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+     "text_status": "ok",
+     "text": "Citibank, the third largest commercial bank in the United States, changed its terms of service this week, telling customers who use third-party AI tools for personal finance that anything that goes wrong is their problem — even if they get hacked.\nAI agents, ranging from frontier lab models to purpose-built personal finance tools, can be given the credentials to your bank account and other online financial portals, with the idea that they can analyze spending and investment decisions, offer advice, and even handle transactions and bill payments.\nBut financial institutions aren’t thrilled with the unreliable AI actors in their systems, and are telling customers that they won’t be held responsible for reversing an intentional or unintentional transaction made by automated assistants.\n“As third-party AI tools become more widely available, we want customers to understand the risks associated with sharing banking credentials or authorizing those tools to access their accounts,” a Citi spokesperson told TechCrunch. “We recently updated our Online User Agreement to provide greater clarity about those risks and to reinforce that customers who choose to grant account access to third-party AI agents are responsible for activities conducted through those agents.”\nJPMorgan and Bank of America , the two largest banks in the country, announced similar policies last month. And PNC, the eighth largest bank, changed its terms today.\nCiti’s update goes beyond telling customers that they are responsible for anything their agents may do; it also informs them that if the AI tool leaks their credentials or is hacked, the customer will be responsible for anything hackers do with their account. Banking giant Citizens similarly emailed its customers this week, warning that they are also on the hook for anything their AI assistant does, according to an email seen by TechCrunch.\nAs AI startups look for more revenue, breaking into personal finance presents an attractive opportunity for companies to add value for customers and wet their beaks in the stream of fees generated by the sector. But if consumers are already leery of sharing their email or chat records with an AI agent, bank and brokerage accounts offer a new trust challenge.\nAnthropic’s approach is telling: The personal finance tool it launched earlier this month is explicitly billed as “read-only” and “can’t move, manage, or invest your money.”\nBeyond cybersecurity concerns, banks also view efforts to enter their franchise as a competitive threat. Markets shuddered briefly in reaction to the prospect of AI tools making it easier for consumers to avoid unnecessary fees or low-interest deposit accounts that pad bank margins. But if AI agents become an important way to interact with financial decisions, banks will fight to control that pathway. Citi’s terms note that AI agents it provides can be used by customers without worrying about additional liability.\nThe reaction by banks is part of a broader trend among businesses of all stripes: AI labs promise that their agents will revolutionize the way people engage with a variety of service providers, then the service providers say “hold on a minute.” We’ve seen it in everything from car-hailing to food service , and how these relationships play out will help determine which AI investments pay off.\nTopics\nAI , AI agents , Banking , cybersecurity , Security\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our "
+    }
+   ]
+  }
+ ]
+}
