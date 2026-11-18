@@ -1,0 +1,784 @@
+{
+ "run_date": "catchup-2026-11-10_2026-11-17",
+ "part": 27,
+ "groups": [
+  {
+   "group_key": "bay",
+   "company_guess": "Bay",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "fc4713673815",
+     "group_key": "bay",
+     "title": "Bay Raises $50 Million to Stop AI Agents From Making Dangerous Decisions Inside Companies",
+     "publisher": "https://ascendants.in/",
+     "url": "https://ascendants.in/business-stories/bay-raises-50-million-ai-agent-security-startup/",
+     "published_at": "2026-11-11T05:43:19.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Bay Raises $50 Million to Stop AI Agents From Making Dangerous Decisions Inside Companies https://ascendants.in/",
+     "text_status": "ok",
+     "text": "Bay Raises $50 Million to Stop AI Agents From Making Dangerous Decisions Inside Companies\nEpil Bodra\n| November 11 | Business Stories , Funding Feed\nShare\nCybersecurity startup Bay has emerged from stealth with $50 million in funding , just nine months after its founding, as businesses face growing security risks from autonomous AI agents operating across corporate systems.\nThe company, founded in early 2026 by former Israeli intelligence and cybersecurity professionals, has developed technology designed to detect and block potentially harmful actions by AI agents, including those operating with legitimate access permissions.\nThe funding includes a $37 million Series A led by Battery Ventures , with participation from Micron Ventures, Microsoft’s venture capital arm M12, and Wiz CEO Assaf Rappaport. Bay also disclosed an earlier $13 million seed round backed by YL Ventures and Striker.\nCisco Chief Product Officer Jeetu Patel and former Zscaler Chief Strategy Officer Manoj Apte are among the company’s private investors.\nBay was established by CEO Yuval Zacharia, Chief Product Officer Aner Morag , and Vice President of Research and Development Boris Danilovich.\nThe founders identified a critical security problem after one of their own AI coding agents attempted to expose a cloud environment to the public internet while completing a test.\nThe agent had not been compromised, nor was it acting under instructions from an attacker. Instead, it was using authorized permissions to accomplish its assigned task, potentially creating a serious security vulnerability in the process.\nThat experience became the foundation for Bay’s approach to AI security, which focuses on preventing dangerous actions even when an agent is functioning as intended.\nUnlike traditional security systems that primarily focus on unauthorized access or malicious activity, Bay examines what an AI agent is attempting to accomplish and whether its actions could violate an organization’s security policies.\nIts platform discovers AI agents operating across corporate environments and analyzes their activities within the context of an entire session, including their assigned objectives and previous actions.\nBased on that information, the system can approve an action, block it, or refer it for human authorization. Bay says these decisions occur locally within milliseconds, allowing permitted operations to continue without disrupting workflows.\nThe technology supports AI assistants, coding agents, custom-built agents, and the tools they use across employee devices, cloud infrastructure, and software-as-a-service applications.\nBay also claims its platform can be deployed in under five minutes using existing corporate security infrastructure, without installing additional persistent endpoint agents or network proxies.\nThe company says its technology is already being used by dozens of enterprise customers across finance, insurance, manufacturing, media, and technology.\nWix, ClickUp, Micron, and Peloton are among its named customers. Micron is also participating in the company’s latest funding round through Micron Ventures.\nZacharia told Calcalist that Bay’s rapid fundraising was supported by early customer demand and revenue growth. She said the company generated millions in revenue during its first quarter of sales, although an exact figure was not disclosed.\n“We raised a significant amount of capital, and we did so very quickly. The primary driver was the large number of customers we "
+    },
+    {
+     "id": "b3251023715d",
+     "group_key": "bay",
+     "title": "Bay Emerges From Stealth With $50M After Fortune 100 Companies Used Its Platform to Triple Autonomous AI Agent Use",
+     "publisher": "AI Insider",
+     "url": "https://theaiinsider.tech/2026/11/13/bay-emerges-from-stealth-with-50m-after-fortune-100-companies-used-its-platform-to-triple-autonomous-ai-agent-use/",
+     "published_at": "2026-11-13T07:46:57.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Bay Emerges From Stealth With $50M After Fortune 100 Companies Used Its Platform to Triple Autonomous AI Agent Use AI Insider",
+     "text_status": "ok",
+     "text": "Business & Markets\nBay Emerges From Stealth With $50M After Fortune 100 Companies Used Its Platform to Triple Autonomous AI Agent Use\nBy James Dargan · 13 November 2026 · 5 min read\nInsider Brief\nBay, an AI security platform for agentic enterprises, has emerged from stealth with $50 million in total funding, including a $37 million Series A led by Battery Ventures and a $13 million seed led by YL Ventures and Striker Venture Partners.\nThe Tel Aviv-based company evaluates each AI agent action in the context of the full session and decides in milliseconds whether it can proceed, deploying across devices, cloud and SaaS in under five minutes without extra endpoint agents or network proxies.\nFounded less than a year ago by Yuval Zacharia, Aner Morag and Boris Danilovich, Bay already counts Micron, Peloton, ClickUp and Wix among its customers and will use the funding to expand its teams in the US and Europe.\nPRESS RELEASE —  Bay , the AI security platform building the trust layer for agentic enterprises, has emerged from stealth less than a year after its founding with dozens of enterprise customers, including Micron, Peloton, ClickUp and Wix. Bay addresses a primary barrier to AI adoption by allowing autonomous agents to perform business-critical work safely while enterprises retain control and accountability at scale.\nBay has raised $50 million in total funding. The financing includes a $37 million Series A led by Battery Ventures and a previously undisclosed $13 million seed led by YL Ventures and Striker Venture Partners. Micron Ventures, M12, Microsoft’s Venture Fund and Assaf Rappaport, CEO of Wiz, also participated in the Series A.\n“AI is fundamentally changing how enterprises operate, and the ability to deploy autonomous agents safely will become a critical competitive advantage,” said Andrew Byrnes, Director of Venture Capital, Micron. “We’ve seen firsthand how Bay’s technology can help accelerate AI adoption while maintaining the control and accountability required in a large enterprise. We believe that this trust layer will become essential infrastructure for the agentic era.”\nBay grew out of the same problem it now solves for customers. Its founders watched one of their coding agents try to expose a cloud environment to the internet to complete a test. The agent had not been compromised. It used legitimate permissions to pursue a legitimate goal in a dangerous way.\nBay brings AI governance and enforcement across employee devices, cloud infrastructure, and SaaS applications in under 5 minutes, without an additional persistent endpoint agent, kernel driver, or network proxy. It secures the full range of AI that enterprises are deploying through a single platform that covers multiple use cases under one set of policies. Bay combines AI discovery and posture management, session-level observability, and real-time enforcement, and connects to existing security workflows for automated remediation.\n“In Bay, we saw a company we felt had a differentiated technical approach that was already winning enterprise customers at an early stage,” said Dharmesh Thakker, General Partner at Battery Ventures. “That combination gave us conviction to lead the round. We believe Bay can become a core control layer for companies putting AI agents to work at scale.”\n“We evaluated a crowded field of companies addressing AI agent security, and Bay stood out because it can understand and control individual agent actions, from the endpoint to the cloud, while fi"
+    },
+    {
+     "id": "f654e7b879fc",
+     "group_key": "bay",
+     "title": "Bay raises $50 million for enterprise AI agent security",
+     "publisher": "TechGig",
+     "url": "https://techgig.com/news/ai/bay-raises-50-million-for-enterprise-ai-agent-security/135785496",
+     "published_at": "2026-11-13T00:37:37.000Z",
+     "amount_hint": "$50 million",
+     "snippet": "Bay raises $50 million for enterprise AI agent security TechGig",
+     "text_status": "ok",
+     "text": "AI\n1 min Read\nBay raises $50 million for enterprise AI agent security\nTel Aviv-based Bay has secured $50 million in funding to launch its enterprise AI agent security platform. The platform discovers AI agents and enforces policies at runtime, preventing unintended actions.\nTechGig\nPublished On Nov 13, 2026 at 06:00 AM IST\nShare Icon\nCopy Link Share on Whatsapp Share on Linkedin Share on X Share on Telegram Share on Facebook\nBookmark\nComment\nHighlights\nBay secured $50 million in funding for its enterprise AI agent security platform.\nThe platform discovers AI agents and enforces policies at runtime.\nIt prevents unintended actions from prompt injection or agent purpose drift.\nDeployment is agentless and takes under five minutes across an entire fleet.\nTel Aviv-based Bay has emerged from stealth with $50 million in funding, comprising a $37 million Series A round led by Battery Ventures and a $13 million seed funding round led by YL Ventures and Striker Venture Partners.\nBay was founded in February 2026 by Yuval Zacharia, Boris Danilovich, and Aner Morag, all alumni of the Israeli Military Intelligence (IDF Unit 8200). The company&rsquo;s platform provides a single control plane that discovers, understands, and controls AI agents wherever they run within an enterprise.\nUpon installation, Bay automatically inventories AI agents, coding assistants, MCP servers, skills, extensions, and local models in use. It also maps their connections, including potentially risky tool combinations.\nThe platform&rsquo;s Enforcer component evaluates every proposed agent action in milliseconds within the context of the full session. It decides whether to allow, refer to the user, redirect based on policy, or deny the action.\nBay&rsquo;s embedded AI system, Lighthouse, automatically builds and maintains policies based on the organisation&rsquo;s activity history. This system protects against dangerous agent activity, whether caused by malicious prompt injection or organic agent purpose drift.\nBay&rsquo;s CEO and co-founder Yuval Zacharia told SecurityWeek that effortless deployment, immediate time to value, and clear operationalisation were non-negotiable design principles. The company built a flexible, agentless architecture for deployment across an entire fleet in under five minutes.\nIts patented technology retrospectively analyses 30 days of historical logs. This allows customers to see Bay&rsquo;s potential value and complete a proof of value in less than 14 days. The funding will support product development, engineering team expansion, and go-to-market plans in the US and Europe.\nComments\nWhat are your thoughts?"
+    },
+    {
+     "id": "d681bd950c8c",
+     "group_key": "bay",
+     "title": "Israeli AI security startup Bay raises $50 million",
+     "publisher": "Reuters",
+     "url": "https://www.reuters.com/technology/israeli-ai-security-startup-bay-raises-50-million-2026-11-10/",
+     "published_at": "2026-11-10T13:10:38.000Z",
+     "amount_hint": "$50 million",
+     "snippet": "Israeli AI security startup Bay raises $50 million Reuters",
+     "text_status": "blocked:401",
+     "text": null
+    },
+    {
+     "id": "014be81f2705",
+     "group_key": "bay",
+     "title": "Israeli AI agent security startup Bay raises $50 million led by Battery Ventures",
+     "publisher": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVFzZ0oyZFhOSGdhLWgybTBaX2lOdEQzRDRZdllVbHp4ajdwWHZSTmRrQzR4aTRqa3pyQjBMdXRxSmtnRndLMzM4WVNFNFh6a21zeU80eDctWXotNzJsemtkaWhNbUc3TlB0aU43UzJLV3hQcHlMYVZNV01PNU9lMjBkWGphbFQteFN6TVNqT2w2Z2hiUGhlR0J3UmRsRG9wV2c?oc=5",
+     "published_at": "2026-11-10T16:14:11.000Z",
+     "amount_hint": "$50 million",
+     "snippet": "Israeli AI agent security startup Bay raises $50 million led by Battery Ventures MLQ.ai",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "f1413818b795",
+     "group_key": "bay",
+     "title": "Israeli AI security startup Bay raises $50 million",
+     "publisher": "The Economic Times",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObjhBZmJNeThaQk9hazExR0tPMVdKMUNfQlRjakhjbTZRMndpejhpdkg5NVM1SWIxRXdDY0kycm9vMHJScTRfb1prZ0hlaVU4RWdFQ0VXc0dLQmo0Y1ltdTlzNUxoY2tUQnBLbnBGUWNTUTNrWTdFemR0dW8tQ0tDQXY2WVVSV3hKcUhISkJNbjNsRE1odFd5eFpNUWMyMlU0RlRkUVAwQjBTd0ktLWJkNlRXUi1McW50Y0cxatIBvAFBVV95cUxObjhBZmJNeThaQk9hazExR0tPMVdKMUNfQlRjakhjbTZRMndpejhpdkg5NVM1SWIxRXdDY0kycm9vMHJScTRfb1prZ0hlaVU4RWdFQ0VXc0dLQmo0Y1ltdTlzNUxoY2tUQnBLbnBGUWNTUTNrWTdFemR0dW8tQ0tDQXY2WVVSV3hKcUhISkJNbjNsRE1odFd5eFpNUWMyMlU0RlRkUVAwQjBTd0ktLWJkNlRXUi1McW50Y0cxag?oc=5",
+     "published_at": "2026-11-10T13:15:00.000Z",
+     "amount_hint": "$50 million",
+     "snippet": "Israeli AI security startup Bay raises $50 million The Economic Times",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "2d60dcf65a5c",
+     "group_key": "bay",
+     "title": "Israeli AI security startup Bay raises $50 million",
+     "publisher": "The Economic Times",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM0hrQmZ2TWhBSEVweHFZQVpEX3V4R1dWUlVmd3RTbkxwcWQwbF8wSlNpX1ZjelVRYUVZWHY5anlITkZ4Z0QxakVYYXNCRVA5X0NnZnJpLW5KWWJTQ3g1aVFDYk93X2Z3UUFpRUNaUlF2SWptN01sQlRzRE44Y1lpSVZHeURPcXROQ3Y4M3hOUEpOVndGME9SYW53dC1qckZ0czQ5SkhBRThjbWRLTmtTdElHR2RpZmvSAbwBQVVfeXFMTm44QWZiTXk4WkJPYWsxMUdLTzFXSjFDX0JUY2pIY202UTJ3aXo4aXZIOTVTNUliMUV3Q2NJMnJvbzByUnE0X29aa2dIZWlVOEVnRUNFV3NHS0JqNGNZbXU5czVMaGNrVEJwS25wRlFjU1Eza1k3RXpkdHVvLUNLQ0F2NllVUld4SnFISEpCTW4zbERNaHRXeXhaTVFjMjJVNEZUZFFQMEIwU3dJLS1iZDZUV1ItTHFudGNHMWo?oc=5",
+     "published_at": "2026-11-10T13:15:45.000Z",
+     "amount_hint": "$50 million",
+     "snippet": "Israeli AI security startup Bay raises $50 million The Economic Times",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "9da7ee89d551",
+     "group_key": "bay",
+     "title": "Bay emerges from stealth with $50M to secure AI agents",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUWpROHc5LW5KNDRLTkE2NXpjNlY1RHh5MnBnbHVFdkFBN0pKUVZnLURuVlhZRnVQdHc0NUR5dEVUdkxGYW41VlJRVUpVcTkzd3BMNy1YTDRmUGV4TkVPSXBDVjk2TkVlUmVHNFIzMENnYnNjMmFmU3Q5X0dYT2tNZUhKR3JlVHdOTXFCcm1RcDE?oc=5",
+     "published_at": "2026-11-10T12:31:48.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Bay emerges from stealth with $50M to secure AI agents Dealroom",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "618b47e2586d",
+     "group_key": "bay",
+     "title": "Bay Emerges From Stealth With $50M After Fortune 100 Companies Used Its Platform to Triple Autonomous AI Agent Use",
+     "publisher": "VentureBeat",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS09kbXoweHJtX1BsSDIxTXp6djlsVjYtR2VjdHUySkU4d0NsY0FrQ0VPZndKZ2JTTkUyRnhaUXJ1dF9yREN1ejlKcDh2cWRzZElISnR5OGgyZElVUTFIbnEwMFotYkJXblRmYkllbkxvUUZxazBmU21kT2xVZWp1ejVLeEpkOGhCWW90UlBVT0RYTFFZamREN0dzMllqNkI3UXByVjR2RzY0UHJ2aDl5VENKREpXZ0NDYlNyQmdxRDRTZ2VwdnJydUg2eXdKVXE0SGZsdDRSMnJVS2JRQWNn?oc=5",
+     "published_at": "2026-11-10T13:00:30.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Bay Emerges From Stealth With $50M After Fortune 100 Companies Used Its Platform to Triple Autonomous AI Agent Use VentureBeat",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "32294589fc05",
+     "group_key": "bay",
+     "title": "Bay: $50 Million Funding To Expand AI Agent Security Platform Across Enterprise Environments",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/bay-50-million-funding-to-expand-ai-agent-security-platform-across-enterprise-environments/",
+     "published_at": "2026-11-10T14:33:54.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Bay, an AI cybersecurity company developing technology to control autonomous agent activity, has emerged from stealth with $50 million in total funding. The financing includes a $37 million Series A led by Battery Ventures and a previously undisclosed $13 million seed round led by YL Ventures and Striker Venture Partners. Additional Series A investors include Micron Ventures, M12, Microsoft's venture capital fund, and Assaf Rappaport, CEO of Wiz.\nThe post Bay: $50 Million Funding To Expand AI Agent Security Platform Across Enterprise Environments appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "89fde92b67ec",
+     "group_key": "bay",
+     "title": "Female-led Israeli cyber startup Bay raises $50 million in just nine months",
+     "publisher": "Ynetnews",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1na0c1ODBGSllKMXgxWW1LdF81YmJxYzN1ZFgyUXhvWVJYTmR0LWgzVF9EUnVIVmxQQzBlT3MwVXhRNGFQYzZuelc5bDFmSFA5aHgwRy1CTmY2M1ByWmVVVGh1NA?oc=5",
+     "published_at": "2026-11-11T04:18:52.000Z",
+     "amount_hint": "$50 million",
+     "snippet": "Female-led Israeli cyber startup Bay raises $50 million in just nine months Ynetnews",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "4364e6fff3c3",
+     "group_key": "bay",
+     "title": "Bay Raises $50 Million to Address Security Risks of Autonomous AI Agents",
+     "publisher": "Israel Defense",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LdTBiajNpYVc2Z0RiODR3ajAxQ3J1UTNBZHNCc0ZIaFhLdmpsVDB1WHhoNFJMSEZfRElfX1lhZjRySGQ5Y0g3QTBld3hKUUFlN1p1d3NlUDY?oc=5",
+     "published_at": "2026-11-11T08:16:06.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Bay Raises $50 Million to Address Security Risks of Autonomous AI Agents Israel Defense",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "876fd6e750e4",
+     "group_key": "bay",
+     "title": "Israeli AI security startup Bay raises $50 million",
+     "publisher": "Central Oregon Daily",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNWVURXNod1hVcXp0ZFNZaXV0RU41WFJ6bXJQMmlZNERYX1l6S1pmOEctM3NLZ0NFeEVxZTFURjZOQTJoVXZoQy1EZEtmWmRQM01xdFpVWjRKa3VvX2pRNXpKR1dEaGtDcnpySkFKRUxHU09oRHZqZGZfWjlXcER0QTNzZVV0UzNQZTZOV0xmdHkyalJaX3VxclZ3QWk2NEt0aWxOQ1BfV1VuRDZiZjAtd2JmM3hMUERXN1dud2t2VG5JQi1jWWNBakw1OGJVY1ZBNUFseHBaaHViaHo1WlpPLU53?oc=5",
+     "published_at": "2026-11-10T13:10:13.000Z",
+     "amount_hint": "$50 million",
+     "snippet": "Israeli AI security startup Bay raises $50 million Central Oregon Daily",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "44a64e85d2a8",
+     "group_key": "bay",
+     "title": "Bay Emerges From Stealth With $50M After Fortune 100 Companies Used Its Platform to Triple Autonomous AI Agent Use",
+     "publisher": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOX1RiVVhQVGVFTENMeUdpNmdBeElfMnBHSFdOTjd2aUQzZkVNZ1dzWVlqYURuLTM4Smp5R2g4QlVlRmZDeXlXTEpMWnRuM09rVWFtWWdYVDREWmVHbWp2RnpRc2NKcU9feV9pb0czSGw5QlQ0d09lY0QwSGZGYW1jSGp4X2xWUjJnSy1rYllVeGYzRFZKdjNCNmRBSkRHcDlPQ1dQZWVNUFZ6UkpXZ1FDbkNVVmozOVV3dGlURjJlNkJzc3VtOVJZNEdUc3Atb25qdVhyN2VCOE0xX2M2MkNmMXg4eU5yRkF4QjVkZzFsT2VUanc3TUpLMF91elhFc1lMZ1Zn?oc=5",
+     "published_at": "2026-11-10T13:00:00.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Bay Emerges From Stealth With $50M After Fortune 100 Companies Used Its Platform to Triple Autonomous AI Agent Use Business Wire",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "8227c6605288",
+     "group_key": "bay",
+     "title": "Bay AI launches with $50 million to secure enterprise AI agents",
+     "publisher": "SC Media",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM3Q2QkRHMDVaNnZVUF9Ib29PWi0wVGUwNEVyVVJDZU1NT0tPLUdDMjJ2Mkx1LUdKRHJ5Q1FfWVpyc294WV9tUDdXRTVxQzdwQV81MHVVNjlKSmZ6S2YteTNRelg0OGpCdmFJLWxXZ0tOZGxsU1kxcWZFMnNNNHdqYXZEaWtsVi1aQWJIVkRJcjNrYXBFcXRj?oc=5",
+     "published_at": "2026-11-10T22:31:21.000Z",
+     "amount_hint": "$50 million",
+     "snippet": "Bay AI launches with $50 million to secure enterprise AI agents SC Media",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "index industries",
+   "company_guess": "Index Industries",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "da709e7d3b7d",
+     "group_key": "index industries",
+     "title": "Index Industries Raises $50 Million in Funding to Reinvent How the World Invests in Real Estate",
+     "publisher": "",
+     "url": "https://www.prnewswire.com/news-releases/index-industries-raises-50-million-in-funding-to-reinvent-how-the-world-invests-in-real-estate-302935231.html",
+     "published_at": "2026-11-10T17:00:00.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Index Industries is co-founded by Josh Rosenthal, formerly the President of Polychain Capital, joining as CEO, and Brian Hardecker, CEO of Longmark and formerly of Blackstone, joining as Chairman. The round is backed by Lightspeed Venture Partners, Galaxy Ventures, Polychain Capital,...",
+     "text_status": "ok",
+     "text": "Index Industries Raises $50 Million in Funding to Reinvent How the World Invests in Real Estate\nNews provided by\nIndex Industries\nNov 10, 2026, 12:00 ET\nShare this article\nShare this article\nIndex Industries is co-founded by Josh Rosenthal, formerly the President of Polychain Capital, joining as CEO, and Brian Hardecker, CEO of Longmark and formerly of Blackstone, joining as Chairman.\nThe round is backed by Lightspeed Venture Partners, Galaxy Ventures, Polychain Capital, Wintermute Ventures and more.\nIndex Industries will launch the USHP Index, a proprietary benchmark for U.S. home prices, made investable through USHP, a liquid index product, issued by USHP Limited.\nNEW YORK , Nov. 10, 2026 /PRNewswire/ -- Index Industries emerges from stealth with a $50 million seed round led by Lightspeed Venture Partners, with participation from Polychain Capital, Galaxy Ventures, Wintermute Ventures, and other institutional investors. The company is building the technology and infrastructure to transform U.S. housing into a broadly investable asset class. Its platform combines a daily-reporting index with tokenization technology and real estate and capital markets services to power third-party housing-linked investment products. USHP , based on Index Industries' U.S. Home Price Index and issued by USHP Limited (BVI), will be the first investment product built on the platform.\nU.S. housing is a $55 trillion market, making it one of the largest asset classes in the U.S. Yet despite its scale, broad-based investment exposure to U.S. home prices has remained difficult to access through traditional financial products. Index Industries was founded to close that gap.\nIndex Industries' first offering will be the U.S. Home Price Index (USHP Index), a proprietary benchmark for U.S. home prices. Calculated daily, it integrates data from the major housing indices into a single national measure, providing a continuous and comprehensive read on home prices. The index is intended to support housing-market research, reporting, and portfolio monitoring and housing-related financial products.\nIndex Industries is co-founded by Josh Rosenthal, who joins as CEO following his role as President and General Partner of Polychain Capital, and Brian Hardecker, a former Principal at Blackstone and the Founder and CEO of Longmark, a leading residential real estate platform formed in 2021 that has $2 billion in assets under management. Index Industries combines two worlds of expertise to bring breakthrough tokenization technology to new real estate assets.\n\"Indexing is one of the most important and least celebrated innovations in modern finance. It reduces the expertise and cost barriers to investing in an entire market, which is what U.S. housing needs,\" said Josh Rosenthal, co-founder & CEO of Index Industries. \"I've spent my career looking for industry-shaping financial technology, and Index Industries is exactly that. It has the potential to change how the world sees housing: not just as a roof over your head or something that is out of reach, but as an investable asset class.\"\n\"U.S. housing is a massive market. It accounts for roughly a quarter of the aggregate value of the U.S. economy, yet it draws far less attention because there haven't been accessible ways to take a position in it,\" said Brian Hardecker, co-founder and chairman of Index Industries and CEO of Longmark Group. \"Housing is uniquely inflation-protected, uncorrelated to other asset classes, and has arguably "
+    },
+    {
+     "id": "8dd692a13b2d",
+     "group_key": "index industries",
+     "title": "Index Industries Raises $50 Million Seed Round Led by Lightspeed",
+     "publisher": "Securities.io",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTkV0Z0lMQVEtb2N2N3JVNWhrdm1YQi0tTzIwakVIY3pzUjNUNXFIYmxzVG0xTUhsaXVjWFdzNHdwYk9LYTlsWm8yc3U3dV9jVjJ6Q2JKd0lnOGppTUF0VUhRQS1GdlM1SGNpWGE2cllndmMwYWk3bDlXX25teENudUJ3dmp6TXN3XzU3d0d2bjBwSHFO?oc=5",
+     "published_at": "2026-11-10T17:40:05.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Index Industries Raises $50 Million Seed Round Led by Lightspeed Securities.io",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "6c5e4727496f",
+     "group_key": "index industries",
+     "title": "Housing tokenization startup Index Industries raises $50 million seed led by Lightspeed",
+     "publisher": "CryptoRank",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WelRMSnQzMmRDQzNMaEpDX3ppX1RaYkRLWDVkRkhlZWtWcnkzNk4yMlBHU3dDNWp0a0ZUY1VuQjFHekZxcjJ3TTdkN1RxZkxUdWp2eU9XUDZhSkhLNnMxcFZZdU9BYjUwS3Z0TzhHc2piOG04azhHXw?oc=5",
+     "published_at": "2026-11-11T07:33:32.000Z",
+     "amount_hint": "$50 million",
+     "snippet": "Housing tokenization startup Index Industries raises $50 million seed led by Lightspeed CryptoRank",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "686577b5b311",
+     "group_key": "index industries",
+     "title": "Index Industries: $50 Million Seed Funding To Launch Tokenized U.S. Housing Investment Platform",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/index-industries-50-million-seed-funding-to-launch-tokenized-u-s-housing-investment-platform/",
+     "published_at": "2026-11-11T13:22:29.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Index Industries, a financial technology company developing infrastructure for housing-linked investment products, has emerged from stealth with $50 million in seed funding led by Lightspeed Venture Partners. The financing included participation from Polychain Capital, Galaxy Ventures, Wintermute Ventures, and other institutional investors and will support the development of a platform designed to make the approximately $55 trillion U.S. residential housing market accessible through index-based financial products.\nThe post Index Industries: $50 Million Seed Funding To Launch Tokenized U.S. Hou",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "eb5db9831741",
+     "group_key": "index industries",
+     "title": "Index Industries raises $50M to tokenize housing market — plus 7 more NYC VC deals to know",
+     "publisher": "The Business Journals",
+     "url": "https://baike.baidu.com/item/index/6479797",
+     "published_at": "2026-11-13T19:33:00.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Index Industries raises $50M to tokenize housing market — plus 7 more NYC VC deals to know The Business Journals",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "saudi proptech ejari",
+   "company_guess": "Saudi Proptech Ejari",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "1b0e4a845731",
+     "group_key": "saudi proptech ejari",
+     "title": "Saudi Proptech Ejari Expands Rental Financing Facility to $50 Million",
+     "publisher": "CairoScene",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHRJTEFmalBNY25XVG1sRzdXMVZSbUw2clYzM2RCMWxPd2ktNW5ubjlQUXh0Z1B5T3pxLXpsMEVOYTFJUnYtdUl3ZzJWVGFKVEZWYTVLWlpKV0FacWIxUlBEdlA2OERhTEVfYkZERS1HUWk4TUFWQTUxaE81ZFg5MW1talczNjh2ZGJrcV9aWjRKajNiX0hQUHl1Z3EyMHNJb1E?oc=5",
+     "published_at": "2026-11-10T10:23:59.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Saudi Proptech Ejari Expands Rental Financing Facility to $50 Million CairoScene",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "optics11",
+   "company_guess": "Optics11",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "0244e34a7da1",
+     "group_key": "optics11",
+     "title": "Optics11 Raises €50 Million to Scale Fiber Optic Sensing for Undersea Defense and Energy Grids",
+     "publisher": "Ocean News & Technology",
+     "url": "https://oceannews.com/news",
+     "published_at": "2026-11-09T16:05:54.000Z",
+     "amount_hint": "€50 Million",
+     "snippet": "Optics11 Raises €50 Million to Scale Fiber Optic Sensing for Undersea Defense and Energy Grids Ocean News & Technology",
+     "text_status": "ok",
+     "text": "Skip to content\nNews\nDefense & Security\nEnergy\nMilestones\nScience & Tech\nSubsea & Survey\nSubsea Cable\nMagazine\nExclusives\nFrontline\nTake 5\nEnergy MarketWatch\nCheck The Tech\nDirectory\nCompany Directory\nProduct Directory\nUncrewed\nEvents\nAdvertise\nNews\nDefense & Security\nEnergy\nMilestones\nScience & Tech\nSubsea & Survey\nSubsea Cable\nMagazine\nExclusives\nFrontline\nTake 5\nEnergy MarketWatch\nCheck The Tech\nDirectory\nCompany Directory\nProduct Directory\nUncrewed\nEvents\nAdvertise\nSign In\nSubscribe\nLatest News\nAll Articles\nNovember 10, 2026\nThales and Kongsberg Maritime Partner on Royal Navy Type 92 Anti-Submarine USV\nNovember 10, 2026\nDeepsea Bergen Secured Through 2031 in Odfjell–Vår Energi Deal\nNovember 10, 2026\nDIU Awards Three Prototype Contracts for Autonomous Low Profile Vessel Program\nNovember 10, 2026\nClyde Marine Planning Partnership Opens Public Consultation on Draft Regional Marine Plan\nNovember 10, 2026\nHPR Wins First Taiwan Contract After Self-Funded Offshore Wind Trial\nNovember 10, 2026\n3t and Ørsted Partner to Bring Wind Turbine Training Rig to Grimsby\nNovember 10, 2026\nFMD Expands Naval Systems Portfolio with Truflo Marine Acquisition\nNovember 10, 2026\nCoast Guard Wraps Saildrone Voyager USV Trials on the Great Lakes\nNovember 10, 2026\nOcean Infinity Named Royal Navy Commercial Mission Partner for Atlantic Net\nNovember 10, 2026\nEuropean Commission Greenlights Belgian Offshore Wind Support Scheme\nNovember 10, 2026\nAquaterra Energy Begins New Chapter with Management Buyout\nNovember 10, 2026\nSonardyne Deploys Seabed Landers for UK’s First Commercial-Scale Offshore Carbon Storage Project\nPrevious\nPage 1\nPage 2\nPage 3\n…\nPage 799\nNext\nLatest Issue:\nOctober 2026\nAs operations push further offshore and into deeper waters, knowing where something is, keeping it connected,…\nRead Now\nPlease see our Privacy Policy for any questions relating to image use.\nQuick Links\nHome\nAdvertise\nSubscribe\nContent Submissions\nPrivacy Policy\nCookie Policy\nHome\nAdvertise\nSubscribe\nContent Submissions\nPrivacy Policy\nCookie Policy\nOther Resources\nOur Team\nenvironment coastal & offshore\nOffshore Source\nOcean Mining Intel\nSearch\nOur Team\nenvironment coastal & offshore\nOffshore Source\nOcean Mining Intel\nSearch\nCorporate Headquarters\nOcean News & Technology\n8502 SW Kansas Ave\nStuart, FL 34997\ninfo@oceannews.com\nLinkedin\nFacebook\nX-twitter\n© 2026 Technology Systems Corporation (TSC). All Rights Reserved. Ocean News & Technology (ON&T) is a trademark of TSC.\nSearch\nSearch\nNews\nDefense & Security\nEnergy\nMilestones\nScience & Tech\nSubsea & Survey\nSubsea Cable\nMagazine\nExclusives\nFrontline\nTake 5\nEnergy MarketWatch\nCheck The Tech\nDirectory\nCompany Directory\nProduct Directory\nUncrewed\nEvents\nAdvertise\nSign In\nSubscribe"
+    },
+    {
+     "id": "308535f4b2b8",
+     "group_key": "optics11",
+     "title": "Optics11: €50 Million Funding To Expand Underwater Defense And Energy Grid Sensing Technology",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/optics11-e50-million-funding-to-expand-underwater-defense-and-energy-grid-sensing-technology/",
+     "published_at": "2026-11-11T06:07:51.000Z",
+     "amount_hint": "€50 Million",
+     "snippet": "Optics11, an Amsterdam-based deep technology company developing fiber-optic sensing systems for maritime security and energy infrastructure, has secured €50 million in follow-on equity financing. The investment brings the company's total capital raised over the past 15 months to more than €100 million and will support manufacturing expansion, international growth, and increased deployment of its sensing technologies.\nThe post Optics11: €50 Million Funding To Expand Underwater Defense And Energy Grid Sensing Technology appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Optics11: €50 Million Funding To Expand Underwater Defense And Energy Grid Sensing Technology\nBy Amit Chowdhry\nToday at 1:07 AM\nOptics11: €50 Million Funding To Expand Underwater Defense And Energy Grid Sensing Technology\nOptics11, an Amsterdam-based deep technology company developing fiber-optic sensing systems for maritime security and energy infrastructure, has secured €50 million in follow-on equity financing. The investment brings the company’s total capital raised over the past 15 months to more than €100 million and will support manufacturing expansion, international growth, and increased deployment of its sensing technologies.\nThe latest financing was backed by existing institutional investors FORWARD.one, Value Creation Capital, SET Ventures, and JOIN Capital, with all four participating in the new round.\nThe investment comes as governments, defense organizations, and infrastructure operators seek additional capabilities to protect underwater assets and strengthen electricity networks.\nOptics11 develops fiber-optic sensing systems designed to detect underwater activity, identify potential security threats, and monitor conditions within critical energy infrastructure.\nThe company’s technology originated from research at Vrije Universiteit Amsterdam, where its underlying photonics and acoustics capabilities were developed before Optics11 was founded in 2011.\nIts sensing approach uses light to detect small acoustic signals rather than relying on powered electronics at the measurement location.\nThis design enables highly sensitive monitoring while remaining passive and resistant to electromagnetic interference.\nThe technology has applications across maritime surveillance, subsea infrastructure protection, and electrical grid monitoring.\nExpanding Maritime Defense Capabilities\nOptics11 is developing products intended to strengthen underwater surveillance and anti-submarine warfare capabilities.\nIts OptiBarrier system provides persistent seabed sensing designed to detect and classify underwater targets at distances of up to 100 kilometers from the shoreline.\nThe system is intended to provide ongoing monitoring of sensitive maritime areas and infrastructure.\nThe company’s OptiArray platform extends its fiber-optic sensing capabilities into a mobile towed array that can be deployed from vessels.\nOptiArray supports underwater intelligence gathering, maritime surveillance, and anti-submarine warfare operations.\nEarlier in 2026, the Dutch Ministry of Defence selected Optics11’s containerized OptiArray technology for the ASWINABO program, also known as Anti-Submarine Warfare In A Box.\nThe program aims to provide advanced underwater sensing capabilities through a wider range of maritime platforms.\nThese include crewed and uncrewed surface vessels, as well as certain civilian ships.\nThe initiative is intended to improve the Royal Netherlands Navy’s readiness and operational flexibility.\nOptics11 considers the selection an important validation of its technology and a potential foundation for additional defense deployments.\nThe company sees increased interest in maritime sensing systems as European governments reassess their ability to monitor underwater activity and protect critical infrastructure.\nStrengthening Electricity Grid Monitoring\nOptics11 also applies its sensing technology to electrical infrastructure through its OptiFinder platform.\nOptiFinder is designed to detect and locate partial discharge activity within high-voltage electric"
+    },
+    {
+     "id": "e6b5517e467a",
+     "group_key": "optics11",
+     "title": "Optics11 lands €50M from existing backers to scale fibre optic sensing for subsea defence and power grids",
+     "publisher": "Sofia Chesnokova",
+     "url": "https://techfundingnews.com/optics11-50m-fibre-optic-sensors-seabed-power-grids/",
+     "published_at": "2026-11-09T12:00:57.000Z",
+     "amount_hint": "€50M",
+     "snippet": "Optics11, a Dutch startup, just closed €50 million in new equity funding from its four existing investors, SET…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "courier health",
+   "company_guess": "Courier Health",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "7b0ea187714f",
+     "group_key": "courier health",
+     "title": "Courier Health: Three Executives Appointed To Support Growth",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/courier-health-three-executives-appointed-to-support-growth/",
+     "published_at": "2026-11-11T17:38:11.000Z",
+     "amount_hint": "$50 million",
+     "snippet": "Courier Health has appointed three executives to oversee its commercial, people, and customer success organizations following its $50 million Series B funding round.\nThe post Courier Health: Three Executives Appointed To Support Growth appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Courier Health: Three Executives Appointed To Support Growth\nBy Amit Chowdhry\nToday at 12:38 PM\nCourier Health: Three Executives Appointed To Support Growth\nCourier Health has appointed three executives to oversee its commercial, people, and customer success organizations following its $50 million Series B funding round.\nEben Scanlon joined the patient experience technology company as chief commercial officer. Mike Lamm was named chief people officer, while Phil Mishkin became senior vice president of customer success.\nScanlon will lead Courier Health’s sales and marketing teams. He previously helped clinical trial technology company Reify Health grow from an early-stage business to hundreds of millions of dollars in revenue. His prior experience also includes positions at Medidata, VMware, and McKinsey & Company.\nLamm will oversee recruiting, talent development, and employee retention. He helped Squarespace prepare for and complete its public listing, supported monday.com’s expansion across the Americas, and most recently served as chief people officer at behavioral healthcare technology company RethinkFirst.\nMishkin will lead Courier Health’s post-sale organization, encompassing customer success, implementation, customer engineering, and value engineering. During eight years at Komodo Health, he built its customer success operation as the company’s customer base expanded by more than 100 times.\nThe appointments follow a year of increased adoption for Courier Health’s AI-native patient experience platform. The company recently introduced AI Intake and previewed AI Appeal, agents designed to automate work associated with patient enrollment and prior authorization denial appeals.\nCourier Health develops software for biopharmaceutical companies managing patient access, treatment initiation, and adherence. Customers using its platform have reported double-digit improvements in patient starts, time to treatment, and continued therapy use.\nThe company expects its expanded leadership team to support demand from life sciences organizations seeking to modernize patient services.\nKEY QUOTES\n“Biopharma is rethinking how it supports patients, and the industry is increasingly turning to Courier Health to lead that shift. To meet the demand ahead, we’re bringing in leaders who have done this before.”\nDanny Sigurdson, Founder and Chief Executive Officer of Courier Health\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    },
+    {
+     "id": "c0ca8137da85",
+     "group_key": "courier health",
+     "title": "Courier Health Appoints Three Executives Following $50 Million Series B Funding",
+     "publisher": "Kevin Parker",
+     "url": "https://www.citybiz.co/article/932276/courier-health-appoints-three-executives-following-50-million-series-b-funding/",
+     "published_at": "2026-11-10T20:39:48.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Courier Health, a New York City-based healthcare technology company, has expanded its executive leadership team with three appointments as it... Read More\nThe post Courier Health Appoints Three Executives Following $50 Million Series B Funding appeared first on citybiz .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "nebula brands",
+   "company_guess": "Nebula Brands",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "9ad152bef7dd",
+     "group_key": "nebula brands",
+     "title": "Nebula Brands Secures $50 Million Series B at $530 Million Valuation",
+     "publisher": "Retail News Asia",
+     "url": "https://nebula.tv/",
+     "published_at": "2026-11-12T09:19:47.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Nebula Brands Secures $50 Million Series B at $530 Million Valuation Retail News Asia",
+     "text_status": "thin",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "arcturus therapeutics",
+   "company_guess": "Arcturus Therapeutics",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "8a1740b5ab97",
+     "group_key": "arcturus therapeutics",
+     "title": "Arcturus Therapeutics Secures $50 Million Meiji Investment At 80% Premium",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/arcturus-therapeutics-secures-50-million-meiji-investment-at-80-premium/",
+     "published_at": "2026-11-17T21:20:45.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Arcturus Therapeutics has expanded its collaboration with Meiji Seika Pharma through a $50 million equity investment, an additional technology license and a proposed pandemic preparedness partnership in Japan.\nThe post Arcturus Therapeutics Secures $50 Million Meiji Investment At 80% Premium appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Arcturus Therapeutics Secures $50 Million Meiji Investment At 80% Premium\nBy Amit Chowdhry\nToday at 4:20 PM\nArcturus Therapeutics Secures $50 Million Meiji Investment At 80% Premium\nArcturus Therapeutics has expanded its collaboration with Meiji Seika Pharma through a $50 million equity investment, an additional technology license and a proposed pandemic preparedness partnership in Japan.\nMeiji will purchase unregistered Arcturus securities at $20.27 per share, an 80% premium under the announced transaction terms. Its investment will represent approximately 7.9% of outstanding shares following the transaction.\nThe companies also signed an exclusive license covering the application of Arcturus’s ARCT-154 technology in an undisclosed therapeutic area.\nSeparately, a memorandum of understanding establishes principal terms for a potential collaboration and license agreement involving pandemic preparedness and response in Japan. That arrangement remains subject to a definitive agreement.\nArcturus intends to use the investment to support its cystic fibrosis program and accelerate ARCT-2601, an investigational treatment for ornithine transcarbamylase deficiency.\nARCT-2601 is the first mRNA therapeutic intended to use the company’s LUNAR 2.0 delivery platform. Its development is expected to contribute to clinical evaluation of that next-generation technology.\nPresident and CEO Joseph Payne said the expanded relationship reflects Meiji’s confidence in the company’s capabilities and platform.\nFounded in 2013 and based in San Diego, Arcturus develops mRNA medicines focused on liver and respiratory diseases.\nIts technologies include lipid-mediated delivery and self-amplifying RNA. The company also developed KOSTAIVE, a self-amplifying mRNA COVID vaccine.\nOther collaborations include work with Thermo Fisher Scientific, BARDA and Japanese manufacturing joint venture ARCALIS.\nMeiji’s investment adds capital while extending an existing strategic relationship across development, licensing and potential public-health applications.\nThe company’s pipeline programs remain subject to clinical development, regulatory review and other requirements before potential commercialization.\nKEY QUOTES\n“We are pleased to expand our relationship with Meiji as we advance innovative mRNA medicines and seek to deliver value to patients. The investment, together with the license agreement and the pandemic preparedness MOU, reflects Meiji’s confidence in our development capabilities and the potential of our technology platform. Alongside our CF program, these proceeds will be used to accelerate development of ARCT-2601 for OTC deficiency, the first mRNA therapeutic to utilize our LUNAR 2.0 delivery platform.”\nJoseph Payne, President And CEO Of Arcturus Therapeutics\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "alta 2",
+   "company_guess": "Alta",
+   "amount_hint_usd": 48000000,
+   "articles": [
+    {
+     "id": "5f13cfbea9f3",
+     "group_key": "alta 2",
+     "title": "Alta Raises $47.5 Million for Its Compliance-Focused Blockchain",
+     "publisher": "BlockTelegraph",
+     "url": "https://blocktelegraph.io/compliance-focused-blockchain-alta-series-a/",
+     "published_at": "2026-11-12T01:47:20.000Z",
+     "amount_hint": "$47.5 Million",
+     "snippet": "Alta Raises $47.5 Million for Its Compliance-Focused Blockchain BlockTelegraph",
+     "text_status": "ok",
+     "text": "What to know\nAlta announced a $47.5 million Series A led by Index Ventures.\nThe company is developing a blockchain with compliance features for banks and large businesses.\nAirwallex is both an early backer and a channel encouraging customers to use Alta for crypto transactions.\nAlta has raised $47.5 million in a Series A round to build a compliance-focused blockchain for banks and large companies. Index Ventures led the round, which Alta announced Tuesday, according to Fortune’s report .\nThe company is developing its own blockchain with a compliance layer that lets customers ensure processed transactions follow rules and regulations around the world. Alta is pitching the system to financial firms and large companies seeking faster money transfers with crypto.\nWhy Alta Is Building a Compliance-Focused Blockchain\nFinancial firms already have a choice of networks, including Ethereum, Solana and Avalanche. Alta chief executive Loong Wang told Fortune he believes blockchain is the best technology for transferring money, but said existing options lack privacy and compliance tools designed for banks and other large financial players. Glass office tower viewed from below beneath clouds.\nWang said Alta’s features include a tool that prevents people from sending funds at random to addresses on its blockchain. The feature addresses a practice known as an airdrop, which can require wallet holders to accept funds whether they want them or not.\n“We often say we wouldn’t have built an L-1 if we didn’t have to,” Wang told Fortune. His comments describe the company’s rationale for creating another network despite the many Layer 1 blockchains already available.\nAirwallex Provides a Distribution Connection\nAlta previously raised $32.5 million in seed funding, backed primarily by Airwallex, the Australian fintech company competing with Stripe and others in global payments. Alta has 25 employees and offices in San Francisco and Melbourne.\nFortune reported that Wang has a personal connection with Airwallex chief executive Jack Zhang. Zhang had been skeptical of crypto, but recently acknowledged the inherent value of stablecoins for cheap and efficient money transfers.\nAirwallex is also serving as a distribution channel, encouraging its global customer network to use Alta’s platform for crypto transactions. The relationship comes as Airwallex rivals build crypto infrastructure too, including Stripe and its Tempo blockchain.\n“With the rise of agentic banking and programmable payments, stablecoins are becoming an important vector for settlement,” Zhang said in a statement announcing Alta’s funding round.\nInvestors Join Alta’s Series A\nGV (Google Ventures), Blackbird Ventures, Square Peg and Capital49 also participated in the Series A. Capital49 is a venture firm established by Airwallex’s cofounders. The company did not disclose its valuation in the round.\nAlta was previously known as Metal and recently rebranded. Wang founded an earlier crypto startup that he sold in 2021, then pivoted to a second startup using quantum computing to aid drug discovery before returning to crypto technology to found Alta with Catherine Porter, a former Meta executive.\nThe round places Alta among companies building transaction infrastructure for institutional crypto use. Banks are also exploring stablecoin settlement and digital asset infrastructure, including efforts discussed at MERGE Madrid 2026 . Other coverage has examined how banks put deposits on blockchain and plans for a "
+    },
+    {
+     "id": "c19eaf3a6477",
+     "group_key": "alta 2",
+     "title": "Alta raises $48 million for its compliance-focused blockchain in Series A round led by Index Ventures",
+     "publisher": "Fortune",
+     "url": "https://dnyuz.com/2026/11/10/alta-raises-48-million-for-its-compliance-focused-blockchain-in-series-a-round-led-by-index-ventures/",
+     "published_at": "2026-11-10T14:00:00.000Z",
+     "amount_hint": "$48 million",
+     "snippet": "Alta raises $48 million for its compliance-focused blockchain in Series A round led by Index Ventures Fortune",
+     "text_status": "thin",
+     "text": "News\nKanye West and Ty Dolla $ign Hit With Lawsuit Over Song Allegedly Shared Through Text Message\nby VICE\nNovember 10, 2026\nKanye West finds himself in hot water once again with another lawsuit over music he did with Ty Dolla $ign. ...\nRead more"
+    },
+    {
+     "id": "158646895644",
+     "group_key": "alta 2",
+     "title": "Alta (ALTG) Raises $47.5M Series A, With $80M Total Funding",
+     "publisher": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa1ZnS2NBeDRNSW9KcGlqckZ4NFkzSjlSLWE2RFZRVkZzdnlKam5jU3k1SXJVQm81aFQ5SlE3R1hQZE90OXlXOC1tY2tibWlXTjBEODJIYml5RjVSS1FELU5qanF1MkZ3T2N4REpPTnVzdnZ4QldMN211aDQ2bGJublI4UXRDUWtPN3JBQmc0X3AxOEsydnNPMGMyeHhkem02TFJ1UlBTblNNV2h6NjJmbkxyY1BLanc?oc=5",
+     "published_at": "2026-11-10T14:11:38.000Z",
+     "amount_hint": "$47.5M",
+     "snippet": "Alta (ALTG) Raises $47.5M Series A, With $80M Total Funding TradingView",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "b522aba365ce",
+     "group_key": "alta 2",
+     "title": "Alta raises $48 million for its compliance-focused blockchain in Series A round led by Index Ventures",
+     "publisher": "Yahoo Finance Singapore",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNTlERGplSW85cEJrdGpiaExRMlZSblhqTVJDZXlXYlVMZjhjV2xNcUltVHNMbDVVNXVoZV8tQkN5b1BKdFZZdC1CTWpwbkR2VHBXOEdSa3NKT2h6Y3VnQ3ZMMExOOEdMT2hhY1YtNC1YNGREUEIwV1NPVmFPSFpaVGZRYmpqTWhIaEE?oc=5",
+     "published_at": "2026-11-10T14:00:00.000Z",
+     "amount_hint": "$48 million",
+     "snippet": "Alta raises $48 million for its compliance-focused blockchain in Series A round led by Index Ventures Yahoo Finance Singapore",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "45833d187f00",
+     "group_key": "alta 2",
+     "title": "Alta raises $47.5 million Series A to build a blockchain for financial institutions",
+     "publisher": "The Block",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRWJJellHOVE0YVNYS3hEUDFKODVOdmdVVTNsaVhGNmpHMVhuOGRqa0o1TFg4UkVIRXZIZVc1Q1dxYTFzMk1fUlJkY1hPYWwwb0NqWWFwdGdRVHlUeWFFUWFkdVVRNHF5NHdFYjRaNWY1aVUwZ1VOVTFZLWZ5SWVLVmRHZHNOUksxeVlyOTY5Q29NOElidjQxM015Z0hoSFZVYThIcDNHNnNiN0paVHRBSVBhYVh2dw?oc=5",
+     "published_at": "2026-11-10T16:19:00.000Z",
+     "amount_hint": "$47.5 million",
+     "snippet": "Alta raises $47.5 million Series A to build a blockchain for financial institutions The Block",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "4a560a5e3acf",
+     "group_key": "alta 2",
+     "title": "Blockchain startup Alta raises $47.5 million Series A led by Index Ventures: Fortune",
+     "publisher": "CryptoRank",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tT3N4VnhnM1N1MXM3azE3MTN6OWF5VWV3eFdXR1cwYmt4cXJ1S2hIN0ZmM0RjQ01iN3A3eU1KZ1oxUnBGTlR0VGRhcVRvRUtMOHRaNnNfZWVtNUpfQ0M1MllNM0EyOTNHWnZwVk5R?oc=5",
+     "published_at": "2026-11-10T15:06:29.000Z",
+     "amount_hint": "$47.5 million",
+     "snippet": "Blockchain startup Alta raises $47.5 million Series A led by Index Ventures: Fortune CryptoRank",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "7404dd90dac8",
+     "group_key": "alta 2",
+     "title": "Alta raises $47.5 million Series A led by Index Ventures for compliance-first blockchain",
+     "publisher": "Crypto Briefing",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sUVV0WDFKV0NsWjc5ZWYyeU1IaXpnWmh5NVFEQ0lianpvQ2NmZFkwYXJiMFhSWDdTeGFHdUR3LWxtRGdDZWwtWHZsSm1QOGplanVoVE4wbGl5S2FkUlFXSjJNVlRZbWNXTlJKcXdGeEs?oc=5",
+     "published_at": "2026-11-10T14:52:34.000Z",
+     "amount_hint": "$47.5 million",
+     "snippet": "Alta raises $47.5 million Series A led by Index Ventures for compliance-first blockchain Crypto Briefing",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "54a1f4209f5e",
+     "group_key": "alta 2",
+     "title": "Alta raises $47.5M Series A to build a compliance-first blockchain for banks",
+     "publisher": "Crypto Briefing",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RamdvZXVfM1FjbVdIXy1FbC1pbWZxb2NYMDZtNXN0RTlxTUozQlBVeXJxV0J4Q3ZVaEkyTVpPUWtuWWhhek9CLUdVUG1aS0dHcmlNc18zYjJMRnlxN0ZXYjBiQ1RTS0FWOTRWZXFwOEFPazZsSjJaQWd3?oc=5",
+     "published_at": "2026-11-10T14:24:42.000Z",
+     "amount_hint": "$47.5M",
+     "snippet": "Alta raises $47.5M Series A to build a compliance-first blockchain for banks Crypto Briefing",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "ebbd5b93fba6",
+     "group_key": "alta 2",
+     "title": "Alta raises $47.5 million in Series A to develop blockchain for financial institutions",
+     "publisher": "디지털투데이",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSUNFUWZ1bmhHeTM1VGN4VkZLWXhsd1NlRDRJX29uNXNjQjhJa0JuMmpvYWpTVi10SGM1WlIxdUo4aFpNUHZnQ3hRT0pYbDZEeno1X2VKN0k0MnJSeGNGMmpGN29wTlpZaHlMeXpYQzdjMXBzR0R2RW1KMHUwR0x4ci01UUtRUHFjTG5xQmtUMDFoOVI1TWRKaWVnZ2FzbDdVZUcwdG5WRy1ucFpOeTZyVzhscDd4M01PZjUyc0p2TTFJdDh3OXNfbVJmVQ?oc=5",
+     "published_at": "2026-11-11T09:02:40.000Z",
+     "amount_hint": "$47.5 million",
+     "snippet": "Alta raises $47.5 million in Series A to develop blockchain for financial institutions 디지털투데이",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "91b1e7963a34",
+     "group_key": "alta 2",
+     "title": "Alta, the Airwallex-backed blockchain for banks, raises $47.5M Series A led by Index Ventures",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGd2WUJCSnExYm1TQ196cGNyUFdjVHhGak5rUWQ1RU5YcVpJMDFqR2g2dFZjM3pPU3FXU0RDaFViNUFnUlIzb3ktck4tdElTcE13aExacTJxN1N5VzQwN2JGYXdKLVZ3NHl0QzhENzZ6dXRkeS1KY0N2VDJ1bzRuREZhN3M1am95TFVXYmpuaWxLU1drRFNyd2Izak9lUXZOTE1UYWs4b0FhLWNmVGJlbk1ZTVpjRTliUDhuZzVFamdLUQ?oc=5",
+     "published_at": "2026-11-11T05:32:33.000Z",
+     "amount_hint": "$47.5M",
+     "snippet": "Alta, the Airwallex-backed blockchain for banks, raises $47.5M Series A led by Index Ventures Dealroom",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "e200b3df9475",
+     "group_key": "alta 2",
+     "title": "Alta Secures $47.5 Million Series A to Build Institutional Blockchain for Global Banking",
+     "publisher": "https://streamlinefeed.co.ke/",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmotWi1KelY4blJmcGlhMC1TMFpVQzVsbS1mS3VNQmlXdTFuTDFidVhtTzdXUU5vUFV0MmNPUlUxQnhxeVFNRV96Sl9vUjhTMVhwWDM4bFRCNHlmaWd2SE41OGlNTU5xeGtTQWtsTE81OFNKZGlzNnlTV1NhYTFtTjU5TUlFY01uMUwteG9ocWgwVlM3RUJKTHlndkFGZU5jaXhOcFZQamdVOVI0UFVZUUFhZzVaQzQtSVFYUUtR?oc=5",
+     "published_at": "2026-11-11T09:41:26.000Z",
+     "amount_hint": "$47.5 Million",
+     "snippet": "Alta Secures $47.5 Million Series A to Build Institutional Blockchain for Global Banking https://streamlinefeed.co.ke/",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "mosaic",
+   "company_guess": "Mosaic",
+   "amount_hint_usd": 47000000,
+   "articles": [
+    {
+     "id": "5ed9496e3658",
+     "group_key": "mosaic",
+     "title": "Mosaic Raises $47M Seed to Develop Spatial Intelligence for Surgery",
+     "publisher": "Unite.AI",
+     "url": "https://www.unite.ai/mosaic-raises-47m-seed-to-develop-spatial-intelligence-for-surgery/",
+     "published_at": "2026-11-10T18:56:03.000Z",
+     "amount_hint": "$47M",
+     "snippet": "Mosaic Raises $47M Seed to Develop Spatial Intelligence for Surgery Unite.AI",
+     "text_status": "ok",
+     "text": "Funding\nMosaic Raises $47M Seed to Develop Spatial Intelligence for Surgery\nPublished\nNovember 10, 2026\nBy\nNova Jain, AI Entrepreneurship & Founders AI Research Agent\nAdd Unite.AI to your preferred sources on Google\nMosaic Intelligence Labs announced on November 10, 2026 that it had emerged from stealth with $47 million in seed funding to develop sensing-enabled spatial intelligence and robotic systems for surgery, initially focusing on procedures performed through the vascular system.\nThe San Francisco company named 8VC, Fundomo, Lingotto Innovation and Obvious Ventures among its backers. Chief executive Ileana Pirozzi and chief technology officer Alison “Ali” Kight Mackanic founded Mosaic after meeting during their doctoral studies at Stanford. Their work alongside clinicians exposed how difficult, less-invasive procedures often remain tied to knowledge held by individual operators.\n“We kept returning to one question: what would it take to scale the knowledge of the very best surgeons?” Pirozzi said. “We believe that starts with making our machines aware, and turning surgical repetition into experience we can learn from.”\nStarting With Endovascular Procedures\nMosaic’s initial target is endovascular care. In these procedures, physicians thread flexible wires and catheters through blood vessels to reach treatment sites. Mosaic describes blood vessels as routes to virtually every organ, yet operators have no direct line of sight inside them. They use live X-ray imaging, preoperative scans and the feel of the instruments to work out where they are and what lies ahead.\nThe company identifies radiation exposure and outcomes that vary with operator experience as limitations of that workflow. Interpreting the available signals can take years of practice, and much of the resulting knowledge is difficult to record or hand down. The result is a mismatch: surgical access has become less invasive, while navigation still depends heavily on the perception and judgment of the person holding the instrument.\nFor context, Mosaic’s website compares open surgery’s 20–30 cm incision and keyhole surgery’s 1–2 cm ports with endovascular surgery’s 2 mm needle puncture, and lists stopping strokes, clearing blocked coronary arteries, repairing aneurysms and restoring blood flow to limbs among current applications. That range helps explain why Mosaic is treating vascular navigation as a reusable capability across multiple procedures.\nGiving Surgical Instruments a Learning Loop\nThe technical design begins by instrumenting the point where surgical tools meet anatomy. Mosaic intends to combine those sensor readings with computation that reconstructs the vascular environment from within, maintaining a three-dimensional picture of anatomy and instrument position as it changes. A robotic interface would support precise instrument control.\nThe learning architecture would record the environment, instrument movement and physician actions as synchronized streams. Physical models would then help the system relate what it senses to what happens when it moves. The release connects this approach to the robotics concept of a world model: a representation of an environment that helps a machine predict how its actions will change that environment.\nAll of these capabilities remain development goals; the announcement supplies no patient-outcome findings or clinical-performance results. The nearer objective is to assist physicians’ perception and control, while the recorded procedu"
+    },
+    {
+     "id": "ae246d18b7cc",
+     "group_key": "mosaic",
+     "title": "Stanford founders’ Mosaic exits stealth with $47M to build surgical robots that navigate blood vessels",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/stanford-founders-mosaic-exits-stealth-with-47m-to-build-surgical-robots-that-navigate-blood-vessels/",
+     "published_at": "2026-11-11T11:01:13.000Z",
+     "amount_hint": "$47M",
+     "snippet": "Surgery has moved beyond large incisions. Physicians can now reach organs deep inside the body through a needle…",
+     "text_status": "thin",
+     "text": "November 13, 2026\nWho is Colette Kress? Meet Nvidia’s interim CEO taking over after Jensen Huang’s exit\nby Abhinaya Prabhu"
+    },
+    {
+     "id": "4454d0fb71ac",
+     "group_key": "mosaic",
+     "title": "Surgical-robotics startup Mosaic exits stealth with $47M seed",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2pRQ0pVdS1LWkJoWGx4c1BhS0pzVm9xYTFJMnZDcGN3NHZuR2JpWW5SNWRpYW1RS3ZpUXNabHpqS0hXTXRRYkFLRXY1QjY3a2RFc1BQbTFhVFE1R2VJV0tGWENqSUNZbEdhaTNvUEhLeW9FMlltcGl3QThBRlBobmZNbGtmdk96WWNab192a1ZuNnlMMkdjajVR?oc=5",
+     "published_at": "2026-11-10T17:52:19.000Z",
+     "amount_hint": "$47M",
+     "snippet": "Surgical-robotics startup Mosaic exits stealth with $47M seed Dealroom",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "bb383840edc6",
+     "group_key": "mosaic",
+     "title": "Mosaic Emerges from Stealth with $47 Million to Build Intelligent Surgical Machines - Treating the Body from Inside",
+     "publisher": "Times Argus",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVkI3NGhYWWMzMjIxX0NSMnpla1k2M05IV0oyeTRNNzBLVVdrRjRCRW9SVFVWbS1kbXo5ZG1QcHdQalprOGRsQm9ZclBHNTJYaFB3NVkwdFMyWnIybVB2SVJQVVY2QjNXN3VBeGpDMEd1V3B4UGN1VEFfQ1ZjNmM0MTNqenNoM1VvZjM1S1g0NDZMN3lMWU9YdWczTDA1NHdoNUZURjk4WG9UYV8teFdwbGtZQjNNWTJBa0tGYTNrempJb0tmZWs4NmZleE1MTy05eXBEZHY3N0RGanVVRXBZTWpMdWVoX2loeWNKakZJWnpOTFJ4YWxCT1hfRmswR3RpZjNrZ25JS2VJdU13eE41RXhR?oc=5",
+     "published_at": "2026-11-10T17:02:24.000Z",
+     "amount_hint": "$47 Million",
+     "snippet": "Mosaic Emerges from Stealth with $47 Million to Build Intelligent Surgical Machines - Treating the Body from Inside Times Argus",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "7bc1c6e660bc",
+     "group_key": "mosaic",
+     "title": "Mosaic Emerges From Stealth With $47 Million for Surgical Robotics",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaWJqcVBwRGU3M2ZTRWhDZ0I0bjZYbURuUkFXYkhIbklGVW9sMURUZzIzRWxMT1VCNmkxSldnOElXV2NlcVNJMm5WSDJxYmx2UDA2TF9fTXhWUmF6encyS0I1cHRCdTVTM29CdzZnQnRUUzFLNV9vYnJVOWtreVpkNzNsbzRPekdCSzl4b2RHenhPTXlONDhZTllYZ1pKYW00b1hNWjc4NA?oc=5",
+     "published_at": "2026-11-10T17:35:30.000Z",
+     "amount_hint": "$47 Million",
+     "snippet": "Mosaic Emerges From Stealth With $47 Million for Surgical Robotics citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "8683f31bb1bf",
+     "group_key": "mosaic",
+     "title": "Mosaic Emerges From Stealth With $47 Million for Surgical Robotics",
+     "publisher": "Kevin Parker",
+     "url": "https://www.citybiz.co/article/932105/mosaic-emerges-from-stealth-with-47-million-for-surgical-robotics/",
+     "published_at": "2026-11-10T17:32:50.000Z",
+     "amount_hint": "$47 Million",
+     "snippet": "Mosaic Intelligence Labs, a San Francisco-based surgical technology company, has emerged from stealth with $47 million in seed funding to... Read More\nThe post Mosaic Emerges From Stealth With $47 Million for Surgical Robotics appeared first on citybiz .",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "b8320a853349",
+     "group_key": "mosaic",
+     "title": "Mosaic Emerges From Stealth With $47M to Develop AI-Powered Surgical Robots",
+     "publisher": "AI Insider",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUllIcjRLQURRenBnTlMwb0R4Q3ZEdnlmX3NuOTBnWTdqSDZRMnJzVjRsWGRyOG50ZjVUYlBTeGpqSWJnaUxIX0c0N09SYksxeURkc1hkck1hOF9ZaUdKQUxyU0Z6SVowMnFXMEQtOFRWS21WX3A5UEpYWFc5blhZemJISGwyb3JDTVdaTFlnNGg3QmVLcVpTd2RSRkU0akd2NXBmb3hjYjdHYk8yLUw2Smln?oc=5",
+     "published_at": "2026-11-11T13:08:20.000Z",
+     "amount_hint": "$47M",
+     "snippet": "Mosaic Emerges From Stealth With $47M to Develop AI-Powered Surgical Robots AI Insider",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "0b167cb20d43",
+     "group_key": "mosaic",
+     "title": "Mosaic Emerges from Stealth with $47 Million to Build Intelligent Surgical Machines - Treating the Body from Inside",
+     "publisher": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQc2MzcVJ5Z0NpYWJ0UHEyQ2ZacTJCdzFVOUFEYmFZNXZ4SzVmR0FrN1VmOEY3aW56NmthQTlhdHFveFBGYkk0bFczZFBrTFZGTGZmeHozQkVBbzhDUldCV3lrRHJiQnM4dzZGTDZEUC1zXzh4WW5qSUFTanVLT0JSQjNvalg0SjBwRXFMQ09MRTF5WWZYS1JRUzFkSjZEOVBFcWpfcGlxQk1SZnRFUlYwNU1tRllXakZ3QWZNZFA2SUp0WjJWak5nMktXNTB5SnM4NEVKQ1k0OXRiRmk5Sktjb2d3OGE1ZHk0bl9ydVZXTjNBeVNuWWJabnQxOW0xaGc0emFxZQ?oc=5",
+     "published_at": "2026-11-10T17:00:00.000Z",
+     "amount_hint": "$47 Million",
+     "snippet": "Mosaic Emerges from Stealth with $47 Million to Build Intelligent Surgical Machines - Treating the Body from Inside Business Wire",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "7489313cbfab",
+     "group_key": "mosaic",
+     "title": "Mosaic Emerges from Stealth with $47 Million to Build Intelligent Surgical Machines - Treating the Body from Inside",
+     "publisher": "巴士的報",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdWhvUGlzMGd5YTRMSGNJOTZoNnpnckxyczBlXzFmMVZhYTgwMElVQ0lVMW04MDMxenpidWtFUXNjZW1NeTE0VFY2VF9nMWJ4aFNUUUF6enRaVkd0czZZVjRTb3NkTFduNE5WVUpmVGFOS2xQYVZMNVhDVmR4eVBLV3EwZFdHV2tQc3E1OHh6bjR5WU1yNmJ1NUIwdURHYWtGeFFZczZDZ3F5Z2Y2am9pa3FzbUdYb2NYb0hmdXVsbTNLc3hHYlpGbkRwU0pwVXA1NkpQdU1qbUlVS0p4RGxnSFd3Y1k5Y0RfcnpNSktXNTJaa3BpRDJN?oc=5",
+     "published_at": "2026-11-10T17:02:50.000Z",
+     "amount_hint": "$47 Million",
+     "snippet": "Mosaic Emerges from Stealth with $47 Million to Build Intelligent Surgical Machines - Treating the Body from Inside 巴士的報",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "b733726ea7b7",
+     "group_key": "mosaic",
+     "title": "Mosaic Intelligence Labs: $47 Million Seed Funding To Develop AI-Powered Robotic Surgical Systems",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/mosaic-intelligence-labs-47-million-seed-funding-to-develop-ai-powered-robotic-surgical-systems/",
+     "published_at": "2026-11-11T13:35:24.000Z",
+     "amount_hint": "$47 Million",
+     "snippet": "Mosaic Intelligence Labs, a San Francisco-based medical technology company developing intelligent robotic systems for minimally invasive surgery, has emerged from stealth with $47 million in seed funding. The investment, backed by 8VC, Fundomo, Lingotto Innovation, Obvious Ventures, and other investors, will support the development of sensing-enabled surgical instruments and AI-powered spatial intelligence designed to help physicians navigate the human vascular system.\nThe post Mosaic Intelligence Labs: $47 Million Seed Funding To Develop AI-Powered Robotic Surgical Systems appeared first on P",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "9db2eb7eb886",
+     "group_key": "mosaic",
+     "title": "Mosaic Exits Stealth With $47M Seed to Build Surgical Robots That Navigate Blood Vessels",
+     "publisher": "Wowtale",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNXlBbVlQeXlZdnZSWHZhdlFGbVlMRlY5TU5COThoRlM3a2ZJY3JKREN0eDJCVEZDb05yeENlVkVBZTBrVU5TT0kwVDB6NUdEZUNN?oc=5",
+     "published_at": "2026-11-11T21:53:04.000Z",
+     "amount_hint": "$47M",
+     "snippet": "Mosaic Exits Stealth With $47M Seed to Build Surgical Robots That Navigate Blood Vessels Wowtale",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "mount thor",
+   "company_guess": "Mount Thor",
+   "amount_hint_usd": 45000000,
+   "articles": [
+    {
+     "id": "a62e9f0c6c34",
+     "group_key": "mount thor",
+     "title": "Mount Thor Raises $45M in Funding to Expand AI Cloud Infrastructure on Apple Hardware",
+     "publisher": "AI Insider",
+     "url": "https://theaiinsider.tech/2026/11/12/mount-thor-raises-45m-in-funding-to-expand-ai-cloud-infrastructure-on-apple-hardware/",
+     "published_at": "2026-11-12T16:00:00.000Z",
+     "amount_hint": "$45M",
+     "snippet": "Mount Thor Raises $45M in Funding to Expand AI Cloud Infrastructure on Apple Hardware AI Insider",
+     "text_status": "ok",
+     "text": "Business & Markets · Startups\nMount Thor Raises $45M in Funding to Expand AI Cloud Infrastructure on Apple Hardware\nBy Greg Bock · 12 November 2026 · 2 min read\nInsider Brief\nSan Francisco startup Mount Thor raised $45 million in seed and Series A equity funding to expand cloud infrastructure providing on-demand access to Apple’s macOS operating system and silicon for AI development.\nCRV and Conviction co-led the Series A, while Chad Byers and Offline Ventures co-led the seed round, with additional non-dilutive financing secured for hardware purchases.\nMount Thor plans to expand computing capacity and develop infrastructure for AI agent training, software testing, long-running autonomous tasks and inference using open-source models optimized for Apple silicon.\nSan Francisco startup Mount Thor has raised $45 million in seed and Series A equity funding to expand cloud infrastructure that gives AI developers on-demand access to Apple’s macOS operating system and silicon.\nAccording to the company , CRV and Conviction co-led the Series A, while Chad Byers and Offline Ventures co-led the seed round. Other investors included CSC Leasing, Enea Capital, Long Journey Ventures and Upper90 , along with individuals associated with Cognition, Core Automation, Daytona, Meta, OpenAI, Together AI and Vercel. The company also secured an undisclosed amount of non-dilutive capital to purchase hardware.\nFounded in 2026, Mount Thor develops and operates data center systems built around Apple hardware, providing computing resources for AI research, software development and running AI models.\nThe financing will support additional computing capacity and hiring, particularly as the company develops infrastructure for running open-source AI models on Apple silicon.\nBuilding Infrastructure for AI Agents\nMount Thor is focused on developers of AI agents that use computers to perform tasks, including those requiring software available only on macOS, by building and managing rack-scale systems of Apple hardware to allow customers to access computing environments remotely rather than maintain their own equipment.\n“Making Apple’s operating system and silicon available at datacenter-scale is a massive untapped opportunity in AI infrastructure,” said Peter Voell, Founder and CEO of Mount Thor. “Decades of investment in accessibility and human-computer interaction make macOS the best place for agents to work and for humans to hold them accountable. And with chips like the M5 Ultra, Apple silicon is becoming a high performance, more power- and cost- efficient platform for production inference.”\nMount Thor identified several uses for the infrastructure:\nAI research: Creating reinforcement learning environments for computer-use models.\nAgent testing: Providing secure macOS environments for developing and evaluating AI agents.\nLong-running operations: Supporting agents that operate for weeks across a user’s devices using the same Apple identity.\nSoftware development: Building, testing and simulating applications for Apple devices.\nAI inference: Running open-source models optimized for Apple silicon.\nMount Thor reported deploying its first data center in less than six months and plans to increase capacity as demand grows. Its team includes people who previously developed infrastructure at Cerebras, CoreWeave, Fluidstack, Nebius, OpenAI and xAI.\nTopics AI AI models Apple cloud data centers funding macOS Mount Thor Seed Series A\nAbout the author Greg Bock\nGreg Bock is an award-wi"
+    },
+    {
+     "id": "3ae83785dba7",
+     "group_key": "mount thor",
+     "title": "Mount Thor raises US$45 million to build Mac data centres for AI agents",
+     "publisher": "Tech Edition",
+     "url": "https://www.techedt.com/mount-thor-raises-us45-million-to-build-mac-data-centres-for-ai-agents",
+     "published_at": "2026-11-16T14:19:25.000Z",
+     "amount_hint": "US$45 million",
+     "snippet": "Mount Thor raises US$45 million to build Mac data centres for AI agents Tech Edition",
+     "text_status": "ok",
+     "text": "Home / Technology\nTechnology\nMount Thor raises US$45 million to build Mac data centres for AI agents\nMount Thor raises US$45 million to expand Mac data centres and develop Apple-based infrastructure for AI agents.\nJoby Jean 16 November 2026 · 5 min read\nAdd as a preferred\nsource on Google Follow us on\nGoogle News\nImage credit: El Ecosistema Startup\nQuick Read Summary is AI-generated\nSelect Quick Read to generate this summary.\nPowered by Tech Edition\nMount Thor, a start-up specialising in Apple-based computing infrastructure, has raised US$45 million through two funding rounds as it looks to expand its data centre services for artificial intelligence (AI) agents.\nThe company operates racks of Apple computers that provide remote access to macOS environments for businesses, developers and AI research teams. Its approach addresses the growing need for computing infrastructure that can run tasks that depend on Apple’s operating system and applications.\nAs AI agents become more capable of performing tasks through computer interfaces, access to traditional cloud infrastructure may not always be sufficient. Some applications and workflows require macOS-specific features, creating demand for dedicated Mac environments that can be accessed remotely.\nMount Thor aims to meet this demand by providing businesses with managed access to Mac hardware without requiring them to purchase, maintain and operate large fleets of Apple computers themselves. The funding will support the company’s infrastructure expansion, recruitment and research into running AI models on Apple silicon.\nMount Thor targets the growing demand for Mac-based AI infrastructure\nAI agents are increasingly being developed to interact with computers like human users. Rather than simply responding to written instructions, these systems can navigate software, manage files, operate applications and complete tasks through graphical interfaces.\nSome agents are designed to work independently for extended periods, while others respond to requests as they arrive. These capabilities create new infrastructure requirements, particularly when agents need access to desktop environments to perform their assigned work.\nHowever, conventional cloud computing systems do not always provide the software compatibility these operations require. Applications designed specifically for macOS, along with features available through Apple’s ecosystem, can make Mac hardware necessary for certain development and deployment tasks.\nMount Thor provides remotely accessible Mac systems that let organisations create and run these environments without managing the physical equipment. The service targets research laboratories, software developers, and companies building AI-powered platforms.\nResearch teams could use the infrastructure to create different computing environments to evaluate AI models. This is especially relevant for systems trained to understand and control software through visual interfaces, where testing requires access to real desktop environments.\nBusinesses developing autonomous agent platforms could also use Mount Thor’s machines to provide individual macOS workspaces. These environments could remain active for weeks, allowing agents to keep working on tasks without a human physically operating a computer.\nThe infrastructure could also support agents that interact with users’ Apple devices and services through a shared account, depending on available access permissions. This could create opportunities fo"
+    },
+    {
+     "id": "c1540cef3702",
+     "group_key": "mount thor",
+     "title": "Mount Thor Raises $45M to Expand Apple Silicon AI Cloud Infrastructure",
+     "publisher": "Ventureburn",
+     "url": "https://ventureburn.com/mount-thor-raises-45-million-apple-silicon-ai-cloud/",
+     "published_at": "2026-11-13T12:37:21.000Z",
+     "amount_hint": "$45M",
+     "snippet": "Mount Thor Raises $45M to Expand Apple Silicon AI Cloud Infrastructure Ventureburn",
+     "text_status": "thin",
+     "text": "Venture Capital\n1 year ago\nZilch Funding $175M Boosts AI Payment Expansion"
+    },
+    {
+     "id": "f00f697aa41c",
+     "group_key": "mount thor",
+     "title": "Mount Thor raises $45 million to build Mac data centers for AI agents",
+     "publisher": "9to5Mac",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaUdlbVJjRVNLdEprSDZaMGlkZElMRHpyVUxFNVpiTF84OTJ5aHl0N0FWWS0yOEpkSUcwN195OUc3a1VPMThkRkJISzU3Vm5QSFhZcnN3T3o2RG9iamx6QWNPQks5NURSSXJaS1RkRjNwRDNDUDJ1LXl5b01wYnlYYmJqWkJGdGNOZ09oYnloOGtsYWRBR1phZDBtLW9tNDJVWlE?oc=5",
+     "published_at": "2026-11-12T14:00:00.000Z",
+     "amount_hint": "$45 million",
+     "snippet": "Mount Thor raises $45 million to build Mac data centers for AI agents 9to5Mac",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "2839b254b203",
+     "group_key": "mount thor",
+     "title": "Mount Thor Raises $45 Million to Bring Apple Hardware to Agentic AI Infrastructure",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWUtaWlId09QS25OTFJaZl9IS0U1WFJxTzI5QlFxQ3lyQlBwMW1YZ3RjM2dXV0dBNXhRZGdpejhnVllIdFpkWjRwZVo2NUtmWGZubGtscnZaWk9pbkVGWFdicEk0d0ZJSGRGV0VTUldjNFdXNUZJazJfRnFWWmk2T3VxWkFGaVNVeGk5ZA?oc=5",
+     "published_at": "2026-11-12T14:00:00.000Z",
+     "amount_hint": "$45 Million",
+     "snippet": "Mount Thor Raises $45 Million to Bring Apple Hardware to Agentic AI Infrastructure Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "58524af89f9a",
+     "group_key": "mount thor",
+     "title": "Mount Thor Raises $45 Million Led by CRV and Conviction to Scale AI Cloud Infrastructure",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNajZhNXEwa3N0UFFHcmRlZTQtRGotNlNjSDdtQVFZOUdkM3ZacEoyQXA2RWRpSUFTZ2NoUFFqZjN5Q3RUdXVSbVE2dVNLYWxIdjZvSFU1TlpMWVFOd1pSRGh3QUEzQjZUQ09XZ2ZzSjFRbF9MSWpLYmIzb09hNlhmR0NOdU9uUHBGZXFkR3RiTllJYnpyZ3FYdm9nYzYwVzBPeEVMZVlnX1ZFS0hWUGlramZHVFF4SVhNNTdzT1BHYzNDR3ZK?oc=5",
+     "published_at": "2026-11-12T16:01:59.000Z",
+     "amount_hint": "$45 Million",
+     "snippet": "Mount Thor Raises $45 Million Led by CRV and Conviction to Scale AI Cloud Infrastructure citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "b1f24ed41340",
+     "group_key": "mount thor",
+     "title": "Mount Thor Raises $45 Million Led by CRV and Conviction to Scale AI Cloud Infrastructure",
+     "publisher": "Paul Bluemner",
+     "url": "https://www.citybiz.co/article/932788/mount-thor-raises-45-million-led-by-crv-and-conviction-to-scale-ai-cloud-infrastructure/",
+     "published_at": "2026-11-12T15:57:52.000Z",
+     "amount_hint": "$45 Million",
+     "snippet": "Mount Thor, a San Francisco-based cloud infrastructure company specializing in Apple hardware for artificial intelligence applications, has raised $45 million... Read More\nThe post Mount Thor Raises $45 Million Led by CRV and Conviction to Scale AI Cloud Infrastructure appeared first on citybiz .",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "4ea753a5cae1",
+     "group_key": "mount thor",
+     "title": "Mount Thor: $45 Million In Funding To Build Agentic AI Cloud Infrastructure Powered By Apple Silicon",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/mount-thor-45-million-in-funding-to-build-agentic-ai-cloud-infrastructure-powered-by-apple-silicon/",
+     "published_at": "2026-11-12T20:45:56.000Z",
+     "amount_hint": "$45 Million",
+     "snippet": "Mount Thor, a San Francisco-based cloud infrastructure company specializing in Apple hardware, has raised $45 million in equity financing across its Seed and Series A rounds to expand its data center infrastructure for autonomous AI agents. The financing will support the company's efforts to make macOS and Apple silicon available at cloud scale for AI research, software development, agent deployment, and enterprise inference. CRV and Conviction co-led the Series A financing, while Chad Byers and Offline Ventures co-led the Seed round.\nThe post Mount Thor: $45 Million In Funding To Build Agenti",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "d46d460071b9",
+     "group_key": "mount thor",
+     "title": "Mount Thor raises $45 million to build Mac data centers for AI agents",
+     "publisher": "news.lavx.hu",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb2R2S0lWbmY5eUs5ZktIajJPOGFGempQdHQ1amJZUG41c3ZkQ3ZxOFlCX2FlVW84WEhJNkhCQnprWWpFb3R0WGQ1OGdmeEJLczlBUjVTMkpHTmY0RFdPV0RQUzBYTk5PUFNLV2x6RTJQV0k4bTJ6a1daSUdheDdqUDgyWGlsbmNpLWdOUzBnVU5fd1JYaHlFMjNaOGVJZw?oc=5",
+     "published_at": "2026-11-16T04:18:38.000Z",
+     "amount_hint": "$45 million",
+     "snippet": "Mount Thor raises $45 million to build Mac data centers for AI agents news.lavx.hu",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

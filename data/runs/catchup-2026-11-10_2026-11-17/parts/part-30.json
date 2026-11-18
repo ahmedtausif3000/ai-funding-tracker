@@ -1,0 +1,580 @@
+{
+ "run_date": "catchup-2026-11-10_2026-11-17",
+ "part": 30,
+ "groups": [
+  {
+   "group_key": "orakl oncology",
+   "company_guess": "Orakl Oncology",
+   "amount_hint_usd": 34000000,
+   "articles": [
+    {
+     "id": "cd62a6fcee09",
+     "group_key": "orakl oncology",
+     "title": "Orakl Oncology Raises $34M Series A to Expand AI Cancer Drug Prediction",
+     "publisher": "Unite.AI",
+     "url": "https://www.unite.ai/orakl-oncology-raises-34m-series-a-to-expand-ai-cancer-drug-prediction/",
+     "published_at": "2026-11-12T17:05:03.000Z",
+     "amount_hint": "$34M",
+     "snippet": "Orakl Oncology Raises $34M Series A to Expand AI Cancer Drug Prediction Unite.AI",
+     "text_status": "ok",
+     "text": "Funding\nOrakl Oncology Raises $34M Series A to Expand AI Cancer Drug Prediction\nPublished\nNovember 12, 2026\nBy\nEvan Mercer, AI Startups & Venture Capital AI Research Agent\nAdd Unite.AI to your preferred sources on Google\nNorrsken VC announced on November 12, 2026 that it co-led Orakl Oncology’s oversubscribed $34 million Series A alongside Singular, bringing the AI drug-development company’s total funding to $50 million.\nOrakl plans to expand its dataset and AI research team, increase data generation fivefold and move beyond colorectal and pancreatic cancers into lung and gastric cancers. The proceeds are also intended to establish US and UK teams, deploy predictions across more than 10 drug programs and discover and validate drug co-targets from patient biology and experimental screens.\nNew investors InfraVia, Serena, the Patient Autonome Fund managed by Bpifrance, teampact.ventures and Plug and Play joined the round, alongside existing backers Verve Ventures, Speedinvest and HCVC.\nPatient-Derived Data and AI\nFounded in 2023 as a spin-out of Gustave Roussy, Orakl grows patient-derived tumor organoids, which are laboratory models of individual patients’ cancers, and screens them against drugs. Its platform overview describes results enriched with genomic, transcriptomic and phenotypic data and anchored to longitudinal clinical histories, creating a multimodal dataset for its predictive systems.\nOrakl’s biopharma products are divided between O-Predict and O-Target. O-Predict is designed to anticipate trial endpoints including tumor response, progression-free survival and overall survival, identify biomarkers that distinguish likely responders, assess drug combinations and compare benefit-risk profiles. O-Target focuses on therapeutic-target discovery.\nNorrsken calls the resulting patient cohorts virtual cancer patients . The drug-response measurements must be generated through patient samples, laboratory infrastructure and hospital partnerships rather than assembled from existing databases. Every experiment adds proprietary data connecting patient biology, clinical information and observed drug responses.\nWhat the SCOPE Preprint Shows\nOrakl reports 90% accuracy for prospective predictions of individual patient responses across more than 30 clinical trials. A separate April 2026 preprint co-authored by Orakl staff provides detailed arm-level results for SCOPE, the Screening-to-Clinical Outcome Prediction Engine. It is marked as early-stage research that may not yet have been peer reviewed.\nSCOPE was trained on 54 treatment lines from 52 patients with metastatic colorectal or pancreatic cancer, using matched clinical data and organoid screens covering nine compounds. To predict trial outcomes, it generated synthetic patient profiles from published eligibility criteria and matched them to a biobank of 81 patient-derived organoid lines.\nExternal validation covered 32 arms from 23 published trials. The authors report an R² of 0.85 and a mean absolute error of 0.82 months for predicted median progression-free survival, the time patients live without disease progression. For objective response rate—the share of patients with a measured tumor response—R² was 0.71 and mean absolute error was 7.3 percentage points. Combining organoid and clinical data significantly outperformed either data type alone.\nSCOPE also selected the superior treatment arm in seven of eight head-to-head comparisons. The preprint describes a prospective application to darax"
+    },
+    {
+     "id": "66d8a7b6c3f2",
+     "group_key": "orakl oncology",
+     "title": "Orakl Oncology: $34 Million Series A Funding Co-Led By Norrsken VC And Singular To Expand AI-Powered Cancer Drug Discovery",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/orakl-oncology-34-million-series-a-funding-co-led-by-norrsken-vc-and-singular-to-expand-ai-powered-cancer-drug-discovery/",
+     "published_at": "2026-11-14T13:56:23.000Z",
+     "amount_hint": "$34 Million",
+     "snippet": "Orakl Oncology, an artificial intelligence-driven biotechnology company developing technologies to improve the prediction of cancer drug responses, has raised $34 million in Series A funding co-led by Norrsken VC and Singular. The financing will support the company's continued expansion, international hospital partnerships, and development of its AI platform, which combines patient-derived tumor samples, clinical information, and experimental biological data to advance oncology drug research.\nThe post Orakl Oncology: $34 Million Series A Funding Co-Led By Norrsken VC And Singular To Expand AI-",
+     "text_status": "ok",
+     "text": "Orakl Oncology: $34 Million Series A Funding Co-Led By Norrsken VC And Singular To Expand AI-Powered Cancer Drug Discovery\nBy Amit Chowdhry\nToday at 8:56 AM\nOrakl Oncology: $34 Million Series A Funding Co-Led By Norrsken VC And Singular To Expand AI-Powered Cancer Drug Discovery\nOrakl Oncology, an artificial intelligence-driven biotechnology company developing technologies to improve the prediction of cancer drug responses, has raised $34 million in Series A funding co-led by Norrsken VC and Singular. The financing will support the company’s continued expansion, international hospital partnerships, and development of its AI platform, which combines patient-derived tumor samples, clinical information, and experimental biological data to advance oncology drug research.\nThe financing was announced by Diane-Laure Pagès, Co-Founder and Chief Operating Officer of Orakl Oncology, who highlighted the company’s growing network of cancer research partners and expansion plans. The company was founded in 2023 by Pagès, Fanny Jaulin, Ph.D., and Gustave Ronteix.\nOrakl originated at Gustave Roussy, the French cancer research and treatment institution where Pagès completed her doctoral studies.\nSince its founding, the company has expanded from three co-founders to a team of more than 40 scientists, engineers, AI researchers, and business professionals.\nApproximately 30% of its employees hold doctoral degrees.\nOrakl plans to establish additional teams in the United States and United Kingdom as it expands its international research and commercial operations.\nBuilding AI Models Around Patient-Derived Cancer Biology\nOrakl Oncology is developing an AI platform designed to improve the predictability of responses to cancer treatments.\nA central component of its strategy involves generating and analyzing biological information derived from patient tumors.\nCancer treatment responses can vary significantly between patients, even when they have cancers classified within the same disease category.\nThese differences create challenges for pharmaceutical researchers seeking to identify which experimental medicines are most likely to demonstrate beneficial effects.\nOrakl is addressing this problem by combining AI with experimentally generated biological data and associated clinical information.\nThe company believes training AI systems on information closely connected to actual patient biology can support more relevant drug development research.\nIts technology is intended to help researchers understand relationships between tumor characteristics and responses to potential treatments.\nRather than relying exclusively on publicly available datasets, Orakl is building proprietary biological information through its research infrastructure and hospital collaborations.\nThis approach is designed to provide a foundation for developing AI models focused on oncology drug response prediction.\nExpanding International Hospital Partnerships\nOrakl has established a network of hospital partnerships supporting access to patient tumor samples and related clinical information.\nThe company signed five hospital partnerships during 2026.\nIt also expects more than 15 additional cancer centers across Europe, North America, and Asia to join its network.\nThese relationships are an important component of Orakl’s approach to developing its AI platform.\nParticipating hospitals provide research-ready tumor samples and clinical information that can be analyzed alongside laboratory-generated data.\nThe"
+    },
+    {
+     "id": "830f0992550c",
+     "group_key": "orakl oncology",
+     "title": "Orakl Oncology: $34 Million Series A Funding Co-Led By Norrsken VC And Singular To Expand AI-Powered Cancer Drug Discovery",
+     "publisher": "Pulse 2.0",
+     "url": "https://pulse2.com/orakl-oncology-34-million-series-a-funding-co-led-by-norrsken-vc-and-singular-to-expand-ai-powered-cancer-drug-discovery/",
+     "published_at": "2026-11-14T13:56:23.000Z",
+     "amount_hint": "$34 Million",
+     "snippet": "Orakl Oncology: $34 Million Series A Funding Co-Led By Norrsken VC And Singular To Expand AI-Powered Cancer Drug Discovery Pulse 2.0",
+     "text_status": "ok",
+     "text": "Orakl Oncology: $34 Million Series A Funding Co-Led By Norrsken VC And Singular To Expand AI-Powered Cancer Drug Discovery\nBy Amit Chowdhry\nToday at 8:56 AM\nOrakl Oncology: $34 Million Series A Funding Co-Led By Norrsken VC And Singular To Expand AI-Powered Cancer Drug Discovery\nOrakl Oncology, an artificial intelligence-driven biotechnology company developing technologies to improve the prediction of cancer drug responses, has raised $34 million in Series A funding co-led by Norrsken VC and Singular. The financing will support the company’s continued expansion, international hospital partnerships, and development of its AI platform, which combines patient-derived tumor samples, clinical information, and experimental biological data to advance oncology drug research.\nThe financing was announced by Diane-Laure Pagès, Co-Founder and Chief Operating Officer of Orakl Oncology, who highlighted the company’s growing network of cancer research partners and expansion plans. The company was founded in 2023 by Pagès, Fanny Jaulin, Ph.D., and Gustave Ronteix.\nOrakl originated at Gustave Roussy, the French cancer research and treatment institution where Pagès completed her doctoral studies.\nSince its founding, the company has expanded from three co-founders to a team of more than 40 scientists, engineers, AI researchers, and business professionals.\nApproximately 30% of its employees hold doctoral degrees.\nOrakl plans to establish additional teams in the United States and United Kingdom as it expands its international research and commercial operations.\nBuilding AI Models Around Patient-Derived Cancer Biology\nOrakl Oncology is developing an AI platform designed to improve the predictability of responses to cancer treatments.\nA central component of its strategy involves generating and analyzing biological information derived from patient tumors.\nCancer treatment responses can vary significantly between patients, even when they have cancers classified within the same disease category.\nThese differences create challenges for pharmaceutical researchers seeking to identify which experimental medicines are most likely to demonstrate beneficial effects.\nOrakl is addressing this problem by combining AI with experimentally generated biological data and associated clinical information.\nThe company believes training AI systems on information closely connected to actual patient biology can support more relevant drug development research.\nIts technology is intended to help researchers understand relationships between tumor characteristics and responses to potential treatments.\nRather than relying exclusively on publicly available datasets, Orakl is building proprietary biological information through its research infrastructure and hospital collaborations.\nThis approach is designed to provide a foundation for developing AI models focused on oncology drug response prediction.\nExpanding International Hospital Partnerships\nOrakl has established a network of hospital partnerships supporting access to patient tumor samples and related clinical information.\nThe company signed five hospital partnerships during 2026.\nIt also expects more than 15 additional cancer centers across Europe, North America, and Asia to join its network.\nThese relationships are an important component of Orakl’s approach to developing its AI platform.\nParticipating hospitals provide research-ready tumor samples and clinical information that can be analyzed alongside laboratory-generated data.\nThe"
+    },
+    {
+     "id": "5924a953dc5f",
+     "group_key": "orakl oncology",
+     "title": "Orakl Oncology Raises $34M Series A to Expand AI Cancer Drug Prediction",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT0d2NFBYclM5TGJQajQtNlNhY21zQWRPMGpsOFJQbHU4RlgxbU0yMWtfY2JwMDgwVl91TVBXbGdOajBnckJkc05mblpRZWJLTnRqMlprOEtkVU53WGkxcmxReE40bXZKMktHZEwzdDRxVWlseUFEUDFha003TEtuUmhCTlBRckF3SEczaGcwWUdCejlrVW5TNDBOSQ?oc=5",
+     "published_at": "2026-11-12T17:05:03.000Z",
+     "amount_hint": "$34M",
+     "snippet": "Orakl Oncology Raises $34M Series A to Expand AI Cancer Drug Prediction Unite.AI",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "47f6116ab3c9",
+     "group_key": "orakl oncology",
+     "title": "Paris-based Orakl Oncology scoops $34M for AI cancer drug prediction",
+     "publisher": "Sofia Chesnokova",
+     "url": "https://techfundingnews.com/paris-based-orakl-oncology-scoops-34m-for-ai-cancer-drug-prediction/",
+     "published_at": "2026-11-12T12:50:17.000Z",
+     "amount_hint": "$34M",
+     "snippet": "Orakl Oncology, a Paris-based TechBio company that combines AI with patient biology, has raised $34 million in a…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "southland",
+   "company_guess": "Southland Holdings",
+   "amount_hint_usd": 34000000,
+   "articles": [
+    {
+     "id": "28b92260893f",
+     "group_key": "southland",
+     "title": "Southland Holdings: $34 Million Tunnel Project And New Data Center Contracts Awarded",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/southland-holdings-34-million-tunnel-project-and-new-data-center-contracts-awarded/",
+     "published_at": "2026-11-16T01:55:27.000Z",
+     "amount_hint": "$34 Million",
+     "snippet": "Southland Holdings has secured a $34 million tunnel construction project in the Southwest along with additional contracts supporting data center construction in the Mid-Atlantic and Southwest. The awards expand activity across the company's civil infrastructure business as demand continues for specialized construction services supporting transportation and digital infrastructure.\nThe post Southland Holdings: $34 Million Tunnel Project And New Data Center Contracts Awarded appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Southland Holdings: $34 Million Tunnel Project And New Data Center Contracts Awarded\nBy Amit Chowdhry\nYesterday at 8:55 PM\nSouthland Holdings: $34 Million Tunnel Project And New Data Center Contracts Awarded\nSouthland Holdings has secured a $34 million tunnel construction project in the Southwest along with additional contracts supporting data center construction in the Mid-Atlantic and Southwest. The awards expand activity across the company’s civil infrastructure business as demand continues for specialized construction services supporting transportation and digital infrastructure.\nTwo Southland subsidiaries within its Civil segment will perform the newly awarded work.\nSouthland Contracting received the $34 million tunnel project, which includes the design and installation of approximately 5,800 linear feet of liner-plate crossings.\nThe project scope also includes associated shafts, shoring, and grouting work.\nThe award adds to Southland’s tunnel construction operations, which form part of its broader infrastructure services business.\nSeparately, Oscar Renda Contracting secured a master service agreement to provide labor and equipment at a data center site in the Mid-Atlantic.\nThe subsidiary also received two contracts, including another master service agreement, for work at a data center location in the Southwest.\nThe data center agreements will provide construction-related labor and equipment services as directed by the customer.\nSouthland has not disclosed a final contract value for the data center work. The amount will depend on the actual quantities of services and equipment required during project execution.\nThe company also clarified that the data center agreements are project-specific and are not recurring contracts.\nThe awards provide Southland with additional exposure to the data center construction market, where infrastructure development requires specialized construction capabilities and supporting services.\nData centers depend on extensive physical infrastructure, including power systems, cooling equipment, utility connections, and supporting facilities. Construction activity in the sector creates opportunities for contractors involved in site preparation, civil engineering, and related infrastructure work.\nSouthland operates across several infrastructure markets, including bridges, tunneling, transportation, communications, marine construction, steel structures, water and wastewater treatment, and water pipelines.\nIts subsidiaries provide specialized construction services for public and private sector projects throughout North America and internationally.\nThe company traces its roots to 1900 and is headquartered in Grapevine, Texas.\nThe latest awards reinforce the company’s participation in two infrastructure markets receiving substantial investment: underground transportation and utility infrastructure, and data center development.\nThe $34 million tunnel project provides a defined contract value, while the additional data center agreements create opportunities for further project revenue based on customer-directed work.\nSouthland did not provide project completion schedules or anticipated revenue recognition timelines for the new awards.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "zus health",
+   "company_guess": "Zus Health",
+   "amount_hint_usd": 33000000,
+   "articles": [
+    {
+     "id": "8b6aebf3561a",
+     "group_key": "zus health",
+     "title": "Zus Health: $33 Million Series B To Expand Connected Healthcare And AI Platform",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/zus-health-33-million-series-b-to-expand-connected-healthcare-and-ai-platform/",
+     "published_at": "2026-11-11T17:46:37.000Z",
+     "amount_hint": "$33 Million",
+     "snippet": "Zus Health has raised $33 million in Series B funding to expand its intelligent patient record platform, national healthcare data network, and artificial intelligence-powered clinical workflows. Drive Capital led the round, with participation from Sanofi Ventures, HealthX Ventures, Alumni Ventures, Andreessen Horowitz, F-Prime, Maverick Ventures, and JAZZ Venture Partners. The financing brings the company’s total capital raised to more than $100 million.\nThe post Zus Health: $33 Million Series B To Expand Connected Healthcare And AI Platform appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Zus Health: $33 Million Series B To Expand Connected Healthcare And AI Platform\nBy Amit Chowdhry\nYesterday at 12:46 PM\nZus Health: $33 Million Series B To Expand Connected Healthcare And AI Platform\nZus Health has raised $33 million in Series B funding to expand its intelligent patient record platform, national healthcare data network, and artificial intelligence-powered clinical workflows. Drive Capital led the round, with participation from Sanofi Ventures, HealthX Ventures, Alumni Ventures, Andreessen Horowitz, F-Prime, Maverick Ventures, and JAZZ Venture Partners. The financing brings the company’s total capital raised to more than $100 million.\nFounded in 2021, Zus is developing infrastructure that combines fragmented clinical information into a continuously updated patient record. Its technology is designed to give healthcare providers and applications access to more complete and actionable patient information without requiring each organization to build its own connectivity network.\nThe Zus Aggregated Profile creates a longitudinal patient record from information across electronic health record networks, pharmacies, laboratories, care-event notifications, and other clinical sources. An intelligence layer uses AI to organize that information and make it available through clinical and administrative workflows.\nZus supports pre-visit preparation, care transitions, risk adjustment, quality-gap closure, and population health management. Its Generated Patient Summaries transform fragmented records into concise information that clinicians and care teams can use during treatment.\nThe company’s national network supported more than 110 million transactions during August. Its AI-native clinical platform generated 39 million evidence citations during 2026 through the announcement date.\nZus also applied to become a Qualified Health Information Network under the Trusted Exchange Framework and Common Agreement. Its candidacy and HITRUST certification support its effort to participate in secure nationwide health information exchange.\nThe funding will be used to improve clinical intelligence, expand national data connectivity, increase record freshness, and support additional workflows across value-based and specialty care.\nKEY QUOTES:\n“The story of electronic medical records doesn’t end with the silos we have today. We’ve spent decades digitizing healthcare, but the information still doesn’t move with the patient. We’re building a networked medical record that changes that—connecting information across the healthcare system and making it available to the people and applications that need it. And now, with AI, we have an extraordinary opportunity to build workflows that actually make delivering care easier, faster, and more effective.”\nJonathan Bush, Founder and Chief Executive Officer of Zus Health\n“We believe healthcare is entering a new era in which AI can fundamentally change how care is delivered, but that transformation depends on having reliable, connected patient information. Zus has built the foundation to address that challenge at scale. Its combination of technology, market opportunity, and leadership gives us conviction in the company’s ability to help shape the next generation of healthcare.”\nMolly Bonakdarpour, General Partner at Drive Capital\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and "
+    },
+    {
+     "id": "cde2ab70b7b7",
+     "group_key": "zus health",
+     "title": "Zus Health Secures $33M in Series B Funding to Build AI-Powered Clinical Workflows",
+     "publisher": "Digital Health News",
+     "url": "https://www.digitalhealthnews.com/-zus-health-raises-33m-to-expand-healthcare-ai-infrastructure-",
+     "published_at": "2026-11-13T10:28:00.000Z",
+     "amount_hint": "$33M",
+     "snippet": "Zus Health Secures $33M in Series B Funding to Build AI-Powered Clinical Workflows Digital Health News",
+     "text_status": "ok",
+     "text": "Zus Health Secures $33M in Series B Funding to Build AI-Powered Clinical Workflows\nGlobal Digital Health News\nStory By DHN Bureau\n•\n9 hours ago\n•\n3 Mins Read\n•\nLast Updated On : 13 Nov 2026\nThe latest funding brings Zus Health's total capital raised to more than $100 million. The company will use the investment to advance its intelligent patient record platform, expand its nationwide healthcare data network and develop AI-powered clinical workflows.\nZus Health, the health technology company founded by Jonathan Bush, has raised $33 million in Series B funding to expand its healthcare data infrastructure and develop AI-powered clinical workflows. The round was led by Drive Capital, with participation from Sanofi Ventures, HealthX Ventures, Alumni Ventures and existing investors Andreessen Horowitz (a16z), F-Prime, Maverick Ventures and JAZZ Venture Partners.\nThe latest funding brings Zus Health's total capital raised to more than $100 million. The company will use the investment to advance its intelligent patient record platform, expand its nationwide healthcare data network and develop AI-powered clinical workflows.\nFounded in 2021, Zus Health has built an API-first, FHIR-native medical record platform designed to consolidate fragmented patient information into a continuously updated longitudinal health record. Its platform connects data from EHR networks, pharmacies, laboratories, care event notifications and other clinical sources, making patient information accessible through APIs, standalone applications, embedded components and direct EHR integrations.\nThe company's Zus Aggregated Profile (ZAP) combines fragmented clinical information into a unified patient record, supported by AI-powered clinical intelligence. The platform is designed to help healthcare organizations access a more complete view of patients without building their own data connectivity infrastructure.\nAccording to Bush, the company has developed its platform in three layers: a nationwide patient record, a data network that continuously feeds information into the record, and AI-enabled workflows that automate care-related tasks.\n\"Electronic health record systems (EHRs) succeeded at digitizing healthcare but failed to make patient information portable across organizations,\" Bush, founder and CEO of Zus Health, told Fierce Healthcare.\nThe company currently works with value-based care organizations, digital health companies, provider organizations, and diagnostics and precision medicine companies. Its solutions support pre-visit preparation, transitions of care, risk adjustment, quality gap closure and population health management.\nZus reported that its nationwide network supported more than 110 million networked transactions in August, while its AI-native clinical platform generated 39 million evidence citations year-to-date across its solutions.\nThe company is also seeing growth in specialty care, particularly oncology, where patient records are often distributed across multiple providers. Its aggregated patient data is being used to support treatment eligibility reviews, clinical trial criteria assessments and genetic testing, reducing the manual effort involved in reviewing fragmented records.\n\"We believe healthcare is entering a new era in which AI can fundamentally change how care is delivered, but that transformation depends on having reliable, connected patient information,\" said Molly Bonakdarpour, general partner at Drive Capital, in a statement.\nWith the new f"
+    },
+    {
+     "id": "39e56991c71c",
+     "group_key": "zus health",
+     "title": "Zus Health Raises $33M to Make Healthcare More Connected",
+     "publisher": "MedCity News",
+     "url": "https://medcitynews.com/2026/11/zus-health-raises-33m-to-make-healthcare-more-connected/",
+     "published_at": "2026-11-13T22:17:27.000Z",
+     "amount_hint": "$33M",
+     "snippet": "Zus Health Raises $33M to Make Healthcare More Connected MedCity News",
+     "text_status": "ok",
+     "text": "Zus Health, a healthcare technology platform, announced on Tuesday that it raised $33 million in Series B funding.\nZus Health combines fragmented clinical information from EHR networks, pharmacies, laboratories and other healthcare sources into a unified, continuously updated patient record. Its platform uses AI to generate patient summaries and help clinicians access relevant health information. Its customers and partners include organizations such as Homeward Health and Circadian Health.\n&ldquo;The story of electronic medical records doesn&rsquo;t end with the silos we have today,&rdquo; said Jonathan Bush, founder and CEO of Zus Health. &ldquo;We&rsquo;ve spent decades digitizing healthcare, but the information still doesn&rsquo;t move with the patient. We&rsquo;re building a networked medical record that changes that &mdash; connecting information across the healthcare system and making it available to the people and applications that need it.&rdquo;\npresented by\nSponsored Post,\nArtificial Intelligence\nAutomation Didn&rsquo;t Dehumanize Care. Bad Systems Did.\nWe have the opportunity to design systems that give people greater capacity for the work where human presence matters most: listening, understanding, reassuring, deciding, and caring.\nBy Michael Blackman, MD, MBA Chief Medical Officer, Greenway Health&reg;"
+    },
+    {
+     "id": "f3e2fa61f9d2",
+     "group_key": "zus health",
+     "title": "Zus Health raises $33 million to build data layer for healthcare AI",
+     "publisher": "news.lavx.hu",
+     "url": "https://www.zushealth.com/platform",
+     "published_at": "2026-11-16T08:18:47.000Z",
+     "amount_hint": "$33 million",
+     "snippet": "Zus Health raises $33 million to build data layer for healthcare AI news.lavx.hu",
+     "text_status": "ok",
+     "text": "One complete patient record, wherever care happens\nZus brings together continuously updated patient data and Clinical AI to power better decisions in care delivery.\nBook a demo Book a demo\nOur data network\nFast. Comprehensive. High quality.\nThe Zus Data Network connects national networks, state HIEs, EHRs, labs, pharmacies, payers, and other sources to create a continuously updated patient record, so care teams can see what’s happening now.\nFast\nZus watches for signals that care is happening and pulls the record as it does. Hospitalizations surface in minutes, not weeks.\n87%\nof hospitalizations identified within 1 hour\nComprehensive\nOne connection reaches providers nationwide, while Zus goes beyond ADT feeds to find care other systems miss.\n70,000+\nprovider sites and 270M+ patients\n33%\nmore hospitalizations found without an ADT message\nHigh quality\nEvery record is matched, deduplicated, and enriched, with each fact traceable to its source and the record becoming more accurate as new data arrives.\n95%\npatient data match rate\nOur platform in action\nThe AI-native platform that powers every job in care\nBring patient data into one place and keep it current, so every encounter starts with context.\nBook a demo Book a demo\nThe Zus Aggregated Profile (ZAP)\nGet the patient context you need, ready the moment you are to deliver care. AI-powered narrative summaries and search make it easy to find what matters fast. Care teams can focus on decisions, not digging, and see a 55% reduction in chart prep time.\nGet the patient context you need, ready the moment you are to deliver care. AI-powered narrative summaries and search make it easy to find what matters fast. Care teams can focus on decisions, not digging, and see a 55% reduction in chart prep time.\nCommon Patient Record (CPR)\nPatient data lives across EHRs, national exchange networks, labs, pharmacies, imaging centers, and payer systems. UPI supports patient matching, while the CPR deduplicates and reconciles that data into one cohesive, compliant record across organizations. Provenance keeps information traceable to its source, and the permissions layer controls access and sharing.\nPatient data lives across EHRs, national exchange networks, labs, pharmacies, imaging centers, and payer systems. UPI supports patient matching, while the CPR deduplicates and reconciles that data into one cohesive, compliant record across organizations. Provenance keeps information traceable to its source, and the permissions layer controls access and sharing.\nTailored for the role\nLenses offer role-specific views of the Common Patient Record. They filter thousands of raw records down to what matters for each workflow, reducing encounter volume by up to 85% per patient. AI summarizes each patient’s history into a narrative built for the user’s role, specialty, and workflow. When teams need more detail, they can search the underlying record instead of scrolling through it.\nLenses offer role-specific views of the Common Patient Record. They filter thousands of raw records down to what matters for each workflow, reducing encounter volume by up to 85% per patient. AI summarizes each patient’s history into a narrative built for the user’s role, specialty, and workflow. When teams need more detail, they can search the underlying record instead of scrolling through it.\nAlways-on monitoring\nUse patient records that update themselves. Intelligent Refresh keeps patient data current between visits, surfacing hospitalizations tha"
+    },
+    {
+     "id": "e6f29d3db936",
+     "group_key": "zus health",
+     "title": "Zus Health Raises $33 Million in Series B Funding to Accelerate the Next Generation of Connected Healthcare",
+     "publisher": "GlobeNewswire",
+     "url": "https://jp.advfn.com/exchanges/share-news/99674911/zus-health-raises-33-million-in-series-b-funding",
+     "published_at": "2026-11-10T14:37:00.000Z",
+     "amount_hint": "$33 Million",
+     "snippet": "Zus Health Raises $33 Million in Series B Funding to Accelerate the Next Generation of Connected Healthcare GlobeNewswire",
+     "text_status": "blocked:403",
+     "text": null
+    },
+    {
+     "id": "7b9a21e7c2c4",
+     "group_key": "zus health",
+     "title": "Zus Health Raises $33 Million Series B to Expand AI-Powered Healthcare Data Platform",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEdvbTVBWGdKYW5FNTAwTFQ4dThuTUlzWHhLbDhKWUIwUF85VU5ZR1dQYVZhR2ZnMk5aUGE2TS11bV9GUllhQ1dSRF9MZ005NUp2R0dub0VRVlNnX3ZhZGN3QVJhdEhjMWNTZG5BOTlrWE03OXNmaUx1QjEzZjVwQW9qWkRTeGhsSEo0VWFEbS1tMUJwbWFJM3ZzTm5wVnZFUnVkb2pHSkFJUXNkMkJkdXRnamo3NWNsSlU1ZUdLSQ?oc=5",
+     "published_at": "2026-11-10T19:40:45.000Z",
+     "amount_hint": "$33 Million",
+     "snippet": "Zus Health Raises $33 Million Series B to Expand AI-Powered Healthcare Data Platform citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "5b1b4192759c",
+     "group_key": "zus health",
+     "title": "Zus Health Raises $33 Million in Series B Funding to Accelerate the Next Generation of Connected Healthcare",
+     "publisher": "The Manila Times",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNSmdheFktNjA2LWUyVldENVRrMjZyak10YlI2blpqMjZpNU5zZGM1anlnazN5QVpDTjBtWEhnQnZpQkRRQ05XblF2YlNFcFFqX04wazJsOElBd0VuanlrcDVqeER5U1hJR0pzRkx5M3JOaUlyeHJjY1RVWUJqQ0xreC1PVHN4eWd6T0NrMjY3MjhPcnNOTmtFQzhoU09rbS1BY3cyMm9BZkgzcEc0TVRzeGRvUzl6bzFaRkpQb0FNbGxCZXJIRWp6d2gxNm9tclE1QmpXS21seVVYQzNiNWZmOWlpMW01Y2t6YU5NZVNMS3hDR3U5RjI3UkhxblZJaXlMR2ZBb2xZSVdCTVlZ0gGSAkFVX3lxTE12dE5aYjcycUNwa1JtM2x0Y05Cb0M2a2YwUUNiMGdKdDUtck96Tml6M2kwdWk2aG1TMW0zUFl6bWl0WS01a1lqZFdGQ1N6UTRoMngxQThJdVJCa3JCV0hnTTU3ZEgyU01qb2NCZ243Z3RXRVFFcFJKaG81OTd1Q0ZFa0ZfOVNyU0V1SXlqODZMeWxlb3I4ZWc3Yk4zU0RveUo5dDByLXJuVF9wcllWVy1XOEhKd1lXTWg3N0ZtVThPSFpra2RhOGRjcXRyR0hOaFdtZHdKZGFQamVYMDluV0tyVEZaNWhZa2UyM2RwRVlPekVKTUhocDFtVk5TSlJwMGZUMk5LNUVSTG9tVWEySW84RUE?oc=5",
+     "published_at": "2026-11-10T14:46:18.000Z",
+     "amount_hint": "$33 Million",
+     "snippet": "Zus Health Raises $33 Million in Series B Funding to Accelerate the Next Generation of Connected Healthcare The Manila Times",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "3627f908fbd0",
+     "group_key": "zus health",
+     "title": "Zus Health Raises $33 Million Series B to Expand AI-Powered Healthcare Data Platform",
+     "publisher": "Kevin Parker",
+     "url": "https://www.citybiz.co/article/932236/zus-health-raises-33-million-series-b-to-expand-ai-powered-healthcare-data-platform/",
+     "published_at": "2026-11-10T19:38:14.000Z",
+     "amount_hint": "$33 Million",
+     "snippet": "Zus Health, a Boston-based healthcare technology company founded by former athenahealth CEO Jonathan Bush, has raised $33 million in Series... Read More\nThe post Zus Health Raises $33 Million Series B to Expand AI-Powered Healthcare Data Platform appeared first on citybiz .",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "9ddb8281b1ef",
+     "group_key": "zus health",
+     "title": "Zus Health secures $33M to build the infrastructure for AI-powered clinical workflows",
+     "publisher": "Fierce Healthcare",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUjZORTJVZzI2LVJwVXplRVB4Z3VqSEMyNFcwQU9IRnQySE5XMlA3a3p2a1ZEbEVrRHJWQmJSZWM0a19MTkRjZ2d5eEJqd21WZ1JGVXBXYU51TTQ1ZEZpNXJlMmNiVVk0NDI1WksxM01ucnZNMkdWM2FqdEhkRk9jZlZBM2VDZE5Ed2RxR1k3Z0Z4aFJrdXAzdlVRVnoyV0RwbnhBWU9raXdPZXZ1Z05idnJiWUplNm9nclE?oc=5",
+     "published_at": "2026-11-12T21:45:00.000Z",
+     "amount_hint": "$33M",
+     "snippet": "Zus Health secures $33M to build the infrastructure for AI-powered clinical workflows Fierce Healthcare",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "dreeze",
+   "company_guess": "Dreeze",
+   "amount_hint_usd": 33000000,
+   "articles": [
+    {
+     "id": "12bf04e0c8e4",
+     "group_key": "dreeze",
+     "title": "Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks",
+     "publisher": "SecurityWeek",
+     "url": "https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/",
+     "published_at": "2026-11-11T11:16:40.000Z",
+     "amount_hint": "$33M",
+     "snippet": "Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks SecurityWeek",
+     "text_status": "ok",
+     "text": "Cloud Security\nDreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks\nCreated by Zerto and Kashya veterans, the startup has launched a platform designed to recover whole cloud applications.\nBy\nSecurityWeek News\n|\nNovember 11, 2026 (6:16 AM ET)\nFlipboard\nReddit\nWhatsapp\nWhatsapp\nEmail\nCloud application recovery startup Dreeze announced on Tuesday that it raised $33 million in a seed funding round as it emerged from stealth mode with a platform built to bring back whole cloud applications instead of only the data behind them.\nThe round was led by Norwest and Bessemer Venture Partners, with Claltech also investing.\nDreeze , whose staff is split between Israel and the United States, said the money will go toward product development, bigger sales and marketing teams, and getting its platform into more enterprises.\nThe company was formed in 2025 by Avi Raichel and brothers Ziv and Oded Kedem. The three previously worked together at Zerto, which HPE acquired , and Kashya.\nDreeze’s argument is that getting data back after an incident is not the same as getting an application running again. A cyberattack or a mistake by an AI agent can leave an organization with its data intact but without the configurations, secrets, infrastructure and connections the application needs.\nIts platform, named Application Revival, scans the customer’s cloud environment on an ongoing basis, works out which resources and dependencies belong to which application, and generates a recovery plan from the live environment. Backups of data and configurations are stored with those recovery plans in an immutable, isolated vault under the customer’s control.\nAdvertisement. Scroll to continue reading.\nIn a recovery scenario, Application Revival automatically reconstructs the application as a whole. Customers can also run recovery tests in an isolated account, with no impact on production.\n“Companies have spent years getting better at backing up data, but getting the data back doesn’t mean the business is back,” said Ziv Kedem, the company’s CEO. “With cyber threats increasing and AI introducing new risks, enterprises need to assume that critical applications will go down.”\n“We started Dreeze because recovery needs to go further. Our goal is to make Application Revival the new standard, so companies know they have a proven path to bring their applications back when something goes wrong,” he added.\nThe AWS version of the platform is generally available. Support for Microsoft Azure is in early access, with general availability expected in early 2027.\nRelated : Agentic Data Security Firm Sentra Raises $150 Million\nRelated : WhiteMatter Raises $20 Million in Series A Funding\nRelated : Brava Security Emerges From Stealth With $15 Million in Funding\nWritten By\nSecurityWeek News\nDaily Briefing Newsletter\nSubscribe to the SecurityWeek Email Briefing for the latest cybersecurity threats, trends, and expert\ninsights.\nMore from SecurityWeek News\nIn Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days\nNorthstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations\nIn Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak\nSecrets Management Firm Infisical Valued at $600 Million After $40 Million Raise\nIn Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware\nAsymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security\nIn Other News: IC"
+    },
+    {
+     "id": "c89327401339",
+     "group_key": "dreeze",
+     "title": "Israeli startup Dreeze raises $33 million to tackle cloud recovery failures",
+     "publisher": "Ynetnews",
+     "url": "https://www.ynetnews.com/business/article/rjyho9grfe",
+     "published_at": "2026-11-10T14:06:37.000Z",
+     "amount_hint": "$33 million",
+     "snippet": "Israeli startup Dreeze raises $33 million to tackle cloud recovery failures Ynetnews",
+     "text_status": "thin",
+     "text": "Israeli cloud recovery startup Dreeze announced that it has raised $33 million in seed funding and is emerging from stealth with a platform designed to help companies restore entire cloud applications following outages, cyberattacks or other disruptions. The funding round was led by Norwest and Bessemer Venture Partners, with participation from Claltech."
+    },
+    {
+     "id": "6978623c2387",
+     "group_key": "dreeze",
+     "title": "Dreeze Emerges From Stealth With $33 Million to Advance Cloud Application Recovery",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmI2dnU0amt0V2hZQnNIU2FJbV95dzJmN29IM2JXOGNCd3FhbGtUcmpDMXRCaWU1Y2dvRXh3cDRvMzR2R2FZcjUzTExJS1pJQXJ4aFFOQUoxMUlSSEFRdlpHUko0Z1NteEtKejNHYzRHS3NYb2NoUW54TVFzYzgtYXY5cmk1TFdPem5DOVMzc1ZfMFpjWVdyQ2V2aXNTOWkyNGtLVWNCVHV5ZzdrVlFDdHRSWUFuangxNDF6OA?oc=5",
+     "published_at": "2026-11-10T14:55:52.000Z",
+     "amount_hint": "$33 Million",
+     "snippet": "Dreeze Emerges From Stealth With $33 Million to Advance Cloud Application Recovery citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "bde9ae7fb520",
+     "group_key": "dreeze",
+     "title": "Cloud recovery startup Dreeze secures $33 million in seed funding",
+     "publisher": "SC Media",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbzRxVm9ObzBPdzIzUVBtQWNCZGxvd040eTUycXI1dVkwN3lqU2pwb0lWYUozN0tfbG1iTTRqeDJQVVJHeHliWVM3LVM1czRHMWQ0MUI5RmJvaVRpY0ZwWEtqVnBCWlRQSUxScE1MendLZHFGUjJQLWxtU0JHMWJqSkxjeU5Ha25UV1M5MUhWUWJvQ3otZEVLZDBB?oc=5",
+     "published_at": "2026-11-11T23:39:50.000Z",
+     "amount_hint": "$33 million",
+     "snippet": "Cloud recovery startup Dreeze secures $33 million in seed funding SC Media",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "1cbb26bf2b9e",
+     "group_key": "dreeze",
+     "title": "Dreeze launches with $33M to recover entire cloud applications, not just their data",
+     "publisher": "SiliconANGLE",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcE9WMlVqUEZtR1oxbTV5ek85OFJBXzBnUU9lWnoycXpEckg3YVBPU0lKV3NMaWRCVVg1NmduZnp0ZG14LXlJZk1RSGdCak90YV9WdDZNLU0zMjZteXFOU0RKVnZGenZ6U0RlN1FIQUJGQjF4NXBFZ1NmSGlPcXR1Y2t1ZkVwY2doTjVSQWZtMWVqR0JsVUlHMVFFajhac0NteFdjWjlxR1h2bTJLZ1Rfc1RkTVlXTXZERlE?oc=5",
+     "published_at": "2026-11-10T23:34:00.000Z",
+     "amount_hint": "$33M",
+     "snippet": "Dreeze launches with $33M to recover entire cloud applications, not just their data SiliconANGLE",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "27466c2e8aa7",
+     "group_key": "dreeze",
+     "title": "Dreeze: $33 Million Seed Funding Launches Cloud Application Revival Platform",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/dreeze-33-million-seed-funding-launches-cloud-application-revival-platform/",
+     "published_at": "2026-11-12T04:08:55.000Z",
+     "amount_hint": "$33 Million",
+     "snippet": "Dreeze has emerged from stealth with $33 million in seed funding and launched a cloud recovery platform designed to restore complete applications rather than data alone. Norwest and Bessemer Venture Partners led the funding, with participation from Claltech. Dreeze will use the capital to accelerate product development, expand its sales and marketing teams, and bring its Application Revival technology to additional enterprise customers.\nThe post Dreeze: $33 Million Seed Funding Launches Cloud Application Revival Platform appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "why lilly and boehringer",
+   "company_guess": "Why Lilly and Boehringer",
+   "amount_hint_usd": 31500000,
+   "articles": [
+    {
+     "id": "694e4f32bfbf",
+     "group_key": "why lilly and boehringer",
+     "title": "Why Lilly and Boehringer backed a German startup’s mRNA ‘on-off switch’ in a €31.5M seed",
+     "publisher": "Sofia Chesnokova",
+     "url": "https://techfundingnews.com/srtd-biotech-31-5m-seed-selectively-expressed-rna-therapies/",
+     "published_at": "2026-11-09T11:29:46.000Z",
+     "amount_hint": "€31.5M",
+     "snippet": "SRTD Biotech, a German startup, closed an oversubscribed €31.5 million seed round, co-led by Mérieux Equity Partners via…",
+     "text_status": "thin",
+     "text": "November 10, 2026\nPuppyGraph raises $10M so AI agents can query 3,000 tables without a graph database\nby Abhinaya Prabhu"
+    }
+   ]
+  },
+  {
+   "group_key": "operand",
+   "company_guess": "Operand",
+   "amount_hint_usd": 31000000,
+   "articles": [
+    {
+     "id": "218aff04c6c4",
+     "group_key": "operand",
+     "title": "Operand raises $31 million for private equity due diligence",
+     "publisher": "news.lavx.hu",
+     "url": "https://www.operand.com/",
+     "published_at": "2026-11-14T07:34:16.000Z",
+     "amount_hint": "$31 million",
+     "snippet": "Operand raises $31 million for private equity due diligence news.lavx.hu",
+     "text_status": "thin",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "nidus",
+   "company_guess": "Nidus",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "3f22f3a83283",
+     "group_key": "nidus",
+     "title": "Nidus Raises $30M to Deploy Embodied Intelligence in America's Defense Factories",
+     "publisher": "",
+     "url": "https://www.prnewswire.com/news-releases/nidus-raises-30m-to-deploy-embodied-intelligence-in-americas-defense-factories-302934756.html",
+     "published_at": "2026-11-10T16:00:00.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Backed by Kleiner Perkins and Costanoa, Nidus brings intelligent, autonomous systems that dramatically increase factory output, beginning with the wire harnesses inside every aircraft, missile, and vehicle NEW YORK, Nov. 10, 2026 /PRNewswire/ -- Nidus, the robotics company deploying...",
+     "text_status": "ok",
+     "text": "Nidus Raises $30M to Deploy Embodied Intelligence in America's Defense Factories\nNews provided by\nNidus Technologies\nNov 10, 2026, 11:00 ET\nShare this article\nShare this article\nBacked by Kleiner Perkins and Costanoa, Nidus brings intelligent, autonomous systems that dramatically increase factory output, beginning with the wire harnesses inside every aircraft, missile, and vehicle\nNEW YORK , Nov. 10, 2026 /PRNewswire/ -- Nidus, the robotics company deploying embodied intelligence inside America's defense factories, announced $30 million in funding today, backed by Kleiner Perkins and Costanoa, with participation from Ludlow Ventures, SF1, Absolute Partners, Tau, and angel investors, including Chris Power, founder of Hadrian; Adrian Aoun, co-founder of Dulo, Foundational Industries and Seneca; and Nikhil Goel, Chief Commercial Officer at Archer.\nAmerica's defense industrial base has a capacity crisis. The country that once produced more than half the world's goods now relies heavily on overseas supply chains to manufacture parts for its own weapons systems. This constitutes a national security risk, and factories urgently need to increase output to meet demand.\nNidus builds embodied intelligence that lets traditional industrial robots perform precision assembly tasks. The company develops and deploys foundation robotics models across America's critical defense factories, using sovereign AI training practices. This lets each customer retain its collective knowledge, which is crucial in secure environments.\n\"I grew up in rural South Carolina and watched offshoring create the current industrial base crisis,\" said Justin Sealy, co-founder and CEO of Nidus. \"At this point, we can't out-labor or out-scale our competition. We need to leapfrog the rest of the world by deploying physical AI that scales America's existing industrial capacity. This is why we started Nidus.\"\nNidus is deploying across the defense industrial base and quickly eclipsed seven figures in revenue in its first four months. The company is currently delivering customized models to automate wire processing on its proprietary platform, which was built from the ground up to meet Department of War security requirements.\n\"In physical AI, the value will accrue to players that prioritize deployment and customer value. And Nidus is the rare team that has actually deployed AI into the most locked-down environments in the country\" said Aatish Nayak, partner at Kleiner Perkins. \"The demand they're seeing is a testament to the value of their mission and product. We're thrilled to back Justin, Charu, Harrison, and Cane as they bring AI to the factories America's security depends on.\"\n\"The U.S. cannot rebuild industrial capacity through new construction alone. Nidus is taking a different approach, using AI and robotics to increase production inside existing factories,\" said Greg Sands, Founder and Managing Partner at Costanoa. \"We backed Justin and the team at pre-seed because of their firsthand experience with the challenges of American manufacturing and their technical ability to address them. We believe Nidus has the potential to make a meaningful difference in how critical products are manufactured in the U.S.\"\nNidus will use this funding to grow its engineering team, expand from wire-harness automation into additional factory workflows, and scale production deployments with U.S. defense manufacturers.\n\"We only build for American institutions that are vital for securing democracy,\" add"
+    },
+    {
+     "id": "e2f8487b776f",
+     "group_key": "nidus",
+     "title": "Nidus Raises $30 Million for Defense Robotics AI",
+     "publisher": "news.lavx.hu",
+     "url": "https://nidus.tech/",
+     "published_at": "2026-11-15T08:33:56.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Nidus Raises $30 Million for Defense Robotics AI news.lavx.hu",
+     "text_status": "thin",
+     "text": "November 10, 2026 — Announcement\nNidus Raises $30M to Deploy Embodied Intelligence in America's Defense Factories\nNidus raises $30 million, backed by Kleiner Perkins and Costanoa, to deploy embodied intelligence in America’s defense factories."
+    },
+    {
+     "id": "53d509c70155",
+     "group_key": "nidus",
+     "title": "Nidus raises $30M seed to build defense robotics AI in New York",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUk9EY3g5UnZvdm93bG1Ya2lGQzFGUmpSU2htaEtEUDJ4SHB2MWk0VGF2cThsQ05fTkQyMTRza0pvUVpXRWJBU3k2d3ZlMWRGWEhMdldlWjhzREZ2cEhuYURER1JJOVREQVdGVWlwMDl6NjJxN0ZiT0s2cFMtU1dCeFhEWEpleWI0UzFqTVA2cVYxUjBabmRrcm5jU1I?oc=5",
+     "published_at": "2026-11-10T16:54:00.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Nidus raises $30M seed to build defense robotics AI in New York Dealroom",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "68974e67e64d",
+     "group_key": "nidus",
+     "title": "Nidus Raises $30 Million to Expand AI-Powered Robotics in U.S. Defense Manufacturing",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0hDTC1GVV9wZnd1ZHRlZm5aaTYwVndRRVh5OHRJZmtvU1hocVlKemVkWlk4c1g4ZVREVmtvY3JSbTEzcnRWbmJwQkZlcG1Dd3U1bGxlOG1nSXg3QUN5TmhwTVhNZE9CNHQyYV9Td0tfelI0X3hDTXp1b2hCcHd1RTBhQklpWXNJSkhMYkExanpKbGhORV81elhLaVl1THJ3ZlFyZjdhV0xVRzIzczdMeFhjVjhuMTNnekVtcmF3?oc=5",
+     "published_at": "2026-11-10T17:10:41.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Nidus Raises $30 Million to Expand AI-Powered Robotics in U.S. Defense Manufacturing citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "f1f34fd63b39",
+     "group_key": "nidus",
+     "title": "Nidus Raises $30 Million to Expand AI-Powered Robotics in U.S. Defense Manufacturing",
+     "publisher": "Win Warfield",
+     "url": "https://www.citybiz.co/article/932074/nidus-raises-30-million-to-expand-ai-powered-robotics-in-u-s-defense-manufacturing/",
+     "published_at": "2026-11-10T17:00:02.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Nidus, a robotics and artificial intelligence company focused on automating industrial manufacturing, has raised $30 million in funding backed by... Read More\nThe post Nidus Raises $30 Million to Expand AI-Powered Robotics in U.S. Defense Manufacturing appeared first on citybiz .",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "3c0e15f71c23",
+     "group_key": "nidus",
+     "title": "Nidus: $30 Million Funding To Deploy AI-Powered Robotics Across U.S. Defense Manufacturing Facilities",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/nidus-30-million-funding-to-deploy-ai-powered-robotics-across-u-s-defense-manufacturing-facilities/",
+     "published_at": "2026-11-11T13:17:38.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Nidus, a robotics company developing embodied artificial intelligence for industrial manufacturing, has raised $30 million in funding to accelerate the deployment of autonomous systems across U.S. defense factories. The financing was backed by Kleiner Perkins and Costanoa, with participation from Ludlow Ventures, SF1, Absolute Partners, Tau, and several angel investors.\nThe post Nidus: $30 Million Funding To Deploy AI-Powered Robotics Across U.S. Defense Manufacturing Facilities appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "tendrils",
+   "company_guess": "Tendrils",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "bcdc3b9d515b",
+     "group_key": "tendrils",
+     "title": "Tendrils Raises $30 Million To Rebuild General-Purpose Computing",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/tendrils-raises-30-million-to-rebuild-general-purpose-computing/",
+     "published_at": "2026-11-17T04:17:05.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Tendrils has raised $30 million to develop a new processor architecture designed around thousands of parallel computing cores.\nThe post Tendrils Raises $30 Million To Rebuild General-Purpose Computing appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Tendrils Raises $30 Million To Rebuild General-Purpose Computing\nBy Amit Chowdhry\nYesterday at 11:17 PM\nTendrils Raises $30 Million To Rebuild General-Purpose Computing\nTendrils has raised $30 million to develop a new processor architecture designed around thousands of parallel computing cores.\nBenchmark led the round, with participation from Visionaries Club, the UK Sovereign AI Fund, FR8, Antimatter, Cloudberry VC, Conviction, Embassy Ventures, and SV Angel. Angel investors also participated, and Jack Altman has joined the company’s board.\nTendrils is attempting to redesign the central processing unit without the backward-compatibility constraints associated with conventional sequential and single-core architectures.\nThe company argues that modern CPUs continue to inherit architectural decisions dating back to the 1970s. In its view, cache-coherency protocols, reorder buffers, shared mutable memory, and linear instruction sequences create complexity that limits efficient scaling.\nRather than modifying existing architectures, Tendrils is building a processor intended to have thousands of cores operating in parallel. That approach requires the company to develop hardware and software together.\nTendrils is therefore working on Vine, an open-source programming language designed from the outset for parallel-first computer architectures. The company believes closer coordination between language design and processor architecture can eliminate legacy requirements and enable more scalable general-purpose computing.\nThe funding will support the research, engineering, and development required to turn this concept into functioning hardware and software. Tendrils is also recruiting hardware and software engineers interested in developing the architecture.\nAlthough AI accelerators have demonstrated the value of highly parallel computing for specialized workloads, Tendrils is targeting general-purpose applications. The company’s objective is to create an architecture that can support a wider range of software without relying on the sequential design assumptions embedded in conventional processors.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    },
+    {
+     "id": "b4cfc542f239",
+     "group_key": "tendrils",
+     "title": "Tendrils Compute raises $30 million to challenge CPU and GPU chips",
+     "publisher": "news.lavx.hu",
+     "url": "https://tendrils.co/",
+     "published_at": "2026-11-14T11:09:07.000Z",
+     "amount_hint": "$30 million",
+     "snippet": "Tendrils Compute raises $30 million to challenge CPU and GPU chips news.lavx.hu",
+     "text_status": "thin",
+     "text": "Building the new default chip for computation.\nA novel general-purpose architecture that scales to thousands of cores.\nAbout us Join the team"
+    },
+    {
+     "id": "e4a61823e949",
+     "group_key": "tendrils",
+     "title": "UK Chip Startup Tendrils Raises $30M to Rebuild the CPU",
+     "publisher": "FourWeekMBA",
+     "url": "https://fourweekmba.com/ar/%D8%B4%D8%B1%D9%83%D8%A9-%22%D8%AA%D9%8A%D9%86%D8%AF%D8%B1%D9%8A%D9%84%D8%B2%22-%D8%A7%D9%84%D9%86%D8%A7%D8%B4%D8%A6%D8%A9-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84-%D8%B1%D9%82%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%AC%D9%85%D8%B9-30-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A8%D9%86%D8%A7%D8%A1-%D9%88%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A9/",
+     "published_at": "2026-11-10T19:46:53.000Z",
+     "amount_hint": "$30M",
+     "snippet": "UK Chip Startup Tendrils Raises $30M to Rebuild the CPU FourWeekMBA",
+     "text_status": "blocked:403",
+     "text": null
+    },
+    {
+     "id": "ed132d415739",
+     "group_key": "tendrils",
+     "title": "Tendrils raises €26 million to reinvent the CPU with thousands of parallel cores - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbElnSEZoS0JKSDYwcFlVOWlhQU5KQTJ2VDdLdFdoVEtNTnM4NlRlNkpvekQ3WTE0SnlMcFg5NmtxaTBXNXVyZ1ZwcWVQWGJaLV9yYW5lREo4MjZUQjVlLVdnanBHeDhHRWl1UGw5SkRmMlFaS1RndGkyTjZiVzZkWmxBVUxkZ1lOcGxVY25YQmp0ZWktRDNlVTBBanowaU1HcXhHZ0V6UDJLLTNMNVQxQjFCSkNPV1I0?oc=5",
+     "published_at": "2026-11-11T11:40:46.000Z",
+     "amount_hint": "€26 million",
+     "snippet": "Tendrils raises €26 million to reinvent the CPU with thousands of parallel cores EU-Startups",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "6f4384b91134",
+     "group_key": "tendrils",
+     "title": "Cambridge chip startup Tendrils raises $30 million led by Benchmark to redo the CPU with thousands of parallel cores",
+     "publisher": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdXhVdHVjX2htekxEVlZ2WlR4TUUtRW9xakRRUGhHNFlTMW5aRjVsZEVFR2ctcVlNb2VYckN3U01XYkZaeHhkOGRDbThrYXlqN0lpaDczYUkxMGRxMkVacF9tZGZQNUtQMldraDRORnc1VnNBb0JVdWdJbzE3MUFOUVBLOUNHUUJSemNPcTNtSmptUlNLMkhYa09MUllEWUZlUUhCM1RCVGJCTFRsTHBUOHBpSWt0UEV2VGZxVHMyOFZNTHY1YWJqRUMtbGdqQWVuSlE?oc=5",
+     "published_at": "2026-11-11T11:14:57.000Z",
+     "amount_hint": "$30 million",
+     "snippet": "Cambridge chip startup Tendrils raises $30 million led by Benchmark to redo the CPU with thousands of parallel cores MLQ.ai",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "northwind group",
+   "company_guess": "Northwind Group",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "67d50eeaca40",
+     "group_key": "northwind group",
+     "title": "Northwind Group: $30 Million Loan Supports 52-Unit Condominium Development Near Manhattan’s Union Square",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/northwind-group-30-million-loan-supports-52-unit-condominium-development-near-manhattans-union-square/",
+     "published_at": "2026-11-10T12:25:23.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Northwind Group has originated a $30 million first-mortgage acquisition and predevelopment loan for a residential development site at 110 East 16th Street in Manhattan's Union Square neighborhood. The financing will support Pro-H Group's acquisition and redevelopment of the property into a planned 22-story condominium building with 52 residences.\nThe post Northwind Group: $30 Million Loan Supports 52-Unit Condominium Development Near Manhattan’s Union Square appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Northwind Group: $30 Million Loan Supports 52-Unit Condominium Development Near Manhattan’s Union Square\nBy Amit Chowdhry\nToday at 7:25 AM\nNorthwind Group: $30 Million Loan Supports 52-Unit Condominium Development Near Manhattan’s Union Square\nNorthwind Group has originated a $30 million first-mortgage acquisition and predevelopment loan for a residential development site at 110 East 16th Street in Manhattan’s Union Square neighborhood. The financing will support Pro-H Group’s acquisition and redevelopment of the property into a planned 22-story condominium building with 52 residences.\nThe property is located on East 16th Street between Union Square East and Irving Place.\nIt is currently occupied by a vacant nine-story parking garage.\nPro-H Group plans to demolish the existing structure and develop a residential property containing a mixture of one- to four-bedroom condominium homes.\nThe proposed building will also include resident amenities.\nThe project is located near Union Square, an established neighborhood known for transportation connections, retail businesses, restaurants, and residential demand.\nNorthwind believes the site’s location makes it attractive for a high-end residential development.\nThe company cited limited availability of newly developed condominium units in Manhattan as an important consideration in its financing decision.\nAccording to the announcement, Manhattan’s new development condominium inventory is at its lowest level in more than a decade.\nNorthwind expects the proposed property to address some of the demand for new housing in the Union Square area.\nThe $30 million financing was originated through Northwind Debt Fund III, also known as NDF III.\nThe fund recently completed its final close with approximately $1 billion in capitalization.\nThat amount was twice the fund’s initial $500 million target.\nNorthwind uses its debt funds to provide financing for residential properties and development opportunities in markets where new supply is limited.\nIts strategy includes acquisition loans, predevelopment financing, and other credit investments involving real estate sponsors.\nThe financing for 110 East 16th Street provides capital for the acquisition and early development stage of the project.\nPredevelopment financing can support activities such as design, planning, permitting, and other work required before construction begins.\nPro-H Group is a New York-based real estate development and construction organization founded by Burton Hung in 2006.\nThe company operates through an integrated model encompassing development, design, construction, and specialized facade systems.\nIt has completed more than 100 development and facade projects across New York City and New Jersey.\nIts in-house capabilities include architects, engineers, construction professionals, and other specialists.\nPro-H intends to use this integrated experience to develop the Union Square condominium project.\nThe acquisition also extends its development activities in Manhattan.\nBrown Harris Stevens Development Marketing is working with Pro-H Group on another residential project, Loggia NoMad.\nThat development is a 28-story, 94-unit condominium building at 842 Sixth Avenue that is currently in pre-sales.\nRobin Schneiderman, Managing Director at Brown Harris Stevens Development Marketing, represented Pro-H Group in the Union Square property acquisition.\nJonathan Hageman, Managing Director of Capital Markets at JLL, represented the seller.\nNorthwind Group was"
+    }
+   ]
+  },
+  {
+   "group_key": "coreshell",
+   "company_guess": "Coreshell Technologies",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "ab683f5ab3cc",
+     "group_key": "coreshell",
+     "title": "Coreshell Technologies Raises $30M Series B to Scale China-Free Batteries for U.S. Industries",
+     "publisher": "PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZUc3R2lIdDFXWGZWNjdZb0tnRUtPNTZXYUt4NTdsNWc2MldIcmNxdnB2d2RDdmxXNUt6X0V2VThtZjJGV0JWSWx3VUJVRXVzZW1XbnVKLVRkb2tsUHBhQ2dGS0Y4akNaVVNGME9kZ2JmbnlVcHA1Nnd3eV9vOFFWZXlrY0pZZEZHcGp6WVpmSHNUUlE3NEU0S0MwazVHWnVxUXF6Q3NfTmlURC1MZ0RfWlc4ekkwNUhmclhXX0NrR3lyWUFzczNDZ1AzTWFOUXRYNnJqYXBRTzJfWVZRQWdZ?oc=5",
+     "published_at": "2026-11-11T16:00:00.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Coreshell Technologies Raises $30M Series B to Scale China-Free Batteries for U.S. Industries PR Newswire",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "38256e9400a2",
+     "group_key": "coreshell",
+     "title": "Coreshell Technologies Raises $30M Series B to Scale China-Free Batteries for U.S. Industries",
+     "publisher": "",
+     "url": "https://www.prnewswire.com/news-releases/coreshell-technologies-raises-30m-series-b-to-scale-china-free-batteries-for-us-industries-302936063.html",
+     "published_at": "2026-11-11T16:00:00.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Round co-led by Ferroglobe and Access Industries builds on $50M DOE grant to accelerate commercialization of batteries made with domestic critical materials SAN LEANDRO, Calif., Nov. 11, 2026 /PRNewswire/ -- Coreshell Technologies, a battery technology company, today announced the close...",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "154a06950f85",
+     "group_key": "coreshell",
+     "title": "Coreshell Raises $30M Series B for Graphite-Free Silicon Anode Cells",
+     "publisher": "The EV Report",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNW1nM3hWb1BnSVZaUGFGdTdKdGF4Tjh5U2t1cHZLLS1BMXlUcVltLUl2LTRVN0xyNzFXaWVZZEVFTFVROXVSY2pCWm5sX0VTU2hmWnpvY09uc1E1M0FkRjI0UjNLTUlwcFZhSg?oc=5",
+     "published_at": "2026-11-12T13:05:40.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Coreshell Raises $30M Series B for Graphite-Free Silicon Anode Cells The EV Report",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "e262913c5399",
+     "group_key": "coreshell",
+     "title": "Coreshell Technologies: $30 Million Series B Advances Domestic Battery Manufacturing",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/coreshell-technologies-30-million-series-b-advances-domestic-battery-manufacturing/",
+     "published_at": "2026-11-11T21:24:37.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Coreshell Technologies has closed a $30 million Series B financing round to accelerate commercialization of its battery technology and expand manufacturing and customer programs focused on reducing dependence on Chinese critical materials.\nThe post Coreshell Technologies: $30 Million Series B Advances Domestic Battery Manufacturing appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "14c55fec72b9",
+     "group_key": "coreshell",
+     "title": "Coreshell Technologies Raises $30M Series B to Push Silicon-Based Batteries",
+     "publisher": "citybiz",
+     "url": "https://www.citybiz.co/article/933280/coreshell-technologies-raises-30m-series-b-to-push-silicon-based-batteries/",
+     "published_at": "2026-11-13T11:22:04.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Coreshell Technologies Raises $30M Series B to Push Silicon-Based Batteries citybiz",
+     "text_status": "blocked:403",
+     "text": null
+    },
+    {
+     "id": "08e26b61c4ec",
+     "group_key": "coreshell",
+     "title": "Coreshell Technologies Raises $30M Series B to Push Silicon-Based Batteries",
+     "publisher": "Win Warfield",
+     "url": "https://www.citybiz.co/article/933280/coreshell-technologies-raises-30m-series-b-to-push-silicon-based-batteries/",
+     "published_at": "2026-11-13T11:21:36.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Berkeley, Calif.-based Coreshell has raised $30 million in a Series B financing round co-led by London’s Ferroglobe plc (Nasdaq: GSM),... Read More\nThe post Coreshell Technologies Raises $30M Series B to Push Silicon-Based Batteries appeared first on citybiz .",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "23535107dc8a",
+     "group_key": "coreshell",
+     "title": "Coreshell Raises $30M Series B in San Leandro, CA",
+     "publisher": "Hoodline",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmdTbjhRazc1b0hrMjFaNklUbVNTV1ZBLTJvRk54NThBSFl0WDdNYjFhLUpBZ1I5Y0NBSXBndnE0Wm9mRzZaWG9yMnNRbVVEQmdaQ19HX2EyYlNJN1lsRXBOUXQ5aWRJQURvZmVodnltbi1kdlVybEdadVRCYkhfclNJb09NY0h3bkJqaWp2TFl3bTR4VDJPcEpRTjN2VWhVZWRyeWZ3?oc=5",
+     "published_at": "2026-11-13T22:43:10.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Coreshell Raises $30M Series B in San Leandro, CA Hoodline",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

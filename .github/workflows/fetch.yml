@@ -2,8 +2,11 @@ name: fetch-candidates
 
 on:
   schedule:
-    # 13:00 UTC daily = 5:00 AM PST / 6:00 AM PDT. The Claude routine extracts at 6:00 AM Pacific.
-    - cron: "0 13 * * *"
+    # GitHub starts scheduled workflows late (5 to 9 hours late was observed for a top-of-hour cron), so the
+    # fetch runs twice a day at off-peak minutes and never has to land before a deadline: the Claude routine
+    # (6:00 AM and 3:00 PM Pacific) processes every fetched-but-unmerged run folder it finds.
+    - cron: "17 4 * * *"
+    - cron: "17 12 * * *"
   workflow_dispatch:
     inputs:
       days:
@@ -50,9 +53,16 @@ jobs:
           ARGS=(--days "${{ github.event.inputs.days || '2' }}" --max-groups "${{ github.event.inputs.max_groups || '150' }}" --feed-pages "${{ github.event.inputs.feed_pages || '6' }}")
           if [ -n "${{ github.event.inputs.from }}" ]; then ARGS+=(--from "${{ github.event.inputs.from }}"); fi
           if [ -n "${{ github.event.inputs.to }}" ]; then ARGS+=(--to "${{ github.event.inputs.to }}"); fi
-          if [ -n "${{ github.event.inputs.label }}" ]; then ARGS+=(--date "${{ github.event.inputs.label }}"); fi
+          # Run folder: the label input, else today's UTC date; a second fetch on the same day gets a -HHMM suffix
+          # so it never overwrites candidates the routine has not merged yet.
+          LABEL="${{ github.event.inputs.label }}"
+          if [ -z "$LABEL" ]; then
+            LABEL="$(date -u +%F)"
+            if [ -f "data/runs/$LABEL/candidates.json" ]; then LABEL="$LABEL-$(date -u +%H%M)"; fi
+          fi
+          ARGS+=(--date "$LABEL")
           node scripts/fetch-candidates.mjs "${ARGS[@]}" 2>&1 | tee fetch.log
-          echo "run_date=${{ github.event.inputs.label }}" | sed "s/run_date=$/run_date=$(date -u +%F)/" >> "$GITHUB_OUTPUT"
+          echo "run_date=$LABEL" >> "$GITHUB_OUTPUT"
       - name: Commit candidates
         run: |
           git config user.name "ai-funding-tracker bot"

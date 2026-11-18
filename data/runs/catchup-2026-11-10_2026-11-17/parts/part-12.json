@@ -1,0 +1,412 @@
+{
+ "run_date": "catchup-2026-11-10_2026-11-17",
+ "part": 12,
+ "groups": [
+  {
+   "group_key": "q ctrl",
+   "company_guess": "Q-CTRL",
+   "amount_hint_usd": 415000000,
+   "articles": [
+    {
+     "id": "b341a20c594e",
+     "group_key": "q ctrl",
+     "title": "Q-CTRL raises $415m in Series C raise led by Salesforce Ventures",
+     "publisher": "Capital Brief",
+     "url": "https://www.capitalbrief.com/briefing/q-ctrl-raises-415m-in-series-c-raise-led-by-salesforce-ventures-154500ad-6c82-4001-a535-5c8993d454d0/",
+     "published_at": "2026-11-12T13:00:00.000Z",
+     "amount_hint": "$415m",
+     "snippet": "Q-CTRL raises $415m in Series C raise led by Salesforce Ventures Capital Brief",
+     "text_status": "ok",
+     "text": "Briefing\nRight Place\nQ-CTRL raises $415m in Series C raise led by Salesforce Ventures\nMake us a preferred source\nMake us a preferred source on Google\n12:00am on 13 November 2026\nLink copied\nCopy failed\nThe news: Quantum computing software company Q-CTRL has raised USD290 million ($415 million) at a valuation above USD1 billion in a series C round led by Salesforce Ventures.\nThe context: Q-CTRL’s products help make quantum computing useful by correcting errors and improving performance. It also builds Ironstone Opal, a quantum positioning system that enables geolocation without the need for GPS. Customers include Lockheed Martin, Airbus and IBM.\nThe round required two expansions to meet the level of investor demand. Among the new investors is the federal government’s National Reconstruction Fund, which has tipped in $70 million.\nOther new investors include Affinity Partners, AMD Ventures, EDGE Group, MPower Partners and SPARX Asset Management.\nReturning investors include Alpha Edison, Alumni Ventures, Bullhound Capital, DCVC, In-Q-Tel, Lockheed Martin Ventures, Main Sequence, Ridgeline, Salesforce Ventures, Salus Ventures and Square Peg.\nWhat they said: “The investor syndicate we’ve assembled showcases the strength of our technology, revenue growth, and strategic alignment with some of the most important sectors today, from AI to aviation,” Q-CTRL CEO and founder Michael Biercuk said.\nSalesforce Ventures partner Robert Keith said: “The hard problem in quantum is not building the machine, it is getting useful output from it. Q-CTRL solves that with AI-powered control software, and the proof is already public: a materials simulation on IBM hardware that any developer can now call directly from the IBM Quantum Platform, and the first quantum navigation system qualified for safety of flight.”\n“That software layer will decide whether quantum shows up in enterprise data centers this decade, and it is why Salesforce Ventures led this round,” Keith said.\nThe sources: Q-CTRL media release , NRF media release"
+    },
+    {
+     "id": "854dab503f6c",
+     "group_key": "q ctrl",
+     "title": "Q-CTRL Raises $290mn To Merge Quantum And AI",
+     "publisher": "Quantum Zeitgeist",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kdnNkSjJMYWRUYzVEVnFCNVNFMndFcUJ5bjlzZVBtMVVxRzNHaHUwNUFmTkYwLW5jWHdmUUUyNlFxRTlSV2JQaFY4dlV4Vkt3cHc3MFhsLTA2OTZ4cGM3UEJQMVpwOXBmTWc?oc=5",
+     "published_at": "2026-11-12T13:16:51.000Z",
+     "amount_hint": null,
+     "snippet": "Q-CTRL Raises $290mn To Merge Quantum And AI Quantum Zeitgeist",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "science",
+   "company_guess": "Science Corporation",
+   "amount_hint_usd": 400000000,
+   "articles": [
+    {
+     "id": "e00280634964",
+     "group_key": "science",
+     "title": "Science Corporation Raises $400M Series D to Expand PRIMA Access",
+     "publisher": "Unite.AI",
+     "url": "https://www.unite.ai/science-corporation-raises-400m-series-d-to-expand-prima-access/",
+     "published_at": "2026-11-17T14:43:02.000Z",
+     "amount_hint": "$400M",
+     "snippet": "Science Corporation Raises $400M Series D to Expand PRIMA Access Unite.AI",
+     "text_status": "ok",
+     "text": "Funding\nScience Corporation Raises $400M Series D to Expand PRIMA Access\nPublished\nNovember 17, 2026\nBy\nEvan Mercer, AI Startups & Venture Capital AI Research Agent\nAdd Unite.AI to your preferred sources on Google\nKey Points Science's $400 million Series D funds European expansion of PRIMA while US approval…\nView more\nScience's $400 million Series D funds European expansion of PRIMA while US approval remains pending.\nPRIMA is CE marked in the EU but still requires FDA Humanitarian Device Exemption review before US sale.\nThe biohybrid neural-interface program remains research-stage with therapeutic uses still undefined.\nScience Corporation announced on November 17, 2026 that it raised a $400 million Series D to expand availability of its PRIMA retinal implant in Europe, prepare for a US launch, and increase investment in its biohybrid neural-interface program.\nKhosla Ventures, the Ackman Oxman Institute, Tenet Healthcare, 885 Capital, Y Combinator and PLC Neurotech participated, among other investors. The round brings total capital raised since Science’s founding in 2021 to more than $900 million. The company will also expand its research, manufacturing and operational infrastructure.\nPRIMA’s Commercial and Regulatory Path\nPRIMA is a retinal implant being studied for geographic atrophy caused by dry age-related macular degeneration. Science describes it as the first brain-computer interface CE marked in the European Union to restore form vision—the ability to read letters, numbers and words—for patients blinded by certain types of late-stage macular degeneration. It is registered for supply in the United Kingdom and is not approved or available for sale in any other country.\nThe implant contains 378 light-powered pixels that convert light from the system’s glasses into signals that stimulate retinal cells. The glasses combine a front-facing camera with an eye-facing projector that shines light precisely onto the implant. The design is intended to replicate the function of light-sensitive cells that have been lost.\nAt 12 months, 80% of patients in the PRIMA clinical study showed clinically meaningful improvement in visual acuity, and 84% reported reading letters, numbers and words at home with the system, according to Science’s product page. The reported efficacy results include the use of digital zoom and contrast.\nIn a July 22, 2026 announcement , Science said PRIMA had received two FDA Humanitarian Use Device designations. The program provides expedited review for devices treating rare diseases or conditions, but designation is not marketing approval: PRIMA must still be reviewed and approved through a Humanitarian Device Exemption. One designation covers blindness in both eyes caused by an advanced subset of geographic atrophy, without vision loss from other eye diseases; the other covers vision loss from Stargardt disease, a rare inherited retinal disease. The US approval process remains underway.\nBiohybrid Neural-Interface Research\nScience’s biohybrid architecture takes a different approach from the retinal implant: it anchors hundreds of thousands of engineered neurons to a device and uses their projections to form connections with neurons in the brain. MicroLEDs stimulate the embedded neurons, which are modified through optogenetics so they can be activated by light, while electrodes record their activity. Science says the architecture can provide orders of magnitude more bandwidth than current devices while avoiding the damage an"
+    }
+   ]
+  },
+  {
+   "group_key": "zilch",
+   "company_guess": "Zilch",
+   "amount_hint_usd": 395000000,
+   "articles": [
+    {
+     "id": "d081eae29ab3",
+     "group_key": "zilch",
+     "title": "Zilch: £395 Million Debt Facilities Expand Consumer Lending Capacity",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/zilch-395-million-debt-facilities-expand-consumer-lending-capacity/",
+     "published_at": "2026-11-12T21:33:02.000Z",
+     "amount_hint": "£395 Million",
+     "snippet": "Zilch has increased its securitization and corporate debt facilities by £165 million, bringing total commitments to £395 million as the payments company expands its product offering. Deutsche Bank led the latest financing, with participation from two major credit funds. The facilities will enable Zilch to originate up to £6 billion in lending annually.\nThe post Zilch: £395 Million Debt Facilities Expand Consumer Lending Capacity appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Zilch: £395 Million Debt Facilities Expand Consumer Lending Capacity\nBy Amit Chowdhry\nYesterday at 4:33 PM\nZilch: £395 Million Debt Facilities Expand Consumer Lending Capacity\nZilch has increased its securitization and corporate debt facilities by £165 million, bringing total commitments to £395 million as the payments company expands its product offering. Deutsche Bank led the latest financing, with participation from two major credit funds. The facilities will enable Zilch to originate up to £6 billion in lending annually.\nThe additional capacity supports customer growth and demand for products including Pay Monthly, launched in August 2026. That offering allows qualifying customers to spread purchases over three, six or 12 months.\nZilch is targeting a broader range of spending needs, including larger purchases such as holidays, household appliances and insurance premiums.\nAverage annual spending per active customer has reached £2,500, while the company’s gross merchandise value run rate has exceeded £3.5 billion.\nThe financing follows Zilch’s announcement that it surpassed a $300 million annual run rate and recorded two consecutive quarters of adjusted profit before tax in its 2027 financial year.\nThe company also plans to move into a new London headquarters in spring 2027, more than doubling its office capacity.\nFounded in 2018, Zilch combines debit, credit, installments, earned wage access, credit-building features, offers and rewards within its payments platform.\nThe expanded funding facilities provide more lending capacity as that product mix develops. Management identified access to efficient funding as important to supporting higher transaction volumes and continued growth.\nChief Financial Officer Hugh Courtney said the financing reflects funders’ confidence in Zilch’s underwriting and ability to scale profitably in the United Kingdom.\nThe company’s strategy is to serve more customer payment needs through the same platform, strengthening engagement as users move between everyday spending and larger purchases.\nKEY QUOTES:\n“As we continue to grow at significant scale, having access to efficient funding is a key parameter for success. These expanded facilities give us greater capacity to support our customers where they need us, capturing more of the transactions that matter to customers day to day and providing the most rewarding ways to pay. By serving a broader range of customer needs, we can continue building a highly engaged customer relationship and delivering the value, flexibility and features that our customers really want.”\nPhilip Belamant, CEO And Co-Founder Of Zilch\n“We are proud of our close partnerships with our funders, led by Deutsche Bank, who continue to support our growth as we scale the business profitably in the UK. The upsizing of the facilities represents a strong endorsement of our underwriting capabilities, product market fit and ability to continue scaling at pace.”\nHugh Courtney, Chief Financial Officer Of Zilch\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "lpl financial",
+   "company_guess": "LPL Financial",
+   "amount_hint_usd": 390000000,
+   "articles": [
+    {
+     "id": "10fcb24c4cf8",
+     "group_key": "lpl financial",
+     "title": "LPL Financial Brings In $390 Million Firm Contour Wealth Management",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/lpl-financial-brings-in-390-million-firm-contour-wealth-management/",
+     "published_at": "2026-11-10T21:36:59.000Z",
+     "amount_hint": "$390 Million",
+     "snippet": "LPL Financial has added Contour Wealth Management, a Pennsylvania-based financial advisory practice serving approximately $390 million in client assets, to its broker-dealer and registered investment advisory platforms. Financial advisor Joe Borgese, a certified financial planner, joins LPL from Cetera alongside a team focused on comprehensive financial planning and multigenerational client relationships.\nThe post LPL Financial Brings In $390 Million Firm Contour Wealth Management appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "LPL Financial Brings In $390 Million Firm Contour Wealth Management\nBy Amit Chowdhry\nYesterday at 4:36 PM\nLPL Financial Brings In $390 Million Firm Contour Wealth Management\nLPL Financial has added Contour Wealth Management, a Pennsylvania-based financial advisory practice serving approximately $390 million in client assets, to its broker-dealer and registered investment advisory platforms. Financial advisor Joe Borgese, a certified financial planner, joins LPL from Cetera alongside a team focused on comprehensive financial planning and multigenerational client relationships.\nContour Wealth Management is based in Boyertown, Pennsylvania, outside Philadelphia.\nThe firm serves individuals and families, including educators, healthcare professionals, business owners, and clients across multiple generations.\nIts planning approach emphasizes developing long-term relationships and adapting financial strategies as clients’ needs evolve.\nBorgese began his career in financial services in 1990, initially working in banking before moving into other areas of the industry.\nOver more than three decades, he has developed a practice centered on investment planning, retirement strategies, and broader financial guidance.\nContour Wealth Management works with some families across three generations, helping clients address financial needs ranging from retirement planning to college savings.\nThe practice begins each client engagement by establishing an understanding of the client’s goals, expectations, and personal circumstances.\nAdvisors then develop financial plans intended to adapt to changes involving careers, families, retirement, and other life events.\nThe firm’s services include financial planning, investment planning, and tax preparation, supported by working relationships with outside professionals.\nThe practice is supported by an experienced team that coordinates client relationships and ongoing financial planning needs.\nLindsey Borgese, also a certified financial planner, helps manage the office.\nThe team includes Diana C. Dugan, an enrolled agent, alongside Brian Christman, Cheryl Dietz, and Karen Walla.\nTheir responsibilities support client service, administration, and coordination across the firm’s financial planning activities.\nReasons For Joining LPL Financial\nContour Wealth Management selected LPL Financial based on its technology infrastructure, operational support, and advisor-focused service model.\nThe practice also identified potential cost efficiencies for clients as an important consideration.\nLPL provides brokerage, advisory, technology, and practice management services to independent financial advisors and financial institutions.\nIts infrastructure is designed to allow advisors to operate their businesses while accessing a broader range of investment products and operational resources.\nFor Contour Wealth Management, the transition provides access to additional technology and support capabilities while preserving its relationship-driven planning approach.\nBorgese believes these resources will help the practice operate more efficiently and continue delivering personalized financial guidance.\nThe move also reflects the broader appeal of independent advisory platforms that allow practices to maintain their identity while benefiting from the resources of larger financial services organizations.\nFinancial advisors increasingly evaluate technology, compliance assistance, service capabilities, and operating costs when selecting affiliation pa"
+    }
+   ]
+  },
+  {
+   "group_key": "cyberstarts",
+   "company_guess": "Cyberstarts",
+   "amount_hint_usd": 360000000,
+   "articles": [
+    {
+     "id": "76596a48bd81",
+     "group_key": "cyberstarts",
+     "title": "Cyberstarts raises $360 million across two funds, including $300 million for Cyera",
+     "publisher": "CTech",
+     "url": "https://www.calcalistech.com/ctechnews/article/ukdmm9bbi",
+     "published_at": "2026-11-15T07:34:00.000Z",
+     "amount_hint": "$360 million",
+     "snippet": "Cyberstarts raises $360 million across two funds, including $300 million for Cyera CTech",
+     "text_status": "thin",
+     "text": "Ron Shelef"
+    }
+   ]
+  },
+  {
+   "group_key": "standardaero",
+   "company_guess": "StandardAero",
+   "amount_hint_usd": 350000000,
+   "articles": [
+    {
+     "id": "1e1d1b9a54bc",
+     "group_key": "standardaero",
+     "title": "StandardAero Announces Financing and $350 Million Share Repurchase",
+     "publisher": "TipRanks",
+     "url": "https://www.tipranks.com/news/company-announcements/standardaero-announces-financing-and-350-million-share-repurchase",
+     "published_at": "2026-11-16T13:29:26.000Z",
+     "amount_hint": "$350 Million",
+     "snippet": "StandardAero Announces Financing and $350 Million Share Repurchase TipRanks",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "exus",
+   "company_guess": "Exus",
+   "amount_hint_usd": 345000000,
+   "articles": [
+    {
+     "id": "1797c4ff517a",
+     "group_key": "exus",
+     "title": "Exus Closes $345 Million Financing Led by Goldman Sachs Alternatives",
+     "publisher": "Hoodline",
+     "url": "https://hoodline.com/2026/11/exus-closes-345-million-financing-led-by-goldman-sachs-alternatives/",
+     "published_at": "2026-11-13T14:36:08.000Z",
+     "amount_hint": "$345 Million",
+     "snippet": "Exus Closes $345 Million Financing Led by Goldman Sachs Alternatives Hoodline",
+     "text_status": "ok",
+     "text": "Source: Nikki / Wikimedia Commons\nExus Renewables North America said Thursday it closed $345 million in senior secured holding company financing led by Goldman Sachs Alternatives, money the company says will go toward construction and new U.S. wind, solar and battery projects.\nThe check is another in a run of company financings and project deals, not a map of which turbines or panels get the cash. Exus framed the close against rising U.S. electricity demand and described itself as an independent owner, developer and operator of utility-scale renewable energy and storage.\nWhat the Money Is For\nExus said the financing will support construction costs and development across its growing U.S. portfolio of wind, solar and battery storage assets. The announcement does not name the projects that will draw on the facility or split the dollars among those three technologies.\nPresident and CEO Jim Spencer said the financing lets the company keep its momentum going. He also said Goldman Sachs Alternatives' support reflects confidence in Exus and gives it flexibility to build projects and bring generation online, including work already underway and a deeper pipeline.\nVikas Agrawal, managing director and co-head of Energy Transition Climate Credit at Goldman Sachs Alternatives, said Exus has a strong platform for developing and operating utility-scale renewable projects. \"We're pleased to support its continued investment in new energy infrastructure,\" he said, tying that support to growing U.S. electricity demand.\nA Larger Company-Reported Book\nExus reported more than 800 megawatts operating or under construction and a total portfolio exceeding 6 gigawatts. Those are company figures, not an outside audit of nameplate capacity.\nThe comparison that is on the record is Exus' own July 22, 2025 financing announcement. Then, the company reported more than 5 gigawatts in its total portfolio and 764 megawatts operating or under construction, alongside $308.2 million in financing for the 185-megawatt Zia Solar portfolio in New Mexico and the 169-megawatt Keystone wind portfolio in Pennsylvania.\nFrom that July 2025 snapshot to Thursday's release, the company-reported operating-or-under-construction figure moved from 764 megawatts to more than 800, and the total portfolio from over 5 gigawatts to more than 6. Exus also said it is expanding its operational footprint to meet growing national energy needs, with work that includes developing, repowering and managing renewable assets.\nSeparate Deals, Not One Stack\nThis holding-company financing sits beside other Exus transactions that the available reporting treats as separate. pv magazine USA reported in January that Exus had closed a $400 million senior secured corporate credit facility tied to a 4.5-gigawatt pipeline. Nothing in the Thursday announcement establishes whether that facility is still outstanding or how it relates to the $345 million.\nProject-level money has also moved on its own track. On Sept. 22, Exus said it had completed the Highland North and Cambria wind repower projects in Cambria County, Pennsylvania, and that construction was financed through roughly $356 million led by KeyBanc Capital Markets. A week later, on Sept. 29, Exus and ibV Energy Partners announced that Exus had acquired four solar projects totaling 715 megawatts-peak.\nThose deals show a company adding and rebuilding capacity in named places — Cambria County wind, a New Mexico solar book, Pennsylvania wind — while Thursday's $345 m"
+    },
+    {
+     "id": "351325733e3f",
+     "group_key": "exus",
+     "title": "Exus Renewables North America Closes $345 Million in Financing to Support New Projects",
+     "publisher": "POWER Magazine",
+     "url": "https://www.powermag.com/exus-renewables-north-america-closes-345-million-in-financing-to-support-new-projects/",
+     "published_at": "2026-11-16T20:40:41.000Z",
+     "amount_hint": "$345 Million",
+     "snippet": "Exus Renewables North America Closes $345 Million in Financing to Support New Projects POWER Magazine",
+     "text_status": "ok",
+     "text": "Renewables\nExus Renewables North America Closes $345 Million in Financing to Support New Projects\nPress Release\nMonday, November 16, 2026\nSHARE:\nExus Renewables North America, an independent owner, developer, and operator of utility-scale renewable energy and energy storage projects, has announced the closing of $345 million in senior secured holding company financing led by Goldman Sachs Alternatives. The financing will support construction costs and the development of new projects across Exus&rsquo; growing U.S. portfolio of wind, solar and battery storage assets.\nThe financing announced November 12 builds on an active year for Exus , including the closing of a $400 million senior secured corporate credit facility in December and approximately $356 million in project-level construction financing for its Highland North and Cambria wind projects in Pennsylvania in July . With more than 800 MW operating or under construction and a total portfolio exceeding 6 GW, Exus continues to advance its project pipeline amid rising U.S. electricity demand.\n&ldquo;We have projects moving forward and a deep pipeline behind them, and this financing lets us keep that momentum going,&rdquo; said Jim Spencer, president and CEO of Exus Renewables North America. &ldquo;The support from Goldman Sachs Alternatives reflects confidence in our team and our projects, and gives us the flexibility to keep building and bring new generation online where it&rsquo;s needed.&rdquo;\n&ldquo;Exus has established a strong platform for developing and operating utility-scale renewable energy projects,&rdquo; said Vikas Agrawal, managing director and co-head of Energy Transition Climate Credit at Goldman Sachs Alternatives. &ldquo;We&rsquo;re pleased to support its continued investment in new energy infrastructure as electricity demand grows across the United States.&rdquo;\nPEI Global Partners served as financial advisor to Exus on the transaction. Latham & Watkins LLP served as legal counsel to Exus, while Vinson & Elkins LLP served as legal counsel to Goldman Sachs Alternatives.\n&mdash;This content was contributed by the communications team for Exus Renewables North America .\nTagged in:\nbatteries\nEnergy storage\nExus\nExus Renewables North America\nfinancing\nGoldman Sachs Alternatives\nsolar\nwind\nSept. 28—30, 2026\nWashington, D.C.\nRegister Now\nExplore this topic and more &mdash; live at Experience POWER. The power industry's most urgent decisions are being made right now. Be in the room where they happen.\nView Conference Program\nSeptember 30, 2026 – 11:00 am-11:45 am\nInside the Issues: How Industry Associations Are Helping Members Navigate a Changing Energy Landscape\nFew moments have placed more pressure on the U.S. power sector than the one we’re in now—surging load growth, an evolving generation mix, mounting reliability concerns, rising costs, and a regulatory environment in flux. But those pressures look very different depending on where you sit on the grid.\nIn this session, executives from several of the industry’s most influential associations share what’s at the top of their members’ agendas, the challenges keeping their members up at night, and the work their organizations are doing to help meet those challenges head-on.\nAttendees will leave with a clearer picture of how different segments of the power sector are approaching today’s defining issues, and where their priorities align, diverge, and intersect.\nSpeaking–\nMark W. Menezes (United States Energy Association (USEA"
+    },
+    {
+     "id": "8dfecbd2f445",
+     "group_key": "exus",
+     "title": "Exus Renewables Closes $345 Million Financing Led by Goldman Sachs Alternatives",
+     "publisher": "energynews.pro",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOampOOGVmTU9oUjNYby1ETG04TF9NbVZlaXRBUGZYbW5vdlRPdVZiWmM1YmpOYzdtNVZEZkZHUkRkbEZMMTFTdTN4emg3Y1VaSjZUdGtCSnV3UW5oSHluMnFfS2poN3A2UHY5cWd6TG83SDRSRjdWWkd5T25XaGc3bEpGVFltQnBSQlB3MjZZU291RDhWRktqWlpVdjBtaGhWZE92ZXRtUQ?oc=5",
+     "published_at": "2026-11-16T05:04:37.000Z",
+     "amount_hint": "$345 Million",
+     "snippet": "Exus Renewables Closes $345 Million Financing Led by Goldman Sachs Alternatives energynews.pro",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "soros fund",
+   "company_guess": "Soros Fund",
+   "amount_hint_usd": 340000000,
+   "articles": [
+    {
+     "id": "e4217deb884d",
+     "group_key": "soros fund",
+     "title": "Soros Fund raises its Intel stake to more than $340 million, 13F shows",
+     "publisher": "MLQ.ai",
+     "url": "https://mlq.ai/news/soros-fund-raises-its-intel-stake-to-more-than-340-million-13f-shows/",
+     "published_at": "2026-11-14T14:09:35.000Z",
+     "amount_hint": "$340 million",
+     "snippet": "Soros Fund raises its Intel stake to more than $340 million, 13F shows MLQ.ai",
+     "text_status": "ok",
+     "text": "STOCKS\nINTEL\nNVIDIA\nSEMICONDUCTORS\nSoros Fund raises its Intel stake to more than $340 million, 13F shows\nNov 14, 2026\n·\n9:32 AM\n·\nBy MLQ.ai Newsroom · Edited by Peter Foy\n·\n3 min read\nKey points\nSoros Fund Management held 2,830,000 Intel shares worth $340.3 million on Sept. 30, up from 100,000 shares worth $14.0 million on June 30 [1] [2] .\nIntel became the firm's largest common-stock holding; it cut Nvidia to 858,822 shares from 1,064,635 and lifted Meta to 151,505 shares from 21,776 [1] [2] .\nThe largest line by value was put options on 10.9 million shares of the Energy Select Sector SPDR ETF, with a reported value of $670.2 million, up from $106.2 million [1] [2] .\nSoros Fund Management increased its stake in Intel about 28-fold in the third quarter, to 2,830,000 shares worth $340.3 million at the end of September, according to the quarterly 13F holdings report the firm filed with the SEC on Friday [1] . At the end of June it held 100,000 Intel shares, valued at $14.0 million [2] . Reuters first reported the increase.\nThe position is now the firm's largest common-stock holding, ahead of Amazon ($262.9 million) and Taiwan Semiconductor ADSs ($250.4 million) [1] . The 13F lists 263 positions with a reported value of $8.51 billion, up from $8.14 billion in June [1] [2] . The filing shows holdings on Sept. 30 only; the firm may have traded since, and 13Fs do not show short positions or most non-US holdings.\nOther moves in the filing\nHolding Shares, Sept. 30 Shares, June 30 Value, Sept. 30 ($M)\nIntel 2,830,000 100,000 340.3\nAmazon 1,055,346 1,182,529 262.9\nTSMC ADS 548,915 522,158 250.4\nAlphabet (A) 600,960 596,286 206.8\nNvidia 858,822 1,064,635 196.1\nMeta 151,505 21,776 109.9\nSK Hynix ADS 325,000 0 59.8\nCommon stock and ADSs only; excludes options. Source: Soros Fund Management 13F filings [1] [2] .\nSoros cut its Nvidia stake by 19% to 858,822 shares and also held puts on 350,000 Nvidia shares, down from 400,000 [1] [2] . It raised its Meta Platforms holding about sevenfold, opened a 325,000-share position in SK Hynix ADSs, and slightly trimmed AMD to 44,631 shares [1] [2] .\nIt sold all of its Electronic Arts shares (970,990 in June), its 310,000 Nebius shares and its Digital Realty stake [1] [2] . The biggest line by value was put options on 10.9 million shares of the Energy Select Sector SPDR ETF, reported at $670.2 million, alongside new puts on an oil and gas exploration ETF and calls on a 20-year Treasury bond ETF and a utilities ETF [1] . Reported values for options reflect the underlying shares, not the premium paid.\nOther large investors also moved into Intel last quarter: Capital Group bought Intel while trimming Nvidia, and Renaissance Technologies sold nearly all its Nvidia . Intel this week formed a 23-company Korean AI alliance around its D-Series inference GPU.\nCompanies mentioned\nAmazon\nAMZN\nIntel Corporation\nINTC\nMeta Platforms\nMETA\nNebius\nNBIS\nNVIDIA Corporation\nNVDA\nTaiwan Semiconductor Manufacturing Company\nTSM\nFurther sources\n[1]\nSoros Fund Management LLC, Form 13F-HR for the quarter ended Sept. 30, 2026 (fi…\n↗\n[2]\nSoros Fund Management LLC, Form 13F-HR for the quarter ended June 30, 2026 (fil…\n↗\nThis article was produced by MLQ.ai's AI newsroom and checked against primary sources such as company filings, official releases and court documents. Reports from a single outlet are attributed. Editor: Peter Foy . How we work · Spotted an error? Tell us .\nMore like this\nNvidia director Mark Stevens sold about $947 million o"
+    }
+   ]
+  },
+  {
+   "group_key": "uaes mair group",
+   "company_guess": "UAE's MAIR Group",
+   "amount_hint_usd": 327000000,
+   "articles": [
+    {
+     "id": "52564ed83715",
+     "group_key": "uaes mair group",
+     "title": "UAE's MAIR Group secures $327 million credit facility from Emirates NBD to drive expansion",
+     "publisher": "jawlah.co",
+     "url": "https://jawlah.co/en/68151",
+     "published_at": "2026-11-14T15:07:24.000Z",
+     "amount_hint": "$327 million",
+     "snippet": "UAE's MAIR Group secures $327 million credit facility from Emirates NBD to drive expansion jawlah.co",
+     "text_status": "thin",
+     "text": "15 November، 2026\nCan Nvidia move past Jensen Huang's absence?"
+    }
+   ]
+  },
+  {
+   "group_key": "path robotics 2",
+   "company_guess": "Path Robotics",
+   "amount_hint_usd": 300000000,
+   "articles": [
+    {
+     "id": "6b990033ffcb",
+     "group_key": "path robotics 2",
+     "title": "Path Robotics raises $300M at $2.45B valuation to scale physical AI for manufacturing",
+     "publisher": "Ohio Tech News",
+     "url": "https://www.ohiotechnews.com/path-robotics-raises-300m-scale-physical-ai-manufacturing/",
+     "published_at": "2026-11-10T14:56:34.000Z",
+     "amount_hint": "$300M",
+     "snippet": "Path Robotics raises $300M at $2.45B valuation to scale physical AI for manufacturing Ohio Tech News",
+     "text_status": "ok",
+     "text": "Startups + VC\nPath Robotics raises $300M at $2.45B valuation to scale physical AI for manufacturing\nAnnual recurring revenue grew 17-fold over 18 months as the Columbus startup added industrial deployments. Customers include HII, Lockheed Martin and Saronic, while a $600 million performance-based shipbuilding agreement and plans to reach 400 employees by year-end underscore its growth.\nOhio Tech News\n10 Nov 2026\n— 3 min read\nShare\nPath Robotics co-founders and brothers Andy and Alex Lonsberry (Photo: Path Robotics)\nColumbus-based Path Robotics has raised $300 million in Series E financing at a $2.45 billion post-money valuation to expand its robotic welding business and bring its artificial intelligence technology to more manufacturing tasks.\nAI-focused growth equity firm Georgian led the round, announced Nov. 10, with participation from existing investors including Drive Capital. The financing brings Path’s total funding to more than $610 million since its founding in 2018, according to the company. Georgian partner Emily Walsh will join its board of directors.\nThe investment follows rapid commercial growth. Path said annual recurring revenue increased 17-fold over the past 18 months as it expanded deployments among industrial customers across North America.\nThe new capital will support additional deployments, development of new robotic platforms, and increased investment in computing resources and AI model training. In a LinkedIn post , CEO and co-founder Andy Lonsberry said Path plans to begin expanding its technology beyond welding into other production-line tasks in 2027.\n“Our goal isn't to automate one step, but to automate the entire factory,” Lonsberry said in the announcement.\nScaling across shipbuilding and heavy industry\nPath’s expansion targets a production challenge: manufacturers with demand for more products but limited capacity to build them.\nThe company develops physical AI—technology that enables robots to perceive their surroundings and adapt their actions to changing conditions. Its initial focus has been welding, where variations in parts and joints can make conventional, preprogrammed automation difficult to deploy.\nPath said its customers include HII, Lockheed Martin and Saronic, along with manufacturers such as EK Machine, Millerbernd Manufacturing Company, TransAmerican Power Products and TYCROP. Its target industries include shipbuilding and defense, heavy equipment, and energy infrastructure.\nEarlier this year, Path announced a $600 million performance-based production agreement with HII to accelerate deployment of its technology across U.S. Navy shipbuilding programs. That agreement is separate from the equity financing announced Nov. 10.\nTo support growing demand, Path said its workforce has increased 97% year over year, with plans to reach 400 employees by the end of 2026.\nTaking its AI beyond welding\nAt the center of Path’s technology is Obsidian, a physical AI welding model that uses real-world production data to help robots identify weld joints, plan and execute welds, and adapt to changing conditions, according to the company.\nPath recently introduced Rove, a mobile welding system that pairs Obsidian with a four-legged robot. The system is designed to bring welding capabilities directly to a part rather than requiring the work to take place inside a stationary robotic cell.\nThe funding will help Path extend its technology to additional robotic platforms and manufacturing applications.\nWalsh said Path’s "
+    },
+    {
+     "id": "d9c6e4334cbe",
+     "group_key": "path robotics 2",
+     "title": "Welding AI Maker Path Robotics Raises $300M Series E With NAVER Ventures",
+     "publisher": "Wowtale",
+     "url": "https://en.wowtale.net/2026/11/14/235995/?utm_source=rss&utm_medium=rss&utm_campaign=welding-ai-maker-path-robotics-raises-300m-series-e-with-naver-ventures",
+     "published_at": "2026-11-14T00:48:16.000Z",
+     "amount_hint": "$300M",
+     "snippet": "Welding AI Maker Path Robotics Raises $300M Series E With NAVER Ventures Wowtale",
+     "text_status": "ok",
+     "text": "Skilled welders are hard to find, and shipyards and heavy-equipment plants are sitting on full order books. Traditional industrial robots do not help much here. They follow pre-programmed paths, which makes them a poor fit for welds that differ slightly from one part to the next. Path Robotics , a Columbus, Ohio-based startup, is betting that a robot that can see and decide for itself can fill that gap. On Nov. 10, the company announced a $300 million Series E at a $2.45 billion post-money valuation.\nGeorgian , an AI-focused growth equity firm, led the round. NAVER Ventures and D. E. Shaw Ventures joined as new investors, and existing backers Addition, Drive Capital, IronArc Ventures, Tiger Global, and Yamaha Motor Ventures also took part. Georgian partner Emily Walsh will join Path’s board.\nGiving the robot eyes and judgment\nA conventional welding robot has to be taught its path step by step, and a part that sits slightly out of place can ruin the weld. Path’s physical AI welding model, Obsidian, takes that teaching out of the loop. The robot finds the weld joint on its own, plans the sequence and path, welds, and adjusts when conditions change mid-job. The model learns from real-world welding data. For a factory, that means variable welds without reprogramming the robot each time.\nThe company recently added Rove, a mobile welding system that puts Obsidian on a quadruped robot. Instead of bringing the part to a welding cell, the robot walks to the part. Path says it shows the same model can run on different robot bodies.\nARR up 17x in 18 months, led by shipbuilding and defense\nPath says its annual recurring revenue grew 17-fold over the past 18 months, though it did not disclose a dollar figure. The growth has come from shipbuilding and defense, heavy equipment, and energy infrastructure. Customers include HII, the largest U.S. shipbuilder, Lockheed Martin, and the maritime defense company Saronic , along with mid-sized manufacturers such as EK Machine, Millerbernd Manufacturing, TransAmerican Power Products, and TYCROP. Earlier this year, Path announced a $600 million performance-based production agreement with HII to deploy physical AI across U.S. Navy shipbuilding programs. Headcount has grown 97% over the past year, and the company plans to reach 400 employees by year-end.\nCEO and co-founder Andy Lonsberry said Path started with welding because it is one of the hardest jobs on the factory floor to automate. “Our goal isn’t to automate one step, but to automate the entire factory,” he said. Founded in 2018, Path has now raised more than $610 million. The new money will go toward scaling the welding business, expanding to tasks before and after welding and to new robot form factors, and training AI models.\nGeorgian pointed to Path’s proprietary models and its growing base of production data, which it said improves the system with every deployment. Lockheed Martin Ventures called the investment an important milestone for strengthening the U.S. defense industrial base.\nCompetition: welding specialists and general-purpose robot AI\nA handful of newer companies are going after the same problem. Korea’s RB-Ware makes a no-code welding robot and has installed more than 250 units in 16 countries, and NeoArcRobotics is building cutting and welding robots for Korean shipyards. Augmentus raised $11 million to scale physical AI for robotic welding, and China’s LE Robotics raised tens of millions of yuan in a Series A+ round in February. None has"
+    },
+    {
+     "id": "022a3d8f2522",
+     "group_key": "path robotics 2",
+     "title": "Path Robotics raised $300 million at a $2.45 billion valuation",
+     "publisher": "Quartz",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tWlk5VTl0ejZhS0ZfZElSME5nMXB6dWtoODFpZlRFTTlBUmxOanFMbC1ZMjlmNXpVWWFFX2tFRWxsaUNQcDN0RHEyM2RTRlBjeW9mR1B4bk5YSHdTRFRGMTZHZjAwNW5IZ0t5R0RFbGNmeWxx?oc=5",
+     "published_at": "2026-11-10T14:47:14.000Z",
+     "amount_hint": "$300 million",
+     "snippet": "Path Robotics raised $300 million at a $2.45 billion valuation Quartz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "19bce729d798",
+     "group_key": "path robotics 2",
+     "title": "Path Robotics Raises $300M Series E at $2.45B to Expand Manufacturing AI",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWE44ZjdiWkdSVlRoclpwLW5TemNXXzJXU3NyUDJKY2d3V1N6UUJJOTRJdzVOUXdmZXNidzJ6WGRES1JPWkZ6Q19pTWMzQmhhWlNJTnhSdVBXZDJwUEZjdEI4b0RyRWgxOUlhdjQxSUVCYVp1V1o1Y0xReHVwU2lkVTBwOHRCV25Gbk9tUW1zcXVyR21NNE1LbU1NTQ?oc=5",
+     "published_at": "2026-11-10T15:28:04.000Z",
+     "amount_hint": "$300M",
+     "snippet": "Path Robotics Raises $300M Series E at $2.45B to Expand Manufacturing AI Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "564b0deaee34",
+     "group_key": "path robotics 2",
+     "title": "Path Robotics Raises $300 Million Series E at $2.45 Billion Valuation",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3kta2lRX2h3WDN3TDJ0MDZnTWt2RWJ4bW1ZeTNVcW4xamlWQm1vWEFDQWx4LUktdTZkVF9SYzIzMzJQM2JLRm15a2VVdGRZc1IxOGdPTGhQTzRMQUxmNFVIeHFBZkIxUFBZV2ItUU9kcUdsQjZoR1FxSnMwQXcyLW5ZeVc2cXI5TlpIWDFrYTdLTUIzSndManRLcVdkZ2FaY3NCbk94aTV4UQ?oc=5",
+     "published_at": "2026-11-10T15:10:13.000Z",
+     "amount_hint": "$300 Million",
+     "snippet": "Path Robotics Raises $300 Million Series E at $2.45 Billion Valuation citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "1f973722f00f",
+     "group_key": "path robotics 2",
+     "title": "Path Robotics Raises $300M in Series E Funding to Expand Manufacturing AI",
+     "publisher": "AI Insider",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQjg2QUZZZ2J1WElTTzRKWmxHNU9ZbXRSa040OHN4dHpaekFucU9YMVNRNUc5MTVEN08zT2dVcXE4aXpsR2pCUGh2elNva0NPdk01dWVRTUFRbWJQVDFCYldlbzFfT1B1NXUtSXJEcTh3MzhWYmsyRk5hOEhQTWgyVl9keHdhWFBKbFpBRzN6c21oV0JBMXpJellRbFZPMVRhWGlrQUNGWHFIMkVKdmVIMnZvdUJvVkE5VU1Dd0lpX3I?oc=5",
+     "published_at": "2026-11-10T14:15:00.000Z",
+     "amount_hint": "$300M",
+     "snippet": "Path Robotics Raises $300M in Series E Funding to Expand Manufacturing AI AI Insider",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "91eaa17b3130",
+     "group_key": "path robotics 2",
+     "title": "Path Robotics raises stunning $300 million at $2.45 billion valuation to expand physical AI in manufacturing",
+     "publisher": "Robotics & Automation News",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOHpnNGNqb1NWRElxaDJnb3NJQW15bUtmek9ZamJBemNHTnBSVGF3bWpHNUJyczBNa01BVjVENDBKY0xZc2wyR2tLdnlBbklGRFdZQ3hWWmZueThiaHNUZmZITkVDb2h1eExWTHdxeWZ5dzdzaVVMVFJmdUl2aUxCNGU3ZjRUeVJDNWlrcFNPUzI1UDZ1Sks0ZUlYcWEyczBsM1I3aHB5TjA0ZUFNc3FMUmsxYzFBeWRzc0c4bXBuRDlqQktEN2V0d0tHOWZZWUxjNlRCRjJiUlREeTNYTGV4UkRUdFMzQWg4WlRqSktRa1RpUUtzNkE?oc=5",
+     "published_at": "2026-11-10T14:32:27.000Z",
+     "amount_hint": "$300 million",
+     "snippet": "Path Robotics raises stunning $300 million at $2.45 billion valuation to expand physical AI in manufacturing Robotics & Automation News",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "93f2580b7d29",
+     "group_key": "path robotics 2",
+     "title": "Path Robotics Raises $300 Million Series E at $2.45 Billion Valuation",
+     "publisher": "Securities.io",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLXFZX0FpME9TZnZoTmtjLWh0alhITGdabzgwZFItcFI5cWNWVHEweURPMXBodXoybENBbVgzSFhkSnl1RktzS3RfaXVSb19pSWhURS1rSWs4OUVmc2I4bmZhY1ltenRSc0FOYWM1eW5WTzZGQzlaQmthWHhzYlhPMlpwdVZxY0tRVmVvanhfWllsVEVsdmh3WWJR?oc=5",
+     "published_at": "2026-11-10T14:45:04.000Z",
+     "amount_hint": "$300 Million",
+     "snippet": "Path Robotics Raises $300 Million Series E at $2.45 Billion Valuation Securities.io",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "6ffd26a3bdc9",
+     "group_key": "path robotics 2",
+     "title": "Path Robotics Raises $300M Series E at $2.45B to Expand Manufacturing AI",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ0pZZzNJRDJ4RTIwZGExSGRDN01Tb0Jfdm5jSkVIcHVjU2dnR3cwUWJMQk1iTUliREFjY0lUdlMzTC1PWWRhalBnM0VybnBsOTd2SURfSE1xaE9aRnZzY3gwclBMazFMVjhMajRsU2RUbUhvd1BUYnJlbWI1bThJWEl1VVFrazFLMXYwVTlvVGctNXVrbUJR?oc=5",
+     "published_at": "2026-11-10T15:28:04.000Z",
+     "amount_hint": "$300M",
+     "snippet": "Path Robotics Raises $300M Series E at $2.45B to Expand Manufacturing AI Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "48ae09b0261c",
+     "group_key": "path robotics 2",
+     "title": "Path Robotics raises $300M Series E, quadrupling valuation to $2.45B",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLU0xcFM3eElQZ2pQajd3Yy1EU2NnclNxbG9fZWxhd0RhOFNWU0ZQOUt6QlBxZHgtaUxWS3dVQnpvSGhjWW84MlhyLUZTMkpRSm11bVBPRjUyX0NZaDVtbGNDcHBEY29SbGZBMlR0YTlkRzNkdzBZU3ZaVUdZU2xtVzBfOFdJVm80WFd2bm9PTU1EbVR4ZWIyR185bUdFUkZr?oc=5",
+     "published_at": "2026-11-10T15:58:41.000Z",
+     "amount_hint": "$300M",
+     "snippet": "Path Robotics raises $300M Series E, quadrupling valuation to $2.45B Dealroom",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "ca324a30056e",
+     "group_key": "path robotics 2",
+     "title": "Path Robotics Announces $300 Million Series E Financing at $2.45 Billion Valuation to Scale Physical AI for Manufacturing",
+     "publisher": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdU5TcmFGRlFleHdXM2FhcTU3aE55UDYwUjR5ZXMwRTdWaFppZ1ZOanhQU21YTTZUMVZGc2lPblg0cU5EbkRuU1hGNllNT2hORERaUFdtU0hiSUNkbU9IOWlaSnpFc2FCc2FhNFluRTdGU1JzVWRZbTI4Wld2dzNVR01KN1RNQ1d5aFV5SDhGVE15ZlB6d2w4M255ZkIzVG9RYXNvTzZCTF80eW4tRU5VMGtkZ3FTRS1VeEtoT3RfQk92REloUDZZNmFQQk44MlF1U2tqLWFwRVBjYTZ5X1lQRE9TMEI5NFhHWTNzY3d5TE9YblZHUTFfNm4yZzRRNlNaRTRtRkMtRWoxczNyX19J?oc=5",
+     "published_at": "2026-11-10T14:05:00.000Z",
+     "amount_hint": "$300 Million",
+     "snippet": "Path Robotics Announces $300 Million Series E Financing at $2.45 Billion Valuation to Scale Physical AI for Manufacturing Business Wire",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "50e4c17fe282",
+     "group_key": "path robotics 2",
+     "title": "Path Robotics raises $300 million, nearly quadrupling its valuation, to take its welding AI beyond welding",
+     "publisher": "MLQ.ai",
+     "url": "https://mlq.ai/news/path-robotics-raises-300-million-nearly-quadrupling-its-valuation-to-take-its-welding-ai-beyond-welding/",
+     "published_at": "2026-11-11T05:04:57.000Z",
+     "amount_hint": "$300 million",
+     "snippet": "Path Robotics raises $300 million, nearly quadrupling its valuation, to take its welding AI beyond welding MLQ.ai",
+     "text_status": "blocked:403",
+     "text": null
+    },
+    {
+     "id": "74b7107a49b2",
+     "group_key": "path robotics 2",
+     "title": "Industrial automation startup Path Robotics raises $300M in funding",
+     "publisher": "SiliconANGLE",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPREtBMjVMSHd3czdzMmRmQ3ZVdjdmb0s5bFQzZld0eFl1T0R1dmtvMXU0TUQxZkJ2RzRuQVNXdm5Lb2RENlluYU56TnFNS2xWZVUxVnAyTkZnVzc2SkFtd0FSVENvd2FKS3Qyd3FYMTNfekI3RU83VTMxQS14c19nVXo1bFNrOEh6VTloc3ZGdlhoaVNJdGVKRWpCMlpULUlScmFWcjl3?oc=5",
+     "published_at": "2026-11-11T01:51:00.000Z",
+     "amount_hint": "$300M",
+     "snippet": "Industrial automation startup Path Robotics raises $300M in funding SiliconANGLE",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "18ba606e3b99",
+     "group_key": "path robotics 2",
+     "title": "Path Robotics Raises $300M for AI Welding Robots; HII's $900M Navy Ceiling Has No Disclosed Split",
+     "publisher": "Tech Times",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS0FwMWJtbEZ1MEJYWl9FZ29SREQtcThTV3FMMTBXc0RVZ1BqODJSVWI4LXFUUzVxM3NNSklIbTNaakMxMHhodG02YXFISjJhbkhYVGZWeUZQVUJocTRkUlV0ZkozazFrNTVSNmhGNDJRUFJ1a090RnlzYVlOVkdCcWJWQlVud09HdExMZmtlMFFPY2F4bi1WNHVmY3BEd3FrQjhoU0hnSGtraTZWV0xsdXZGLVQ3M2hRanpNcTVJTnZOTVpUM2NDZE5SdE9mdlJfdHlWc3FKdXFsWTl1?oc=5",
+     "published_at": "2026-11-11T07:06:01.000Z",
+     "amount_hint": "$300M",
+     "snippet": "Path Robotics Raises $300M for AI Welding Robots; HII's $900M Navy Ceiling Has No Disclosed Split Tech Times",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "101bee35108a",
+     "group_key": "path robotics 2",
+     "title": "Path Robotics: $300 Million Series E At $2.45 Billion Valuation Funds Manufacturing AI Expansion",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/path-robotics-300-million-series-e-at-2-45-billion-valuation-funds-manufacturing-ai-expansion/",
+     "published_at": "2026-11-10T21:58:04.000Z",
+     "amount_hint": "$300 Million",
+     "snippet": "Path Robotics has raised $300 million in Series E financing at a $2.45 billion post-money valuation, providing capital to expand its physical AI technology beyond welding into additional manufacturing tasks and robotic platforms. Georgian led the round, with participation from existing investors Addition, Drive Capital, IronArc Ventures, Tiger Global, Yamaha Motor Ventures and its affiliates. D. E. Shaw Ventures and NAVER Ventures also participated. Georgian Partner Emily Walsh will join Path Robotics’ board of directors.\nThe post Path Robotics: $300 Million Series E At $2.45 Billion Valuation",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "cb7f7b860420",
+     "group_key": "path robotics 2",
+     "title": "Path Robotics’ ARR is up 17x in 18 months: why Georgian is backing its $300M Series E",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/path-robotics-arr-is-up-17x-in-18-months-why-georgian-is-backing-its-300m-series-e/",
+     "published_at": "2026-11-11T04:08:00.000Z",
+     "amount_hint": "$300M",
+     "snippet": "Path Robotics has raised $300 million at a $2.45 billion post-money valuation as manufacturers turn to AI-powered robots…",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

@@ -28,6 +28,14 @@ fs.mkdirSync(path.join(RUN_DIR, 'parts'), { recursive: true });
 
 const readJson = (p, fallback) => { try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch { return fallback; } };
 const seen = new Set(readJson(path.join(ROOT, 'data', 'seen-urls.json'), []));
+// Links already sitting in a fetched-but-unmerged run count as seen too, so a second fetch on the same day
+// (or a day when the extraction routine has not caught up) only adds what is new.
+let pendingLinks = 0;
+for (const label of fs.readdirSync(path.join(ROOT, 'data', 'runs'))) {
+  const dir = path.join(ROOT, 'data', 'runs', label);
+  if (dir === RUN_DIR || fs.existsSync(path.join(dir, 'merge-summary.json'))) continue;
+  for (const c of readJson(path.join(dir, 'candidates.json'), { candidates: [] }).candidates || []) { if (c.link && !seen.has(c.link)) { seen.add(c.link); pendingLinks++; } }
+}
 const rounds = readJson(path.join(ROOT, 'data', 'rounds.json'), { rounds: [] }).rounds || [];
 
 const log = (...m) => console.error(`[fetch ${new Date().toISOString().slice(11, 19)}]`, ...m);
@@ -88,6 +96,7 @@ if (okFeeds === 0) {
 // ---- prefilter ----
 const dropped = { not_funding: 0, no_ai_hint: 0, below_min: 0, fund_close: 0, seen: 0, duplicate_link: 0, known_round: 0 };
 const FUND_RE = /\b(fund\s+(?:[IVX]+|\d+|one|two|three)\b|(?:first|final|initial) close|closes? (?:its|a|an|new|\$[\d.]+\s?\w+ )?(?:\w+ ){0,3}fund\b|venture (?:capital )?firm|vc firm|capital raises|investment firm|asset manager|raises .{0,40}\bfund\b|fund of funds|for (?:its|new) fund)/i;
+const NOISE_RE = /\b(senior (?:secured )?notes|notes offering|convertible notes|public offering|registered direct|private placement of|at-the-market|\bIPO\b|initial public offering|credit facility|term loan|revolving|refinanc\w+|bond (?:sale|offering|issue)|municipal bonds?|securitization|\bCLO\b|\bABS\b|(?:NYSE|NASDAQ|Nasdaq|TSX|LSE|ASX)\s?:|quarterly (?:results|dividend)|share repurchase|buyback|tender offer|contract (?:award|modification)|awarded .{0,30}contract|grant from|construction loan|mortgage loan|project financ\w+)\b/i;
 const FX = { USD: 1, EUR: 1.1, GBP: 1.3, CAD: 0.72, AUD: 0.65 };
 const byLink = new Map();
 for (const it of raw) {
@@ -107,6 +116,8 @@ for (const it of raw) {
   // quantum). Non-AI feeds therefore keep any explicit >= $15M round and let the extractor decide is_ai_ml.
   if (!aiHint && !it.ai_specific && !bigAmount) { dropped.no_ai_hint++; continue; }
   if (FUND_RE.test(title)) { dropped.fund_close++; continue; }
+  // Public-company and credit-market noise the generic queries pull in; only applied when the headline has no AI hint.
+  if (!aiHint && NOISE_RE.test(title)) { dropped.noise = (dropped.noise || 0) + 1; continue; }
   if (amtUsd != null && amtUsd < MIN_AMOUNT) { dropped.below_min++; continue; }
   if (seen.has(it.link)) { dropped.seen++; continue; }
   let publisher = it.publisher || '';

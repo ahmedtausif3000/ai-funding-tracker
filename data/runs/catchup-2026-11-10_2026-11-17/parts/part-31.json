@@ -1,0 +1,364 @@
+{
+ "run_date": "catchup-2026-11-10_2026-11-17",
+ "part": 31,
+ "groups": [
+  {
+   "group_key": "benchmark leads 30m round",
+   "company_guess": "Benchmark leads $30M round",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "38fd65a477ec",
+     "group_key": "benchmark leads 30m round",
+     "title": "Benchmark leads $30M round for Tendrils to redesign the CPU with thousands of parallel cores",
+     "publisher": "Sofia Chesnokova",
+     "url": "https://techfundingnews.com/tendrils-30m-benchmark-parallel-cpu-vine/",
+     "published_at": "2026-11-11T09:35:38.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Modern CPUs still rely on design decisions from the 1970s. Tendrils, a Cambridge-based startup founded in 2026, wants…",
+     "text_status": "thin",
+     "text": "November 11, 2026\nBest ISO 27001 software in 2026: 9 platforms compared\nby Abhinaya Prabhu"
+    }
+   ]
+  },
+  {
+   "group_key": "se3",
+   "company_guess": "SE3",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "e073106d6766",
+     "group_key": "se3",
+     "title": "Exclusive: SE3, a German startup building ‘spatial intelligence’ for military drones, gets $30 million in Series A funding",
+     "publisher": "Fortune",
+     "url": "https://fortune.com/2026/11/12/exclusive-se3-a-munich-startup-building-spatial-intelligence-for-military-drones-gets-30-million-in-series-a-funding/",
+     "published_at": "2026-11-12T08:00:00.000Z",
+     "amount_hint": "$30 million",
+     "snippet": "Exclusive: SE3, a German startup building ‘spatial intelligence’ for military drones, gets $30 million in Series A funding Fortune",
+     "text_status": "ok",
+     "text": "SE3, a Munich-based startup that makes AI software to help drones and other unmanned military systems understand the three-dimensional world around them, has raised $30 million in a Series A round led by Accel.\nRecommended Video\nKeen, Lakestar, and Seedcamp also participated in the funding round. It comes less than five months after the company, which recently dropped “Labs” from its name, emerged from stealth with €5.5 million ($6.1 million) in seed funding.\nSE3’s software takes video and sensor feeds from multiple drones and ground vehicles and fuses them into a single 3D picture of the battlefield—”like a mini map, how you would know it from a strategy game,” cofounder and CEO Lukas Köstler told Fortune .\nOn top of that map sits a layer that labels objects and how they relate to one another, so soldiers can query it in plain language: How do I reach a target without being seen? What’s a good route for a heavy vehicle?\nOperators can also give commands the same way. Rather than remotely piloting a drone with a joystick or having to tap away on a tablet, a soldier can simply say, “I need reconnaissance two kilometers in the north over the forest,” Köstler said, and a suitable drone would take off, fly the mission, and report back.\nIn addition to this map-level understanding of the battlefield, SE3 also builds the AI systems that sit inside the drones or other unmanned systems, giving them the ability to maneuver and navigate, even in cases where GPS is jammed, detect objects, and act as a “swarm” with other drones.\nKöstler, who previously worked on Tesla’s Autopilot team and at Nvidia Research, said the most basic capability—drones locating themselves without GPS—has been delivered thousands of times and is “very robust.”\nBut he said the high-level fleet command AI is less mature. SE3 has contracts with Germany’s armed forces, the Bundeswehr, to develop it and has demonstrated it with them, but “there’s still much that needs to be built out over the next one or two years,” he said. The company also has contracts in Ukraine, where its technology is already deployed.\nSE3 does not rely on general-purpose, large language models to understand physics or terrain. Instead, it uses classical computer vision algorithms to distill vast amounts of sensor data into a database a language model can query, and gives the model a harness equipped with a variety of conventional software tools the model can call. If the model needs a flight path, a conventional planning algorithm calculates one—avoiding mountains or enemy lines of sight, for example.\nSimply feeding raw data to the model “wouldn’t work at all,” Köstler said. Actions such as a drone takeoff can be set to require a human operator’s approval. The system can run entirely offline, and customers can swap in their own preferred frontier AI model to act as the “brains” of the system.\nSE3 spun out of the computer vision lab of Daniel Cremers at the Technical University of Munich (TUM), where Köstler and SE3’s CTO, Simon Klenk, were PhD students. Cremers serves as SE3’s chief science officer.\nMilitary work has long made some AI researchers uneasy—a tension highlighted when the Pentagon designated Anthropic a supply-chain risk in March after it refused to let its models be used for fully autonomous weapons or mass domestic surveillance.\nAs a German company, SE3 is bound by strict export laws, Köstler noted: “It’s really the elected parliament that decides in the end what we will do.” SE3 serves Europ"
+    },
+    {
+     "id": "f562453703b8",
+     "group_key": "se3",
+     "title": "Ex-Tesla Engineer’s SE3 Raises $30M for Drone AI Built for Any Drone",
+     "publisher": "Business Model Analyst",
+     "url": "https://businessmodelanalyst.com/se3-drone-ai-accel-series-a-hardware-agnostic/",
+     "published_at": "2026-11-13T11:00:00.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Ex-Tesla Engineer’s SE3 Raises $30M for Drone AI Built for Any Drone Business Model Analyst",
+     "text_status": "ok",
+     "text": "Home - News - Ex-Tesla Engineer’s SE3 Raises $30M for Drone AI Built for Any Drone\nNews\nEx-Tesla Engineer’s SE3 Raises $30M for Drone AI Built for Any Drone\nPosted on November 13, 2026 November 12, 2026 by Flavia Moura\n13\nNov\nThe Munich startup is the only serious bidder for the battlefield command screen that sells nothing underneath it. Ukraine approved a new drone model about every 10 hours this year. That is the whole pitch, and the whole problem.\nSE3, a Munich spinout from the Technical University of Munich, raised a $30 million Series A led by Accel to build AI that runs drones from any manufacturer. The bet is that militaries will pay for neutrality as their fleets splinter. Ukraine codified 650 new drone systems in the first 265 days of 2026.\nPicture a Bundeswehr operator in 2028. Her unit flies quadcopters from one German startup, fixed-wing scouts from another, loitering munitions from a third, and a couple of ground robots nobody remembers ordering. Each one shipped with its own app. Now she wants to say, out loud, “send something to look two kilometers north over that forest,” and have the right machine take off.\nThat sentence is the product SE3 is selling. The hard part is not the voice command. It is that the machine she wants could have been built by anyone.\nWhat Happened\nFortune reported on November 12 that SE3, which recently dropped “Labs” from its name, closed a $30 million Series A led by Accel, with Keen, Lakestar and Seedcamp joining. Valuation, revenue and total funding were not disclosed.\nThe round lands fast. SE3 came out of stealth on June 26, 2026, with a €5.5 million seed (about $6.1 million) led by Lakestar, alongside Seedcamp, EWOR, the Sequoia Scout Fund and Plug and Play. That is roughly 4.9 times the seed check, raised 139 days later.\nThe basics:\nWho: CEO Lukas Köstler, a former TUM PhD student who worked on Tesla’s Autopilot team and at Nvidia Research; CTO Simon Klenk, his TUM labmate; and chief science officer Daniel Cremers, who runs the computer vision lab the company spun out of.\nWhat it builds: software that fuses video and sensor feeds from many drones and ground vehicles into one 3D map, labels what is in it, and lets soldiers query it or task machines by voice. It also builds onboard autonomy for navigation when GPS is jammed, object detection and swarm behavior.\nWho pays: the Bundeswehr, under contracts to develop fleet command AI, plus Ukraine, where the technology is already deployed. Partners include sensor maker Hensoldt, drone software company Auterion and drone developer ERC.\nWhat the money buys: headcount goes from about 40 to about 120, with new offices in London, Berlin, the Nordics and Baltics, and Poland.\nKöstler described the shared map to Fortune as working “like a mini map, how you would know it from a strategy game.” Gamers will get it instantly. Procurement officers will get it the moment they price what happens when that mini map only shows one vendor’s units.\nThe Backstory\nEvery outlet will frame this as another European defense AI round riding rearmament money. True, and not very useful. The more interesting fact is the market structure SE3 is walking into.\nStart with Ukraine, the world’s largest live test of drone procurement. Its Ministry of Defence codified 413 unmanned aerial systems in the first half of 2026, up more than 30% on the same period of 2025 and more than 73% on 2024. By September 22 the count was 650. Strike copters alone accounted for 238 new models, interc"
+    },
+    {
+     "id": "05df6655a7c0",
+     "group_key": "se3",
+     "title": "Spatial Intelligence Startup SE3 Raises $30M Series A Led by Accel",
+     "publisher": "Wowtale",
+     "url": "https://en.wowtale.net/2026/11/17/236042/?utm_source=rss&utm_medium=rss&utm_campaign=spatial-intelligence-startup-se3-raises-30m-series-a-led-by-accel",
+     "published_at": "2026-11-17T11:59:03.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Spatial Intelligence Startup SE3 Raises $30M Series A Led by Accel Wowtale",
+     "text_status": "ok",
+     "text": "In a war zone where drones fly in large fleets, human operators cannot supervise every vehicle. When electronic warfare cuts off satellite navigation, each machine has to work out where it is and what surrounds it on its own. The EU aims to mobilise €800 billion in defence spending by 2030 and is planning a European Drone Wall to defend its eastern flank, which makes that kind of autonomy more valuable. A Munich startup working on this spatial awareness problem has raised a Series A.\nSE3 combines computer vision and AI to turn sensor data into three-dimensional understanding so machines can decide and move on their own. It is developing the technology for environments where systems must keep working when satellite navigation is disrupted, and its immediate market is European defence.\nThe product is a spatial intelligence software layer for unmanned systems. It connects drones and ground vehicles from different manufacturers and fuses their sensor data into a shared 3D picture of the environment. It then adjusts behaviour, routes and positions for each vehicle in a swarm, and operators can command all functions by voice. The software runs entirely on the edge, so systems keep operating in contested environments.\nSE3 also stresses that it is not tied to any one manufacturer’s vehicles. Modular procurement approaches such as MOSA and Germany’s MOSABw programme are making it easier for armed forces to combine systems from different suppliers, and the company sees growing demand for independent software that works across platforms without competing with the vehicles themselves.\nIn the past two years, SE3 has shipped thousands of systems, and it is working on multiple contracts with Ukraine and Germany’s armed forces, the Bundeswehr. It is an AI partner to defence primes including Rheinmetall and HENSOLDT and to scale-ups such as Auterion and ERC System. Auterion CEO Lorenz Meier said SE3’s spatial intelligence runs on Auterion’s Skynode, so customers get the capability on platforms they already operate, regardless of manufacturer.\nSE3 spun out of the computer vision lab of Professor Daniel Cremers at the Technical University of Munich (TUM). Lukas Köstler is CEO and co-founder, and Simon Klenk is CTO. Both worked on PhDs in computer vision and robotics in that lab. Cremers is chief science officer, holds TUM’s chair for computer vision and AI, and won the Gottfried Wilhelm Leibniz Prize, Germany’s most prestigious research award.\nSE3 announced the $30 million Series A on November 12. Accel led the round, with Keen , Lakestar and Seedcamp participating. Accel partner Matt Robinson said a team with talent from one of Europe’s leading research departments is well placed to build spatial AI for autonomous systems, a problem defence primes have found difficult.\nThe company will use the funds to grow its engineering, commercial and operations teams and fulfil further contracts. It plans to strengthen its presence in Germany and Ukraine, open a UK office and expand across Europe. Defence remains the focus, with robotics, emergency response and other civilian uses to be explored from 2027.\nCapital Keeps Flowing to European Defence Startups\nEuropean defence startups have been raising large rounds. Helsing , Europe’s largest defence AI company, raised $1.8 billion in a Series E at an $18 billion valuation. Germany’s Stark, a drone maker, raised a €500 million Series C at a €3.5 billion valuation and won German military contracts worth hundreds of mill"
+    },
+    {
+     "id": "aafcd2df0842",
+     "group_key": "se3",
+     "title": "SE3 Raises $30M Series A to Scale Spatial AI for Autonomous Systems",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTjhmZlJqZ25hdHNxTVYxaUh6cjA0bWIwb19YZmdTRDNBRkI3RElyQUdSY2VfT0xCdEdncndfSTlLaDFXRkhhRlFMbEo0TEpSM0toYldxWUNVOHQ4UFRIdmNpQTMyVDV2TC1RMWJ0UEt0eWRoU1hHWFE2ZXBSVHM0T29CMk9SWHFoUXVwUk1QZV8zQQ?oc=5",
+     "published_at": "2026-11-12T09:48:03.000Z",
+     "amount_hint": "$30M",
+     "snippet": "SE3 Raises $30M Series A to Scale Spatial AI for Autonomous Systems Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "d94c30567a5b",
+     "group_key": "se3",
+     "title": "SE3 Raises $30 Million Series A Led by Accel for Spatial AI for Drones and Autonomous Systems",
+     "publisher": "www.trendingtopics.eu",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1X0xXMTVNOWgxOFVBNjNia3lzVmZ2SkdwWjRDM2Yzdm5VUE9uZnh2bWtrR19VX1haanVRZ2JPNDc2S3YzdjM5cktaRGM4aEI5OFI1Y1NiVUczLWpURG5ram5ZclEzNlFZX3NnZg?oc=5",
+     "published_at": "2026-11-12T09:29:17.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "SE3 Raises $30 Million Series A Led by Accel for Spatial AI for Drones and Autonomous Systems www.trendingtopics.eu",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "388c7c1ac194",
+     "group_key": "se3",
+     "title": "German startup SE3 raises $30 million for AI for military drones — Fortune",
+     "publisher": "UA.NEWS",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbm03UjdQc0lLX0RhT0FmRUhCNU1SbFp4Um93dF91Mkg2YzViRGNqV1Mtb3dqRUE1NUQteUZsMXhIbVNGMHlQcjVoMUlFUW0yMUlvRjQtcWxwODJtenN5Vm12ckcyRTJ3REJ5RElTMEYyajJpSlhleUVhdm9hMC1xUC1LdmllRjd4ZXNsMVpHZWlhMHRXV1VsNzFJLUVfNkwwQWtKN2pFVFlBUm5w?oc=5",
+     "published_at": "2026-11-12T09:21:48.000Z",
+     "amount_hint": "$30 million",
+     "snippet": "German startup SE3 raises $30 million for AI for military drones — Fortune UA.NEWS",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "1b69e2265b9e",
+     "group_key": "se3",
+     "title": "Munich-based SE3 secures €27.04 million to bring spatial intelligence to Europe's autonomous defence systems - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMEZPYTlXWTNsRDB4YjM1NGpYMF81c0FnNU5vRnVxeENBTnIyY0lPbzIxYV9ybnhkMU5MY0RYQm14WnVvQmdGUW80d3ZGRHdXeVUxVFdSclJtdkd0eFlzWnpIMWZEUzlxUmYtVUlYZkpCQUdGZE1JckxyVlFHUzhaNXpfN1YzY0FoMjFwYTV0TjZKWVJUanNRQ0ZfNWZDNWYtYURxLTNpZmc5Z0NvOTI3MktoeFNJcTNVWTRkXy1rbldrLWl4YjJLb201NTZfb2RqTVQ1d3JNM1Yxcjdqa1NSQmVQSEtTQ0l4eXo3NF9qLTZzZjZpbEtXeGZ1WQ?oc=5",
+     "published_at": "2026-11-12T11:00:52.000Z",
+     "amount_hint": "€27.04 million",
+     "snippet": "Munich-based SE3 secures €27.04 million to bring spatial intelligence to Europe's autonomous defence systems EU-Startups",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "098e8f049fa8",
+     "group_key": "se3",
+     "title": "German defence AI startup SE3 Labs raises $30M as it plots UK expansion",
+     "publisher": "Resilience Media",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOHREQ2otMFB2U3lRSDJ5Z2ZJTkJIdTZmdGJBRGlKeHlac2g5Q0FBM1pKQUo2ZE90REZQMExwOXgyOE5uc1otVkRLeFR3YVNiOE5DbjNaRlMxYWxaU0kwV250TWV3VEpsbjVxd2hzRUFzUVcxOTJmdEZ6S0JoLVVyeG9ibFY0WGZzN282T3Z2VDJENHZ4Z2Ztb1BORU9OQW8?oc=5",
+     "published_at": "2026-11-12T09:43:56.000Z",
+     "amount_hint": "$30M",
+     "snippet": "German defence AI startup SE3 Labs raises $30M as it plots UK expansion Resilience Media",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "8928bfa4c8cb",
+     "group_key": "se3",
+     "title": "SE3: $30 Million Series A Advances Spatial Intelligence For Autonomous Systems",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/se3-30-million-series-a-advances-spatial-intelligence-for-autonomous-systems/",
+     "published_at": "2026-11-12T16:05:08.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "SE3 has raised $30 million in Series A funding to expand its spatial intelligence software for autonomous systems operating in complex and contested environments. Accel led the financing, with participation from Keen Venture Partners and continued support from Lakestar and Seedcamp.\nThe post SE3: $30 Million Series A Advances Spatial Intelligence For Autonomous Systems appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "kindo 2",
+   "company_guess": "Kindo",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "bdf21b089728",
+     "group_key": "kindo 2",
+     "title": "Kindo Raises $30 Million to Expand Enterprise AI Agent Control and Reduce Costs",
+     "publisher": "Unite.AI",
+     "url": "https://app.kindo.ai/",
+     "published_at": "2026-11-12T14:00:00.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Kindo Raises $30 Million to Expand Enterprise AI Agent Control and Reduce Costs Unite.AI",
+     "text_status": "thin",
+     "text": "Loading... Checking your session..."
+    },
+    {
+     "id": "c23e204f1622",
+     "group_key": "kindo 2",
+     "title": "Kindo Raises $30 Million to Expand Enterprise AI Control Platform",
+     "publisher": "Ventureburn",
+     "url": "https://ventureburn.com/kindo-raises-30-million-enterprise-ai-control/",
+     "published_at": "2026-11-12T20:12:14.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Kindo Raises $30 Million to Expand Enterprise AI Control Platform Ventureburn",
+     "text_status": "thin",
+     "text": "Venture Capital\n1 year ago\nZilch Funding $175M Boosts AI Payment Expansion"
+    },
+    {
+     "id": "02034ca17974",
+     "group_key": "kindo 2",
+     "title": "Kindo raises $30 million to govern enterprise AI agents",
+     "publisher": "news.lavx.hu",
+     "url": "https://app.kindo.ai/",
+     "published_at": "2026-11-16T05:22:56.000Z",
+     "amount_hint": "$30 million",
+     "snippet": "Kindo raises $30 million to govern enterprise AI agents news.lavx.hu",
+     "text_status": "thin",
+     "text": "Loading... Checking your session..."
+    },
+    {
+     "id": "84bd6bd4e7cd",
+     "group_key": "kindo 2",
+     "title": "Kindo Raises $30 Million Led by Crosspoint and Forgepoint, Bringing Total Funding to $57.6 Million",
+     "publisher": "citybiz",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPclFnZFBMV01MdXNHMHZLMGZ6MEZNaWNNN3R2VUxqNGpUbFNUSThlV2FJYlB1N2FYeUpQd3hBa21HRmRNV09JR0dSNENnM0prcUN1YnZhYUJLQk13VnRDTHBwR05hajZocnBKZlpzQU4zdnJqX3U4VjBPdnRSM19XaUtxak16ME1kM21xb2VOb0pFcFNFT0Nib3RlTkRESUZMelBpbTBTOXNIcFVGMjlZRVRHMTNuSmU1NTI1UEFTVUluUF9LWEdtMEZ3TEFpcmM?oc=5",
+     "published_at": "2026-11-12T15:22:33.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Kindo Raises $30 Million Led by Crosspoint and Forgepoint, Bringing Total Funding to $57.6 Million citybiz",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "6583532b3d84",
+     "group_key": "kindo 2",
+     "title": "Kindo raises $30M after 800% revenue growth: can one control center tame enterprise AI agents?",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/kindo-raises-30m-after-800-revenue-growth-can-one-control-center-tame-enterprise-ai-agents/",
+     "published_at": "2026-11-12T14:00:00.000Z",
+     "amount_hint": "$30M",
+     "snippet": "As businesses deploy AI agents across more departments, controlling what these systems can access, change and spend is…",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "1b9586a52f13",
+     "group_key": "kindo 2",
+     "title": "Kindo: $30 Million Funding Round Brings Total Capital Raised To $57.6 Million As Revenue Grows 800%",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/kindo-30-million-funding-round-brings-total-capital-raised-to-57-6-million-as-revenue-grows-800/",
+     "published_at": "2026-11-12T20:40:35.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Kindo, an enterprise AI agent management platform, has raised $30 million in new funding, bringing its total capital raised to $57.6 million. The financing was co-led by Crosspoint Capital and Forgepoint Capital and follows approximately 800% year-over-year revenue growth in 2026.\nThe post Kindo: $30 Million Funding Round Brings Total Capital Raised To $57.6 Million As Revenue Grows 800% appeared first on Pulse 2.0 .",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "can",
+   "company_guess": "Can AI",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "784aae5d4ddc",
+     "group_key": "can",
+     "title": "Can AI predict which cancer drugs will actually work? Orakl Oncology raises €30 million to find out - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMnl4QjBUWU95ZG9GTHNzdWdMenY3dkc4eTdMQnNCSFp0cTMzR1ZObjJTaHhmRlBaakRBSEJHakV4dnFCTm12LVgtN3AzT3Vfa3F2OUxoOWhOaF9wUXU3U1BMMDRxbElYcXpvZm1TMm16eUQwWFFUM1Y2bVVVVjNQVlMyc3JIdkhueHRaazJFay1yOGgtVHVEb1NncDBzbGpGR0lncVRXRTl1am9uNVhYanFiSGxISjFzSjdFdVNidkJhc1ZLWlhRVGpPV2tQSkNG?oc=5",
+     "published_at": "2026-11-12T12:26:39.000Z",
+     "amount_hint": "€30 million",
+     "snippet": "Can AI predict which cancer drugs will actually work? Orakl Oncology raises €30 million to find out EU-Startups",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "st augustine",
+   "company_guess": "St. Augustine",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "b74d8bf67eed",
+     "group_key": "st augustine",
+     "title": "St. Augustine Announces Execution of US$30 Million Convertible Note with TVI Resource Development Phils., Inc.",
+     "publisher": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNmpHcmVvSkcyREhwaGRBOHZFc2x5ZHROcVZZbVo5eE1PdXNYSDdWNnZ4bkpybi1zZ1p5cDVMc2pDUGlmdkNTUDl0a1lRLU8wWWN4S3BfN1lFb3BrVzY3RlE3M3NVOGxXZjdmdExyOWZhR05GTVlrN1J0WEloSkNublJfNDVQTHFfV096LVV1dWJGUS1UTXpwbUM5MnVOd1FSako4YjJsc1NhZkcwRlY4LTdsWTRVMHlNZkFIYzVZenUtZk1kcGVwTzBwNmFTM0JySnN0NGJZRm9seURLOUZMMDIwVS1yQVhQRmJwZkl0MmxGSUFYNFM0WFMxMHdLUQ?oc=5",
+     "published_at": "2026-11-12T12:30:00.000Z",
+     "amount_hint": "US$30 Million",
+     "snippet": "St. Augustine Announces Execution of US$30 Million Convertible Note with TVI Resource Development Phils., Inc. TradingView",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "anaergia",
+   "company_guess": "Anaergia",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "657a31b9940b",
+     "group_key": "anaergia",
+     "title": "Anaergia: C$30 Million Credit Facility Expansion With National Bank Of Canada Increases Financing Capacity By 50%",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/anaergia-c30-million-credit-facility-expansion-with-national-bank-of-canada-increases-financing-capacity-by-50/",
+     "published_at": "2026-11-11T21:47:51.000Z",
+     "amount_hint": "C$30 Million",
+     "snippet": "Anaergia, a global technology company specializing in renewable natural gas and organic waste conversion, has expanded its revolving credit facility with National Bank of Canada by 50%, increasing its maximum borrowing capacity from C$20 million to C$30 million. The additional C$10 million in potential financing capacity will support the company's working capital requirements as it executes its contracted project backlog and converts existing orders into revenue.\nThe post Anaergia: C$30 Million Credit Facility Expansion With National Bank Of Canada Increases Financing Capacity By 50% appeared ",
+     "text_status": "ok",
+     "text": "Anaergia: C$30 Million Credit Facility Expansion With National Bank Of Canada Increases Financing Capacity By 50%\nBy Amit Chowdhry\nYesterday at 4:47 PM\nAnaergia: C$30 Million Credit Facility Expansion With National Bank Of Canada Increases Financing Capacity By 50%\nAnaergia, a global technology company specializing in renewable natural gas and organic waste conversion, has expanded its revolving credit facility with National Bank of Canada by 50%, increasing its maximum borrowing capacity from C$20 million to C$30 million. The additional C$10 million in potential financing capacity will support the company’s working capital requirements as it executes its contracted project backlog and converts existing orders into revenue.\nThe amended agreement builds on the revolving credit facility originally announced on May 6, 2026.\nThe expansion provides Anaergia with additional financial flexibility to manage the expenditures associated with delivering renewable energy and waste management projects.\nThe amount available for borrowing at any particular time will remain subject to the facility’s borrowing base and other terms of the credit agreement.\nConsequently, the increase in the maximum facility size does not necessarily mean that the entire C$30 million is immediately available for withdrawal.\nAmounts borrowed under the facility may be used for general corporate purposes, subject to the agreement’s provisions.\nSupporting Project Execution And Working Capital\nAnaergia develops and delivers technologies that convert organic waste into valuable products, including renewable natural gas, fertilizer, and water.\nIts business encompasses project design, equipment supply, construction, and operational services.\nThese projects can involve substantial engineering and equipment requirements, creating working capital needs throughout development and implementation.\nThe expanded credit facility is intended to support these requirements as Anaergia advances its contracted project portfolio.\nWorking capital is particularly important for businesses delivering large infrastructure and industrial technology projects because expenditures for materials, equipment, labor, and other activities may occur before customers make corresponding payments.\nRevolving credit arrangements provide access to financing that can be drawn and repaid as needed, within the limitations of the applicable agreement.\nBy increasing its maximum borrowing capacity, Anaergia is seeking to improve its ability to manage project-related cash requirements.\nManagement identified the conversion of its contracted backlog into recognized revenue as a central operating priority.\nThe additional financing capacity is intended to support that objective while allowing the company to continue its focus on disciplined project execution.\nExpanding Renewable Natural Gas And Waste Conversion Infrastructure\nAnaergia provides integrated solutions designed to help municipalities, utilities, and industrial organizations manage organic waste more effectively.\nIts technologies convert waste streams into renewable energy and other reusable products.\nRenewable natural gas is commonly produced by processing biogas generated from the decomposition of organic materials.\nAfter treatment and upgrading, the resulting gas can be used as an energy source in applications that would otherwise rely on conventional natural gas.\nAnaergia also develops solutions that recover useful materials from waste processing operations.\nThe"
+    }
+   ]
+  },
+  {
+   "group_key": "accel leads 30m series",
+   "company_guess": "Accel leads $30M Series",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "41f32e3f5775",
+     "group_key": "accel leads 30m series",
+     "title": "Accel leads $30M Series A in SE3, the Munich startup teaching drones to work without GPS",
+     "publisher": "Abhinaya Prabhu",
+     "url": "https://techfundingnews.com/accel-leads-30m-series-a-in-se3-the-munich-startup-teaching-drones-to-work-without-gps/",
+     "published_at": "2026-11-12T10:15:00.000Z",
+     "amount_hint": "$30M",
+     "snippet": "AI has made significant advances in automating digital tasks, but enabling machines to understand and navigate the physical…",
+     "text_status": "thin",
+     "text": "November 12, 2026\nYC-backed Luminal raises $25M from Standard Capital to loosen Nvidia’s grip on AI inference\nby Abhinaya Prabhu"
+    }
+   ]
+  },
+  {
+   "group_key": "andromeda robotics",
+   "company_guess": "Andromeda Robotics",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "a5663f23225a",
+     "group_key": "andromeda robotics",
+     "title": "Andromeda Robotics raises $30M of $75M for Abi care robot",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUjdaeGxONWd2U29MX2lXWmJpRFVUVWNjMlhRT3MzQy1DWDF3SnR0TTVYRzZxRmdZVWJEalpMX1FDb2pqcGpYRXNNbnZsemt3U3loZ1hzaVBGVlpuZFpNeUtpQTdUbWZSMU0xSDBjWUFtUTd4R0pZRWJOZFlUU3NtLTVpMW5BVmVMZ1ZWMTMtM0Y5eVU?oc=5",
+     "published_at": "2026-11-16T08:28:24.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Andromeda Robotics raises $30M of $75M for Abi care robot Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "remanence",
+   "company_guess": "Remanence",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "92a60a45b2e2",
+     "group_key": "remanence",
+     "title": "Remanence raises $30M seed to help firms own their AI models",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRHotV3ctWktCLVByQUJVQjVKTzFjLVVSX2lpYlpKU2MwYXUzZkI1NHhRWU1zdU5INFUyMmpRbTd2eFVfR3RWVGlEcV9PVHg0ZWIyVFlJU3lvcDQ0bWhWeDRKSEdoM0pXd1ZSejRkMXNwOGNpa2M2cHI1Z0JaNGpBV3YwU3A0d2dQX0ZCUTcxeHNONUFPM0liaw?oc=5",
+     "published_at": "2026-11-17T11:40:08.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Remanence raises $30M seed to help firms own their AI models Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    },
+    {
+     "id": "db293168239a",
+     "group_key": "remanence",
+     "title": "Remanence Raises $30 Million To Help Companies Train and Own Their AI Models",
+     "publisher": "Ventureburn",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbDhVcXpNUHBJSl9zMFctZlhmQjB2RU9UQmNNY2ZLWUVVejA1T21KVVR3cmFfNVB6ODkyNDlEWXcxSWdfb0VjaVhTMjk3Y3hOR0VLUXJFb3RraS12eGhFUzJVdjMyMzFTWVFWZGxDWjUwbkNXM05Tdk80RTJ3TW84b3h4VVp0am90NHfSAYoBQVVfeXFMT2w4VXF6TVBwSUpfczBXLWZYZkIwdkVPVEJjTWNmS1lFVXowNU9tSlVUd3JhXzVQejg5MjQ5RFl3MUlnX29FY2lYUzI5N2N4TkdFS1FyRW90a2ktdnhoRVMyVXYzMjMxU1lRVmRsQ1o1MG5DVzNOU3ZPNEUyd01vOG94eFVadGpvdDR3?oc=5",
+     "published_at": "2026-11-17T11:57:43.000Z",
+     "amount_hint": "$30 Million",
+     "snippet": "Remanence Raises $30 Million To Help Companies Train and Own Their AI Models Ventureburn",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "neuxmind",
+   "company_guess": "NeuxMind.AI",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "d2c610b9f2d9",
+     "group_key": "neuxmind",
+     "title": "NeuxMind.AI raises $30M Series B to sell enterprise AI \"workers",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaXBlM3VoNWJfTDh3VWxMZmc3MFRQWUNjRllzbWh0NENYWWJlNEt2S1laczB0S3JYNE5hQUdfRHZFbGlOMlp6UjRxZ1VsWHdsMzM3OWhkV0wwNVF5QzFiLUNjOU1nWUxXd3hodFZVNDBDWDJfWF94TDlsUmtFazhPZDdIcjZLZ2h3aGxCSDlIS3gzejFfQjgwRHZjcw?oc=5",
+     "published_at": "2026-11-17T19:27:49.000Z",
+     "amount_hint": "$30M",
+     "snippet": "NeuxMind.AI raises $30M Series B to sell enterprise AI \"workers Dealroom",
+     "text_status": "unresolved",
+     "text": null
+    }
+   ]
+  }
+ ]
+}
