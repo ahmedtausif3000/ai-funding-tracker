@@ -1,0 +1,270 @@
+{
+ "run_date": "2026-11-18-2028",
+ "extractor": "claude-code routine",
+ "notes": "Skipped: sphere/olyv(India fintech)/o15 (acquisition financing)/accel leads (Humyn dup). HQs for VINCUE/VitriVax/Xlue from web search.",
+ "rows": [
+  {
+   "group_key": "vincue",
+   "candidate_ids": [
+    "33344b6d202a"
+   ],
+   "company": "VINCUE",
+   "website": null,
+   "amount_usd": 93000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Growth",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Wavecrest Growth Partners"
+   ],
+   "investors": [
+    "Wavecrest Growth Partners",
+    "FM Capital"
+   ],
+   "hq_city": "Kansas City",
+   "hq_state": "MO",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-native automotive retail platform.",
+   "description": "AI-first software platform for automotive dealerships covering vehicle appraisal, inventory, pricing and merchandising.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "VINCUE has raised $93 million in growth capital",
+    "round": null,
+    "lead": "Wavecrest Growth Partners led the investment",
+    "investors": "existing investor FM Capital"
+   },
+   "source_urls": [
+    "https://pulse2.com/vincue-raises-93-million-to-expand-its-ai-first-automotive-retail-platf"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "vitrivax",
+   "candidate_ids": [
+    "784b562cb91e"
+   ],
+   "company": "VitriVax",
+   "website": null,
+   "amount_usd": 87000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Boulder",
+   "hq_state": "CO",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Vaccine biotech; no AI claim.",
+   "description": "Biotech developing thermostable vaccines; Lyme disease vaccine candidate.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "VitriVax Raises $87 Million Series C",
+    "round": "Series C",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/935790/vitrivax-raises-87-million-series-c-to-advance-lyme-"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "ansa biotechnologies",
+   "candidate_ids": [
+    "af9f4142697f"
+   ],
+   "company": "Ansa Biotechnologies",
+   "website": null,
+   "amount_usd": 71500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Blue Water Life Science Advisors"
+   ],
+   "investors": [
+    "Blue Water Life Science Advisors",
+    "Illumina Ventures",
+    "BEVC",
+    "Lightscape Partners"
+   ],
+   "hq_city": "Emeryville",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "DNA synthesis biotech; no AI claim.",
+   "description": "Synthetic biology company scaling DNA synthesis.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Ansa Biotechnologies has raised $71.5 million in an oversubscribed Series C round",
+    "round": "oversubscribed Series C round",
+    "lead": "Blue Water Life Science Advisors led the financing",
+    "investors": "New investors included Illumina Ventures, BEVC, Lightscape Partners"
+   },
+   "source_urls": [
+    "https://pulse2.com/ansa-biotechnologies-raises-71-5-million-to-scale-dna-synthesis/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "humyn",
+   "candidate_ids": [
+    "42db1fd8e5c2",
+    "62041dfce3bc"
+   ],
+   "company": "Humyn Labs",
+   "website": null,
+   "amount_usd": 47000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Accel"
+   ],
+   "investors": [
+    "Accel",
+    "Prosus"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Physical AI and robotics training data.",
+   "description": "Indian physical AI startup supplying robot training data to US robotics companies.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Humyn Labs raises $47 million led by Accel",
+    "round": "AI startup Humyn Labs raises $47 million in Series A funding round",
+    "lead": "Humyn Labs raises $47 million led by Accel",
+    "investors": "Physical AI Startup Humyn Raises $47 Million From Accel, Prosus"
+   },
+   "source_urls": [
+    "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-ne"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "promise robotics",
+   "candidate_ids": [
+    "967804e7020b"
+   ],
+   "company": "Promise Robotics",
+   "website": null,
+   "amount_usd": 29000000,
+   "amount_disclosed": true,
+   "currency_note": "CAD 40M converted at ~0.72",
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "White Star Capital"
+   ],
+   "investors": [
+    "White Star Capital",
+    "Horizons Ventures",
+    "Radical Ventures",
+    "PSP Investments"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CA",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Automated robotic homebuilding factories.",
+   "description": "Factory-as-a-Service automated homebuilding production network.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "Promise Robotics has raised CAN$40 million in Series B funding",
+    "round": "Series B",
+    "lead": "Led by White Star Capital",
+    "investors": "Horizons Ventures, Radical Ventures and PSP Investments"
+   },
+   "source_urls": [
+    "https://theaiinsider.tech/2026/11/18/promise-robotics-raises-can40m-in-series-b-funding-to"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "carnegie mellon spinout xlue",
+   "candidate_ids": [
+    "d43d913db0d6"
+   ],
+   "company": "Xlue",
+   "website": null,
+   "amount_usd": 35000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Pittsburgh",
+   "hq_state": "PA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Cancer-risk prediction AI.",
+   "description": "Carnegie Mellon spinout building AI to predict cancer risk from health records.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "Carnegie Mellon spinout Xlue raises $35M seed for cancer-risk AI",
+    "round": "Xlue raises $35M seed",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/carnegie-mellon-spinout-xlue-raises-35m-seed-for-cancer-"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "stepsecurity",
+   "candidate_ids": [
+    "faff2b7a7be0"
+   ],
+   "company": "StepSecurity",
+   "website": null,
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Elephant"
+   ],
+   "investors": [
+    "Elephant",
+    "Runtime Ventures",
+    "Inner Loop Capital",
+    "SaaS Ventures"
+   ],
+   "hq_city": "Seattle",
+   "hq_state": "WA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Supply chain security; no AI claim about product.",
+   "description": "Cybersecurity company preventing software supply chain attacks.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "an oversubscribed $20 million round of Series A funding",
+    "round": "oversubscribed $20 million round of Series A funding",
+    "lead": "The round was led by Elephant",
+    "investors": "existing investors Runtime Ventures, Inner Loop Capital, and SaaS Ventures"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/stepsecurity-raises-20-million-in-series-a-fundin"
+   ],
+   "exclude_reason": null
+  }
+ ]
+}

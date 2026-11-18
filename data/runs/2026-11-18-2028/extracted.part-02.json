@@ -1,0 +1,272 @@
+{
+ "run_date": "2026-11-18-2028",
+ "extractor": "claude-code routine",
+ "notes": "Boltz/BrightAI web lookups could not confirm; used article text. Boltz HQ Boston from web search (seed-era). BrightAI HQ city unknown. Skipped: sphere capital (not funding), jay z marcypen (dup Hone).",
+ "rows": [
+  {
+   "group_key": "hone health",
+   "candidate_ids": [
+    "ab8519a97cea"
+   ],
+   "company": "Hone Health",
+   "website": null,
+   "amount_usd": 228000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "MarcyPen Capital Partners"
+   ],
+   "investors": [
+    "MarcyPen Capital Partners",
+    "Pentland Ventures"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Uses AI-powered insights and AI-enabled technology.",
+   "description": "Physician-led longevity platform offering diagnostic testing, physician-led care and AI-powered insights.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "it has raised $228M in financing",
+    "round": "The investment is structured as $28M in equity as a Series A financing and $200M in growth financing",
+    "lead": "The round was led by MarcyPen Capital Partners",
+    "investors": "Pentland Ventures"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/hone-health-raises-228m-to-expand-physician-led-longevity-care-for-men-and-women-302943964.html"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "marrow therapeutics",
+   "candidate_ids": [
+    "e8e892d60d1a"
+   ],
+   "company": "Marrow Therapeutics",
+   "website": null,
+   "amount_usd": 173000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Scion Life Sciences",
+    "venBio",
+    "OrbiMed"
+   ],
+   "investors": [
+    "Scion Life Sciences",
+    "venBio",
+    "OrbiMed"
+   ],
+   "hq_city": "Watertown",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Genetic medicine biotech; no AI claim.",
+   "description": "Biotech developing in vivo blood therapies targeting bone marrow; $53M Series A and $120M Series B.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Financing: $173 million total ($53 million series A; $120 million series B)",
+    "round": "$120 million series B",
+    "lead": "Lead investors: Scion Life Sciences and venBio (series A); OrbiMed (series B)",
+    "investors": "Scion Life Sciences and venBio"
+   },
+   "source_urls": [
+    "https://www.biopharminternational.com/view/marrow-therapeutics-173-million-series-a-b-bone"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "helical fusion",
+   "candidate_ids": [
+    "ae9ba2b46618"
+   ],
+   "company": "Helical Fusion",
+   "website": null,
+   "amount_usd": 126000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Grant",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "JP",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Fusion power; no AI claim.",
+   "description": "Japanese fusion power developer receiving a government subsidy.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "a maximum subsidy of approximately ¥19.2 billion, or $126 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/helical-fusion-receives-up-to-126-million-from-japanese-government/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "boltz",
+   "candidate_ids": [
+    "571de06eb8d8"
+   ],
+   "company": "Boltz",
+   "website": null,
+   "amount_usd": 110000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Boston",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI drug design models.",
+   "description": "AI biomolecular modeling startup whose drug design software usage jumped 50-fold.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "Boltz raises $110M as usage of its AI drug design software jumps 50-fold",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://endpoints.news/ai-bio-startup-boltz-raises-110m-series-a/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "variational",
+   "candidate_ids": [
+    "dad5f5028b99"
+   ],
+   "company": "Variational",
+   "website": null,
+   "amount_usd": 110000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Bain Capital Crypto"
+   ],
+   "investors": [
+    "Bain Capital Crypto",
+    "Dragonfly",
+    "HSG",
+    "Peak XV",
+    "50T Fund"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Crypto derivatives trading protocol; no AI claim.",
+   "description": "Digital-asset derivatives trading protocol (Omni platform).",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "raised a $110 million investment in a Series B round led by Bain Capital Crypto",
+    "round": "Series B",
+    "lead": "led by Bain Capital Crypto",
+    "investors": "Dragonfly, HSG, Peak XV and 50T Fund"
+   },
+   "source_urls": [
+    "https://en.bloomingbit.io/feed/news/124740"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "trinity capital provides 100",
+   "candidate_ids": [
+    "8d0f67bcfc21"
+   ],
+   "company": "Phononic",
+   "website": null,
+   "amount_usd": 100000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [
+    "Trinity Capital"
+   ],
+   "hq_city": null,
+   "hq_state": "NC",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Thermal control for AI data centers (AI infrastructure).",
+   "description": "Developer of solid-state cooling and software-defined thermal control for AI data centers.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Trinity Capital has committed $100 million in debt financing",
+    "round": null,
+    "lead": null,
+    "investors": "Trinity Capital has committed $100 million in debt financing"
+   },
+   "source_urls": [
+    "https://pulse2.com/trinity-capital-provides-100-million-in-debt-financing-to-phononic/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "brightai",
+   "candidate_ids": [
+    "45f82e2c6d22"
+   ],
+   "company": "BrightAI",
+   "website": null,
+   "amount_usd": 97000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Smith Point Capital"
+   ],
+   "investors": [
+    "Smith Point Capital",
+    "GE Vernova",
+    "Cobalt Capital",
+    "Marlinspike Partners",
+    "Zero Infinity Partners",
+    "Khosla Ventures",
+    "Inspired Capital",
+    "Upfront Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Physical AI sensors for infrastructure.",
+   "description": "Physical AI company using sensors and AI to continuously monitor infrastructure.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "BrightAI said Wednesday it has raised $97 million",
+    "round": null,
+    "lead": "in a round led by Smith Point Capital",
+    "investors": "GE Vernova, already a BrightAI customer, also invested, along with Cobalt Capital, Marlinspike Partners, Zero Infinity Partners as well as existing backers Khosla Ventures, Inspired Capital, and Upfront Ventures"
+   },
+   "source_urls": [
+    "https://fortune.com/2026/11/18/brightai-alex-hawkinson-physical-ai-unicorn-roman-infrastructure-inspections/"
+   ],
+   "exclude_reason": null
+  }
+ ]
+}

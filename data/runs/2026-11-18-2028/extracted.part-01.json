@@ -1,0 +1,122 @@
+{
+ "run_date": "2026-11-18-2028",
+ "extractor": "claude-code routine",
+ "notes": "Skipped non-funding/public/non-US-non-startup groups: sector snapshot, chronoscale (public), portuguese roundup, MEIL, cernova wealth, ithaca energy; goldman sachs leads a = Payhawk duplicate.",
+ "rows": [
+  {
+   "group_key": "duetti",
+   "candidate_ids": [
+    "991d365012a2"
+   ],
+   "company": "Duetti",
+   "website": null,
+   "amount_usd": 665000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-17",
+   "lead_investors": [
+    "Carlyle"
+   ],
+   "investors": [
+    "Carlyle",
+    "Viola Credit",
+    "Flexpoint Ford",
+    "Truist Bank"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Music rights financing platform; no AI claim.",
+   "description": "Music financing platform providing capital, marketing and catalog management to artists, songwriters and producers.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "the company raised $665 million",
+    "round": null,
+    "lead": "led the round with a $450 million investment",
+    "investors": "Viola Credit, Flexpoint Ford, and Truist Bank"
+   },
+   "source_urls": [
+    "https://afrotech.com/jay-z-backed-music-financing-startup-duetti-raises-665m"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "jeeves",
+   "candidate_ids": [
+    "57ce08bb7abd"
+   ],
+   "company": "Jeeves",
+   "website": null,
+   "amount_usd": 300000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [
+    "Neuberger Berman Specialty Finance"
+   ],
+   "hq_city": "Miami",
+   "hq_state": "FL",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Global financial operating system for spend management; no AI claim.",
+   "description": "Global financial operating system for multinational enterprises: corporate cards, spend management and payments.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "bringing financing capacity to $300 million",
+    "round": null,
+    "lead": null,
+    "investors": "new funding from Neuberger Berman Specialty Finance"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/jeeves-announces-300m-in-financing-adding-neuberger-berman-to-fuel-rapid-global-expansion-302944042.html"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "payhawk",
+   "candidate_ids": [
+    "371d4074c9b5"
+   ],
+   "company": "Payhawk",
+   "website": "payhawk.com",
+   "amount_usd": 280000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Goldman Sachs"
+   ],
+   "investors": [
+    "Goldman Sachs",
+    "Greenoaks",
+    "Lightspeed",
+    "QED"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "GB",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Spend management using AI agents.",
+   "description": "UK-based enterprise financial management platform for expenses and procurement using AI agents.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "announced a $280 million Series C funding round",
+    "round": "announced a $280 million Series C funding round",
+    "lead": "led by Goldman Sachs’ growth equity arm",
+    "investors": "Other investors in the round include Greenoaks, Lightspeed, and QED"
+   },
+   "source_urls": [
+    "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/"
+   ],
+   "exclude_reason": null
+  }
+ ]
+}

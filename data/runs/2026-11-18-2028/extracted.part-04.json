@@ -1,0 +1,170 @@
+{
+ "run_date": "2026-11-18-2028",
+ "extractor": "claude-code routine",
+ "notes": "Skipped sub-$15M/undisclosed seeds: clace, verkko, protegey, soket (India, undisclosed), wepinion. vmg leads speakeasys = Speakeasy dup. Sequel HQ San Francisco per press dateline.",
+ "rows": [
+  {
+   "group_key": "speakeasy",
+   "candidate_ids": [
+    "ffafec2b527a"
+   ],
+   "company": "Speakeasy",
+   "website": null,
+   "amount_usd": 18800000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "VMG Technology"
+   ],
+   "investors": [
+    "VMG Technology",
+    "Capital One Ventures",
+    "Positive Sum"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Unified operations, payments and AI platform.",
+   "description": "Infrastructure platform for live entertainment and hospitality: ticketing, reservations, payments and AI.",
+   "confidence": 0.75,
+   "evidence": {
+    "amount": "oversubscribed $18.8 million Series A",
+    "round": "$18.8 million Series A",
+    "lead": "The round was led by VMG Technology",
+    "investors": "Capital One Ventures, Positive Sum"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/speakeasy-announces-18-8-million-series-a-to-powe"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "sequel",
+   "candidate_ids": [
+    "de48710146c9"
+   ],
+   "company": "Sequel.io",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Sorenson Capital"
+   ],
+   "investors": [
+    "Sorenson Capital",
+    "High Alpha",
+    "Album VC",
+    "Webflow Ventures",
+    "Javelin Venture Partners",
+    "Struck Capital",
+    "Alumni Ventures",
+    "Social Leverage"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI agents and AI-powered audience intelligence.",
+   "description": "Video-driven audience intelligence platform with AI agents for marketers.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "announced $15 million in funding led by Sorenson Capital",
+    "round": "Sequel.io Raises $15M Series B",
+    "lead": "led by Sorenson Capital",
+    "investors": "New investors in the round include High Alpha, Album VC and Webflow Ventures, with additional participation from existing investors Javelin Venture Partners, Struck Capital, Alumni Ventures and Social Leverage"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/sequelio-raises-15m-to-build-a-new-category-in-vi"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "darcy geothermal",
+   "candidate_ids": [
+    "7f1086016a7e"
+   ],
+   "company": "Darcy Geothermal",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Aligned Climate Capital",
+    "Büetigen"
+   ],
+   "investors": [
+    "Aligned Climate Capital",
+    "Büetigen"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Geothermal heating; no AI claim.",
+   "description": "Commercial geothermal heating and cooling as a service.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "approximately $15 million in Series B funding",
+    "round": "Series B",
+    "lead": "Aligned Climate Capital and Büetigen co-led the round",
+    "investors": "Aligned Climate Capital and Büetigen"
+   },
+   "source_urls": [
+    "https://pulse2.com/darcy-geothermal-raises-15-million-to-expand-commercial-heating-and-coo"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "12 years without investors",
+   "candidate_ids": [
+    "a7c261fa8beb"
+   ],
+   "company": "Henfruit",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Lok Capital",
+    "DSG Consumer Partners",
+    "RPSG Capital Ventures"
+   ],
+   "investors": [
+    "Lok Capital",
+    "DSG Consumer Partners",
+    "RPSG Capital Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Egg brand; no AI.",
+   "description": "Indian branded egg company.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "raised $15 million in a Series A funding round",
+    "round": "Series A funding round",
+    "lead": "led by Lok Capital, DSG Consumer Partners and RPSG Capital Ventures",
+    "investors": "Lok Capital, DSG Consumer Partners and RPSG Capital Ventures"
+   },
+   "source_urls": [
+    "https://indianstartupnews.com/funding/12-years-without-investors-egg-brand-henfruit-raises"
+   ],
+   "exclude_reason": null
+  }
+ ]
+}
