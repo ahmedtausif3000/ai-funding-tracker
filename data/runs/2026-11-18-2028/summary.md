@@ -1,0 +1,12 @@
+# Run 2026-11-18-2028
+- Feed health: 27 feeds all HTTP 200; 880 raw items, 137 prefiltered, 42 groups selected, 94 candidates, 28 articles fetched; Google not rate-limited.
+- Counts: 94 candidates, 21 rows extracted, 17 inserted, 4 merged, 255 in view (1127 total rounds).
+- In-scope rounds added:
+  - Hone Health, $228M, Series A (equity + growth financing), lead MarcyPen Capital Partners
+  - Boltz, $110M, Series A, lead not stated
+  - BrightAI, $97M, unspecified venture, lead Smith Point Capital
+  - VINCUE, $93M, Growth, lead Wavecrest Growth Partners
+  - Xlue, $35M, Seed, lead not stated (title-only source)
+  - Speakeasy, $18.8M, Series A, lead VMG Technology
+  - Sequel.io, $15M, Series B, lead Sorenson Capital
+- Suspicious: web searches could not confirm Boltz ($110M), BrightAI ($97M) or Xlue ($35M); figures come from the feed articles only. Boltz HQ (Boston) is from its earlier seed-round coverage. Hone Health's $228M is mostly $200M growth financing from General Catalyst's Customer Value Fund.

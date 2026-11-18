@@ -1,0 +1,813 @@
+{
+ "run_date": "2026-11-18-2028",
+ "extractor": "parallel agents",
+ "notes": "[extracted.part-01.json] Skipped non-funding/public/non-US-non-startup groups: sector snapshot, chronoscale (public), portuguese roundup, MEIL, cernova wealth, ithaca energy; goldman sachs leads a = Payhawk duplicate.\n[extracted.part-02.json] Boltz/BrightAI web lookups could not confirm; used article text. Boltz HQ Boston from web search (seed-era). BrightAI HQ city unknown. Skipped: sphere capital (not funding), jay z marcypen (dup Hone).\n[extracted.part-03.json] Skipped: sphere/olyv(India fintech)/o15 (acquisition financing)/accel leads (Humyn dup). HQs for VINCUE/VitriVax/Xlue from web search.\n[extracted.part-04.json] Skipped sub-$15M/undisclosed seeds: clace, verkko, protegey, soket (India, undisclosed), wepinion. vmg leads speakeasys = Speakeasy dup. Sequel HQ San Francisco per press dateline.\n[extracted.part-05.json] Botsync ($11M, India) below threshold; 'more' is a non-funding article.",
+ "rows": [
+  {
+   "group_key": "duetti",
+   "candidate_ids": [
+    "991d365012a2"
+   ],
+   "company": "Duetti",
+   "website": null,
+   "amount_usd": 665000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-17",
+   "lead_investors": [
+    "Carlyle"
+   ],
+   "investors": [
+    "Carlyle",
+    "Viola Credit",
+    "Flexpoint Ford",
+    "Truist Bank"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Music rights financing platform; no AI claim.",
+   "description": "Music financing platform providing capital, marketing and catalog management to artists, songwriters and producers.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "the company raised $665 million",
+    "round": null,
+    "lead": "led the round with a $450 million investment",
+    "investors": "Viola Credit, Flexpoint Ford, and Truist Bank"
+   },
+   "source_urls": [
+    "https://afrotech.com/jay-z-backed-music-financing-startup-duetti-raises-665m"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "jeeves",
+   "candidate_ids": [
+    "57ce08bb7abd"
+   ],
+   "company": "Jeeves",
+   "website": null,
+   "amount_usd": 300000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [
+    "Neuberger Berman Specialty Finance"
+   ],
+   "hq_city": "Miami",
+   "hq_state": "FL",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Global financial operating system for spend management; no AI claim.",
+   "description": "Global financial operating system for multinational enterprises: corporate cards, spend management and payments.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "bringing financing capacity to $300 million",
+    "round": null,
+    "lead": null,
+    "investors": "new funding from Neuberger Berman Specialty Finance"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/jeeves-announces-300m-in-financing-adding-neuberger-berman-to-fuel-rapid-global-expansion-302944042.html"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "payhawk",
+   "candidate_ids": [
+    "371d4074c9b5"
+   ],
+   "company": "Payhawk",
+   "website": "payhawk.com",
+   "amount_usd": 280000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Goldman Sachs"
+   ],
+   "investors": [
+    "Goldman Sachs",
+    "Greenoaks",
+    "Lightspeed",
+    "QED"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "GB",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Spend management using AI agents.",
+   "description": "UK-based enterprise financial management platform for expenses and procurement using AI agents.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "announced a $280 million Series C funding round",
+    "round": "announced a $280 million Series C funding round",
+    "lead": "led by Goldman Sachs’ growth equity arm",
+    "investors": "Other investors in the round include Greenoaks, Lightspeed, and QED"
+   },
+   "source_urls": [
+    "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "hone health",
+   "candidate_ids": [
+    "ab8519a97cea"
+   ],
+   "company": "Hone Health",
+   "website": null,
+   "amount_usd": 228000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "MarcyPen Capital Partners"
+   ],
+   "investors": [
+    "MarcyPen Capital Partners",
+    "Pentland Ventures"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Uses AI-powered insights and AI-enabled technology.",
+   "description": "Physician-led longevity platform offering diagnostic testing, physician-led care and AI-powered insights.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "it has raised $228M in financing",
+    "round": "The investment is structured as $28M in equity as a Series A financing and $200M in growth financing",
+    "lead": "The round was led by MarcyPen Capital Partners",
+    "investors": "Pentland Ventures"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/hone-health-raises-228m-to-expand-physician-led-longevity-care-for-men-and-women-302943964.html"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "marrow therapeutics",
+   "candidate_ids": [
+    "e8e892d60d1a"
+   ],
+   "company": "Marrow Therapeutics",
+   "website": null,
+   "amount_usd": 173000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Scion Life Sciences",
+    "venBio",
+    "OrbiMed"
+   ],
+   "investors": [
+    "Scion Life Sciences",
+    "venBio",
+    "OrbiMed"
+   ],
+   "hq_city": "Watertown",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Genetic medicine biotech; no AI claim.",
+   "description": "Biotech developing in vivo blood therapies targeting bone marrow; $53M Series A and $120M Series B.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Financing: $173 million total ($53 million series A; $120 million series B)",
+    "round": "$120 million series B",
+    "lead": "Lead investors: Scion Life Sciences and venBio (series A); OrbiMed (series B)",
+    "investors": "Scion Life Sciences and venBio"
+   },
+   "source_urls": [
+    "https://www.biopharminternational.com/view/marrow-therapeutics-173-million-series-a-b-bone"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "helical fusion",
+   "candidate_ids": [
+    "ae9ba2b46618"
+   ],
+   "company": "Helical Fusion",
+   "website": null,
+   "amount_usd": 126000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Grant",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "JP",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Fusion power; no AI claim.",
+   "description": "Japanese fusion power developer receiving a government subsidy.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "a maximum subsidy of approximately ¥19.2 billion, or $126 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/helical-fusion-receives-up-to-126-million-from-japanese-government/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "boltz",
+   "candidate_ids": [
+    "571de06eb8d8"
+   ],
+   "company": "Boltz",
+   "website": null,
+   "amount_usd": 110000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Boston",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI drug design models.",
+   "description": "AI biomolecular modeling startup whose drug design software usage jumped 50-fold.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "Boltz raises $110M as usage of its AI drug design software jumps 50-fold",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://endpoints.news/ai-bio-startup-boltz-raises-110m-series-a/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "variational",
+   "candidate_ids": [
+    "dad5f5028b99"
+   ],
+   "company": "Variational",
+   "website": null,
+   "amount_usd": 110000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Bain Capital Crypto"
+   ],
+   "investors": [
+    "Bain Capital Crypto",
+    "Dragonfly",
+    "HSG",
+    "Peak XV",
+    "50T Fund"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Crypto derivatives trading protocol; no AI claim.",
+   "description": "Digital-asset derivatives trading protocol (Omni platform).",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "raised a $110 million investment in a Series B round led by Bain Capital Crypto",
+    "round": "Series B",
+    "lead": "led by Bain Capital Crypto",
+    "investors": "Dragonfly, HSG, Peak XV and 50T Fund"
+   },
+   "source_urls": [
+    "https://en.bloomingbit.io/feed/news/124740"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "trinity capital provides 100",
+   "candidate_ids": [
+    "8d0f67bcfc21"
+   ],
+   "company": "Phononic",
+   "website": null,
+   "amount_usd": 100000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [
+    "Trinity Capital"
+   ],
+   "hq_city": null,
+   "hq_state": "NC",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Thermal control for AI data centers (AI infrastructure).",
+   "description": "Developer of solid-state cooling and software-defined thermal control for AI data centers.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Trinity Capital has committed $100 million in debt financing",
+    "round": null,
+    "lead": null,
+    "investors": "Trinity Capital has committed $100 million in debt financing"
+   },
+   "source_urls": [
+    "https://pulse2.com/trinity-capital-provides-100-million-in-debt-financing-to-phononic/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "brightai",
+   "candidate_ids": [
+    "45f82e2c6d22"
+   ],
+   "company": "BrightAI",
+   "website": null,
+   "amount_usd": 97000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Smith Point Capital"
+   ],
+   "investors": [
+    "Smith Point Capital",
+    "GE Vernova",
+    "Cobalt Capital",
+    "Marlinspike Partners",
+    "Zero Infinity Partners",
+    "Khosla Ventures",
+    "Inspired Capital",
+    "Upfront Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Physical AI sensors for infrastructure.",
+   "description": "Physical AI company using sensors and AI to continuously monitor infrastructure.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "BrightAI said Wednesday it has raised $97 million",
+    "round": null,
+    "lead": "in a round led by Smith Point Capital",
+    "investors": "GE Vernova, already a BrightAI customer, also invested, along with Cobalt Capital, Marlinspike Partners, Zero Infinity Partners as well as existing backers Khosla Ventures, Inspired Capital, and Upfront Ventures"
+   },
+   "source_urls": [
+    "https://fortune.com/2026/11/18/brightai-alex-hawkinson-physical-ai-unicorn-roman-infrastructure-inspections/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "vincue",
+   "candidate_ids": [
+    "33344b6d202a"
+   ],
+   "company": "VINCUE",
+   "website": null,
+   "amount_usd": 93000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Growth",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Wavecrest Growth Partners"
+   ],
+   "investors": [
+    "Wavecrest Growth Partners",
+    "FM Capital"
+   ],
+   "hq_city": "Kansas City",
+   "hq_state": "MO",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-native automotive retail platform.",
+   "description": "AI-first software platform for automotive dealerships covering vehicle appraisal, inventory, pricing and merchandising.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "VINCUE has raised $93 million in growth capital",
+    "round": null,
+    "lead": "Wavecrest Growth Partners led the investment",
+    "investors": "existing investor FM Capital"
+   },
+   "source_urls": [
+    "https://pulse2.com/vincue-raises-93-million-to-expand-its-ai-first-automotive-retail-platf"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "vitrivax",
+   "candidate_ids": [
+    "784b562cb91e"
+   ],
+   "company": "VitriVax",
+   "website": null,
+   "amount_usd": 87000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Boulder",
+   "hq_state": "CO",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Vaccine biotech; no AI claim.",
+   "description": "Biotech developing thermostable vaccines; Lyme disease vaccine candidate.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "VitriVax Raises $87 Million Series C",
+    "round": "Series C",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/935790/vitrivax-raises-87-million-series-c-to-advance-lyme-"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "ansa biotechnologies",
+   "candidate_ids": [
+    "af9f4142697f"
+   ],
+   "company": "Ansa Biotechnologies",
+   "website": null,
+   "amount_usd": 71500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Blue Water Life Science Advisors"
+   ],
+   "investors": [
+    "Blue Water Life Science Advisors",
+    "Illumina Ventures",
+    "BEVC",
+    "Lightscape Partners"
+   ],
+   "hq_city": "Emeryville",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "DNA synthesis biotech; no AI claim.",
+   "description": "Synthetic biology company scaling DNA synthesis.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Ansa Biotechnologies has raised $71.5 million in an oversubscribed Series C round",
+    "round": "oversubscribed Series C round",
+    "lead": "Blue Water Life Science Advisors led the financing",
+    "investors": "New investors included Illumina Ventures, BEVC, Lightscape Partners"
+   },
+   "source_urls": [
+    "https://pulse2.com/ansa-biotechnologies-raises-71-5-million-to-scale-dna-synthesis/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "humyn",
+   "candidate_ids": [
+    "42db1fd8e5c2",
+    "62041dfce3bc"
+   ],
+   "company": "Humyn Labs",
+   "website": null,
+   "amount_usd": 47000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Accel"
+   ],
+   "investors": [
+    "Accel",
+    "Prosus"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Physical AI and robotics training data.",
+   "description": "Indian physical AI startup supplying robot training data to US robotics companies.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Humyn Labs raises $47 million led by Accel",
+    "round": "AI startup Humyn Labs raises $47 million in Series A funding round",
+    "lead": "Humyn Labs raises $47 million led by Accel",
+    "investors": "Physical AI Startup Humyn Raises $47 Million From Accel, Prosus"
+   },
+   "source_urls": [
+    "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-ne"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "promise robotics",
+   "candidate_ids": [
+    "967804e7020b"
+   ],
+   "company": "Promise Robotics",
+   "website": null,
+   "amount_usd": 29000000,
+   "amount_disclosed": true,
+   "currency_note": "CAD 40M converted at ~0.72",
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "White Star Capital"
+   ],
+   "investors": [
+    "White Star Capital",
+    "Horizons Ventures",
+    "Radical Ventures",
+    "PSP Investments"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CA",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Automated robotic homebuilding factories.",
+   "description": "Factory-as-a-Service automated homebuilding production network.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "Promise Robotics has raised CAN$40 million in Series B funding",
+    "round": "Series B",
+    "lead": "Led by White Star Capital",
+    "investors": "Horizons Ventures, Radical Ventures and PSP Investments"
+   },
+   "source_urls": [
+    "https://theaiinsider.tech/2026/11/18/promise-robotics-raises-can40m-in-series-b-funding-to"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "carnegie mellon spinout xlue",
+   "candidate_ids": [
+    "d43d913db0d6"
+   ],
+   "company": "Xlue",
+   "website": null,
+   "amount_usd": 35000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Pittsburgh",
+   "hq_state": "PA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Cancer-risk prediction AI.",
+   "description": "Carnegie Mellon spinout building AI to predict cancer risk from health records.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "Carnegie Mellon spinout Xlue raises $35M seed for cancer-risk AI",
+    "round": "Xlue raises $35M seed",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/carnegie-mellon-spinout-xlue-raises-35m-seed-for-cancer-"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "stepsecurity",
+   "candidate_ids": [
+    "faff2b7a7be0"
+   ],
+   "company": "StepSecurity",
+   "website": null,
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Elephant"
+   ],
+   "investors": [
+    "Elephant",
+    "Runtime Ventures",
+    "Inner Loop Capital",
+    "SaaS Ventures"
+   ],
+   "hq_city": "Seattle",
+   "hq_state": "WA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Supply chain security; no AI claim about product.",
+   "description": "Cybersecurity company preventing software supply chain attacks.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "an oversubscribed $20 million round of Series A funding",
+    "round": "oversubscribed $20 million round of Series A funding",
+    "lead": "The round was led by Elephant",
+    "investors": "existing investors Runtime Ventures, Inner Loop Capital, and SaaS Ventures"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/stepsecurity-raises-20-million-in-series-a-fundin"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "speakeasy",
+   "candidate_ids": [
+    "ffafec2b527a"
+   ],
+   "company": "Speakeasy",
+   "website": null,
+   "amount_usd": 18800000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "VMG Technology"
+   ],
+   "investors": [
+    "VMG Technology",
+    "Capital One Ventures",
+    "Positive Sum"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Unified operations, payments and AI platform.",
+   "description": "Infrastructure platform for live entertainment and hospitality: ticketing, reservations, payments and AI.",
+   "confidence": 0.75,
+   "evidence": {
+    "amount": "oversubscribed $18.8 million Series A",
+    "round": "$18.8 million Series A",
+    "lead": "The round was led by VMG Technology",
+    "investors": "Capital One Ventures, Positive Sum"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/speakeasy-announces-18-8-million-series-a-to-powe"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "sequel",
+   "candidate_ids": [
+    "de48710146c9"
+   ],
+   "company": "Sequel.io",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Sorenson Capital"
+   ],
+   "investors": [
+    "Sorenson Capital",
+    "High Alpha",
+    "Album VC",
+    "Webflow Ventures",
+    "Javelin Venture Partners",
+    "Struck Capital",
+    "Alumni Ventures",
+    "Social Leverage"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI agents and AI-powered audience intelligence.",
+   "description": "Video-driven audience intelligence platform with AI agents for marketers.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "announced $15 million in funding led by Sorenson Capital",
+    "round": "Sequel.io Raises $15M Series B",
+    "lead": "led by Sorenson Capital",
+    "investors": "New investors in the round include High Alpha, Album VC and Webflow Ventures, with additional participation from existing investors Javelin Venture Partners, Struck Capital, Alumni Ventures and Social Leverage"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/sequelio-raises-15m-to-build-a-new-category-in-vi"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "darcy geothermal",
+   "candidate_ids": [
+    "7f1086016a7e"
+   ],
+   "company": "Darcy Geothermal",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Aligned Climate Capital",
+    "Büetigen"
+   ],
+   "investors": [
+    "Aligned Climate Capital",
+    "Büetigen"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Geothermal heating; no AI claim.",
+   "description": "Commercial geothermal heating and cooling as a service.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "approximately $15 million in Series B funding",
+    "round": "Series B",
+    "lead": "Aligned Climate Capital and Büetigen co-led the round",
+    "investors": "Aligned Climate Capital and Büetigen"
+   },
+   "source_urls": [
+    "https://pulse2.com/darcy-geothermal-raises-15-million-to-expand-commercial-heating-and-coo"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "12 years without investors",
+   "candidate_ids": [
+    "a7c261fa8beb"
+   ],
+   "company": "Henfruit",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Lok Capital",
+    "DSG Consumer Partners",
+    "RPSG Capital Ventures"
+   ],
+   "investors": [
+    "Lok Capital",
+    "DSG Consumer Partners",
+    "RPSG Capital Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Egg brand; no AI.",
+   "description": "Indian branded egg company.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "raised $15 million in a Series A funding round",
+    "round": "Series A funding round",
+    "lead": "led by Lok Capital, DSG Consumer Partners and RPSG Capital Ventures",
+    "investors": "Lok Capital, DSG Consumer Partners and RPSG Capital Ventures"
+   },
+   "source_urls": [
+    "https://indianstartupnews.com/funding/12-years-without-investors-egg-brand-henfruit-raises"
+   ],
+   "exclude_reason": null
+  }
+ ]
+}

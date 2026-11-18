@@ -1466,3 +1466,25 @@
 {"run":"2026-11-18","action":"merged","id":"1751f62958","company":"Valkryn","from":"Valkryn"}
 {"run":"2026-11-18","action":"inserted","id":"d555705295","company":"Henfruit","in_view":false,"exclude_reason":"non-us"}
 {"run":"2026-11-18","action":"merged","id":"ac75d6288b","company":"Gama","from":"Gama"}
+{"run":"2026-11-18-2028","action":"inserted","id":"1f07616fa2","company":"Duetti","in_view":false,"exclude_reason":"not-ai"}
+{"run":"2026-11-18-2028","action":"inserted","id":"a9420d69b0","company":"Jeeves","in_view":false,"exclude_reason":"not-ai"}
+{"run":"2026-11-18-2028","action":"inserted","id":"acea956703","company":"Payhawk","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-18-2028","action":"inserted","id":"fd22c4cca2","company":"Hone Health","in_view":true,"exclude_reason":null}
+{"run":"2026-11-18-2028","action":"amount-conflict","id":"f5b7134b68","company":"Marrow Therapeutics","stored_amount":120000000,"incoming_amount":173000000,"incoming_sources":["https://www.biopharminternational.com/view/marrow-therapeutics-173-million-series-a-b-bone"]}
+{"run":"2026-11-18-2028","action":"merged","id":"f5b7134b68","company":"Marrow Therapeutics","from":"Marrow Therapeutics"}
+{"run":"2026-11-18-2028","action":"inserted","id":"467357cac0","company":"Helical Fusion","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-18-2028","action":"inserted","id":"2a296bc2e9","company":"Boltz","in_view":true,"exclude_reason":null}
+{"run":"2026-11-18-2028","action":"inserted","id":"56a41d355a","company":"Variational","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-18-2028","action":"merged","id":"4b97fc5934","company":"Phononic","from":"Phononic"}
+{"run":"2026-11-18-2028","action":"inserted","id":"89add0980e","company":"BrightAI","in_view":true,"exclude_reason":null}
+{"run":"2026-11-18-2028","action":"inserted","id":"aec7825027","company":"VINCUE","in_view":true,"exclude_reason":null}
+{"run":"2026-11-18-2028","action":"inserted","id":"3fb1893c1f","company":"VitriVax","in_view":false,"exclude_reason":"not-ai"}
+{"run":"2026-11-18-2028","action":"inserted","id":"c2e2376267","company":"Ansa Biotechnologies","in_view":false,"exclude_reason":"not-ai"}
+{"run":"2026-11-18-2028","action":"inserted","id":"849b849217","company":"Humyn Labs","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-18-2028","action":"merged","id":"52de6c4362","company":"Promise Robotics","from":"Promise Robotics"}
+{"run":"2026-11-18-2028","action":"inserted","id":"393bff927b","company":"Xlue","in_view":true,"exclude_reason":null}
+{"run":"2026-11-18-2028","action":"inserted","id":"53aeccd1b8","company":"StepSecurity","in_view":false,"exclude_reason":"not-ai"}
+{"run":"2026-11-18-2028","action":"inserted","id":"e6f83841c5","company":"Speakeasy","in_view":true,"exclude_reason":null}
+{"run":"2026-11-18-2028","action":"inserted","id":"51d0a1d763","company":"Sequel.io","in_view":true,"exclude_reason":null}
+{"run":"2026-11-18-2028","action":"inserted","id":"9f3aef4314","company":"Darcy Geothermal","in_view":false,"exclude_reason":"not-ai"}
+{"run":"2026-11-18-2028","action":"merged","id":"d555705295","company":"Henfruit","from":"Henfruit"}
