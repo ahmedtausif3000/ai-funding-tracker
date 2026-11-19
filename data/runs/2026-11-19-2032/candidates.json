@@ -1,0 +1,727 @@
+{
+  "run_date": "2026-11-19-2032",
+  "generated_at": "2026-11-19T20:32:51.259Z",
+  "window_days": 2,
+  "range": null,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 200,
+        "items": 100
+      },
+      {
+        "id": "gnews-2",
+        "status": 200,
+        "items": 33
+      },
+      {
+        "id": "gnews-3",
+        "status": 429,
+        "items": 0
+      },
+      {
+        "id": "gnews-4",
+        "status": 200,
+        "items": 31
+      },
+      {
+        "id": "gnews-5",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "gnews-6",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "gnews-7",
+        "status": 200,
+        "items": 28
+      },
+      {
+        "id": "gnews-8",
+        "status": 429,
+        "items": 0
+      },
+      {
+        "id": "gnews-g1",
+        "status": 200,
+        "items": 41
+      },
+      {
+        "id": "gnews-g2",
+        "status": 200,
+        "items": 41
+      },
+      {
+        "id": "gnews-g3",
+        "status": 200,
+        "items": 23
+      },
+      {
+        "id": "gnews-g4",
+        "status": 200,
+        "items": 21
+      },
+      {
+        "id": "gnews-g5",
+        "status": 429,
+        "items": 0
+      },
+      {
+        "id": "gnews-g6",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "gnews-g7",
+        "status": 200,
+        "items": 13
+      },
+      {
+        "id": "gnews-g8",
+        "status": 200,
+        "items": 18
+      },
+      {
+        "id": "gnews-g9",
+        "status": 200,
+        "items": 34
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "pulse2",
+        "status": 200,
+        "items": 120
+      },
+      {
+        "id": "citybiz",
+        "status": 200,
+        "items": 0
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 679,
+    "prefiltered": 132,
+    "dropped": {
+      "not_funding": 163,
+      "no_ai_hint": 52,
+      "below_min": 103,
+      "fund_close": 16,
+      "seen": 160,
+      "duplicate_link": 49,
+      "known_round": 110,
+      "noise": 4
+    },
+    "groups": 65,
+    "selected_groups": 14,
+    "candidates": 22,
+    "articles_fetched": 10,
+    "google_rate_limited": false
+  },
+  "groups": [
+    {
+      "key": "nyc startups",
+      "company_guess": "NYC Startups",
+      "amount_hint_usd": 5690000000,
+      "candidate_ids": [
+        "91ed9ae7a315"
+      ]
+    },
+    {
+      "key": "mantech",
+      "company_guess": "MANTECH",
+      "amount_hint_usd": 2900000000,
+      "candidate_ids": [
+        "6c098d4c5faa"
+      ]
+    },
+    {
+      "key": "omani fund joins 200m",
+      "company_guess": "Omani Fund joins $200m",
+      "amount_hint_usd": 200000000,
+      "candidate_ids": [
+        "3e174e15df67"
+      ]
+    },
+    {
+      "key": "enabled",
+      "company_guess": "‘AI-enabled",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "6028bc268e21"
+      ]
+    },
+    {
+      "key": "allocator one",
+      "company_guess": "Allocator One",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "245ca33e3801"
+      ]
+    },
+    {
+      "key": "physical",
+      "company_guess": "Physical AI",
+      "amount_hint_usd": 50000000,
+      "candidate_ids": [
+        "dfb83794d727"
+      ]
+    },
+    {
+      "key": "everful",
+      "company_guess": "Everful",
+      "amount_hint_usd": 48500000,
+      "candidate_ids": [
+        "77e2c178fdbd",
+        "ea03ac575439",
+        "88cd9c1e4bc6",
+        "27f297a759c1",
+        "2a6d69fa00a6",
+        "61ab743c39d1",
+        "8df71143336f",
+        "5ca61b0808a0"
+      ]
+    },
+    {
+      "key": "chenghengwei",
+      "company_guess": "Chenghengwei",
+      "amount_hint_usd": 30000000,
+      "candidate_ids": [
+        "bc48ff5c1694"
+      ]
+    },
+    {
+      "key": "canadian robotics",
+      "company_guess": "Canadian robotics",
+      "amount_hint_usd": 28000000,
+      "candidate_ids": [
+        "574d32f04b2f"
+      ]
+    },
+    {
+      "key": "first circle capital austrian",
+      "company_guess": "First Circle Capital: Austrian",
+      "amount_hint_usd": 26000000,
+      "candidate_ids": [
+        "a342198ee463"
+      ]
+    },
+    {
+      "key": "agro reply",
+      "company_guess": "Agro Reply",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "b7237d9fba6d",
+        "fec37b0af40e"
+      ]
+    },
+    {
+      "key": "khaime",
+      "company_guess": "Khaime",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "5dce23ada6fd"
+      ]
+    },
+    {
+      "key": "cyient semiconductors",
+      "company_guess": "Cyient Semiconductors",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "ee02e31d9381"
+      ]
+    },
+    {
+      "key": "rhise",
+      "company_guess": "RHISE AI",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "f801d5cab00d"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "91ed9ae7a315",
+      "title": "NYC Startups Raised $5.69B in Q3 2026. It Took 40% Fewer Deals to Do It.",
+      "publisher": "Reza Chowdhury",
+      "link": "https://www.alleywatch.com/2026/11/nyc-venture-capital-q3-2026/",
+      "published_at": "2026-11-19T17:27:12.000Z",
+      "publisher_url": null,
+      "snippet": "New York startups raised $5.69 billion in Q3 2026, 7% more than a year ago, on 40% fewer deals. Sixteen mega-rounds took 61% of the money. AI led at 38% of capital, Finance fell by two-thirds from Q2, and September’s $3.1 billion rebound made it the city’s best third quarter since 2021.",
+      "source_feed": "alleywatch",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 5690000000,
+        "currency": "USD",
+        "raw": "$5.69B"
+      },
+      "company_guess": "NYC Startups",
+      "group_key": "nyc startups",
+      "group_rank": 0,
+      "resolved_url": "https://www.alleywatch.com/2026/11/nyc-venture-capital-q3-2026/",
+      "text": "",
+      "text_status": "thin"
+    },
+    {
+      "id": "6c098d4c5faa",
+      "title": "MANTECH Wins $2.9 Billion Indo-Pacific Logistics And Sustainment Contract",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/mantech-wins-2-9-billion-indo-pacific-logistics-and-sustainment-contract/",
+      "published_at": "2026-11-19T20:25:03.000Z",
+      "publisher_url": null,
+      "snippet": "MANTECH has been awarded a seven-year, $2.9 billion contract to provide logistics and sustainment services supporting U.S. Special Operations Command–Pacific and its mission partners.\nThe post MANTECH Wins $2.9 Billion Indo-Pacific Logistics And Sustainment Contract appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 2900000000,
+        "currency": "USD",
+        "raw": "$2.9 Billion"
+      },
+      "company_guess": "MANTECH",
+      "group_key": "mantech",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/mantech-wins-2-9-billion-indo-pacific-logistics-and-sustainment-contract/",
+      "text": "MANTECH Wins $2.9 Billion Indo-Pacific Logistics And Sustainment Contract\nBy Amit Chowdhry\nToday at 3:25 PM\nMANTECH Wins $2.9 Billion Indo-Pacific Logistics And Sustainment Contract\nMANTECH has been awarded a seven-year, $2.9 billion contract to provide logistics and sustainment services supporting U.S. Special Operations Command–Pacific and its mission partners.\nThe Indo-Pacific Logistics and Sustainment Services contract, known as ILS2, will combine transportation assets, supply networks and technology to support operational readiness across the region.\nMANTECH plans to integrate maritime, aerial and ground platforms into a logistics network designed to respond to changing requirements. The work will support access, transportation and sustainment across geographically dispersed operating environments.\nThe company identified speed, flexibility and the ability to adapt as central requirements for logistics in the Indo-Pacific.\nCEO Matt Tait said the award reflects MANTECH’s approach of combining mission expertise with technology and data-driven supply networks.\nDefense & Space Sector President David Hathaway emphasized the region’s geographic challenges and the need to connect industrial capabilities with responsive logistics support.\nThe company also intends to help U.S. and host-nation personnel develop self-sustaining capabilities and address supply chain gaps.\nThe contract brings together logistics execution and technology services rather than focusing exclusively on individual transport platforms. MANTECH described the offering as a coordinated approach intended to maintain readiness as operating conditions change.\nSOCPAC is a sub-unified command of U.S. Special Operations Command under the operational control of the regional combatant command. It works with allies and partners across the Indo-Pacific on conflict prevention and crisis response.\nHeadquartered in Herndon, Virginia, MANTECH provides cyber, data, AI, digital and other technology services to defense, space, intelligence and homeland security agencies.\nThe award adds a substantial multiyear logistics engagement to that business, with technology integration supporting the movement and sustainment of personnel and resources across the theater.\nKEY QUOTES\n“Advancing operational readiness in complex, contested environments requires responsive solutions that can anticipate and adapt to rapidly changing conditions. This award reflects how MANTECH applies holistic, high-tech capabilities and deep mission expertise to empower US PACOM with robust, data-driven supply networks, ensuring our warfighters maintain a strategic advantage wherever they operate.”\nMatt Tait, CEO Of MANTECH\n“Contested operations and logistics in the Pacific region present unique geographic and operational challenges that demand modern, flexible solutions. By integrating advanced methodologies with an industrial network of logistics capabilities, we are delivering readiness, access and speed across vast, expeditionary environments. MANTECH is enabling U.S. and host nation personnel to build self-sustaining capabilities, solve complex supply chain gaps and ensure rapid response for emergent, real-world operations.”\nDavid Hathaway, President Of MANTECH’s Defense & Space Sector\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "3e174e15df67",
+      "title": "Omani Fund joins $200m Chinese AI funding round",
+      "publisher": "Oman Observer",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUHlBeWVzUzYxdEw2UkFFMlhoQTA2TUJlVDNaYVhFYVFjcTdQOWI1bjJLS1ZCY2xnaWpWZjAwY280aXM5MC1xY1NFSnFTMzk1YWdDSVlBcVNfeGF1eHRtUURTdFA1MVA3UUlaTV9tRm5QcEFTaE1sYTlyQ1BQb1JEX0twdUpzRndOX1dGb2F5Sm9LMkZ6bkR3NjNuTzVjR0dTUkZETFpSRUJHQXfSAVpBVV95cUxQTlpYUHh3cWVrNXd1bjZ0TmdxYmZweGtBTFYtbDc1Qko5UVNQTlJieXFnZ0dwYklsVER4X3B4SXh4THpXNFVHUmNZMUZ3MU1QZV9WTk9wU0RyRlE?oc=5",
+      "published_at": "2026-11-19T16:13:40.000Z",
+      "publisher_url": "https://www.omanobserver.om",
+      "snippet": "Omani Fund joins $200m Chinese AI funding round Oman Observer",
+      "source_feed": "gnews-5",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 200000000,
+        "currency": "USD",
+        "raw": "$200m"
+      },
+      "company_guess": "Omani Fund joins $200m",
+      "group_key": "omani fund joins 200m",
+      "group_rank": 0,
+      "resolved_url": "https://www.omanobserver.om/article/1199940/business/economy/omani-fund-joins-200m-chinese-ai-funding-round",
+      "text": "Omani Fund joins $200m Chinese AI funding round\nConrad Prabhu\nPublished: 8:05 PM, Nov 19, 2026\nMegaRobo specialises in developing intelligent infrastructure connecting artificial intelligence with real-world scientific and industrial processes.\nSHARE\nMUSCAT, NOV 19\nLeading Chinese artificial intelligence and robotics company MegaRobo Technologies announced on Thursday that it has raised nearly $200 million in a major new funding round, with participation from an Omani state-backed investment fund. The investment further underscores the deepening economic and financial ties between the Sultanate of Oman and China, particularly in advanced technologies and innovation-driven industries.\nBeijing-headquartered MegaRobo said in a statement that the funding round attracted participation from several prominent international investors, including CMB International, Asia Investment Capital, Granite Asia and Sinovation Ventures.\nThe investment comes amid a notable upswing in bilateral economic engagement, highlighted by His Majesty Sultan Haitham bin Tarik's first state visit to China earlier this month, which provided fresh impetus to cooperation in manufacturing, renewable energy, technology and strategic investments.\nMegaRobo, which specialises in developing intelligent infrastructure connecting artificial intelligence with real-world scientific and industrial processes, said the new financing would support core technology development, international expansion and the growth of its AI for Science business.\nCentral to its technological offering is the proprietary One Intelligence Stack, an integrated platform combining AI models, scientific computing, robotics, laboratory automation, software and real-time experimental feedback.\nUnlike conventional AI applications that primarily analyse existing information, MegaRobo's technology enables intelligent systems to design and execute experiments, observe results and continuously refine their decision-making capabilities.\nThe company is initially concentrating on scientific discovery and pharmaceutical research, including drug target identification, molecular screening and optimisation of potential drug candidates. Its technologies have already been deployed by more than 500 customers worldwide, spanning pharmaceutical companies, biotechnology enterprises, drug discovery organisations and research institutions.\nIts Megalaxy Lab platform, serving over 200 customers, enables researchers and AI agents to conduct programmable laboratory experiments using automated systems, with results feeding directly into subsequent research cycles.\nMegaRobo is also collaborating with Tencent Cloud and Twist Bioscience on an international AI protein-design initiative involving experimental validation of more than 10,000 protein sequences.\nDaniel Huang, Founder and CEO of MegaRobo, said the next generation of AI would increasingly learn through direct interaction with the physical world, enabling breakthroughs in scientific knowledge, materials, processes and products.\nThe latest financing builds on approximately $600 million raised by MegaRobo across successive investment rounds. Its international investor base includes Goldman Sachs Alternatives, Pavilion Capital, part of Temasek's Seviora Group, Joy Capital and MPCi, alongside industry investors WuXi AppTec and Bosch Ventures.\nOman's participation adds a further dimension to growing bilateral investment flows, following a series of Oman–China industrial and technology partnerships announced around His Majesty Sultan Haitham bin Tarik's recent visit. These include initiatives spanning solar technology manufacturing, advanced industrial production and clean-energy investments, reinforcing the increasingly diversified character of economic cooperation between the two countries.\nOman Observer is now on the WhatsApp channel. Click here\nSHARE ARTICLE",
+      "text_status": "ok"
+    },
+    {
+      "id": "6028bc268e21",
+      "title": "‘AI-enabled’ radiology practice raises $100M in growth capital",
+      "publisher": "Radiology Business",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVW5lSWR4TlVzakJqMjN4RDByckZ5YzJfdTcyV2dQRG1jODdKSlpONHJhSWphb3ZhZmdaM3dHX0NEUEl1SmxMejNuMWhOMHZGTVZwc2ZrVnNEOTFfejB6YmRCbU1Cem1ZVUlsdjY4MjhyTHo2by1ZSTVZV19SQ0FWTVBCWVRCTFVhOUJ4NzE4ZFZxczZ6ZU1JTHpOcWx6RlFsT29zU09HNXEwbGtuWnpmN0JBQWxycUY1QW5HejU2SWtac0RBaXg5QzNRb0lEbWRrWUE?oc=5",
+      "published_at": "2026-11-19T08:56:56.000Z",
+      "publisher_url": "https://radiologybusiness.com",
+      "snippet": "‘AI-enabled’ radiology practice raises $100M in growth capital Radiology Business",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100M"
+      },
+      "company_guess": "‘AI-enabled",
+      "group_key": "enabled",
+      "group_rank": 0,
+      "resolved_url": "https://radiologybusiness.com/topics/healthcare-management/healthcare-economics/ai-enabled-radiology-practice-raises-100m-growth-capital",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "245ca33e3801",
+      "title": "Allocator One Launches With More Than $100 Million Across Venture Fund Vehicles",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/allocator-one-launches-with-more-than-100-million-across-venture-fund-vehicles/",
+      "published_at": "2026-11-19T18:27:20.000Z",
+      "publisher_url": null,
+      "snippet": "Allocator One has emerged from stealth after closing its oversubscribed Anchor Fund I at 23% above target and exceeding $100 million in commitments across all group vehicles.\nThe post Allocator One Launches With More Than $100 Million Across Venture Fund Vehicles appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100 Million"
+      },
+      "company_guess": "Allocator One",
+      "group_key": "allocator one",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/allocator-one-launches-with-more-than-100-million-across-venture-fund-vehicles/",
+      "text": "Allocator One Launches With More Than $100 Million Across Venture Fund Vehicles\nBy Amit Chowdhry\nToday at 1:27 PM\nAllocator One Launches With More Than $100 Million Across Venture Fund Vehicles\nAllocator One has emerged from stealth after closing its oversubscribed Anchor Fund I at 23% above target and exceeding $100 million in commitments across all group vehicles.\nThe firm was founded in 2023 by Felix Staeritz and Michael Ströck to provide anchor capital to first- and second-time venture fund managers. It has completed more than 40 fund investments, typically committing between $2 million and $10 million.\nAllocator One is the largest investor in more than 60% of the funds it backs. Through those funds, it has indirect exposure to approximately 600 companies, including 17 unicorns such as Lovable, Thinking Machines, and xAI.\nData-Led Manager Selection\nAllocator One says it reviews approximately 80% of the roughly 1,000 emerging-manager funds raised annually. It has evaluated more than 2,500 applications since 2023 and ultimately invests in approximately 1% of managers reviewed.\nIts proprietary AI system, Ori, assesses applicants across more than 75 data categories. Human investment judgment and due diligence remain part of the selection process.\nAs of September 1, 2026, Fund I’s underlying investments had returned an aggregate 11% of paid-in capital. The unaudited figure includes investments primarily valued on an unrealized basis.\nAllocator One also operates Infra One, which handles fund formation, compliance, accounting, reporting, capital calls, and investor communications. The company says this infrastructure reduces administrative work by an average of 500 hours per fund.\nKEY QUOTES:\nFinding exceptional fund managers shouldn’t depend on whose pitch reaches you. We systematically analyze thousands of emerging managers globally, combining proprietary data with investment judgement to identify and back the few specialists with a real edge before the broader market discovers them. We built the fund of funds we wanted as investors ourselves: direct-investment fees for fund of funds access. With Ori and Infra One alongside our investment process this gives us, and the managers we back, an operational and informational edge from day one.\nMichael Ströck, Founding Partner of Allocator One\nReturns are increasingly driven by manager selection. The key is finding the top specialist managers before they become obvious. That is a data problem, and we treat it like one. Investors don’t need another fee layer between them and innovation. They need access to exceptional funds, companies and co-investment opportunities, full transparency into every underlying holding, and proprietary market intelligence, all with lean economics and a clear focus on earlier liquidity. That’s what we built Allocator One to deliver. An 11% underlying DPI this early is a strong first signal that our approach is working.\nFelix Staeritz, Founding Partner of Allocator One\nI invest where I see discipline and transparency. Allocator One gives me access to strong emerging managers and valuable market intelligence.\nDirk Ströer, Media Entrepreneur and Limited Partner in Fund I\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "dfb83794d727",
+      "title": "Physical AI Startup Humyn Hits $50 Million ARR In 6 Months, Raises $47 Million",
+      "publisher": "Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLWJ2Yjh3STM2RTJmWE9XYWhCd1RFNktrM3F6Tkd2bmN3MVpQUE5FSnQyeXdjQWNOVEdDemlKS2h2NFdQV0Qzbi1FWThFZFJ6dEl4aVM3Z1ZWRHhIQUQzQzhvcklTMXozS2VySXlFTHlvb1hyOHhoOU96WHREZ1BCUzI2QzVQdw?oc=5",
+      "published_at": "2026-11-18T22:22:00.000Z",
+      "publisher_url": "https://ca.finance.yahoo.com",
+      "snippet": "Physical AI Startup Humyn Hits $50 Million ARR In 6 Months, Raises $47 Million Yahoo! Finance Canada",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 50000000,
+        "currency": "USD",
+        "raw": "$50 Million"
+      },
+      "company_guess": "Physical AI",
+      "group_key": "physical",
+      "group_rank": 0,
+      "resolved_url": "https://ca.finance.yahoo.com/news/physical-ai-startup-humyn-hits-222200354.html",
+      "text_status": "error:fetch failed"
+    },
+    {
+      "id": "77e2c178fdbd",
+      "title": "Everful Raises $48.5 Million Series A to Build the AI Infrastructure Layer for Global Commerce",
+      "publisher": "",
+      "link": "https://www.prnewswire.com/news-releases/everful-raises-48-5-million-series-a-to-build-the-ai-infrastructure-layer-for-global-commerce-302945945.html",
+      "published_at": "2026-11-19T18:15:00.000Z",
+      "publisher_url": null,
+      "snippet": "SAN FRANCISCO, Nov. 19, 2026 /PRNewswire/ -- Everful, which is building AI and data infrastructure for global commerce, today announced a $48.5 million Series A financing led by Vertex Ventures Southeast Asia & India and January Capital. Existing investors Square Peg and Lightspeed also...",
+      "source_feed": "prnewswire-vc",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 48500000,
+        "currency": "USD",
+        "raw": "$48.5 Million"
+      },
+      "company_guess": "Everful",
+      "group_key": "everful",
+      "group_rank": 0,
+      "resolved_url": "https://www.prnewswire.com/news-releases/everful-raises-48-5-million-series-a-to-build-the-ai-infrastructure-layer-for-global-commerce-302945945.html",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "ea03ac575439",
+      "title": "Everful Raises $48.5 Million Series A to Build the AI Infrastructure Layer for Global Commerce",
+      "publisher": "",
+      "link": "https://www.prnewswire.com/news-releases/everful-raises-48-5-million-series-a-to-build-the-ai-infrastructure-layer-for-global-commerce-302945927.html",
+      "published_at": "2026-11-19T18:00:00.000Z",
+      "publisher_url": null,
+      "snippet": "SAN FRANCISCO, Nov. 19, 2026 /PRNewswire/ -- Everful, which is building AI and data infrastructure for global commerce, today announced a $48.5 million Series A financing led by Vertex Ventures Southeast Asia & India and January Capital. Existing investors Square Peg and Lightspeed also...",
+      "source_feed": "prnewswire-vc",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 48500000,
+        "currency": "USD",
+        "raw": "$48.5 Million"
+      },
+      "company_guess": "Everful",
+      "group_key": "everful",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "88cd9c1e4bc6",
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "publisher": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXRnQ3BsYmJxNkZRRDV0NzlQZDJES19nQjZvbWtNYVFnNXdOMGlkTndfZWNZNEpsU2FCVUpPRExuMy1YR3hrQW52VGdRSDFLTkYwRkl6TERJR2RJUTJxY00tQS1uLTU3SjhkWWVab25KYWZXdmE5aWw0MEhVUHY5WlRjeWpaZ2lnaU1mMzJNZEw2bkRtdW9PTWRIUHdpZGJlUmtzeEJrS1h1UnYtUHpfZzRvZUlMeV9ocXJwdg?oc=5",
+      "published_at": "2026-11-19T17:00:00.000Z",
+      "publisher_url": "https://techcrunch.com",
+      "snippet": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories TechCrunch",
+      "source_feed": "gnews-g1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 48500000,
+        "currency": "USD",
+        "raw": "$48.5M"
+      },
+      "company_guess": "Former Alibaba exec’s Everful",
+      "group_key": "everful",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "27f297a759c1",
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "publisher": "Kate Park",
+      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "published_at": "2026-11-19T17:00:00.000Z",
+      "publisher_url": null,
+      "snippet": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "source_feed": "techcrunch-ai",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 48500000,
+        "currency": "USD",
+        "raw": "$48.5M"
+      },
+      "company_guess": "Former Alibaba exec’s Everful",
+      "group_key": "everful",
+      "group_rank": 3,
+      "text_status": "skipped"
+    },
+    {
+      "id": "2a6d69fa00a6",
+      "title": "Everful Raises $48.5 Million Series A to Expand AI Commerce Infrastructure",
+      "publisher": "citybiz",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV21WdHVWZTV1WEpVelZ3Z1poWXF1cWdSRV9tYktDQkxVNDRzWURUVmIzT0RsMjJIdmxRTDVxZ3VHanBRTjhyd3dCTEdrZnBPWDdlWnU5aU1yb0dMVGNRZ1E1eXdGdnNHUlFvRm00OXZFcUlSN3NOWDhTSGlZSms0QkNhOVIxSnU2Vmt6Y0g0SVFxUDE1QlREWlItOHpyREVvbTk5dmk5dmhmZnZVQzhpSWV3?oc=5",
+      "published_at": "2026-11-19T18:31:52.000Z",
+      "publisher_url": "https://www.citybiz.co",
+      "snippet": "Everful Raises $48.5 Million Series A to Expand AI Commerce Infrastructure citybiz",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 48500000,
+        "currency": "USD",
+        "raw": "$48.5 Million"
+      },
+      "company_guess": "Everful",
+      "group_key": "everful",
+      "group_rank": 4,
+      "text_status": "skipped"
+    },
+    {
+      "id": "61ab743c39d1",
+      "title": "Everful Raises $48.5M Series A to Expand AI Commerce Infrastructure",
+      "publisher": "Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGFFMDdGZWhkWEM1NDJhU3lXaUhoV212Y0JqYWZHTXZYNFZfT091M0Zyb3laYm1kWXQtVGswajBrR2tEdjJRTzBYcnZFT3BvdmtuRXRnVF9pVE9pZl9YOWJXLXBOXzAxOE1VSnNYMEcxUDUyaC12dEJPemJPZ1E0bDg3VTJHWUM1aFlOQkZCamJGUQ?oc=5",
+      "published_at": "2026-11-19T18:23:03.000Z",
+      "publisher_url": "https://www.unite.ai",
+      "snippet": "Everful Raises $48.5M Series A to Expand AI Commerce Infrastructure Unite.AI",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 48500000,
+        "currency": "USD",
+        "raw": "$48.5M"
+      },
+      "company_guess": "Everful",
+      "group_key": "everful",
+      "group_rank": 5,
+      "text_status": "skipped"
+    },
+    {
+      "id": "8df71143336f",
+      "title": "Everful Raises $48.5 Mln Series A To Build AI Infrastructure Layer For Global Commerce",
+      "publisher": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObTZhWkpKRUtXTEFSY0pER0N6NEk2QkZqQVJhQ0FZWjVrM3d4a2ljNm9kZkJPRVdGR1R4VHFHWV9ib2g4VEl1TDFVdnlvaW5RZmxXSzhFWFpETF85N1dYUEFxdG1VRGptUVY1M2pFdXNfZVpCVlRHZ0NDT01sOVU4ZUIwVzhVWEhXWHlnN2RSVnNYRThLLXhJZ3BzbTJpZC1oSjlqOEEzSDBMb0Z3Uk9EVzk2cGRTc3JzRzNQaXpCQ3AzdEZOLWFMTHNMRXE4dklUQ1pldHNrc0psZTdzWFoxS215cS1idVBmaWY0?oc=5",
+      "published_at": "2026-11-19T18:28:08.000Z",
+      "publisher_url": "https://www.tradingview.com",
+      "snippet": "Everful Raises $48.5 Mln Series A To Build AI Infrastructure Layer For Global Commerce TradingView",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Everful",
+      "group_key": "everful",
+      "group_rank": 6,
+      "text_status": "skipped"
+    },
+    {
+      "id": "5ca61b0808a0",
+      "title": "Everful Raises $48.5 Million Series A to Build the AI Infrastructure Layer for Global Commerce",
+      "publisher": "The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM3Z3VTRUZzFFbkxFTV9aR1o4ZWtYY20yNTJfdG5nRVh5Ymt4UVl2cUIxOWUyazNBMnYyRWRCYVF3aEhQTHpMS01UQVZNRExGcFl3X1dlRW5LT1RTOTlwZ1ZfdmJ2TEY3bkNtb0FnSzFIR3VWc25KMW9fdlAzOVU2YVlNekRzTUpxOGdYNTZhbUU4WURuWVMtaUh6LXpUXzVTQVNNREtmams4T3RwcXBqSmxXOF9sQVNtNWVLRHRvUnU5cTFQdjdkWndKT3MxRDdwYVFJWV9SZFhUUUNmcUhScGVfT2RVdHNIOXJuT3VZd3JJRE5qQkRn0gH8AUFVX3lxTE4tRkY2ZzJRNDExTzh6NnhyY0VlSEhvOTE2djU4SkVIWUdCUmg3UmJVa3JPNk01ZUZDcC1vVGo0THdmS2U1TUd6anFMZ0pQNzVxbjQxbTZtWG5ULW9RQ2QxcFQxemZQYjR2Skg1UTJnT1I0ekxwYk5wYVFELXIzWEFnM1ktLUhBY05JUWIySktQQ0lLSVIxNXNuRlBDUWdoTmxTZjJFYTdsMmZROEFoOTFHcXhybWNGOC1tdVo5ZWF4S0NrNVRjX2pjYUpiRU9Zbm1zNmhrWHZoeXZ0RjRfWlR2SjNtSi1vTEZONmlITEZVVkxnWXpna2R1cV9raw?oc=5",
+      "published_at": "2026-11-19T18:50:52.000Z",
+      "publisher_url": "https://www.manilatimes.net",
+      "snippet": "Everful Raises $48.5 Million Series A to Build the AI Infrastructure Layer for Global Commerce The Manila Times",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 48500000,
+        "currency": "USD",
+        "raw": "$48.5 Million"
+      },
+      "company_guess": "Everful",
+      "group_key": "everful",
+      "group_rank": 7,
+      "text_status": "skipped"
+    },
+    {
+      "id": "bc48ff5c1694",
+      "title": "Chenghengwei raises $30M Series A for edge-AI chips",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFp2UnpwcHJxRmViQkFOUVZKbzBUeDZra3NNSVM1YTJGUjdzTzBfMnBIYV82SmJzSXY5aThUODlOTmh3X1pab3IydzBDNDVjc25DU0dzZEFvZmRESzFwa2JjX2p3Ql9ZZnhfOEpYTTd2SEZubFVtZy00M3BHMW9RVktCZG1HdkhQbTFzQw?oc=5",
+      "published_at": "2026-11-19T20:11:34.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Chenghengwei raises $30M Series A for edge-AI chips Dealroom",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 30000000,
+        "currency": "USD",
+        "raw": "$30M"
+      },
+      "company_guess": "Chenghengwei",
+      "group_key": "chenghengwei",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/chenghengwei-raises-30m-series-a-for-edge-ai-chips",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "574d32f04b2f",
+      "title": "Canadian robotics firm raises $28M to fuel Arizona expansion",
+      "publisher": "ABC15 Arizona",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYjRmMy1tM1Q4SWQwaXhpX0FkcS15REI3dXltYzFTdGNhTXJGTWhnZDVDSEctQnhoMHhrUFZOYmF0ck5pTmFpZUVvQnFSS2ZrZjNNa1NHUjFkZENOcDNyOW9yQ2lHR2VHS2Fnd1RiOTNKRVdnZlpvbDNObmJyam52LTM0b005S1hwV0RkWmhYUnAwd0draGVRVl9COA?oc=5",
+      "published_at": "2026-11-19T16:03:19.000Z",
+      "publisher_url": "https://www.abc15.com",
+      "snippet": "Canadian robotics firm raises $28M to fuel Arizona expansion ABC15 Arizona",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 28000000,
+        "currency": "USD",
+        "raw": "$28M"
+      },
+      "company_guess": "Canadian robotics",
+      "group_key": "canadian robotics",
+      "group_rank": 0,
+      "resolved_url": "https://www.abc15.com/news/business/canadian-robotics-firm-raises-28m-to-fuel-arizona-expansion",
+      "text": "News Business\nCanadian robotics firm raises $28M to fuel Arizona expansion\nPrev\nNext\nYou can watch the latest headlines and weather from ABC15 Arizona in Phoenix any time on-air, online, and on the ABC15 mobile and streaming apps.\nBy:\nAmy Edelen, Phoenix Business Journal\nPosted\nShare\nCopy link Facebook Nextdoor X Threads Reddit LinkedIn Email WhatsApp Messenger Print\nAdd ABC15 as a Google Preferred Source\nA Canadian robotics startup with expansion plans in the Valley secured a large investment to scale its automated homebuilding production network across North America.\nPromise Robotics announced Nov. 17 it closed a $40 million series B round led by White Star Capital with participation from Horizons Ventures, Radical Ventures and Public Sector Pension Investment Board. The investment — in Canadian dollars — equates to roughly $28 million in U.S. dollars based on current foreign exchange rates.\n\"From our very first conversations with the Promise Robotics team, it was clear nobody is building what they're building,” Sanjay Zimmermann, general partner at White Star Capital, said. “Home construction is a massive industry that needs a new way to keep up with demand, and Promise (Robotics) is delivering it, giving builders automated production as a service through its technology, factories, and a business model designed to scale.”\nRead more of this story from the Business Journal.\nReport a typo",
+      "text_status": "ok"
+    },
+    {
+      "id": "a342198ee463",
+      "title": "First Circle Capital: Austrian Investor Raises $26 Million for African Fintechs",
+      "publisher": "www.trendingtopics.eu",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmhSZzA2dlc4MnpTaF9YOUZ3cDNxNEc4U3hKVUpLaWJWcFlxU2plbWM0cEdEdnpKajlwUVByN3laY1J0MlpUSjF5YUN3aEJJSWZJQVp0VUpGX1dHT0sxbWthNDQtel9DSEFtai11V190UGdVdklrOVVBRG1kQmthd21MaTFTYXhtN0NYcl9OOGU3NmZndC0tT01aZVZ3Zw?oc=5",
+      "published_at": "2026-11-19T10:41:31.000Z",
+      "publisher_url": "https://www.trendingtopics.eu",
+      "snippet": "First Circle Capital: Austrian Investor Raises $26 Million for African Fintechs www.trendingtopics.eu",
+      "source_feed": "gnews-g4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 26000000,
+        "currency": "USD",
+        "raw": "$26 Million"
+      },
+      "company_guess": "First Circle Capital: Austrian",
+      "group_key": "first circle capital austrian",
+      "group_rank": 0,
+      "resolved_url": "https://www.trendingtopics.eu/first-circle-capital-austrian-investor-26-million-african-fintechs/",
+      "text": "Funds\nFirst Circle Capital: Austrian Investor Raises $26 Million for African Fintechs\nJakob Steinschaden , co-produced by AI 19. November 2026, 11:41\nAgnes Aistleitner Kisuule, co-founder of First Circle Capital. © First Circle Capital\nSet Trending Topics as a preferred source on Google.\nWhile most European venture capitalists watch Africa from afar, an Austrian investor in Kampala and Nairobi is raising millions for the next generation of African fintechs.\nPan-African venture capital firm First Circle Capital has just announced the final close of its First Circle Africa Fund I at $26 million (about €23.3 million). The fund invests in fintech startups at the pre-seed and seed stages. First Circle was co-founded by Austrian-born Agnes Aistleitner together with Selma Ribica, a former executive at Kenyan mobile payments pioneer M-Pesa, and Robert Smith, a former strategy consultant with experience in East Africa. The firm is led by women and has offices in Kampala, Nairobi, Casablanca and Cape Town.\nDevelopment Banks as Backers\nThe fund is backed primarily by institutional investors from the development finance world. Its limited partners include IFC, the World Bank’s private sector arm; the French public investment bank Bpifrance; the Dutch Good Growth Fund; FSD Africa; Egypt’s small business development agency MSMEDA; the Stellar Foundation; and the Madagascar-based conglomerate Axian. IFC alone committed up to $6 million (about €5.4 million), partly from a dedicated program supporting women entrepreneurs.\nFinTech 2.0: Beyond Payments\nFirst Circle sums up its strategy as “FinTech 2.0.” The first wave of African fintechs focused mainly on payments and mobile money; now startups are meant to close the remaining gaps in the financial system. The fund invests across six areas: insurance, alternative lending, interoperability and financial infrastructure, climate fintech, fintech software and regtech. Its geographic mandate covers Kenya, Nigeria, South Africa, Egypt, Morocco, Uganda, Ghana and Francophone Africa, among others.\n“Significant gaps remain” in key areas such as financial access and interoperability, Ms. Aistleitner said. Ms. Ribica is betting heavily on A.I.: “We are particularly excited by the emergence of A.I.-native fintech companies,” she said, referring to businesses built around automation and software from day one.\nSo far, First Circle has invested in 18 startups, including:\nTurnStay: Cross-border payment infrastructure for travel bookings, based in South Africa\nWafR: Digitizing payments at neighborhood shops in Morocco\nBalad: A regulated remittance network for transfers to Egypt\nScale: Card-as-a-service infrastructure\nOrca Fraud: A.I.-based fraud detection for financial institutions\nOpareta: Software and data for mobile money agent networks\nPower: Earned wage access solutions for major African banks\nAccording to First Circle, several portfolio companies are already heading toward Series A rounds.\nThe First Circle Capital team. © First Circle Capital\nFrom Austria to East Africa\nMs. Aistleitner, whose full name is Agnes Aistleitner Kisuule, splits her time between Nairobi and Kampala. Before co-founding First Circle in 2021, she spent more than a decade as an entrepreneur in emerging markets, building textile manufacturing businesses in Jordan and Ukraine as well as a technology company in Uganda. In an interview with TechCabal, she described venture capital as a business of probability distributions in which relationships and trust matter most in Africa. Great founders, she said, are “learning machines.”\nFirst Circle is not alone in focusing on African fintech. Larger funds such as Partech Africa, TLcom Capital and Norrsken22 also invest heavily in the sector, though mostly at later stages and with much larger checks. Early-stage specialists include Nigeria’s Ventures Platform and Launch Africa Ventures.\nAfrica’s Startup Market Cools\nThe fresh capital arrives in a tough environment. According to data from Africa: The Big Deal, African startups raised about $2.4 billion from January through October, 12 percent less than in the same period last year, Nairametrics reports . In October alone, funding plunged 58 percent year over year to $183 million. The slowdown is even more visible in the breadth of the market: The number of funding rounds of $100,000 or more fell by 22 percent, and the number of active investors dropped by 16 percent.\nThat makes things tighter for early-stage startups in particular. Equity funding did rise by 5 percent, but it is spread across far fewer rounds. On top of that come risks that have traditionally deterred European investors, such as volatile currencies and a still thin track record of exits. For First Circle, that means the FinTech 2.0 thesis will only work if its portfolio companies can raise their Series A rounds in a market where the pool of investors is shrinking.\nTrending Topics Newsletter\nTwice a week for free – never miss a story!\nSubscribe\nAdvertisement\nAdvertisement\nAus Datenschutz-Gründen ist dieser Inhalt ausgeblendet. Die Einbettung von externen Inhalten kann in den Datenschutz-Einstellungen aktiviert werden:\nDatenschutz-Einstellungen",
+      "text_status": "ok"
+    },
+    {
+      "id": "b7237d9fba6d",
+      "title": "Agro Reply Raises $500,000 Seed Round Led by TurboStart to Develop AI Crop Advisory Platform",
+      "publisher": "citybiz",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSnRzTWUtSU5XZDdWUFVFYTZHdnFtYl9ISUFvOHpWRWJVTTF6Vk5qUTFtUjRTLS1ma2RsM2lPeHFvYkI5ZWlNZXhKYVVkM0JlRzV0ZDRqWjI4ZGgxemVKUW11b3FWcW44MjNPYlRPaU9TQnRwcXJjVi1tNHVrZUFXSy1RNkhJZ2NJaFlNS3czVUZvU1c0aTlUVkV4SlFBY2dXTXlfT2wtZWtDWUtLS2JYMllTM2xETFp2M0NfQ1FtSVJaS3RRX3RQOQ?oc=5",
+      "published_at": "2026-11-19T14:16:11.000Z",
+      "publisher_url": "https://www.citybiz.co",
+      "snippet": "Agro Reply Raises $500,000 Seed Round Led by TurboStart to Develop AI Crop Advisory Platform citybiz",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Agro Reply",
+      "group_key": "agro reply",
+      "group_rank": 0,
+      "resolved_url": "https://www.citybiz.co/article/936165/agro-reply-raises-500000-seed-round-led-by-turbostart-to-develop-ai-crop-advisory-platform/",
+      "text": "Please wait while your request is being verified...",
+      "text_status": "thin"
+    },
+    {
+      "id": "fec37b0af40e",
+      "title": "Agro Reply Raises $500K in Seed Funding",
+      "publisher": "FinSMEs",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeWJrVVJ4bFllVUdqSWNDSUhHVkJqNGVtUFpKc3MycU5QZW1DZDVxQ0txNUlaUm9mM0NSLWFMckwxNDZwY29pM1Vobk9Xcmk3cDhpRlJabktVcXYxaTlpZ0R0NmVvNVA5SFZkQUl3dnZCYnVOZVBnMTFZb0ROMWFOWg?oc=5",
+      "published_at": "2026-11-19T11:03:14.000Z",
+      "publisher_url": "https://www.finsmes.com",
+      "snippet": "Agro Reply Raises $500K in Seed Funding FinSMEs",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Agro Reply",
+      "group_key": "agro reply",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "5dce23ada6fd",
+      "title": "Khaime raises $500,000 pre-seed funding to build the future of AI-powered commerce",
+      "publisher": "Innovation Village",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbnN0OURDUjBSMlpzRy03UFJ2YWk5c1BuU1FkMUJtTTRLc1otQ3ZnbTZ6bGpfcWQ3TU1aNzhxS2dpQVpuX1VjMU1KNllKZXRFMlFfWWNtSW5NemZmU0hzZ0phRnhnb3R2Ykw4Wm42UkdBZjFyYkpIV2Z6N3B5N2NTX01TLUlwX3FUd1VwaHU3TW5BbGdYbFNURkJEbjFuVnlqV1FYSkN3WFdmRWJZOUVIbkVB?oc=5",
+      "published_at": "2026-11-19T08:29:42.000Z",
+      "publisher_url": "https://innovation-village.com",
+      "snippet": "Khaime raises $500,000 pre-seed funding to build the future of AI-powered commerce Innovation Village",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Khaime",
+      "group_key": "khaime",
+      "group_rank": 0,
+      "resolved_url": "https://innovation-village.com/khaime-raises-500000-pre-seed-funding-to-build-the-future-of-ai-powered-commerce/",
+      "text": "Khaime raises $500,000 pre-seed funding to build the future of AI-powered commerce\n0\nBy\nTapiwa Matthew Mutisi\non\nNovember 19, 2026\nArtificial Intelligence , Business , Ecommerce , Funding , News , Startups\nKhaime, a next-generation commerce platform designed specifically for the emerging era of AI-driven shopping, has secured $500,000 in pre-seed funding. The investment round was led by Launch Africa Ventures , with additional participation from angel investors and the company’s early friends-and-family backers.\nThe funding comes at a time when artificial intelligence is rapidly transforming online commerce, introducing a future where AI agents, rather than humans, increasingly search for products, compare prices, negotiate purchases, and complete transactions on behalf of consumers.\nBuilding Stores for AI Shoppers\nFounded and led by Gabriel Olokunwolu, Khaime is positioning itself at the intersection of e-commerce and artificial intelligence. Unlike conventional online stores built solely for human customers, Khaime is designed to support both human buyers and AI-powered shopping agents operating on users’ behalf.\nThe company believes that commerce is entering a new phase where intelligent agents will become key participants in the purchasing process. As a result, merchants will need platforms that can communicate, negotiate, and transact seamlessly with these AI systems.\nAccording to Adeola Adedewe , CEO of Kredete, this shift is already underway.\nWe talk a lot about the next customer not being human. In commerce, that is already starting: agents shop, compare and pay for us. Khaime is building the stores they can buy from.\nAn AI-Native Commerce Platform\nKhaime’s platform enables merchants to sell to customers globally while supporting a wide range of payment preferences and currencies. The platform currently supports more than 120 currencies and integrates local payment options, allowing consumers to pay using familiar methods regardless of their location.\nAt the heart of the platform is Khai, Khaime’s proprietary AI shopping and sales assistant.\nKhai is designed to help businesses automate key aspects of customer engagement and sales operations by:\nManaging customer conversations\nConverting chats into completed purchases\nFollowing up on abandoned carts\nRecovering potentially lost sales\nProviding automated support throughout the buying process\nImportantly, merchants remain in control. Businesses can define specific rules and parameters governing how Khai interacts with customers and manages transactions.\nHelping Merchants Become Discoverable in the AI Economy\nAs AI increasingly influences how consumers find products and services, Khaime is helping businesses prepare for a future where visibility extends beyond traditional search engines.\nThe platform assigns every online store a discoverability score, which evaluates how easily merchants can be found by both search engines and AI assistants. Khaime then provides actionable recommendations in plain language, helping businesses improve their visibility and increase their chances of appearing in AI-generated shopping recommendations.\nThis functionality addresses what industry experts see as a growing challenge: ensuring merchants are discoverable not only by human customers but also by intelligent agents making purchasing decisions.\nBacked by Visa and Growing Rapidly\nKhaime has already gained recognition within the broader fintech and commerce ecosystem. The company is currently participating in the Visa Africa FinTech Accelerator , a three-month programme created to support innovative African fintech startups and accelerate their growth.\nThe platform has also demonstrated strong adoption, onboarding more than 5,000 merchants who sell products and services to customers across multiple international markets.\nWhy Launch Africa Invested\nFor Launch Africa Ventures , the investment represents a strategic bet on the future of AI-enabled commerce, particularly for businesses operating in emerging markets.\nUwem Uwemakpan, Head of Investment at Launch Africa Ventures, believes that major technology and payment companies are currently establishing the standards that will define how AI agents interact with online stores.\nThis year, the biggest payment networks and retailers opened their systems to AI agents. The standards being set now will decide which merchants those agents can find, pay, negotiate with, and restock from. Most businesses in emerging markets are not yet part of that picture. Khaime gets them in early. We led this round because Gabriel is building that layer for the markets we invest in.\nThe investor sees significant potential for Khaime to ensure merchants across Africa and other emerging economies are not left behind as AI increasingly shapes global commerce.\nHow the New Funding Will Be Used\nKhaime plans to deploy the newly raised capital across five strategic growth areas:\n1. AI Agent Payments\nThe company will develop payment infrastructure that allows AI agents to make purchases autonomously while operating within spending limits and rules set by shoppers.\n2. Social Commerce Expansion\nKhaime aims to strengthen selling capabilities across major social platforms including:\nInstagram\nWhatsApp\nTikTok\nThis move reflects the growing importance of social commerce in consumer purchasing journeys.\n3. Improving Khai AI\nThe company plans to further enhance the reliability, intelligence, and performance of Khai while expanding the controls available to merchants.\n4. Expanding Global Payment Options\nAdditional funding will support the rollout of more payout channels and local payment methods across multiple countries, making cross-border commerce easier for merchants and customers alike.\n5. Team Growth\nKhaime intends to expand its engineering and customer support functions to support product development and international growth initiatives.\nAbout Launch Africa Ventures\nFounded in 2020 by Zachariah George and Janade Du Plessis , Launch Afric",
+      "text_status": "ok"
+    },
+    {
+      "id": "ee02e31d9381",
+      "title": "Cyient Semiconductors Secures $10 Mn Investment From GlobalFoundries",
+      "publisher": "Analytics India Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2txbG1nM1BrNzJCSm5ac0lsdHhPM1lYWlNsY0xkaUg3REJGOUJ2bzU5enFwbXZZbjhXbHJOT0ozT1NhOFh3LXRadVJ0YV9pdVBCQkh3T2VvNE95UHpqbzVwZnRpeTNnZ29LX1dJZGt1N0NEa3BjNEhMSWZQdTJHU2xxWHkzLXRIMHNxZTRENlA3T3cwMzhmSTYyN2RYa0tEWV8tS2FQVHI?oc=5",
+      "published_at": "2026-11-19T14:07:46.000Z",
+      "publisher_url": "https://analyticsindiamag.com",
+      "snippet": "Cyient Semiconductors Secures $10 Mn Investment From GlobalFoundries Analytics India Magazine",
+      "source_feed": "gnews-5",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Cyient Semiconductors",
+      "group_key": "cyient semiconductors",
+      "group_rank": 0,
+      "resolved_url": "https://analyticsindiamag.com/ai-news/cyient-semiconductors-secures-10-mn-investment-from-globalfoundries",
+      "text": "Key takeaways\nCyient Semiconductors has secured a $10 million investment from GlobalFoundries, valuing the company at $510 million.\nThe funding will enhance Cyient's custom silicon and ASIC capabilities, improving supply chain resilience and manufacturing access.\nThis investment is seen as a validation of India's semiconductor innovation potential, strengthening its position in the global market.\nCyient aims to contribute to semiconductor design and product development across various industries, including automotive and AI.\nThe partnership with GlobalFoundries is expected to support Cyient's long-term growth and global customer engagements.\nTakeaways drafted with AI from the article text.\nCyient Semiconductors has approved a $10 million equity investment from US-based chipmaker GlobalFoundries (GF). The transaction will take place at a pre-money valuation of $490 million.\nIt follows Cyient Semiconductors' recent funding round led by Edelweiss. The combined investment values the company at a $510 million post-money valuation.\nCyient Semiconductors plans to use the investment to expand its turnkey custom application-specific integrated circuit (ASIC) capabilities. It will also accelerate custom silicon development and strengthen long-term wafer supply assurance. The company expects the partnership to improve supply chain resilience and access to advanced manufacturing capabilities.\n\"This investment is a strong validation of our vision and the opportunity ahead for semiconductor innovation from India,\" Suman Narayan, CEO of Cyient Semiconductors, said in a statement.\nThe investment comes as India seeks to strengthen its position in the global semiconductor value chain. Cyient aims to contribute through semiconductor design , product development, and intellectual property creation in India. The company serves customers across automotive, industrial, AI, communications, and data centre markets.\nNarayan said the investment would help accelerate innovation and strengthen the company's engineering capabilities. It would also support its global customer engagements and long-term growth strategy.\n\"Having a leading semiconductor ecosystem partner as a strategic investor validates our technology and business model,\" he added.\nCyient Semiconductors provides custom ASIC and application-specific standard product (ASSP) solutions. Its capabilities cover chip architecture, design, manufacturing, packaging, testing, and qualification. The company also focuses on analogue mixed-signal technology, intelligent power and advanced semiconductor platforms.\nIt operates design centres in India, Belgium, and the US. Its customers include companies in data centres, robotics, automotive, and industrial automation.\n$10 million\nValuation $490 million\nLed by Edelweiss\nPublished 19 Nov 2026\nSpotted an error? Tell our editors . Read our editorial standards and corrections . Cyient semiconductor Hyderabad India semiconductor mission\nFollow AIM\nPreferred Source Google News WhatsApp Telegram",
+      "text_status": "ok"
+    },
+    {
+      "id": "f801d5cab00d",
+      "title": "RHISE AI Launches European Personal AI Platform Lucie",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/rhise-ai-launches-european-personal-ai-platform-lucie/",
+      "published_at": "2026-11-19T18:33:21.000Z",
+      "publisher_url": null,
+      "snippet": "RHISE AI has raised an angel round from more than 40 investors to develop Lucie, a personal AI platform connecting health, professional, and personal information.\nThe post RHISE AI Launches European Personal AI Platform Lucie appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "RHISE AI",
+      "group_key": "rhise",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/rhise-ai-launches-european-personal-ai-platform-lucie/",
+      "text": "RHISE AI Launches European Personal AI Platform Lucie\nBy Amit Chowdhry\nToday at 1:33 PM\nRHISE AI Launches European Personal AI Platform Lucie\nRHISE AI has raised an angel round from more than 40 investors to develop Lucie, a personal AI platform connecting health, professional, and personal information.\nInvestors include Prince Max von und zu Liechtenstein, Dr. Klaus Kleinfeld, Raoul Heraeus, and Michael Baum. The round’s financial size was not disclosed.\nLucie is available on iPhone and Mac in English and German.\nProactive Personal Assistance\nLucie can connect information from calendars, inboxes, and wearable health devices. RHISE AI’s internally developed Heartbeat multi-agent system works in the background to identify items requiring attention, recommend next steps, and act after receiving user approval.\nMore than half of Lucie’s active users have connected live health information from a wearable device.\nRHISE AI says personal information is hosted on European cloud infrastructure in Germany and is not sold.\nThe company was founded by Andy Loy, previously the founder of industrial AI company KONUX, alongside Danil Gontovnik, Samy Samandjeu, and Chris Seybold.\nKEY QUOTES:\nPersonal AI will soon know more about us than any technology before it. The question is who it works for. Most of it is being built to capture attention. Everyone in this round has built something that lasted, and everyone in it wants Europe to build this category, not rent it.\nAndy Loy, Co-Founder and CEO of RHISE AI\nMost AI waits to be asked. Lucie works in the background, so you don’t have to carry everything in your head. It suggests what to do, and nothing happens without your say.\nDanil Gontovnik, Co-Founder and CTO of RHISE AI\nIndustrial AI showed what European engineering can do. Now this team is bringing the same rigour to the most personal technology of all.\nDr. Klaus Kleinfeld, Former CEO of Siemens, Alcoa, and NEOM\nEuropean society deserves sovereign AI that serves people and does not consume them.\nPrince Max von und zu Liechtenstein, CEO of LGT\nI’ve spent 35 years building and backing technology that wanted more of people’s time. Lucie gives it back. I invested, and I use it daily.\nMichael Baum, Founding CEO of Splunk\nOur future will be shaped more and more by technology. But true progress means making sure humanity benefits from it, rather than losing what makes us human. I believe technology should empower us to reconnect with ourselves, with each other, and with what truly matters. That’s why I believe in Lucie.\nRaoul Heraeus, Managing Partner of ALERA Capital\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    }
+  ]
+}
