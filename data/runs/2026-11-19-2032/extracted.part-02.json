@@ -1,0 +1,159 @@
+{
+ "run_date": "2026-11-19-2032",
+ "extractor": "claude-code routine",
+ "notes": "Evidence for RHISE angel round and Khaime taken from article text.",
+ "rows": [
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "hq_city": null,
+   "hq_state": null,
+   "lead_investors": [
+    "TurboStart"
+   ],
+   "investors": [
+    "TurboStart"
+   ],
+   "exclude_reason": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "group_key": "agro reply",
+   "candidate_ids": [
+    "b7237d9fba6d",
+    "fec37b0af40e"
+   ],
+   "company": "Agro Reply",
+   "amount_usd": 500000,
+   "announced_date": "2026-11-19",
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI crop advisory platform.",
+   "description": "AI crop advisory platform.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "$500,000 Seed Round",
+    "round": "Seed Round",
+    "lead": "Led by TurboStart",
+    "investors": "TurboStart"
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/936165/agro-reply-raises-500000-seed-round-led-by-turbostart-to-develop-ai-crop-advisory-platform/"
+   ],
+   "run_date": "2026-11-19-2032"
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "hq_city": null,
+   "hq_state": null,
+   "lead_investors": [
+    "Launch Africa Ventures"
+   ],
+   "investors": [
+    "Launch Africa Ventures"
+   ],
+   "exclude_reason": null,
+   "round_type": "Pre-Seed",
+   "stage_bucket": "Seed",
+   "group_key": "khaime",
+   "candidate_ids": [
+    "5dce23ada6fd"
+   ],
+   "company": "Khaime",
+   "amount_usd": 500000,
+   "announced_date": "2026-11-19",
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-driven commerce platform with AI shopping assistant.",
+   "description": "Commerce platform built for AI shopping agents and merchants.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "$500,000 in pre-seed funding",
+    "round": "pre-seed",
+    "lead": "led by Launch Africa Ventures",
+    "investors": "Launch Africa Ventures"
+   },
+   "source_urls": [
+    "https://innovation-village.com/khaime-raises-500000-pre-seed-funding-to-build-the-future-of-ai-powered-commerce/"
+   ],
+   "run_date": "2026-11-19-2032"
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "hq_city": null,
+   "hq_state": null,
+   "lead_investors": [],
+   "investors": [
+    "GlobalFoundries"
+   ],
+   "exclude_reason": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "group_key": "cyient semiconductors",
+   "candidate_ids": [
+    "ee02e31d9381"
+   ],
+   "company": "Cyient Semiconductors",
+   "amount_usd": 10000000,
+   "announced_date": "2026-11-19",
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Custom ASIC design; no AI product claim.",
+   "description": "Indian custom ASIC and ASSP semiconductor company.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "$10 million equity investment",
+    "round": "a $10 million equity investment from US-based chipmaker GlobalFoundries",
+    "lead": null,
+    "investors": "GlobalFoundries"
+   },
+   "run_date": "2026-11-19-2032",
+   "source_urls": [
+    "https://analyticsindiamag.com/ai-news/cyient-semiconductors-secures-10-mn-investment-from-globalfoundries"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "hq_city": null,
+   "hq_state": null,
+   "lead_investors": [],
+   "investors": [
+    "Prince Max von und zu Liechtenstein",
+    "Klaus Kleinfeld",
+    "Raoul Heraeus",
+    "Michael Baum"
+   ],
+   "exclude_reason": null,
+   "round_type": "Other",
+   "stage_bucket": "Seed",
+   "group_key": "rhise",
+   "candidate_ids": [
+    "f801d5cab00d"
+   ],
+   "company": "RHISE AI",
+   "amount_usd": null,
+   "announced_date": "2026-11-19",
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Personal AI platform.",
+   "description": "European personal AI platform Lucie connecting health, professional and personal information.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "The round’s financial size was not disclosed.",
+    "round": "angel round",
+    "lead": null,
+    "investors": "Prince Max von und zu Liechtenstein, Dr. Klaus Kleinfeld, Raoul Heraeus, and Michael Baum"
+   },
+   "source_urls": [
+    "https://pulse2.com/rhise-ai-launches-european-personal-ai-platform-lucie/"
+   ],
+   "run_date": "2026-11-19-2032"
+  }
+ ]
+}

@@ -1,0 +1,494 @@
+{
+  "run_date": "2026-11-19-2032",
+  "validated_at": "2026-11-19T23:07:43.170Z",
+  "rows": [
+    {
+      "website": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "hq_city": null,
+      "hq_state": null,
+      "lead_investors": [],
+      "investors": [],
+      "exclude_reason": "not-funding",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "group_key": "nyc startups",
+      "candidate_ids": [
+        "91ed9ae7a315"
+      ],
+      "company": "NYC Startups (Q3 2026 roundup)",
+      "amount_usd": null,
+      "announced_date": "2026-11-19",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Quarterly market report, not a company.",
+      "description": "Quarterly report on NYC venture funding.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "$5.69B",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.alleywatch.com/2026/11/nyc-venture-capital-q3-2026/"
+      ],
+      "run_date": "2026-11-19-2032"
+    },
+    {
+      "website": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "hq_city": "Herndon",
+      "hq_state": "VA",
+      "lead_investors": [],
+      "investors": [],
+      "exclude_reason": "not-funding",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "group_key": "mantech",
+      "candidate_ids": [
+        "6c098d4c5faa"
+      ],
+      "company": "MANTECH",
+      "amount_usd": null,
+      "announced_date": "2026-11-19",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Government contractor; contract award, not funding.",
+      "description": "Defense and intelligence technology services contractor.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "$2.9 billion contract",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://pulse2.com/mantech-wins-2-9-billion-indo-pacific-logistics-and-sustainment-contract/"
+      ],
+      "run_date": "2026-11-19-2032"
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": "\"nearly $200 million\"",
+      "hq_city": "Beijing",
+      "hq_state": null,
+      "lead_investors": [],
+      "investors": [
+        "CMB International",
+        "Asia Investment Capital",
+        "Granite Asia",
+        "Sinovation Ventures"
+      ],
+      "exclude_reason": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "group_key": "omani fund joins 200m",
+      "candidate_ids": [
+        "3e174e15df67"
+      ],
+      "company": "MegaRobo Technologies",
+      "amount_usd": 200000000,
+      "announced_date": "2026-11-19",
+      "hq_country": "CN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI and lab-automation robotics for scientific discovery.",
+      "description": "Beijing-based AI and robotics company building intelligent infrastructure for AI-driven scientific and pharmaceutical research.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "raised nearly $200 million",
+        "round": null,
+        "lead": null,
+        "investors": "CMB International, Asia Investment Capital, Granite Asia and Sinovation Ventures"
+      },
+      "source_urls": [
+        "https://www.omanobserver.om/article/1199940/business/economy/omani-fund-joins-200m-chinese-ai-funding-round"
+      ],
+      "run_date": "2026-11-19-2032"
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "hq_city": null,
+      "hq_state": null,
+      "lead_investors": [],
+      "investors": [],
+      "exclude_reason": "fund",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "group_key": "allocator one",
+      "candidate_ids": [
+        "245ca33e3801"
+      ],
+      "company": "Allocator One",
+      "amount_usd": 100000000,
+      "announced_date": "2026-11-19",
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Venture fund of funds.",
+      "description": "Fund of funds anchoring emerging venture managers.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "exceeding $100 million in commitments",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://pulse2.com/allocator-one-launches-with-more-than-100-million-across-venture-fund-vehicles/"
+      ],
+      "run_date": "2026-11-19-2032"
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "hq_city": null,
+      "hq_state": null,
+      "lead_investors": [],
+      "investors": [],
+      "exclude_reason": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "group_key": "physical",
+      "candidate_ids": [
+        "dfb83794d727"
+      ],
+      "company": "Humyn",
+      "amount_usd": 47000000,
+      "announced_date": "2026-11-18",
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Described as a physical AI startup.",
+      "description": "Physical AI startup reporting $50M ARR.",
+      "confidence": 0.4,
+      "evidence": {
+        "amount": "Raises $47 Million",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://ca.finance.yahoo.com/news/physical-ai-startup-humyn-hits-222200354.html"
+      ],
+      "run_date": "2026-11-19-2032"
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "lead_investors": [
+        "Vertex Ventures Southeast Asia & India",
+        "January Capital"
+      ],
+      "investors": [
+        "Vertex Ventures Southeast Asia & India",
+        "January Capital",
+        "Square Peg",
+        "Lightspeed"
+      ],
+      "exclude_reason": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "group_key": "everful",
+      "candidate_ids": [
+        "77e2c178fdbd",
+        "ea03ac575439",
+        "88cd9c1e4bc6",
+        "27f297a759c1"
+      ],
+      "company": "Everful",
+      "amount_usd": 48500000,
+      "announced_date": "2026-11-19",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Builds AI and data infrastructure for global commerce.",
+      "description": "AI and data infrastructure connecting retailers with overseas factories for factory-direct sourcing.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "$48.5 million Series A financing",
+        "round": "$48.5 million Series A",
+        "lead": "led by Vertex Ventures Southeast Asia & India and January Capital",
+        "investors": "Existing investors Square Peg and Lightspeed"
+      },
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/everful-raises-48-5-million-series-a-to-build-the-ai-infrastructure-layer-for-global-commerce-302945945.html",
+        "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
+      ],
+      "run_date": "2026-11-19-2032"
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "hq_city": null,
+      "hq_state": null,
+      "lead_investors": [],
+      "investors": [],
+      "exclude_reason": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "group_key": "chenghengwei",
+      "candidate_ids": [
+        "bc48ff5c1694"
+      ],
+      "company": "Chenghengwei",
+      "amount_usd": 30000000,
+      "announced_date": "2026-11-19",
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Edge-AI chips.",
+      "description": "Edge-AI chip startup.",
+      "confidence": 0.4,
+      "evidence": {
+        "amount": "raises $30M Series A",
+        "round": "Series A",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://app.dealroom.co/news/note/chenghengwei-raises-30m-series-a-for-edge-ai-chips"
+      ],
+      "run_date": "2026-11-19-2032"
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": "C$40M, roughly $28M USD per article",
+      "hq_city": null,
+      "hq_state": null,
+      "lead_investors": [
+        "White Star Capital"
+      ],
+      "investors": [
+        "White Star Capital",
+        "Horizons Ventures",
+        "Radical Ventures",
+        "Public Sector Pension Investment Board"
+      ],
+      "exclude_reason": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "group_key": "canadian robotics",
+      "candidate_ids": [
+        "574d32f04b2f"
+      ],
+      "company": "Promise Robotics",
+      "amount_usd": 28000000,
+      "announced_date": "2026-11-17",
+      "hq_country": "CA",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Robotics-based automated homebuilding production.",
+      "description": "Canadian robotics startup offering automated homebuilding production as a service.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "$40 million series B round",
+        "round": "series B round",
+        "lead": "led by White Star Capital",
+        "investors": "White Star Capital with participation from Horizons Ventures, Radical Ventures and Public Sector Pension Investment Board"
+      },
+      "source_urls": [
+        "https://www.abc15.com/news/business/canadian-robotics-firm-raises-28m-to-fuel-arizona-expansion"
+      ],
+      "run_date": "2026-11-19-2032"
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "hq_city": null,
+      "hq_state": null,
+      "lead_investors": [],
+      "investors": [],
+      "exclude_reason": "fund",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "group_key": "first circle capital austrian",
+      "candidate_ids": [
+        "a342198ee463"
+      ],
+      "company": "First Circle Capital",
+      "amount_usd": 26000000,
+      "announced_date": "2026-11-19",
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Venture fund.",
+      "description": "Pan-African fintech VC fund closing Fund I.",
+      "confidence": 0.95,
+      "evidence": {
+        "amount": "final close of its First Circle Africa Fund I at $26 million",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.trendingtopics.eu/first-circle-capital-austrian-investor-26-million-african-fintechs/"
+      ],
+      "run_date": "2026-11-19-2032"
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "hq_city": null,
+      "hq_state": null,
+      "lead_investors": [
+        "TurboStart"
+      ],
+      "investors": [
+        "TurboStart"
+      ],
+      "exclude_reason": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "group_key": "agro reply",
+      "candidate_ids": [
+        "b7237d9fba6d",
+        "fec37b0af40e"
+      ],
+      "company": "Agro Reply",
+      "amount_usd": 500000,
+      "announced_date": "2026-11-19",
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI crop advisory platform.",
+      "description": "AI crop advisory platform.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "$500,000 Seed Round",
+        "round": "Seed Round",
+        "lead": "Led by TurboStart",
+        "investors": "TurboStart"
+      },
+      "source_urls": [
+        "https://www.citybiz.co/article/936165/agro-reply-raises-500000-seed-round-led-by-turbostart-to-develop-ai-crop-advisory-platform/"
+      ],
+      "run_date": "2026-11-19-2032"
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "hq_city": null,
+      "hq_state": null,
+      "lead_investors": [
+        "Launch Africa Ventures"
+      ],
+      "investors": [
+        "Launch Africa Ventures"
+      ],
+      "exclude_reason": null,
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "group_key": "khaime",
+      "candidate_ids": [
+        "5dce23ada6fd"
+      ],
+      "company": "Khaime",
+      "amount_usd": 500000,
+      "announced_date": "2026-11-19",
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI-driven commerce platform with AI shopping assistant.",
+      "description": "Commerce platform built for AI shopping agents and merchants.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "$500,000 in pre-seed funding",
+        "round": "pre-seed",
+        "lead": "led by Launch Africa Ventures",
+        "investors": "Launch Africa Ventures"
+      },
+      "source_urls": [
+        "https://innovation-village.com/khaime-raises-500000-pre-seed-funding-to-build-the-future-of-ai-powered-commerce/"
+      ],
+      "run_date": "2026-11-19-2032"
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "hq_city": null,
+      "hq_state": null,
+      "lead_investors": [],
+      "investors": [
+        "GlobalFoundries"
+      ],
+      "exclude_reason": null,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "group_key": "cyient semiconductors",
+      "candidate_ids": [
+        "ee02e31d9381"
+      ],
+      "company": "Cyient Semiconductors",
+      "amount_usd": 10000000,
+      "announced_date": "2026-11-19",
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Custom ASIC design; no AI product claim.",
+      "description": "Indian custom ASIC and ASSP semiconductor company.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "$10 million equity investment",
+        "round": "a $10 million equity investment from US-based chipmaker GlobalFoundries",
+        "lead": null,
+        "investors": "GlobalFoundries"
+      },
+      "run_date": "2026-11-19-2032",
+      "source_urls": [
+        "https://analyticsindiamag.com/ai-news/cyient-semiconductors-secures-10-mn-investment-from-globalfoundries"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "hq_city": null,
+      "hq_state": null,
+      "lead_investors": [],
+      "investors": [
+        "Prince Max von und zu Liechtenstein",
+        "Klaus Kleinfeld",
+        "Raoul Heraeus",
+        "Michael Baum"
+      ],
+      "exclude_reason": null,
+      "round_type": "Other",
+      "stage_bucket": "Seed",
+      "group_key": "rhise",
+      "candidate_ids": [
+        "f801d5cab00d"
+      ],
+      "company": "RHISE AI",
+      "amount_usd": null,
+      "announced_date": "2026-11-19",
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Personal AI platform.",
+      "description": "European personal AI platform Lucie connecting health, professional and personal information.",
+      "confidence": 0.7,
+      "evidence": {
+        "amount": "The round’s financial size was not disclosed.",
+        "round": "angel round",
+        "lead": null,
+        "investors": "Prince Max von und zu Liechtenstein, Dr. Klaus Kleinfeld, Raoul Heraeus, and Michael Baum"
+      },
+      "source_urls": [
+        "https://pulse2.com/rhise-ai-launches-european-personal-ai-platform-lucie/"
+      ],
+      "run_date": "2026-11-19-2032"
+    }
+  ],
+  "problems": [],
+  "counts": {
+    "input": 13,
+    "accepted": 13,
+    "rejected": 0
+  }
+}
