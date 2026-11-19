@@ -1,0 +1,1344 @@
+{
+  "run_date": "2026-11-19",
+  "generated_at": "2026-11-19T13:07:43.525Z",
+  "window_days": 2,
+  "range": null,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 200,
+        "items": 100
+      },
+      {
+        "id": "gnews-2",
+        "status": 200,
+        "items": 45
+      },
+      {
+        "id": "gnews-3",
+        "status": 200,
+        "items": 67
+      },
+      {
+        "id": "gnews-4",
+        "status": 200,
+        "items": 31
+      },
+      {
+        "id": "gnews-5",
+        "status": 200,
+        "items": 31
+      },
+      {
+        "id": "gnews-6",
+        "status": 200,
+        "items": 23
+      },
+      {
+        "id": "gnews-7",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-8",
+        "status": 200,
+        "items": 9
+      },
+      {
+        "id": "gnews-g1",
+        "status": 200,
+        "items": 47
+      },
+      {
+        "id": "gnews-g2",
+        "status": 200,
+        "items": 50
+      },
+      {
+        "id": "gnews-g3",
+        "status": 200,
+        "items": 24
+      },
+      {
+        "id": "gnews-g4",
+        "status": 200,
+        "items": 25
+      },
+      {
+        "id": "gnews-g5",
+        "status": 200,
+        "items": 36
+      },
+      {
+        "id": "gnews-g6",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "gnews-g7",
+        "status": 200,
+        "items": 16
+      },
+      {
+        "id": "gnews-g8",
+        "status": 200,
+        "items": 21
+      },
+      {
+        "id": "gnews-g9",
+        "status": 200,
+        "items": 32
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "pulse2",
+        "status": 200,
+        "items": 120
+      },
+      {
+        "id": "citybiz",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 40
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 890,
+    "prefiltered": 132,
+    "dropped": {
+      "not_funding": 227,
+      "no_ai_hint": 65,
+      "below_min": 142,
+      "fund_close": 11,
+      "seen": 252,
+      "duplicate_link": 56,
+      "known_round": 87,
+      "noise": 5
+    },
+    "groups": 74,
+    "selected_groups": 32,
+    "candidates": 45,
+    "articles_fetched": 20,
+    "google_rate_limited": false
+  },
+  "groups": [
+    {
+      "key": "blue economy",
+      "company_guess": "Blue Economy",
+      "amount_hint_usd": 10000000000,
+      "candidate_ids": [
+        "3709a8e7b834"
+      ]
+    },
+    {
+      "key": "whats next for recruiting",
+      "company_guess": "What’s Next For Recruiting",
+      "amount_hint_usd": 4000000000,
+      "candidate_ids": [
+        "b5b5f9bd51af"
+      ]
+    },
+    {
+      "key": "genesis",
+      "company_guess": "Genesis AI",
+      "amount_hint_usd": 3500000000,
+      "candidate_ids": [
+        "1bfe46d0ecf9"
+      ]
+    },
+    {
+      "key": "onward therapeutics",
+      "company_guess": "Onward Therapeutics",
+      "amount_hint_usd": 900000000,
+      "candidate_ids": [
+        "787031a00888"
+      ]
+    },
+    {
+      "key": "mexicos electric utility",
+      "company_guess": "Mexico’s Electric Utility",
+      "amount_hint_usd": 776000000,
+      "candidate_ids": [
+        "360a6f5d2927"
+      ]
+    },
+    {
+      "key": "privia health",
+      "company_guess": "Privia Health",
+      "amount_hint_usd": 374000000,
+      "candidate_ids": [
+        "359a333f6bcd"
+      ]
+    },
+    {
+      "key": "f35a53839de8",
+      "company_guess": "AI",
+      "amount_hint_usd": 280000000,
+      "candidate_ids": [
+        "f35a53839de8"
+      ]
+    },
+    {
+      "key": "china",
+      "company_guess": "China AI",
+      "amount_hint_usd": 200000000,
+      "candidate_ids": [
+        "bc7df0209499"
+      ]
+    },
+    {
+      "key": "megarobo",
+      "company_guess": "MegaRobo",
+      "amount_hint_usd": 200000000,
+      "candidate_ids": [
+        "8c8cbd110dd4",
+        "5214f77f6e00"
+      ]
+    },
+    {
+      "key": "marrow therapeutics",
+      "company_guess": "Marrow Therapeutics",
+      "amount_hint_usd": 173000000,
+      "candidate_ids": [
+        "fe0374e4ccec"
+      ]
+    },
+    {
+      "key": "brazilian fintech nomad",
+      "company_guess": "Brazilian fintech Nomad",
+      "amount_hint_usd": 172000000,
+      "candidate_ids": [
+        "0179890c6950"
+      ]
+    },
+    {
+      "key": "jaan tallinn",
+      "company_guess": "Jaan Tallinn",
+      "amount_hint_usd": 124000000,
+      "candidate_ids": [
+        "e1dde7eda61b"
+      ]
+    },
+    {
+      "key": "linq",
+      "company_guess": "Linq",
+      "amount_hint_usd": 90000000,
+      "candidate_ids": [
+        "725e7e357f27",
+        "e30c9165cd9b",
+        "f95552b89da2",
+        "0b242231dfe7",
+        "8d8d5d682772",
+        "412c6a5b7091"
+      ]
+    },
+    {
+      "key": "birmingham startup",
+      "company_guess": "Birmingham startup",
+      "amount_hint_usd": 90000000,
+      "candidate_ids": [
+        "e795e532d6ff"
+      ]
+    },
+    {
+      "key": "pulley",
+      "company_guess": "Pulley",
+      "amount_hint_usd": 64000000,
+      "candidate_ids": [
+        "df1359d29b52"
+      ]
+    },
+    {
+      "key": "physical",
+      "company_guess": "Physical AI",
+      "amount_hint_usd": 50000000,
+      "candidate_ids": [
+        "48e3f9e76632"
+      ]
+    },
+    {
+      "key": "wilson sonsini",
+      "company_guess": "Wilson Sonsini",
+      "amount_hint_usd": 45000000,
+      "candidate_ids": [
+        "bde45836cc47"
+      ]
+    },
+    {
+      "key": "canadian robotics",
+      "company_guess": "Canadian robotics",
+      "amount_hint_usd": 28000000,
+      "candidate_ids": [
+        "07f3ea4114b9"
+      ]
+    },
+    {
+      "key": "glasspoint",
+      "company_guess": "GlassPoint",
+      "amount_hint_usd": 24000000,
+      "candidate_ids": [
+        "bcca74ac925e",
+        "61bb629322b8"
+      ]
+    },
+    {
+      "key": "protecting where software",
+      "company_guess": "Protecting where software",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "90d9b6fdbd7b"
+      ]
+    },
+    {
+      "key": "live experiences platform",
+      "company_guess": "Live experiences platform",
+      "amount_hint_usd": 18800000,
+      "candidate_ids": [
+        "49435f821c60"
+      ]
+    },
+    {
+      "key": "boba bhai",
+      "company_guess": "Boba Bhai",
+      "amount_hint_usd": 18000000,
+      "candidate_ids": [
+        "318d4076c290",
+        "4a426e7ecbc0",
+        "6793dfdc3901",
+        "53d773fc24e0",
+        "b880d9f1410b"
+      ]
+    },
+    {
+      "key": "quick service restaurant chain",
+      "company_guess": "Quick service restaurant chain",
+      "amount_hint_usd": 18000000,
+      "candidate_ids": [
+        "03670fcd9fcb"
+      ]
+    },
+    {
+      "key": "vituscare",
+      "company_guess": "VitusCare",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "a6f2ddea794f"
+      ]
+    },
+    {
+      "key": "inprime finserv",
+      "company_guess": "InPrime Finserv",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "c87c236877e6",
+        "41125b7b86fe"
+      ]
+    },
+    {
+      "key": "disseqt",
+      "company_guess": "Disseqt AI",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "85c41b9c0841",
+        "f36ce6bdc270"
+      ]
+    },
+    {
+      "key": "wilco",
+      "company_guess": "Wilco",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "a82e12fe84e6"
+      ]
+    },
+    {
+      "key": "bengaluru accounts for 36",
+      "company_guess": "Bengaluru accounts for 36",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "ece43c414dd7"
+      ]
+    },
+    {
+      "key": "botsync",
+      "company_guess": "Botsync",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "75274ac0ed52"
+      ]
+    },
+    {
+      "key": "vucar",
+      "company_guess": "Vucar",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "0878c3410575"
+      ]
+    },
+    {
+      "key": "deepseeks 100 billion yuan",
+      "company_guess": "DeepSeek's 100 billion yuan",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "a87a0524eea2"
+      ]
+    },
+    {
+      "key": "how toyota is betting",
+      "company_guess": "How Toyota is betting",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "a524a0030a61"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "3709a8e7b834",
+      "title": "The Blue Economy: The World’s Quietest Economic Engine And Its Smartest Cities",
+      "publisher": "Guest Author",
+      "link": "https://news.crunchbase.com/startups/blue-economy-technology-defense-energy-onetti-mind-the-bridge/",
+      "published_at": "2026-11-19T12:00:45.000Z",
+      "publisher_url": null,
+      "snippet": "The $2.6 trillion blue economy is creating startup opportunities in maritime automation, clean energy and logistics, with blue tech funding nearing $10 billion through Q3 2026, driven largely by major defense deals. Alberto Onetti, chairman of Mind the Bridge, writes that ports are emerging as hubs for testing and scaling these technologies, but realizing their potential requires coordination among port authorities, startups, investors and policymakers.",
+      "source_feed": "crunchbase-news",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 10000000000,
+        "currency": "USD",
+        "raw": "$10 billion"
+      },
+      "company_guess": "Blue Economy",
+      "group_key": "blue economy",
+      "group_rank": 0,
+      "resolved_url": "https://news.crunchbase.com/startups/blue-economy-technology-defense-energy-onetti-mind-the-bridge/",
+      "text": "Artificial intelligence &bull; Clean tech and energy &bull; Economy &bull; Robotics &bull; Startups &bull; Transportation & Logistics &bull; Venture\nThe Blue Economy: The World’s Quietest Economic Engine And Its Smartest Cities\nGuest Author\nNovember 19, 2026\nGuest Author\n0\nShares\nEmail\nFacebook\nX\nLinkedIn\nBy Alberto Onetti\nThe “blue economy,” which encompasses industries built around oceans and coasts — from shipping and fisheries to offshore energy and marine biotechnology — is one of the largest, yet least visible, engines of the global economy.\nFor startups, that means opportunities to modernize how we move goods, produce energy and manage marine resources.\nAlberto Onetti, Mind The Bridge\nThe blue economy has doubled in size in just a quarter of a century, reaching $2.6 trillion in value. To put this in perspective: If the blue economy were a country, it would be the world’s fifth largest. And as the world turns back to the sea to face increasingly critical challenges, from geopolitical instability to rising energy prices and climate resilience, the blue economy is set to become even more central.\nPowerful “blue technology” forces of disruption are at play. Digitalization and automation, the energy transition, environmental pressures and advances in marine biotechnology are all reshaping how value is created at sea.\nInvestment in those technologies is also accelerating, with an emphasis on sustainable development. Blue tech companies tracked in Mind the Bridge ’s “Rethinking the Blue Economy” report, produced with support from Crunchbase, raised almost $10 billion through the third quarter of 2026 — already exceeding the $6.2 billion raised in all of 2025. Large rounds for defense companies with maritime applications account for much of that surge.\nBlue tech: A sector defying global slowdown\nAgainst the prevailing trend in the global innovation landscape, blue tech has followed a substantially continuous upward trajectory since 2021, producing an average of 70 new scaleups per year — even more rapidly over the past two years. Preliminary figures for 2026 suggest that roughly 100 new blue tech scaleups may emerge by year-end.\nThe same trend is evident in funding figures. In 2025, blue tech funding has reached $6.2 billion, double than the previous year. As of Q3 2026, blue tech scaleups worldwide had already raised almost $10 billion in new capital. If this trend continues, we expect the sector to attract more than $12 billion by year-end.\nThe drivers? Exceptional maritime resilience deals involving defense and infrastructure companies such as Anduril Industries ($5 billion raised in 2026) and Helsing ($1.8 billion raised in 2026).\nNot all blue tech is the same\nBlue tech is a broad category including a diverse set of technologies, some of which are more mature than others. To shed light on the sector’s composition, we clustered each unique technology developed by blue tech scaleups into 20 groups.\nWe then assessed each group from two different perspectives: impact on the industry and market commitment (a combination of scaleup and capital invested density).\nThe result is a matrix highlighting:\nTransformational technologies that have a high impact and are relatively well-established. Among those, AI and machine learning, and robotics and industrial automation occupies a particular sweet spot of high impact, substantial investment and high scaleup density (more than 200 scaleups and $20 billion invested in total).\nHigh-potential disruptive technologies, with only relatively lower levels of investment and scaleup density (roughly 50 scaleups and $3 billion to $5 billion invested per cluster). Among them, the most promising ones are maritime clean propulsion and sustainable fuels, and supply chain and freight tech.\nThe other quadrants are populated by transversal technologies with a more indirect impact on the industry and emerging niche technologies.\nPorts: the ‘smartest smart cities’\nThe ultimate question is: Who will ride the wave of change of the Blue Economy?\nShort answer: ports.\nPorts are where the dynamics reshaping maritime activities converge most visibly, acting as mini “blue economies.” In many ways, ports are the “smartest smart cities” — dense, complex systems where energy, logistics, data, mobility and people meet. They are places where innovation can be tested at scale before spreading to the wider economy.\nAnd like smart cities a decade ago, they now need a playbook.\nTo provide a comprehensive perspective from the ports’ point of view, in our report we interviewed 10 of the world’s leading port authorities to understand their priorities, challenges and barriers to innovation.\nWhile doing so, we collected several case studies from authorities such as the ports of Barcelona, Bergen, Seattle, Rotterdam and Los Angeles — true blueprints of best practices in tackling the innovation challenges of the blue economy.\nThe result is a picture that shows the potential of blue tech as the catalyst for a radical evolution of one of the largest sectors of the global economy.\nTo “ride the wave,” most ports are already activating multiple open innovation tools — some with a structured approach and dedicated units.\nYet, to really “get there” port authorities, operators, startups, investors and policymakers need a shared agenda and vision, working on the same challenges.\nEarly but substantial efforts are already underway. A prime example is BlueTechPort by the Port of Barcelona , a collaborative innovation hub connecting entrepreneurs, technology providers, researchers and maritime businesses. The initiative, detailed in a full case study available in the report, is already expanding internationally through the Lighthouse International Acceleration Program, powered by Mind the Bridge .\nNotice to (innovation) sailors: the course of blue economy innovation is set. The challenge now is to catch the favorable winds — and ride them.\nGet the full story in Mind The Bridge’s report, available for fre",
+      "text_status": "ok"
+    },
+    {
+      "id": "b5b5f9bd51af",
+      "title": "What’s Next For Recruiting, Job Hunting And HR? More AI, Of Course",
+      "publisher": "Joanna Glasner",
+      "link": "https://news.crunchbase.com/venture/data-recruiting-job-hunting-hr-ai-startups-mercor/",
+      "published_at": "2026-11-19T12:00:23.000Z",
+      "publisher_url": null,
+      "snippet": "So far this year, venture backers have poured close to $4 billion into an assortment of global companies focused on recruiting, finding jobs and streamlining processes associated with HR and payroll management, Crunchbase data shows. Not surprisingly, the vast majority are also incorporating a heavy dose of AI.",
+      "source_feed": "crunchbase-news",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 4000000000,
+        "currency": "USD",
+        "raw": "$4 billion"
+      },
+      "company_guess": "What’s Next For Recruiting",
+      "group_key": "whats next for recruiting",
+      "group_rank": 0,
+      "resolved_url": "https://news.crunchbase.com/venture/data-recruiting-job-hunting-hr-ai-startups-mercor/",
+      "text": "Artificial intelligence &bull; Job market &bull; Seed funding &bull; Startups &bull; Venture &bull; Workplace\nWhat’s Next For Recruiting, Job Hunting And HR? More AI, Of Course\nJoanna Glasner\nNovember 19, 2026\nJoanna Glasner\njglasner\n0\nShares\nEmail\nFacebook\nX\nLinkedIn\nAI agents and humanoid robots may dominate the funding headlines. But even so, investors haven’t lost interest in startups focused on finding, filling and managing jobs for actual humans.\nSo far this year, venture backers have poured close to $4 billion into an assortment of global companies focused on recruiting, finding jobs and streamlining processes associated with HR and payroll management, Crunchbase data shows. Not surprisingly, the vast majority are also incorporating a heavy dose of AI.\nTo get a sense where capital is flowing, we used Crunchbase data to analyze investment to employment-related categories for the past few years. Broadly, findings show 2026 funding on track to meet or slightly exceed year-ago levels, albeit with reduced deal count.\nTop fundraisers\nMuch of this year’s investment has gone to a small group of companies. To illustrate, below we put together a list of 14 of the largest fundraisers.\nAs you can see, it’s a varied list, with a commonly shared theme of bringing more automation to hiring, HR and payroll tasks.\nBy far the largest funding recipient is Mercor , a startup that pairs human experts with developers of AI models and tools. The 4-year-old company raised $750 million in a Series D round this month at a whopping $20 billion valuation.\nSan Francisco-based Mercor is betting that as companies build AI agents to take on more work tasks, demand for subject matter experts to guide these efforts will grow. While frontier labs have been its primary buyers for the past few years, Mercor says it expects enterprises will soon be its major customers.\nThe next two largest fundraisers on our list for this year are focused on automating more employer tasks. Paris-based Skello secured $220 million this summer for its AI-enabled software platform for HR teams. And HiBob , a New York-based platform for HR and payroll, picked up $166 million in a Salesforce 1 -led financing.\nStartups focused on jobseekers\nOf course, investors aren’t only looking at startups automating work tasks or training AI agents to do so. They’re also backing companies focused on the old-fashioned business of matching workers and employers.\nIn this sector, one of the larger rounds this year went to San Francisco-based Juicebox , an AI tool for recruiters to find talented candidates. The 4-year-old company picked up an $80 million Series B at an $850 million valuation.\nAgentic hiring is also a thing. Metaview , a San Francisco-based startup that offers an agentic recruiting platform optimized, in its words, to “get the right butts in seats,” secured $60 million in a September Series C financing. Around the same time, London’s Jack & Jill AI , which offers AI agents for finding careers and for hiring, closed on $40 million in Series A funding.\nAnother agentic hiring platform, San Francisco’s Paraform , announced a $40 million round this spring, pitching itself as an offering for an age in which employers are making fewer hires overall but still need highly skilled people for highly paid jobs.\nSurprisingly depressing\nSo what kind of employment future do startup funding trends paint for human jobseekers?\nNot a good one. As a human who has spent decades writing about sector-specific startup funding, this is probably the most depressing data dive into investment trends for an industry that I have ever done.\nOverall, the bulk of big rounds are going to one of three categories: using humans to help train their potential AI replacements, automating work tasks around supporting people in the workplace, and getting AI to help hire the right people for the dwindling pool of available positions.\nTypically, I’m rooting for startups to succeed. And honestly, there’s not an individual company highlighted here that I’m specifically hoping will fail. But nonetheless, the broad vision of an increasingly AI-dominated workplace does bring with it a sense of trepidation.\nRelated Crunchbase queries:\nHR, Employment And Recruiting Global Venture Funding In 2026\nRecently Funded Companies Tied To HR, Hiring And Job-Seeking\nRelated reading:\nVCs Funding More Tools For Frontline Workers\nHR Tech Funding Falls To 3-Year Low After Flurry Of VC Interest\nJob-Related Startup Funding Points To More AI Screening And More ‘Gigification’ Of Work\nIllustration: Dom Guzman\nSalesforce Ventures is an investor in Crunchbase. They have no say in our editorial process. For more, head here . ↩\nTags unicorn\nStay up to date with recent funding rounds, acquisitions, and more with the\nCrunchbase Daily.\nYou may also like\nArtificial intelligence &bull; Business &bull; IPO &bull; Liquidity &bull; Public Markets &bull; Startups\nAnthropic Prices IPO Shares At $83, Above Range\nJoanna Glasner\nNovember 18, 2026\nThe offering promises to be the public market event of the season, with the Claude creator seeing investor demand for shares well in excess of its...",
+      "text_status": "ok"
+    },
+    {
+      "id": "1bfe46d0ecf9",
+      "title": "Robotics Startup Genesis AI Raises $500 Mn At $3.5 Bn Valuation",
+      "publisher": "BW Disrupt",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVlpvdTVpLVltYTBiRlJWZUd5SDhCTi0xb2Y5Q0dFYWVFWEs2UFF0WDliSElpeHF5RURLWjRweE0zdno3Q1hBNWJjUkZxVkhxTXV3M1pqdFJTeWt0eXlBMHJTd1ktSGhyZ3NiVGZMOERocGtackRvT19qTFptd2x2T0VxMXNJaXFpZTZGWE5EX1BqbHV2dmExNXhRYTFCbWs0XzJvWA?oc=5",
+      "published_at": "2026-11-19T04:42:20.000Z",
+      "publisher_url": "https://www.bwdisrupt.com",
+      "snippet": "Robotics Startup Genesis AI Raises $500 Mn At $3.5 Bn Valuation BW Disrupt",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 3500000000,
+        "currency": "USD",
+        "raw": "$3.5 Bn"
+      },
+      "company_guess": "Genesis AI",
+      "group_key": "genesis",
+      "group_rank": 0,
+      "resolved_url": "https://www.bwdisrupt.com/article/robotics-startup-genesis-ai-raises-500-mn-at-3-5-bn-valuation-634255",
+      "text": "Robotics Startup Genesis AI Raises $500 Mn At $3.5 Bn Valuation\nBW Online Bureau\nNov 19, 2026\n# Genesis AI\n# robotics startup\n# USD 500 Mn funding\n# Series A funding\n# Khosla Ventures\n# Premji Invest\n# Eclipse\n# Nvidia\n# Bpifrance\n# Théophile Gervet\n# Zhou Xian\n# general-purpose robots\n# humanoid r\nThe Series A round was co-led by Khosla Ventures, Premji Invest and Eclipse",
+      "text_status": "thin"
+    },
+    {
+      "id": "787031a00888",
+      "title": "Onward Therapeutics Closes NT$900 Million (approximately US$28 Million) Series B Financing to Advance Clinical-Stage Oncology Pipeline",
+      "publisher": "BeBeez International",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcHoxVWxWSVFXdDd1SE0ybkNlRUtyR0FQRnZyNElfNmFsY29HZGNXUDFrOEdMSlVsVEt3dnpzT09zMUh5WmRrSm84LWlUc1I0eGRkOVVxN3kxX3BRNDVEUzBnYkJlYWswZWg2V2hQVkdkbUJDZUNIOC1NM2VNNll6X1ZVMWpxc2NDRHVXbGJ0M1VHVVZKalNaTWd5SzkwSFc4MEtlaU9sSm5mcnRLZzVIR0FGTHY1QXFLTzBPNVU4VkVzcVY3OWJOOGNWcjQxM003OWdkQmVXdlRXSUE5by11dVZQQjMxczBXUnRVX0Jpa3ljZw?oc=5",
+      "published_at": "2026-11-18T06:19:35.000Z",
+      "publisher_url": "https://bebeez.eu",
+      "snippet": "Onward Therapeutics Closes NT$900 Million (approximately US$28 Million) Series B Financing to Advance Clinical-Stage Oncology Pipeline BeBeez International",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 900000000,
+        "currency": "USD",
+        "raw": "$900 Million"
+      },
+      "company_guess": "Onward Therapeutics",
+      "group_key": "onward therapeutics",
+      "group_rank": 0,
+      "resolved_url": "https://bebeez.eu/2026/11/18/onward-therapeutics-closes-nt900-million-approximately-us28-million-series-b-financing-to-advance-clinical-stage-oncology-pipeline/",
+      "text": "Gateways to Italy – Offer your services to funds and investors willing to explore opportunities in Italy. Become a partner!\nby Partner\nJune 6, 2023",
+      "text_status": "thin"
+    },
+    {
+      "id": "360a6f5d2927",
+      "title": "Mexico’s Electric Utility Raises $776 Million in Share Offer",
+      "publisher": "Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVVNXd3hTeGdmVUpKX1R0YkFvTnRYSl9pV3dtTGd4U0FsYWdab1FXQ3lCNnBkOWMtUEpuWUlpR3I2LWFrS29fRHpTUzViWEJxNXJieUpVVmtxX0FjVXRGeU41blQxY0lNbHo1YkRJOXp2Ry1VTGF1NWlBOUtBRVNpaUhkN2RZOF9xX2laMlp4TldLRTRyOEcyZlo4TDhkTkc2cm5QNWdsVTRvY09pQzhyd3JmM0doQUdQckJ4S0RYYUo?oc=5",
+      "published_at": "2026-11-19T02:18:15.000Z",
+      "publisher_url": "https://www.bloomberg.com",
+      "snippet": "Mexico’s Electric Utility Raises $776 Million in Share Offer Bloomberg",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 776000000,
+        "currency": "USD",
+        "raw": "$776 Million"
+      },
+      "company_guess": "Mexico’s Electric Utility",
+      "group_key": "mexicos electric utility",
+      "group_rank": 0,
+      "resolved_url": "https://www.bloomberg.com/news/articles/2026-11-19/mexico-s-electricity-utility-cfe-raises-776-million-in-fibra-share-offer",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "359a333f6bcd",
+      "title": "Privia Health raises 2026 guidance after its Medicare savings climb 60% to $374 million",
+      "publisher": "MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSGd0QV9zNHhmUkJtdWNwdnktbk5HSlB4VVNTWG5EYlNPLU0yLXUwbElsUm9jVzlyaUdWLW04aDNvMHNFUkphSGJtMFNmTXJLblh4T0NSX3ZRbnFyWWJiRjZEb2ZCWGE1REx2c29jNi1xdTA2MG1McGRrR0NtQURrTFhCbHdKNlZ0UXBseTF0N3M3Wm52dGdCRXd2UjBuYllyRUF0Ty01bHZhdw?oc=5",
+      "published_at": "2026-11-18T22:08:51.000Z",
+      "publisher_url": "https://mlq.ai",
+      "snippet": "Privia Health raises 2026 guidance after its Medicare savings climb 60% to $374 million MLQ.ai",
+      "source_feed": "gnews-g9",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 374000000,
+        "currency": "USD",
+        "raw": "$374 million"
+      },
+      "company_guess": "Privia Health",
+      "group_key": "privia health",
+      "group_rank": 0,
+      "resolved_url": "https://mlq.ai/news/privia-health-raises-2026-guidance-after-its-medicare-savings-climb-60-to-374-million/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "f35a53839de8",
+      "title": "AI Finance Agents Get $280M Boost as Payhawk Raises Series C at $2B Valuation",
+      "publisher": "Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXRXS0ZoaXBPR0hGM2g0WlRteWVNR1cyUU1wcXNxa3ZHd0pQM1RWdnJBSU5SRGdpTjRHTHRRWkxITjVWQ29nZjUyZEtCT2UxUDdsYkZUUGZjNENjdmh6Y0RaZUtPUU5nWHAzd2hqemdTcnlLQ2theGlncjNRSTJHRlc0dXFfOU5EWHJKUl84TlpiM1ltMEhESnVwaFNuRnl2cDQ4bWNkcktFYXFpeXRHbUN6MVNPcHZWRnBqM2xtYkdYdw?oc=5",
+      "published_at": "2026-11-19T08:05:41.000Z",
+      "publisher_url": "https://www.techtimes.com",
+      "snippet": "AI Finance Agents Get $280M Boost as Payhawk Raises Series C at $2B Valuation Tech Times",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 280000000,
+        "currency": "USD",
+        "raw": "$280M"
+      },
+      "company_guess": "AI",
+      "group_key": "f35a53839de8",
+      "group_rank": 0,
+      "resolved_url": "https://www.techtimes.com/articles/331053/20261119/ai-finance-agents-get-280m-boost-payhawk-raises-series-c-2b-valuation.htm",
+      "text": "By\nEarl Bensen\nPublished: Nov 19 2026, 3:05 AM EST\nShare on Facebook\nShare on Twitter\nShare on LinkedIn\nShare on Reddit\nShare on Flipboard Share on WhatsApp\nPayhawk\nPayhawk, the London-headquartered spend management company founded in Bulgaria, announced a $280 million Series C on Wednesday, Nov. 18, led by the growth equity team at Goldman Sachs Alternatives at a $2 billion valuation, to build AI finance agents that do finance work on top of payments infrastructure and enterprise controls, FinTech Global reported .\nFor finance leaders weighing agentic tools, the third layer to examine is enterprise controls over agent actions that set what an agent may do and when a person must step in. The announcement does not describe how that approval design works, and the round remains subject to standard regulatory approvals .\nGoldman Sachs Alternatives Leads $280M Round at $2B, Subject to Regulatory Approvals\nGrowth Equity at Goldman Sachs Alternatives led the all-equity round, which takes Payhawk's total funding past $500 million, according to TechCrunch ; FinTech Global puts the total above $515 million . Existing investors include QED, Greenoaks, Lightspeed, Hedosophia and Bek Ventures. FinTech Global lists four new backers, Galdana Ventures, Cogito Capital, Inveready and Invus, plus European founders Tomas Okmanas and Didac Lee. James Hayward, a managing director at Goldman Sachs Alternatives, will join Payhawk's board .\nThe valuation doubles the $1 billion Payhawk reached in March 2022, when a $100 million Lightspeed-led extension lifted its Series B to $215 million and made it Bulgaria's first unicorn. The earlier $112 million Series B tranche , led by Greenoaks in November 2021 at a $570 million valuation, came first. A $20 million Series A led by QED in April 2021 preceded it, following a &euro;3 million (approximately $3.3 million) seed round in March 2020.\nBloomberg reported on Jan. 7, as summarized by Let's Data Science , that Payhawk was in talks to raise more than $100 million at about a $2 billion valuation. The valuation held while the round grew to $280 million, roughly 2.8 times the reported floor. TechCrunch, citing Sifted, said the round was one of Europe's largest Series C rounds this year.\nFinance OS Stacks AI Agents on Payments Infrastructure and Enterprise Controls\nPayhawk describes its Finance Operating System as three connected layers : AI agents that carry out financial work, payments infrastructure that lets those agents handle money, and enterprise controls that limit what an agent may do and trigger human intervention when needed. CEO Hristo Borisov's distinction, as Securities.io reports it , is that integrations connect systems, while an operating system changes how the entire finance function works.\nThe agents are not new; the stack around them is the pitch. Payhawk announced its AI Office of the CFO suite of four agents on April 2, 2025, with the Financial Controller Agent first in early access, and said the agents work with \"the same careful permissions as employees\" under existing approval workflows, spend controls and audit trails. Fintech Times reported on Sept. 25, 2025, that Payhawk's Fall '25 Product Edition launched four agents covering financial control, procurement, travel and payments, and that the Procurement Agent can route approvals, raise card limits or create purchase orders, with agent actions logged for auditability.\nUnderneath sits a payments footprint built before the AI pivot. Payhawk became a Visa principal member in 2023, which Fintech Times said lets it issue Visa cards directly rather than depend on outside partners, and Borisov said then that, with its e-money license, Payhawk could \"control more of the payment processing stack.\" Payhawk's help page lists e-money licenses from the Bank of Lithuania dated July 11, 2023, and the UK Financial Conduct Authority dated Jan. 13, 2024. None of the announcement coverage says whether agent spending limits are enforced inside Payhawk's card and payments systems or only in its approval workflow, a question finance buyers can put to the company directly.\nRelated\nAI Agents Can Now Spend Real Money Autonomously: How Stripe Built the Payment Infrastructure\nBaselayer Raises $35M to Build AI Agent Identity Verification No Law Yet Requires\nAgent Fetch Beta Retrieved Invoices Without Humans in 68.6% of Attempts, Payhawk Says\nAgent Fetch, a capability of Payhawk's Financial Controller Agent, shows the mechanism at small scale. An employee authorizes the agent once through an encrypted session, and Payhawk says it never stores portal passwords. The agent then signs into connected supplier portals, retrieves invoices, extracts the data, posts it to Payhawk and matches it to the payment . Payhawk says the agent is verified through Cloudflare's Verified Bots program , which lets websites identify it as authorized automated traffic.\nPayhawk's July 21 release said it is rolling out Agent Fetch to its entire customer base after a beta in which more than 550 businesses activated it, and reported that after login the agent retrieved invoices autonomously in 68.6% of attempts, up to 12 times faster than people. The company also said its Financial Controller Agent has cut the time to submit supplier-invoice expenses by up to 46% since the start of 2026, taking the time for an invoice to reach the ERP system from as much as 23.8 days to 12.6 days against a two-day target, The Paypers reported . All of these figures are company-reported.\nThe 68.6% figure measures how often retrieval ran without a person, not whether the invoice was coded correctly or matched to the right payment, Let's Data Science noted in its review of the release. It also noted that the 12x speed claim is vendor-reported and that the release gives no detail on the beta sample or methodology.\nCan AI Agents Move Company Money Without Human Approval?\nPayhawk's answer, as described at the announcement, is that enterprise controls decide when a person must ",
+      "text_status": "ok"
+    },
+    {
+      "id": "bc7df0209499",
+      "title": "China AI Biotech Firm Raises $200 Million in Oman-Backed Round",
+      "publisher": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWYtQi0tVG9HM2xzbE5qdTBNY1VFR0FaYVl3NVJuTFpvSHhzeFpjc1JIMEFBdkxZZFUybUlGUW9GSTJnX1pWaU5DY3o1emNwenAyeU1mS2VPb1pMZFUyOW5fXzQ2RTZESlNLaGlxcVV3dFlqRkxRclBEZlZDR1ZzaFdGX0FVRTNqVGxySVVkZTBVelBnV21TYS11NzNrUnoxS0pGRmhrekpUdkpia01iQW13?oc=5",
+      "published_at": "2026-11-19T00:20:00.000Z",
+      "publisher_url": "https://www.bloomberg.com",
+      "snippet": "China AI Biotech Firm Raises $200 Million in Oman-Backed Round Bloomberg.com",
+      "source_feed": "gnews-g9",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 200000000,
+        "currency": "USD",
+        "raw": "$200 Million"
+      },
+      "company_guess": "China AI",
+      "group_key": "china",
+      "group_rank": 0,
+      "resolved_url": "https://www.bloomberg.com/news/articles/2026-11-19/china-ai-biotech-firm-raises-200-million-in-oman-backed-round",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "8c8cbd110dd4",
+      "title": "MegaRobo Raises Nearly US$200 Million in New Funding to Build Intelligence Infrastructure for the Physical World",
+      "publisher": "",
+      "link": "https://www.prnewswire.com/news-releases/megarobo-raises-nearly-us200-million-in-new-funding-to-build-intelligence-infrastructure-for-the-physical-world-302944671.html",
+      "published_at": "2026-11-19T02:10:00.000Z",
+      "publisher_url": null,
+      "snippet": "AI's Next Frontier Is the Physical World. Science Is Where It Begins. SUZHOU, China, Nov. 19, 2026 /PRNewswire/ -- MegaRobo Technologies (MegaRobo), a technology company building Intelligence Infrastructure for the Physical World, today announced that it has raised nearly US$200 million...",
+      "source_feed": "prnewswire-vc",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 200000000,
+        "currency": "USD",
+        "raw": "US$200 Million"
+      },
+      "company_guess": "MegaRobo",
+      "group_key": "megarobo",
+      "group_rank": 0,
+      "resolved_url": "https://www.prnewswire.com/news-releases/megarobo-raises-nearly-us200-million-in-new-funding-to-build-intelligence-infrastructure-for-the-physical-world-302944671.html",
+      "text": "MegaRobo Raises Nearly US$200 Million in New Funding to Build Intelligence Infrastructure for the Physical World\nUSA - English\nUSA - English\nUSA - Deutsch\nNews provided by\nMegaRobo Technologies\nNov 18, 2026, 21:10 ET\nShare this article\nShare this article\nAI's Next Frontier Is the Physical World. Science Is Where It Begins.\nSUZHOU, China , Nov. 19, 2026 /PRNewswire/ -- MegaRobo Technologies (MegaRobo), a technology company building Intelligence Infrastructure for the Physical World, today announced that it has raised nearly US$200 million in a new financing round joined by Oman Investment Authority (OIA), the sovereign wealth fund of the Sultanate of Oman. And existing investors Asia Investment Capital, Granite Asia and Sinovation Ventures continued to back the company, with new participation from CMB International.\nThe new financing will support MegaRobo's continued investment in core technology, the global expansion of its AI for Science business, and the development of infrastructure that enables AI to operate in increasingly complex physical environments.\nAI's Next Frontier Is the Physical World\nThe first generation of AI learned primarily from digital information - text, images, video and code. The next generation will increasingly learn by interacting with the physical world: acting on real systems, observing outcomes, and using those outcomes to decide what to do next.\nIn science, that means moving beyond reading papers, predicting structures or generating molecules. AI must also be able to design experiments, execute them in real laboratories, observe the results and learn from what happens.\nMegaRobo is building the infrastructure for that transition. Its proprietary One Intelligence Stack connects intelligence with execution - bringing together models and agents, data, workflows, software, scientific instruments, robotics, automation and real-world feedback in a single reusable technology foundation.\nOne Intelligence Stack. Across Complex Physical Systems.\nTHINK → DESIGN → EXECUTE → OBSERVE → LEARN\nScience Is Where It Begins\nScience is the first proving ground for this architecture because it requires AI to do more than analyze information. Scientific discovery depends on an ongoing loop between reasoning, design, physical experimentation, observation and learning - often under conditions where the answer is not known in advance.\nMegaRobo is applying this architecture to scientific discovery and pharmaceutical R&D through an integrated AI for Science infrastructure that combines AI, scientific computing, experimental execution, data and R&D decision-making.\nThe company has delivered products and technologies to more than 500 customers, including leading global pharmaceutical companies, drug discovery organizations, biotechnology companies and research institutions. Its systems support key stages of discovery and development, including early research, target and mechanism discovery, drug screening and candidate optimization.\nThrough Megalaxy Lab, MegaRobo is also making real-world experimentation increasingly programmable. Researchers and AI agents can configure experiments, route them to automated laboratory systems, track execution, and receive structured, machine-readable results that can feed directly into the next cycle of scientific reasoning. Megalaxy Lab has served more than 200 customers.\nMegaRobo is now extending this capability to the global AI for Science community. Together with industry partners including Tencent Cloud and Twist Bioscience, the company has launched Poreva Open, a global AI protein design challenge open to all models and technical approaches. Megalaxy Lab will provide wet-lab validation for more than 10,000 protein design sequences, creating an opportunity for innovators worldwide to test their models against real experimental results. By opening up large-scale experimental validation to the global research community, Poreva Open aims to help establish a common benchmark for AI-driven protein design.\nThis marks a shift in how scientific infrastructure is accessed: from laboratory work organized mainly as individual projects toward experimental capacity that can increasingly be standardized, automated and called on demand by scientists, software and AI agents.\nA Reusable Foundation for Complex Physical Systems\nScience is where MegaRobo is starting, but the underlying architecture is designed for other complex physical systems as well. Wherever AI must interact with instruments, machines, materials, processes and real-world feedback, the same core challenge appears: intelligence must connect to execution, and execution must generate observations that intelligence can learn from.\nMegaRobo is developing One Intelligence Stack as a common technology foundation for this interaction - not as a collection of isolated AI applications or automation products, but as infrastructure that enables AI to act, observe and learn across complex physical environments.\nDaniel Huang, Founder and CEO of MegaRobo, said: \"The first generation of AI learned from humanity's accumulated knowledge. The next generation will increasingly learn by acting in the physical world - through experiments, production and continuous feedback. That shift changes AI from a system that interprets the world into one that can help create new knowledge, materials, processes and products. MegaRobo is building the infrastructure for that transition.\"\nLiu Erh Fei, Founding Partner and CEO of Asia Investment Capital, said: \"As a long-term shareholder, we have seen MegaRobo continuously drive innovation, earn the trust of its customers and translate its technological capabilities into commercial applications. Its ability to integrate AI, software and hardware, together with its experience in scientific research and advanced manufacturing, underpins our continued investment. We look forward to continuing to support MegaRobo as it further strengthens its product and technology platforms and serves more c",
+      "text_status": "ok"
+    },
+    {
+      "id": "5214f77f6e00",
+      "title": "MegaRobo Raises Nearly US$200 Million in New Funding to Build Intelligence Infrastructure for the Physical World",
+      "publisher": "",
+      "link": "https://www.prnewswire.com/news-releases/megarobo-raises-nearly-us200-million-in-new-funding-to-build-intelligence-infrastructure-for-the-physical-world-302944651.html",
+      "published_at": "2026-11-19T01:39:00.000Z",
+      "publisher_url": null,
+      "snippet": "AI's Next Frontier Is the Physical World. Science Is Where It Begins. SUZHOU, China, Nov. 18, 2026 /PRNewswire/ -- MegaRobo Technologies (MegaRobo), a technology company building Intelligence Infrastructure for the Physical World, today announced that it has raised nearly US$200 million...",
+      "source_feed": "prnewswire-vc",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 200000000,
+        "currency": "USD",
+        "raw": "US$200 Million"
+      },
+      "company_guess": "MegaRobo",
+      "group_key": "megarobo",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "fe0374e4ccec",
+      "title": "Marrow Therapeutics Launches With $173 Million to Develop Genetic Medicines for Bone Marrow Disorders",
+      "publisher": "BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPazFlbGFTLXJucV91YkpUZ0Ztd0l0UTZpRFF4elpHcEtBcElzNDJ4ZlVTOGY3VGJTQVJVdnNQQ2JYbVljMnhidnJNR0JrdHpBN3Zzc0hjdWtRQ3FFWnA4Smt2YzI3bHlBdDJlYjRHWGlTbVlRV2h4cEJoZFZUbHY2dFE4ZXNkaENKUEIyUUxGNjlqQXM0TEhzV0h2TFU3ZXBIR1JrOHZWYVBhblZyZkZxbjlURWRMM1FGUnRBTlp2SVVCZ1VOeU5GUFI5YzBTRTZmSURwSC1IVQ?oc=5",
+      "published_at": "2026-11-17T14:39:37.000Z",
+      "publisher_url": "https://www.biospace.com",
+      "snippet": "Marrow Therapeutics Launches With $173 Million to Develop Genetic Medicines for Bone Marrow Disorders BioSpace",
+      "source_feed": "gnews-g8",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 173000000,
+        "currency": "USD",
+        "raw": "$173 Million"
+      },
+      "company_guess": "Marrow Therapeutics",
+      "group_key": "marrow therapeutics",
+      "group_rank": 0,
+      "resolved_url": "https://www.biospace.com/press-releases/marrow-therapeutics-launches-with-173-million-to-develop-genetic-medicines-for-bone-marrow-disorders",
+      "text": "Press Releases\nMarrow Therapeutics Launches With $173 Million to Develop Genetic Medicines for Bone Marrow Disorders\nNovember 17, 2026 |\n4 min read\nTwitter\nLinkedIn\nFacebook\nEmail\nPrint\nMarrow is advancing bone marrow-targeted therapies for severe hematological diseases through its proprietary technology platform\nMarrow was founded by Scion Life Sciences; other leading investors include OrbiMed and venBio\nRomesh Subramanian leads Marrow as President and CEO, with an experienced team comprising Tim Weeden, CSO, and John Najim, COO/CTO\nWATERTOWN, Mass.--(BUSINESS WIRE)-- Marrow Therapeutics , a platform company developing novel bone marrow-targeted therapies to treat severe blood disorders, today announced its launch with a combined $173 million in Series A and B funding. The $53 million Series A financing was co-led by Scion Life Sciences and venBio. The $120 million Series B round was led by OrbiMed, with participation from all Series A investors and new funds, including RTW Investments, Surveyor Capital (a Citadel company), Opaleye, NEXTBio Capital, Affinity Advisors, KKR, Spruce Street Capital and Columbia Threadneedle Investments. Art Levin, founding Chief Scientific Officer of Avidity Biosciences, and Stuart Orkin, David G. Nathan Distinguished Professor of Pediatrics at Harvard Medical School and HHMI Investigator at Boston Children’s Hospital, have joined the Board and SAB, respectively.\nMarrow is pioneering a novel approach for genetic disease therapy by developing engineered antibodies through its first-in-class and potentially best-in-class bone marrow targeting platform. Marrow’s engineered antibodies precisely target the transferrin receptor (TfR1) in bone marrow and deliver therapeutic payloads to bone marrow to treat severe blood disorders. The company’s in vivo approach aims to achieve efficacy while overcoming critical limitations of earlier genetic medicine approaches, such as safety concerns, manufacturing complexity and patient accessibility.\nMarrow is advancing multiple programs utilizing their proprietary Transferrin Antibody Bioconjugate (TAB) platform, targeting a range of hematological and bone marrow diseases. The company’s lead candidate, MAR-101, currently in IND-enabling studies, is designed to treat both sickle cell disease (SCD) and beta thalassemia by decreasing BCL11a and reactivating fetal hemoglobin production.\n“We’re at a pivotal moment in genetic medicine and its application in severe blood disorders – the field has validated key targets and shown that genetic approaches can work, but we need to solve the safety and accessibility challenges to truly transform patient outcomes,” said Romesh Subramanian, Marrow Therapeutics’ President and Chief Executive Officer. “By precisely targeting the bone marrow, we’re able to deliver the potential of genetic medicines and provide sustained benefit, while simultaneously avoiding the risks that have constrained earlier approaches. Our preclinical data gives us tremendous confidence in this strategy, and we’re excited to move toward the clinic with a platform designed to address a broad range of severe hematological diseases.”\nThe company’s platform is built on deep scientific and technical expertise and extensive experience with the transferrin receptor, understanding precisely how to engage it for therapeutic benefit while avoiding off-target effects, particularly the anemia risk that limits other TfR1-targeted approaches. In addition to President and CEO Romesh Subramanian, the company has appointed Tim Weeden as Chief Scientific Officer, bringing extensive experience in transferrin receptor biology, antibody and nucleic acid development; John Najim as Chief Operating Officer and Chief Technology Officer, bringing expertise in chemistry, manufacturing and controls (CMC) and operations; and Gavriel Mullokandov as Founder and VP, Corporate Development to support the development and advancement of the company’s programs and platform.\n“Marrow represents a differentiated technology platform, experienced leadership, and the potential to provide effective and safe treatment options for severe blood disorders,” said Mona Ashiya, General Partner, OrbiMed. “I am excited to work with this experienced team that has brought first-generation TfR1 platforms into the clinic. What is particularly compelling is their ‘pipeline in a product’ strategy. MAR-101 validates the platform across sickle cell disease and beta thalassemia with a single therapeutic approach, while their growing pipeline across additional blood and bone disorders demonstrates the true versatility and long-term value of this platform.”\n“From its inception, Marrow has had the potential to become a transformative and valuable company. This has been made possible by an experienced and knowledgeable leadership team that has consistently displayed the scientific rigor and operational excellence we look for at Scion. Marrow has optimized its proprietary bone marrow-targeting platform using lessons learned from validated first-generation TfR1 platforms targeting other tissues and organs. By leveraging well-understood biology, the company is in a great position to create paradigm-shifting therapies for patients dealing with severe blood disorders of high unmet need,” said Aaron Kantoff, Co-Founder and Managing Partner at Scion Life Sciences. “We are truly excited to see Marrow advance its programs into the clinic in the coming year.”\nAbout Marrow Therapeutics\nMarrow Therapeutics is a genetic medicines company developing a proprietary, bone marrow-targeted platform to treat severe blood disorders. The company’s Transferrin Antibody Bioconjugate (TAB) platform delivers therapeutic payloads directly to bone marrow cells to enable safe and effective treatment of hematological diseases, including sickle cell disease, beta thalassemia and other blood disorders. Marrow is advancing multiple programs designed to address the high unmet need across a wide range of blood diseases ",
+      "text_status": "ok"
+    },
+    {
+      "id": "0179890c6950",
+      "title": "Brazilian fintech Nomad raises R$172 million Series C led by Tether Capital: Finsiders Brasil",
+      "publisher": "CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MVVF6cGQ2VjItdzJoUGkzV0N2UFBudFJwS0hkeDJwbUdiTWNkS00xT0RDdEdrOEZUdklwaE8yRkY2VjBpbnFFNTJQbk5XbVdCaHlJdVJteTlaMnZyWEpCX3FiZW9CSURvX0xPNEM2R21MT3pmOEM1bA?oc=5",
+      "published_at": "2026-11-18T11:29:41.000Z",
+      "publisher_url": "https://cryptorank.io",
+      "snippet": "Brazilian fintech Nomad raises R$172 million Series C led by Tether Capital: Finsiders Brasil CryptoRank",
+      "source_feed": "gnews-g3",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 172000000,
+        "currency": "USD",
+        "raw": "$172 million"
+      },
+      "company_guess": "Brazilian fintech Nomad",
+      "group_key": "brazilian fintech nomad",
+      "group_rank": 0,
+      "resolved_url": "https://cryptorank.io/insights/deals/nomad-global-series-c-2026-11-16",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "e1dde7eda61b",
+      "title": "Jaan Tallinn, the Skype co-founder who warns AI could end humanity, led Anthropic's $124 million Series A",
+      "publisher": "MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS21LNlRqUEI4TUNEclhDMG9WTjZKazFLUHA1N0FnczA0bERMQV9Vak94MmpfTWM1aUxJMmZUQWdjdTZvYTU1cHBjN2RzLThTY2Y3a1U5cGV4U3dDQm4xTVBmS0FNT0ozNFFHbl9wMTZXZThIREh3VVRybjc4U3BYaXExS0haNjVmTy1BajYwZFUwbFNnYlFSN0xYMHk0dmJxdUVwZzBRZm9aMjhnVUNOTzgtX19uak9wVDJIU1ZiOA?oc=5",
+      "published_at": "2026-11-18T22:08:51.000Z",
+      "publisher_url": "https://mlq.ai",
+      "snippet": "Jaan Tallinn, the Skype co-founder who warns AI could end humanity, led Anthropic's $124 million Series A MLQ.ai",
+      "source_feed": "gnews-5",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 124000000,
+        "currency": "USD",
+        "raw": "$124 million"
+      },
+      "company_guess": "Jaan Tallinn",
+      "group_key": "jaan tallinn",
+      "group_rank": 0,
+      "resolved_url": "https://mlq.ai/news/jaan-tallinn-the-skype-co-founder-who-warns-ai-could-end-humanity-led-anthropics-124-million-series-a/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "725e7e357f27",
+      "title": "Linq Raises $90 Million in New Funding Led by Andreessen Horowitz to Build the Infrastructure Platform for AI Agents",
+      "publisher": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOS2Fqa04yM3VsSDJXdUU3OTdkXzNZZDg5ZFRHV0EzcjhSVDJQeGJKdTVPdVE2anFJSGZaQVc5a0x6bDFGUnlsQzllZUgzWUJBeE52alNDU0lhakdYd19sWjY2blJFZWZjcnVmZGRTSmJ6WGZtd0w2OVpIMFlZZGRzbUwya2w3b0NhbzBGZU1Xd29YUFVOS1pBamg3MEwtVERzM1d6VkNnVUFIcVI0S1lndHVxSzJMcTkwdVBVb0ZuX2hEbWNYZUxhNjVpQXZVY19mTmpOU21uRmJWNzVWcGZSVU5mMVpzME5YOERWU3JOYnVVemhNOUxRZWNMejNrS0dW?oc=5",
+      "published_at": "2026-11-19T03:45:00.000Z",
+      "publisher_url": "https://www.prnewswire.com",
+      "snippet": "Linq Raises $90 Million in New Funding Led by Andreessen Horowitz to Build the Infrastructure Platform for AI Agents PR Newswire",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 90000000,
+        "currency": "USD",
+        "raw": "$90 Million"
+      },
+      "company_guess": "Linq",
+      "group_key": "linq",
+      "group_rank": 0,
+      "resolved_url": "https://www.prnewswire.com/news-releases/linq-raises-90-million-in-new-funding-led-by-andreessen-horowitz-to-build-the-infrastructure-platform-for-ai-agents-302944728.html",
+      "text": "Linq Raises $90 Million in New Funding Led by Andreessen Horowitz to Build the Infrastructure Platform for AI Agents\nNews provided by\nLinq\nNov 18, 2026, 22:45 ET\nShare this article\nShare this article\nEvery business and every person will have an agent. With more than 1 billion messages processed, Linq is building the infrastructure to put them to work.\nSAN FRANCISCO , Nov. 18, 2026 /PRNewswire/ -- Linq , the infrastructure platform for AI agents, today announced $90 million in new funding led by Andreessen Horowitz, with continued participation from TQ Ventures, Mucker Capital, and Abstract, and new participation from Anthos and Left Lane Capital. Ben Horowitz will join its board of directors.\nContinue Reading\nLinq’s Co-Founders: Patrick Sullivan (CTO), Elliott Potter (CEO), and Jared Mattsson (President)\nThe internet gave every business a website. The iPhone gave every business an app. Now AI is giving every business, and every person, an agent. Cloudflare reports that more than half of internet traffic is no longer human, with AI agent requests on its network up more than 1,700% in a year. These are not simple, customer-service chatbots: these agents book, buy, and make plans by communicating with people and using software on their behalf.\nMessaging was Linq's first product and remains a core part of its growing AI infrastructure platform. As the provider for DoorDash, Town, Tomo, and hundreds of others, Linq has already processed more than 1 billion messages. DoorDash uses Linq to help customers find food, build a cart, and check out in a single thread. And now, as an Apple Messaging Service Provider, Linq can help more enterprises launch and scale customer-facing agents on the same channel.\n\"The best AI experiences fit naturally into people's lives,\" said Aryan Shah, Head of AI research at DoorDash. \"Linq gives us the messaging infrastructure to bring ordering into a familiar conversation, so customers can go from deciding what they want to placing an order in one thread.\"\n\"Agents will communicate and get work done just like people do. Linq gives agents the infrastructure to do both at scale,\" said Ben Horowitz, cofounder and general partner at Andreessen Horowitz.\nMessaging is the beginning of a larger shift: people will describe what they need, and agents will get it done. Linq's computer use offering gives agents access to physical computing infrastructure to interact with software and complete tasks. HD Calling for Agents adds voice calling to the platform. The funding will support continued investment in messaging and the expansion of Linq's product lineup through its own software, hardware infrastructure, and strategic partnerships.\n\"Clicking through five screens to make a payment will become two words to an agent: 'pay rent,'\" said Elliott Potter, CEO of Linq. \"We help developers build customer-facing agents that use human tools to do human work.\"\nCompanies can learn more at https://linqapp.com/\nAbout Linq\nLinq is the platform for building AI agents. It brings together messaging and an expanding set of tools for interacting with the world, helping developers spend less time assembling infrastructure and more time building products. Learn more at https://linqapp.com/\nRiley Munks\nPR Advisor\nActivate PR\nhttps://www.activate-pr.com/\n[email protected]\nThis release was issued through WebWire®. For more information, visit http://www.webwire.com .\nSOURCE Linq\n&times;\nModal title",
+      "text_status": "ok"
+    },
+    {
+      "id": "e30c9165cd9b",
+      "title": "Linq Raises $90 Million in New Funding Led by Andreessen Horowitz to Build the Infrastructure Platform for AI Agents",
+      "publisher": "",
+      "link": "https://www.prnewswire.com/news-releases/linq-raises-90-million-in-new-funding-led-by-andreessen-horowitz-to-build-the-infrastructure-platform-for-ai-agents-302944728.html",
+      "published_at": "2026-11-19T03:45:00.000Z",
+      "publisher_url": null,
+      "snippet": "Every business and every person will have an agent. With more than 1 billion messages processed, Linq is building the infrastructure to put them to work. SAN FRANCISCO, Nov. 18, 2026 /PRNewswire/ -- Linq, the infrastructure platform for AI agents, today announced $90 million in new...",
+      "source_feed": "prnewswire-vc",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 90000000,
+        "currency": "USD",
+        "raw": "$90 Million"
+      },
+      "company_guess": "Linq",
+      "group_key": "linq",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "f95552b89da2",
+      "title": "Linq Raises $90M From a16z to Put AI Agents in Your Texts",
+      "publisher": "The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZko0b3pxZU1zZ0RfSDJRUmJiYzkyTTBBWnFtM2ZnblRmWkpyMHp0X1FFX1NiQVVfdnoyYmhLQ2U0RGxFR2VGSi1oT3R3YmlkdEZrRllXWFdfUlE0VVJpR0ZfaXlVMHF1RTV0RmNvVDVrU2pSR1k0MXpFbHRvSlZvc3ZsaFp1b1doTG52UE1hOU5pbGc?oc=5",
+      "published_at": "2026-11-18T20:34:30.000Z",
+      "publisher_url": "https://www.techbuzz.ai",
+      "snippet": "Linq Raises $90M From a16z to Put AI Agents in Your Texts The Tech Buzz",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 90000000,
+        "currency": "USD",
+        "raw": "$90M"
+      },
+      "company_guess": "Linq",
+      "group_key": "linq",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "0b242231dfe7",
+      "title": "Linq Raises $90M Series B to Scale Human & AI Communications Infrastructure Already Powering 1 Billion Messaging",
+      "publisher": "CXO Digitalpulse",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTGo2QU90VjFoWGZwQUIxUWdXM3I2NGJ5b21qdHdSLVplMUk4cF94S3MwNDZHMFJXTjFTUkxuVE1sbFpiRC1KZWZlMVc2T01vNEVuVzNxSVo2dXByVEVoaUM1S1d2U0k3OWhEbjh4VkpVLWFiSTJFbzR0Y3NaUFhuTThzY1RadEZ6SFk1TXhNTU1LS1RyVjFjSGtTM050QVc0TkhqSHdLOS1OWmlsM0xFVEdZMXYwM1FQYjNKZm1ESUcwNTNnYVk1bTVnWFBtV2xLbzNxNHpQYk96dw?oc=5",
+      "published_at": "2026-11-19T10:48:55.000Z",
+      "publisher_url": "https://www.cxodigitalpulse.com",
+      "snippet": "Linq Raises $90M Series B to Scale Human & AI Communications Infrastructure Already Powering 1 Billion Messaging CXO Digitalpulse",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 90000000,
+        "currency": "USD",
+        "raw": "$90M"
+      },
+      "company_guess": "Linq",
+      "group_key": "linq",
+      "group_rank": 3,
+      "text_status": "skipped"
+    },
+    {
+      "id": "8d8d5d682772",
+      "title": "Linq Raises $90M Led by a16z To Build the Infrastructure for Personal AI Assistants",
+      "publisher": "citybiz",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPemkxUWVqLW9QOVpSOUZxY0FoaVUwT1JlTklaZ1F4UUNoaThRX0EzaXFTYUhSemt0Y2RZY2JyU21JRlhrTktlNnJwOVR1ZE1zZlVudmhHVDJiaTN5MVNWcGNtVnI3YmtiaWM2MG01MVJyZ3R6bmhrZGI1WmVZd2tWMHl6ZVB4X3lrTWxHVDlHcVVPaXBuTXRhMkdNd28zTTRQOUoyZXNDMVJrWEJIdjBXczFqb1gzSWpDUkxXM0hB?oc=5",
+      "published_at": "2026-11-18T21:48:09.000Z",
+      "publisher_url": "https://www.citybiz.co",
+      "snippet": "Linq Raises $90M Led by a16z To Build the Infrastructure for Personal AI Assistants citybiz",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 90000000,
+        "currency": "USD",
+        "raw": "$90M"
+      },
+      "company_guess": "Linq",
+      "group_key": "linq",
+      "group_rank": 4,
+      "text_status": "skipped"
+    },
+    {
+      "id": "412c6a5b7091",
+      "title": "Linq Raises $90M Led by a16z To Build the Infrastructure for Personal AI Assistants",
+      "publisher": "Kevin Parker",
+      "link": "https://www.citybiz.co/article/935989/linq-raises-90m-led-by-a16z-to-build-the-infrastructure-for-personal-ai-assistants/",
+      "published_at": "2026-11-18T21:45:44.000Z",
+      "publisher_url": null,
+      "snippet": "If the internet era mandated a website for every business, and the mobile era demanded an app, the generative AI... Read More\nThe post Linq Raises $90M Led by a16z To Build the Infrastructure for Personal AI Assistants appeared first on citybiz .",
+      "source_feed": "citybiz",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 90000000,
+        "currency": "USD",
+        "raw": "$90M"
+      },
+      "company_guess": "Linq",
+      "group_key": "linq",
+      "group_rank": 5,
+      "text_status": "skipped"
+    },
+    {
+      "id": "e795e532d6ff",
+      "title": "Birmingham startup raises $90M Series B as Silicon Valley giant joins board",
+      "publisher": "The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRER2NFdlMTNBbnBQMHVaWUFaZm9jSUxYYWlGOVJLZzQtc2pXMjJpSllldUpLWnl3OVkzRnh1NXcwS2dwVENUUWN6ZjlJY2NxZi00WmtReTJtMW0wd3BYWlVmVkY5aV9hTnVxMnVGdFI0VE9iQWF3RmY1QTZhQjFDZGk2aThycW85bmkzbDI0WXdSSHNQY0tSM3ZNTWcwU0lFMVYzWQ?oc=5",
+      "published_at": "2026-11-18T22:12:00.000Z",
+      "publisher_url": "https://www.bizjournals.com",
+      "snippet": "Birmingham startup raises $90M Series B as Silicon Valley giant joins board The Business Journals",
+      "source_feed": "gnews-g2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 90000000,
+        "currency": "USD",
+        "raw": "$90M"
+      },
+      "company_guess": "Birmingham startup",
+      "group_key": "birmingham startup",
+      "group_rank": 0,
+      "resolved_url": "https://www.bizjournals.com/birmingham/news/2026/11/18/linq-90m-series-b-round-ben-horowitz-board.html",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "df1359d29b52",
+      "title": "Pulley Raises $64 Million to Expand AI-Powered Real Estate Development Platform",
+      "publisher": "Paul Bluemner",
+      "link": "https://www.citybiz.co/article/936101/pulley-raises-64-million-to-expand-ai-powered-real-estate-development-platform/",
+      "published_at": "2026-11-19T13:04:12.000Z",
+      "publisher_url": null,
+      "snippet": "Pulley, a technology company providing AI-powered permitting and development services, has raised $64 million in funding to expand its platform... Read More\nThe post Pulley Raises $64 Million to Expand AI-Powered Real Estate Development Platform appeared first on citybiz .",
+      "source_feed": "citybiz",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 64000000,
+        "currency": "USD",
+        "raw": "$64 Million"
+      },
+      "company_guess": "Pulley",
+      "group_key": "pulley",
+      "group_rank": 0,
+      "resolved_url": "https://www.citybiz.co/article/936101/pulley-raises-64-million-to-expand-ai-powered-real-estate-development-platform/",
+      "text": "Global , San Francisco\nGeneral Business , Venture Capital\nPulley Raises $64 Million to Expand AI-Powered Real Estate Development Platform\nNovember 19, 2026\nPulley , a technology company providing AI-powered permitting and development services, has raised $64 million in funding to expand its platform and introduce new products designed to accelerate commercial real estate development.\nThe financing includes a $41 million Series B round led by Jump Capital , with participation from Catalyst Investors , and a $23 million Series A round led by CRV and Susa Ventures. The announcement follows fivefold year-over-year growth in Pulley’s annual recurring revenue.\nThe company plans to use the capital to expand its permitting operations and develop tools that help businesses evaluate potential development sites, navigate regulatory requirements and identify construction design issues before submitting projects for approval.\nPulley provides permitting services to major retailers, restaurants, financial institutions, manufacturers and data center operators. Its customers include Amazon, Starbucks, JLL, Meta and Equinix.\nThe company combines artificial intelligence, regulatory data and a nationwide team of more than 75 licensed professionals to help customers manage construction approvals across all 50 states.\nAccording to Pulley, its platform has supported more than $21 billion in commercial construction projects and helped customers save a combined 11,750 weeks of project development time.\n“The speed at which we build is one of the most important challenges facing America over the next decade,” said Charlie Jacobson , co-founder and CEO of Pulley. “To remain a global leader in AI, bring manufacturing back home, reach energy independence and sustain job growth, we need to build orders of magnitude faster. The single biggest lever to building faster is to get started faster.”\nPulley’s existing services include regulatory due diligence, permitting strategy development, construction plan reviews and coordination with local government agencies.\nThe company also participates in private plan review programs covering more than 2,000 cities and counties, allowing its certified professionals to approve building plans in jurisdictions that authorize private review.\nPulley said its customers typically receive one round of jurisdictional review comments per project, while more than 40% of projects receive approval without any comments. The company also reported a 65% reduction in review comments in 2026 compared with 2025.\n“Pulley’s understanding of jurisdictional requirements and code interpretations helps us anticipate issues before design is complete,” said Karen Rojas , design, development and delivery manager at Meta. “As we move toward a single partner managing permitting from site development through construction, Pulley is helping shape our approach.”\nThe new funding will support Pulley’s expansion beyond permitting into earlier stages of real estate development.\nPlanned capabilities include site selection tools that combine zoning and permitting regulations with information about utility availability, local community sentiment and other development constraints.\nPulley is also introducing AI-powered construction drawing reviews intended to identify building code compliance issues during the design process, reducing the need for revisions after plans are submitted to regulatory authorities.\nThe company said its broader objective is to create an integrated platform that helps developers make site selection, design and permitting decisions within a single system.\n“Pulley has demonstrated a rare ability to transform essential but historically fragmented work into a scalable technology solution,” said Sach Chitnis , co-founder and partner at Jump Capital. “The company has built deep expertise, strong customer relationships and a differentiated intelligence layer that becomes more valuable with every project.”\nPulley said its permitting service can help enterprises secure construction approvals up to 70% faster by combining AI agents with regulatory intelligence and specialized permitting professionals.\nThe company did not disclose its valuation or provide a timeline for the full commercial rollout of its new development planning products.",
+      "text_status": "ok"
+    },
+    {
+      "id": "48e3f9e76632",
+      "title": "Physical AI Startup Humyn Hits $50 Million ARR In 6 Months, Raises $47 Million",
+      "publisher": "Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm5NTDJJMFZvYV9BOWZHcEF6MWRBV1VaVy1WLU9saHlhWWw4dHRlQWM4b0w0ZlE0bVdwSktncEowUUJseWFBWTl5Tm5YOWMxMlk1eW1RSDJ4THF4VHI2OXF1T0RZWVdFXzJFWWQ4V3R4ZXRkaGhoOEpjS0ljQkJYeWxSbWVWYTc2SHhkbWhVellFbVBwMThwS0VIUWFvejlMQ2dGc08zaWJ6eVkwTFFvQjlBZGt6RWZjNjNmbThGLTZSbFUwejBPcg?oc=5",
+      "published_at": "2026-11-18T22:22:00.000Z",
+      "publisher_url": "https://www.forbes.com",
+      "snippet": "Physical AI Startup Humyn Hits $50 Million ARR In 6 Months, Raises $47 Million Forbes",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 50000000,
+        "currency": "USD",
+        "raw": "$50 Million"
+      },
+      "company_guess": "Physical AI",
+      "group_key": "physical",
+      "group_rank": 0,
+      "resolved_url": "https://www.forbes.com/sites/johnkoetsier/2026/11/18/physical-ai-startup-humyn-hits-50-million-arr-in-6-months-raises-47-million/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "bde45836cc47",
+      "title": "Wilson Sonsini Advises Compute Desk on $45 Million Financing as it Emerges from Stealth",
+      "publisher": "Wilson Sonsini",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTHFYZk80Mkd2N2Y2VFNwNVdlWVdPT0tCLVdHTTJvN0o2VFB2N1NhbTZqeUcxUVB3dGZlb3dETEVqemRSYXFBSlpHdGpWSmItVEpqSU5wSS0tWENzU2p2QjFhQVVXMm9FcU52ODhHVF90Mmk2THN0cHRKYlBFX3NuWVJsNmJRc2phb1ZsbnN6blJscnE2bzdtZGZPZjdJbXR1TFVYNUN6NkJpemRhTUwzTWRHOTNVN09xVkZkY0RxYnZweDVCd0xKTnFB?oc=5",
+      "published_at": "2026-11-19T07:41:15.000Z",
+      "publisher_url": "https://www.wsgr.com",
+      "snippet": "Wilson Sonsini Advises Compute Desk on $45 Million Financing as it Emerges from Stealth Wilson Sonsini",
+      "source_feed": "gnews-g8",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 45000000,
+        "currency": "USD",
+        "raw": "$45 Million"
+      },
+      "company_guess": "Wilson Sonsini",
+      "group_key": "wilson sonsini",
+      "group_rank": 0,
+      "resolved_url": "https://www.wsgr.com/en/insights/wilson-sonsini-advises-compute-desk-on-dollar45-million-financing-as-it-emerges-from-stealth.html",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "07f3ea4114b9",
+      "title": "Canadian robotics firm raises $28M to fuel Arizona expansion",
+      "publisher": "The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVVNY2JwSldQM1pMS2N2c1hFOXNCX3U5UkxoSWdmamlwM0lfNm83VThPYWJZWFJTa3FMbUZ1MS1KQ0pqWG5BbUhkNzBYQUFrRXVTT0paN21iQ2JqZjBGWXNCZTNGODI4VkNlRi1Vc3lsRFUyczVWZWwydUFtbjVXMmRSaEpxYXZtUXl1Nmt6alE0c1FVYkMxY1FHYw?oc=5",
+      "published_at": "2026-11-18T21:37:00.000Z",
+      "publisher_url": "https://www.bizjournals.com",
+      "snippet": "Canadian robotics firm raises $28M to fuel Arizona expansion The Business Journals",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 28000000,
+        "currency": "USD",
+        "raw": "$28M"
+      },
+      "company_guess": "Canadian robotics",
+      "group_key": "canadian robotics",
+      "group_rank": 0,
+      "resolved_url": "https://www.bizjournals.com/phoenix/news/2026/11/18/promise-robotics-raises-series-b-round.html",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "bcca74ac925e",
+      "title": "GlassPoint Raises $24 Million to Support Middle East Expansion",
+      "publisher": "Mercom Capital Group",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2pVY2FrcXlPRndoSWpuOUZFZFl5WVJZNlZwY2VyZUk3N1lhSGhmeUUtOEk5LTFPZW04dXAtcTE3NXM1cnBFWS01THZadDViaDM4U0xwd1g3d2ZKNHdGY0NPVDNRVWoxOTBZQ3BGMjI4VXZNaFQ5YkVORW01RU5yTF9laW1idkRsY3VfZGVya3lyUQ?oc=5",
+      "published_at": "2026-11-19T09:15:13.000Z",
+      "publisher_url": "https://mercomcapital.com",
+      "snippet": "GlassPoint Raises $24 Million to Support Middle East Expansion Mercom Capital Group",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 24000000,
+        "currency": "USD",
+        "raw": "$24 Million"
+      },
+      "company_guess": "GlassPoint",
+      "group_key": "glasspoint",
+      "group_rank": 0,
+      "resolved_url": "https://mercomcapital.com/glasspoint-raises-24-million-to-support-middle-east-expansion/",
+      "text": "November 19, 2026\nStaff\nSolar\nFrom: Mercom India\nGlassPoint , a company that provides solar thermal-based energy solutions, has raised $24 million in a funding round led by European asset management firm New Investment Solutions, with participation from new investor MITO Tech Ventures.\nThe latest investment takes GlassPoint’s total funding raised in 2026 to $44 million. The company raised $20 million in January of this year in a round also led by New Investment Solutions, with participation from returning investor MIG Capital.\nGlassPoint said the funding will support its expansion across the Middle East, including establishing operations in Saudi Arabia, Kuwait, and Oman and expanding its presence in the United Arab Emirates.\nThe expansion will include executive, engineering, and operational hiring and additional local project delivery capacity. GlassPoint relocated its executive team from the U.S. and Europe to the UAE earlier this year.\n“The Middle East is building one of the world’s most ambitious industrial economies, and that growth will require extraordinary amounts of reliable, competitively priced heat,” said Rod MacGregor, CEO of GlassPoint. “Recent events have reinforced the importance of energy security, and our platform addresses both the economic and strategic needs of heavy industry.\nThe company’s industrial heat platform combines concentrated solar thermal technology with thermal energy storage and can incorporate multiple energy sources. GlassPoint said the system is designed to provide continuous process heat for industrial operations.\nIts enclosed trough technology converts solar energy directly into heat. The technology is paired with GlassPoint’s Unify thermal storage system, which stores thermal energy to support heat delivery during periods without sunlight.\nGlassPoint has deployed its technology in Oman through the Miraah project, which has delivered up to 2,000 tons of solar steam per day for almost a decade, according to the company.\nIn Saudi Arabia, GlassPoint is developing the Ma’aden Solar I project at Ras Al Khair. The project is designed to provide 500 MW of continuous thermal output to Ma’aden’s alumina refining operations using a 1.5 GW solar array.\nGlobal VC funding for the solar sector in the first nine months of 2026 came to $2 billion in 60 deals, a 31% decrease YoY compared to $2.9 billion raised in 55 deals in 9M 2025, according to Mercom’s 9M and Q3 2026 Solar Funding and M&A report. A total of 192 VC investors have participated in solar funding in 9M 2026.\nGlassPoint Middle East Solar Solar Thermal VC funding\n0\n0",
+      "text_status": "ok"
+    },
+    {
+      "id": "61bb629322b8",
+      "title": "GlassPoint raises $24 million to expand solar industrial heat in Gulf",
+      "publisher": "Utilities Middle East",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3JTVkhkWFpjWjJXQUdsdl9LV2JiYkhjdmgwRl90QlZzYlk5NkJXRTJyV2xIRndCRE1lVFJaY1otVnZNdzFzWHh5S2ZzLTBBOXRGWG5UYllzZEFYRERUS2wxekR4T0ZfMG1XQk4xMWt4bkZ4WUlYZF9hYXZMOUQ5TDFjQ0tyU0Vp?oc=5",
+      "published_at": "2026-11-19T05:00:00.000Z",
+      "publisher_url": "https://www.utilities-me.com",
+      "snippet": "GlassPoint raises $24 million to expand solar industrial heat in Gulf Utilities Middle East",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 24000000,
+        "currency": "USD",
+        "raw": "$24 million"
+      },
+      "company_guess": "GlassPoint",
+      "group_key": "glasspoint",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "90d9b6fdbd7b",
+      "title": "Protecting where software gets built: StepSecurity’s $20 million Series A",
+      "publisher": "Step Security",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wSzk5a1U0enpubGJ6N0FrbkpoNkptS0ZsTTVxZG1sbG50VjBMd0VLYmVCNk8xakZGZEVGQVR6ald3ZDlFN3cxbThFUTNuM0dUeExqRFVLZ19Xckg5aW9Jb0ZHNHdoRWJsbHg2SFh4cExKQVk?oc=5",
+      "published_at": "2026-11-18T16:09:05.000Z",
+      "publisher_url": "https://www.stepsecurity.io",
+      "snippet": "Protecting where software gets built: StepSecurity’s $20 million Series A Step Security",
+      "source_feed": "gnews-g1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20 million"
+      },
+      "company_guess": "Protecting where software",
+      "group_key": "protecting where software",
+      "group_rank": 0,
+      "resolved_url": "https://www.stepsecurity.io/blog/stepsecurity-20-million-series-a",
+      "text": "Back to Blog\nResources\nProtecting where software gets built: StepSecurity’s $20 million Series A\nToday, we’re announcing an oversubscribed $20 million Series A led by Elephant to expand protection for developer machines, package downloads, CI/CD pipelines, and agent sandboxes.\nVarun Sharma\nView LinkedIn\nNovember 18, 2026\nShare on X\nShare on X\nShare on LinkedIn\nShare on Facebook\nFollow our RSS feed\nTable of Contents\nLoading nav...\nAshish and I still remember the incident-response war rooms after the SolarWinds supply chain attack in Dec 2020. Ashish was at Uber and I was at Microsoft. We were trying to answer two questions: were we affected and how would we prevent an attack like this from happening again? The cybersecurity solutions we had relied on offered frustratingly little help with the questions in front of us. Our teams scrambled to piece together the answers and build homegrown workarounds under high pressure.\nA few months later, attackers inserted malicious code into Codecov’s Bash Uploader, bringing the same scramble back. The malicious code stole secrets from customers’ CI/CD environments for roughly two months before it was discovered.\nThe security tools we relied on focused on vulnerabilities attackers might exploit in production. These attacks exposed a different risk. Malicious code could cause damage on a developer’s machine or in a CI/CD pipeline. It did not need to reach production.\nThose experiences drove us to start StepSecurity in 2021. We wanted security teams to have visibility and protection in the environments where software gets built.\nWe raised our seed round of $3 million in May 2024. Since then, our ARR grew 5× in 2024 and again in 2025. In 2026, we have already crossed that 5× growth milestone and are on pace for our biggest growth year yet.\nMore than 20,000 open-source projects now use our Harden-Runner community tier. Enterprise customers including Circle, Dexcom, Kong, Mercor, Mercari, Chainguard, and XBOW trust StepSecurity to protect their software supply chains.\nToday, we’re announcing an oversubscribed $20 million Series A led by Elephant, with participation from existing investors Runtime Ventures, Inner Loop Capital, and SaaS Ventures.\nThe problem that led us to start StepSecurity has grown more urgent and now extends to every knowledge worker. Any knowledge worker can ask an AI agent to perform a task, such as creating a spreadsheet. To complete it, the agent may download open-source packages and execute code.\nSoftware is now built everywhere: by agents on laptops, in the cloud, and inside pipelines. That creates a larger attack surface, even as AI makes attacks easier to launch.\nRecent attacks show how developer tools and workstations can expose sensitive systems. Examples include the tampered Claude Code extension in Cursor’s marketplace and Binance’s reported breach.\nThis funding will strengthen the protection our products provide for developer machines, package downloads, and CI/CD. It will also help us build protection for agent sandboxes.\nMomentum since our seed round\nAnnual ARR growth\n2024 5×\n2025 5×\n2026 · to date >5×\nThe problem that brought us here\nAshish and I met at Microsoft in 2009. I went on to lead the Green Team within Azure Security, focused on making security easy for developers. Ashish built Uber’s cloud security function and later led infrastructure security at Plaid, securing cloud environments and the systems developers used to build and deliver software. We had lived with the challenge of protecting those environments while helping developers get their work done.\nWe saw attackers shifting left into the systems used to build and deliver software by compromising trusted open-source components that many enterprises used. From their perspective, it made sense: compromise one component, and they could reach many organizations at once.\nThe security tools we had relied on were built primarily to defend against attacks in production. Even application security tools used during development largely reflected that threat model. The threat model behind traditional software composition analysis (SCA) focused only on vulnerabilities.\nIn a typical scenario, an open-source developer makes an honest mistake that introduces a vulnerability into their project. A security researcher or threat actor then discovers that vulnerability. To compromise an enterprise using this vulnerability, the vulnerable component would need to move from a developer’s machine into a code repository, through the CI/CD pipeline, and all the way into production. An attacker would then need to exploit the flaw in the running application over a network connection.\nSolarWinds and Codecov exposed a different problem: attackers had deliberately planted malicious code in trusted software. This meant the compromised component did not need to reach production. It only needed to execute somewhere in the software development and delivery pipeline, such as a developer’s machine or a CI/CD job, to exfiltrate secrets. Attackers then used those stolen credentials to access production systems and data. None of the security tools we relied on were monitoring these points in the pipeline for this kind of attack.\nA shorter path to harm\nThe attack doesn’t have to\nreach production.\nProduction vulnerability\nMalicious dependency\nThis was the gap we set out to close. We needed protection that assumed a trusted dependency could turn malicious and could detect and stop it when executed. And because that protection had to operate where developers worked, it needed to fit their workflows without slowing them down.\nTrust earned through open source\nThe traditional playbook for a cybersecurity startup is to go after enterprise customers with top-down sales. We did the opposite. We started by building a platform for the open-source community, and for our first two years, that was all we did. Our goal was to build an effective solution that open-source maintainers would actually adopt.\nFor our first",
+      "text_status": "ok"
+    },
+    {
+      "id": "49435f821c60",
+      "title": "Live experiences platform Speakeasy, backed by Yamaha’s music fund, raises $18.8M Series A",
+      "publisher": "Music Business Worldwide",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYlVhZGV4TTNwRXB1VUtZWUpSSHpDb1otM3ptTkg1ZXhyZ0xsSTJXWWpxWGVNYmlqVEZxY2lmZjBhazByZ19BajFVY0dLRnJDVTkwM3lEekRBT2FWWXVsdnoyaEZ1Xzd3Ty1IZ3dXVGY3MlY2Q3FFemFMVEwtZDVuMEtLdGlQMlpuSk1LN0tpajdzS19hdXU1ZXdBY3NrcllrdFFKNDVPdm1Ma0VUZkVRQXNaVmNMQjFrZlpYbnU1UlFsYTU0?oc=5",
+      "published_at": "2026-11-18T15:53:59.000Z",
+      "publisher_url": "https://www.musicbusinessworldwide.com",
+      "snippet": "Live experiences platform Speakeasy, backed by Yamaha’s music fund, raises $18.8M Series A Music Business Worldwide",
+      "source_feed": "gnews-g1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 18800000,
+        "currency": "USD",
+        "raw": "$18.8M"
+      },
+      "company_guess": "Live experiences platform",
+      "group_key": "live experiences platform",
+      "group_rank": 0,
+      "resolved_url": "https://www.musicbusinessworldwide.com/live-experiences-platform-speakeasy-backed-by-yamahas-music-fund-raises-18-8m-series-a/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "318d4076c290",
+      "title": "Boba Bhai raises $18 million led by Left Lane Capital",
+      "publisher": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmlHYndncWhuQmladHh0cHp2MEFMS3JVSW5uNmlfbFo4Y0tPbVF5Vi1XU1NaQ3VuU3hNNEJyVUdMYlV2TkJuM3J0THRiX2tmUzN2YXBaNTZwRTdpMmZqSTlzbkhxMjUyV0gzbFJJN2dKX09USVV6ekNzSDByTEd0bGxpd0hCQlVLZWpmTzZWOFlLRzlXUTRQTlliU19KeWY1SXhZb2pJTldVbHVzX2RhLV9tT1dCVERC0gG-AUFVX3lxTE5JYTk4RnV1QmMyeW9fcXBjT1RKdExXTGxieldRWnVxMUV0bXhORklWbVRxWkFpRFJWUTloaXplZ1d4RnBOdlhIb0E4UU55Nzc4TENBNFZ6NkRqM2tXaDBkTTcyNkhMMEF2V25GbnYyZ0NjeG1PUUhrYm1XZU5mYUc5WXNNQ0JWNzE3R0FLWXFZQWgtOGxlaUxicU5qTDhHWTQ3NUxfcVJ2LWZtQVV5SWNReW9vQ09hYTk0eVFpWVE?oc=5",
+      "published_at": "2026-11-19T02:44:20.000Z",
+      "publisher_url": "https://www.moneycontrol.com",
+      "snippet": "Boba Bhai raises $18 million led by Left Lane Capital Moneycontrol.com",
+      "source_feed": "gnews-3",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 18000000,
+        "currency": "USD",
+        "raw": "$18 million"
+      },
+      "company_guess": "Boba Bhai",
+      "group_key": "boba bhai",
+      "group_rank": 0,
+      "resolved_url": "https://www.moneycontrol.com/news/business/funding/boba-bhai-raises-18-million-led-by-left-lane-capital-14084073.html",
+      "text": "Select language English\nHindi\nGujarati\nSpecials\nSearch Quotes, News, Mutual Fund NAVs\nQuotes\nMutual Funds\nETFs\nCommodities\nFutures & Options\nUnlisted Shares\nCurrency\nNews\nTopic\nCryptocurrency\nForum\nNotices\nVideos\nGlossary\nAll\nMy Alerts\nGo Ad-Free\nHello, Login\nHello, Login\nLog-in or Sign-Up\nMy Account\nMy Profile\nMy Portfolio\nMy Watchlist\nMy Alerts\nMy Messages\nPrice Alerts\nMy Profile\nMy PRO\nMy Portfolio\nMy Watchlist\nMy Alerts\nMy Messages\nPrice Alerts\nLogout\nLoans up to ₹50 LAKHS\nFixed Deposits\nCredit Cards Lifetime Free\nCredit Score\nLoan against MFs\nChat with Us\nDownload App\nFollow us on:\n->->MC_ENG_DESKTOP/MC_ENG_NEWS/MC_ENG_BUSINESS_AS/MC_ENG_ROS_NWS_BUS_AS_ATF_728\nGo PRO Now PRO\nAdvertisement\nRemove Ad\nPRO\nMarkets\nHOME\nINDIAN INDICES\nGLOBAL MARKETS\nSTOCK ACTION\nAll Stats\nTop Gainers\nTop Losers\nOnly Buyers\nOnly Sellers\n52 Week High\n52 Week Low\nPrice Shockers\nVolume Shockers\nMost Active Stocks\nTECHNICAL TRENDS\nOPEN INTEREST TRENDS\nTRENDING STOCKS\nTECHNICAL ANALYSIS\nUNLISTED SHARES\nCORP LENS\nECONOMIC CALENDAR\nECONOMIC INDICATORS\nSTOCK SCANNER\nFundamental Scanner\nTechnical Scanner\nEARNINGS\nSECTOR ANALYSIS\nIPO\nUS MARKETS\nINDEX CONTRIBUTION\nPRE MARKET\nMARKET ACTION\nF&O\nFII & DII Activity\nMarket Turnover\nCorporate Action\nCorporate Filings\nPRO STOCK LISTS\nSEASONALITY ANALYSIS\nETFs\nBIG SHARK PORTFOLIOS\nBUSINESS GROUPS\nSTOCK IDEAS\nBONDS\nDEALS (Bulk, Block & Intraday)\nCOMMODITY\nCURRENCY\nCRYPTOCURRENCY\nNews\nLATEST NEWS\nElections 2026\nBUSINESS\nEconomy\nCompanies\nMutual Funds\nPersonal Finance\nIPO\nStartup\nDeals & Mergers\nBank Holidays 2026\nBanking\nNATION & WORLD\nIndia\nCity\nWorld\nPolitics\nDefence\nMARKETS\nStocks\nTechnical Analysis\nEquity Research\nCommodities\nCurrency\nGold Rate\nSilver Rate\nAQI\nEarnings\nSPECIAL\nTrends\nOpinion\nExplainers\nMC Buzz\nMC Features\nTECHNOLOGY\nPersonal Tech\nAuto\nFintech\nMEDIA\nPodcast\nPhotos\nVideos\nWeb Stories\nCRYPTO DASHBOARD\nIFSC CODE FINDER\nPETROL PRICE IN INDIA\nDIESEL PRICE IN INDIA\nECO PULSE\nMC LEARN\nOTHERS\nEntertainment\nSports\nLifestyle\nHealth and Fitness\nEducation\nJobs\nScience\nAstro\nReligion\nTravel\nEditor’s Picks\nTech\nIndia\nGamechangers\nPortfolio\nWatchlist\nCommodities\nMutual Funds\nEXPLORE\nHome\nTop Rated Funds\nCategory-wise MFs\nETFs\nLoan Against Mutual Funds\nGold Loan\nNFO\nLearn\nTOOLS\nReturns Calculator\nLumpsum SIP Balancer\nDelay Cost Calculator\nDISCOVER\nLong Term Wealth Generators\nNifty Outperformers\nSIP Leaders\nMF FORUM\nTRACK\nYour MF Investment\nMF Prices\nPersonal Finance\nEXPLORE\nHome\nInvesting\nInsurance\nBanking\nFinancial Planning\nProperty\nTools\nVideo\nAsk Expert\nExplainer\nNPS\nFIXED DEPOSIT\nFDs @ 8.15% p.a.\nFixed Deposit Comparison\nFixed Deposit Interest Calculator\nCorporate Deposits\nTAX\nIncome tax Filing Guide\nIncome Tax Calculator\nLTCG Tax on Property\nBANK HOLIDAYS 2026\nLOANS & CREDIT CARDS\nLoans\nLoans up to ₹50 LAKHS\nPick your Loan Amount\n₹50K Personal Loan\n₹1L Personal Loan\n₹2L Personal Loan\n₹5L Personal Loan\n₹10L Personal Loan\n₹15L Personal Loan\nTop Loan Providers\nRING\nPREFR\nL&T Finance\nFIBE\nCASHE\nBajaj Finserv\nAditya Birla Finance\nPersonal Loan\nLoan Against Mutual Funds\nGold Loan\nInstant Loan\nEMI Calculator\nPersonal Loan Articles\nTOOLS\nProvident Fund Calculator\nAssets Allocation Planning\nDebt Reduction Planner\nDebt Evaluation Calculator\nCurrent Expense Calculator\nMore Calculators →\nCREDIT CARDS LIFETIME FREE\nCredit Score\nFINANCE TRACKER\nREAL ESTATE : TRENDS & ANALYTICS\nGOLD PRICE TODAY\nUpcoming Chat | Previous Transcripts\nAll Schedule | Previous Transcript\nForum\nEXPLORE FORUM\nHomepage\nMembership Rules\nForum Topics\nAsk the Expert\nTop Boarders\nUSER PROFILE\nFORUM TOPICS\nLatest Threads\nStocks\nIndex\nGold\nPersonal Finance\nJust Posted\nMF FORUM\nPOLLS\nLatest Polls\nHistorical Polls\nMarket Sentiments\nSUPPORT\nFAQs\nCode of Conduct\nFeedback\nWrite to us\nVideos\nVIDEOS\nHomepage\nVideo on Demand\nMarkets With Moneycontrol\nMC Specials with Nalin Mehta\nWealth Formula\nLatha and the Leaders\nPolitical Economy\nInternational\nPODCAST\nHomepage\nPodcast on Demand\nThe Week on Dalal Street\nMarket Minutes\nMC Special Podcast\nSimply Save\nPolicy Talks\nLIVE TV\nHindi\nGujarati\nInvest Now\nInvest in Unlisted Shares\nPowered By\nInvest in Top Unlisted || Pre-IPO Stocks\nDiscover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they hit the markets\nInvest Now\nWealth Review\nPowered By\nYour portfolio. Reviewed by experts.\nA complementary check for gaps and risk.\nStart Free review\nInvest in U.S. Stocks & ETFs\nPowered By\nBuild a Global Portfolio. Diversify Beyond India\nInvest in Apple, Nvidia, Microsoft, Tesla and 9,000+ U.S. stocks & ETFs. Start from just ₹1.\nInvest Now\nBusiness\nMarkets\nStocks\nEconomy\nCompanies\nTrends\nIPO\nOpinion\nEV Special\nEco Pulse\n15\nHome\nNews\nBusiness\nFunding\nBoba Bhai raises $18 million led by Left Lane Capital\nTrending Topics\nSensex Today\nVenu Srinivasan\nAnthropic Share Price Live\nPM Modi on Employment\nGold and Silver Price Today\nBoba Bhai raises $18 million led by Left Lane Capital\nBIG Capital also participated in the round alongside existing investors, as the Korean street food and bubble tea chain looks to expand its store network and build new food brands\nMoneycontrol News\nNovember 19, 2026 / 08:14 IST\nBoba Bhai raises $18 million funding led by Left Lane Capital\nBoba Bhai raised $18M in a Series B funding round.\nLeft Lane Capital led the investment with BIG Capital.\nFunds will fuel store expansion and new brand launches.\nDid our AI summary help?\nMarket Mastery\nWebinar by Vishal Malkan\nFind the weak links\nin your portfolio by Vishal Malkan\nRegister for FREE Webinar Register for FREE\nBoba Bhai, a quick-service restaurant (QSR) chain specialising in bubble tea and Korean-inspired street food, has raised $18 million (around Rs 168 crore) in a Series B funding round led by US-based Left Lane Capital, with participation from BIG Capital and existing investor Titan Capital.\nMoneycontrol wrote in October that Boba Bhai was in talks to raise around Rs 100-120 crore from Left Lane Capital at a valuation of around Rs 1,000 crore . The fundraise brings Left Lane",
+      "text_status": "ok"
+    },
+    {
+      "id": "4a426e7ecbc0",
+      "title": "Boba Bhai raises $18 million Series B to take its bubble tea, Korean street food business deeper across India",
+      "publisher": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWU4tX28yeHUxb2JmRVdOc3MyY3VPeFR6bnhCQVp1U0dVeFlENUhGVTBNVjFZZ0draktQaF9YaUxfTnhXMjNSUVB3SE9PVUhHbnVNSklUclIxY0E0ZGZrd2lYMk9iZFYyNjVCMWYxZW1lckZNb3VzU3ludE5kaTVFaVRNN3dfVmtjY3ZVaW41RWtRMldCV3htbUhWX3hVb1ZGd0pRNDYxdUg2SVpaNnFQUU81cDJ2QWttRk8tLUtFZDVrM2hKcUhSdVYyY3NyOXlxbmZFYW5UNHZzR28xVFA3RU5fTXdfX3JaaFVMTzhjMWJyZXlkNUJzbVhWOE5MczJ4LTdCZ9IBiwJBVV95cUxOQ2MxbVZRNjRLZG96aG12TmZGSjBUMkVJT242andUV21LZ2RzQkxybU9JRHZ1czZmNmZrTHFlWENhNHJ0SlNaUXN3MDgxUjdlb2NzMVEwVkFkVU9RX3R5YS14cV83bnlvZU0xeXJUM1U5SHFIdVEta2MtaThGcTdtdkliV3VZanQ3N2dFT1JJYk1YT2xyODZVc0xraFc4NElpanUwczdpbmR1NHNTd21fX2gyb1RfUktkQjhTU1JXTDdsWkhIckNaWFdwSGxCS0E5d0hHU3hpMU02SWtEZHJObV9IaW5tSmxWMzRkVWlBSzBBd0NhckJ2ZjNzQm5DUU81NGtMVVIxajBpeWc?oc=5",
+      "published_at": "2026-11-19T00:30:00.000Z",
+      "publisher_url": "https://www.thehindubusinessline.com",
+      "snippet": "Boba Bhai raises $18 million Series B to take its bubble tea, Korean street food business deeper across India BusinessLine",
+      "source_feed": "gnews-g2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 18000000,
+        "currency": "USD",
+        "raw": "$18 million"
+      },
+      "company_guess": "Boba Bhai",
+      "group_key": "boba bhai",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "6793dfdc3901",
+      "title": "Boba Bhai raises $18 million in Series B funding to expand store network, launch new brands",
+      "publisher": "ET Retail",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPNmRtazZDRC1rdFYxS2lZMXd4dkN2YTF2ZVNqdlBXTTNkZDhkeGJRbDh5YWJaMzlYVHhPN09CT19aTmdEWjlVMjN6cENWcVZCTjdDdWYzdXVGNURxMVdKR1JHaHlLZXh6TFUtb3ZMMnpCYWJSWV9LT2N5cnI4aDB6RlZpckVFc0tDV3RrQzVRaWFUdFVFejBBMlhJOEpPUWU2emMxRjJiZVkwcF9YSGREVlhJd1RjSFYyWlNyNHFGRUVTMmlXaDNqTWREVFJGNmpvcG1VU25TRWp1YkhtdDFrQk5Fc3dZRi1fWDgzSVJjMlM1VHgxcGdTeXNncEljc3AxUmd2bmhUeDZkbWpyN1HSAZICQVVfeXFMT1pZR3V6LVRialk1c0pqbndJeWhkRm9MajhlRjUwbUllT21Ea0taZk55UDZOYUxyTWpmYTNOeTllTlpZV3hiSHBxS19PX3BpQXE0VlFNR1dVSnVYRklFcWxoY1dMQkRVVll4QkxNbjJUaF9CNlNETm5JV0ZLN0ZHbnhhVWl0Y3Z4czd0Nnl6Qm5DYUNRYUJobi15b25yM0k4d24zM2hrZ1N4TktnTDBZQXZjeEFDeGtLczRPbVc3akwzQWlGX1EyZHVqNW5Bemh4ZEgxNmRIMnZqbkloUmRqdEFiV2c5T0xZdGtBM0RtYmVWajZDdk4yWExGVDFMdDE1ajc2TVQyRnhIcFJhLXljUFAwdw?oc=5",
+      "published_at": "2026-11-19T05:59:17.000Z",
+      "publisher_url": "https://retail.economictimes.indiatimes.com",
+      "snippet": "Boba Bhai raises $18 million in Series B funding to expand store network, launch new brands ET Retail",
+      "source_feed": "gnews-g2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 18000000,
+        "currency": "USD",
+        "raw": "$18 million"
+      },
+      "company_guess": "Boba Bhai",
+      "group_key": "boba bhai",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "53d773fc24e0",
+      "title": "Boba Bhai Raises $18 Million in Series B Funding Led by Left Lane Capital",
+      "publisher": "Siliconindia",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTjVqMGI1TEI4aTVYRmp1UHZwS3VBSDVYb09lWWRpT05uM29vc2Z4dVdURlRNbmJHMl9RWnZrMDRnRGZsaW9naTJ4eUQwcHVhQWFRbFBaVHUtOVVzSXFTeEl2WW1BNTdtUzBYWW9rWDZqVE1MVU91NnZURFdPZy1KeHJJc09PTGl3NzM2SDVLV2M0LTR6WTlib0JKc2ZzLWVoWkdpOW5tR01LMTFyamN2bTUtdXN4OW1OcVBScTBMUG5FZHdSdmY3RUNBbnloWDQ3bWJJUmRYTHk?oc=5",
+      "published_at": "2026-11-19T08:11:12.000Z",
+      "publisher_url": "https://www.siliconindia.com",
+      "snippet": "Boba Bhai Raises $18 Million in Series B Funding Led by Left Lane Capital Siliconindia",
+      "source_feed": "gnews-g2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 18000000,
+        "currency": "USD",
+        "raw": "$18 Million"
+      },
+      "company_guess": "Boba Bhai",
+      "group_key": "boba bhai",
+      "group_rank": 3,
+      "text_status": "skipped"
+    },
+    {
+      "id": "b880d9f1410b",
+      "title": "Boba Bhai Raises $18 Million In Series B Round Led By Left Lane Capital",
+      "publisher": "ascendants.in",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQWhzYzlZOW1LLUlmWUwzUk5ZR1VHQVh5LU1zdWtYTDZudl96OUpld3ZBNy1oLVpEdl94aFdsS3pRT2hFa1dhZzQzaFZIeTB2eC1sSVlMd0FpeGVFSU5IRE5Fb3RkU0tITnB6d1hCZzNjX1ZBQ2ZiVVhxdWx4eWFpUnRnRTVyelhpM2FBQlYySS1tZFRaZmZtV1hUaU9yTWNJR1dGMVJhODhrWGhuX1R2U2FqejZQUExKN3lLOUZDbGZjcGpxMDY1Yg?oc=5",
+      "published_at": "2026-11-19T12:59:04.000Z",
+      "publisher_url": "https://ascendants.in",
+      "snippet": "Boba Bhai Raises $18 Million In Series B Round Led By Left Lane Capital ascendants.in",
+      "source_feed": "gnews-g2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 18000000,
+        "currency": "USD",
+        "raw": "$18 Million"
+      },
+      "company_guess": "Boba Bhai",
+      "group_key": "boba bhai",
+      "group_rank": 4,
+      "text_status": "skipped"
+    },
+    {
+      "id": "03670fcd9fcb",
+      "title": "Quick service restaurant chain Boba Bhai raises $18M in Series B round",
+      "publisher": "YourStory.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYUk2ZTBIbWJiMi1CcURUMnlsWkdGV1d6TUhtUU1RSDZQV2sxVlJ5M1lYSU5sc3NwS2Ywc1R1RVRRdE9QMUloS0FRQ2x3OVFGRk40V2xUSlVGRm5rRTJmVWY3dnVRV2V1LXRpLXlDdUFLR0pycmpBX2o0RnhGaGdYNg?oc=5",
+      "published_at": "2026-11-19T00:40:16.000Z",
+      "publisher_url": "https://yourstory.com",
+      "snippet": "Quick service restaurant chain Boba Bhai raises $18M in Series B round YourStory.com",
+      "source_feed": "gnews-g2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 18000000,
+        "currency": "USD",
+        "raw": "$18M"
+      },
+      "company_guess": "Quick service restaurant chain",
+      "group_key": "quick service restaurant chain",
+      "group_rank": 0,
+      "resolved_url": "https://yourstory.com/2026/11/boba-bhai-raises-18-million-in-series-b-round",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "a6f2ddea794f",
+      "title": "Healthcare Startup VitusCare Raises $3 Mn In Series B Round",
+      "publisher": "BW Disrupt",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZE10N1FfMHVJX2s3UjJtYmpLd1o5MnNsd2pLWG5lRGRtdjB3dGowSHRNTVZTbThIWHBDdFFPdTRPb3g3RGhvVV94Y252MFlDWUtzTU5FTjRDUEdEblhOLTFHQWY0akRWX3Fmb0xDRGo5ZkNDdVVsVEJTbWw4X1FYQUszSHd5TFVBQVJDX2J4aHl5TGZOUDd6dkU0ZW1CMThT?oc=5",
+      "published_at": "2026-11-19T04:57:29.000Z",
+      "publisher_url": "https://www.bwdisrupt.com",
+      "snippet": "Healthcare Startup VitusCare Raises $3 Mn In Series B Round BW Disrupt",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "VitusCare",
+      "group_key": "vituscare",
+      "group_rank": 0,
+      "resolved_url": "https://www.bwdisrupt.com/article/healthcare-startup-vituscare-raises-3-mn-in-series-b-round-634257",
+      "text": "Healthcare Startup VitusCare Raises $3 Mn In Series B Round\nBW Online Bureau\nNov 19, 2026\nThe fresh capital will support the company's next phase of growth, including network expansion, technology development and workforce training",
+      "text_status": "thin"
+    },
+    {
+      "id": "c87c236877e6",
+      "title": "InPrime Finserv Raises Rs 101 Cr In Series B Funding Led By FMO",
+      "publisher": "BW Disrupt",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMm50Wkh0V0k2ZElyT2RqMWktQUhobHdGd1E3VjFlTmtqVnBmbUlmQWRvMG1CQm9wV0JBeXRZZzlzZ1R2bWV4M0JkMEhpbzMya0xYM0lpU2FyNXN0SEVGUy1PTWNlVGZPTmxfaWlLQVlaNlAzSmw0bUdmY0RSTzRldjFGRDRnekRsd2hSbWJjRUVQNUtOaUM3LWt0S29PM1hpTkNKLUp3dw?oc=5",
+      "published_at": "2026-11-19T06:55:26.000Z",
+      "publisher_url": "https://www.bwdisrupt.com",
+      "snippet": "InPrime Finserv Raises Rs 101 Cr In Series B Funding Led By FMO BW Disrupt",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "InPrime Finserv",
+      "group_key": "inprime finserv",
+      "group_rank": 0,
+      "resolved_url": "https://www.bwdisrupt.com/article/inprime-finserv-raises-rs-101-cr-in-series-b-funding-led-by-fmo-634288",
+      "text": "InPrime Finserv Raises Rs 101 Cr In Series B Funding Led By FMO\nBW Online Bureau\nNov 19, 2026\n# AI-first financial services\n# NBFC\n# NBFC personal loan\n# Personal loan for middle class\n# Quick business loan India\n# Easy loan application\n# Financial services for small business\n# Prime loan opti\nInPrime said four in-house AI co-pilots are currently supporting its credit team, while three AI-powered voice agents handled more than 126,000 customer calls between April and September 2026",
+      "text_status": "ok"
+    },
+    {
+      "id": "41125b7b86fe",
+      "title": "InPrime Finserv raises Rs 101 Cr in Series B round led by FMO",
+      "publisher": "Entrackr",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM25mMWxKMzNHMHNBNUxoWXVHOTZEOGtvbHpyN2dSMGx0Ymt1YW1pV1B0OUZTVlVxTmM3LWt5aVk4bE5wWTZnb1Q4elFyZGNEcFZZMjFnTXRHdVJoZllCbWNjZ3dZc2drZDBCS2M5QnBmUVlRWHpLUkdUQmY2UG5uRnpIaGtmVU84c1RJS1RwRjFrUENJMlVqZTY0TTZhbGRwb0HSAaIBQVVfeXFMTjNuZjFsSjMzRzBzQTVMaFl1Rzk2RDhrb2x6cjdnUjBsdGJrdWFtaVdQdDlGU1ZVcU5jNy1reWlZOGxOcFk2Z29UOHpRcmRjRHBWWTIxZ010R3VSaGZZQm1jY2d3WXNna2QwQktjOUJwZlFZUVh6S1JHVEJmNlBubkZ6SGhrZlVPOHNUSUtUcEYxa1BDSTJVamU2NE02YWxkcG9B?oc=5",
+      "published_at": "2026-11-19T11:41:38.000Z",
+      "publisher_url": "https://entrackr.com",
+      "snippet": "InPrime Finserv raises Rs 101 Cr in Series B round led by FMO Entrackr",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "InPrime Finserv",
+      "group_key": "inprime finserv",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "85c41b9c0841",
+      "title": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round",
+      "publisher": "Entrackr",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDg3cTVDZF9xSWlwUXdFRmxvYkhBWHJxRHZCVUxqU2xTWm5naDZPUTZvcTVUQVFtSlY4YXFBcGpHcjA2RnpES01iT2FQb0hkWi14OU5ScE0tV2lITHIxQWNacDA3RGRRUXhMZ3FEU05yLTNaMEV5ZGFRQWNmN01YSWhBTkZsblNvem9oNGpBV3RzNnpkUHRDUnZZVHVTQXlnRVNTaWdIRkJXUzN3dXlzN0IwTnA0N0HSAbcBQVVfeXFMT0w4N3E1Q2RfcUlpcFF3RUZsb2JIQVhycUR2QlVMalNsU1puZ2g2T1E2b3E1VEFRbUpWOGFxQXBqR3IwNkZ6REtNYk9hUG9IZFoteDlOUnBNLVdpSExyMUFjWnAwN0RkUVF4TGdxRFNOci0zWjBFeWRhUUFjZjdNWEloQU5GbG5Tb3pvaDRqQVd0czZ6ZFB0Q1J2WVR1U0F5Z0VTU2lnSEZCV1Mzd3V5czdCME5wNDdB?oc=5",
+      "published_at": "2026-11-19T08:26:38.000Z",
+      "publisher_url": "https://entrackr.com",
+      "snippet": "Disseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round Entrackr",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Disseqt AI",
+      "group_key": "disseqt",
+      "group_rank": 0,
+      "resolved_url": "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900",
+      "text": "Snippets\nDisseqt AI raises $8 Mn led by Gresham House Ventures, Rahul Dravid joins round\nAI governance and assurance startup Disseqt AI has raised $8 million in a funding round led by Gresham House Ventures, with participation from existing investor Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland.\nGyan Vardhan\n19 Nov 2026\n13:56\nIST\nFollow Us\nNew Update\nAI governance and assurance startup Disseqt AI has raised $8 million in pre-Series A funding round led by Gresham House Ventures, with participation from existing investor Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland.\nThe round also saw participation from angel investors, including senior executives from OpenAI, Palo Alto Networks, Salesforce and Meta, along with former Indian cricket captain Rahul Dravid, who invested in his individual capacity.\nThe fresh funds will be utilized to expand its enterprise customer base globally and hiring across sales, operations and technology roles in India, Disseqt said in a press release.\nFounded in late 2025 by Apoorva Kumar, Manish Atri and Cyril Treacy, Disseqt AI provides an AI governance and assurance platform that helps enterprises test, monitor and govern AI applications and agents.\nIts platform enables businesses to assess AI agents for vulnerabilities before deployment, enforce company policies once they go live, and continuously monitor their behaviour. It can also block outputs that violate organisational policies while maintaining audit trails for compliance and oversight.\nThe platform allows enterprises to test whether AI agents can be manipulated into revealing confidential customer information or exhibiting other vulnerabilities before being deployed in business operations.\nThe funding comes amid growing enterprise adoption of AI agents and increasing concerns around their safety, security and regulatory compliance. According to McKinsey's 2026 State of AI survey, 40% of respondents at companies with annual revenues exceeding $1 billion were scaling AI agents in at least one business function, compared with 27% a year earlier.\nDisseqt said it has already deployed its assurance capabilities across multiple enterprise use cases. In a project involving a global sports league's fan engagement agent, which serves 80 million fans, the company improved the safe-response rate from 80% to 99% across tests covering safety, bias and privacy risks. It added that no unsafe outputs were detected when the original failing tests were repeated after fixes.\nThe company also provides assurance services for a credit card services programme at a large European bank.\nThe investment marks another bet on the emerging AI governance and assurance segment, as enterprises look to deploy autonomous AI systems across customer interactions, financial services and internal business operations.\nDisseqt AI\nShow reader opinions\nDisclaimer:\nBareback Media has recently raised funding from a group of investors. Some of the investors may directly or indirectly be involved in a competing business or might be associated with other companies we might write about. This shall, however, not influence our reporting or coverage in any manner whatsoever. You may find a list of our investors here .\nSubscribe to our Newsletter!\nBe the first to get exclusive offers and the latest news\nSubscribe Now\nRelated Articles\nRead the Next Article",
+      "text_status": "ok"
+    },
+    {
+      "id": "f36ce6bdc270",
+      "title": "Disseqt AI Raises $8 Mn; Rahul Dravid Joins Investors in Funding Round",
+      "publisher": "Indianweb2.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BNW8xRElFRjY4Q21LZzMzM250X0JQRk1RUTJ3NmVBUGxjZ3AxSmNxN29wTk5WWS0teEg4TEJFR1hTaFdDUDZpUE9rV1N0dzctRUp5YUJfd3FsZ2tRdjBkVW5jcjhfLW1lTkR5ZnluUllEbHZVdUJPbk5hdnl5UQ?oc=5",
+      "published_at": "2026-11-19T06:19:00.000Z",
+      "publisher_url": "https://www.indianweb2.com",
+      "snippet": "Disseqt AI Raises $8 Mn; Rahul Dravid Joins Investors in Funding Round Indianweb2.com",
+      "source_feed": "gnews-5",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Disseqt AI",
+      "group_key": "disseqt",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "a82e12fe84e6",
+      "title": "The startup Wilco raises 2.5 million in a round led by Samaipata",
+      "publisher": "Demócrata",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeEtHS0FPZ2dnWjBSTUsxOV9xem9kUjBnazlXajloMTBmTGFYNGVXSDlESFVEZnY1Z0hQZmZHNGVKNXpRQ3R3cmdiRE5OSDljQ3hvU1JiM2ZSUlhEYVJSdGVJemZGMWRGQVV4bU5VU2ZiZTZHdXBzSm5FNXhWZmRfMHd2SGtwWEt3bWNaaE5XemtDWGRoV3pRTnk5WDVqdVBKak5V0gGoAUFVX3lxTE9wQW9FTWFkdjFteFBZZjloMlFGcE1RR3R3a1l5cVJRUDl2NWFhbzJKczhKa3VNbi1zSEo0OTRUazVOVWE1Z2ZNR25xRGtrZlpZb1NOTVhpbUxUMTZ6QlFCQ3Jod0ItdDItR1JFTmU3ZUkwcWRwVVRsdnUwYUlVU0JRUGNJYUx6OFVQS2pwNC13SkZwOWZwM2JhR19DZi1MWVlRVWh1dnZyUg?oc=5",
+      "published_at": "2026-11-19T07:02:29.000Z",
+      "publisher_url": "https://www.democrata.es",
+      "snippet": "The startup Wilco raises 2.5 million in a round led by Samaipata Demócrata",
+      "source_feed": "gnews-3",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Wilco",
+      "group_key": "wilco",
+      "group_rank": 0,
+      "resolved_url": "https://www.democrata.es/en/economy/the-startup-wilco-raises-2-5-million-in-a-round-led-by-samaipata/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "ece43c414dd7",
+      "title": "Bengaluru accounts for 36 per cent of funding raised by India's AI startups",
+      "publisher": "The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVGdMMVRaNFFpNEtod0pYR0ZLSjN3b2pqclAwT2NORkhtZTc1Q2RFWW5BSmpmd0IwanM4bW83VjB4VFdESmdDMG56clJkNGxuTEpwREQ0ZmdselVxZDJaQm5LXzM0dGhaY09SY3BtaWR2OEpmZm9pNTlNTk1JWXBRVml2OFk3NWNSOUQtR2IteUdRUS1kNHZTSkpOV3pWXzQ0S0FpSlNRLWlDYVp4RThhRlM0ZFRGajE5NTRRTk9jVFNBekRUSVdwTFZIVWt1azlIeHfSAd8BQVVfeXFMUFhieVh2Qy1XTGFzUHZkYW4yaVFIQWRKUlJDT0E0UkxCenRsY1NMU3BMeGFkbjVPQVRNTnN2ZDZsdXI0ZzBMNGJkU2FhbWFMUlRiSi14X2Qyenhla1lBTjhGcWNUNm50ZWg0RUhTT0JGUTBoZ2MwMGxpaldnTGRYT09MZ2phbTFkQVc4U1dIU1VCbW9lYmZEN3QtVlZ1djlGR2NMN0xrbVdZWEQyZXY2Unc0dVFZLUY0SjRkdFh2ME1CYm9wM2RBRVNtODVnelpVcGx2LVVUMzNLenhmRHZ6TQ?oc=5",
+      "published_at": "2026-11-19T06:07:00.000Z",
+      "publisher_url": "https://www.newindianexpress.com",
+      "snippet": "Bengaluru accounts for 36 per cent of funding raised by India's AI startups The New Indian Express",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Bengaluru accounts for 36",
+      "group_key": "bengaluru accounts for 36",
+      "group_rank": 0,
+      "resolved_url": "https://www.newindianexpress.com/cities/bengaluru/2026/Nov/19/bengaluru-accounts-for-36-per-cent-of-funding-raised-by-indias-ai-startups",
+      "text": "Subscribe\nE-PAPER\nINDIA\nWORLD\nSTATES\nCITIES\nOPINION\nEXPLAINER\nBUSINESS\nSPORTS\nGOOD NEWS\nENTERTAINMENT\nVIDEOS\nLIVE BLOG\nINDIA\nWORLD\nSTATES\nCITIES\nOPINION\nEXPLAINER\nBUSINESS\nSPORTS\nGOOD NEWS\nENTERTAINMENT\nVIDEOS\nLIVE BLOG\nBengaluru\nBengaluru accounts for 36 per cent of funding raised by India's AI startups\nBengaluru-based startups have raised around $85 billion since 2010, accounting for 47% of the total venture funding raised by Indian startups.\nKarnataka Minister for Electronics, Information Technology (IT), Biotechnology (BT), and e-Governance Priyank Kharge (File Photo | ANI)\nExpress News Service\nUpdated on :\n19 Nov 2026, 6:07 am\n2 min read\nCopied\nBENGALURU: Bengaluru accounts for 36.3% of the funding raised by native artificial intelligence (AI) startups in India and is home to 71% of the country's AI and deep-tech unicorns created since 2023, according to the Bengaluru Innovation Report 2026, released by IT and BT Minister Priyank Kharge at the Bengaluru Tech Summit on Wednesday.\nPrepared by the Karnataka Digital Economy Mission (KDEM), the report highlights Bengaluru's position in India's startup ecosystem, covering funding, deep tech, AI, unicorns, women entrepreneurs, IPOs and emerging technology hubs across Karnataka.\nPresenting the report, Siddarth Pai, founding partner of 3one4 Capital, said Karnataka's digital economy was valued at $159 billion and was projected to reach nearly $400 billion by 2031-32. The state accounted for 47% of India's venture capital funding between 2016 and 2026, amounting to $85 billion, the report said.\nOf the 1,556 deep-tech startups founded in Bengaluru since 2010, 1,319 are active and funded, having raised a total of $3.77 billion. The city also has 799 native AI startups, of which 764 are active and funded.\nBengaluru-based startups have raised around $85 billion since 2010, accounting for 47% of the total venture funding raised by Indian startups. Of this, $76.5 billion was raised in the past decade. The city has 3,810 active, funded startups founded since 2010, nearly twice Mumbai's 1,982.\nThe report puts the combined valuation of Bengaluru's 57 unicorns at $211 billion. They account for 44% of India's 131 unicorns and 55.3% of their combined valuation. Bengaluru has produced 46 of India's 100 unicorns since 2020, with startups taking an average of six years to attain unicorn status.\nThe city also has 212 soonicorns, accounting for 36% of India's total of 589, ahead of Delhi NCR (134) and Mumbai (121). Bengaluru startups take around five years to reach soonicorn status.\nNearly 30% of India's active, funded women-led deep-tech and native AI startups were founded in Bengaluru. These companies have collectively raised $323.65 million, the report said.\nBengaluru also accounts for a significant share of startup listings. Sixteen companies linked to the city have been listed since November 2024, with a combined valuation of around $42 billion at the time of listing. Bengaluru accounts for 33 of the 226 IPOs by funded companies in India during this period, while Karnataka-headquartered companies account for 37, or around 16%.\nStartups in Bengaluru take an average of 8.2 years from founding to exit, compared with the global average of 11.1 years. Karnataka has around 300 venture capital firms, while Bengaluru is home to 75 Category I Alternative Investment Funds (AIFs), accounting for 21% of India's total and ranking second after Mumbai.\nThe median seed funding round in Bengaluru is $810,000, while the median Series A round is $5.9 million. Domestic investors now contribute 52% of the capital raised by Category I and II AIFs. Ten family offices in Bengaluru are active in deep tech, with 57 equity-round participations in deep tech and 45 in native AI.\nThe report also highlighted efforts to expand Karnataka's startup ecosystem beyond Bengaluru. Kharge said the state's next task was to help companies working in AI, quantum computing and semiconductors grow in other cities, including Kalaburagi, Hubballi and Mangaluru. He added that deep-tech development required patient investment and the state would continue to support the sector.\nFollow The New Indian Express channel on WhatsApp\nDownload the TNIE app to stay with us and follow the latest\nBengaluru\nAI startups\nRelated Stories\nTime for Karnataka to invest big in technology, says Mohandas Pai\nExpress News Service\n10 hours ago\nCM Shivakumar pitches Karnataka as global AI hub\nKarthikeyan Doraiswamy\n18 Nov 2026\n29th Bengaluru Tech Summit to begin in city today\nExpress News Service\n17 Nov 2026\nIT-BT Minister Priyank Kharge invites tech community to share ideas\nBansy Kalappa\n01 Nov 2026\nCopyright - newindianexpress.com 2026. All rights reserved. Powered by Quintype",
+      "text_status": "ok"
+    },
+    {
+      "id": "75274ac0ed52",
+      "title": "Botsync raises $11 mn funding led by IvyCap Ventures",
+      "publisher": "ET Entrepreneur",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcHBsY3BRMHNfTUZ6UlZYLXpnMzNFeUpuTDdfSjZOU3RyTnkzZ3VYUXU3Y1BFRVY0NW5WREU2bXEzS1JVTXR5VkFvQXlYT2RuUHRwelJxeEpLZ0tzSnBJOVhIOVAyY3cxdjFSa3lKSEpEdlZqQ0RlYTRMNk42MHpvV2JCWW1naUQ1QkVMck01aEdHbUhPcXljUUxDTk5OZTRuck5JTmI2YWVuUXROUDZENnhORGFyZTVUUlJDbExFLUdaSU1MQzNB0gHHAUFVX3lxTE5wcGxjcFEwc19NRnpSVlgtemczM0V5Sm5MN19KNk5TdHJOeTNndVhRdTdjUEVFVjQ1blZERTZtcTNLUlVNdHlWQW9BeVhPZG5QdHB6UnF4SktnS3NKcEk5WEg5UDJjdzF2MVJreUpISkR2VmpDRGVhNEw2TjYwem9XYkJZbWdpRDVCRUxyTTVoR0dtSE9xeWNRTENOTk5lNG5yTklOYjZhZW5RdE5QNkQ2eE5EYXJlNVRSUkNsTEUtR1pJTUxDM0E?oc=5",
+      "published_at": "2026-11-18T06:15:17.000Z",
+      "publisher_url": "https://entrepreneur.economictimes.indiatimes.com",
+      "snippet": "Botsync raises $11 mn funding led by IvyCap Ventures ET Entrepreneur",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Botsync",
+      "group_key": "botsync",
+      "group_rank": 0,
+      "resolved_url": "https://entrepreneur.economictimes.indiatimes.com/amp/news/funding/botsync-raises-11-mn-funding-led-by-ivycap-ventures/135951834",
+      "text": "Funding\n2 min read\nBotsync raises $11 mn funding led by IvyCap Ventures\nThe company will use the capital to develop new artificial intelligence capabilities for its physical AI platform, SyncOS, improve the performance of its autonomous mobile robots, and expand its engineering and project delivery teams in India. It also plans to deepen partnerships with local systems integrators and automation providers.\nETEntrepreneur Desk\nETEntrepreneur\nUpdated On Nov 18, 2026 at 11:45 AM IST\nFounded in 2019 by Rahul Nambiar, Nikhil Venkatesh and Prashant Trivedi, Botsync combines autonomous mobile robots with SyncOS, a software platform that connects robots, machines and enterprise systems within a manufacturing facility. Botsync , a Singapore-headquartered robotics company developing automation solutions for manufacturing facilities and distribution centres, has raised $11 million in a funding round led by IvyCap Ventures with participation from Capital 2B, AppWorks, Iterative, AngelCentral, Genesis Alternate Investments and angel investor Nalin Advani.\nEvent\nVentureX - The Conclave\nAn investor-only, approval-led conclave built exclusively for people who deploy, allocate or manage investment capital. A 250+-person curated private-capital room.\nFri, 04 Dec 2026\nConrad, Bengaluru\nRegister Now\n10 Speakers\nEvent\nThe Family Capital Fellowship\nYou Built The Wealth. Now Let's Build The Institution Behind It. As wealth moves beyond the operating business, the question changes: from individual capital ownership to an institution for your wealth.\nSat, 09 Jan 2027\nMumbai\nRegister Now\nAward\nET Entrepreneur Awards 2027\nThe 4th Edition of the ET Entrepreneur Awards marks another milestone in our journey of celebrating India’s most visionary business leaders.\nNominations till Mon, 30 Nov 2026\nNominate Now\nShow More\nThe company will use the capital to develop new artificial intelligence capabilities for its physical AI platform, SyncOS, improve the performance of its autonomous mobile robots (AMRs), and expand its engineering and project delivery teams in India. It also plans to deepen partnerships with local systems integrators and automation providers.\nFounded in 2019 by Rahul Nambiar, Nikhil Venkatesh and Prashant Trivedi, Botsync combines autonomous mobile robots with SyncOS, a software platform that connects robots, machines and enterprise systems within a manufacturing facility. The system coordinates workflows and material movement across production floors and warehouses, allowing different automation systems to operate through a common interface.\nThe company&rsquo;s platform also analyses operational data to identify bottlenecks, predict maintenance requirements and improve throughput.\nBotsync has completed more than 70 projects across six countries, executing over two million production tasks at 99 per cent uptime, according to the company. It says customers have been able to recover their investments within 24 months through reduced dependence on forklifts and manual material handling, alongside improvements in productivity. Its global customers include Caterpillar, Ford, Nestle, Honda, Coca-Cola and Kimberly-Clark.\nThe company is also looking to expand its presence in Australia and establish a go-to-market operation in the US, while continuing to serve Singapore, India, Thailand and Indonesia. Its expansion plans include building a wider network of robot manufacturers and providers of factory and warehouse software that can integrate with SyncOS.\n&ldquo;As India&rsquo;s manufacturing ecosystem evolves, solutions combining robotics, AI, and intelligent automation will play a critical role in driving efficiency and scale. We believe Botsync is well positioned to address this growing opportunity and expand its footprint across global markets,&rdquo; said Vikram Gupta, founder and managing partner of IvyCap Ventures.\nBy\nETEntrepreneur Desk\nETEntrepreneur\nPublished On Nov 18, 2026 at 11:45 AM IST\nMost Read in Funding\nSachin Tendulkar invests in Recykal, extending bridge round\nPowerUp Money raises $10 mn from Flourish Ventures\nmistEO raises ₹18 crore seed funding led by MGF Kavachh\nArborum Labs raises pre-seed funding led by Speciale Invest, Ideaspring Capital\nSee more on:\nBotsync ,\nIvyCap Ventures ,\nautonomous mobile robots ,\nartificial intelligence ,\nmanufacturing automation ,\nETEntrepreneur ,\nFunding ,\nStartups ,\nDeeptech ,\nRobotics\nJoin the community of 2M+ industry professionals.\nSubscribe to Newsletter to get latest insights & analysis in your inbox.\nEnter Email\nGet updates on your preferred social platform\nFollow us for the latest news, insider access to events and more.",
+      "text_status": "ok"
+    },
+    {
+      "id": "0878c3410575",
+      "title": "Vietnamese AI-powered used car startup Vucar secures fresh funding",
+      "publisher": "Báo VietNamNet",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2JiUGg4eHhNc25lWmxNckJwM2VlZXp1SktzNm1EVUQzNnphbU9TZzJPandiVU1xTnJ4WUxaRVg4c1liNk9NeHpyS3B1aXFUWWNJcUpBYkdibTZXY3pJWWpQMC1UNlg0VmhLcDF1azNSempxMS1kZm9tZ0RjVjBCRTVubGNqbU1EZUtfbjFaQ3lqS1FpMzdWSVpCTlZlZVNja1RVTkZ4Yw?oc=5",
+      "published_at": "2026-11-19T02:29:00.000Z",
+      "publisher_url": "https://vietnamnet.vn",
+      "snippet": "Vietnamese AI-powered used car startup Vucar secures fresh funding Báo VietNamNet",
+      "source_feed": "gnews-5",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Vucar",
+      "group_key": "vucar",
+      "group_rank": 0,
+      "resolved_url": "https://vietnamnet.vn/en/vietnamese-ai-powered-used-car-startup-vucar-secures-fresh-funding-2576420.html",
+      "text": "Vietnamnet.vn\n© Copyright of Vietnamnet Global.\nTel: 024 3772 7988 Fax: (024) 37722734\nEmail: evnn@vietnamnet.vn\nDownload app\nSend to editor\nTalkshow\nHồ sơ\nẢnh\nVideo\nMultimedia\nPodcast\nTuyến bài\nSự kiện nóng\nTuyển dụng\nLiên hệ tòa soạn\nLiên hệ quảng cáo\nAa\nFacebook\nZalo\nEmail\nCopy Link\nAa\nAa\nVietnamnet global\n19/11/2026 09:29 (GMT+07:00)\nVietnamese AI-powered used car startup Vucar secures fresh funding\nCopy link\n19/11/2026 09:29 (GMT+07:00)\nFounded by entrepreneurs born in 1999, Vietnamese startup Vucar has secured another multimillion-dollar investment to expand its AI-powered used car valuation and online auction platform.\nVietnamese technology startup Vucar has completed a Pre-Series A funding round led by OSK-SBI Venture Partners, with existing investors Monk's Hill Ventures of Singapore and Antler also participating.\nFounded in Ho Chi Minh City in 2023 by a group of entrepreneurs born in 1999, Vucar operates a platform combining artificial intelligence (AI), on-site vehicle inspections and online auctions to simplify used car transactions.\nThe company did not disclose the exact funding amount, but a representative said the investment could reach several million US dollars.\nVucar previously raised a million-dollar seed funding round in September 2024. The latest investment signals continued international investor interest in its business model and expansion potential in Vietnam's used car market.\nAI-powered valuations based on over 4 million data points\nVucar's founders, all born in 1999, have secured another multimillion-dollar funding round for their used car trading platform. Photo: Vucar\nDetermining a fair selling price remains one of the biggest challenges in Vietnam's used car market.\nEven vehicles of the same model, production year and variant can command significantly different prices depending on mileage, engine condition, bodywork, maintenance history and market demand.\nOverpricing can leave a vehicle unsold for an extended period, while undervaluing it can result in financial losses for the owner. Buyers also face difficulties assessing whether asking prices accurately reflect a vehicle's condition.\nVucar has developed an AI-powered valuation tool using more than 4 million data points to generate indicative prices based on each vehicle's characteristics and condition.\nRather than relying solely on advertised prices across online marketplaces, the system aims to provide faster market insights and help owners estimate their vehicles' value before deciding to sell.\nThe startup has also introduced an AI assistant that answers questions from buyers and sellers about individual vehicles, reducing response times and easing the workload of customer service staff.\nHowever, Vucar does not rely entirely on algorithms.\nPhysical inspections, document verification, contract assistance and vehicle handovers remain the responsibility of its employees.\n\"AI helps us value cars faster and respond to customers almost instantly. But no algorithm can replace someone who visits the vehicle in person and supports the customer until payment is received. Car sellers need both,\" said Jake Vu, CEO and co-founder of Vucar.\nThe company's sales process is designed to minimize the tasks owners must handle themselves.\nSellers submit their vehicle information through Vucar's website, after which a company specialist conducts a free on-site inspection.\nThe inspection results are recorded before the vehicle is listed on an online auction platform, where multiple prospective buyers can submit competing bids.\nOwners can accept the highest offer or reject the transaction if the price does not meet their expectations.\nOnce an agreement is reached, Vucar assists with documentation, payment and vehicle handover.\nThe company says it charges a 1% fee only when a transaction is successfully completed.\nUnlike traditional used car dealerships, Vucar does not purchase vehicles for resale. Instead, it acts as an intermediary connecting sellers with a network of buyers.\nAccording to company figures, the platform receives more than 8,500 customer inquiries and organizes over 2,000 auctions each month.\nSome transactions can be completed in approximately 27 hours, a relatively short period for a market where sales often involve extensive inspections, negotiations and administrative procedures.\nVietnam's expanding car market creates opportunities\nCovers content\nNot interested\nInappropriate\nSeen too often\nADBRO is the full service ad network for high impact contextual advertising with direct access to the exclusive in-image inventories across major local publishers.\nWe provide free creative adaptation into rich media, interactive and playable ads formats. Campaigns in our channel are delivered under guaranteed prices for actions with programmatic & managed delivery. We provide contextually segmented in-target audiences for over 60 industries with a full range of brand safety solutions.\nADBRO operates across SE Asia, including Singapore, Vietnam, Indonesia, Thailand, Philippines and Malaysia.\nTo test our channel for your advertising campaigns or consider partnership programs for publishers, please contact us at www.adbro.me\nVucar's AI valuation tool uses more than 4 million data points to estimate used car prices based on vehicle condition and specifications. Photo: Hoang Hiep\nOSK-SBI Venture Partners said buying and selling cars remains a complex process for many Vietnamese vehicle owners.\nThe investment firm highlighted Vucar's combination of technology and physical inspections, which it believes can save sellers time while providing buyers with more reliable information about vehicle quality.\nVucar plans to use the new funding to develop its technology products, improve service quality and expand its nationwide network of buyers and sellers.\nThe investment comes as Vietnam's automotive market continues to grow.\nAccording to figures cited from PwC, vehicle sales in Vietnam increased 31% year-on-year in the first half of 2026",
+      "text_status": "ok"
+    },
+    {
+      "id": "a87a0524eea2",
+      "title": "DeepSeek's 100 billion yuan funding round closes: 31 investors assemble, with Tencent and CATL tied as largest backers",
+      "publisher": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83NlJnNWM1anRyVjBWcnNjOU5TVVBOb3BYSzU5QzdQSXNvZW9QYk0zZWttQ3pfSWVZYkZ5cHJyakdmcnZ5ZFg0SDZPUXJoNmlHaE9uNXhsVVY0em9hT1o5cDZ0LWlmQ3BoWDZza2pqYjJ4TXZrbWc?oc=5",
+      "published_at": "2026-11-19T05:36:00.000Z",
+      "publisher_url": "https://finance.biggo.com",
+      "snippet": "DeepSeek's 100 billion yuan funding round closes: 31 investors assemble, with Tencent and CATL tied as largest backers BigGo Finance",
+      "source_feed": "gnews-5",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "DeepSeek's 100 billion yuan",
+      "group_key": "deepseeks 100 billion yuan",
+      "group_rank": 0,
+      "resolved_url": "https://finance.biggo.com/news/94d7773a-2959-4c23-962e-19a603560ac2",
+      "text": "DeepSeek's 100 billion yuan funding round closes: 31 investors assemble, with Tencent and CATL tied as largest backers\nAdd preferred source\nDeepSeek's second funding round, sized at 100 billion yuan, has completed its business registration change. The registered capital of operating entity Hangzhou DeepSeek rose to 19.918707 million yuan (approximately $3.0 million), an increase of about 21.1%. Holding platform Hangzhou Chengyan added 31 partners, with committed capital jumping from 6,000 yuan (approximately $900) to 3.438979 billion yuan (approximately $515.9 million). Tencent and CATL each hold 9.5653%, tied as the largest contributors; China Mobile and CITIC Securities each hold 7.6522%, and Monolith Capital holds 7.1740%. China Telecom, vivo, Midea and Meituan Longzhu are also on the list. Existing shareholders received priority allocations, and DeepSeek set requirements on industrial synergy while retaining strong control over deal terms. Market sources say DeepSeek has hired CITIC Securities to prepare a STAR Market IPO and plans to launch the listing process this year.\nKey Elements\nDeepSeek Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. Ltd. Hangzhou Chengyan Enterprise Management Consulting Partnership Tencent CATL China Mobile CITIC Securities Monolith Capital Liang Wenfeng Xiaohongshu NetEase vivo GigaDevice STAR Market\nThe closely watched second funding round of DeepSeek, sized at 100 billion yuan, has officially closed. Business registration records show that its operating entity, Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd., recently completed a registration change, adding new shareholder Hangzhou Chengyan Enterprise Management Consulting Partnership (limited partnership). Registered capital rose to 19.918707 million yuan (approximately $3.0 million), an increase of about 21.1%.\nLooking up the ownership chain, Hangzhou Chengyan also completed a registration change over the same period, adding 31 partners and lifting its registered committed capital from 6,000 yuan (approximately $900) to 3.438979 billion yuan (approximately $515.9 million). After the change, the holding platform has 32 partners, with Hangzhou Chengce Business Consulting Co., Ltd. continuing as executive partner. The 31 new partners are the external shareholders that participated in this round of DeepSeek financing, spanning industrial players including Tencent, China Mobile, China Telecom, CATL, GigaDevice, Xiaohongshu and vivo, as well as investment institutions such as Monolith, Boyu, IDG, Gaorong, Legend Capital, Firstred Capital and CITIC Securities.\nBy contribution structure, Tencent's Shanghai Hengxiu Business Management Co., Ltd. ranks first with a 9.5653% share. CATL invested through three funds — Xiamen Shidai Yiyuan, Xiamen Shidai Shenyuan and Fujian Shidai Zeyuan — at 4.9198%, 4.4410% and 0.2045% respectively, for a combined 9.5653%, tying Tencent as the largest contributor. China Mobile's China Mobile Investment Holdings Co., Ltd. and CITIC Securities Investment Co., Ltd. each hold 7.6522%; Monolith Capital's related Tianjin Monolith Xingshen Equity Investment Partnership (limited partnership) holds 7.1740%.\nAmong other internet platforms, NetEase's Hangzhou Leihuo Wanxiang Technology Co., Ltd. contributed 2.3913%; Xiaohongshu's operating entity Xingyin Information Technology (Shanghai) Co., Ltd. contributed 0.9565%; Shanghai Kehui Venture Capital Co., Ltd., which has a contractual control relationship with Trip.com, contributed 1.4348%; and Meituan-affiliated Meituan Longzhu contributed 2.8696%.\nIn the telecom, device and manufacturing camp, China Telecom Corporation Limited, vivo's main entity Vivo Mobile Communication Co., Ltd. and Midea Investment Co., Ltd. each contributed 2.8696%; Lizhen Precision Intelligent Manufacturing (Kunshan) Co., Ltd. under the Luxshare system held 2.7739%; GigaDevice Semiconductor Inc. and Zhejiang Geely Industrial Investment Holdings Co., Ltd. held 1.4348% and 0.9565% respectively. GigaDevice-affiliated Shixi Capital contributed more than 3.3% through Hangzhou Shixi Zhaoyi No. 1. On the insurance side, China Life Equity-related Qingdao Chengxin Zhida contributed 4.7826%.\nAmong market-oriented institutions, CPE-related Hangzhou Yuanfeng Panrui, Firstred-related Ningbo Zhixing Yueheng, Boyu Capital-related Boyu Xiaohe, and Shixiang Shangshi (Tianjin) Venture Capital Partnership (limited partnership) each held 3.3479%; IDG Capital-related Tianjin Yuncheng held 3.3236%; Gaorong-related Tianjin Gaorong Changying and Legend Capital-related Hangzhou Legend Jiatu each held 2.8696%. SMIC Capital-related Jiaxing Juyuan Yaohui held 1.5974%; Hengdian Capital-related Hengdian Bohui, Hongzhuo Capital-related Jiaxing Hongzhuo Keqing and CICC Hegang (Hebei) Development Equity Investment Fund each held 1.4348%; and CICC Pucheng Investment Co., Ltd. held 0.4783%.\nAn overview of the main contributors and their shares:\nContributor Related entity Contribution share\nTencent Shanghai Hengxiu Business Management Co., Ltd. 9.5653%\nCATL Xiamen Shidai Yiyuan, Xiamen Shidai Shenyuan, Fujian Shidai Zeyuan 9.5653% combined\nChina Mobile China Mobile Investment Holdings Co., Ltd. 7.6522%\nCITIC Securities CITIC Securities Investment Co., Ltd. 7.6522%\nMonolith Capital Tianjin Monolith Xingshen Equity Investment Partnership 7.1740%\nChina Life Equity Qingdao Chengxin Zhida 4.7826%\nMeituan Meituan Longzhu 2.8696%\nChina Telecom China Telecom Corporation Limited 2.8696%\nvivo Vivo Mobile Communication Co., Ltd. 2.8696%\nMidea Midea Investment Co., Ltd. 2.8696%\nNetEase Hangzhou Leihuo Wanxiang Technology Co., Ltd. 2.3913%\nXiaohongshu Xingyin Information Technology (Shanghai) Co., Ltd. 0.9565%\nNote: The figures above are contribution shares disclosed at the level of Hangzhou Chengyan Enterprise Management Consulting Partnership (limited partnership). Some entities contributed through multiple funds; the table consolidates or separates them according",
+      "text_status": "ok"
+    },
+    {
+      "id": "a524a0030a61",
+      "title": "How Toyota is betting on a future beyond cars",
+      "publisher": "Kirsten Korosec, Theresa Loconsolo",
+      "link": "https://techcrunch.com/podcast/how-toyota-is-betting-on-a-future-beyond-cars/",
+      "published_at": "2026-11-18T21:36:40.000Z",
+      "publisher_url": null,
+      "snippet": "Toyota is looking beyond the automotive industry as it places bigger bets on robotics, physical AI, energy, aerospace, and other emerging technologies. Through its venture arm, Woven Capital, the automaker is investing in startups that could help shape what the company looks like decades from now. But as startup valuations climb and competition for promising […]",
+      "source_feed": "techcrunch-venture",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "How Toyota is betting",
+      "group_key": "how toyota is betting",
+      "group_rank": 0,
+      "resolved_url": "https://techcrunch.com/podcast/how-toyota-is-betting-on-a-future-beyond-cars/",
+      "text": "How Toyota is betting on a future beyond cars\nKirsten Korosec\n,\nTheresa Loconsolo\nNov 18, 2026\nListen on\nApple Podcasts\nListen on\nSpotify\nToyota is looking beyond the automotive industry as it places bigger bets on robotics, physical AI, energy, aerospace, and other emerging technologies. Through its venture arm, Woven Capital , the automaker is investing in startups that could help shape what the company looks like decades from now. But as startup valuations climb and competition for promising companies intensifies, figuring out where the next big opportunities lie is becoming increasingly important.\nOn this episode of TechCrunch’s ⁠Equity⁠ podcast, transportation editor Kirsten Korosec is joined by ⁠Ro Gupta⁠ , head of ⁠Woven Capital⁠ and former founder of autonomous vehicle startup Carmera, to discuss Toyota’s investment strategy, the changing venture capital landscape, and what’s next for emerging technology. Listen to the full episode to hear about:\nWhy Ro thinks today’s sky-high startup valuations may be more justified than they first appear, and whether there are enough worthwhile companies to warrant the investment.\nHow the autonomous vehicle boom of 2017 and 2018 compares to today’s AI frenzy, and why future technology hype cycles could move faster.\nWhy Toyota is investing beyond its traditional automotive business, from robotics and physical AI to energy, aerospace, and manufacturing.\nWhat Woven Capital looks for in startups, why manufacturing and supply chain technology are suddenly attracting attention, and how Toyota’s industrial expertise can give portfolio companies an advantage.\nWhy corporate venture capital has become more attractive to founders, and how strategic investors can offer more than just money through customers, manufacturing capabilities, and global distribution.\nWhere the next opportunities in autonomous vehicles are emerging, and why the biggest investments may now be in the infrastructure and operations that make autonomous fleets work at scale.\nSubscribe to Equity on YouTube , Apple Podcasts , Overcast , Spotify , and all the casts. You can also follow Equity on X and Threads , at @EquityPod.\nKirsten Korosec\nTransportation Editor\nKirsten Korosec is a reporter and editor who has covered the future of transportation from EVs and autonomous vehicles to urban air mobility and in-car tech for more than a decade. She is currently the transportation editor at TechCrunch and co-host of TechCrunch’s Equity podcast. She is also co-founder and co-host of the podcast, “The Autonocast.” She previously wrote for Fortune, The Verge, Bloomberg, MIT Technology Review and CBS Interactive.\nYou can contact or verify outreach from Kirsten by emailing [email protected] or via encrypted message at kkorosec.07 on Signal.\nView Bio\nTheresa Loconsolo\nAudio Producer\nTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University.\nYou can contact or verify outreach from Theresa by emailing [email protected] .\nView Bio\n2027\nSan Francisco\nGet an Early Peek at the Next TechCrunch Disrupt\nDisrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line.\nSign up for our waitlist\nRegister Now\nMost Popular\nMicrosoft CEO Satya Nadella explains why he asked 60K employees to quit\nJulie Bort\nAmazon and Google will together own nearly 30% of Anthropic after its IPO\nJulie Bort\nFBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’\nZack Whittaker\nWhere was Nvidia’s security team?\nConnie Loizos\nElon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang\nAnthony Ha\nThe unfolding Jensen Huang scandal: a timeline\nAmanda Silberling\nJensen Huang didn’t show confidence in his successor, report says\nIvan Mehta\nLatest Equity Episodes\nSee More\nVenture\nHow Toyota is betting on a future beyond cars\nKirsten Korosec\nTheresa Loconsolo\n15 hours ago\nGovernment & Policy\nHow backlash and red tape continue to slow data centers post-Blue Wave\nTheresa Loconsolo\nRebecca Bellan\nTim De Chant\nNov 11, 2026\nStartups\nHow a Blue Wave midterm might reshape the AI industry\nTheresa Loconsolo\nAnthony Ha\nSean O'Kane\nKirsten Korosec\nNov 6, 2026\nStartups\nBuilding on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs\nTheresa Loconsolo\nRebecca Bellan\nNov 4, 2026",
+      "text_status": "ok"
+    }
+  ]
+}
