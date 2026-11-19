@@ -1,0 +1,804 @@
+{
+  "run_date": "2026-11-19",
+  "validated_at": "2026-11-19T14:10:08.626Z",
+  "rows": [
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "confidence": 0.5,
+      "group_key": "genesis",
+      "candidate_ids": [
+        "1bfe46d0ecf9"
+      ],
+      "company": "Genesis AI",
+      "amount_usd": 500000000,
+      "round_type": "Series A",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-17",
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Robotics foundation models.",
+      "description": "Robotics startup building AI models for robots; valued at $3.5B.",
+      "evidence": {
+        "amount": "Robotics Startup Genesis AI Raises $500 Mn At $3.5 Bn Valuation",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.bwdisrupt.com/article/robotics-startup-genesis-ai-raises-500-mn-at-3-5-bn-valuation-634255",
+        "https://sifted.eu/articles/genesis-ai-raises-500m/"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": "NT$900M ~ US$28M as stated in title",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "confidence": 0.6,
+      "group_key": "onward therapeutics",
+      "candidate_ids": [
+        "787031a00888"
+      ],
+      "company": "Onward Therapeutics",
+      "amount_usd": 28000000,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-18",
+      "hq_country": "TW",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Oncology drug developer, no AI claim.",
+      "description": "Clinical-stage oncology company.",
+      "evidence": {
+        "amount": "NT$900 Million (approximately US$28 Million) Series B Financing",
+        "round": "Series B Financing",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://bebeez.eu/2026/11/18/onward-therapeutics-closes-nt900-million-approximately-us28-million-series-b-financing-to-advance-clinical-stage-oncology-pipeline/"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "exclude_reason": "duplicate",
+      "confidence": 0.6,
+      "group_key": "recruiting",
+      "candidate_ids": [
+        "b5b5f9bd51af"
+      ],
+      "company": "Mercor",
+      "amount_usd": 750000000,
+      "round_type": "Series D",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-19",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Pairs experts with AI model developers.",
+      "description": "Pairs human experts with developers of AI models and tools.",
+      "evidence": {
+        "amount": "raised $750 million in a Series D round this month at a whopping $20 billion valuation",
+        "round": "Series D round",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://news.crunchbase.com/venture/data-recruiting-job-hunting-hr-ai-startups-mercor/"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": "public-company",
+      "confidence": 0.7,
+      "group_key": "mexicos electric utility",
+      "candidate_ids": [
+        "360a6f5d2927"
+      ],
+      "company": "Comisión Federal de Electricidad",
+      "amount_usd": 776000000,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "announced_date": "2026-11-19",
+      "hq_country": "MX",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Public utility share offer.",
+      "description": "Mexican state electric utility share offer.",
+      "evidence": {
+        "amount": "Raises $776 Million in Share Offer",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.bloomberg.com/news/articles/2026-11-19/mexico-s-electricity-utility-cfe-raises-776-million-in-fibra-share-offer"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Goldman Sachs Alternatives"
+      ],
+      "investors": [
+        "Goldman Sachs Alternatives",
+        "QED",
+        "Greenoaks",
+        "Lightspeed",
+        "Hedosophia",
+        "Bek Ventures"
+      ],
+      "hq_city": "London",
+      "hq_state": null,
+      "exclude_reason": null,
+      "confidence": 0.85,
+      "group_key": "f35a53839de8",
+      "candidate_ids": [
+        "f35a53839de8"
+      ],
+      "company": "Payhawk",
+      "amount_usd": 280000000,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-18",
+      "hq_country": "GB",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Builds AI finance agents.",
+      "description": "Spend management company building AI finance agents.",
+      "evidence": {
+        "amount": "announced a $280 million Series C on Wednesday, Nov. 18",
+        "round": "$280 million Series C",
+        "lead": "led by the growth equity team at Goldman Sachs Alternatives",
+        "investors": "Existing investors include QED, Greenoaks, Lightspeed, Hedosophia and Bek Ventures"
+      },
+      "source_urls": [
+        "https://www.techtimes.com/articles/331053/20261119/ai-finance-agents-get-280m-boost-payhawk-raises-series-c-2b-valuation.htm"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [
+        "Oman Investment Authority",
+        "Asia Investment Capital",
+        "Granite Asia",
+        "Sinovation Ventures",
+        "CMB International"
+      ],
+      "hq_city": "Suzhou",
+      "hq_state": null,
+      "exclude_reason": null,
+      "confidence": 0.8,
+      "group_key": "megarobo",
+      "candidate_ids": [
+        "8c8cbd110dd4",
+        "5214f77f6e00"
+      ],
+      "company": "MegaRobo Technologies",
+      "amount_usd": 200000000,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-19",
+      "hq_country": "CN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI for Science and physical-world intelligence infrastructure.",
+      "description": "Builds intelligence infrastructure for the physical world and AI for Science.",
+      "evidence": {
+        "amount": "raised nearly US$200 million in a new financing round",
+        "round": null,
+        "lead": null,
+        "investors": "Oman Investment Authority (OIA), the sovereign wealth fund of the Sultanate of Oman. And existing investors Asia Investment Capital, Granite Asia and Sinovation Ventures continued to back the company, with new participation from CMB International"
+      },
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/megarobo-raises-nearly-us200-million-in-new-funding-to-build-intelligence-infrastructure-for-the-physical-world-302944671.html"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "OrbiMed",
+        "Scion Life Sciences",
+        "venBio"
+      ],
+      "investors": [
+        "OrbiMed",
+        "Scion Life Sciences",
+        "venBio",
+        "RTW Investments",
+        "Surveyor Capital",
+        "Opaleye",
+        "NEXTBio Capital",
+        "Affinity Advisors",
+        "KKR",
+        "Spruce Street Capital",
+        "Columbia Threadneedle Investments"
+      ],
+      "hq_city": "Watertown",
+      "hq_state": "MA",
+      "exclude_reason": null,
+      "confidence": 0.8,
+      "group_key": "marrow therapeutics",
+      "candidate_ids": [
+        "fe0374e4ccec"
+      ],
+      "company": "Marrow Therapeutics",
+      "amount_usd": 173000000,
+      "round_type": "Series B",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-17",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Genetic medicine developer; no AI claim.",
+      "description": "Bone marrow-targeted genetic medicines for blood disorders; $53M Series A plus $120M Series B.",
+      "evidence": {
+        "amount": "combined $173 million in Series A and B funding",
+        "round": "The $120 million Series B round was led by OrbiMed",
+        "lead": "The $53 million Series A financing was co-led by Scion Life Sciences and venBio",
+        "investors": "RTW Investments, Surveyor Capital (a Citadel company), Opaleye, NEXTBio Capital, Affinity Advisors, KKR, Spruce Street Capital and Columbia Threadneedle Investments"
+      },
+      "source_urls": [
+        "https://www.biospace.com/press-releases/marrow-therapeutics-launches-with-173-million-to-develop-genetic-medicines-for-bone-marrow-disorders"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": "R$172M converted at ~5.4 BRL/USD",
+      "lead_investors": [
+        "Tether Capital"
+      ],
+      "investors": [
+        "Tether Capital"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "confidence": 0.6,
+      "group_key": "brazilian fintech nomad",
+      "candidate_ids": [
+        "0179890c6950"
+      ],
+      "company": "Nomad",
+      "amount_usd": 32000000,
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-16",
+      "hq_country": "BR",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Fintech; no AI claim in available text.",
+      "description": "Brazilian fintech.",
+      "evidence": {
+        "amount": "raises R$172 million Series C",
+        "round": "Series C",
+        "lead": "led by Tether Capital",
+        "investors": "led by Tether Capital"
+      },
+      "source_urls": [
+        "https://cryptorank.io/insights/deals/nomad-global-series-c-2026-11-16"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Andreessen Horowitz"
+      ],
+      "investors": [
+        "Andreessen Horowitz",
+        "TQ Ventures",
+        "Mucker Capital",
+        "Abstract",
+        "Anthos",
+        "Left Lane Capital"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "exclude_reason": null,
+      "confidence": 0.8,
+      "group_key": "linq",
+      "candidate_ids": [
+        "725e7e357f27",
+        "e30c9165cd9b",
+        "f95552b89da2",
+        "0b242231dfe7",
+        "8d8d5d682772",
+        "412c6a5b7091",
+        "e795e532d6ff"
+      ],
+      "company": "Linq",
+      "amount_usd": 90000000,
+      "round_type": "Series B",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-18",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Infrastructure platform for AI agents.",
+      "description": "Infrastructure platform for AI agents, messaging-based; 1B+ messages processed.",
+      "evidence": {
+        "amount": "$90 million in new funding led by Andreessen Horowitz",
+        "round": "Series B",
+        "lead": "led by Andreessen Horowitz",
+        "investors": "continued participation from TQ Ventures, Mucker Capital, and Abstract, and new participation from Anthos and Left Lane Capital"
+      },
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/linq-raises-90-million-in-new-funding-led-by-andreessen-horowitz-to-build-the-infrastructure-platform-for-ai-agents-302944728.html"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Jump Capital",
+        "CRV",
+        "Susa Ventures"
+      ],
+      "investors": [
+        "Jump Capital",
+        "Catalyst Investors",
+        "CRV",
+        "Susa Ventures"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "exclude_reason": null,
+      "confidence": 0.7,
+      "group_key": "pulley",
+      "candidate_ids": [
+        "df1359d29b52"
+      ],
+      "company": "Pulley",
+      "amount_usd": 64000000,
+      "round_type": "Series B",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-19",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI-powered permitting and development services.",
+      "description": "AI-powered permitting and development services for commercial real estate; $41M Series B plus $23M Series A.",
+      "evidence": {
+        "amount": "has raised $64 million in funding",
+        "round": "a $41 million Series B round led by Jump Capital",
+        "lead": "a $23 million Series A round led by CRV and Susa Ventures",
+        "investors": "participation from Catalyst Investors"
+      },
+      "source_urls": [
+        "https://www.citybiz.co/article/936101/pulley-raises-64-million-to-expand-ai-powered-real-estate-development-platform/"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "exclude_reason": null,
+      "confidence": 0.5,
+      "group_key": "physical",
+      "candidate_ids": [
+        "48e3f9e76632"
+      ],
+      "company": "Humyn",
+      "amount_usd": 47000000,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-18",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Physical AI startup.",
+      "description": "Physical AI startup (human data for robotics) at $50M ARR.",
+      "evidence": {
+        "amount": "Raises $47 Million",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.forbes.com/sites/johnkoetsier/2026/11/18/physical-ai-startup-humyn-hits-50-million-arr-in-6-months-raises-47-million/"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "confidence": 0.5,
+      "group_key": "wilson sonsini",
+      "candidate_ids": [
+        "bde45836cc47"
+      ],
+      "company": "Compute Desk",
+      "amount_usd": 45000000,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-17",
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Pricing and hedging platform for AI compute.",
+      "description": "Compute price indexes and trading infrastructure; emerged from stealth.",
+      "evidence": {
+        "amount": "$45 Million Financing as it Emerges from Stealth",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.wsgr.com/en/insights/wilson-sonsini-advises-compute-desk-on-dollar45-million-financing-as-it-emerges-from-stealth.html"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "confidence": 0.5,
+      "group_key": "canadian robotics",
+      "candidate_ids": [
+        "07f3ea4114b9"
+      ],
+      "company": "Promise Robotics",
+      "amount_usd": 28000000,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-18",
+      "hq_country": "CA",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Robotics firm.",
+      "description": "Canadian robotics firm expanding to Arizona.",
+      "evidence": {
+        "amount": "Canadian robotics firm raises $28M",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.bizjournals.com/phoenix/news/2026/11/18/promise-robotics-raises-series-b-round.html"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "New Investment Solutions"
+      ],
+      "investors": [
+        "New Investment Solutions",
+        "MITO Tech Ventures"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "confidence": 0.8,
+      "group_key": "glasspoint",
+      "candidate_ids": [
+        "bcca74ac925e"
+      ],
+      "company": "GlassPoint",
+      "amount_usd": 24000000,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-19",
+      "hq_country": "AE",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Solar thermal energy; no AI claim.",
+      "description": "Solar thermal-based industrial heat solutions.",
+      "evidence": {
+        "amount": "has raised $24 million in a funding round",
+        "round": null,
+        "lead": "led by European asset management firm New Investment Solutions",
+        "investors": "new investor MITO Tech Ventures"
+      },
+      "source_urls": [
+        "https://mercomcapital.com/glasspoint-raises-24-million-to-support-middle-east-expansion/"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Elephant"
+      ],
+      "investors": [
+        "Elephant",
+        "Runtime Ventures",
+        "Inner Loop Capital",
+        "SaaS Ventures"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": "duplicate",
+      "confidence": 0.8,
+      "group_key": "protecting where software",
+      "candidate_ids": [
+        "90d9b6fdbd7b"
+      ],
+      "company": "StepSecurity",
+      "amount_usd": 20000000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-18",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Supply chain security; no AI claim about product.",
+      "description": "Software supply chain security.",
+      "evidence": {
+        "amount": "oversubscribed $20 million Series A led by Elephant",
+        "round": "Series A",
+        "lead": "led by Elephant",
+        "investors": "existing investors Runtime Ventures, Inner Loop Capital, and SaaS Ventures"
+      },
+      "source_urls": [
+        "https://www.stepsecurity.io/blog/stepsecurity-20-million-series-a"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "confidence": 0.6,
+      "group_key": "live experiences platform",
+      "candidate_ids": [
+        "49435f821c60"
+      ],
+      "company": "Speakeasy",
+      "amount_usd": 18800000,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-18",
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Live experiences platform; no AI claim.",
+      "description": "Live experiences platform backed by Yamaha music fund.",
+      "evidence": {
+        "amount": "raises $18.8M Series A",
+        "round": "Series A",
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://www.musicbusinessworldwide.com/live-experiences-platform-speakeasy-backed-by-yamahas-music-fund-raises-18-8m-series-a/"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Left Lane Capital"
+      ],
+      "investors": [
+        "Left Lane Capital"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "confidence": 0.8,
+      "group_key": "boba bhai",
+      "candidate_ids": [
+        "318d4076c290",
+        "4a426e7ecbc0"
+      ],
+      "company": "Boba Bhai",
+      "amount_usd": 18000000,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-19",
+      "hq_country": "IN",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Restaurant chain.",
+      "description": "Bubble tea and Korean street food chain in India.",
+      "evidence": {
+        "amount": "Boba Bhai raises $18 million led by Left Lane Capital",
+        "round": null,
+        "lead": "led by Left Lane Capital",
+        "investors": "led by Left Lane Capital"
+      },
+      "source_urls": [
+        "https://www.moneycontrol.com/news/business/funding/boba-bhai-raises-18-million-led-by-left-lane-capital-14084073.html"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "lead_investors": [
+        "FMO"
+      ],
+      "investors": [
+        "FMO"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "confidence": 0.6,
+      "group_key": "inprime finserv",
+      "candidate_ids": [
+        "c87c236877e6"
+      ],
+      "company": "InPrime Finserv",
+      "amount_usd": null,
+      "round_type": "Series B",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-19",
+      "hq_country": "IN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI-first NBFC with AI co-pilots and voice agents.",
+      "description": "AI-first non-bank lender in India.",
+      "evidence": {
+        "amount": "InPrime Finserv Raises Rs 101 Cr In Series B Funding Led By FMO",
+        "round": "Series B Funding",
+        "lead": "Led By FMO",
+        "investors": "Led By FMO"
+      },
+      "source_urls": [
+        "https://www.bwdisrupt.com/article/inprime-finserv-raises-rs-101-cr-in-series-b-funding-led-by-fmo-634288"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "IvyCap Ventures"
+      ],
+      "investors": [
+        "IvyCap Ventures",
+        "Capital 2B",
+        "AppWorks",
+        "Iterative",
+        "AngelCentral",
+        "Genesis Alternate Investments",
+        "Nalin Advani"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "confidence": 0.8,
+      "group_key": "botsync",
+      "candidate_ids": [
+        "75274ac0ed52"
+      ],
+      "company": "Botsync",
+      "amount_usd": 11000000,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Early Stage Venture",
+      "announced_date": "2026-11-18",
+      "hq_country": "SG",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Physical AI platform and robots.",
+      "description": "Autonomous mobile robots and SyncOS software for factories.",
+      "evidence": {
+        "amount": "has raised $11 million in a funding round led by IvyCap Ventures",
+        "round": null,
+        "lead": "led by IvyCap Ventures",
+        "investors": "participation from Capital 2B, AppWorks, Iterative, AngelCentral, Genesis Alternate Investments and angel investor Nalin Advani"
+      },
+      "source_urls": [
+        "https://entrepreneur.economictimes.indiatimes.com/amp/news/funding/botsync-raises-11-mn-funding-led-by-ivycap-ventures/135951834"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "lead_investors": [
+        "Gresham House Ventures"
+      ],
+      "investors": [
+        "Gresham House Ventures",
+        "Sure Valley Ventures",
+        "Delta Partners",
+        "Enterprise Ireland"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "exclude_reason": null,
+      "confidence": 0.7,
+      "group_key": "disseqt",
+      "candidate_ids": [
+        "85c41b9c0841"
+      ],
+      "company": "Disseqt AI",
+      "amount_usd": 8000000,
+      "round_type": "Pre-Seed",
+      "stage_bucket": "Seed",
+      "announced_date": "2026-11-19",
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI governance and assurance.",
+      "description": "AI governance and assurance startup.",
+      "evidence": {
+        "amount": "has raised $8 million in pre-Series A funding round",
+        "round": "pre-Series A funding round",
+        "lead": "led by Gresham House Ventures",
+        "investors": "existing investor Sure Valley Ventures (SVV), Delta Partners and Enterprise Ireland"
+      },
+      "source_urls": [
+        "https://entrackr.com/snippets/disseqt-ai-raises-8-mn-led-by-gresham-house-ventures-rahul-dravid-joins-round-12822900"
+      ]
+    },
+    {
+      "website": null,
+      "amount_disclosed": true,
+      "currency_note": "100B yuan converted at ~6.7",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Hangzhou",
+      "hq_state": null,
+      "exclude_reason": null,
+      "confidence": 0.6,
+      "group_key": "deepseeks 100 billion yuan",
+      "candidate_ids": [
+        "a87a0524eea2"
+      ],
+      "company": "DeepSeek",
+      "amount_usd": 15000000000,
+      "round_type": "Venture - Unspecified",
+      "stage_bucket": "Late Stage Venture",
+      "announced_date": "2026-11-19",
+      "hq_country": "CN",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "AI model developer.",
+      "description": "Chinese AI model developer; second funding round.",
+      "evidence": {
+        "amount": "DeepSeek's 100 billion yuan funding round closes",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "source_urls": [
+        "https://finance.biggo.com/news/94d7773a-2959-4c23-962e-19a603560ac2"
+      ]
+    }
+  ],
+  "problems": [],
+  "counts": {
+    "input": 21,
+    "accepted": 21,
+    "rejected": 0
+  }
+}

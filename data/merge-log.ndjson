@@ -1488,3 +1488,25 @@
 {"run":"2026-11-18-2028","action":"inserted","id":"51d0a1d763","company":"Sequel.io","in_view":true,"exclude_reason":null}
 {"run":"2026-11-18-2028","action":"inserted","id":"9f3aef4314","company":"Darcy Geothermal","in_view":false,"exclude_reason":"not-ai"}
 {"run":"2026-11-18-2028","action":"merged","id":"d555705295","company":"Henfruit","from":"Henfruit"}
+{"run":"2026-11-19","action":"merged","id":"caae083ade","company":"Genesis AI","from":"Genesis AI"}
+{"run":"2026-11-19","action":"merged","id":"405c713da3","company":"Onward Therapeutics","from":"Onward Therapeutics"}
+{"run":"2026-11-19","action":"merged","id":"526230286a","company":"Mercor","from":"Mercor"}
+{"run":"2026-11-19","action":"inserted","id":"96a5eae73b","company":"Comisión Federal de Electricidad","in_view":false,"exclude_reason":"public-company"}
+{"run":"2026-11-19","action":"merged","id":"acea956703","company":"Payhawk","from":"Payhawk"}
+{"run":"2026-11-19","action":"inserted","id":"c7dc7b1490","company":"MegaRobo Technologies","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-19","action":"amount-conflict","id":"f5b7134b68","company":"Marrow Therapeutics","stored_amount":120000000,"incoming_amount":173000000,"incoming_sources":["https://www.biospace.com/press-releases/marrow-therapeutics-launches-with-173-million-to-develop-genetic-medicines-for-bone-marrow-disorders"]}
+{"run":"2026-11-19","action":"merged","id":"f5b7134b68","company":"Marrow Therapeutics","from":"Marrow Therapeutics"}
+{"run":"2026-11-19","action":"inserted","id":"3dae8fcb7c","company":"Nomad","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-19","action":"inserted","id":"0bd2743f4c","company":"Linq","in_view":true,"exclude_reason":null}
+{"run":"2026-11-19","action":"inserted","id":"97e121e477","company":"Pulley","in_view":true,"exclude_reason":null}
+{"run":"2026-11-19","action":"merged","id":"849b849217","company":"Humyn Labs","from":"Humyn"}
+{"run":"2026-11-19","action":"merged","id":"6da8daf247","company":"Compute Desk","from":"Compute Desk"}
+{"run":"2026-11-19","action":"merged","id":"52de6c4362","company":"Promise Robotics","from":"Promise Robotics"}
+{"run":"2026-11-19","action":"inserted","id":"34fb2631ee","company":"GlassPoint","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-19","action":"merged","id":"53aeccd1b8","company":"StepSecurity","from":"StepSecurity"}
+{"run":"2026-11-19","action":"merged","id":"e6f83841c5","company":"Speakeasy","from":"Speakeasy"}
+{"run":"2026-11-19","action":"inserted","id":"66e096c2f5","company":"Boba Bhai","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-19","action":"inserted","id":"2d87065c1d","company":"InPrime Finserv","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-19","action":"inserted","id":"968c6fe0e8","company":"Botsync","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-19","action":"inserted","id":"bd2e75f140","company":"Disseqt AI","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-19","action":"inserted","id":"3881eed54e","company":"DeepSeek","in_view":false,"exclude_reason":"non-us"}

@@ -1,0 +1,40 @@
+{
+ "run_date": "2026-11-19",
+ "extractor": "claude-code routine",
+ "notes": "Part 4. Skipped non-round articles (blue economy, Privia, Tallinn, Toyota podcast, Bengaluru report, CN biotech unnamed) and tiny rounds (VitusCare $3M, Wilco $2.5M, Vucar undisclosed). Web fetch was unavailable (host blocked); lookups via search snippets only. ",
+ "rows": [
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": "100B yuan converted at ~6.7",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Hangzhou",
+   "hq_state": null,
+   "exclude_reason": null,
+   "confidence": 0.6,
+   "group_key": "deepseeks 100 billion yuan",
+   "candidate_ids": [
+    "a87a0524eea2"
+   ],
+   "company": "DeepSeek",
+   "amount_usd": 15000000000,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-19",
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI model developer.",
+   "description": "Chinese AI model developer; second funding round.",
+   "evidence": {
+    "amount": "DeepSeek's 100 billion yuan funding round closes",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://finance.biggo.com/news/94d7773a-2959-4c23-962e-19a603560ac2"
+   ]
+  }
+ ]
+}

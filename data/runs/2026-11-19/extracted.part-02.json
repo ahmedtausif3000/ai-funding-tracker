@@ -1,0 +1,311 @@
+{
+ "run_date": "2026-11-19",
+ "extractor": "claude-code routine",
+ "notes": "Part 2. Skipped non-round articles (blue economy, Privia, Tallinn, Toyota podcast, Bengaluru report, CN biotech unnamed) and tiny rounds (VitusCare $3M, Wilco $2.5M, Vucar undisclosed). Web fetch was unavailable (host blocked); lookups via search snippets only. Linq: Merged with group \"birmingham startup\" (bizjournals); Series B per CXO Digitalpulse title and bizjournals title. Humyn: HQ and round type from a web search of Humyn Labs; unverified. Promise Robotics: Currency not confirmed.",
+ "rows": [
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": "R$172M converted at ~5.4 BRL/USD",
+   "lead_investors": [
+    "Tether Capital"
+   ],
+   "investors": [
+    "Tether Capital"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "exclude_reason": null,
+   "confidence": 0.6,
+   "group_key": "brazilian fintech nomad",
+   "candidate_ids": [
+    "0179890c6950"
+   ],
+   "company": "Nomad",
+   "amount_usd": 32000000,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-16",
+   "hq_country": "BR",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Fintech; no AI claim in available text.",
+   "description": "Brazilian fintech.",
+   "evidence": {
+    "amount": "raises R$172 million Series C",
+    "round": "Series C",
+    "lead": "led by Tether Capital",
+    "investors": "led by Tether Capital"
+   },
+   "source_urls": [
+    "https://cryptorank.io/insights/deals/nomad-global-series-c-2026-11-16"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Andreessen Horowitz"
+   ],
+   "investors": [
+    "Andreessen Horowitz",
+    "TQ Ventures",
+    "Mucker Capital",
+    "Abstract",
+    "Anthos",
+    "Left Lane Capital"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "exclude_reason": null,
+   "confidence": 0.8,
+   "group_key": "linq",
+   "candidate_ids": [
+    "725e7e357f27",
+    "e30c9165cd9b",
+    "f95552b89da2",
+    "0b242231dfe7",
+    "8d8d5d682772",
+    "412c6a5b7091",
+    "e795e532d6ff"
+   ],
+   "company": "Linq",
+   "amount_usd": 90000000,
+   "round_type": "Series B",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-18",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Infrastructure platform for AI agents.",
+   "description": "Infrastructure platform for AI agents, messaging-based; 1B+ messages processed.",
+   "evidence": {
+    "amount": "$90 million in new funding led by Andreessen Horowitz",
+    "round": "Series B",
+    "lead": "led by Andreessen Horowitz",
+    "investors": "continued participation from TQ Ventures, Mucker Capital, and Abstract, and new participation from Anthos and Left Lane Capital"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/linq-raises-90-million-in-new-funding-led-by-andreessen-horowitz-to-build-the-infrastructure-platform-for-ai-agents-302944728.html"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Jump Capital",
+    "CRV",
+    "Susa Ventures"
+   ],
+   "investors": [
+    "Jump Capital",
+    "Catalyst Investors",
+    "CRV",
+    "Susa Ventures"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "exclude_reason": null,
+   "confidence": 0.7,
+   "group_key": "pulley",
+   "candidate_ids": [
+    "df1359d29b52"
+   ],
+   "company": "Pulley",
+   "amount_usd": 64000000,
+   "round_type": "Series B",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-19",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-powered permitting and development services.",
+   "description": "AI-powered permitting and development services for commercial real estate; $41M Series B plus $23M Series A.",
+   "evidence": {
+    "amount": "has raised $64 million in funding",
+    "round": "a $41 million Series B round led by Jump Capital",
+    "lead": "a $23 million Series A round led by CRV and Susa Ventures",
+    "investors": "participation from Catalyst Investors"
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/936101/pulley-raises-64-million-to-expand-ai-powered-real-estate-development-platform/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "exclude_reason": null,
+   "confidence": 0.5,
+   "group_key": "physical",
+   "candidate_ids": [
+    "48e3f9e76632"
+   ],
+   "company": "Humyn",
+   "amount_usd": 47000000,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Physical AI startup.",
+   "description": "Physical AI startup (human data for robotics) at $50M ARR.",
+   "evidence": {
+    "amount": "Raises $47 Million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.forbes.com/sites/johnkoetsier/2026/11/18/physical-ai-startup-humyn-hits-50-million-arr-in-6-months-raises-47-million/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "exclude_reason": null,
+   "confidence": 0.5,
+   "group_key": "wilson sonsini",
+   "candidate_ids": [
+    "bde45836cc47"
+   ],
+   "company": "Compute Desk",
+   "amount_usd": 45000000,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-17",
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Pricing and hedging platform for AI compute.",
+   "description": "Compute price indexes and trading infrastructure; emerged from stealth.",
+   "evidence": {
+    "amount": "$45 Million Financing as it Emerges from Stealth",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.wsgr.com/en/insights/wilson-sonsini-advises-compute-desk-on-dollar45-million-financing-as-it-emerges-from-stealth.html"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "exclude_reason": null,
+   "confidence": 0.5,
+   "group_key": "canadian robotics",
+   "candidate_ids": [
+    "07f3ea4114b9"
+   ],
+   "company": "Promise Robotics",
+   "amount_usd": 28000000,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "hq_country": "CA",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Robotics firm.",
+   "description": "Canadian robotics firm expanding to Arizona.",
+   "evidence": {
+    "amount": "Canadian robotics firm raises $28M",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.bizjournals.com/phoenix/news/2026/11/18/promise-robotics-raises-series-b-round.html"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "New Investment Solutions"
+   ],
+   "investors": [
+    "New Investment Solutions",
+    "MITO Tech Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "exclude_reason": null,
+   "confidence": 0.8,
+   "group_key": "glasspoint",
+   "candidate_ids": [
+    "bcca74ac925e"
+   ],
+   "company": "GlassPoint",
+   "amount_usd": 24000000,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-19",
+   "hq_country": "AE",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Solar thermal energy; no AI claim.",
+   "description": "Solar thermal-based industrial heat solutions.",
+   "evidence": {
+    "amount": "has raised $24 million in a funding round",
+    "round": null,
+    "lead": "led by European asset management firm New Investment Solutions",
+    "investors": "new investor MITO Tech Ventures"
+   },
+   "source_urls": [
+    "https://mercomcapital.com/glasspoint-raises-24-million-to-support-middle-east-expansion/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Elephant"
+   ],
+   "investors": [
+    "Elephant",
+    "Runtime Ventures",
+    "Inner Loop Capital",
+    "SaaS Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "exclude_reason": "duplicate",
+   "confidence": 0.8,
+   "group_key": "protecting where software",
+   "candidate_ids": [
+    "90d9b6fdbd7b"
+   ],
+   "company": "StepSecurity",
+   "amount_usd": 20000000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Supply chain security; no AI claim about product.",
+   "description": "Software supply chain security.",
+   "evidence": {
+    "amount": "oversubscribed $20 million Series A led by Elephant",
+    "round": "Series A",
+    "lead": "led by Elephant",
+    "investors": "existing investors Runtime Ventures, Inner Loop Capital, and SaaS Ventures"
+   },
+   "source_urls": [
+    "https://www.stepsecurity.io/blog/stepsecurity-20-million-series-a"
+   ]
+  }
+ ]
+}

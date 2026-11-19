@@ -1,0 +1,11 @@
+# Run 2026-11-19
+- Feed health: all gnews feeds returned HTTP 200 (see candidates.json stats).
+- Counts: 32 groups across 4 parts; 21 rows extracted; 11 inserted, 10 merged into existing rounds; 257 rounds in view (1138 total).
+- In-scope rounds added:
+  - Linq — $90M, Series B, led by Andreessen Horowitz
+  - Pulley — $64M ($41M Series B + $23M Series A), led by Jump Capital (Series B), CRV and Susa Ventures (Series A)
+- Suspicious / notes:
+  - Web fetch hosts (techcrunch, startupresearcher) were unreachable; only search snippets used.
+  - Genesis AI ($500M Series A) and Compute Desk ($45M) have unverified HQ; likely not US-confirmed, so not added to view.
+  - Humyn ($47M, Forbes) round type/HQ unverified; merged with an existing record or left out of view.
+  - Mercor and StepSecurity were already stored (flagged duplicate).
