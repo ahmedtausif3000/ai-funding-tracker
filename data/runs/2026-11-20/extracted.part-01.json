@@ -1,0 +1,405 @@
+{
+ "run_date": "2026-11-20",
+ "extractor": "claude-code routine",
+ "notes": "No web lookups used. BrightAI round dates to mid-2025 (stale). Quantum Systems article refers to an earlier round.",
+ "rows": [
+  {
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": false,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.8,
+   "exclude_reason": "public-company",
+   "group_key": "nebius lifts 2026 capex",
+   "candidate_ids": [
+    "5bf1e3d1d3cc"
+   ],
+   "company": "Nebius",
+   "amount_usd": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-19",
+   "hq_country": "NL",
+   "ai_ml_rationale": "Public company capex guidance, not a venture round.",
+   "description": "Public AI infrastructure company; article is about capex guidance.",
+   "evidence": {
+    "amount": "raised its 2026 capital expenditure guidance to approximately $27 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.theglobeandmail.com/investing/markets/stocks/CRWV/pressreleases/8921525/nebius-lifts-2026-capex-view-to-27b-can-funding-keep-pace/"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": false,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.9,
+   "exclude_reason": "not-funding",
+   "group_key": "inox clean",
+   "candidate_ids": [
+    "2adfe193408d"
+   ],
+   "company": "Inox Clean Energy",
+   "amount_usd": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-19",
+   "hq_country": "IN",
+   "ai_ml_rationale": "Annual funding statistics article, no AI claim.",
+   "description": "Indian energy startups funding statistics article.",
+   "evidence": {
+    "amount": "raised around $3.85 billion in disclosed funding",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://energy.economictimes.indiatimes.com/news/renewable/inox-clean-blupine-serentica-corner-35-of-3-85-billion-funding-raised-by-indian-energy-startups-in-2026/135981699"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": true,
+   "lead_investors": [
+    "Growth Equity at Goldman Sachs Alternatives"
+   ],
+   "investors": [
+    "Growth Equity at Goldman Sachs Alternatives",
+    "QED",
+    "Greenoaks",
+    "Lightspeed",
+    "Hedosophia",
+    "Bek Ventures"
+   ],
+   "hq_city": "Sofia",
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "fintech payhawk",
+   "candidate_ids": [
+    "d99674892b9d"
+   ],
+   "company": "Payhawk",
+   "amount_usd": 280000000,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-19",
+   "hq_country": "BG",
+   "ai_ml_rationale": "Expands AI agents across corporate finance.",
+   "description": "Finance operating system for corporate spend, payments and AI agents.",
+   "evidence": {
+    "amount": "$280 mn in Series C funding",
+    "round": "Series C funding",
+    "lead": "led by Growth Equity at Goldman Sachs Alternatives",
+    "investors": "Existing investors QED, Greenoaks, Lightspeed, Hedosophia and Bek Ventures"
+   },
+   "source_urls": [
+    "https://beinsure.com/news/fintech-payhawk-raises-280-mn-in-series-c-funding-at-2-bn-valuation/"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": "EUR 1.5B converted at ~1.08",
+   "amount_disclosed": true,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.8,
+   "exclude_reason": "fund",
+   "group_key": "infranity",
+   "candidate_ids": [
+    "50454a773756"
+   ],
+   "company": "Infranity",
+   "amount_usd": 1620000000,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-19",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Infrastructure debt fund.",
+   "description": "Infrastructure debt fund manager closing fourth senior debt vintage.",
+   "evidence": {
+    "amount": "securing €1.5 billion across the strategy and associated co-investment vehicles",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/infranity-raises-e1-5-billion-for-fourth-senior-infrastructure-debt-vintage/"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": "EUR 1B converted at ~1.08",
+   "amount_disclosed": true,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.4,
+   "exclude_reason": "duplicate",
+   "group_key": "following 1 billion funding",
+   "candidate_ids": [
+    "5715cf5b935c"
+   ],
+   "company": "Quantum Systems",
+   "amount_usd": 1080000000,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-20",
+   "hq_country": "DE",
+   "ai_ml_rationale": "Drone/autonomy maker.",
+   "description": "Drone maker; article covers Ukraine support after earlier funding round.",
+   "evidence": {
+    "amount": "Following €1 billion funding round",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.eu-startups.com/2026/11/following-e1-billion-funding-round-quantum-systems-commits-over-e10-million-to-expand-drone-support-in-ukraine/"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": true,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Riyadh",
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.8,
+   "exclude_reason": "not-funding",
+   "group_key": "saudi arabias ceer",
+   "candidate_ids": [
+    "290f44f4ce77"
+   ],
+   "company": "Ceer",
+   "amount_usd": 693000000,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-19",
+   "hq_country": "SA",
+   "ai_ml_rationale": "EV maker, no AI claim.",
+   "description": "Saudi PIF-owned EV maker financing agreement.",
+   "evidence": {
+    "amount": "approximately $693 million (SR2.6 billion)",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://fastcompanyme.com/news/saudi-arabias-ceer-raises-693-million-as-it-builds-a-homegrown-ev-industry/"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": true,
+   "lead_investors": [
+    "SoftBank Group"
+   ],
+   "investors": [
+    "SoftBank Group",
+    "Nvidia",
+    "Hitachi Ventures",
+    "T. Capital"
+   ],
+   "hq_city": "Munich",
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "humanoid robotics",
+   "candidate_ids": [
+    "d8b10ffc102c"
+   ],
+   "company": "Agile Robots",
+   "amount_usd": 500000000,
+   "round_type": "Series F",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-19",
+   "hq_country": "DE",
+   "ai_ml_rationale": "Humanoid/physical AI robotics.",
+   "description": "Munich-based humanoid and industrial robotics company.",
+   "evidence": {
+    "amount": "$500 million in a Series F funding round",
+    "round": "Series F funding round",
+    "lead": "The investment was led by SoftBank Group",
+    "investors": "with participation from Nvidia, Hitachi Ventures and T. Capital"
+   },
+   "source_urls": [
+    "https://metrology.news/humanoid-robotics-sector-gains-momentum-as-agile-robots-raises-500m-and-agility-goes-public/"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": true,
+   "lead_investors": [
+    "Oman Investment Authority"
+   ],
+   "investors": [
+    "Oman Investment Authority"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.7,
+   "exclude_reason": null,
+   "group_key": "asia startup",
+   "candidate_ids": [
+    "c89bf1a02c22"
+   ],
+   "company": "MegaRobo",
+   "amount_usd": 200000000,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-20",
+   "hq_country": "CN",
+   "ai_ml_rationale": "AI-powered laboratory automation.",
+   "description": "Chinese laboratory automation company.",
+   "evidence": {
+    "amount": "nearly $200 million in a new funding round",
+    "round": "a new funding round",
+    "lead": "led by the Oman Investment Authority",
+    "investors": "led by the Oman Investment Authority"
+   },
+   "source_urls": [
+    "https://www.techloy.com/week-47-asia-startup-funding-megarobo/"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": true,
+   "lead_investors": [
+    "Info Edge Group",
+    "South Park Commons",
+    "Indus Bridge Ventures"
+   ],
+   "investors": [
+    "Info Edge Group",
+    "South Park Commons",
+    "Indus Bridge Ventures",
+    "Micromax",
+    "Valour Capital",
+    "Gaingels"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.7,
+   "exclude_reason": null,
+   "group_key": "asia startup",
+   "candidate_ids": [
+    "c89bf1a02c22"
+   ],
+   "company": "Bharat Semi",
+   "amount_usd": 24000000,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-20",
+   "hq_country": "IN",
+   "ai_ml_rationale": "AI-powered smart sensors.",
+   "description": "Indian semiconductor startup building AI-powered smart sensors.",
+   "evidence": {
+    "amount": "$24 million in seed funding",
+    "round": "seed funding",
+    "lead": "led by Info Edge Group, South Park Commons and Indus Bridge Ventures",
+    "investors": "with participation from Micromax, Valour Capital, Gaingels"
+   },
+   "source_urls": [
+    "https://www.techloy.com/week-47-asia-startup-funding-megarobo/"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": true,
+   "lead_investors": [
+    "NEA"
+   ],
+   "investors": [
+    "NEA"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "is_ai_ml": true,
+   "confidence": 0.75,
+   "exclude_reason": null,
+   "group_key": "week 47 africa and",
+   "candidate_ids": [
+    "3c358acb64ee"
+   ],
+   "company": "Corma",
+   "amount_usd": 125000000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-20",
+   "hq_country": "US",
+   "ai_ml_rationale": "Trains AI models for cyber defense.",
+   "description": "AI cybersecurity company co-headquartered in Tel Aviv and San Francisco.",
+   "evidence": {
+    "amount": "NEA led its $125 million Series A",
+    "round": "Series A",
+    "lead": "NEA led its $125 million Series A",
+    "investors": "NEA led"
+   },
+   "source_urls": [
+    "https://www.techloy.com/week-47-africa-middle-east-startup-funding/"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": true,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "is_ai_ml": true,
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "imagen",
+   "candidate_ids": [
+    "21dc5ace6201"
+   ],
+   "company": "Imagen",
+   "amount_usd": 100000000,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-19",
+   "hq_country": "US",
+   "ai_ml_rationale": "AI-powered radiology practice using FDA-cleared AI tools.",
+   "description": "AI-powered radiology practice interpreting imaging studies across 28 states.",
+   "evidence": {
+    "amount": "raised $100 million to recruit radiologists and train AI models",
+    "round": "raised $100 million",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://wisevoter.com/world/us/2026/11/19/imagen-raises-100m-radiologists-ai-training"
+   ]
+  }
+ ]
+}

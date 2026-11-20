@@ -1,0 +1,379 @@
+{
+ "run_date": "2026-11-20",
+ "extractor": "claude-code routine",
+ "notes": "No web lookups used. BrightAI round dates to mid-2025 (stale). Quantum Systems article refers to an earlier round.",
+ "rows": [
+  {
+   "website": null,
+   "currency_note": "EUR 100M converted at ~1.08",
+   "amount_disclosed": true,
+   "lead_investors": [],
+   "investors": [
+    "T.Capital"
+   ],
+   "hq_city": "Paris",
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "mistral blazes ahead with",
+   "candidate_ids": [
+    "9c221bba0892"
+   ],
+   "company": "Mistral AI",
+   "amount_usd": 108000000,
+   "round_type": "Series D",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-19",
+   "hq_country": "FR",
+   "ai_ml_rationale": "Foundation model company.",
+   "description": "French AI model developer.",
+   "evidence": {
+    "amount": "an additional €100 million to their Series D",
+    "round": "Series D",
+    "lead": null,
+    "investors": "Series D by T.Capital"
+   },
+   "source_urls": [
+    "https://www.eu-startups.com/2026/11/mistral-balzes-ahead-with-an-additional-e100-million-to-their-series-d-by-t-capital/"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": true,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "is_ai_ml": true,
+   "confidence": 0.5,
+   "exclude_reason": "duplicate",
+   "group_key": "brightai",
+   "candidate_ids": [
+    "488d1c0f1365"
+   ],
+   "company": "BrightAI",
+   "amount_usd": 51000000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "hq_country": "US",
+   "ai_ml_rationale": "Multimodal AI sensor infrastructure monitoring.",
+   "description": "Sensor-driven infrastructure monitoring platform using drones and multimodal AI.",
+   "evidence": {
+    "amount": "closed a $51 million Series A round in mid-2025",
+    "round": "Series A round",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://wisevoter.com/world/us/ca/san-francisco/2026/11/18/brightai-raises-51m-infrastructure-sensor-platform"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": true,
+   "lead_investors": [
+    "Accel",
+    "Lighthouse Canton"
+   ],
+   "investors": [
+    "Accel",
+    "Prosus Ventures",
+    "BeeGlobal",
+    "Bajaj Alts AI Opportunities Fund",
+    "Dallas Venture Capital",
+    "Lighthouse Canton",
+    "Jump Trading",
+    "Trifecta Capital"
+   ],
+   "hq_city": "Bengaluru",
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "ex nazara ceo manish agarwals",
+   "candidate_ids": [
+    "93829188e558"
+   ],
+   "company": "Humyn Labs",
+   "amount_usd": 47000000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-19",
+   "hq_country": "IN",
+   "ai_ml_rationale": "Physical AI/robotics data startup.",
+   "description": "Physical AI startup recording human work to train robots.",
+   "evidence": {
+    "amount": "$47 million in a Series A round",
+    "round": "Series A round",
+    "lead": "The $26 million equity tranche was led by Accel",
+    "investors": "participation from Prosus Ventures, BeeGlobal"
+   },
+   "source_urls": [
+    "https://indianstartupnews.com/funding/ex-nazara-ceo-manish-agarwals-humyn-labs-raises-47-million-to-record-human-work-for-robots-12823944"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": "EUR 20M converted at ~1.08",
+   "amount_disclosed": true,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "gradyent",
+   "candidate_ids": [
+    "ea4f03f6a80b"
+   ],
+   "company": "Gradyent",
+   "amount_usd": 21600000,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "hq_country": "NL",
+   "ai_ml_rationale": "Digital twin tech, no explicit AI claim in available text.",
+   "description": "Dutch digital twin startup for heating networks.",
+   "evidence": {
+    "amount": "€20 million EIB loan",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.eu-startups.com/2026/11/dutch-startup-gradyent-lands-e20-million-eib-loan-to-expand-digital-twin-technology-across-europes-heating-networks/"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": true,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.7,
+   "exclude_reason": null,
+   "group_key": "wepinion",
+   "candidate_ids": [
+    "8f639169d645",
+    "3f5b5fe7099d"
+   ],
+   "company": "Wepinion",
+   "amount_usd": 500000,
+   "round_type": "Pre-Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-18",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Platform built with AI prompts.",
+   "description": "Platform built by a solo founder.",
+   "evidence": {
+    "amount": "Raises $500K Pre-Seed Round",
+    "round": " Pre-Seed Round",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://finance.yahoo.com/technology/ai/articles/wepinion-inc-raises-500k-pre-131100523.html"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": true,
+   "lead_investors": [
+    "Salesforce Ventures"
+   ],
+   "investors": [
+    "Salesforce Ventures",
+    "Bullhound Capital",
+    "Affinity Partners",
+    "AMD Ventures",
+    "DCVC",
+    "In-Q-Tel"
+   ],
+   "hq_city": "Sydney",
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.7,
+   "exclude_reason": null,
+   "group_key": "australian startups",
+   "candidate_ids": [
+    "a7be11187761"
+   ],
+   "company": "Q-CTRL",
+   "amount_usd": 290000000,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-20",
+   "hq_country": "AU",
+   "ai_ml_rationale": "AI-powered quantum infrastructure software.",
+   "description": "Quantum infrastructure software and navigation company.",
+   "evidence": {
+    "amount": "US$290 million (A$415 million) in a Series C",
+    "round": "Series C",
+    "lead": "led by Salesforce Ventures",
+    "investors": "significant participation from Bullhound Capital and Affinity Partners"
+   },
+   "source_urls": [
+    "https://dynamicbusiness.com/funding-and-investment/australian-startups-raise-from-series-c-to-seed-across-five-sectors"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": true,
+   "lead_investors": [
+    "DCVC"
+   ],
+   "investors": [
+    "DCVC",
+    "UC Investments",
+    "Skip Capital",
+    "Hostplus",
+    "Blackbird",
+    "Divergent Capital",
+    "KdT Ventures"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "is_ai_ml": true,
+   "confidence": 0.75,
+   "exclude_reason": null,
+   "group_key": "australian startups",
+   "candidate_ids": [
+    "a7be11187761"
+   ],
+   "company": "Remedy Robotics",
+   "amount_usd": 62000000,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-20",
+   "hq_country": "US",
+   "ai_ml_rationale": "AI-enabled robotic systems for stroke procedures.",
+   "description": "AI-enabled robotic systems for stroke and cardiovascular procedures.",
+   "evidence": {
+    "amount": "US$62 million in a Series B",
+    "round": "Series B",
+    "lead": "Series B led by DCVC",
+    "investors": "New investors include UC Investments, Skip Capital and Hostplus"
+   },
+   "source_urls": [
+    "https://dynamicbusiness.com/funding-and-investment/australian-startups-raise-from-series-c-to-seed-across-five-sectors"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": "EUR 2.5M converted at ~1.08",
+   "amount_disclosed": true,
+   "lead_investors": [
+    "Samaipata"
+   ],
+   "investors": [
+    "Samaipata"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.4,
+   "exclude_reason": null,
+   "group_key": "wilco",
+   "candidate_ids": [
+    "9912193c1146"
+   ],
+   "company": "Wilco",
+   "amount_usd": 2700000,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-19",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "No AI claim in available text.",
+   "description": "Startup raising a round led by Samaipata.",
+   "evidence": {
+    "amount": "raises 2.5 million in a round led by Samaipata",
+    "round": null,
+    "lead": "led by Samaipata",
+    "investors": "led by Samaipata"
+   },
+   "source_urls": [
+    "https://www.democrata.es/en/economy/the-startup-wilco-raises-2-5-million-in-a-round-led-by-samaipata/amp/"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": false,
+   "lead_investors": [
+    "Shenzhen Capital Group"
+   ],
+   "investors": [
+    "Shenzhen Capital Group"
+   ],
+   "hq_city": "Shenzhen",
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "top news today brain chip",
+   "candidate_ids": [
+    "4c7dee2b27fd"
+   ],
+   "company": "Qingshi Yongjun",
+   "amount_usd": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-19",
+   "hq_country": "CN",
+   "ai_ml_rationale": "Brain-computer interface devices, no AI claim.",
+   "description": "Brain-computer interface neuromodulation medical devices.",
+   "evidence": {
+    "amount": "Series A round of several hundred million yuan",
+    "round": "Series A",
+    "lead": "led by Shenzhen Capital Group",
+    "investors": "led by Shenzhen Capital Group"
+   },
+   "source_urls": [
+    "https://www.analyticsinsight.net/tech-news/top-news-today-brain-chip-therapy-startup-raises-funding-freshers-face-campus-hiring-changes"
+   ]
+  },
+  {
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": false,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.9,
+   "exclude_reason": "not-funding",
+   "group_key": "what the telecom bust",
+   "candidate_ids": [
+    "3fad476314ff"
+   ],
+   "company": "Runway Growth Capital",
+   "amount_usd": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "hq_country": "US",
+   "ai_ml_rationale": "Opinion piece.",
+   "description": "Opinion article about AI debt financing.",
+   "evidence": {
+    "amount": "The financing of the AI buildout is shifting from equity to debt",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/"
+   ]
+  }
+ ]
+}

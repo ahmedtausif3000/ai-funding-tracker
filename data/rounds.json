@@ -1,7 +1,133 @@
 {
  "version": 1,
- "updated_at": "2026-11-19T23:07:45.674Z",
+ "updated_at": "2026-11-20T14:09:27.752Z",
  "rounds": [
+  {
+   "id": "0c935691dc",
+   "website": null,
+   "currency_note": "EUR 1B converted at ~1.08",
+   "amount_disclosed": true,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.4,
+   "exclude_reason": "duplicate",
+   "group_key": "following 1 billion funding",
+   "candidate_ids": [
+    "5715cf5b935c"
+   ],
+   "company": "Quantum Systems",
+   "amount_usd": 1080000000,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-20",
+   "hq_country": "DE",
+   "ai_ml_rationale": "Drone/autonomy maker.",
+   "description": "Drone maker; article covers Ukraine support after earlier funding round.",
+   "evidence": {
+    "amount": "Following €1 billion funding round",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.eu-startups.com/2026/11/following-e1-billion-funding-round-quantum-systems-commits-over-e10-million-to-expand-drone-support-in-ukraine/"
+   ],
+   "transaction_name": "Venture - Unspecified - Quantum Systems",
+   "first_seen_run": "2026-11-20",
+   "runs": [
+    "2026-11-20"
+   ],
+   "created_at": "2026-11-20T14:09:27.724Z",
+   "updated_at": "2026-11-20T14:09:27.724Z",
+   "in_view": false
+  },
+  {
+   "id": "afe8b019e9",
+   "website": null,
+   "currency_note": "EUR 20M converted at ~1.08",
+   "amount_disclosed": true,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "gradyent",
+   "candidate_ids": [
+    "ea4f03f6a80b"
+   ],
+   "company": "Gradyent",
+   "amount_usd": 21600000,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "hq_country": "NL",
+   "ai_ml_rationale": "Digital twin tech, no explicit AI claim in available text.",
+   "description": "Dutch digital twin startup for heating networks.",
+   "evidence": {
+    "amount": "€20 million EIB loan",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.eu-startups.com/2026/11/dutch-startup-gradyent-lands-e20-million-eib-loan-to-expand-digital-twin-technology-across-europes-heating-networks/"
+   ],
+   "transaction_name": "Debt - Gradyent",
+   "first_seen_run": "2026-11-20",
+   "runs": [
+    "2026-11-20"
+   ],
+   "created_at": "2026-11-20T14:09:27.736Z",
+   "updated_at": "2026-11-20T14:09:27.736Z",
+   "in_view": false
+  },
+  {
+   "id": "0b47d8b486",
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": false,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.9,
+   "exclude_reason": "not-funding",
+   "group_key": "what the telecom bust",
+   "candidate_ids": [
+    "3fad476314ff"
+   ],
+   "company": "Runway Growth Capital",
+   "amount_usd": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "hq_country": "US",
+   "ai_ml_rationale": "Opinion piece.",
+   "description": "Opinion article about AI debt financing.",
+   "evidence": {
+    "amount": "The financing of the AI buildout is shifting from equity to debt",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/"
+   ],
+   "transaction_name": "Other - Runway Growth Capital",
+   "first_seen_run": "2026-11-20",
+   "runs": [
+    "2026-11-20"
+   ],
+   "created_at": "2026-11-20T14:09:27.745Z",
+   "updated_at": "2026-11-20T14:09:27.745Z",
+   "in_view": false
+  },
   {
    "id": "3881eed54e",
    "website": null,
@@ -42,6 +168,48 @@
    ],
    "created_at": "2026-11-19T14:10:10.930Z",
    "updated_at": "2026-11-19T14:10:10.930Z",
+   "in_view": false
+  },
+  {
+   "id": "80954004ad",
+   "website": null,
+   "currency_note": "EUR 1.5B converted at ~1.08",
+   "amount_disclosed": true,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.8,
+   "exclude_reason": "fund",
+   "group_key": "infranity",
+   "candidate_ids": [
+    "50454a773756"
+   ],
+   "company": "Infranity",
+   "amount_usd": 1620000000,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-19",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Infrastructure debt fund.",
+   "description": "Infrastructure debt fund manager closing fourth senior debt vintage.",
+   "evidence": {
+    "amount": "securing €1.5 billion across the strategy and associated co-investment vehicles",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/infranity-raises-e1-5-billion-for-fourth-senior-infrastructure-debt-vintage/"
+   ],
+   "transaction_name": "Other - Infranity",
+   "first_seen_run": "2026-11-20",
+   "runs": [
+    "2026-11-20"
+   ],
+   "created_at": "2026-11-20T14:09:27.722Z",
+   "updated_at": "2026-11-20T14:09:27.722Z",
    "in_view": false
   },
   {
@@ -87,11 +255,55 @@
    "in_view": false
   },
   {
+   "id": "0982f85d3d",
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": true,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Riyadh",
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.8,
+   "exclude_reason": "not-funding",
+   "group_key": "saudi arabias ceer",
+   "candidate_ids": [
+    "290f44f4ce77"
+   ],
+   "company": "Ceer",
+   "amount_usd": 693000000,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-19",
+   "hq_country": "SA",
+   "ai_ml_rationale": "EV maker, no AI claim.",
+   "description": "Saudi PIF-owned EV maker financing agreement.",
+   "evidence": {
+    "amount": "approximately $693 million (SR2.6 billion)",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://fastcompanyme.com/news/saudi-arabias-ceer-raises-693-million-as-it-builds-a-homegrown-ev-industry/"
+   ],
+   "transaction_name": "Debt - Ceer",
+   "first_seen_run": "2026-11-20",
+   "runs": [
+    "2026-11-20"
+   ],
+   "created_at": "2026-11-20T14:09:27.725Z",
+   "updated_at": "2026-11-20T14:09:27.725Z",
+   "in_view": false
+  },
+  {
    "id": "c7dc7b1490",
    "website": null,
    "amount_disclosed": true,
    "currency_note": "\"nearly $200 million\"",
-   "lead_investors": [],
+   "lead_investors": [
+    "Oman Investment Authority"
+   ],
    "investors": [
     "Oman Investment Authority",
     "Asia Investment Capital",
@@ -125,16 +337,62 @@
    },
    "source_urls": [
     "https://www.prnewswire.com/news-releases/megarobo-raises-nearly-us200-million-in-new-funding-to-build-intelligence-infrastructure-for-the-physical-world-302944671.html",
-    "https://www.omanobserver.om/article/1199940/business/economy/omani-fund-joins-200m-chinese-ai-funding-round"
+    "https://www.omanobserver.om/article/1199940/business/economy/omani-fund-joins-200m-chinese-ai-funding-round",
+    "https://www.techloy.com/week-47-asia-startup-funding-megarobo/"
    ],
    "transaction_name": "Venture - Unspecified - MegaRobo Technologies",
    "first_seen_run": "2026-11-19",
    "runs": [
     "2026-11-19",
-    "2026-11-19-2032"
+    "2026-11-19-2032",
+    "2026-11-20"
    ],
    "created_at": "2026-11-19T14:10:10.908Z",
-   "updated_at": "2026-11-19T23:07:45.647Z",
+   "updated_at": "2026-11-20T14:09:27.726Z",
+   "in_view": false
+  },
+  {
+   "id": "91400da06c",
+   "website": null,
+   "currency_note": "EUR 100M converted at ~1.08",
+   "amount_disclosed": true,
+   "lead_investors": [],
+   "investors": [
+    "T.Capital"
+   ],
+   "hq_city": "Paris",
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "mistral blazes ahead with",
+   "candidate_ids": [
+    "9c221bba0892"
+   ],
+   "company": "Mistral AI",
+   "amount_usd": 108000000,
+   "round_type": "Series D",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-19",
+   "hq_country": "FR",
+   "ai_ml_rationale": "Foundation model company.",
+   "description": "French AI model developer.",
+   "evidence": {
+    "amount": "an additional €100 million to their Series D",
+    "round": "Series D",
+    "lead": null,
+    "investors": "Series D by T.Capital"
+   },
+   "source_urls": [
+    "https://www.eu-startups.com/2026/11/mistral-balzes-ahead-with-an-additional-e100-million-to-their-series-d-by-t-capital/"
+   ],
+   "transaction_name": "Series D - Mistral AI",
+   "first_seen_run": "2026-11-20",
+   "runs": [
+    "2026-11-20"
+   ],
+   "created_at": "2026-11-20T14:09:27.730Z",
+   "updated_at": "2026-11-20T14:09:27.730Z",
    "in_view": false
   },
   {
@@ -179,6 +437,48 @@
    "created_at": "2026-11-19T23:07:45.650Z",
    "updated_at": "2026-11-19T23:07:45.650Z",
    "in_view": false
+  },
+  {
+   "id": "0232073104",
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": true,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "is_ai_ml": true,
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "imagen",
+   "candidate_ids": [
+    "21dc5ace6201"
+   ],
+   "company": "Imagen",
+   "amount_usd": 100000000,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-19",
+   "hq_country": "US",
+   "ai_ml_rationale": "AI-powered radiology practice using FDA-cleared AI tools.",
+   "description": "AI-powered radiology practice interpreting imaging studies across 28 states.",
+   "evidence": {
+    "amount": "raised $100 million to recruit radiologists and train AI models",
+    "round": "raised $100 million",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://wisevoter.com/world/us/2026/11/19/imagen-raises-100m-radiologists-ai-training"
+   ],
+   "transaction_name": "Venture - Unspecified - Imagen",
+   "first_seen_run": "2026-11-20",
+   "runs": [
+    "2026-11-20"
+   ],
+   "created_at": "2026-11-20T14:09:27.728Z",
+   "updated_at": "2026-11-20T14:09:27.728Z",
+   "in_view": true
   },
   {
    "id": "97e121e477",
@@ -561,6 +861,52 @@
    "in_view": false
   },
   {
+   "id": "6b282686a8",
+   "website": null,
+   "currency_note": "EUR 2.5M converted at ~1.08",
+   "amount_disclosed": true,
+   "lead_investors": [
+    "Samaipata"
+   ],
+   "investors": [
+    "Samaipata"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.4,
+   "exclude_reason": null,
+   "group_key": "wilco",
+   "candidate_ids": [
+    "9912193c1146"
+   ],
+   "company": "Wilco",
+   "amount_usd": 2700000,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-19",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "No AI claim in available text.",
+   "description": "Startup raising a round led by Samaipata.",
+   "evidence": {
+    "amount": "raises 2.5 million in a round led by Samaipata",
+    "round": null,
+    "lead": "led by Samaipata",
+    "investors": "led by Samaipata"
+   },
+   "source_urls": [
+    "https://www.democrata.es/en/economy/the-startup-wilco-raises-2-5-million-in-a-round-led-by-samaipata/amp/"
+   ],
+   "transaction_name": "Venture - Unspecified - Wilco",
+   "first_seen_run": "2026-11-20",
+   "runs": [
+    "2026-11-20"
+   ],
+   "created_at": "2026-11-20T14:09:27.740Z",
+   "updated_at": "2026-11-20T14:09:27.740Z",
+   "in_view": false
+  },
+  {
    "id": "9752f24ec6",
    "website": null,
    "amount_disclosed": true,
@@ -836,6 +1182,136 @@
    "in_view": false
   },
   {
+   "id": "948dac473e",
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": false,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.8,
+   "exclude_reason": "public-company",
+   "group_key": "nebius lifts 2026 capex",
+   "candidate_ids": [
+    "5bf1e3d1d3cc"
+   ],
+   "company": "Nebius",
+   "amount_usd": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-19",
+   "hq_country": "NL",
+   "ai_ml_rationale": "Public company capex guidance, not a venture round.",
+   "description": "Public AI infrastructure company; article is about capex guidance.",
+   "evidence": {
+    "amount": "raised its 2026 capital expenditure guidance to approximately $27 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.theglobeandmail.com/investing/markets/stocks/CRWV/pressreleases/8921525/nebius-lifts-2026-capex-view-to-27b-can-funding-keep-pace/"
+   ],
+   "transaction_name": "Other - Nebius",
+   "first_seen_run": "2026-11-20",
+   "runs": [
+    "2026-11-20"
+   ],
+   "created_at": "2026-11-20T14:09:27.714Z",
+   "updated_at": "2026-11-20T14:09:27.714Z",
+   "in_view": false
+  },
+  {
+   "id": "5f7e9d7298",
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": false,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.9,
+   "exclude_reason": "not-funding",
+   "group_key": "inox clean",
+   "candidate_ids": [
+    "2adfe193408d"
+   ],
+   "company": "Inox Clean Energy",
+   "amount_usd": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-19",
+   "hq_country": "IN",
+   "ai_ml_rationale": "Annual funding statistics article, no AI claim.",
+   "description": "Indian energy startups funding statistics article.",
+   "evidence": {
+    "amount": "raised around $3.85 billion in disclosed funding",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://energy.economictimes.indiatimes.com/news/renewable/inox-clean-blupine-serentica-corner-35-of-3-85-billion-funding-raised-by-indian-energy-startups-in-2026/135981699"
+   ],
+   "transaction_name": "Other - Inox Clean Energy",
+   "first_seen_run": "2026-11-20",
+   "runs": [
+    "2026-11-20"
+   ],
+   "created_at": "2026-11-20T14:09:27.719Z",
+   "updated_at": "2026-11-20T14:09:27.719Z",
+   "in_view": false
+  },
+  {
+   "id": "c9f662d4e5",
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": false,
+   "lead_investors": [
+    "Shenzhen Capital Group"
+   ],
+   "investors": [
+    "Shenzhen Capital Group"
+   ],
+   "hq_city": "Shenzhen",
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "top news today brain chip",
+   "candidate_ids": [
+    "4c7dee2b27fd"
+   ],
+   "company": "Qingshi Yongjun",
+   "amount_usd": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-19",
+   "hq_country": "CN",
+   "ai_ml_rationale": "Brain-computer interface devices, no AI claim.",
+   "description": "Brain-computer interface neuromodulation medical devices.",
+   "evidence": {
+    "amount": "Series A round of several hundred million yuan",
+    "round": "Series A",
+    "lead": "led by Shenzhen Capital Group",
+    "investors": "led by Shenzhen Capital Group"
+   },
+   "source_urls": [
+    "https://www.analyticsinsight.net/tech-news/top-news-today-brain-chip-therapy-startup-raises-funding-freshers-face-campus-hiring-changes"
+   ],
+   "transaction_name": "Series A - Qingshi Yongjun",
+   "first_seen_run": "2026-11-20",
+   "runs": [
+    "2026-11-20"
+   ],
+   "created_at": "2026-11-20T14:09:27.743Z",
+   "updated_at": "2026-11-20T14:09:27.743Z",
+   "in_view": false
+  },
+  {
    "id": "a9420d69b0",
    "group_key": "jeeves",
    "candidate_ids": [
@@ -895,7 +1371,8 @@
    "announced_date": "2026-11-18",
    "lead_investors": [
     "Goldman Sachs",
-    "Goldman Sachs Alternatives"
+    "Goldman Sachs Alternatives",
+    "Growth Equity at Goldman Sachs Alternatives"
    ],
    "investors": [
     "Goldman Sachs",
@@ -904,7 +1381,8 @@
     "QED",
     "Goldman Sachs Alternatives",
     "Hedosophia",
-    "Bek Ventures"
+    "Bek Ventures",
+    "Growth Equity at Goldman Sachs Alternatives"
    ],
    "hq_city": "London",
    "hq_state": null,
@@ -921,17 +1399,19 @@
    },
    "source_urls": [
     "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
-    "https://www.techtimes.com/articles/331053/20261119/ai-finance-agents-get-280m-boost-payhawk-raises-series-c-2b-valuation.htm"
+    "https://www.techtimes.com/articles/331053/20261119/ai-finance-agents-get-280m-boost-payhawk-raises-series-c-2b-valuation.htm",
+    "https://beinsure.com/news/fintech-payhawk-raises-280-mn-in-series-c-funding-at-2-bn-valuation/"
    ],
    "exclude_reason": null,
    "transaction_name": "Series C - Payhawk",
    "first_seen_run": "2026-11-18-2028",
    "runs": [
     "2026-11-18-2028",
-    "2026-11-19"
+    "2026-11-19",
+    "2026-11-20"
    ],
    "created_at": "2026-11-18T23:09:15.628Z",
-   "updated_at": "2026-11-19T14:10:10.905Z",
+   "updated_at": "2026-11-20T14:09:27.719Z",
    "in_view": false
   },
   {
@@ -1364,6 +1844,48 @@
    "in_view": false
   },
   {
+   "id": "b459353315",
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": true,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "is_ai_ml": true,
+   "confidence": 0.5,
+   "exclude_reason": "duplicate",
+   "group_key": "brightai",
+   "candidate_ids": [
+    "488d1c0f1365"
+   ],
+   "company": "BrightAI",
+   "amount_usd": 51000000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "hq_country": "US",
+   "ai_ml_rationale": "Multimodal AI sensor infrastructure monitoring.",
+   "description": "Sensor-driven infrastructure monitoring platform using drones and multimodal AI.",
+   "evidence": {
+    "amount": "closed a $51 million Series A round in mid-2025",
+    "round": "Series A round",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://wisevoter.com/world/us/ca/san-francisco/2026/11/18/brightai-raises-51m-infrastructure-sensor-platform"
+   ],
+   "transaction_name": "Series A - BrightAI",
+   "first_seen_run": "2026-11-20",
+   "runs": [
+    "2026-11-20"
+   ],
+   "created_at": "2026-11-20T14:09:27.733Z",
+   "updated_at": "2026-11-20T14:09:27.733Z",
+   "in_view": false
+  },
+  {
    "id": "849b849217",
    "group_key": "humyn",
    "candidate_ids": [
@@ -1379,11 +1901,19 @@
    "stage_bucket": "Early Stage Venture",
    "announced_date": "2026-11-18",
    "lead_investors": [
-    "Accel"
+    "Accel",
+    "Lighthouse Canton"
    ],
    "investors": [
     "Accel",
-    "Prosus"
+    "Prosus",
+    "Prosus Ventures",
+    "BeeGlobal",
+    "Bajaj Alts AI Opportunities Fund",
+    "Dallas Venture Capital",
+    "Lighthouse Canton",
+    "Jump Trading",
+    "Trifecta Capital"
    ],
    "hq_city": "San Francisco",
    "hq_state": "CA",
@@ -1391,7 +1921,7 @@
    "is_ai_ml": true,
    "ai_ml_rationale": "Physical AI and robotics training data.",
    "description": "Indian physical AI startup supplying robot training data to US robotics companies.",
-   "confidence": 0.7,
+   "confidence": 0.8,
    "evidence": {
     "amount": "Humyn Labs raises $47 million led by Accel",
     "round": "AI startup Humyn Labs raises $47 million in Series A funding round",
@@ -1401,7 +1931,8 @@
    "source_urls": [
     "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-ne",
     "https://www.forbes.com/sites/johnkoetsier/2026/11/18/physical-ai-startup-humyn-hits-50-million-arr-in-6-months-raises-47-million/",
-    "https://ca.finance.yahoo.com/news/physical-ai-startup-humyn-hits-222200354.html"
+    "https://ca.finance.yahoo.com/news/physical-ai-startup-humyn-hits-222200354.html",
+    "https://indianstartupnews.com/funding/ex-nazara-ceo-manish-agarwals-humyn-labs-raises-47-million-to-record-human-work-for-robots-12823944"
    ],
    "exclude_reason": null,
    "transaction_name": "Series A - Humyn Labs",
@@ -1409,10 +1940,11 @@
    "runs": [
     "2026-11-18-2028",
     "2026-11-19",
-    "2026-11-19-2032"
+    "2026-11-19-2032",
+    "2026-11-20"
    ],
    "created_at": "2026-11-18T23:09:15.650Z",
-   "updated_at": "2026-11-19T23:07:45.650Z",
+   "updated_at": "2026-11-20T14:09:27.733Z",
    "in_view": false
   },
   {
@@ -1761,6 +2293,49 @@
    ],
    "created_at": "2026-11-19T14:10:10.925Z",
    "updated_at": "2026-11-19T14:10:10.925Z",
+   "in_view": false
+  },
+  {
+   "id": "a1b2f4c63f",
+   "website": null,
+   "currency_note": null,
+   "amount_disclosed": true,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.7,
+   "exclude_reason": null,
+   "group_key": "wepinion",
+   "candidate_ids": [
+    "8f639169d645",
+    "3f5b5fe7099d"
+   ],
+   "company": "Wepinion",
+   "amount_usd": 500000,
+   "round_type": "Pre-Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-18",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Platform built with AI prompts.",
+   "description": "Platform built by a solo founder.",
+   "evidence": {
+    "amount": "Raises $500K Pre-Seed Round",
+    "round": " Pre-Seed Round",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://finance.yahoo.com/technology/ai/articles/wepinion-inc-raises-500k-pre-131100523.html"
+   ],
+   "transaction_name": "Pre-Seed - Wepinion",
+   "first_seen_run": "2026-11-20",
+   "runs": [
+    "2026-11-20"
+   ],
+   "created_at": "2026-11-20T14:09:27.737Z",
+   "updated_at": "2026-11-20T14:09:27.737Z",
    "in_view": false
   },
   {
@@ -4913,17 +5488,19 @@
     "https://www.unite.ai/corma-raises-125m-series-a-at-1b-valuation-to-scale-defensive-ai/",
     "https://en.globes.co.il/en/article-defensive-ai-agents-co-corma-raises-125-million-at-1b-valuation-1001563580",
     "https://www.ynetnews.com/business/article/sju50socmg",
-    "https://pulse2.com/corma-raises-125-million-at-1-billion-valuation-for-cyber-defense-ai/"
+    "https://pulse2.com/corma-raises-125-million-at-1-billion-valuation-for-cyber-defense-ai/",
+    "https://www.techloy.com/week-47-africa-middle-east-startup-funding/"
    ],
    "exclude_reason": null,
    "transaction_name": "Series A - Corma",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
     "catchup-2026-11-10_2026-11-17",
-    "2026-11-18"
+    "2026-11-18",
+    "2026-11-20"
    ],
    "created_at": "2026-11-18T06:42:51.077Z",
-   "updated_at": "2026-11-18T06:46:01.962Z",
+   "updated_at": "2026-11-20T14:09:27.727Z",
    "in_view": true
   },
   {
@@ -5141,16 +5718,18 @@
     "https://www.prnewswire.com/news-releases/remedy-robotics-raises-62-million-series-b-to-bring-life-saving-cardiovascular-intervention-to-patients-everywhere-302939871.html",
     "https://pulse2.com/remedy-robotics-raises-62-million-series-b-for-cardiovascular-robotic-system-development/",
     "https://www.startupdaily.net/topic/funding/expats-remote-surgery-medtech-scores-92-million-series-b-for-stroke-care/",
-    "https://cardiovascularbusiness.com/topics/clinical/vascular-endovascular/ai-startup-raises-62m-robotic-endovascular-interventions"
+    "https://cardiovascularbusiness.com/topics/clinical/vascular-endovascular/ai-startup-raises-62m-robotic-endovascular-interventions",
+    "https://dynamicbusiness.com/funding-and-investment/australian-startups-raise-from-series-c-to-seed-across-five-sectors"
    ],
    "exclude_reason": null,
    "transaction_name": "Series B - Remedy Robotics",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-20"
    ],
    "created_at": "2026-11-18T06:42:51.190Z",
-   "updated_at": "2026-11-18T06:42:51.190Z",
+   "updated_at": "2026-11-20T14:09:27.738Z",
    "in_view": true
   },
   {
@@ -6616,17 +7195,19 @@
     "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOW1MMEZVX0l6Nm05VmhVQXgxU2YwSXY0MHRXN21icVpRNW9pSlU4c2Z4akJQX0ZjRWhLcm82OWw5Ynd3RnBnbF9pX2Q3cGN1Yl9pc28yNjJsRHpBRjdiTXNCSmVuWm80LURYTDRTc1o4Q1FRbWFLaWhQMkl0T1lCamdJSE5lZmt4QW9TRDRfUVpMYy1CdXhCT1pkMklpQ2xNdEM4NFdRanQ3bmxJZG5vM2U2eFV5MDdyLTE3dEd3Z19rUU5HUmplSV91Wkk4UW_SAdQBQVVfeXFMTWV3QTlLY19mOERxN3AtSkJJeEo0dnRoZDg5NXBpVENMcU8zSHgzS1llSllNR2M5Y2owaU9Ca3JCM0tiZXJDeUZSeU9MU2pILXFEUl9ubGFkYjk4N2dDUEt4UDFzVWh3QUg1RXdzYTFoR3htbGM5clJvY2tacUNzZlEyZGdxU2ZKcmVwTHdod2E0OUl2RW42UkhLVDlzOHo0dHZvZ0FVdGVfa0kwZVg5NnJ4RU9JdGRpalRrWFc1dVF0RVFScFg0SHRBYThfaUJHWXJiOFk?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ2lpQm9Ldm5zS254LUx2eHVfM2pwV2NROTlmUnJVNEsxbHJ4aTRCV1RRaWNRQXNaQ015d1RDbFFUR1BFcnV4VTZYaVdRM1E2SDlWVEpmZS1YcFhXUkZoU2l3WjBVdDZZVGFfMWdQaUxxeVV3YThTeVRsQ01ZZWFfNnNmbTg3Zm15ZklUdzczV0FONnQwRVZLSXJhazNYNFQydDRUSWJydUxNVm5zcktnSC02Z9IBswFBVV95cUxNQ2lpQm9Ldm5zS254LUx2eHVfM2pwV2NROTlmUnJVNEsxbHJ4aTRCV1RRaWNRQXNaQ015d1RDbFFUR1BFcnV4VTZYaVdRM1E2SDlWVEpmZS1YcFhXUkZoU2l3WjBVdDZZVGFfMWdQaUxxeVV3YThTeVRsQ01ZZWFfNnNmbTg3Zm15ZklUdzczV0FONnQwRVZLSXJhazNYNFQydDRUSWJydUxNVm5zcktnSC02Zw?oc=5",
-    "https://enterpriseai.economictimes.indiatimes.com/amp/news/industry/bharat-semi-raises-24-million-in-seed-funding-to-scale-ai-sensor-technology/135876"
+    "https://enterpriseai.economictimes.indiatimes.com/amp/news/industry/bharat-semi-raises-24-million-in-seed-funding-to-scale-ai-sensor-technology/135876",
+    "https://www.techloy.com/week-47-asia-startup-funding-megarobo/"
    ],
    "exclude_reason": null,
    "transaction_name": "Seed - Bharat Semi",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
     "catchup-2026-11-10_2026-11-17",
-    "2026-11-18"
+    "2026-11-18",
+    "2026-11-20"
    ],
    "created_at": "2026-11-18T06:42:51.272Z",
-   "updated_at": "2026-11-18T06:46:01.963Z",
+   "updated_at": "2026-11-20T14:09:27.726Z",
    "in_view": false
   },
   {
@@ -9808,16 +10389,18 @@
     "https://finance.yahoo.com/technology/ai/articles/softbank-tse-9434-leads-500-062035919.html",
     "https://www.forbes.com/sites/johnkoetsier/2026/11/12/germanys-agile-robots-raises-500-million-from-softbank-nvidia-at-85-billion-valuation/",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMll4VGZLNmFxNGROMUlxLUhQTGcxanRpLV9DeTdaM010ZFhkNndZX0sxQ3F1RFFkeTFYM1doYVZNR0t1U09RQVZnTS16N2FBSjBzQzlKSU1ISWlBMHlnUjNHU2c3NGItcUszVG5ISzhJQ2R0ek5jUWJsTkRHVk94aHdoV29EZw?oc=5",
-    "https://fourweekmba.com/ai-rounds-of-100m-raised-5-59b-in-a-week-1-7x-the-last/"
+    "https://fourweekmba.com/ai-rounds-of-100m-raised-5-59b-in-a-week-1-7x-the-last/",
+    "https://metrology.news/humanoid-robotics-sector-gains-momentum-as-agile-robots-raises-500m-and-agility-goes-public/"
    ],
    "exclude_reason": null,
    "transaction_name": "Series F - Agile Robots",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-20"
    ],
    "created_at": "2026-11-18T06:42:51.033Z",
-   "updated_at": "2026-11-18T06:42:51.183Z",
+   "updated_at": "2026-11-20T14:09:27.726Z",
    "in_view": false
   },
   {
@@ -10137,16 +10720,18 @@
     "https://pulse2.com/q-ctrl-290-million-series-c-funding-led-by-salesforce-ventures-creates-new-quantum-technology-unicorn/",
     "https://en.wowtale.net/2026/11/15/236022/?utm_source=rss&utm_medium=rss&utm_campaign=quantum-error-reduction-software-maker-q-ctrl-raises-290-million-series-c",
     "https://entarabi.com/en/2026/11/q-ctrl-raises-290-million-in-series-c-funding-round-with-participation-from/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/salesforce-stock-salesforce-ventures-leads-us-290-million-q-ctrl-round/70521754"
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/salesforce-stock-salesforce-ventures-leads-us-290-million-q-ctrl-round/70521754",
+    "https://dynamicbusiness.com/funding-and-investment/australian-startups-raise-from-series-c-to-seed-across-five-sectors"
    ],
    "exclude_reason": null,
    "transaction_name": "Series C - Q-CTRL",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-20"
    ],
    "created_at": "2026-11-18T06:42:51.096Z",
-   "updated_at": "2026-11-18T06:42:51.106Z",
+   "updated_at": "2026-11-20T14:09:27.738Z",
    "in_view": false
   },
   {
@@ -55041,5 +55626,5 @@
    "in_view": true
   }
  ],
- "last_run": "2026-11-19-2032"
+ "last_run": "2026-11-20"
 }

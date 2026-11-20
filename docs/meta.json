@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-19T23:07:45.835Z",
-  "last_run": "2026-11-19-2032",
-  "total_rounds": 1148,
-  "in_view": 258,
+  "generated_at": "2026-11-20T14:09:27.893Z",
+  "last_run": "2026-11-20",
+  "total_rounds": 1161,
+  "in_view": 259,
   "week": {
-    "count": 31,
-    "total_usd": 17666600000,
+    "count": 28,
+    "total_usd": 2557600000,
     "largest": {
-      "company": "OpenAI",
-      "amount_usd": 15000000000
+      "company": "Genesis AI",
+      "amount_usd": 500000000
     }
   },
   "scope": {
@@ -1737,6 +1737,171 @@
         "selected_groups": 32,
         "candidates": 45,
         "articles_fetched": 20,
+        "google_rate_limited": false
+      }
+    },
+    {
+      "run_date": "2026-11-20",
+      "inserted": 13,
+      "merged": 8,
+      "excluded_on_insert": 12,
+      "corrected": 15,
+      "total_rounds": 1161,
+      "in_view": 259,
+      "fetch": {
+        "feeds": [
+          {
+            "id": "gnews-1",
+            "status": 200,
+            "items": 91
+          },
+          {
+            "id": "gnews-2",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "gnews-3",
+            "status": 200,
+            "items": 51
+          },
+          {
+            "id": "gnews-4",
+            "status": 200,
+            "items": 57
+          },
+          {
+            "id": "gnews-5",
+            "status": 200,
+            "items": 27
+          },
+          {
+            "id": "gnews-6",
+            "status": 200,
+            "items": 60
+          },
+          {
+            "id": "gnews-7",
+            "status": 200,
+            "items": 29
+          },
+          {
+            "id": "gnews-8",
+            "status": 200,
+            "items": 9
+          },
+          {
+            "id": "gnews-g1",
+            "status": 200,
+            "items": 35
+          },
+          {
+            "id": "gnews-g2",
+            "status": 200,
+            "items": 40
+          },
+          {
+            "id": "gnews-g3",
+            "status": 200,
+            "items": 22
+          },
+          {
+            "id": "gnews-g4",
+            "status": 200,
+            "items": 22
+          },
+          {
+            "id": "gnews-g5",
+            "status": 200,
+            "items": 33
+          },
+          {
+            "id": "gnews-g6",
+            "status": 200,
+            "items": 25
+          },
+          {
+            "id": "gnews-g7",
+            "status": 200,
+            "items": 19
+          },
+          {
+            "id": "gnews-g8",
+            "status": 200,
+            "items": 19
+          },
+          {
+            "id": "gnews-g9",
+            "status": 200,
+            "items": 28
+          },
+          {
+            "id": "prnewswire-vc",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "alleywatch",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "pulse2",
+            "status": 200,
+            "items": 120
+          },
+          {
+            "id": "citybiz",
+            "status": 200,
+            "items": 60
+          },
+          {
+            "id": "techcrunch-venture",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-funding",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techcrunch-ai",
+            "status": 200,
+            "items": 20
+          },
+          {
+            "id": "techfundingnews",
+            "status": 200,
+            "items": 30
+          },
+          {
+            "id": "crunchbase-news",
+            "status": 200,
+            "items": 10
+          },
+          {
+            "id": "crunchbase-news-ai",
+            "status": 200,
+            "items": 10
+          }
+        ],
+        "raw_items": 867,
+        "prefiltered": 166,
+        "dropped": {
+          "not_funding": 264,
+          "no_ai_hint": 65,
+          "below_min": 136,
+          "fund_close": 16,
+          "seen": 127,
+          "duplicate_link": 87,
+          "known_round": 146,
+          "noise": 6
+        },
+        "groups": 74,
+        "selected_groups": 19,
+        "candidates": 20,
+        "articles_fetched": 14,
         "google_rate_limited": false
       }
     }
