@@ -1,0 +1,726 @@
+{
+  "run_date": "2026-11-20-2010",
+  "generated_at": "2026-11-20T20:12:02.872Z",
+  "window_days": 2,
+  "range": null,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 200,
+        "items": 79
+      },
+      {
+        "id": "gnews-2",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-3",
+        "status": 200,
+        "items": 47
+      },
+      {
+        "id": "gnews-4",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-5",
+        "status": 200,
+        "items": 26
+      },
+      {
+        "id": "gnews-6",
+        "status": 200,
+        "items": 61
+      },
+      {
+        "id": "gnews-7",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "gnews-8",
+        "status": 200,
+        "items": 9
+      },
+      {
+        "id": "gnews-g1",
+        "status": 200,
+        "items": 31
+      },
+      {
+        "id": "gnews-g2",
+        "status": 200,
+        "items": 23
+      },
+      {
+        "id": "gnews-g3",
+        "status": 200,
+        "items": 22
+      },
+      {
+        "id": "gnews-g4",
+        "status": 200,
+        "items": 25
+      },
+      {
+        "id": "gnews-g5",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-g6",
+        "status": 200,
+        "items": 25
+      },
+      {
+        "id": "gnews-g7",
+        "status": 200,
+        "items": 22
+      },
+      {
+        "id": "gnews-g8",
+        "status": 200,
+        "items": 25
+      },
+      {
+        "id": "gnews-g9",
+        "status": 200,
+        "items": 31
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "pulse2",
+        "status": 200,
+        "items": 120
+      },
+      {
+        "id": "citybiz",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 813,
+    "prefiltered": 158,
+    "dropped": {
+      "not_funding": 260,
+      "no_ai_hint": 69,
+      "below_min": 108,
+      "fund_close": 17,
+      "seen": 100,
+      "duplicate_link": 93,
+      "known_round": 138,
+      "noise": 8
+    },
+    "groups": 73,
+    "selected_groups": 19,
+    "candidates": 20,
+    "articles_fetched": 11,
+    "google_rate_limited": true
+  },
+  "groups": [
+    {
+      "key": "apollo and goldman sachs",
+      "company_guess": "Apollo and Goldman Sachs",
+      "amount_hint_usd": 44000000000,
+      "candidate_ids": [
+        "3b1e6c15d2b8"
+      ]
+    },
+    {
+      "key": "mercuria energy group",
+      "company_guess": "Mercuria Energy Group",
+      "amount_hint_usd": 5500000000,
+      "candidate_ids": [
+        "dfd6ac503a9a"
+      ]
+    },
+    {
+      "key": "megha engineerings krishna reddy",
+      "company_guess": "Megha Engineering’s Krishna Reddy",
+      "amount_hint_usd": 720000000,
+      "candidate_ids": [
+        "0d4bb9a33bc0"
+      ]
+    },
+    {
+      "key": "meil group",
+      "company_guess": "MEIL Group",
+      "amount_hint_usd": 700000000,
+      "candidate_ids": [
+        "bae1c2cdee54"
+      ]
+    },
+    {
+      "key": "700m cernova wealth",
+      "company_guess": "$700m Cernova Wealth",
+      "amount_hint_usd": 700000000,
+      "candidate_ids": [
+        "b7472a69eec8"
+      ]
+    },
+    {
+      "key": "janicki",
+      "company_guess": "Janicki",
+      "amount_hint_usd": 600000000,
+      "candidate_ids": [
+        "5416b5b0e6f3"
+      ]
+    },
+    {
+      "key": "treaty oak",
+      "company_guess": "Treaty Oak",
+      "amount_hint_usd": 430000000,
+      "candidate_ids": [
+        "749b02103027"
+      ]
+    },
+    {
+      "key": "jensen huangs 350 million",
+      "company_guess": "Jensen Huang's $350 Million",
+      "amount_hint_usd": 350000000,
+      "candidate_ids": [
+        "5fa50511dc99"
+      ]
+    },
+    {
+      "key": "sanctuary wealth",
+      "company_guess": "Sanctuary Wealth",
+      "amount_hint_usd": 250000000,
+      "candidate_ids": [
+        "1ab71a3ada16"
+      ]
+    },
+    {
+      "key": "ettech deals digest",
+      "company_guess": "ETtech Deals Digest",
+      "amount_hint_usd": 206000000,
+      "candidate_ids": [
+        "c7e544380e15"
+      ]
+    },
+    {
+      "key": "100 million sewer upgrade",
+      "company_guess": "$100 Million Sewer Upgrade",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "24ab627a4752"
+      ]
+    },
+    {
+      "key": "baltimore based jmi equity backs",
+      "company_guess": "Baltimore-Based JMI Equity Backs",
+      "amount_hint_usd": 50000000,
+      "candidate_ids": [
+        "8db2b50cc636",
+        "0a326844257c"
+      ]
+    },
+    {
+      "key": "african fintech fund",
+      "company_guess": "African fintech fund",
+      "amount_hint_usd": 26000000,
+      "candidate_ids": [
+        "5a3945dc22bd"
+      ]
+    },
+    {
+      "key": "repeat entrepreneurs",
+      "company_guess": "Repeat Entrepreneurs",
+      "amount_hint_usd": 22000000,
+      "candidate_ids": [
+        "a5c7f18607c6"
+      ]
+    },
+    {
+      "key": "srs real estate",
+      "company_guess": "SRS Real Estate",
+      "amount_hint_usd": 17000000,
+      "candidate_ids": [
+        "976fcc915aca"
+      ]
+    },
+    {
+      "key": "satsure",
+      "company_guess": "SatSure",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "9454d4f19ad3"
+      ]
+    },
+    {
+      "key": "style union",
+      "company_guess": "Style Union",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "8cef543c8e4d"
+      ]
+    },
+    {
+      "key": "sakak",
+      "company_guess": "SAKAK",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "067f12bd409c"
+      ]
+    },
+    {
+      "key": "pawswing",
+      "company_guess": "PawSwing",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "8b60702df4aa"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "3b1e6c15d2b8",
+      "title": "Apollo and Goldman Sachs Price $44 Billion SpaceX GPU Financing for NVIDIA Vera Rubin AI Infrastructure",
+      "publisher": "Win Warfield",
+      "link": "https://www.citybiz.co/article/937031/apollo-and-goldman-sachs-price-44-billion-spacex-gpu-financing-for-nvidia-vera-rubin-ai-infrastructure/",
+      "published_at": "2026-11-20T16:45:43.000Z",
+      "publisher_url": null,
+      "snippet": "Apollo Global Management (NYSE: APO) and Goldman Sachs (NYSE: GS) have announced the successful pricing of approximately $44 billion in... Read More\nThe post Apollo and Goldman Sachs Price $44 Billion SpaceX GPU Financing for NVIDIA Vera Rubin AI Infrastructure appeared first on citybiz .",
+      "source_feed": "citybiz",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 44000000000,
+        "currency": "USD",
+        "raw": "$44 Billion"
+      },
+      "company_guess": "Apollo and Goldman Sachs",
+      "group_key": "apollo and goldman sachs",
+      "group_rank": 0,
+      "resolved_url": "https://www.citybiz.co/article/937031/apollo-and-goldman-sachs-price-44-billion-spacex-gpu-financing-for-nvidia-vera-rubin-ai-infrastructure/",
+      "text": "Global , New York\nGeneral Business , Financial Services / Investment Firms , Internet / Technology\nApollo and Goldman Sachs Price $44 Billion SpaceX GPU Financing for NVIDIA Vera Rubin AI Infrastructure\nNovember 20, 2026\nApollo Global Management (NYSE: APO) and Goldman Sachs (NYSE: GS) have announced the successful pricing of approximately $44 billion in senior and subordinated notes to finance the purchase of graphics processing units (GPUs) and related equipment for SpaceX (Nasdaq: SPCX).\nThe transaction, which was oversubscribed and increased in size following strong investor demand, represents the largest GPU financing executed to date, according to the companies.\nThe financing will support SpaceX’s terrestrial computing infrastructure expansion, including the deployment of next-generation NVIDIA Vera Rubin chips.\nLease schedules associated with the financing are expected to commence when the GPUs and related equipment are delivered during the first half of 2027.\nThe transaction was led by Apollo and Goldman Sachs, with financing commitments provided by funds and affiliates managed by both firms.\nAdditional anchor commitments came from funds and accounts managed by BlackRock and Goldman Sachs Asset Management, as well as capital accounts advised by KKR.\nThe participation of multiple global investment managers reflects substantial institutional interest in financing the infrastructure required for advanced artificial intelligence and high-performance computing.\nThe approximately $44 billion transaction uses senior and subordinated debt instruments to finance computing equipment rather than relying solely on conventional corporate borrowing.\nThe structure is designed around the acquisition and leasing of GPU hardware, with lease schedules beginning as the equipment is delivered.\nThe companies did not disclose the interest rates, maturities, allocation between senior and subordinated notes, or specific repayment terms associated with the financing.\nThey also did not provide the number of NVIDIA Vera Rubin chips being purchased or the total computing capacity expected from the equipment.\nThe financing supports SpaceX’s plans to expand its terrestrial compute infrastructure using NVIDIA’s next-generation processor technology.\nNVIDIA Vera Rubin is part of the company’s advanced AI computing architecture, developed to support increasingly demanding artificial intelligence workloads.\nThe acquisition of the equipment represents a substantial investment in the physical infrastructure required to operate large-scale computing systems.\nGPU financing has become an increasingly important area of institutional investment as companies seek capital to acquire advanced processors and associated infrastructure.\nLarge computing deployments require significant upfront investment in hardware, creating demand for financing arrangements that spread equipment costs over time.\nThe SpaceX transaction illustrates the scale of capital being directed toward advanced computing infrastructure and the growing role of asset-based financing in supporting these investments.\nApollo and Goldman Sachs coordinated the transaction through a structure involving institutional commitments, debt securities and equipment-related leasing arrangements.\nApollo Global Securities and Goldman Sachs served as co-global coordinators for the financing.\nGoldman Sachs also acted as sole structuring agent, overseeing the development of the transaction’s financing structure.\nApollo Partner Jamshid Ehsani said the transaction demonstrates the firm’s ability to arrange and deploy capital for large-scale infrastructure investments.\n“SpaceX is one of the most ambitious builders of compute in the world, and we are pleased to have led this financing alongside Goldman Sachs,” Ehsani said.\nHe described the financing as an example of Apollo’s integrated investment platform, which combines transaction origination, structuring, syndication and principal investing.\nEhsani also emphasized Apollo’s focus on asset-based investment structures designed to provide downside protection.\nThe financing adds to the growing use of structured credit and equipment-backed arrangements to fund major technology infrastructure projects.\nFor institutional investors, such structures can provide exposure to computing infrastructure through debt instruments supported by underlying assets and contractual payment arrangements.\nFor companies expanding computing capacity, equipment financing can provide access to significant capital while aligning payment obligations with the deployment of purchased hardware.\nThe transaction’s oversubscription indicates that investor commitments exceeded the amount initially offered, prompting an increase in the financing size.\nHowever, the companies did not disclose the original financing target or the total amount of investor orders received.\nThe deal also highlights collaboration among several of the world’s largest alternative asset managers and financial institutions.\nApollo, Goldman Sachs, BlackRock and KKR-related capital accounts participated in the financing through their respective investment platforms or advisory relationships.\nApollo was advised by Morgan Stanley, Citi and PJT Partners in connection with the transaction.\nLatham & Watkins LLP served as legal counsel to Apollo.\nPaul, Weiss, Rifkind, Wharton & Garrison LLP acted as legal counsel to investors.\nApollo is a global alternative asset manager with investment capabilities spanning investment-grade credit, private equity and other alternative asset classes.\nThe company reported approximately $1.07 trillion in assets under management as of September 30, 2026.\nApollo also operates Athene, its retirement services business, which provides retirement savings products and institutional financial solutions.\nThe firm’s investment strategy includes providing financing to companies and projects through a range of credit and equity structures.\nThe SpaceX GPU transaction represents a signi",
+      "text_status": "ok"
+    },
+    {
+      "id": "dfd6ac503a9a",
+      "title": "Mercuria Energy Group Expands North American Borrowing Base Facility to $5.5 Billion",
+      "publisher": "Win Warfield",
+      "link": "https://www.citybiz.co/article/937037/mercuria-energy-group-expands-north-american-borrowing-base-facility-to-5-5-billion/",
+      "published_at": "2026-11-20T16:48:43.000Z",
+      "publisher_url": null,
+      "snippet": "Mercuria Energy Group has completed the refinancing of its one-year North American secured borrowing base facility, increasing the financing arrangement... Read More\nThe post Mercuria Energy Group Expands North American Borrowing Base Facility to $5.5 Billion appeared first on citybiz .",
+      "source_feed": "citybiz",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 5500000000,
+        "currency": "USD",
+        "raw": "$5.5 Billion"
+      },
+      "company_guess": "Mercuria Energy Group",
+      "group_key": "mercuria energy group",
+      "group_rank": 0,
+      "resolved_url": "https://www.citybiz.co/article/937037/mercuria-energy-group-expands-north-american-borrowing-base-facility-to-5-5-billion/",
+      "text": "Global , Houston\nGeneral Business , Financial Services / Investment Firms , Internet / Technology\nMercuria Energy Group Expands North American Borrowing Base Facility to $5.5 Billion\nNovember 20, 2026\nMercuria Energy Group has completed the refinancing of its one-year North American secured borrowing base facility, increasing the financing arrangement to $5.5 billion following strong demand from existing and new banking partners.\nThe refinancing attracted commitments from 27 financial institutions, including five new lenders, and was oversubscribed during syndication.\nThe expanded facility strengthens Mercuria’s liquidity position across North America and provides additional financing flexibility to support its growing energy and commodities trading operations.\nThe company did not disclose the previous size of the borrowing base facility or the amount by which lender commitments exceeded the final financing target.\nSociété Générale served as administrative agent and collateral agent for the refinancing.\nThe bank also acted as a joint lead arranger and joint book-runner alongside MUFG Bank, Natixis New York Branch, Coöperatieve Rabobank U.A. New York Branch, Sumitomo Mitsui Banking Corporation, ING Capital, Mizuho Bank, Crédit Agricole Corporate and Investment Bank, Wells Fargo Bank and Deutsche Bank New York Branch.\nThe refinancing attracted participation from both established international banking partners and additional North American financial institutions.\nMercuria said the lending syndicate now includes greater support from major U.S. and Canadian banks, strengthening its regional banking relationships while maintaining its international financing partnerships.\nThe addition of five new banking partners broadens the company’s access to financial institutions supporting its North American operations.\nThe facility also includes an accordion feature, allowing Mercuria to seek additional lender commitments if its working capital requirements increase.\nThis provision provides flexibility to expand the financing arrangement beyond its current size, subject to additional commitments and applicable facility terms.\nSecured borrowing base facilities are commonly used by commodity trading businesses to finance working capital requirements associated with physical trading activities.\nThe amount available under these facilities is generally linked to eligible collateral, which can include commodity inventories, receivables and other qualifying assets.\nFor companies operating across energy and commodity markets, borrowing base financing can provide liquidity to support purchasing, transportation, storage and trading activities.\nMercuria’s expanded facility is intended to provide additional financial capacity as the company continues to develop its North American business.\n“This year’s refinancing reaffirms our commitment to maintaining a strong liquidity framework as we scale our presence in North America,” said Guillaume Vermersch , group chief financial officer of Mercuria.\n“The meaningful oversubscription and expansion of our banking group highlight the continued confidence our partners have in Mercuria’s capabilities and long-term objectives.”\nThe refinancing represents a significant financing transaction for Mercuria, bringing together a broad group of lenders under a secured credit structure.\nThe participation of 27 banks also diversifies the company’s lending relationships, reducing its reliance on a smaller group of financing providers.\nMercuria said the transaction strengthens its relationships with major financial institutions in the United States and Canada, markets that are important to its regional energy trading activities.\nThe company also emphasized the importance of maintaining established relationships with international banks that support its global operations.\nBin Wang , Mercuria’s North America chief financial officer, said the refinancing provides liquidity to support business expansion while maintaining financial discipline.\n“Our financing continues to keep pace with the business, supporting its growth,” Wang said.\n“This refinancing strengthens our liquidity and gives us the flexibility to support growth while maintaining discipline in how we deploy capital and manage collateral.”\nWang also thanked the company’s existing banking partners and welcomed the five institutions joining the facility.\nThe refinancing comes as Mercuria continues to operate across global energy and commodities markets, combining physical trading activities with investments in energy infrastructure and transition-related businesses.\nFounded in 2004, Mercuria is an independent energy and commodities group with operations spanning physical commodity trading and investments in renewable power, energy storage and other energy transition projects.\nIts business requires access to working capital and financing arrangements capable of supporting the movement and trading of physical commodities across multiple markets.\nThe expanded borrowing base facility provides a source of secured financing for the company’s North American activities.\nThe transaction also reflects the continued role of syndicated bank lending in financing large international commodity trading businesses.\nBy combining commitments from U.S., Canadian and international banks, Mercuria has established a diversified lending group to support its regional liquidity requirements.\nThe company did not disclose the interest margin, borrowing costs, collateral valuation terms or other detailed financial conditions associated with the refinanced facility.\nIt also did not specify whether the accordion feature has a predetermined maximum expansion amount.\nWith the refinancing completed, Mercuria has secured a $5.5 billion North American borrowing base facility supported by 27 banks.\nThe transaction expands the company’s available financing framework, strengthens its banking relationships and provides additional flexibility to support working capital needs ",
+      "text_status": "ok"
+    },
+    {
+      "id": "0d4bb9a33bc0",
+      "title": "Megha Engineering’s Krishna Reddy raises $720 million to buy out uncle: report",
+      "publisher": "PRESS Insider",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVdwQ01PdDRkM2dWb18wUzJodWFaNWZLWmtXN3pHUmZUOWlqYWRfeS1YamVlYU1VdDcydEZHNFFxMWpPNzZWalVTWGdCTTNYMUV0ZWpmWHNnUGZuZFo2eWxVR2lIVHB1WkpPbzhEaFZxQjd5YzJfWmJ5eEFmZThvMVNvUGYwWkNGdkdHRHM4SW4yZWFCbTgzWWtJMFp0VGdyRFE?oc=5",
+      "published_at": "2026-11-20T12:41:14.000Z",
+      "publisher_url": "https://pressinsider.com",
+      "snippet": "Megha Engineering’s Krishna Reddy raises $720 million to buy out uncle: report PRESS Insider",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 720000000,
+        "currency": "USD",
+        "raw": "$720 million"
+      },
+      "company_guess": "Megha Engineering’s Krishna Reddy",
+      "group_key": "megha engineerings krishna reddy",
+      "group_rank": 0,
+      "resolved_url": "https://pressinsider.com/business/megha-engineering-krishna-reddy-720-million-private-credit-buyout/",
+      "text": "Megha Engineering and Infrastructures Ltd (MEIL) managing director P.V. Krishna Reddy has raised about $720 million in private credit to buy out his uncle, Bloomberg reported on Friday, 20 November.\nThe funds to the tune of about ₹6,700 crore will finance the purchase of P.P. Reddy’s stake in the Hyderabad-based infrastructure group.\nDavidson Kempner Capital Management, Värde Partners and Elham Credit Partners are providing the financing, according to people familiar with the matter cited by Bloomberg.\nKrishna Reddy owns about 57% of MEIL and is buying his uncle’s 43% stake, Bloomberg reported in August.\nThe financing is among the larger private credit transactions involving Indian business promoters . It underscores the growing role of international funds in financing acquisitions and ownership restructurings at privately held companies.\nMoneycontrol reported earlier this week that a consortium led by US investment firm Davidson Kempner was providing about ₹7,000 crore, with Värde Partners and Hillhouse Capital also participating.\nCompany sources told the UNI news agency on Wednesday, 18 November, that MEIL had raised about $700 million through a structured transaction. It involves equity investment and the proposed monetization of the group’s road assets.\nThe same sources named Davidson Kempner, Hillhouse and Värde as the investors. They valued MEIL at about ₹1 trillion and EPTL, the group’s energy transition business, at about ₹14,000 crore.\nA Restructuring of Family Ownership\nMEIL has grown from a regional engineering business into a diversified infrastructure group with operations spanning energy, irrigation, transportation and industrial projects.\nThe company was founded in 1989 by P.P. Reddy, with Krishna Reddy subsequently playing a central role in its expansion.\nIts operations include large engineering, procurement and construction contracts, particularly in India’s water infrastructure and energy sectors.\nThe acquisition would consolidate ownership under Krishna Reddy while allowing his uncle to monetize his stake in the privately held business.\nUnlike a publicly traded company, MEIL does not have a readily observable market valuation. That makes the financing and valuation of a substantial shareholder transaction more complex.\nThe company has not officially confirmed the valuation its sources cited. The financing’s interest rate and maturity have not been disclosed.\nGlobal Funds Expand in India’s Credit Market\nThe transaction illustrates how private credit investors are increasingly financing deals that conventional lenders may be unable or unwilling to accommodate.\nUnlike standard corporate loans, structured private credit can be tailored to individual borrowers. These include holding companies and promoters seeking to acquire stakes in operating businesses.\nIndia’s expanding infrastructure sector has attracted international alternative asset managers seeking exposure to the country’s economic growth and investment requirements.\nPromoter buyouts, succession arrangements, acquisitions and refinancing transactions offer opportunities for these investors beyond conventional project lending.\nSuch financing can, however, carry higher borrowing costs and more restrictive security arrangements than traditional bank loans.\nFor MEIL, the transaction’s implications will depend partly on how the acquisition is structured. A key question is whether the debt remains at the promoter level or has recourse to the group’s assets or cash flows.\nABOUT THE AUTHOR\nPress Insider Staff is the collective newsroom byline for stories reported, edited and published by Press Insider’s specialist editorial desk across business, markets, technology, startups, economy, policy, energy, corporate affairs, deals, regulation, leisure and global news. The desk tracks company announcements, stock exchange filings, court records, government statements and market developments worldwide to deliver clear, concise and verified coverage for readers following India, global markets and world affairs. More",
+      "text_status": "ok"
+    },
+    {
+      "id": "bae1c2cdee54",
+      "title": "MEIL Group raises $700 million from global funds at Rs 1 lakh crore valuation",
+      "publisher": "Indian Startup News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbDkwVERLZWNwN2U2SmlQVzV3clJGNHl6eHhQYlhQYnZXdGprS1lDRy1MN0FUVHl5Rk96QWtlTWNzM2Q3TnVvZnpWWUZEVkpQcjFUSFhDUTdxRjFWT2MtVVROVmFKaHNja1o5ZWpmNjZlaFRURnJtQkkzdjNBdjE3UjlUUEMzMVdNZXdTWVgyLVF5VWJMUWNzbi1LYkVxcUJNZ0N5ejFKMk1aWXg0MzZQWHpvVTVfUWFJckZ6cTJJVljSAcABQVVfeXFMTWw5MFRES2VjcDdlNkppUFc1d3JSRjR5enh4UGJYUGJ2V3Rqa0tZQ0ctTDdBVFR5eUZPekFrZU1jczNkN051b2Z6VllGRFZKUHIxVEhYQ1E3cUYxVk9jLVVUTlZhSmhzY2taOWVqZjY2ZWhUVEZybUJJM3YzQXYxN1I5VFBDMzFXTWV3U1lYMi1ReVViTFFjc24tS2JFcXFCTWdDeXoxSjJNWll4NDM2UFh6b1U1X1FhSXJGenEySVZY?oc=5",
+      "published_at": "2026-11-20T07:47:58.000Z",
+      "publisher_url": "https://indianstartupnews.com",
+      "snippet": "MEIL Group raises $700 million from global funds at Rs 1 lakh crore valuation Indian Startup News",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 700000000,
+        "currency": "USD",
+        "raw": "$700 million"
+      },
+      "company_guess": "MEIL Group",
+      "group_key": "meil group",
+      "group_rank": 0,
+      "resolved_url": "https://indianstartupnews.com/funding/meil-group-raises-700-million-from-global-funds-at-rs-1-lakh-crore-valuation-12822982",
+      "text": "Funding Fusion\nNews\nMEIL Group raises $700 million from global funds at Rs 1 lakh crore valuation\nSumit Vishwakarma\n20 Nov 2026\n13:17\nIST\nFollow Us\nNew Update\nHyderabad-based Megha Engineering and Infrastructures Limited (MEIL) has raised about $700 million from three global investment firms through a mix of structured equity and the proposed monetisation of its road assets, in a deal that values the infrastructure group at about Rs 1 lakh crore.\nAdvertisment\nThe company said in a statement that DK, HH and V&auml;rde Partners participated in the transaction. According to media reports , DK refers to Davidson Kempner Capital Management and HH to Hillhouse Capital, with Davidson Kempner reportedly contributing the largest share of the financing.\nThe deal also places a value of around Rs 14,000 crore on EPTL, the group's energy transition business.\nMEIL has not said how the $700 million is split between structured equity and the sale of road assets.\nWhy the funding is being raised\nThe funding is tied to a family settlement between MEIL's MD, P V Krishna Reddy, and his uncle Pamireddy Pitchi Reddy, who founded the company and is its executive chairman. According to media reports , Krishna Reddy will use the capital to buy out his uncle's stake.\nAs per reports, Krishna Reddy holds around 57% of the privately held group, while his uncle, Pitchi Reddy, owns the remaining 43%. Acquiring his uncle's stake would give Krishna Reddy full ownership of the company.\nThe settlement first became public in June 2025. At the time, reports said Krishna Reddy owned 49% of the holding company and would buy his uncle's 51% for Rs 12,000-15,000 crore, with the deal expected to close by March 2027. He was then reported to be in talks with Kotak, V&auml;rde, Farallon and Deutsche Bank.\nIn September 2025, Oaktree Capital Management reportedly agreed to provide a financing facility of up to Rs 10,000 crore for the buyout, to remain available until March 2027. It is not clear whether the new funding replaces or adds to that arrangement.\nBloomberg reported in August this year that Krishna Reddy was seeking about $700 million in private credit to buy his uncle's 43%, with Davidson Kempner, V&auml;rde and Elham Credit Partners working on the structure. Elham does not appear among the investors in the final deal.\nHow the investors could exit\nUnlike conventional bank loans, structured financing arrangements can offer greater flexibility in negotiating repayment terms, security arrangements and other conditions based on the borrower's financial position and expected cash flows.\nAccording to Moneycontrol, investors could potentially exit through an IPO of MEIL within the next two to three years, refinancing or asset monetisation. MEIL has not announced any listing plans.\nThe group has reportedly explored selling power transmission assets in Uttar Pradesh, its road projects to KKR-backed Vertis Infrastructure Trust, and its city gas distribution business.\nMEIL's consolidated revenue rose from Rs 19,237 crore in FY18 to Rs 42,669 crore in FY25, while net profit increased from Rs 2,435 crore to Rs 3,072 crore over the same period, according to Moneycontrol . This represents a roughly 2.2-fold increase in revenue over seven years.\nWhat MEIL does\nPitchi Reddy founded the business in 1989 with an initial investment of Rs 5 lakh, setting up a fabrication unit in Hyderabad under the name Megha Engineering Enterprises. Krishna Reddy joined the company in 1991, and the business was renamed Megha Engineering and Infrastructures in 2006.\nMEIL is a $5 billion multi-sector infrastructure company with operations in more than 20 countries. Its business spans irrigation, transportation, energy, oil and gas, manufacturing and clean mobility.\nIts projects include the Zojila Tunnel, the Mumbai Coastal Road, the Thane-Borivali twin tunnel, the Polavaram project, the Kaleshwaram Lift Irrigation Scheme and the Palamuru-Rangareddy Lift Irrigation Project. Its road projects cover about 1,975 km.\nIn energy, the group is developing pumped storage projects with a combined capacity of more than 9,110 MW and about 3,000 MW of solar power projects. It is also building two 700 MWe nuclear reactors at Kaiga in Karnataka, and abroad it holds major packages in Mongolia's first greenfield oil refinery.\nIts group companies include the listed electric bus maker Olectra Greentech, EveyTrans, Italian drilling rig maker Drillmec, telecom and defence equipment firm ICOMM, and city gas distributor Megha Gas.\nAt about $700 million, the MEIL transaction is far larger than most private credit deals in India this year.\nIndian companies raised $3.5 billion through more than 100 private credit deals above $10 million in the first half of 2026, according to an EY report . The largest deal EY listed for the period was a $176 million refinancing for Kalpataru Properties.\nDomestic funds accounted for 74% of deal value in the half, according to EY, which named refinancing, holding company funding and acquisition financing among the main uses of the money.\nFunding\nEngineering\nInvestment\nInvestors\nHyderabad\nSubscribe to our Newsletter!\nBe the first to get exclusive offers and the latest news\nSubscribe Now\nRelated Articles\nRead the Next Article",
+      "text_status": "ok"
+    },
+    {
+      "id": "b7472a69eec8",
+      "title": "$700m Cernova Wealth launches with Dynasty Financial Partners",
+      "publisher": "Institutional Real Estate, Inc.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVg2Um9TWkNxdWt1dmRrblROc2ZNejJvakZybVJBWEUxRHhhQmprVFJvR2swZDU2VDZaM0h1Sk5xVkxjMFR4QkZxYVkyT2FRQzc2UkJqOEpWSkZOcE5waUNpMHcxNzJUUVp5eHVlRGlIckVBS1ZiN3I2UTB3QlF1d21TR2NVOG9CSFdv?oc=5",
+      "published_at": "2026-11-20T07:49:15.000Z",
+      "publisher_url": "https://irei.com",
+      "snippet": "$700m Cernova Wealth launches with Dynasty Financial Partners Institutional Real Estate, Inc.",
+      "source_feed": "gnews-g8",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 700000000,
+        "currency": "USD",
+        "raw": "$700m"
+      },
+      "company_guess": "$700m Cernova Wealth",
+      "group_key": "700m cernova wealth",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "5416b5b0e6f3",
+      "title": "Janicki Secures $600 Million For Aerospace Manufacturing Expansion",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/janicki-secures-600-million-for-aerospace-manufacturing-expansion/",
+      "published_at": "2026-11-20T15:24:03.000Z",
+      "publisher_url": null,
+      "snippet": "Janicki has secured a $600 million senior secured credit facility to support major aerospace and defense manufacturing expansions in Washington and Montana.\nThe post Janicki Secures $600 Million For Aerospace Manufacturing Expansion appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 600000000,
+        "currency": "USD",
+        "raw": "$600 Million"
+      },
+      "company_guess": "Janicki",
+      "group_key": "janicki",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/janicki-secures-600-million-for-aerospace-manufacturing-expansion/",
+      "text": "Janicki Secures $600 Million For Aerospace Manufacturing Expansion\nBy Amit Chowdhry\nToday at 10:24 AM\nJanicki Secures $600 Million For Aerospace Manufacturing Expansion\nJanicki has secured a $600 million senior secured credit facility to support major aerospace and defense manufacturing expansions in Washington and Montana.\nThe five-year first-lien facility was led by Overland Advantage, with Wells Fargo serving as administrative agent. It includes term-loan, delayed-draw term-loan, and revolving-credit commitments and will also refinance existing debt.\nNew Manufacturing Capacity\nThe financing supports Janicki’s planned 1.6 million-square-foot manufacturing campus on 180 acres in Great Falls, Montana. Its first phase is expected to open by the end of 2027.\nJanicki expects to create approximately 1,000 Montana jobs within five years and at least 2,000 positions at full build-out. The company is also constructing Building 12 at its Hamilton, Washington, campus, where it expects to add 350 jobs.\nThe family- and employee-owned company currently employs approximately 2,500 people and manufactures aerostructures, aerospace tooling, munitions components, and marine structures.\nFlexible Capital Structure\nThe delayed-draw structure allows Janicki to borrow as construction proceeds and equipment is purchased instead of carrying the entire balance from closing.\nJanicki conducted the financing process internally without a placement agent or financial adviser. Ashurst and Perkins Coie served as its legal counsel.\nKEY QUOTES:\nOur customers need big, precise structures, and they need them faster than anyone in this country can build them today. This financing gives us the capital to meet that need. We will build them in Great Falls and Hamilton the way we’ve built everything since 1993, with our own people and with the owners on the floor.\nPeter Janicki, Founder And Chief Executive Officer Of Janicki\nWe ran this process ourselves and closed with partners who understand aerospace manufacturing and its long investment cycles. The delayed-draw structure means we borrow when we’re pouring concrete and buying mills, not before.\nStanley Janicki, Chief Financial Officer Of Janicki\nMontana is proud to be a part of Janicki’s growth and home to their latest investment, which will create 2,000 good-paying jobs in Great Falls. We look forward to seeing the continued progress on the construction of the facility.\nGreg Gianforte, Governor Of Montana\nJanicki is a rare combination: a family- and employee-owned manufacturer with a 30-year operating history, proprietary capabilities that primes and agencies depend on, and a clear plan for growth. Overland was built to support companies like Janicki through a long-term financing relationship.\nGavin Baiera, Chief Executive Officer And Trustee Of Overland And Senior Managing Director At Centerbridge Partners\nWells Fargo has worked alongside Janicki for nearly 20 years, and this financing reflects the depth of that relationship. Pairing our commercial banking platform with Overland’s direct lending capability allowed us to deliver a scaled, flexible solution for a growing American manufacturer.\nDavid Marks, Executive Vice President At Wells Fargo Commercial Banking\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "749b02103027",
+      "title": "Treaty Oak Secures $430 Million For Louisiana Solar Projects",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/treaty-oak-secures-430-million-for-louisiana-solar-projects/",
+      "published_at": "2026-11-20T14:56:41.000Z",
+      "publisher_url": null,
+      "snippet": "Treaty Oak Clean Energy has secured $430 million in tax-equity commitments from RBC Community Investments for two Louisiana solar projects totaling 385 megawatts of alternating-current capacity.\nThe post Treaty Oak Secures $430 Million For Louisiana Solar Projects appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 430000000,
+        "currency": "USD",
+        "raw": "$430 Million"
+      },
+      "company_guess": "Treaty Oak",
+      "group_key": "treaty oak",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/treaty-oak-secures-430-million-for-louisiana-solar-projects/",
+      "text": "Treaty Oak Secures $430 Million For Louisiana Solar Projects\nBy Amit Chowdhry\nToday at 9:56 AM\nTreaty Oak Secures $430 Million For Louisiana Solar Projects\nTreaty Oak Clean Energy has secured $430 million in tax-equity commitments from RBC Community Investments for two Louisiana solar projects totaling 385 megawatts of alternating-current capacity.\nThe financing supports the 185-megawatt Beekman Solar Project in Morehouse Parish and the 200-megawatt Hollis Creek Solar Project in Sabine Parish.\nTogether, the facilities are expected to generate enough electricity for approximately 80,000 homes.\nJobs And Community Revenue\nThe RBC commitments supplement $809 million in construction financing announced in January 2026.\nBeekman has supported approximately 370 jobs during peak construction. Hollis Creek is expected to support between 400 and 500 peak construction positions.\nTreaty Oak projects the facilities will generate more than $100 million in state and local tax revenue during their operating lives.\nBeekman closed its tax-equity commitment in September 2026, followed by Hollis Creek in October. Both projects are expected to begin commercial operations during the first half of 2027.\nKEY QUOTES:\nThe Beekman and Hollis Creek projects reflect our commitment to Louisiana and to the communities of Morehouse and Sabine parishes, and we’re excited to continue investing in a future that delivers both reliable energy and meaningful local benefits. We’re grateful for RBC Community Investments’ commitment to these projects and their support for investments that help address local needs, create jobs, generate tax revenue, and contribute to long-term community growth.\nArya Karjooy, Co-Founder and Chief Investment Officer of Treaty Oak Clean Energy\nExpanding domestic energy capacity requires experienced developers and targeted capital deployment. Through the tax equity financing of the Beekman and Hollis Creek projects, RBC is proud to help Treaty Oak add clean and reliable generation to Louisiana’s grid while supporting growth in local communities.\nJonathan Cheng, Managing Director and Head of Renewable Energy Tax Equity Investments at RBC\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "5fa50511dc99",
+      "title": "Jensen Huang's $350 Million CoreWeave Deal Raises Questions About AI Financing",
+      "publisher": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdnFZS1FKTDJXZ1N5NU9hZ3FHYXlSXzhXamRfTVRfcWtkQThzRDdBZHF2WkxhcExpOTRabmJXcmUwUUNwTGJtVXd5SWhGcnluaWpNTEN5cDUyeUNndFpHS1BGWXFNLTJDNW5BYVpsV0RzNkMxMkdsaGVhLXBWYlpTSjhJa3pKclVXd1FfNVZ4LTFjeXAyRVQ0eElSdm53QXg2VGJlbm9qSFY5S3hDQzB3VHB1Z0xxOHhpdG10czJRS2c2T004TmJWVlhsdEp5UXNhZHMw?oc=5",
+      "published_at": "2026-11-20T13:00:55.000Z",
+      "publisher_url": "https://www.tradingview.com",
+      "snippet": "Jensen Huang's $350 Million CoreWeave Deal Raises Questions About AI Financing TradingView",
+      "source_feed": "gnews-g7",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 350000000,
+        "currency": "USD",
+        "raw": "$350 Million"
+      },
+      "company_guess": "Jensen Huang's $350 Million",
+      "group_key": "jensen huangs 350 million",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "1ab71a3ada16",
+      "title": "Sanctuary Wealth Secures $250 Million Capital Commitment From Kennedy Lewis to Support Growth",
+      "publisher": "Sobeida Dilone",
+      "link": "https://www.citybiz.co/article/937123/sanctuary-wealth-secures-250-million-capital-commitment-from-kennedy-lewis-to-support-growth/",
+      "published_at": "2026-11-20T20:07:22.000Z",
+      "publisher_url": null,
+      "snippet": "Sanctuary Wealth, a Miami-based wealth management platform, has secured a $250 million growth capital commitment from existing investor Kennedy Lewis... Read More\nThe post Sanctuary Wealth Secures $250 Million Capital Commitment From Kennedy Lewis to Support Growth appeared first on citybiz .",
+      "source_feed": "citybiz",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 250000000,
+        "currency": "USD",
+        "raw": "$250 Million"
+      },
+      "company_guess": "Sanctuary Wealth",
+      "group_key": "sanctuary wealth",
+      "group_rank": 0,
+      "resolved_url": "https://www.citybiz.co/article/937123/sanctuary-wealth-secures-250-million-capital-commitment-from-kennedy-lewis-to-support-growth/",
+      "text": "Global , South Florida\nGeneral Business , Financial Services / Investment Firms , Venture Capital , Internet / Technology\nSanctuary Wealth Secures $250 Million Capital Commitment From Kennedy Lewis to Support Growth\nNovember 20, 2026\nSanctuary Wealth , a Miami-based wealth management platform, has secured a $250 million growth capital commitment from existing investor Kennedy Lewis Investment Management to expand its services, support acquisitions and provide additional financing options to its network of independent financial advisory firms.\nAnnounced November 20, 2026, the financing will support continued investment in Sanctuary’s technology and operating platform while providing capital for Partner Firms pursuing business expansion, acquisitions, ownership transitions and succession planning.\nThe transaction is expected to close in the first quarter of 2027, subject to customary closing conditions and regulatory approvals.\nThe commitment consists of $50 million in mandatory convertible debt and a $200 million delayed-draw term loan. Kennedy Lewis has also elected to convert its existing outstanding convertible debt investment in Sanctuary into equity.\n“Sanctuary’s platform was built to help wirehouse advisors become independent, deepen relationships with their clients and build enterprise value in firms of their own,” said Adam Malamed , chief executive officer of Sanctuary Wealth.\n“As our Partner Firms continue to evolve, this new capital enhances our ability to invest in what they need as established businesses, giving them more ways to grow and their owners more options for realizing the value they have created.”\nSanctuary operates a hybrid registered investment advisor platform that provides independent wealth management firms with access to technology, marketing, operations and other business support services.\nThe company initially focused on helping financial advisors transition from large financial institutions into independent businesses. It has since expanded its affiliation models to accommodate firms at different stages of development.\nSanctuary’s network currently includes 125 Partner Firms, with approximately $71 billion in assets on its platform or in transition.\nThe company has completed 13 minority investments in Partner Firms, providing capital while allowing participating advisors to retain ownership interests in their businesses.\nThe new financing is intended to expand those investment capabilities and offer additional liquidity options for firm owners.\nVince Fertitta and Robert Walter, co-presidents of Sanctuary Wealth, said the company aims to provide founders with greater flexibility in determining when and how to monetize their businesses.\nThe expanded capital resources could support transactions involving minority or majority ownership stakes while allowing advisors to continue managing their firms.\nThe financing builds on Sanctuary’s relationship with Kennedy Lewis, which began in 2022.\nKennedy Lewis is a multi-strategy private credit investment manager with approximately $40 billion in assets under management.\nSince the firm’s initial investment, Sanctuary has doubled its number of Partner Firms and nearly tripled the assets on its platform, according to Kennedy Lewis.\n“Our partnership with Sanctuary demonstrates what can be accomplished when a talented leadership team and a committed capital partner share a common vision,” said David Chene , co-founder of Kennedy Lewis.\n“We believe Sanctuary is uniquely positioned to help independent advisors build and grow valuable businesses and are excited to deepen our partnership to support this next chapter.”\nSanctuary said the transaction followed an evaluation and negotiation of financing proposals conducted by a dedicated committee of its board of directors.\nClosing remains subject to the expiration or termination of the applicable waiting period under the Hart-Scott-Rodino Act and approval from the Financial Industry Regulatory Authority (FINRA).\nGoldman Sachs served as exclusive financial advisor to Sanctuary, while Willkie Farr & Gallagher LLP provided legal counsel.\nAkin Gump Strauss Hauer & Feld LLP served as legal advisor to Kennedy Lewis.\nThe financing comes as Sanctuary continues expanding its Partnered Independence model, which provides financial advisors with business ownership flexibility and access to centralized wealth management infrastructure.\nThe company plans to use the additional capital to strengthen its platform, expand affiliation opportunities and support both organic growth and acquisitions across its advisory network.\nHeadquartered in Miami, Sanctuary Wealth provides wealth management technology, operational support and capital solutions to independent financial advisory firms.\nThe transaction, once completed, will provide additional resources for Sanctuary’s next phase of expansion while deepening its investment relationship with Kennedy Lewis.",
+      "text_status": "ok"
+    },
+    {
+      "id": "c7e544380e15",
+      "title": "ETtech Deals Digest: Style Union, Humyn Labs lead as weekly funding rises to $206 million, up 9% on-year",
+      "publisher": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQVFwRExQdHlqb3plYjlDdGkzeGxNVDJBdGgwQlZqeTRyUjd1RmFhTnVVMkVMUzUyS2UzWmRaNDVWY1pGcS12YWphdkhCeFhaRFFLSnQ4Yzd1T3dfaml2V2FDbzQ0V0gtaVVCa1JIOEpjOUJUcmVOdlkyeEsxbWZYVm5zM08wZDR5Vy1kR0VHSDU3SVJUamJONC1DQXFYRnQyWWI5VUNyV3lxWWlFam9mV0JaNEFKbDJRTWQ2a2pnYTdYRHRyc2EwSlZJRl9ZTjdSTFRXZXZJNjBVeDY5MHJMY0pzb3hoRGZ5NlQ0M1pjVVI3NHpLNkVFaWxB0gH_AUFVX3lxTE42TEtWQy01enpEYzd1ZGRWbVBrdlo2Z0VsLUpzMlFNbHI5U1VWSFpxUWdrRnpkblpLU0FVaUsteF9BNjBQLXhqUTUtOXdqZUNGYVJtT2haalRRejBHR0Q3cXBsRUdUb19SVld3RWx6dnRNcG1OSXl0Q1hmOGM3QlJBQ28wamROSFlVMnlxald5a3hBc1VKaXJYNEM1ZWdVa1JNejRFV0V4a2N5MTl6OVNRZ0dfc2ctdWtfTVRHdS1lSTd1cEVBbFEzY0o1WEluZ2FKVEpucVhzMndUVWRiNWh6V1l4RU9vN1p1TVdjVFNUTVk5N2VNb3dubWgtc21Rcw?oc=5",
+      "published_at": "2026-11-20T16:00:21.000Z",
+      "publisher_url": "https://m.economictimes.com",
+      "snippet": "ETtech Deals Digest: Style Union, Humyn Labs lead as weekly funding rises to $206 million, up 9% on-year The Economic Times",
+      "source_feed": "gnews-6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 206000000,
+        "currency": "USD",
+        "raw": "$206 million"
+      },
+      "company_guess": "ETtech Deals Digest",
+      "group_key": "ettech deals digest",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "24ab627a4752",
+      "title": "$100 Million Sewer Upgrade Raises Questions About Who Will Pay In Sussex County",
+      "publisher": "TAPinto",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb2hfZFRON2NwNGc1TktMN1ZzbmtxYVZLMF9DdlUzQmszS2hGVzBfM1ZaVC1oZ0ctT3g0alVEVm4yX2U2TjBpUWJadDNfZVdKdng4WGdTVnNsRmx4SnRvSGVCOXF4SGQwal9pcHRPUDVvTzFVdk9WRUZxVHotYWF0WVFReTlnTlJEOUlPS2I2MWpJOEJTVlFHWEdCVUEwRERDU2lBOEZsRHhOTy0zU2dzWFR2YWw4Rm9YMmV1dGtseXRjN2pzeFVsdE04N25PWm9yQ1R1cjVQdUs0Y2FVaXBOSExqQy1RZUU?oc=5",
+      "published_at": "2026-11-19T01:13:21.000Z",
+      "publisher_url": "https://www.tapinto.net",
+      "snippet": "$100 Million Sewer Upgrade Raises Questions About Who Will Pay In Sussex County TAPinto",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100 Million"
+      },
+      "company_guess": "$100 Million Sewer Upgrade",
+      "group_key": "100 million sewer upgrade",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "8db2b50cc636",
+      "title": "Baltimore-Based JMI Equity Backs Dental Software Startup Archy in $50 Million Funding Round",
+      "publisher": "citybiz",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLTAyNGZDSjlVcDhiWk9mV21Bd18tSXRsM2xBTXpIY0lobEYyQnFLWnZ1Zkc3Z1RXc1VHOG5BQ3cySjhGMXdSQWtRVEZxVUNBQTliSmJUNm95X0l4OXQwMExhSzl1M2h4MngweHdlOGZOdEV3c0dKUXN5NDdkWUE0NnVCckgtYjFTbzhxRi0zUlhmc3B6aWxYZ2NfX3MtZTB0UU1aQW9oZlNuNlFfeGxvLVk0b3J5SkIxaUsxN3cyZkNHM2JUSGJUcA?oc=5",
+      "published_at": "2026-11-20T17:01:22.000Z",
+      "publisher_url": "https://www.citybiz.co",
+      "snippet": "Baltimore-Based JMI Equity Backs Dental Software Startup Archy in $50 Million Funding Round citybiz",
+      "source_feed": "gnews-5",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 50000000,
+        "currency": "USD",
+        "raw": "$50 Million"
+      },
+      "company_guess": "Baltimore-Based JMI Equity Backs",
+      "group_key": "baltimore based jmi equity backs",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "0a326844257c",
+      "title": "Baltimore-Based JMI Equity Backs Dental Software Startup Archy in $50 Million Funding Round",
+      "publisher": "Win Warfield",
+      "link": "https://www.citybiz.co/article/937045/baltimore-based-jmi-equity-backs-dental-software-startup-archy-in-50-million-funding-round/",
+      "published_at": "2026-11-20T16:57:58.000Z",
+      "publisher_url": null,
+      "snippet": "Baltimore-based JMI Equity is betting on artificial intelligence to transform the dental industry, leading a $50 million Series C funding... Read More\nThe post Baltimore-Based JMI Equity Backs Dental Software Startup Archy in $50 Million Funding Round appeared first on citybiz .",
+      "source_feed": "citybiz",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 50000000,
+        "currency": "USD",
+        "raw": "$50 Million"
+      },
+      "company_guess": "Baltimore-Based JMI Equity Backs",
+      "group_key": "baltimore based jmi equity backs",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "5a3945dc22bd",
+      "title": "African fintech fund closes at $26m for early-stage startups",
+      "publisher": "Geeky Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdjlOMDhBZkw4QW5nRTNDeFdYczhjcndqQkRlNlBrY19CZV95N1gtVm53NnF2NXBORnlBbkNhNEhGSk5DTi1kQnN0R3loWFJ0aHREZjd3SzY2TG1xTEtDdDYxMGhLUHhBZGl2SWllMGJORzlZb0tzbGtOM2pucm4zb24zOGptUUcxRS1rcnFmMkJQVDY5eE9j?oc=5",
+      "published_at": "2026-11-20T09:45:49.000Z",
+      "publisher_url": "https://geeky.com.ng",
+      "snippet": "African fintech fund closes at $26m for early-stage startups Geeky Nigeria",
+      "source_feed": "gnews-g4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 26000000,
+        "currency": "USD",
+        "raw": "$26m"
+      },
+      "company_guess": "African fintech fund",
+      "group_key": "african fintech fund",
+      "group_rank": 0,
+      "resolved_url": "https://geeky.com.ng/2026/11/20/african-fintech-fund-closes-at-26m-for-early-stage-startups/",
+      "text": "Technology\nAfrican fintech fund closes at $26m for early-stage startups\nOmotolani Ajileye 20 November 2026, 10:45 WAT 5 min read Blockchain, cryptocurrency and network. Graphic: Maiconfz / Pixabay\nAfrica Fund I, the first fund raised by women-led investor First Circle Capital, has reached a final close of $26 million. The money is earmarked for young African fintech businesses, regardless of which country on the continent they are based in. The firm says such capital is necessary because founders across Africa continue to find it hard to secure pre-seed funding . Beyond fintechs in their early days , First Circle Capital also has a public profile as a women-led investor .\nAfrica Fund I focus on startups at the very first stages of fundraising, meaning rounds before and at the initial seed stage, that develop financial products and services or the underlying infrastructure that supports them. It is particularly keen on firms applying AI, automation and data analysis to help the financial sector operate more efficiently.\nBackers of the fund include the International Finance Corporation (IFC), Bpifrance, Egypt's Micro, Small, and Medium Enterprises Development Agency (MSMEDA), Axian, the Dutch Good Growth Fund, Stellar Foundation and FSD Africa.\nWhy African fintech still draws investors\nFinancial technology still attracts a large share of startup funding in Africa, although venture capital investors are growing more cautious and spreading their money across fewer deals. African startups raised a combined $3.42 billion in 2025, and fintech accounted for $1.37 billion of that, or 40% of the total.\nEven after ten years of rapid growth in online payments and credit, First Circle Capital is convinced that Africa's next wave of fintech firms will grow out of problems that are still unsolved, and it is backing that belief with its money.\nIn a statement setting out what Africa Fund I is for, Selma Ribica, who is managing partner and co-founder of First Circle Capital, said the vehicle rests on a simple belief: tomorrow's leading fintech companies in Africa will be the ones tackling the deep-seated barriers that keep so many people across the continent from accessing banking and other financial products. She said the firm wants to spot those companies at the very start of their journey and to partner closely with the founders behind them while they grow.\nThe team and the FinTech 2.0 strategy\nFirst Circle Capital was set up in 2021 by Ribica, who previously held an executive post at M-Pesa and now invests in fintech, together with Agnes Aistleitner and Robert Smith. Offices in Kampala, Nairobi, Casablanca, and Cape Town serve a continent-wide mandate that takes in Nigeria, Kenya, South Africa, Egypt, Morocco, Uganda, Ghana, and Francophone Africa.\nThe firm calls its strategy FinTech 2.0. Its focus areas cover insurance technology, new credit and lending structures, interoperability and the underlying plumbing of finance, climate-oriented fintech, SaaS products for financial services, and reg tech. It also favours AI-native startups in African fintech , meaning companies that embed artificial intelligence in their operations and are data-driven from the outset.\n“We are particularly excited by the emergence of AI-native fintech companies ,” Ribica said. “Founders now have the opportunity to build financial businesses around automation, intelligence, and software from day one, fundamentally changing the economics of delivering financial services across African markets.”\nThe portfolio so far\nThe firm says its portfolio already holds 18 businesses across Africa. They include:\nTurnStay, a South African company building the infrastructure that lets global travel merchants accept cross-border payments;\nWafR, a Moroccan business that brings transactions and payments online through neighbourhood shops;\nScale, which provides cards as a service;\nOrca Fraud is an AI-native platform built to help banks and other financial institutions combat fraud.\nAccording to the firm, it also assists founders in lining up subsequent funding rounds and strategic investors, and in securing commercial partnerships and new leads for business development.\nAistleitner, a co-founder of First Circle Capital and one of its partners, said: “We see a significant opportunity to back the founders addressing these challenges: making payments cheaper, expanding access to credit and insurance, strengthening fraud and risk management, improving financial operations through software, and developing innovative financial solutions for sectors such as agriculture and energy,”\nA busy year for Africa-focused venture funds\nFirst Circle Capital has wrapped up its fundraising at $26 million, joining a string of fund closes and new commitments as more Africa-focused venture capital managers bring fresh vehicles to market in 2024.\nIn August, the Nigeria-based VC firm Ventures Platform finished raising its pan-African follow-on fund, which has reached $84 million. The fund's first-time backers include the EBRD (European Bank for Reconstruction and Development), Norfund, Alphatron and Ashesi University Foundation. Further capital came from investors returning to the fund, among them the IFC, British International Investment, Proparco, AfricaGrow and dice, Nigeria's initiative.\nIn October, DPI Venture Capital, the venture capital platform of Development Partners International, announced that its Nclude Fund had reached a final close of more than $112 million. Then in November, Enza Capital, a venture capital firm investing across several stages, declared a first close of $21 million for its AI Africa Fund, which is aiming for $60 million to put into startups across Africa that are AI-native or AI-enabled.\nClosing the pre-seed gap for African fintech founders\nFirst Circle Capital set up Africa Fund I to invest in founders whose companies are still at a very early point in their growth. In 2025, 281 deals at the pre-seed stage brought African startups just $46",
+      "text_status": "ok"
+    },
+    {
+      "id": "a5c7f18607c6",
+      "title": "Repeat Entrepreneurs Raise $22 Million for Health-AI Startup Aevius",
+      "publisher": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVBIMjh2cS1MbGdRVE1TX0thaDBjNFIwX3ZwNUk3N2g1YlJDN1BHYV9saDR0WER4YWFtaVgzNmMyc3NrNmxnel94QTc0b3Q1cnMtUWhWeS1ZdUhHM3JzZGZFRTB6SVJSTGluVVVrVGtqQlZhNEFzMG9scHhsWjYyenhpWXdkZlBFdDNwR1NRZC1RSUJsZGJCV3pzaDBMYmRybEMwZml2UmtpN2I0ZTYxZFpCaFc1QQ?oc=5",
+      "published_at": "2026-11-19T13:10:00.000Z",
+      "publisher_url": "https://www.wsj.com",
+      "snippet": "Repeat Entrepreneurs Raise $22 Million for Health-AI Startup Aevius WSJ",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 22000000,
+        "currency": "USD",
+        "raw": "$22 Million"
+      },
+      "company_guess": "Repeat Entrepreneurs",
+      "group_key": "repeat entrepreneurs",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "976fcc915aca",
+      "title": "SRS Real Estate Partners Announces the $17 Million Acquisition of a Single-Tenant Albertsons Property in Ardmore, Oklahoma",
+      "publisher": "Kevin Parker",
+      "link": "https://www.citybiz.co/article/937076/srs-real-estate-partners-announces-the-17-million-acquisition-of-a-single-tenant-albertsons-property-in-ardmore-oklahoma/",
+      "published_at": "2026-11-20T17:32:39.000Z",
+      "publisher_url": null,
+      "snippet": "SRS Real Estate Partners announced today it has completed the $17 million acquisition of an Albertsons-occupied property located at 1855... Read More\nThe post SRS Real Estate Partners Announces the $17 Million Acquisition of a Single-Tenant Albertsons Property in Ardmore, Oklahoma appeared first on citybiz .",
+      "source_feed": "citybiz",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 17000000,
+        "currency": "USD",
+        "raw": "$17 Million"
+      },
+      "company_guess": "SRS Real Estate",
+      "group_key": "srs real estate",
+      "group_rank": 0,
+      "resolved_url": "https://www.citybiz.co/article/937076/srs-real-estate-partners-announces-the-17-million-acquisition-of-a-single-tenant-albertsons-property-in-ardmore-oklahoma/",
+      "text": "Global , Los Angeles , San Diego , San Francisco\nCommercial Real Estate , General Business\nSRS Real Estate Partners Announces the $17 Million Acquisition of a Single-Tenant Albertsons Property in Ardmore, Oklahoma\nNovember 20, 2026\nSRS Real Estate Partners announced today it has completed the $17 million acquisition of an Albertsons-occupied property located at 1855 12th Ave NW in Ardmore, OK. Built in 2025, the 50,751-square-foot property is situated on 4.73 acres and has a long-term, absolute triple net, corporate-guaranteed lease in place.\nSRS Capital Markets Vice President Joe Chichester and Senior Vice President John Redfield represented the buyer, a Newport Beach-based private family office in the acquisition as part of a 1031 exchange. The seller was an investment firm from Texas. The closing cap rate was 5.35%.\n“We worked closely with the buyer to help navigate the sale of their relinquished property before successfully representing them in the acquisition of this Albertsons through a 1031 exchange,” said Chichester. “With 19 years remaining on the lease, a corporate guaranty, and minimal landlord responsibilities, the property provides our client with a stable, long-term income stream that aligns with their investment objectives.”\nThe property is part of a larger retail center that includes Academy Sports, PetSmart, Burlington, and Panda Express, among other tenants, creating favorable cross over traffic.\nThis year, SRS Capital Markets has completed more than $2.5 billion in deal volume comprised of more than 500 transactions across the nation. SRS currently has in excess of 900 properties actively on the market with a market value surpassing $4.3 billion.\nAbout SRS Real Estate Partners\nFounded in 1986, SRS Real Estate Partners is celebrating 40 years of going the extra mile for its clients. A leader in consumer-driven real estate, SRS provides commercial real estate solutions across retail, industrial, and capital markets. Headquartered in Dallas with 30 offices nationwide, the firm measures its success by the achievement of its clients’ objectives, satisfaction, and trust. For more information, please visit srsre.com .",
+      "text_status": "ok"
+    },
+    {
+      "id": "9454d4f19ad3",
+      "title": "SatSure Raises Series B to Scale Its Full-Stack Earth Intelligence Platform for Global Markets",
+      "publisher": "01net",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmpvOFRLRUprU2xOVnAtaDhJSTVMZkl4VU9NUmRydUxnRUtFNC1uLV9UenRBRXRPZ045OTZuV2xaZC1mc0I3dWNOZTVVOWhSaVB3SEY1M2UwRmRUa0pDZjhGUEVaV3c0WGdFdlRCZ2tEM3FYdFU4c0ljY242VllRS19MNnBDRmYxX2ZpUHU4Vzl3b1dwc3NCei1ici1yVnBoQVB6RFlQOXdLVndnM25ndFhMMDRvVG8?oc=5",
+      "published_at": "2026-11-20T13:05:00.000Z",
+      "publisher_url": "https://www.01net.it",
+      "snippet": "SatSure Raises Series B to Scale Its Full-Stack Earth Intelligence Platform for Global Markets 01net",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "SatSure",
+      "group_key": "satsure",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "8cef543c8e4d",
+      "title": "Style Union raises Rs 450 crore led by Venturi Partners and Elev8 Venture",
+      "publisher": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOE04eHFzYlM2YWJsdjhvVng1eVhVVHFkTlVmWVpFdEtrXzFXX1F5Z3Q1czRMYnR3S2ltRmdHUng3Qzd2Zmc1YzdEU3hmX1ZZVkt6eDZTVzVsUGluV0t1SzhTRERJSzNmNHdlM01pMW84a2tqd0tXb0w2UTBHWGZSOVBqZ3NIVHVlWHZJWjVBalhYTEdjdFJMZmxPenZhVks3VUtSZXFldVN4cGl5ZVpZTFlSWnFvb2xuSlpBQjBNY1Vra1E4THdWZ0tKUUdmTVNxcWJKYzRQWdIB3AFBVV95cUxPeUpIeTRSQzY3clJidXhHMmlRSTQ2UGNTUEpraXJDVHAyZ0xYOTRNMkRNNGt3N2otXzBMV20wLVhoWmk0b3l3dGNVanRJdmRSNm1MZWN2N1dxaU80b0txSDhYV29qQmNoclFIUWx4cGZuM2F0V2laTDRlaHQwU0F2ME1tQnBleUktRF9yOEd5bzMxMC00QUxVWGRtQ2xRMHFHSUV0S3dzVjVGdnk4SHRZY0ZDb0dpQTVHUmlpTjNqeHNfalY4ZzBhN202X05WbzdNd3d3RWRPbmxpQ3E5?oc=5",
+      "published_at": "2026-11-19T00:30:00.000Z",
+      "publisher_url": "https://m.economictimes.com",
+      "snippet": "Style Union raises Rs 450 crore led by Venturi Partners and Elev8 Venture The Economic Times",
+      "source_feed": "gnews-3",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Style Union",
+      "group_key": "style union",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "067f12bd409c",
+      "title": "On-Device Hyper-Personalized AI Startup SAKAK Secures Strategic Investment From DRB Dongil",
+      "publisher": "Wowtale",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfdGdIeGxMSU05OWM3YjNiMWZMXzBWUlFVUkVfVFJpQlRhYmRrZ0RJd1F1ZDRvUldHWlhuTWk4cFRHRFdBMTFLVEhHQl9XeFBuN3Ew?oc=5",
+      "published_at": "2026-11-20T20:00:14.000Z",
+      "publisher_url": "https://en.wowtale.net",
+      "snippet": "On-Device Hyper-Personalized AI Startup SAKAK Secures Strategic Investment From DRB Dongil Wowtale",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "SAKAK",
+      "group_key": "sakak",
+      "group_rank": 0,
+      "resolved_url": "https://en.wowtale.net/2026/11/21/236106/?utm_source=rss&utm_medium=rss&utm_campaign=on-device-hyper-personalized-ai-startup-sakak-secures-strategic-investment-from-drb-dongil",
+      "text": "SAKAK , an AI company specializing in hyper-personalized artificial intelligence, has raised a strategic investment of about 200 million won from DRB Dongil , according to a disclosure filed on Nov. 19.\nSAKAK resolved to carry out a third-party allocation of new shares to DRB Dongil, issuing the shares to a party other than its existing shareholders. The new shares are 13,378 redeemable convertible preferred shares (RCPS), with a par value of 100 won and an issue price of 14,950 won per share. The total issuance comes to about 200 million won (200,001,100 won).\nFounded in 2022, SAKAK is a deep-tech AI startup that holds on-device hyper-personalized AI solution technology. Its stated aim is to shed light on society’s blind spots with data and AI. It developed HyPAA (Hyper-Personalized AI Agent) in-house, an agent designed to keep data from being exposed or leaked outside, even in environments that handle sensitive information. Customers can adopt only the functions they need or receive customized AI consulting. SAKAK builds and supplies AI tailored to each client in four stages: AI consulting, data collection, custom AI development and service deployment.\nIts flagship solution, CANDiY, is a product line that helps make healthcare data usable for AI:\nCandiy API integrates AI-optimized healthcare data, including medical records, wearable device data and insurance information, and delivers it through an API.\nCandiy Pocket manages personal information and sensitive data using double encryption.\nCandiy OCR converts complex medical and financial documents into digital form.\nSAKAK also offers a domain-specific generative AI assistant that applies retrieval-augmented generation (RAG) to answer questions based on specialized knowledge and can run on a home GPU. It supports both cloud and on-premises installation and has been applied to insurance coverage analysis and treatment suggestions, medical document summarization and automation of insurance loss adjustment work.\nIn November 2025, SAKAK signed a business agreement with Dongguk University Ilsan Hospital to develop an AI health coordinator solution. In June 2025, it was selected as one of five Korean representative startups in the Qualcomm AI Innovation Program 2025. Its other recognitions include a place among the global top 20 at the MWC 2025 4YFN Awards, selection as a MyData operator in the 2022 MyData Operator Award and the top prize at the 2023 Youth Startup Academy Dream Show.",
+      "text_status": "ok"
+    },
+    {
+      "id": "8b60702df4aa",
+      "title": "PawSwing Closes Multimillion-Dollar Pre-Series A Round",
+      "publisher": "Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV3IzZE90TWJSeEpka2JHRlVma2I2cjhNOGI5dkZRN1Z1UmlaQWYtdmZNVXp2NDdtX2Q3T3R4aER2eVVzSzhiZEVBSnREb0NXdlBKTEMyaGNxRWRDUEtrVjlTNUV2VVhSNE9oQnZtaTdaZnBzeXFSUndiTDJrSkNWT3JfeGM1M2Zx?oc=5",
+      "published_at": "2026-11-19T14:13:54.000Z",
+      "publisher_url": "https://wisevoter.com",
+      "snippet": "PawSwing Closes Multimillion-Dollar Pre-Series A Round Wisevoter",
+      "source_feed": "gnews-6",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "PawSwing",
+      "group_key": "pawswing",
+      "group_rank": 0,
+      "resolved_url": "https://pawswing.app/",
+      "text": "PawSwing\nPawSwing makes a cat house that grooms your cat while your cat does nothing out of the ordinary.\nA bionic brush arch at the entrance combs out loose fur every time your cat walks in or out, and keeps it\nin the house instead of on your furniture.\nThe PawSwing app\nThe app connects to your PawSwing house over Bluetooth. It runs a training plan that lowers the brush a\nlittle each day so your cat gets used to it, lets you set the brush yourself at any time, and keeps the\nrecord: which days your cat used the house and for how long, the battery, firmware updates, and a profile\nfor each cat. Sign in with your email address or with Google.\nPolicies\nPrivacy Policy\nUser Agreement\nPersonal Information Statement\nDelete your account\nContact\nPawswing Inc., 30 N Gould St Ste R, Sheridan, WY 82801, United States.\nsupport@pawswing.com · pawswing.com\nPawSwing · All legal documents",
+      "text_status": "ok"
+    }
+  ]
+}
