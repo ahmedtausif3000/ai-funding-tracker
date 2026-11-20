@@ -1,0 +1,314 @@
+{
+ "run_date": "2026-11-20-2010",
+ "extractor": "claude-code routine",
+ "notes": "Archy Series C was announced Sept 2026 (citybiz re-report); meil group duplicates megha group.",
+ "rows": [
+  {
+   "group_key": "100 million sewer upgrade",
+   "candidate_ids": [
+    "24ab627a4752"
+   ],
+   "company": "Sussex County sewer upgrade",
+   "website": null,
+   "amount_usd": 100000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-19",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Municipal project.",
+   "description": "Local sewer infrastructure project.",
+   "confidence": 0.3,
+   "evidence": {
+    "amount": "$100 Million Sewer Upgrade",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb2hfZFRON2NwNGc1TktMN1Zzbmt"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "baltimore based jmi equity backs",
+   "candidate_ids": [
+    "8db2b50cc636",
+    "0a326844257c"
+   ],
+   "company": "Archy",
+   "website": null,
+   "amount_usd": 50000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-09-11",
+   "lead_investors": [
+    "JMI Equity"
+   ],
+   "investors": [
+    "JMI Equity"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Company describes AI agents and automation for dental back offices.",
+   "description": "AI-powered practice management platform for dental practices.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "$50 million Series C",
+    "round": "$50 million Series C",
+    "lead": "JMI Equity is betting on artificial intelligence to transform the dental industry, leading a $50 million Series C",
+    "investors": "JMI Equity Backs Dental Software Startup Archy"
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/937045/baltimore-based-jmi-equity-backs-dental-software-startup-archy-in-50-million-funding-round",
+    "https://pulse2.com/archy-raises-50-million-series-c-to-expand-ai-platform-for-dental-practices/",
+    "https://www.goodwinlaw.com/en/news-and-events/news/2026/09/announcements-technology-goodwin-advises-archy-50-million-series-c"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "african fintech fund",
+   "candidate_ids": [
+    "5a3945dc22bd"
+   ],
+   "company": "First Circle Capital Africa Fund I",
+   "website": null,
+   "amount_usd": 26000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "VC fund.",
+   "description": "Women-led VC fund closing $26M for early-stage African fintechs.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "final close of $26 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://geeky.com.ng/2026/11/20/african-fintech-fund-closes-at-26m-for-early-stage-startups"
+   ],
+   "exclude_reason": "fund"
+  },
+  {
+   "group_key": "repeat entrepreneurs",
+   "candidate_ids": [
+    "a5c7f18607c6"
+   ],
+   "company": "Aevius",
+   "website": null,
+   "amount_usd": 22000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-17",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Boston",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Health-AI foundation models.",
+   "description": "Boston-based Mass General Brigham spinout building clinical foundation models from medical records and imaging.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Raise $22 Million for Health-AI Startup Aevius",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVBIMjh2cS1MbGdRVE1TX0thaDB",
+    "https://pulse2.com/aevius-launches-with-22-million-to-make-medical-data-computable/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "srs real estate",
+   "candidate_ids": [
+    "976fcc915aca"
+   ],
+   "company": "SRS Real Estate Partners",
+   "website": null,
+   "amount_usd": 17000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Real estate purchase.",
+   "description": "Real estate brokerage reporting a property acquisition.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$17 million acquisition",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/937076/srs-real-estate-partners-announces-the-17-million-acquisition"
+   ],
+   "exclude_reason": "acquisition"
+  },
+  {
+   "group_key": "satsure",
+   "candidate_ids": [
+    "9454d4f19ad3"
+   ],
+   "company": "SatSure",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Amount and HQ not stated in snippet; SatSure is India-based per my knowledge.",
+   "description": "Earth intelligence platform.",
+   "confidence": 0.3,
+   "evidence": {
+    "amount": "SatSure Raises Series B",
+    "round": "Raises Series B",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmpvOFRLRUprU2xOVnAtaDhJSTV"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "style union",
+   "candidate_ids": [
+    "8cef543c8e4d"
+   ],
+   "company": "Style Union",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": true,
+   "currency_note": "Rs 450 crore not converted",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-19",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not AI.",
+   "description": "Indian company raising Rs 450 crore.",
+   "confidence": 0.4,
+   "evidence": {
+    "amount": "raises Rs 450 crore",
+    "round": null,
+    "lead": "led by Venturi Partners and Elev8 Venture",
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOE04eHFzYlM2YWJsdjhvVng1eVh"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "sakak",
+   "candidate_ids": [
+    "067f12bd409c"
+   ],
+   "company": "SAKAK",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": true,
+   "currency_note": "KRW 200M ~ under $0.2M",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [
+    "DRB Dongil"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "KR",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI company, but non-US and tiny.",
+   "description": "Korean on-device hyper-personalized AI startup; ~200M won strategic investment.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "about 200 million won",
+    "round": null,
+    "lead": null,
+    "investors": "strategic investment of about 200 million won from DRB Dongil"
+   },
+   "source_urls": [
+    "https://en.wowtale.net/2026/11/21/236106/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "pawswing",
+   "candidate_ids": [
+    "8b60702df4aa"
+   ],
+   "company": "PawSwing",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Pre-Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-19",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim.",
+   "description": "Self-grooming cat house with companion app.",
+   "confidence": 0.4,
+   "evidence": {
+    "amount": "Multimillion-Dollar Pre-Series A Round",
+    "round": "Pre-Series A Round",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pawswing.app/"
+   ],
+   "exclude_reason": "not-funding"
+  }
+ ]
+}

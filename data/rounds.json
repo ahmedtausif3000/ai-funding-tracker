@@ -1,7 +1,91 @@
 {
  "version": 1,
- "updated_at": "2026-11-20T14:09:27.752Z",
+ "updated_at": "2026-11-20T23:07:16.394Z",
  "rounds": [
+  {
+   "id": "152c3fa771",
+   "group_key": "apollo and goldman sachs",
+   "candidate_ids": [
+    "3b1e6c15d2b8"
+   ],
+   "company": "SpaceX",
+   "website": null,
+   "amount_usd": 44000000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Debt financing for a public company.",
+   "description": "SpaceX GPU financing: ~$44B senior and subordinated notes priced by Apollo and Goldman Sachs to buy NVIDIA Vera Rubin GPUs.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "approximately $44 billion in senior and subordinated notes",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/937031/apollo-and-goldman-sachs-price-44-billion-spacex-gpu-financing"
+   ],
+   "exclude_reason": "public-company",
+   "transaction_name": "Debt - SpaceX",
+   "first_seen_run": "2026-11-20-2010",
+   "runs": [
+    "2026-11-20-2010"
+   ],
+   "created_at": "2026-11-20T23:07:16.326Z",
+   "updated_at": "2026-11-20T23:07:16.326Z",
+   "in_view": false
+  },
+  {
+   "id": "77ef0fabfd",
+   "group_key": "mercuria energy group",
+   "candidate_ids": [
+    "dfd6ac503a9a"
+   ],
+   "company": "Mercuria Energy Group",
+   "website": null,
+   "amount_usd": 5500000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Bank credit facility; not AI.",
+   "description": "Commodity trading group that expanded its North American borrowing base facility to $5.5 billion.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "increasing the financing arrangement to $5.5 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/937037/mercuria-energy-group-expands-north-american-borrowing-base-facility"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Debt - Mercuria Energy Group",
+   "first_seen_run": "2026-11-20-2010",
+   "runs": [
+    "2026-11-20-2010"
+   ],
+   "created_at": "2026-11-20T23:07:16.333Z",
+   "updated_at": "2026-11-20T23:07:16.333Z",
+   "in_view": false
+  },
   {
    "id": "0c935691dc",
    "website": null,
@@ -42,6 +126,344 @@
    ],
    "created_at": "2026-11-20T14:09:27.724Z",
    "updated_at": "2026-11-20T14:09:27.724Z",
+   "in_view": false
+  },
+  {
+   "id": "4391ed4766",
+   "group_key": "megha engineerings krishna reddy",
+   "candidate_ids": [
+    "0d4bb9a33bc0"
+   ],
+   "company": "Megha Engineering and Infrastructures",
+   "website": null,
+   "amount_usd": 720000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Hyderabad",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Infrastructure; not AI.",
+   "description": "Indian infrastructure group whose MD raised private credit to buy out his uncle's stake.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "raised about $720 million in private credit",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pressinsider.com/business/megha-engineering-krishna-reddy-720-million"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Debt - Megha Engineering and Infrastructures",
+   "first_seen_run": "2026-11-20-2010",
+   "runs": [
+    "2026-11-20-2010"
+   ],
+   "created_at": "2026-11-20T23:07:16.338Z",
+   "updated_at": "2026-11-20T23:07:16.338Z",
+   "in_view": false
+  },
+  {
+   "id": "c70f4156db",
+   "group_key": "meil group",
+   "candidate_ids": [
+    "bae1c2cdee54"
+   ],
+   "company": "MEIL Group",
+   "website": null,
+   "amount_usd": 700000000,
+   "amount_disclosed": true,
+   "currency_note": "duplicate of megha engineerings krishna reddy group",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Hyderabad",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Infrastructure; not AI.",
+   "description": "Hyderabad-based infrastructure group; raised about $700M in structured equity and road-asset monetisation.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "has raised about $700 million from three global investment firms",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://indianstartupnews.com/funding/meil-group-raises-700-million-from-global-funds"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Other - MEIL Group",
+   "first_seen_run": "2026-11-20-2010",
+   "runs": [
+    "2026-11-20-2010"
+   ],
+   "created_at": "2026-11-20T23:07:16.340Z",
+   "updated_at": "2026-11-20T23:07:16.340Z",
+   "in_view": false
+  },
+  {
+   "id": "7540f61515",
+   "group_key": "700m cernova wealth",
+   "candidate_ids": [
+    "b7472a69eec8"
+   ],
+   "company": "Cernova Wealth",
+   "website": null,
+   "amount_usd": 700000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Wealth management launch; no AI claim.",
+   "description": "Wealth management firm launching with Dynasty Financial Partners.",
+   "confidence": 0.4,
+   "evidence": {
+    "amount": "$700m Cernova Wealth launches",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVg2Um9TWkNxdWt1dmRrblROc2Z"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Other - Cernova Wealth",
+   "first_seen_run": "2026-11-20-2010",
+   "runs": [
+    "2026-11-20-2010"
+   ],
+   "created_at": "2026-11-20T23:07:16.344Z",
+   "updated_at": "2026-11-20T23:07:16.344Z",
+   "in_view": false
+  },
+  {
+   "id": "2523c920d7",
+   "group_key": "janicki",
+   "candidate_ids": [
+    "5416b5b0e6f3"
+   ],
+   "company": "Janicki",
+   "website": null,
+   "amount_usd": 600000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Manufacturer; no AI claim.",
+   "description": "Aerospace and defense manufacturer with a $600M senior secured credit facility.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$600 million senior secured credit facility",
+    "round": null,
+    "lead": "led by Overland Advantage",
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/janicki-secures-600-million-for-aerospace-manufacturing-expansion/"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Debt - Janicki",
+   "first_seen_run": "2026-11-20-2010",
+   "runs": [
+    "2026-11-20-2010"
+   ],
+   "created_at": "2026-11-20T23:07:16.346Z",
+   "updated_at": "2026-11-20T23:07:16.346Z",
+   "in_view": false
+  },
+  {
+   "id": "37fba479c6",
+   "group_key": "treaty oak",
+   "candidate_ids": [
+    "749b02103027"
+   ],
+   "company": "Treaty Oak Clean Energy",
+   "website": null,
+   "amount_usd": 430000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Solar; not AI.",
+   "description": "Solar developer securing tax-equity commitments for two Louisiana projects.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$430 million in tax-equity commitments",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/treaty-oak-secures-430-million-for-louisiana-solar-projects/"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Debt - Treaty Oak Clean Energy",
+   "first_seen_run": "2026-11-20-2010",
+   "runs": [
+    "2026-11-20-2010"
+   ],
+   "created_at": "2026-11-20T23:07:16.349Z",
+   "updated_at": "2026-11-20T23:07:16.349Z",
+   "in_view": false
+  },
+  {
+   "id": "f10a5862a8",
+   "group_key": "jensen huangs 350 million",
+   "candidate_ids": [
+    "5fa50511dc99"
+   ],
+   "company": "CoreWeave",
+   "website": null,
+   "amount_usd": 350000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Public company.",
+   "description": "AI cloud provider; headline only mentions a $350M Nvidia deal.",
+   "confidence": 0.4,
+   "evidence": {
+    "amount": "$350 Million CoreWeave Deal",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdnFZS1FKTDJXZ1N5NU9hZ3FHYXl"
+   ],
+   "exclude_reason": "public-company",
+   "transaction_name": "Other - CoreWeave",
+   "first_seen_run": "2026-11-20-2010",
+   "runs": [
+    "2026-11-20-2010"
+   ],
+   "created_at": "2026-11-20T23:07:16.353Z",
+   "updated_at": "2026-11-20T23:07:16.353Z",
+   "in_view": false
+  },
+  {
+   "id": "5176134e41",
+   "group_key": "sanctuary wealth",
+   "candidate_ids": [
+    "1ab71a3ada16"
+   ],
+   "company": "Sanctuary Wealth",
+   "website": null,
+   "amount_usd": 250000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [
+    "Kennedy Lewis Investment Management"
+   ],
+   "hq_city": "Miami",
+   "hq_state": "FL",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim; convertible debt and term loan.",
+   "description": "Miami-based wealth management platform for independent advisory firms.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$250 million growth capital commitment",
+    "round": null,
+    "lead": null,
+    "investors": "existing investor Kennedy Lewis Investment Management"
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/937123/sanctuary-wealth-secures-250-million-capital-commitment-from-kennedy-lewis"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Debt - Sanctuary Wealth",
+   "first_seen_run": "2026-11-20-2010",
+   "runs": [
+    "2026-11-20-2010"
+   ],
+   "created_at": "2026-11-20T23:07:16.356Z",
+   "updated_at": "2026-11-20T23:07:16.356Z",
+   "in_view": false
+  },
+  {
+   "id": "767a16b9ed",
+   "group_key": "ettech deals digest",
+   "candidate_ids": [
+    "c7e544380e15"
+   ],
+   "company": "ETtech Deals Digest",
+   "website": null,
+   "amount_usd": 206000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Round-up, not a round.",
+   "description": "Weekly Indian funding roundup.",
+   "confidence": 0.3,
+   "evidence": {
+    "amount": "weekly funding rises to $206 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQVFwRExQdHlqb3plYjlDdGkzeGx"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Other - ETtech Deals Digest",
+   "first_seen_run": "2026-11-20-2010",
+   "runs": [
+    "2026-11-20-2010"
+   ],
+   "created_at": "2026-11-20T23:07:16.359Z",
+   "updated_at": "2026-11-20T23:07:16.359Z",
    "in_view": false
   },
   {
@@ -87,6 +509,48 @@
    "in_view": false
   },
   {
+   "id": "27df09cd56",
+   "group_key": "srs real estate",
+   "candidate_ids": [
+    "976fcc915aca"
+   ],
+   "company": "SRS Real Estate Partners",
+   "website": null,
+   "amount_usd": 17000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Real estate purchase.",
+   "description": "Real estate brokerage reporting a property acquisition.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$17 million acquisition",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/937076/srs-real-estate-partners-announces-the-17-million-acquisition"
+   ],
+   "exclude_reason": "acquisition",
+   "transaction_name": "Other - SRS Real Estate Partners",
+   "first_seen_run": "2026-11-20-2010",
+   "runs": [
+    "2026-11-20-2010"
+   ],
+   "created_at": "2026-11-20T23:07:16.371Z",
+   "updated_at": "2026-11-20T23:07:16.371Z",
+   "in_view": false
+  },
+  {
    "id": "0b47d8b486",
    "website": null,
    "currency_note": null,
@@ -126,6 +590,92 @@
    ],
    "created_at": "2026-11-20T14:09:27.745Z",
    "updated_at": "2026-11-20T14:09:27.745Z",
+   "in_view": false
+  },
+  {
+   "id": "4fe9f9649a",
+   "group_key": "satsure",
+   "candidate_ids": [
+    "9454d4f19ad3"
+   ],
+   "company": "SatSure",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Amount and HQ not stated in snippet; SatSure is India-based per my knowledge.",
+   "description": "Earth intelligence platform.",
+   "confidence": 0.3,
+   "evidence": {
+    "amount": "SatSure Raises Series B",
+    "round": "Raises Series B",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmpvOFRLRUprU2xOVnAtaDhJSTV"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Series B - SatSure",
+   "first_seen_run": "2026-11-20-2010",
+   "runs": [
+    "2026-11-20-2010"
+   ],
+   "created_at": "2026-11-20T23:07:16.374Z",
+   "updated_at": "2026-11-20T23:07:16.374Z",
+   "in_view": false
+  },
+  {
+   "id": "933d23092d",
+   "group_key": "sakak",
+   "candidate_ids": [
+    "067f12bd409c"
+   ],
+   "company": "SAKAK",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": true,
+   "currency_note": "KRW 200M ~ under $0.2M",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [
+    "DRB Dongil"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "KR",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI company, but non-US and tiny.",
+   "description": "Korean on-device hyper-personalized AI startup; ~200M won strategic investment.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "about 200 million won",
+    "round": null,
+    "lead": null,
+    "investors": "strategic investment of about 200 million won from DRB Dongil"
+   },
+   "source_urls": [
+    "https://en.wowtale.net/2026/11/21/236106/"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Other - SAKAK",
+   "first_seen_run": "2026-11-20-2010",
+   "runs": [
+    "2026-11-20-2010"
+   ],
+   "created_at": "2026-11-20T23:07:16.377Z",
+   "updated_at": "2026-11-20T23:07:16.377Z",
    "in_view": false
   },
   {
@@ -481,6 +1031,48 @@
    "in_view": true
   },
   {
+   "id": "4a1c8f76c1",
+   "group_key": "100 million sewer upgrade",
+   "candidate_ids": [
+    "24ab627a4752"
+   ],
+   "company": "Sussex County sewer upgrade",
+   "website": null,
+   "amount_usd": 100000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-19",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Municipal project.",
+   "description": "Local sewer infrastructure project.",
+   "confidence": 0.3,
+   "evidence": {
+    "amount": "$100 Million Sewer Upgrade",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb2hfZFRON2NwNGc1TktMN1Zzbmt"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Other - Sussex County sewer upgrade",
+   "first_seen_run": "2026-11-20-2010",
+   "runs": [
+    "2026-11-20-2010"
+   ],
+   "created_at": "2026-11-20T23:07:16.362Z",
+   "updated_at": "2026-11-20T23:07:16.362Z",
+   "in_view": false
+  },
+  {
    "id": "97e121e477",
    "website": null,
    "amount_disclosed": true,
@@ -660,16 +1252,18 @@
     "investors": null
    },
    "source_urls": [
-    "https://www.trendingtopics.eu/first-circle-capital-austrian-investor-26-million-african-fintechs/"
+    "https://www.trendingtopics.eu/first-circle-capital-austrian-investor-26-million-african-fintechs/",
+    "https://geeky.com.ng/2026/11/20/african-fintech-fund-closes-at-26m-for-early-stage-startups"
    ],
    "run_date": "2026-11-19-2032",
    "transaction_name": "Other - First Circle Capital",
    "first_seen_run": "2026-11-19-2032",
    "runs": [
-    "2026-11-19-2032"
+    "2026-11-19-2032",
+    "2026-11-20-2010"
    ],
    "created_at": "2026-11-19T23:07:45.658Z",
-   "updated_at": "2026-11-19T23:07:45.658Z",
+   "updated_at": "2026-11-20T23:07:16.367Z",
    "in_view": false
   },
   {
@@ -1309,6 +1903,90 @@
    ],
    "created_at": "2026-11-20T14:09:27.743Z",
    "updated_at": "2026-11-20T14:09:27.743Z",
+   "in_view": false
+  },
+  {
+   "id": "47ecf3f16f",
+   "group_key": "style union",
+   "candidate_ids": [
+    "8cef543c8e4d"
+   ],
+   "company": "Style Union",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": true,
+   "currency_note": "Rs 450 crore not converted",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-19",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not AI.",
+   "description": "Indian company raising Rs 450 crore.",
+   "confidence": 0.4,
+   "evidence": {
+    "amount": "raises Rs 450 crore",
+    "round": null,
+    "lead": "led by Venturi Partners and Elev8 Venture",
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOE04eHFzYlM2YWJsdjhvVng1eVh"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Other - Style Union",
+   "first_seen_run": "2026-11-20-2010",
+   "runs": [
+    "2026-11-20-2010"
+   ],
+   "created_at": "2026-11-20T23:07:16.376Z",
+   "updated_at": "2026-11-20T23:07:16.376Z",
+   "in_view": false
+  },
+  {
+   "id": "c6b16fed5f",
+   "group_key": "pawswing",
+   "candidate_ids": [
+    "8b60702df4aa"
+   ],
+   "company": "PawSwing",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Pre-Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-19",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim.",
+   "description": "Self-grooming cat house with companion app.",
+   "confidence": 0.4,
+   "evidence": {
+    "amount": "Multimillion-Dollar Pre-Series A Round",
+    "round": "Pre-Series A Round",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pawswing.app/"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Pre-Seed - PawSwing",
+   "first_seen_run": "2026-11-20-2010",
+   "runs": [
+    "2026-11-20-2010"
+   ],
+   "created_at": "2026-11-20T23:07:16.380Z",
+   "updated_at": "2026-11-20T23:07:16.380Z",
    "in_view": false
   },
   {
@@ -4194,17 +4872,20 @@
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxORks0TmVsdGpZblVfSXFZTnpjN19xZXlUbVJIZEROOHF6SEdtNzB1NHhFc2RjdTRBVzQyc2tMb0k1aDAwbWUyV0ZNUHJ3UURkaVFwNmhIdlMxSEs0Z29mbDJVcFAwQVFOZFdpRVVRS3V6VDQwSUFrbGhRZVJyVEJjd3FEd1BDZVFQb1A4aHdtVWlrVGZWOEVtVjBNZUZhLXBaalR3N2xfT1pobHh1dWZDczBpekk2TmFxQldWMm1VQXAxYVBUSnc?oc=5",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdGJKcVFsbUNGX1JKOW1NX2tRRU55SUlBRHVOczRyNmF2UjdBZUdJOVRoanhiZk5aRW9XVm1saWZGNHhqdzVoTVlpLW0tbzVldzl1LXlvS25QVWxrd3hvVkU4OE54R05mTVh3LXBnazU0Q0JTbHJsMHZMYU12dDFGdmZkNlF0aGFWMC1BZy1R?oc=5",
     "https://app.dealroom.co/companies/aevius_labs",
-    "https://www.joplinglobe.com/region/national_business/aevius-launches-with-22-million-in-funding-to-make-medicine-computable/article_36144b9d-410a-5b8f"
+    "https://www.joplinglobe.com/region/national_business/aevius-launches-with-22-million-in-funding-to-make-medicine-computable/article_36144b9d-410a-5b8f",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVBIMjh2cS1MbGdRVE1TX0thaDB",
+    "https://pulse2.com/aevius-launches-with-22-million-to-make-medical-data-computable/"
    ],
    "exclude_reason": null,
    "transaction_name": "Seed - Aevius",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
     "catchup-2026-11-10_2026-11-17",
-    "2026-11-18"
+    "2026-11-18",
+    "2026-11-20-2010"
    ],
    "created_at": "2026-11-18T06:42:51.278Z",
-   "updated_at": "2026-11-18T06:46:01.963Z",
+   "updated_at": "2026-11-20T23:07:16.367Z",
    "in_view": true
   },
   {
@@ -54920,6 +55601,55 @@
    "in_view": false
   },
   {
+   "id": "5eddd1a731",
+   "group_key": "baltimore based jmi equity backs",
+   "candidate_ids": [
+    "8db2b50cc636",
+    "0a326844257c"
+   ],
+   "company": "Archy",
+   "website": null,
+   "amount_usd": 50000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-09-11",
+   "lead_investors": [
+    "JMI Equity"
+   ],
+   "investors": [
+    "JMI Equity"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Company describes AI agents and automation for dental back offices.",
+   "description": "AI-powered practice management platform for dental practices.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "$50 million Series C",
+    "round": "$50 million Series C",
+    "lead": "JMI Equity is betting on artificial intelligence to transform the dental industry, leading a $50 million Series C",
+    "investors": "JMI Equity Backs Dental Software Startup Archy"
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/937045/baltimore-based-jmi-equity-backs-dental-software-startup-archy-in-50-million-funding-round",
+    "https://pulse2.com/archy-raises-50-million-series-c-to-expand-ai-platform-for-dental-practices/",
+    "https://www.goodwinlaw.com/en/news-and-events/news/2026/09/announcements-technology-goodwin-advises-archy-50-million-series-c"
+   ],
+   "exclude_reason": null,
+   "transaction_name": "Series C - Archy",
+   "first_seen_run": "2026-11-20-2010",
+   "runs": [
+    "2026-11-20-2010"
+   ],
+   "created_at": "2026-11-20T23:07:16.365Z",
+   "updated_at": "2026-11-20T23:07:16.365Z",
+   "in_view": true
+  },
+  {
    "id": "00e2833b00",
    "group_key": "harvey",
    "candidate_ids": [
@@ -55626,5 +56356,5 @@
    "in_view": true
   }
  ],
- "last_run": "2026-11-20"
+ "last_run": "2026-11-20-2010"
 }
