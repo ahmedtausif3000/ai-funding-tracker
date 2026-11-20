@@ -1,0 +1,729 @@
+{
+  "run_date": "2026-11-20",
+  "generated_at": "2026-11-20T12:54:40.641Z",
+  "window_days": 2,
+  "range": null,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 200,
+        "items": 91
+      },
+      {
+        "id": "gnews-2",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-3",
+        "status": 200,
+        "items": 51
+      },
+      {
+        "id": "gnews-4",
+        "status": 200,
+        "items": 57
+      },
+      {
+        "id": "gnews-5",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "gnews-6",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "gnews-7",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-8",
+        "status": 200,
+        "items": 9
+      },
+      {
+        "id": "gnews-g1",
+        "status": 200,
+        "items": 35
+      },
+      {
+        "id": "gnews-g2",
+        "status": 200,
+        "items": 40
+      },
+      {
+        "id": "gnews-g3",
+        "status": 200,
+        "items": 22
+      },
+      {
+        "id": "gnews-g4",
+        "status": 200,
+        "items": 22
+      },
+      {
+        "id": "gnews-g5",
+        "status": 200,
+        "items": 33
+      },
+      {
+        "id": "gnews-g6",
+        "status": 200,
+        "items": 25
+      },
+      {
+        "id": "gnews-g7",
+        "status": 200,
+        "items": 19
+      },
+      {
+        "id": "gnews-g8",
+        "status": 200,
+        "items": 19
+      },
+      {
+        "id": "gnews-g9",
+        "status": 200,
+        "items": 28
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "pulse2",
+        "status": 200,
+        "items": 120
+      },
+      {
+        "id": "citybiz",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 867,
+    "prefiltered": 166,
+    "dropped": {
+      "not_funding": 264,
+      "no_ai_hint": 65,
+      "below_min": 136,
+      "fund_close": 16,
+      "seen": 127,
+      "duplicate_link": 87,
+      "known_round": 146,
+      "noise": 6
+    },
+    "groups": 74,
+    "selected_groups": 19,
+    "candidates": 20,
+    "articles_fetched": 14,
+    "google_rate_limited": false
+  },
+  "groups": [
+    {
+      "key": "nebius lifts 2026 capex",
+      "company_guess": "Nebius Lifts 2026 CapEx",
+      "amount_hint_usd": 27000000000,
+      "candidate_ids": [
+        "5bf1e3d1d3cc"
+      ]
+    },
+    {
+      "key": "inox clean",
+      "company_guess": "Inox Clean",
+      "amount_hint_usd": 3850000000,
+      "candidate_ids": [
+        "2adfe193408d"
+      ]
+    },
+    {
+      "key": "fintech payhawk",
+      "company_guess": "Fintech Payhawk",
+      "amount_hint_usd": 2000000000,
+      "candidate_ids": [
+        "d99674892b9d"
+      ]
+    },
+    {
+      "key": "infranity",
+      "company_guess": "Infranity",
+      "amount_hint_usd": 1500000000,
+      "candidate_ids": [
+        "50454a773756"
+      ]
+    },
+    {
+      "key": "following 1 billion funding",
+      "company_guess": "Following €1 billion funding",
+      "amount_hint_usd": 1000000000,
+      "candidate_ids": [
+        "5715cf5b935c"
+      ]
+    },
+    {
+      "key": "saudi arabias ceer",
+      "company_guess": "Saudi Arabia’s Ceer",
+      "amount_hint_usd": 693000000,
+      "candidate_ids": [
+        "290f44f4ce77"
+      ]
+    },
+    {
+      "key": "humanoid robotics",
+      "company_guess": "Humanoid Robotics",
+      "amount_hint_usd": 500000000,
+      "candidate_ids": [
+        "d8b10ffc102c"
+      ]
+    },
+    {
+      "key": "asia startup",
+      "company_guess": "Asia Startup",
+      "amount_hint_usd": 335000000,
+      "candidate_ids": [
+        "c89bf1a02c22"
+      ]
+    },
+    {
+      "key": "week 47 africa and",
+      "company_guess": "Week 47: Africa and",
+      "amount_hint_usd": 169500000,
+      "candidate_ids": [
+        "3c358acb64ee"
+      ]
+    },
+    {
+      "key": "imagen",
+      "company_guess": "Imagen",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "21dc5ace6201"
+      ]
+    },
+    {
+      "key": "mistral blazes ahead with",
+      "company_guess": "Mistral blazes ahead with",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "9c221bba0892"
+      ]
+    },
+    {
+      "key": "brightai",
+      "company_guess": "BrightAI",
+      "amount_hint_usd": 51000000,
+      "candidate_ids": [
+        "488d1c0f1365"
+      ]
+    },
+    {
+      "key": "ex nazara ceo manish agarwals",
+      "company_guess": "Ex-Nazara CEO Manish Agarwal's",
+      "amount_hint_usd": 47000000,
+      "candidate_ids": [
+        "93829188e558"
+      ]
+    },
+    {
+      "key": "gradyent",
+      "company_guess": "Gradyent",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "ea4f03f6a80b"
+      ]
+    },
+    {
+      "key": "wepinion",
+      "company_guess": "Wepinion Inc.",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "8f639169d645",
+        "3f5b5fe7099d"
+      ]
+    },
+    {
+      "key": "australian startups",
+      "company_guess": "Australian startups",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "a7be11187761"
+      ]
+    },
+    {
+      "key": "wilco",
+      "company_guess": "Wilco",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "9912193c1146"
+      ]
+    },
+    {
+      "key": "top news today brain chip",
+      "company_guess": "Top News Today: Brain-Chip",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "4c7dee2b27fd"
+      ]
+    },
+    {
+      "key": "what the telecom bust",
+      "company_guess": "What The Telecom Bust",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "3fad476314ff"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "5bf1e3d1d3cc",
+      "title": "Nebius Lifts 2026 CapEx View to $27B: Can Funding Keep Pace?",
+      "publisher": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdkxNRW5fWTdSbEZiZ085VnRHUE5ya3hyLUxDeEpFeS1Lc2dhNk9sMU85MFN6TGQ4aXctMGNLbUxENGZMUjJMRTRVYzJEbEpMcExiRTdPSUxlVFZWbUlBT25hYkZxaEQzcTQ0ZFktREhnWF82RUZEMGNaVi0zRWRqOTRRd2tOQS1tUktHdG10Z3VDUzhmQUVvdFZjS1BSN1U3Q2VGQVFOQ2gwRlVDbjQwbGRiRXpmdlZPdUtESk0teHZ0SG12bmUzblNsNUlEUW9zNndBMXozVDVXUQ?oc=5",
+      "published_at": "2026-11-19T17:23:47.000Z",
+      "publisher_url": "https://www.theglobeandmail.com",
+      "snippet": "Nebius Lifts 2026 CapEx View to $27B: Can Funding Keep Pace? The Globe and Mail",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 27000000000,
+        "currency": "USD",
+        "raw": "$27B"
+      },
+      "company_guess": "Nebius Lifts 2026 CapEx",
+      "group_key": "nebius lifts 2026 capex",
+      "group_rank": 0,
+      "resolved_url": "https://www.theglobeandmail.com/investing/markets/stocks/CRWV/pressreleases/8921525/nebius-lifts-2026-capex-view-to-27b-can-funding-keep-pace/",
+      "text": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer .\nNebius Lifts 2026 CapEx View to $27B: Can Funding Keep Pace?\nZacks Investment Research - Zacks Investment Research - Thu Nov 19, 11:23AM CST\nNebius Group N.V . NBIS is pursuing an aggressive capacity expansion strategy as demand for artificial intelligence (AI) infrastructure remains robust. The company raised its 2026 capital expenditure guidance to approximately $27 billion from the earlier projected range of $20-$25 billion.\nNebius spent nearly $7.3 billion in capex in the third quarter of 2026 on server and network equipment and data center footprint expansion. However, the substantial spending requirements raise questions about the company's ability to finance its aggressive expansion plans.\nNebius is increasingly relying on customer prepayments to support infrastructure investments. The company expects $10 billion in committed customer prepayments in 2026. In the third quarter, more than 90% of the contract value signed carried prepayments. Notably, these payments covered more than 100% of the capex associated with newly contracted capacity, compared with 50-60% in the preceding quarter.\nThe company is also strengthening its funding position through asset-backed financing and capital market transactions. Nebius secured a $775 million asset-backed financing facility at SOFR plus 250 points in July 2026, supported by long-term customer agreements. Management sees more than $40 billion in similar committed revenues from investment-grade customers as supporting further asset-backed financing opportunities. In October, Nebius announced a $3.5 billion senior secured financing facility with Citi to support its global infrastructure expansion.\nNebius Group N.V. Price, Consensus and EPS Surprise\nNebius Group N.V. price-consensus-eps-surprise-chart | Nebius Group N.V. Quote\nAlso, in the third quarter, NBIS issued 4.6 million Class A shares at a weighted average price of $229.1 per share, generating net proceeds of approximately $1 billion under its at-the-market (\"ATM\") equity program. NBIS considers ATM as a flexible funding tool.\nLooking ahead, Nebius expects capex to increase further to $40-$45 billion in 2027, supporting the addition of more than 1 gigawatt of new capacity. Management anticipates that customer prepayments of $17-$20 billion and asset-backed financing will cover 75-85% of planned 2027 capex.\nDespite these financing arrangements, the magnitude of investments remains a concern.\nThough customer prepayments and diversified financing sources provide meaningful support, the payoff hinges on execution, continued AI demand and the ability to scale profitably amid increasing competition from the likes of CoreWeave CRWV and tech giants like Microsoft MSFT and Amazon.\nCompetitors Ramp Up CapEx Amid AI Infrastructure Buildout\nCoreWeave ’s third-quarter capex reached $14.5 billion, while 2026 capex is now expected to be between $37 billion and $39 billion (from $35-$39 billion previously), considerably exceeding projected annual revenues. The company expects full-year 2026 revenues to be $13-$13.3 billion. Such aggressive spending exposes CoreWeave to execution risks if infrastructure deployments face delays or demand moderates.\nThird-quarter operating expenses came in at $3.5 billion from $1.31 billion in the year-ago quarter, reflecting the cost of scaling active power and converting backlog into revenues. On the earnings call, management said that it expects approximately $9 billion in customer prepayments and deposits over the following three months, providing funding support.\nMicrosoft ’s capex spend far exceeds the combined capex plans for both Nebius and CoreWeave for 2026. In the first quarter of fiscal 2027, capital expenditures reached $45.2 billion, with roughly three-fourths directed toward short-lived assets, primarily CPUs and GPUs, including higher memory and storage costs. Microsoft added 24 data centers across five continents during the quarter.\nThe company expects capex to exceed $50 billion in the fiscal second quarter. Capex is now projected to be approximately $170 billion for calendar 2026, given the third-party capacity delays. The company expects to remain free cash flow positive in fiscal 2027.\nNBIS Price Performance, Valuation and Estimates\nNebius stock has lost 37.7% in the past month compared with the Zacks Internet – Software and Services industry’s decline of 11%.\nImage Source: Zacks Investment Research\nNBIS’ shares are trading at a 12-month forward price/sales multiple of 2.42X, below the Internet Software Services industry’s 3.42X.\nImage Source: Zacks Investment Research\nThe Zacks Consensus Estimate for NBIS’ earnings for 2026 has been significantly revised upward over the past 60 days.\nImage Source: Zacks Investment Research\nNBIS currently carries a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here.\nBeyond Nvidia: AI's Second Wave Is Here\nThe AI revolution has already minted millionaires. But the stocks everyone knows about aren't likely to keep delivering the biggest profits. AI’s second wave is moving from infrastructure to implementation and these companies are at the forefront of this transition, positioned to become what Amazon and Google were to the internet era. See Stocks Now >>\nThis article originally published on Zacks Investment Research (zacks.com).\nZacks Investment Research\nThis article contains syndicated content. We have not reviewed, approved, or endorsed the content, and may receive compensation for placement of the content on this site. For more information please view the Barchart Disclosure Policy here .\nFriday’s analyst upgrades and downgrades\nWho wins in this latest telecom shakeup? Perhaps the stock that’s hurt the most\nStock futures slip as Anthropic debut fails to reassure AI investors",
+      "text_status": "ok"
+    },
+    {
+      "id": "2adfe193408d",
+      "title": "Inox Clean, Blupine, Serentica corner 35% of $3.85 billion funding raised by Indian energy startups in 2026",
+      "publisher": "ET EnergyWorld",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUFkwY0FsTlUzNlg2X0RtX0VSdmpVRnBsSnZsMWFORlk0REliRDlONThBRVhQelR1Y2lpeGU0blJYTkcxMTRSS0NOQlRkUXFYeVhsaVozXzVnX1FSaFBySVktdWgxd0xvamVZRjBWRnFQTkRQOGhjdkhMeXMwSWx5MHB1VVZ4blc1NDZON2YyZEg5alJLZlNpOHNRU203d2ppczZ2ZGd1aUh4Vk4wZHlJVlh2UDRiM3ctNGJiY3ZkWnFMWTFCVnprcHRsR1JJYXB5QkhNNlYxX2tpUVhiY1VTTGZWY0tvZHhCUjNxVDYxY0VDV3BJTmhURElmbmJTS1g4SWfSAYcCQVVfeXFMTXJrc1p2dkJ3SzlERm1lbm5odWxwcmJwQ0FfZGl1TXJ6aHRod2FwTVpDUU1SUWozZWltek5CS0FpR29ESjljV0ZPOFBWeVNjV1hBTVZYMlVpUE5halZTczBxN3JnLTFOVFlWY2J5OEpOSFc4NG14elg5aUMwanZjWGVLdkczMFN1YldnN3ZqVFNtN2VjSTJjZzV1ZEdVZno3RkpuNklqcW16ak00bUhsTkx3aXI0Z01USnJ5SkpWNWs1dEFyQWRPaWt2THdXd2RuaW5rNUNHVFN4YkowZXlfYzIwVlZPSzVGQXF6dnNkeWpVUVpVcUVkaHZ2Wm5rQmdjai0yZlNRUWc?oc=5",
+      "published_at": "2026-11-19T07:47:07.000Z",
+      "publisher_url": "https://energy.economictimes.indiatimes.com",
+      "snippet": "Inox Clean, Blupine, Serentica corner 35% of $3.85 billion funding raised by Indian energy startups in 2026 ET EnergyWorld",
+      "source_feed": "gnews-g5",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 3850000000,
+        "currency": "USD",
+        "raw": "$3.85 billion"
+      },
+      "company_guess": "Inox Clean",
+      "group_key": "inox clean",
+      "group_rank": 0,
+      "resolved_url": "https://energy.economictimes.indiatimes.com/news/renewable/inox-clean-blupine-serentica-corner-35-of-3-85-billion-funding-raised-by-indian-energy-startups-in-2026/135981699",
+      "text": "Renewable\n2 min read\nInox Clean, Blupine, Serentica corner 35% of $3.85 billion funding raised by Indian energy startups in 2026\nThe three companies together raised $1.36 billion in 2026 YTD, accounting for the bulk of the disclosed funding raised during the period, as per Tracxn data analysed by ETEnergyWorld.\nRitik Raj\nETEnergyWorld\nPublished On Nov 19, 2026 at 01:17 PM IST\nSet ETEnergyworld as your preferred source on Google\nCopy Link\nShare on WhatsApp\nShare on Linkedin\nShare on X\nShare on Telegram\nShare on Facebook\nImage for representational purposes only Indian energy startups and companies raised around $3.85 billion in disclosed funding across 178 equity and debt transactions between January 1 and November 17, 2026, with Inox Clean Energy , Blupine Energy and Serentica Renewables accounting for nearly $1.36 billion of the total, according to Tracxn data analysed by ETEnergyWorld.\nThe three companies together accounted for around 35 per cent of the disclosed funding during the period. The data covers companies operating across the energy and energy technology sectors in India.\nTracxn lists 160 transactions with disclosed funding amounts, while 18 transactions have been marked undisclosed.\nAdvt\nInox Clean Energy, Blupine Energy and Serentica lead fundraising Blupine Energy topped the three companies with $594.42 million raised through a conventional debt transaction in January. Axis Bank was listed as the investor in the funding round.\nOn the other hand, Serentica Renewables raised $345 million through a conventional debt round in July. The funding involved the Asian Development Bank, Sumitomo Mitsui Banking Corporation, New Development Bank (NDB) and Exim Bank.\nInox Clean Energy raised a combined $417.46 million across two transactions in 2026. The company secured $343.82 million in a Series D round in January, with CalPERS, SUN Group Global and Authum among the institutional investors. Akash Bhansali was also listed among the angel investors. It raised another $73.64 million in July, with Rising Sun Holdings listed as an investor.\nResolven, Simple Energy, Rideriver among other major fundraisers Beyond the three largest contributors, Resolven and Simple Energy emerged as major fundraisers. Resolven raised $209.33 million across two transactions, including a $161.07 million Series A round led by Zest Bidco and $48.26 million through conventional debt from NIIF IFL.\nSimple Energy raised $206.25 million across three transactions. Its largest funding round was a $180 million Series C investment in September, led by Dr A Velumani Family Office. Arokiaswamy Velumani led its earlier $13.33 million Series B round.\nRideriver raised $123.60 million across four transactions, including a $102 million Series C round jointly led by Elev8 Venture Partners and Claypond Capital. GreenCell Mobility raised $123.47 million across two transactions, including $89 million in debt funding from IFC, British International Investment and Tata Capital.\nAdvt\nGREW Solar secured $115.88 million in a Series D round led by Bay Capital, while Hygenco raised $105 million in Series C funding led by IFC, with Siemens and Fullerton Carbon Action Fund also participating.\nAMPIN Energy Transition and Radiance Renewables each raised $100 million. Norfund was listed as an investor in AMPIN's Series E round, while Impact Fund Denmark and FMO participated in Radiance Renewables' Series C funding.\nOther notable fundraises during the period included Yulu's $93 million across two transactions, with GEF Capital Partners leading its $63 million Series C round, and Ultraviolette's $87.47 million across two transactions. Its $85 million Series E round in September was jointly led by Yali Capital and TDK Ventures.\nBy\nRitik Raj\n,\nETEnergyWorld\nPublished On Nov 19, 2026 at 01:17 PM IST\nSee more on:\nIndia energy startups ,\nIndian energy startups funding ,\nInox Clean Energy ,\nBlupine Energy ,\nSerentica Renewables ,\n2026 energy investment ,\nfundraising in India ,\nTracxn data ,\nenergy ,\nrenewable energy\nTelegram\nFacebook\nCopy Link\nComments\nWhat are your thoughts?\nComment Now\nRead Comment (1)\nAll Comments\nBy commenting, you agree to the Prohibited Content Policy\nPost\nBy commenting, you agree to the Prohibited Content Policy\nPost\nFind this Comment Offensive?\nChoose your reason below and click on the submit button. This will alert our moderators to take actions\nREASONS FOR REPORTING\nFoul Language\nDefamatory\nInciting hatred against a certain community\nOut of Context / Spam\nOthers\nReport\nJoin the community of 2M+ industry professionals.\nSubscribe to Newsletter to get latest insights & analysis in your inbox.\nAll about ETEnergyworld industry right on your smartphone!\nDownload the ETEnergyworld App and get the Realtime updates and Save your favourite articles.\nHome\nNews\nRenewable\nInox Clean, Blupine, Serentica corner 35% of $3.85 billion funding raised by Indian energy startups in 2026",
+      "text_status": "ok"
+    },
+    {
+      "id": "d99674892b9d",
+      "title": "Fintech Payhawk raises $280 mn in Series C funding at $2 bn valuation",
+      "publisher": "Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaE1VNHQ1enRPLUg0dVRZRUhuQUdUNEt2VTdwOW03TXFDRDJxRnFCQlFlUWtFMFVJZG9yZkxXdl84ZFFBZnRId19fRlJmLTFQTWc0TGl6WWd6bkdITUJ3U2VoTjhwajJ0QWNjbjNRM0hPc05aRnBOWDdjN0kxcXpidm90OEJPemNPeXoxZ25vbXUwUDlBQ1h3V0ln?oc=5",
+      "published_at": "2026-11-19T19:52:57.000Z",
+      "publisher_url": "https://beinsure.com",
+      "snippet": "Fintech Payhawk raises $280 mn in Series C funding at $2 bn valuation Beinsure",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 2000000000,
+        "currency": "USD",
+        "raw": "$2 bn"
+      },
+      "company_guess": "Fintech Payhawk",
+      "group_key": "fintech payhawk",
+      "group_rank": 0,
+      "resolved_url": "https://beinsure.com/news/fintech-payhawk-raises-280-mn-in-series-c-funding-at-2-bn-valuation/",
+      "text": "Agentic AI News\nInsurTech News\n🇪🇺 Europe Insurance News\nPayhawk expands AI agents across corporate finance\nGoldman Sachs Alternatives backs international expansion\nFinance Operating System integrates AI, payments and controls\nPayhawk reports positive cash flow and subscription-led revenue\nFintech Payhawk has secured $280 mn in Series C funding led by Growth Equity at Goldman Sachs Alternatives, valuing the financial technology company at $2 bn.\nThe round brings total capital raised to more than $515 mn. Existing investors QED, Greenoaks, Lightspeed, Hedosophia and Bek Ventures participated alongside new investors Galdana Ventures, Cogito Capital, Inveready and Invus, as well as European entrepreneurs Tomas Okmanas and Didac Lee.\nFounded in Sofia, Bulgaria, Payhawk now operates in 33 countries through 12 offices. Its platform supports multiple currencies, banking systems, payment networks and regulatory requirements, reflecting the complexity of managing corporate finance across international markets.\nPayhawk secured $280 mn in Series C financing led by Goldman Sachs Alternatives, reaching a $2 bn valuation and bringing total funding to more than $515 mn.\nThe fintech operates across 33 countries with 12 offices and plans to develop an AI-powered Finance Operating System combining autonomous agents, payment infrastructure and enterprise controls.\nPayhawk achieved positive cash flow in Q3 and retains 70% of its 2022 funding. The company says 77% of customers use its AI agents daily.\nThe transaction remains subject to customary regulatory approvals. Payhawk plans to invest in a global Finance Operating System designed to automate financial operations using AI agents, integrated payments and enterprise controls.\nPayhawk expands AI agents across corporate finance\nPayhawk is developing AI agents that execute financial tasks across procurement, business travel, financial control and reporting. The company reports that 77% of its customers use these agents daily to reduce administrative work and operating costs.\nThe role of the finance team is rapidly moving away from manual checks, lengthy reconciliations and labor-intensive work towards becoming more strategic. While most companies use AI to speed up existing processes, we built AI agents to fundamentally rethink how finance operates.\nHristo Borisov, co-founder and CEO of Payhawk\nPayhawk describes its objective as “zero-touch finance”, in which routine administrative tasks can be completed without direct intervention from finance professionals or employees.\nBorisov said achieving this requires AI capabilities to operate alongside payment infrastructure and controls governing financial transactions.\nGoldman Sachs Alternatives backs international expansion\nJames Hayward, Managing Director within Growth Equity at Goldman Sachs Alternatives, will join Payhawk’s Board of Directors.\nHayward cited Payhawk’s engineering capabilities, international operations and approach to enterprise spend management as factors behind the investment.\nPayhawk’s exceptional growth reflects the strength of its engineering DNA, global footprint and clear vision for the future of modern spend management systems.\nBorisov said the company’s European origins helped it develop products for businesses operating across different jurisdictions. “Europe does not need to build local versions of categories invented somewhere else. We should build categories the rest of the world follows as craftsmanship and innovation are strongly embedded cultural traits for Europeans,” he said.\nThe company intends to use its existing international infrastructure to support multinational customers managing financial operations across several markets.\nFinance Operating System integrates AI, payments and controls\nPayhawk’s Finance Operating System is structured around three interconnected components: AI agents that perform financial tasks, payment infrastructure that enables transactions, and enterprise controls that determine authorization requirements and when human approval is necessary.\nThe platform is intended to connect automated financial processes with execution and oversight.\nEnterprise resource planning systems, banks, procurement platforms, treasury applications and travel management software increasingly use Model Context Protocol (MCP) to make information accessible to AI applications.\nPayhawk argues that connecting these systems does not necessarily automate the financial processes spanning them.\n“Integrations connect systems. MCP makes information easier to access. But an operating system changes how the entire finance function works,” Borisov said. “As software moves from recommending actions to actually taking them, that distinction becomes much more important.”\nPayhawk reports positive cash flow and subscription-led revenue\nPayhawk achieved positive cash flow in Q3 and retains 70% of the capital raised in its previous funding round in 2022. Its business model relies on subscription revenue rather than interchange fees from corporate card transactions.\nThe company says this allows it to develop financial automation products independently of card spending volumes.\nIn the US, Payhawk’s Financial Controller Agent works with customers’ existing business cards, removing the need to change providers or reissue cards.\nThe Series C investment will support further development of Payhawk’s AI-based financial products and expansion of its international enterprise operations.\nPeter Sonner\nLead Tech Editor\nPeter Sonner is Lead Tech Editor at Beinsure, with more than 10 years of experience in digital media and financial technology reporting. He covers InsurTech and FinTech, startup funding, artificial intelligence, blockchain, cryptoassets, and digital transformation in insurance. Previously involved in the international team at SQL Stunts, USA Wire, Whisp Money, ISUR, Tresor Finance, and Forinsurer, he examines how emerging technologies and AI affect insurers.",
+      "text_status": "ok"
+    },
+    {
+      "id": "50454a773756",
+      "title": "Infranity Raises €1.5 Billion For Fourth Senior Infrastructure Debt Vintage",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/infranity-raises-e1-5-billion-for-fourth-senior-infrastructure-debt-vintage/",
+      "published_at": "2026-11-19T21:22:41.000Z",
+      "publisher_url": null,
+      "snippet": "Infranity has completed the final close of its fourth Senior Infrastructure Debt vintage, securing €1.5 billion across the strategy and associated co-investment vehicles.\nThe post Infranity Raises €1.5 Billion For Fourth Senior Infrastructure Debt Vintage appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 1500000000,
+        "currency": "EUR",
+        "raw": "€1.5 Billion"
+      },
+      "company_guess": "Infranity",
+      "group_key": "infranity",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/infranity-raises-e1-5-billion-for-fourth-senior-infrastructure-debt-vintage/",
+      "text": "Infranity Raises €1.5 Billion For Fourth Senior Infrastructure Debt Vintage\nBy Amit Chowdhry\nToday at 4:22 PM\nInfranity Raises €1.5 Billion For Fourth Senior Infrastructure Debt Vintage\nInfranity has completed the final close of its fourth Senior Infrastructure Debt vintage, securing €1.5 billion across the strategy and associated co-investment vehicles.\nThe fundraising met its target and attracted institutional investors, including repeat commitments from existing backers.\nThe manager has already made 16 investments through the vintage, financing European infrastructure assets and companies.\nIts focus areas include energy transition, digital infrastructure, decarbonized mobility, environmental infrastructure, waste and water.\nThe strategy seeks long-term, risk-adjusted returns through senior debt, using credit selection and portfolio construction to manage exposure across those sectors.\nThe latest fund follows the previous vintage’s closing in 2023.\nAs of October 2026, Infranity’s Senior Investment Grade Infrastructure Debt strategy had raised more than €6.65 billion.\nCEO and Managing Partner Philippe Benaroya said the latest close reflects both investor support and the platform’s pace of deployment.\nThe firm is preparing the next vintage and sees opportunities associated with higher lending margins and compensation for committing capital to less-liquid investments.\nThose conditions represent management’s assessment of the market rather than a guarantee of returns.\nInfranity is part of Generali Investments and specializes in infrastructure financing and investment.\nFounded by Benaroya, Alban de La Selle and Gilles Lengaigne through a strategic partnership with Generali, the manager reported €15 billion in assets as of September 2026, measured as total investor commitments since inception.\nIts broader investment activity includes infrastructure supporting energy, transport, digital connectivity, healthcare and education.\nThe fourth vintage adds another pool of capital to that platform, with deployment already underway and a further fundraising cycle being prepared.\nThe €1.5 billion headline includes co-investment commitments alongside the main vintage, rather than capital committed solely to one fund.\nKEY QUOTE :\n“The successful closing of the fourth vintage and its co-investment vehicles at its €1.5 billion target demonstrates the strength of Infranity’s European infrastructure debt platform. It reflects both our sustained deployment momentum and the continued confidence of our investors, including many existing investors who renewed their commitments. We are now preparing the next vintage of our flagship strategy, which we believe will enable investors to benefit from attractive market conditions, including higher margins and enhanced illiquidity premia.”\nPhilippe Benaroya, CEO And Managing Partner Of Infranity\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "5715cf5b935c",
+      "title": "Following €1 billion funding round, Quantum Systems commits over €10 million to expand drone support in Ukraine - EU-Startups",
+      "publisher": "EU-Startups",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMU5ITlhxN1JWZFJhUDVFcDVoeG1jNm94U3E0R2wySXphZDNsVC1VcEtRU09tMVlPTEcwNFM2Z192WVdNQ3pvOTJXWUJpYWtNNWpXeU96WjZsakVEbGNVVC1HMWJ6LThhQ3BibF91b2JibFJlLWk1TW5Jakd2NEhfVWhydjVMV1RVdnJUZllDSEFxWlgzSjV6R3JvRld0WV9iWUg2NkVHeldobDRNOG1zRXpXcHduMFl4dTdXcnpWUnIwQURkZmJOcFhEYXFubWQxd09jTDBHek9iTzA0Y2pkYw?oc=5",
+      "published_at": "2026-11-20T12:02:50.000Z",
+      "publisher_url": "https://www.eu-startups.com",
+      "snippet": "Following €1 billion funding round, Quantum Systems commits over €10 million to expand drone support in Ukraine EU-Startups",
+      "source_feed": "gnews-g6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 1000000000,
+        "currency": "EUR",
+        "raw": "€1 billion"
+      },
+      "company_guess": "Following €1 billion funding",
+      "group_key": "following 1 billion funding",
+      "group_rank": 0,
+      "resolved_url": "https://www.eu-startups.com/2026/11/following-e1-billion-funding-round-quantum-systems-commits-over-e10-million-to-expand-drone-support-in-ukraine/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "290f44f4ce77",
+      "title": "Saudi Arabia’s Ceer raises $693 million as it builds a homegrown EV industry",
+      "publisher": "Fast Company Middle East",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdjVEZGZ4MjVhM0Y1dUxiUzFaT2JMT2dWX1FDQndUMWUtNjhBVGRZaUlxWDVkOU1JanJLb0lYWHpXN1IxOXhzRHVHckZWcTktZ1Q2Nlg0OExvb0lhMXRGck40cldaWUhrcmNQcnJRbk9Sc1YtOFVtbEotY0Fac3V3QXlweUszRThaV1U2WmxFUnB4M3ZlbjU4amFleXVZTWE3dEs4NGpaVVNlQQ?oc=5",
+      "published_at": "2026-11-19T09:32:04.000Z",
+      "publisher_url": "https://fastcompanyme.com",
+      "snippet": "Saudi Arabia’s Ceer raises $693 million as it builds a homegrown EV industry Fast Company Middle East",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 693000000,
+        "currency": "USD",
+        "raw": "$693 million"
+      },
+      "company_guess": "Saudi Arabia’s Ceer",
+      "group_key": "saudi arabias ceer",
+      "group_rank": 0,
+      "resolved_url": "https://fastcompanyme.com/news/saudi-arabias-ceer-raises-693-million-as-it-builds-a-homegrown-ev-industry/",
+      "text": "Saudi Arabia’s homegrown electric vehicle maker Ceer has secured approximately $693 million (SR2.6 billion) to expand its operations, as the country works to build a domestic automotive industry.\nThe Public Investment Fund-owned company signed the financing agreement with Arab National Bank and Riyad Bank at its Riyadh headquarters. The funding will support its growth plans, according to a statement.\nThe Public Investment Fund-owned electric vehicle maker signed a financial agreement at its Riyadh headquarters. The financing will support its growth plans and the development of Saudi Arabia’s automotive manufacturing industry, according to a statement.\nThe country’s first homegrown automotive brand unveiled its first two flagship EVs in September, part of a planned portfolio of seven models over the next five years. The vehicles will be manufactured at Ceer’s production complex in Saudi Arabia.\n“This agreement reflects ANB and Riyad Bank’s confidence in Ceer’s business model and long-term outlook,” said Joerg Schuessler, chief financial officer of Ceer. “Together, we are investing in the future of a Saudi automotive brand built for the Kingdom and its future economic ambitions.”\nCeer’s expansion forms part of a broader effort to build manufacturing capacity and bring more of the automotive supply chain into Saudi Arabia.\nThe National Industrial Development and Logistics Program targets an annual manufacturing capacity of 280,000 cars by 2030, along with the localization of 40% of the automotive value chain. That includes parts and components for both electric vehicles and internal combustion engine vehicles.\nThe ambition extends beyond assembling cars. Developing local suppliers would allow more of the spending associated with vehicle production to remain in the country.\nBy 2034, Ceer is projected to contribute $8 billion to Saudi Arabia’s gross domestic product and improve its trade balance by $21 billion, according to PIF.\nLouai Al-Zaher, chief wholesale bank officer at Arab National Bank, said the agreement reflected the lender’s role in supporting promising sectors, particularly automotive manufacturing, and advancing Saudi Vision 2030.\nMohammed Abu Al-Naja, chief corporate banking officer at Riyad Bank, said the financing reaffirmed its commitment to “supporting national industries and advancing sustainable transport in line with Saudi Vision 2030 and the Saudi Green Initiative.”\nABOUT THE AUTHOR\nMore",
+      "text_status": "ok"
+    },
+    {
+      "id": "d8b10ffc102c",
+      "title": "Humanoid Robotics Sector Gains Momentum as Agile Robots Raises $500M and Agility Goes Public",
+      "publisher": "Metrology and Quality News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSXM0U2NHTDBqdHN3dDVDUFM2dDdtdDVrWlZjTEJOam1fTjMwaVF3aEV4ajV6X0VScC1VVnJYSEpUZ1NxNFVXQjdMOXN0Z0VHM1RISnA1NFU1cWdCSExsc3FEMjFWUlRSQ3Q5d2pxWjZESXFHeVdaWHE3djlRcENTXzFQclp2cjBXTHh5QXU1NVEyYkZPWlg3MVpJMGxfelpSZVMzUlNLMWRlVU1JYUtaMlB4dGpCZw?oc=5",
+      "published_at": "2026-11-19T06:00:26.000Z",
+      "publisher_url": "https://metrology.news",
+      "snippet": "Humanoid Robotics Sector Gains Momentum as Agile Robots Raises $500M and Agility Goes Public Metrology and Quality News",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 500000000,
+        "currency": "USD",
+        "raw": "$500M"
+      },
+      "company_guess": "Humanoid Robotics",
+      "group_key": "humanoid robotics",
+      "group_rank": 0,
+      "resolved_url": "https://metrology.news/humanoid-robotics-sector-gains-momentum-as-agile-robots-raises-500m-and-agility-goes-public/",
+      "text": "Humanoid Robotics Sector Gains Momentum as Agile Robots Raises $500M and Agility Goes Public\nNovember 19, 2026\nTwo significant developments in the humanoid robotics sector highlight growing investor confidence and accelerating commercial adoption, with Germany’s Agile Robots securing $500 million in new funding and US-based Agility Robotics completing its business combination to become a publicly listed company on Nasdaq.\nThe developments reflect increasing investment in Physical AI, as robotics companies move beyond research and demonstration projects towards commercial deployments in manufacturing, logistics and other industrial environments.\nAgile Robots Raises $500 Million at $8.5 Billion Valuation\nMunich-based Agile Robots has raised $500 million in a Series F funding round at a valuation of $8.5 billion. The investment was led by SoftBank Group, with participation from Nvidia, Hitachi Ventures and T. Capital.\nThe latest funding brings Agile Robots’ total capital raised to approximately $2 billion. The company intends to use the investment to increase production capacity, expand into key international markets and accelerate the development of new robotics applications.\nLed by founder and CEO Dr. Zhaopeng Chen, Agile Robots develops and deploys Physical AI technologies, including humanoid and mobile robots, robotic arms and hands, alongside the software and AI models that enable them to perform increasingly complex industrial tasks.\nIts technology is designed to automate operations that have traditionally depended on human dexterity and decision-making, with applications spanning automotive manufacturing, consumer electronics, healthcare and service industries.\nAgile Robots reports more than 20,000 robotic solutions installed worldwide. The company plans to strengthen its presence in the United States while continuing to expand its manufacturing infrastructure in Germany.\nIn early 2026, it opened a new production facility in Fürstenfeldbruck, near Munich. The site has the capacity to manufacture up to 10,000 legged and wheeled humanoid robots annually, providing additional capacity to meet anticipated demand.\nAgility Robotics Becomes Publicly Listed Humanoid Robotics Company\nMeanwhile, US-based Agility Robotics has completed its previously announced business combination with Churchill Capital Corp XI, beginning trading on the Nasdaq Stock Market. The transaction and associated financing arrangements generated approximately $465 million in gross capital before expenses, making Agility the first publicly listed US pure-play humanoid robotics company with established commercial deployments.\nThe company enters the public markets with nearly three years of real-world deployment experience, more than 65,000 hours of robot operation, committed multi-year customer orders and US-based infrastructure designed to support commercial manufacturing and deployment at scale.\nAgility has secured more than $300 million in committed multi-year orders for its next-generation Digit 5 humanoid robot, subject to contractual milestones, product features and specifications.\n“AI is moving beyond the digital world and into the physical world, creating new possibilities for how people and machines work together,” said Peggy Johnson, CEO of Agility Robotics. “ At Agility, that future is already taking shape. Digit is doing real work in customer operations today, taking on repetitive, physically demanding tasks.”\nAgility’s flagship Digit platform is designed to operate in environments built for people, undertaking repetitive and physically demanding tasks while helping businesses address persistent labour shortages.\nExisting deployments include operations with global companies such as GXO Logistics, Schaeffler and Toyota Motor Manufacturing Canada.\nExpanding Industrial Applications\nAgility’s commercial deployment programme continues to develop. Its partnership with GXO has recently been expanded to include two additional US logistics facilities, with deployments planned for early 2027. This builds on an existing operation in Georgia, where Digit has moved more than 100,000 totes.\nThe company has also signed a commercial agreement with AGCO for a Digit pilot expected to begin in 2027. Three additional enterprise manufacturing customers are participating in paid programmes focused on specific industrial applications. These include a major global automaker, a leading automotive technology and components developer, and a global consumer products manufacturer.\nAgility reports an active pipeline of more than 30 prospective customers across automotive, manufacturing, aerospace, logistics, consumer products and defence.\nUnveiled in September 2026, Digit 5 incorporates developments based on several years of customer experience. These include proprietary cycloidal actuator technology designed to support repetitive lifting of up to 50 pounds (approximately 23 kg), interchangeable end effectors and expanded manipulation capabilities intended to extend the range of industrial workflows that can be automated.\nEarly customer access is expected to begin in the first half of 2027, with general availability targeted for the end of the year.\nPhysical AI, Safety and Manufacturing Scale\nAgility is also developing its underlying robotics and Physical AI platform through collaborations with NVIDIA, FORT Robotics and Nyobolt.\nDigit 5 is planned to use NVIDIA IGX Thor onboard computing, alongside integration of NVIDIA Halos safety technology. Its collaboration with FORT Robotics focuses on safety systems for industrial environments.\nBattery technology is another area of development. Through its partnership with Nyobolt, Agility is incorporating ultra-fast charging technology designed to recharge Digit 5 in approximately nine minutes and support more than 20 hours of productive operation within a 24-hour period.\nTo support commercial expansion, Agility has invested in a US manufacturing and development infrastructure that includes RoboFab",
+      "text_status": "ok"
+    },
+    {
+      "id": "c89bf1a02c22",
+      "title": "Asia Startup Funding: $335M Raised in Week 47",
+      "publisher": "Techloy",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0REl2NU56NmxrSDJzMl9FLWZIeHZ2Tk1MRmFveVNsbDlnOTRiX3F0UkVvZ3VMbmtROVpCWGZ0anBBOGRheGtUWmdwT0ZWZm5mV3d4VVhKVTNNZjI3YTAwQnJXTTlkS1M3RXlaampOTQ?oc=5",
+      "published_at": "2026-11-20T10:11:35.000Z",
+      "publisher_url": "https://www.techloy.com",
+      "snippet": "Asia Startup Funding: $335M Raised in Week 47 Techloy",
+      "source_feed": "gnews-2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 335000000,
+        "currency": "USD",
+        "raw": "$335M"
+      },
+      "company_guess": "Asia Startup",
+      "group_key": "asia startup",
+      "group_rank": 0,
+      "resolved_url": "https://www.techloy.com/week-47-asia-startup-funding-megarobo/",
+      "text": "/ Startups\n/ Startups\nTech in Asia\nTech in Asia\nWeek 47: Asia Startups Raise $335M in Funding Led by MegaRobo\nAsian startups secured over $335 million across AI, fintech, semiconductors, healthcare and waste management.\nOnly for members\nNov 20, 2026\nby\nOgbonda Chivumnovu\nAsian startups attracted approximately $335 million in fresh funding and financing commitments this week, led by major deals in laboratory automation, digital insurance and semiconductor technology.\nChina's MegaRobo topped the announcements with nearly $200 million in new funding, while Thailand's Roojai secured a $35 million debt facility. Indian startups also attracted capital across semiconductors, fintech, waste management, AI infrastructure and healthcare.\nThe Week's Biggest Startup Funding Rounds\nThese are some of the top startup funding rounds this week, from highest to lowest:\n/1. MegaRobo, Nearly $200 Million, Laboratory Automation, China\nChina-based laboratory automation company MegaRobo has secured nearly $200 million in a new funding round led by the Oman Investment Authority.\nThe investment will support research and development, product expansion, and international partnerships as the company expands its AI-powered automation technologies across laboratories and manufacturing facilities.\n/2. Roojai, $35 Million, Insurtech, Thailand\nThailand-based digital insurance company Roojai has secured a debt facility of up to $35 million from London-based private credit firm Lendable.\nAnnounced on November 16, 2026, the financing will support the company's operations and growth in the digital insurance market.\n/3. Bharat Semi, $24 Million, Semiconductors, India\nIndian semiconductor startup Bharat Semi has raised $24 million in seed funding to develop AI-powered smart sensors.\nThe round was led by Info Edge Group, South Park Commons and Indus Bridge Ventures, with participation from Micromax, Valour Capital, Gaingels and angel investors.\nSubscribe for free to continue reading this article\nSubscribe\nSubscribe\nAlready have an account?\nLog in\n&times;\nBy subscribing, you agree to receive emails from Techloy. You can unsubscribe at any time.\n/ Startups\n/ Startups\nTech in Asia\nTech in Asia\nOnly for members\nNov 20, 2026\nby\nOgbonda Chivumnovu\nDid you enjoy this story?\nShare it with others and make quality stories reach more people.\nBy signing up, I agree to the terms of service and community guidelines .\nRead Next\nHow I Reclaim Storage and Eliminate Stubborn Windows Bloatware With The Best Software Uninstaller",
+      "text_status": "ok"
+    },
+    {
+      "id": "3c358acb64ee",
+      "title": "Week 47: Africa and Middle East Startups Raise $169.5M, Led by Corma",
+      "publisher": "Techloy",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YbXMzb0JxNkxFRF82bkJqMzlQYll0ek8xQks4RFBjanZqaDA5dDJNd2xsdmRaelpmQ3htOElvM2c0YjNoXy1JV3QyREkxQWV1bXpkeUdSS2twbVFyNWlIYXZIVk5rT0g2MEJTYmtkYzB4T2pjcnc?oc=5",
+      "published_at": "2026-11-20T09:51:35.000Z",
+      "publisher_url": "https://www.techloy.com",
+      "snippet": "Week 47: Africa and Middle East Startups Raise $169.5M, Led by Corma Techloy",
+      "source_feed": "gnews-g5",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 169500000,
+        "currency": "USD",
+        "raw": "$169.5M"
+      },
+      "company_guess": "Week 47: Africa and",
+      "group_key": "week 47 africa and",
+      "group_rank": 0,
+      "resolved_url": "https://www.techloy.com/week-47-africa-middle-east-startup-funding/",
+      "text": "/ Startups\n/ Startups\nTech in Africa\nTech in Africa\nTech in the Middle East\nTech in the Middle East\nWeek 47: Africa and Middle East Startups Raise $169.5M, Led by Corma\nStartups raised $169.5 million this week, and Israeli AI security startup Corma took most of it with a $125 million Series A.\nOnly for members\nNov 20, 2026\nby\nDamilare Odedina\nStartups across Africa, the Middle East and Israel raised a combined $169.5 million this week, based on disclosed funding rounds tracked by Techloy, with investor capital flowing mostly into AI security. That's down from $258.6 million last week, and Corma's $125 million Series A alone made up about 74% of it.\nThe Week's Largest Startup Funding Rounds\nHere are the biggest disclosed startup funding rounds across Africa, the Middle East and Israel this week.\n1. Corma, $125M, AI Cybersecurity, Israel\nCorma, co-headquartered in Tel Aviv and San Francisco, trains AI models built specifically for defending companies against cyberattacks. NEA led its $125 million Series A at a $1 billion valuation, three months after a $60 million seed, and the money goes towards more computing power and better models.\n2. GlassPoint, $24M, Clean Energy, UAE\nGlassPoint, which moved its leadership team to the UAE this year, builds solar plants that supply factories with heat under long-term contracts. N.I.S. led the $24 million round, with MITO Tech Ventures joining, to set up operations in Saudi Arabia, Kuwait, and Oman and hire senior staff.\nSubscribe for free to continue reading this article\nSubscribe\nSubscribe\nAlready have an account?\nLog in\n&times;\nBy subscribing, you agree to receive emails from Techloy. You can unsubscribe at any time.\n/ Startups\n/ Startups\nTech in Africa\nTech in Africa\nTech in the Middle East\nTech in the Middle East\nOnly for members\nNov 20, 2026\nby\nDamilare Odedina\nDid you enjoy this story?\nShare it with others and make quality stories reach more people.\nBy signing up, I agree to the terms of service and community guidelines .\nRead Next\nWeek 47: Asia Startups Raise $335M in Funding Led by MegaRobo",
+      "text_status": "ok"
+    },
+    {
+      "id": "21dc5ace6201",
+      "title": "Imagen Raises $100M to Recruit Radiologists",
+      "publisher": "Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2RldGdFZzJ6a2M3SUVfdWNvcUNFMHNyQTRYOERUeWZxcGtNU191eVFxYUNiMmJ6eDFrXzU5a1lTd253elVyT19TX25yeXNsbkpNdmJLWC1TVmNnMkVtQ01uN3VWVHFNNUNXdXRFVFpUNVBlSlpUbUNXelVQeWFqU1R5QnBzVm9iR0VzU09R?oc=5",
+      "published_at": "2026-11-19T18:33:20.000Z",
+      "publisher_url": "https://wisevoter.com",
+      "snippet": "Imagen Raises $100M to Recruit Radiologists Wisevoter",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100M"
+      },
+      "company_guess": "Imagen",
+      "group_key": "imagen",
+      "group_rank": 0,
+      "resolved_url": "https://wisevoter.com/world/us/2026/11/19/imagen-raises-100m-radiologists-ai-training",
+      "text": "Home\n› World\n› U.S.\n› Business\n› Industry\n› Healthcare\nImagen Raises $100M to Recruit Radiologists\nThe AI-powered New York radiology practice will use the funding for clinical staff, infrastructure and technology.\nUpdated on Nov. 19, 2026 in Healthcare\nLive Poll\nWould you trust an AI-assisted radiology reading of your medical scan?\n▲ Yes ▼ No\nImagen, an AI-powered radiology practice based in New York, raised $100 million to recruit radiologists and train AI models. The company also gained rights to up to 150 million additional imaging studies.\nWhy it matters\nMedical scans are flooding hospitals while the number of radiologists is too few to handle them, making staffing and AI-assisted interpretation a pressing concern. Imagen's expansion reflects an effort to close that gap across the United States.\nImagen interprets more than 2 million studies annually across 28 states and has gained rights to up to 150 million additional imaging studies, including X-rays, CT, MRI and ultrasound. Its valuation, revenue and lead investor were not disclosed with the $100 million raise.\nThe players\nImagen\nAn AI-powered radiology practice based in New York that interprets imaging studies across 28 states using FDA-cleared AI tools.\nAidoc\nA radiology artificial intelligence company that secured $150 million in April to fund its radiology AI platform.\nSerge Sicular\nA public figure associated with the company's leadership and strategy.\nThe details\nImagen will direct the $100 million toward clinical resources, operational infrastructure and technology, and its practice uses FDA-cleared AI tools. The company, established in 2015, employs more than 230 radiologists and cardiologists. Aidoc separately secured $150 million in April for its own radiology AI platform.\nTimeline\nImagen was established in 2015.\nImagen's staff count doubled in the previous year.\nAidoc secured $150 million for its radiology AI platform in April.\nImagen's $100 million raise was published on November 19, 2026.\nThe coming few quarters are expected to clarify Imagen's next steps.\nHealthcare Landscape\nImagen's model of pairing FDA-cleared AI tools with a large radiologist workforce extends the use of cleared radiology software into a full clinical service. Its growth reflects broader pressure on U.S. imaging capacity as scan volumes outpace the supply of radiologists.\nPatients and referring clinicians across the United States may see faster imaging interpretation as AI-assisted radiology services expand. Expanded staffing could ease backlogs, though how these changes affect costs and access has not been disclosed.\nThe takeaway\nGrowing scan volumes make AI-assisted radiology services worth watching for faster results. Patients can ask their providers which imaging services use AI tools and how reads are reviewed.\nFurther reading\nExplore more in Healthcare coverage of how AI is reshaping medical imaging.\nSource note: This article includes information reported by Ventureburn.\nLive Poll\nWould you trust an AI-assisted radiology reading of your medical scan?\n▲ Yes ▼ No\nWE Participate i\nUpload story photo ↗\nUpdate this story ↗\nSubmit a new story ↗\nToday's stories\nCrime 1\nBroadway Closed in Bangor After Crash\nWrestling 2\nRich Swann Confirms Free Agency After 2026\nArtificial Intelligence 3\nSurvey Finds AI Likely to Run Signal Timing Soon\nData Centers 4\nEcoasis Plans 272-Acre Greenhouse Campus\nSecondary Education 5\nMaspeth High Opens Track and Hydroponic Classroom\nArts and Theater 6\nDetroit Institute Shows O'Keeffe's Architectural Works\nTrending polls\nAir Travel\nDo you think air travel is getting less reliable for everyday travelers?\n▲ Yes ▼ No\nBanking\nDo you trust your bank's online services to work when you need them?\n▲ Yes ▼ No\nAir Travel\nDo you trust that flights will run on time in the future?\n▲ Yes ▼ No\nData Centers\nDo you trust your everyday tech services, like iCloud and the App Store, to work reliably?\n▲ Yes ▼ No",
+      "text_status": "ok"
+    },
+    {
+      "id": "9c221bba0892",
+      "title": "Mistral blazes ahead with an additional €100 million to their Series D by T.Capital - EU-Startups",
+      "publisher": "EU-Startups",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1lVY3VDN0JBN2dvUlZUV1hQajdScERoeW9kZHFVRm9lbFVFUm4zZGk5YU5KaTNpVTJPUC1HMVFvd2paUzdDWWVQZkgwcVd6bW9IeGNBSTd2OXhSbmZaX0FxdVdXWVYwcEpMVDN1dnpIUjVaWjM0OXd5NHY5MnR6S19RZ2lxY1Z2T0pJMENvMDdNZ1p4QnYzVzZNZFFrRXJ4V3luWU43LTlRUU0yVWN6eVRLZzZXM2ExX2NMNg?oc=5",
+      "published_at": "2026-11-19T12:14:42.000Z",
+      "publisher_url": "https://www.eu-startups.com",
+      "snippet": "Mistral blazes ahead with an additional €100 million to their Series D by T.Capital EU-Startups",
+      "source_feed": "gnews-7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "EUR",
+        "raw": "€100 million"
+      },
+      "company_guess": "Mistral blazes ahead with",
+      "group_key": "mistral blazes ahead with",
+      "group_rank": 0,
+      "resolved_url": "https://www.eu-startups.com/2026/11/mistral-balzes-ahead-with-an-additional-e100-million-to-their-series-d-by-t-capital/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "488d1c0f1365",
+      "title": "BrightAI Raises $51M to Expand Sensor Monitoring",
+      "publisher": "Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUUFJVnIxc01nejVLTlhGTXZ0VkNIRmwtZGlHcWptVXEyNnp2LUQ2VlZqSHpTaUFsRVhMdHZZWGdwZTJkTk9HSmFDRklLNWRvOGdILVRnMmIxbjNGSGZlM1dNWnVZNlZ6SHAzVVc2am5WOHgxY0x6WFlkZHhUUmxmZng3akp6bmJQOFFyaDM5b1VhdlBCX2xRSmY1LWg0ZXpMNmtoVVpMc0dkUXZ4RWc?oc=5",
+      "published_at": "2026-11-18T18:42:12.000Z",
+      "publisher_url": "https://wisevoter.com",
+      "snippet": "BrightAI Raises $51M to Expand Sensor Monitoring Wisevoter",
+      "source_feed": "gnews-6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 51000000,
+        "currency": "USD",
+        "raw": "$51M"
+      },
+      "company_guess": "BrightAI",
+      "group_key": "brightai",
+      "group_rank": 0,
+      "resolved_url": "https://wisevoter.com/world/us/ca/san-francisco/2026/11/18/brightai-raises-51m-infrastructure-sensor-platform",
+      "text": "Home\n› World\n› U.S.\n› California\n› San Francisco\n› Business\n› Startups\nBrightAI Raises $51M to Expand Sensor Monitoring\nThe San Francisco startup's sensor-driven platform monitors infrastructure continuously instead of on fixed inspection schedules.\nUpdated on Nov. 18, 2026 in Startups\nBrightAI, a San Francisco startup founded in 2019, raised $51 million in a Series A round in mid-2025 to expand its sensor-based infrastructure monitoring platform. AI Illustration. Upload story photo >\nLive Poll\nDo you trust your local utilities to keep water and power systems well maintained?\n▲ Yes ▼ No\nBrightAI, a San Francisco company founded in 2019, closed a $51 million Series A round in mid-2025. The startup has deployed 250,000 sensors across its customer base through its Stateful platform.\nWhy it matters\nRoughly two of every three scheduled inspection trips find nothing that needs repair, while breakdowns tend to occur between inspections. Continuous sensor monitoring is positioned as a way to catch those gaps.\nBrightAI reports 250,000 deployed sensors, $78 million in total funding and $80 million to $100 million in revenue from seven enterprise customers, against a global infrastructure management market of $4.5 trillion in annual spend. The revenue and valuation figures are reported estimates and have not been independently audited.\nThe players\nBrightAI\nA San Francisco startup founded in 2019 that builds sensor-driven infrastructure monitoring through its Stateful platform.\nKhosla Ventures\nA venture capital firm founded by Vinod Khosla that backs early-stage technology companies.\nUpfront Ventures\nA Los Angeles-based venture capital firm that invests in seed and early-stage startups.\nInspired Capital\nA venture investment firm that participated in BrightAI's funding history.\nThe details\nBrightAI attaches peel-and-stick sensors to existing infrastructure and combines them with drones and multimodal AI to monitor assets. The platform tracks conditions continuously rather than relying on periodic inspections.\nTimeline\n2019: Hawkinson founds BrightAI in San Francisco.\nMid-2025: BrightAI closes a $51 million Series A round.\nMarket Landscape\nBrightAI's approach follows the broader move in infrastructure management from fixed inspection schedules toward continuous condition-based monitoring. The company's growth reflects competition for a $4.5 trillion annual global market in which operators are looking to reduce unplanned downtime.\nFacility managers and operators who rely on scheduled inspections may see sensor-based monitoring offered as an alternative to fixed inspection trips. Buyers evaluating such services would need to weigh deployment costs against the reported reduction in unnecessary inspections.\nThe takeaway\nContinuous monitoring can shift maintenance from reacting to scheduled checks toward catching problems in the gaps between them. Organizations comparing options should ask vendors for verified results rather than deployment counts alone.\nFurther reading\nExplore more San Francisco startup news to see how local companies are building new business models.\nSource note: This article includes information reported by Crypto Briefing.\nLive Poll\nDo you trust your local utilities to keep water and power systems well maintained?\n▲ Yes ▼ No\nWE Participate i\nUpload story photo ↗\nUpdate this story ↗\nSubmit a new story ↗\nToday's stories\nPeople 1\nPerigon Wealth Names Christopher Broderick Investments Director\nCulture 2\nRainbow Honor Walk Installs Phyllis Lyon Plaque\nArtificial Intelligence 3\nDeere Buys San Francisco Ag-Tech Firm Orchard AI\nPolitics 4\nSan Francisco Brings Real Christmas Tree to Union Square\nEducation 5\nSFUSD to Resume Lead Paint Removal at DeAvila School\nTravel 6\nOlympic Club Buys San Francisco Hotel for $8 Million\nTrending polls\nAir Travel\nDo you think air travel is getting less reliable for everyday travelers?\n▲ Yes ▼ No\nBanking\nDo you trust your bank's online services to work when you need them?\n▲ Yes ▼ No\nAir Travel\nDo you trust that flights will run on time in the future?\n▲ Yes ▼ No\nData Centers\nDo you trust your everyday tech services, like iCloud and the App Store, to work reliably?\n▲ Yes ▼ No",
+      "text_status": "ok"
+    },
+    {
+      "id": "93829188e558",
+      "title": "Ex-Nazara CEO Manish Agarwal's Humyn Labs raises $47 million to record human work for robots",
+      "publisher": "Indian Startup News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON0R3UnlwcTA5VXpZU2dwSWVMRzd2aUoyNzh2aTBxU2o1YkVWdnE0SlhmN0ZMeklvd08yWDY2Q0hTQnp6NlpCS284V3pFMWJqRjhreU4xQjFSMVhWQjlmRDhVUFZBeF90aW5LOG51WEpteExBQTFoRzFIejlhcWdRR1JzODE0N2FjZUVhbkc0b01NVmZvTnl2QkpJa3ZTX0doMEJFT0VuckpzZG1jU2JCV3h3amZ3bDBKejFBeEg4YjJrS3YxdHBCb0tBRzNDeFZveHZV0gHTAUFVX3lxTE43RHdSeXBxMDlVellTZ3BJZUxHN3ZpSjI3OHZpMHFTajViRVZ2cTRKWGY3Rkx6SW93TzJYNjZDSFNCeno2WkJLbzhXekUxYmpGOGt5TjFCMVIxWFZCOWZEOFVQVkF4X3Rpbks4bnVYSm14TEFBMWhHMUh6OWFxZ1FHUnM4MTQ3YWNlRWFuRzRvTU1WZm9OeXZCSklrdlNfR2gwQkVPRW5ySnNkbWNTYkJXeHdqZndsMEp6MUF4SDhiMmtLdjF0cEJvS0FHM0N4Vm94dlU?oc=5",
+      "published_at": "2026-11-19T13:20:34.000Z",
+      "publisher_url": "https://indianstartupnews.com",
+      "snippet": "Ex-Nazara CEO Manish Agarwal's Humyn Labs raises $47 million to record human work for robots Indian Startup News",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 47000000,
+        "currency": "USD",
+        "raw": "$47 million"
+      },
+      "company_guess": "Ex-Nazara CEO Manish Agarwal's",
+      "group_key": "ex nazara ceo manish agarwals",
+      "group_rank": 0,
+      "resolved_url": "https://indianstartupnews.com/funding/ex-nazara-ceo-manish-agarwals-humyn-labs-raises-47-million-to-record-human-work-for-robots-12823944",
+      "text": "Funding Fusion\nNews\nEx-Nazara CEO Manish Agarwal's Humyn Labs raises $47 million to record human work for robots\nSumit Vishwakarma\n19 Nov 2026\n18:50\nIST\nFollow Us\nNew Update\nBengaluru-based physical AI startup Humyn Labs has raised $47 million in a Series A round made up of equity and venture debt.\nAdvertisment\nThe $26 million equity tranche was led by Accel , with participation from Prosus Ventures, BeeGlobal, Finserv Intelligence through Bajaj Finance, Bajaj Alts AI Opportunities Fund, Dallas Venture Capital, Lighthouse Canton, Jump Trading and angel investor Anita Pramoda, former CFO of Epic.\nThe $21 million venture debt tranche was led by Lighthouse Canton, with Trifecta Capital participating, the startup said . Equity accounts for roughly 55% of the total.\nIt has not disclosed its valuation.\nWhere the capital will go\nHumyn Labs said it will use the capital to build what it calls deployment-readiness infrastructure in Brazil, South Korea and India, where robots can be tested in real-world settings. It will also put money into its capture hardware and its data processing engine, and expand its research and market presence in San Francisco, London and Seoul.\n&ldquo; Physical AI will only be as good as the real-world data it learns from. This funding will help us strengthen our research, build trust with labs and enterprises, and expand our global presence. With a $10 billion opportunity emerging in data infrastructure, we aim to build a $1 billion annual revenue business and establish ourselves as a global leader in the space, &rdquo; said Manish Agarwal, co-founder of Humyn Labs.\nPratik Agarwal, Partner at Accel, said data and deployment &ldquo; are where the real moat will be built &rdquo; in physical AI .\nWhat Humyn Labs does\nRobots being built to work in homes, factories and warehouses need large volumes of footage showing how humans actually handle objects and move through physical spaces. Text and video scraped from the internet do not provide that.\nHumyn Labs fills the gap with its own capture devices. Its head-worn camera, called egoS1, records people doing tasks from a first-person view. The device has global-shutter stereo cameras recording at 1080p and 30 frames per second, a field of view of over 130 degrees, with the startup's processing engine producing depth, 3D head motion and 21-point hand tracking, according to the startup .\nIts software then validates and labels the footage, tracking hand movements and interactions with objects. The output consists of training-ready datasets covering sight, sound, motion and touch, with verified provenance, which robotics teams can integrate into their training pipelines.\n&ldquo; A robot does not learn a job from the internet. It learns it from the person who has done it for twenty years, on the floor where it will be done, &rdquo; said Ishank Gupta, co-founder of Humyn Labs.\nThe startup runs data collection across more than 20 countries in Latin America, East Asia, and South and Southeast Asia, with Brazil, India and South Korea as its main hubs. It has 51 full-time employees, most of them in Bengaluru, and works with local partners in the countries where it collects data.\nThe $50 million ARR claim\nHumyn Labs said it crossed $50 million in annualised revenue within six months of starting operations.\nAgarwal told TechCrunch the startup generated $10 million in revenue between April and October, has another $20 million in signed contracts, and a further $20 million in deals that are yet to be finalised. Those three figures together add up to $50 million, but combining past revenue, signed contracts and prospective deals does not establish annualised revenue.\nIt has 12 paying customers, spanning frontier AI labs, humanoid robotics companies and world-model developers, and about 90% of its revenue comes from the US, according to Gupta. The startup has not named its customers.\nIn April, Humyn Labs had announced a $20 million commitment to fund data collection across India, Southeast Asia, Latin America and West Asia. At the time it said it was expanding voice data capabilities across 33 languages, dialects and accents, and planned to launch Robotics Labs for simulation environments and world models.\nThe founders and KGeN\nFounded in February 2026 by Agarwal, the former CEO of gaming company Nazara Technologies, and Gupta, a former AB InBev executive, the startup converts footage of people performing everyday tasks into training data for robots.\nThe two earlier co-founded Kratos Studios, now known as KGeN, a blockchain-based platform that verifies real users for AI, gaming and decentralised finance companies. KGeN raised $13.5 million in October 2025 from Prosus Ventures, Jump Crypto and Accel, taking its total funding to $43.5 million. Two of those backers, Accel and Prosus Ventures, are also in Humyn Labs' round.\nKGeN's network of contributors across emerging markets helps Humyn Labs collect data inside people's homes, the founders told TechCrunch.\nRecording people at work and at home to train machines has raised questions about privacy and consent, particularly for footage captured inside homes. Recordings in homes and factories can pick up personal information, which puts the focus on how consent is taken and how the data is stored.\nHumyn Labs is one of several startups selling real-world human data to robotics developers. Its competitors include Mecka AI, XDOF, MicroAGI, Human Archive and BuildAI.\nFunding\nAI\nAccel\nBengaluru\nAngel Investor\nSubscribe to our Newsletter!\nBe the first to get exclusive offers and the latest news\nSubscribe Now\nRelated Articles\nRead the Next Article",
+      "text_status": "ok"
+    },
+    {
+      "id": "ea4f03f6a80b",
+      "title": "Dutch startup Gradyent lands €20 million EIB loan to expand digital twin technology across Europe's heating networks - EU-Startups",
+      "publisher": "EU-Startups",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLUNpSUdNejdDSXdJODJVXy1zMW42MXZMQ21BUFVoazVpSi1rN1UxQ05rMkdlOGJmY19MTy1xX0p3a2VzTVp3RkVYMlJ1cUVveWs1cWxmbDNxQm9SVmZMbUpKaHZLUllMMGk4OXZ5cDBSYTA2T3ZiQTluRUR6RFNKMXJsODB0MG1CWERZV0Y5N25XMWk3X2dwR0toSjYzdUlKQ0FvYVhoY0lxU2FHQkdfeEppZF92RzRLVEgtcFNFX3B3eGVYWmliOXBJZjJYb3U4T2FkS0hreGxIejlYMVk0QlVpQ1RpTU0?oc=5",
+      "published_at": "2026-11-20T07:41:14.000Z",
+      "publisher_url": "https://www.eu-startups.com",
+      "snippet": "Dutch startup Gradyent lands €20 million EIB loan to expand digital twin technology across Europe's heating networks EU-Startups",
+      "source_feed": "gnews-g6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "EUR",
+        "raw": "€20 million"
+      },
+      "company_guess": "Gradyent",
+      "group_key": "gradyent",
+      "group_rank": 0,
+      "resolved_url": "https://www.eu-startups.com/2026/11/dutch-startup-gradyent-lands-e20-million-eib-loan-to-expand-digital-twin-technology-across-europes-heating-networks/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "8f639169d645",
+      "title": "Wepinion Inc. Raises $500K Pre-Seed Round After Solo Founder Builds Platform With 30,000 AI Prompts",
+      "publisher": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUJuVGRfV19uWmxENUpnd2kzQVJJcW5MYl9fSHJVelFIc095QklRbmVBUHVOcE1KQnJwNUtfOWNsdkZHOFUzaktSWjZuUi01LUJwWm9xOTZrUVJxc1JPcjZocUtoU3AyNnBsVFJ4SVprWFdwWXQ0VGtaM2txeDlCWHVjXy1fS1RyNHktMzk5LVlxZWxnVS1B?oc=5",
+      "published_at": "2026-11-18T13:11:00.000Z",
+      "publisher_url": "https://finance.yahoo.com",
+      "snippet": "Wepinion Inc. Raises $500K Pre-Seed Round After Solo Founder Builds Platform With 30,000 AI Prompts Yahoo Finance",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Wepinion Inc.",
+      "group_key": "wepinion",
+      "group_rank": 0,
+      "resolved_url": "https://finance.yahoo.com/technology/ai/articles/wepinion-inc-raises-500k-pre-131100523.html",
+      "text_status": "error:fetch failed"
+    },
+    {
+      "id": "3f5b5fe7099d",
+      "title": "Wepinion Inc. Raises $500K Pre-Seed Round After Solo Founder Builds Platform With 30,000 AI Prompts",
+      "publisher": "Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdkhFT0ppVHFWS3gxUXRYUWFzaEJIemI3dkJqVFZpdUkzQnZIQWpqU3VhSjVwSWt0M1lzczZXQV8xTTFjRnd4TGlWcHM2ZlhaTHJrNzhOSTJDeXdXcW1nWFNVaWRhYXhmS3IzS21jeDJhTE5hSGlLYzJESDh0Skd4WHlRNXJXNkdydlJWTzJuckR2UFVrQ205YnU3UHA2UUFjOUtOYm9XZ0tldFhBc203Vlh5TFVGWV9DS3FRLWtSNFJ5b3VJeXNUVzlRMjl4eS00a0lRTmZkVlZjSGg0MHdBd2d6TXp4UEFBb0hkLXp3Zw?oc=5",
+      "published_at": "2026-11-18T13:11:00.000Z",
+      "publisher_url": "https://www.morningstar.com",
+      "snippet": "Wepinion Inc. Raises $500K Pre-Seed Round After Solo Founder Builds Platform With 30,000 AI Prompts Morningstar",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Wepinion Inc.",
+      "group_key": "wepinion",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "a7be11187761",
+      "title": "Australian startups raise from Series C to seed across five sectors",
+      "publisher": "Dynamic Business",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEpDcmp3M0RBRW95bndvWXNrSU8zV0MtbGp2S0Fyd0dkcUZoLU9qaXFraGh4WTJXMFdodUxqcDBpbDFySU5BLUp5ZElHRGZMYmJ3WE9qQ3Roby13S0pDcm44NkliQlZzRUJxQWhITkhnZG9zTU9PZUs0eHFucGk5dXIyRFJrOUJ4T2NlemQtSW9OTW9RNlFTTktiTlFIQUZrSlgtUjFPYm5zUDliMWpQOW9WZDFZdjEwREE?oc=5",
+      "published_at": "2026-11-20T04:03:34.000Z",
+      "publisher_url": "https://dynamicbusiness.com",
+      "snippet": "Australian startups raise from Series C to seed across five sectors Dynamic Business",
+      "source_feed": "gnews-2",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Australian startups",
+      "group_key": "australian startups",
+      "group_rank": 0,
+      "resolved_url": "https://dynamicbusiness.com/funding-and-investment/australian-startups-raise-from-series-c-to-seed-across-five-sectors",
+      "text": "Home\n/ Funding | Investment\nAustralian startups raise from Series C to seed across five sectors\nQuantum software, stroke robotics, cattle feed, insolvency AI and office drink dispensers: here are five Australian companies that announced funding this week. Q-CTRL raised US$290 million in a Ser…\nYajush Gupta\nFunding | Investment · 20 Nov 2026 · 2 min read\n☆ Save\nAbove Australian startups raise from Series C to seed across five sectors . Dynamic Business\nQuantum software, stroke robotics, cattle feed, insolvency AI and office drink dispensers: here are five Australian companies that announced funding this week.\nQ-CTRL raised US$290 million in a Series C\nSydney-based quantum software company Q-CTRL has raised US$290 million (A$415 million) in a Series C led by Salesforce Ventures, with significant participation from Bullhound Capital and Affinity Partners.\nNew investors include AMD Ventures, EDGE Group, MPower Partners, Australia’s National Reconstruction Fund Corporation and SPARX Asset Management. Returning backers include DCVC, In-Q-Tel, Lockheed Martin Ventures, Main Sequence and Square Peg.\nThe company says the round was oversubscribed, expanded twice and is the largest quantum-sector fundraise for a software-focused business. Salesforce Ventures first backed Q-CTRL in 2023, when it joined a US$27.4 million Series B extension .\nFounded in 2017 by Professor Michael J. Biercuk, Q-CTRL builds AI-powered infrastructure software for quantum technology. Its main product, Ironstone Opal, is a quantum navigation system designed to work when GPS is unavailable.\nRemedy Robotics raised US$62 million in a Series B\nRemedy Robotics has raised US$62 million in a Series B led by DCVC.\nNew investors include UC Investments, Skip Capital and Hostplus, one of Australia’s largest pension funds. Existing investors Build Collective by Tony Fadell, Blackbird, Divergent Capital and KdT Ventures also took part. The company previously raised US$35 million across its seed and Series A rounds.\nRemedy develops AI-enabled robotic systems for stroke and other cardiovascular procedures. Its N1 System completed what the company says were the world’s first fully remote neurointerventional procedures in October 2025, and it partners with the Australian Stroke Alliance.\nThe funds will go towards a planned pivotal clinical trial with the University of California and advancing towards FDA approval. The company is headquartered in San Francisco, and its CEO and co-founder is Dr David Bell.\nProvectus Algae raised US$4.3 million in a Series A extension\nNoosaville-based Provectus Algae has closed a US$4.3 million extension to its Series A, bringing total Series A funding to more than US$14 million.\nAt One Ventures led the original Series A. The extension welcomed Queensland Investment Corporation as a new investor, including through the Queensland Government’s A$30 million Sowing the Seeds of Farming Innovation Fund. The government’s share was A$2.8 million , which brings total state investment in the company to A$3.8 million.\nProvectus Algae is an Australian biotechnology company that uses AI-enabled discovery and biomanufacturing to develop biological products for agriculture, crop protection and human nutrition. Founder and CEO Nusqe Spanton leads the company.\nIts Surf’N’Turf cattle feed was trialled on more than 2,700 cattle with lot-feeder Mort & Co and showed a 67% reduction in methane. It is now being commercialised through Proteus Ag, with Queensland manufacturing capacity being scaled to supply 250,000 cattle in 2027.\nMorgan AI raised A$3.65 million in a seed round\nHobart-based Morgan AI has raised A$3.65 million in a seed round led by Blackbird. SideStage Ventures, Archangel, TEN13, The Eights, BlackSheep and a group of insolvency industry experts also took part.\nFounders Josh Abulafia and Elle Curran previously ran food delivery startup ChefPrep, later CoLab, which raised a $3 million seed round in 2022 and entered voluntary administration in 2023. They named Morgan after the EY insolvency practitioner who worked with them during that process.\nThe company is building an AI-based operating system for restructuring and insolvency work. It automates investigations, reporting and case management, and turns scattered financial records into structured data. WLP Restructuring is one of its design partners.\nThe funds will go towards hiring, product development and expansion into overseas markets, starting with the UK.\nRefilled raised A$5.6 million in a Series A\nSydney startup Refilled has raised A$5.6 million in a Series A led by OIF Ventures. Existing investor Melt Ventures took part, along with a personal investment from fund manager David Paradice.\nMelt also led Refilled’s A$1.3 million seed round in 2023, which included Envato co-founders Cyan and Collis Ta’eed. The company has now raised A$7.5 million in total.\nRefilled makes Australian-built smart drink dispensers, called Refillers, that serve flavoured still and sparkling water to offices and hotels as an alternative to bottled drinks. The company emerged from the University of Technology Sydney, and customers include Google, Meta and Atlassian.\nTags\n# funding\n✦ Ask DB about this story\n\"What does this mean for my business?\"\nAsk the desk a follow-up and every answer comes grounded in 27 years of Dynamic Business reporting — with citations to the stories that back it up.\nAsk AI\nAsk\nYajush Gupta\nYajush Gupta is the Editorial Lead and a business journalist for Dynamic Business, an Australian media platform focused on small and medium enterprises (SMEs) and startups.\nFrom the floor\nCloser to this story than we are?\nIf you're building in this space — or watching it reshape your market — pitch us. We edit it; you get the byline. Pitch a story →",
+      "text_status": "ok"
+    },
+    {
+      "id": "9912193c1146",
+      "title": "The startup Wilco raises 2.5 million in a round led by Samaipata",
+      "publisher": "Demócrata",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcEFvRU1hZHYxbXhQWWY5aDJRRnBNUUd0d2tZeXFSUVA5djVhYW8ySnM4Smt1TW4tc0hKNDk0VGs1TlVhNWdmTUducURra2ZaWW9TTk1YaW1MVDE2ekJRQkNyaHdCLXQyLUdSRU5lN2VJMHFkcFVUbHZ1MGFJVVNCUVBjSWFMejhVUEtqcDQtd0pGcDlmcDNiYUdfQ2YtTFlZUVVodXZ2clLSAagBQVVfeXFMT3BBb0VNYWR2MW14UFlmOWgyUUZwTVFHdHdrWXlxUlFQOXY1YWFvMkpzOEprdU1uLXNISjQ5NFRrNU5VYTVnZk1HbnFEa2tmWllvU05NWGltTFQxNnpCUUJDcmh3Qi10Mi1HUkVOZTdlSTBxZHBVVGx2dTBhSVVTQlFQY0lhTHo4VVBLanA0LXdKRnA5ZnAzYmFHX0NmLUxZWVFVaHV2dnJS?oc=5",
+      "published_at": "2026-11-19T07:02:29.000Z",
+      "publisher_url": "https://www.democrata.es",
+      "snippet": "The startup Wilco raises 2.5 million in a round led by Samaipata Demócrata",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Wilco",
+      "group_key": "wilco",
+      "group_rank": 0,
+      "resolved_url": "https://www.democrata.es/en/economy/the-startup-wilco-raises-2-5-million-in-a-round-led-by-samaipata/amp/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "4c7dee2b27fd",
+      "title": "Top News Today: Brain-Chip Therapy Startup Raises Funding, Freshers Face Campus Hiring Changes",
+      "publisher": "Analytics Insight",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTMzSGx0NHJQczk1ZWh2eUhEU0JoWktfdzZxcGswZnZWT1c4aUpmLWpVbGVab2FmNmFHalphRWZXYS10UGFlVi1lZUpSVGk5Uk1RdFdDakEtbDdEVXZXYU9EUkh0eTkyaTQ2VmdFU3JxM0tVWHBMcGJIYm9CMFpVb2ZtbWFqai13VWhpSTJOZTVKVWdONjVCRVg1UExXemFpZVRLbHFaUkstdGp3NERETTRUVk0xZm01cXR3amw3cTQtU1RnSzc0dC1BNzV0VEpw0gHeAUFVX3lxTE1FemluMFVkOVRYWDdad3pBWnNBcEN1N0NsR25jcndFOFc0Mi10dEstQzluWDFIbVdJX2RsbVYxc3ZQbmZCQXBoQ3lvUkgyeWdSX1YwUUE3SUJmSXMwYVBXdldIMnFyd1NXaHRsWTFsaGJJbDRTRldLaUZ6QmFDaF9jdjh1U09xU0t2dTh2d3RfNjVzVlZ2aTBLazRjZ0JlSGhZeHdHdUppT1BFYWdEQ2F2RHFEakhWNXp4X3dsUzBWcEp1d0tidXI2UVRTT24tU0lJd3F6N25lcEhkcnlkZw?oc=5",
+      "published_at": "2026-11-19T07:46:15.000Z",
+      "publisher_url": "https://www.analyticsinsight.net",
+      "snippet": "Top News Today: Brain-Chip Therapy Startup Raises Funding, Freshers Face Campus Hiring Changes Analytics Insight",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Top News Today: Brain-Chip",
+      "group_key": "top news today brain chip",
+      "group_rank": 0,
+      "resolved_url": "https://www.analyticsinsight.net/tech-news/top-news-today-brain-chip-therapy-startup-raises-funding-freshers-face-campus-hiring-changes",
+      "text": "About Us\nTeam\nTrending\nContact Us\nAdvertise\nPromote\nUAE Edition\nहिन्‍दी\nBooks\nePaper\nRankings\nInsights\nCryptocurrencies\nGadgets\nStocks\nMagazines\nIndustry\nGeography\nMedia\nNews\nMore\nReviews\nInsights\nCryptocurrencies\nGadgets\nStocks\nMagazines\nIndustry\nGeography\nMedia\nNews\nMore\nReviews\nTech News\nTop News Today: Brain-Chip Therapy Startup Raises Funding, Freshers Face Campus Hiring Changes\nQingshi Yongjun raises hundreds of millions of yuan for brain-chip therapy, Indian recruiters return to campus testing, Variational reaches a USD 1.5 billion valuation, Ramp explores a USD 70 billion funding round, and AI reshapes manufacturing operations.\nWritten By:\nMurali Teja\nReviewed By:\nSomatirtha\nPublished on :\n19 Nov 2026, 7:46 am\nUpdated on :\n19 Nov 2026, 7:46 am\nCopied\nHello Tech Fam!\nBrain-computer interface technology, changing recruitment practices, cryptocurrency trading, fintech valuations, and artificial intelligence in manufacturing are driving today's technology and business headlines.\nWhat's New Today?\nChina's Qingshi Yongjun has raised hundreds of millions of yuan in Series A funding to develop brain-computer interface-based medical devices targeting depression and other neurological conditions. In India, recruiters are returning to in-person campus assessments, while internships are increasingly becoming a pathway to full-time employment.\nCrypto trading startup Variational has reached a USD 1.5 billion valuation after raising USD 110 million, while fintech company Ramp is reportedly exploring another funding round that could push its valuation beyond USD 70 billion. Meanwhile, artificial intelligence is transforming manufacturing through predictive maintenance, automated quality checks and smarter production systems.\nFast Track Insights\nToday's developments highlight five important shifts across technology, business and employment.\nBrain-computer interface startups are attracting investment to develop new treatments for depression and other brain disorders.\nIndian recruiters are bringing back campus-based tests, while internships play a bigger role in fresher hiring.\nVariational is challenging established crypto trading platforms with a market-making model inspired by traditional financial markets.\nRamp is reportedly exploring a fresh funding round that could value the fintech company above USD 70 billion.\nAI is helping manufacturers improve quality control, reduce downtime and optimize production and energy use.\nQingshi Yongjun Raises Hundreds of Millions of Yuan for Brain-Chip Therapy\nShenzhen-based Qingshi Yongjun closed a Series A round of several hundred million yuan in November 2026, led by Shenzhen Capital Group. The company develops high-end neuromodulation medical devices built around brain-computer interface technology, targeting depression and other brain diseases.\nRead More\nRecruiters are Going Back to In-Person Campus Tests\nIf you are a student or a fresher in India, today's news is about how hiring is done more than how much of it there is: recruiters are going back to campuses, internships are the main route to a full-time offer, and two public-sector engineer forms close tonight. Here is what is new since yesterday's digest, with a source for every figure.\nRead More\nA USD 1.5 Billion Crypto Startup is Taking on Hyperliquid with a Wall Street Playbook\nA relatively new name in cryptocurrency derivatives, Variational has reached a USD 1.5 billion valuation as it takes on Hyperliquid and other major trading platforms with a business model borrowed from Wall Street.\nThe Cayman Islands-based company raised USD 110 million in a Series B round led by Bain Capital Crypto, with participation from Dragonfly, HSG and Peak XV. Variational has processed more than USD 475 billion in trading volume since 2025, with more than half of its daily activity now tied to traditional markets.\nWhere Hyperliquid matches buyers and sellers on its exchange, Variational takes a different approach, using its own market maker to quote prices based on liquidity available through crypto exchanges and traditional financial institutions.\nRead More\nRamp in Talks to Raise USD 1B+ At USD 70B Valuation, a Month After its USD 60B Round\nFintech company Ramp is in early talks to raise at least USD 1 billion at a valuation above USD 70 billion, according to The Wall Street Journal, with Bloomberg also reporting the talks. Coatue Management and Thrive Capital are in talks to lead the round.\nThe talks are at an early stage. Ramp has reportedly not signed a term sheet, and the details could change. The Wall Street Journal reported that Ramp plans to set aside some of the new money for possible acquisitions.\nRead More\nAI in Manufacturing: Key Applications Transforming Modern Industries\nArtificial intelligence has become a major part of how modern factories run. Manufacturing plants use it to catch product defects, predict machine failures, speed up production and keep energy bills in check. The tools help manufacturers make better calls and avoid expensive mistakes. The larger shift is toward smart factories, where machines, software, and workers all share data to improve day-to-day operations.\nRead More\nJoin our WhatsApp Channel to get the latest news, exclusives and videos on WhatsApp\nTech news\nTop Tech News Today\nRelated Stories\nAnthropic’s IPO Could Send Up to USD 156 Billion to Charity, Estimate Says\nMurali Teja\n4 hours ago\nCrypto News Today: Bitcoin Sees Outflow, MARA Sells BTC, New York Pension Fund Increases BTC Holdings\nBhavesh Maurya\n23 hours ago\nWeekly Startup News: OpenAI, Fractile, UFORCE Lead this Week’s Funding Rounds\nSomatirtha\n13 Nov 2026\nWeekly Startup Funding Roundup: Ramp Raises USD 1.85 B, Labelbox Secures Over USD 100M, Ultra Receives USD 62M\nSomatirtha\n16 Oct 2026\nFollow Us\nDisruptive Tech ⌄\nAI News\nBig Data\nData Science\nProgramming\nGadgets ⌄\nBest Laptops\nBest Smartphones\nBest Smartwatch\nBest in Tablets\nBusiness ⌄\nStocks\nIPO\nFintech\nGold\nTrending ⌄\nGenerative AI\nLLMs\nChatGPT\nBitcoin\nTop 10 ⌄\nHigh",
+      "text_status": "ok"
+    },
+    {
+      "id": "3fad476314ff",
+      "title": "What The Telecom Bust Taught Me About AI’s Debt Boom",
+      "publisher": "Guest Author",
+      "link": "https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/",
+      "published_at": "2026-11-20T12:00:01.000Z",
+      "publisher_url": null,
+      "snippet": "The AI buildout’s growing reliance on debt echoes the telecom bubble, raising the risk that infrastructure spending will outpace the revenue needed to meet fixed repayment obligations. According to guest author David Spreng of Runway Growth Capital, even if AI fulfills its technological promise, borrowers’ survival will depend on realistic demand forecasts and debt tied to dependable cash flows, with missed timelines potentially forcing restructurings and bankruptcies.",
+      "source_feed": "crunchbase-news",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "What The Telecom Bust",
+      "group_key": "what the telecom bust",
+      "group_rank": 0,
+      "resolved_url": "https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/",
+      "text": "Artificial intelligence &bull; Communications tech &bull; Startups &bull; Venture\nWhat The Telecom Bust Taught Me About AI’s Debt Boom\nGuest Author\nNovember 20, 2026\nGuest Author\n0\nShares\nEmail\nFacebook\nX\nLinkedIn\nBy David Spreng\nThe financing of the AI buildout is shifting from equity to debt, and those who invested through the telecom bubble may recognize what that shift tends to mean.\nThere is an old story in Stephen Hawking ’s “A Brief History of Time” about a scientist lecturing on the universe when a woman in the audience insists that the world rests on the back of a giant turtle. Asked what the turtle stands on, she replies that it’s “turtles all the way down.” Her response is what philosophers call infinite regress — a chain of claims in which each one rests on another of the same kind and solid ground never arrives.\nDavid Spreng is the founder, co-CEO and co-CIO of Runway Growth Capital.\nI think of it when I look at the AI buildout because its logic has taken the same shape. Valuations support borrowing, and borrowing builds capacity. The capacity then becomes proof that the valuations were right, so each claim stands on the one beneath it.\nOver the past year, more of the stack has started running on debt rather than equity, and in my experience, that crossing is the moment the telecom bubble becomes the relevant history given that debt may change how these stories end.\nUntil recently, the AI buildout was largely an equity-financed story, with venture investment reaching record levels.\nCrunchbase data shows global venture funding totaled $679 billion through the first three quarters of 2026, the highest amount ever recorded for that period. AI companies attracted $102 billion in the third quarter alone, accounting for roughly 64% of global venture funding. A record 27 companies raised rounds of $1 billion or more during the quarter, collectively accounting for about a third of that total.\nEquity financing carries significant risks, but unlike debt, it generally does not impose fixed repayment obligations. When investments underperform, equity investors typically absorb losses through declining valuations, while companies may retain greater flexibility to pursue their long-term strategies.\nThat debt is now arriving in size. Meta sold $30 billion of bonds last October in one of the largest corporate debt sales on record , then returned for $25 billion more in April , with investors reportedly demanding more compensation the second time. Amazon , Alphabet and Oracle have each borrowed tens of billions of their own , and Meta’s giant Louisiana data-center campus was financed with a record $27 billion bond raised by a joint-venture partner rather than by Meta itself. Morgan Stanley expects the big AI and cloud companies to spend about $3 trillion on infrastructure through 2028, with only about half of it expected to come from their own cash flow. The rest has to come from somewhere, and increasingly I think that somewhere is the bond market and private credit.\nI watched the earlier version of this from a front-row seat, first as a venture capitalist in the late 1990s and since then as a lender to growth-stage technology companies. Telecom borrowed staggering sums against a demand forecast that was widely repeated and rarely checked, the famous claim that internet traffic was doubling every 100 days .\nTraffic was actually doubling about once a year, spectacular growth but a fraction of what the borrowing assumed. By 2002 the telecom sector carried roughly $1 trillion in debt , much of which the chairman of the FCC told Congress would never be repaid, and WorldCom had entered what was then the largest bankruptcy in American history .\nMuch of the fiber the industry laid sat dark for years and was finally put to work by buyers who paid pennies on the dollar for it in bankruptcy, through a decade of restructurings and private mergers that rebuilt entire cap tables. Some companies survived that process, and many did not.\nThe demand narrative\nThe echo that concerns me most is the demand narrative. Today’s version holds that data centers are effectively leased before they are built and that the only real mistake is building too little. That may prove correct, but it is repeated with the same uniformity the traffic forecast enjoyed in 1999, and much of it rests on projections supplied by the companies doing the building. What has changed in recent months is that investors have begun demanding an answer.\nAnthropic is now public, and once companies of that scale report financial results every quarter, investors can check the demand story against audited numbers.\nSome may argue, reasonably, that my comparison fails and that the companies doing the largest borrowing may be among the most profitable enterprises ever built, with cash flows the telecom carriers never approached. A few AI companies also appear to be reaching revenue scale faster than any businesses before them.\nAnd the internet really did change everything, just as the traffic really did arrive. All of that may be true, and none of it answers the question I think a lender has to ask, which is whether the cash arrives on the schedule the debt requires. Equity can generally wait out a wrong timeline in a way debt cannot, and when borrowed money builds capacity faster than revenue arrives to service it, in my opinion, the correction tends to come through restructurings rather than quiet markdowns.\nEnduring lessons\nNone of this is a prediction that the AI buildout must end the way telecom did. The most durable lesson of the telecom bust, in my view, concerned capital structure, which decided who was still standing when demand finally caught up with capacity, long after the technology itself had been vindicated. I have spent years arguing that growth companies fear debt more than they should , and I still believe it, but the argument has always been conditional.\nDebt serves borrowers whose obligations are sized to revenue they can see and",
+      "text_status": "ok"
+    }
+  ]
+}
