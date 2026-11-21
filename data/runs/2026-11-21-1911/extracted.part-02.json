@@ -1,0 +1,110 @@
+{
+ "run_date": "2026-11-21-1911",
+ "extractor": "claude-code routine",
+ "notes": "Pragmatik Labs: $5B valuation unconfirmed (reports say ~$2B), CN-based. Humyn Labs ($47M, Bengaluru) appears only in roundup, not separate group. Quantum Brilliance amount approximate.",
+ "rows": [
+  {
+   "group_key": "telangana tech startups",
+   "candidate_ids": [
+    "22b6d29141cf"
+   ],
+   "company": "Telangana tech funding report",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Hyderabad",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Aggregate report.",
+   "description": "Tracxn report on Telangana tech funding, not a single round.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "raise $726 mn in 9M 2026",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://enterpriseai.economictimes.indiatimes.com/amp/news/industry/telangana-tech-startups"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "unsiloed",
+   "candidate_ids": [
+    "a536907627ba"
+   ],
+   "company": "Unsiloed AI",
+   "website": null,
+   "amount_usd": 7500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-21",
+   "lead_investors": [
+    "Felicis"
+   ],
+   "investors": [
+    "Felicis"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Builds AI document parsing APIs for agents.",
+   "description": "Turns complex documents into structured data for AI agents; below $15M threshold.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "raised $7.5 million in a seed round led by Felicis",
+    "round": "seed round",
+    "lead": "led by Felicis",
+    "investors": "Felicis"
+   },
+   "source_urls": [
+    "https://bharatfast.com/english/tech-english/unsiloed-ai-raises-7-5-mn-felicis/37312/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "jpmorgan says bitcoin mining",
+   "candidate_ids": [
+    "519e6c7d0ffc"
+   ],
+   "company": "JPMorgan bitcoin mining cost report",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Crypto market news.",
+   "description": "Bitcoin mining cost commentary, not funding.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "Bitcoin's average mining cost is about $86,000",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://en.bloomingbit.io/feed/news/124913"
+   ],
+   "exclude_reason": "not-funding"
+  }
+ ]
+}

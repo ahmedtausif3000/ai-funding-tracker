@@ -1,0 +1,449 @@
+{
+ "run_date": "2026-11-21-1911",
+ "extractor": "parallel agents",
+ "notes": "[extracted.part-01.json] Pragmatik Labs: $5B valuation unconfirmed (reports say ~$2B), CN-based. Humyn Labs ($47M, Bengaluru) appears only in roundup, not separate group. Quantum Brilliance amount approximate.\n[extracted.part-02.json] Pragmatik Labs: $5B valuation unconfirmed (reports say ~$2B), CN-based. Humyn Labs ($47M, Bengaluru) appears only in roundup, not separate group. Quantum Brilliance amount approximate.",
+ "rows": [
+  {
+   "group_key": "lin junyangs pragmatik",
+   "candidate_ids": [
+    "8dcffff31469"
+   ],
+   "company": "Pragmatik Labs",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Shanghai",
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI agent lab founded by former Qwen lead.",
+   "description": "Shanghai-based AI lab founded by Lin Junyang, ex-Alibaba Qwen lead.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "closed funding at $5 billion valuation",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://qz.com/pragmatik-labs-funding-5-billion-valuation-alibaba-ai-112026",
+    "https://dealroom.co/news/144630-former-alibaba-researcher-junyang-lin-announces-pragmatik-labs/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "gta 6",
+   "candidate_ids": [
+    "bc002e26efde"
+   ],
+   "company": "GTA 6",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Video game sales story.",
+   "description": "Video game launch sales story, not a funding round.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "Nearly US$4 BILLION in Sales",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://screenrealm.com/gta-6-first-day-sales-4-billion-record-grand-theft-auto/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "ardagh metal packaging",
+   "candidate_ids": [
+    "69dbb45b550a"
+   ],
+   "company": "Ardagh Metal Packaging",
+   "website": null,
+   "amount_usd": 1400000000,
+   "amount_disclosed": true,
+   "currency_note": "EUR 1.3B approx at 1.08",
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Packaging company, no AI claim.",
+   "description": "Public beverage-can maker pricing senior secured green notes.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "priced €1.3 billion of senior secured floating-rate green notes",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.securities.io/ardagh-metal-packaging-raises-1-3-billion-via-green-note-sale/"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "group_key": "telangana tech funding surges",
+   "candidate_ids": [
+    "388f8d4a2448"
+   ],
+   "company": "Telangana tech funding report",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Hyderabad",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Aggregate funding report.",
+   "description": "Tracxn report on Telangana tech funding, not a single round.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$726 million in equity funding",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.fortuneindia.com/technology/telangana-tech-funding-surges-266-to-726-million-in-9m-2026-ctrls-accounts-for-58-of-total/171618"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "orange ventures",
+   "candidate_ids": [
+    "a824fa68d276"
+   ],
+   "company": "Orange Ventures",
+   "website": null,
+   "amount_usd": 250000000,
+   "amount_disclosed": true,
+   "currency_note": "EUR 250M approx at 1.0",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "FR",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Corporate VC fund.",
+   "description": "Corporate venture arm of Orange adding EUR 250M to its fund.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "add the sum to Orange Ventures",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://shattered.io/orange-ventures-adds-250-million-euros-200-europe-50-africa-middle-east/"
+   ],
+   "exclude_reason": "fund"
+  },
+  {
+   "group_key": "bloom",
+   "candidate_ids": [
+    "83d84ee01185",
+    "6c178b70c766"
+   ],
+   "company": "Bloom",
+   "website": null,
+   "amount_usd": 75000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-21",
+   "lead_investors": [
+    "Kedaara Capital"
+   ],
+   "investors": [
+    "Kedaara Capital"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Travel and hospitality brand using some AI for pricing; Indian company.",
+   "description": "Technology-driven Indian travel and hospitality brand.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "raised $75 million in a fresh funding round led by private equity firm Kedaara Capital",
+    "round": null,
+    "lead": "led by private equity firm Kedaara Capital",
+    "investors": "Kedaara Capital"
+   },
+   "source_urls": [
+    "https://www.livemint.com/companies/news/bloom-raises-75-million-from-kedaara-capital-to-accelerate-expansion-invest-in-ai-technology-11795284401832.html"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "rgentil capital",
+   "candidate_ids": [
+    "c75ba0794de3"
+   ],
+   "company": "Àrgentil Capital",
+   "website": null,
+   "amount_usd": 75000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "NG",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "SME fund.",
+   "description": "Fund launch for SMEs in Nigeria and Ghana.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "USD 75 Million SME Fund",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://proshare.co/articles/argentil-capital-secures-backing-to-launch-usd-75-million-sme-fund-across-nigeria-and-ghana"
+   ],
+   "exclude_reason": "fund"
+  },
+  {
+   "group_key": "indian startup",
+   "candidate_ids": [
+    "f180c1f922fc",
+    "d3256ecb2a45"
+   ],
+   "company": "Indian startup weekly funding roundup",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Weekly roundup.",
+   "description": "Weekly roundup of Indian startup funding.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "Indian Startup Funding Surges 515% to $62.4 Million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://techstory.in/indian-startup-funding-surges-826-to-290-mn-as-23-startups-raise-capital-this-week/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "four anz startups that",
+   "candidate_ids": [
+    "b187444ed889"
+   ],
+   "company": "Quantum Brilliance",
+   "website": null,
+   "amount_usd": 7000000,
+   "amount_disclosed": true,
+   "currency_note": "AUD 10M, approx 0.7 USD per AUD",
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [
+    "National Reconstruction Fund Corporation"
+   ],
+   "hq_city": "Canberra",
+   "hq_state": null,
+   "hq_country": "AU",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Quantum computing diamond hardware.",
+   "description": "Synthetic diamond quantum computing hardware; ANZ roundup, below threshold.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "$10 million into Canberra startup Quantum Brilliance",
+    "round": null,
+    "lead": null,
+    "investors": "The National Reconstruction Fund Corporation (NRFC) has poured another $10 million"
+   },
+   "source_urls": [
+    "https://www.smartcompany.com.au/startupsmart/four-anz-startups-that-raised-16-7-million-this-week/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "gauge",
+   "candidate_ids": [
+    "56a1c581190f"
+   ],
+   "company": "Gauge",
+   "website": null,
+   "amount_usd": 500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Tracks how AI agents pick software.",
+   "description": "Startup tracking how AI agents choose software; $500K seed, below threshold.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "Gauge raises $500K seed",
+    "round": "seed",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/gauge-raises-500k-seed-to-track-how-ai-agents-pick-software"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "telangana tech startups",
+   "candidate_ids": [
+    "22b6d29141cf"
+   ],
+   "company": "Telangana tech funding report",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Hyderabad",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Aggregate report.",
+   "description": "Tracxn report on Telangana tech funding, not a single round.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "raise $726 mn in 9M 2026",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://enterpriseai.economictimes.indiatimes.com/amp/news/industry/telangana-tech-startups"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "unsiloed",
+   "candidate_ids": [
+    "a536907627ba"
+   ],
+   "company": "Unsiloed AI",
+   "website": null,
+   "amount_usd": 7500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-21",
+   "lead_investors": [
+    "Felicis"
+   ],
+   "investors": [
+    "Felicis"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Builds AI document parsing APIs for agents.",
+   "description": "Turns complex documents into structured data for AI agents; below $15M threshold.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "raised $7.5 million in a seed round led by Felicis",
+    "round": "seed round",
+    "lead": "led by Felicis",
+    "investors": "Felicis"
+   },
+   "source_urls": [
+    "https://bharatfast.com/english/tech-english/unsiloed-ai-raises-7-5-mn-felicis/37312/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "jpmorgan says bitcoin mining",
+   "candidate_ids": [
+    "519e6c7d0ffc"
+   ],
+   "company": "JPMorgan bitcoin mining cost report",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Crypto market news.",
+   "description": "Bitcoin mining cost commentary, not funding.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "Bitcoin's average mining cost is about $86,000",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://en.bloomingbit.io/feed/news/124913"
+   ],
+   "exclude_reason": "not-funding"
+  }
+ ]
+}
