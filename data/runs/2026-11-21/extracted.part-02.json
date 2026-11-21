@@ -1,0 +1,185 @@
+{
+ "run_date": "2026-11-21",
+ "extractor": "claude-code routine",
+ "notes": "Mostly non-funding.",
+ "rows": [
+  {
+   "group_key": "13 year old founder",
+   "candidate_ids": [
+    "5efc20837d28"
+   ],
+   "company": "KIKA AI",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI startup per title.",
+   "description": "13-year-old founder's seed round; amount unknown, text blocked.",
+   "confidence": 0.3,
+   "evidence": {
+    "amount": "13-year-old founder raises seed round for KIKA AI",
+    "round": "raises seed round",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/13-year-old-founder-raises-seed-round-for-kika-ai"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "how to prepare your",
+   "candidate_ids": [
+    "d5368774a47b"
+   ],
+   "company": "n/a",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-19",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Advice article.",
+   "description": "Series A advice article.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "How to prepare your startup for a Series A raise in 2026",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://techli.com/how-to-prepare-your-startup-for-a-series-a-raise-in-2026/11748/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "seeds",
+   "candidate_ids": [
+    "e493ccd53cad"
+   ],
+   "company": "Fortsense",
+   "website": null,
+   "amount_usd": 56000000,
+   "amount_disclosed": true,
+   "currency_note": "CNY 400M converted at ~0.14",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [
+    "Senter Electronic",
+    "Jingce Electronic",
+    "SINOWISDOM",
+    "Huining Investment",
+    "Xingyin Financial Asset Investment",
+    "Qingke Capital",
+    "China-Europe New Energy Vehicle Fund"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Physical AI spatial perception chips.",
+   "description": "Chinese spatial perception chip maker; Series C4 over 400M yuan.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Series C4 funding round exceeding 400 million yuan",
+    "round": "Series C4 funding round",
+    "lead": null,
+    "investors": "Senter Electronic, Jingce Electronic, SINOWISDOM, Huining Investment, Xingyin Financial Asset Investment, Qingke Capital, and the China-Europe New Energy Vehicle Fund"
+   },
+   "source_urls": [
+    "https://autonews.gasgoo.com/articles/news/seeds-fortsense-closes-series-c4-funding-round-exceeding-400-million-yuan-2123714823833182208"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "soket",
+   "candidate_ids": [
+    "01963453d884"
+   ],
+   "company": "Soket AI",
+   "website": null,
+   "amount_usd": 4000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-19",
+   "lead_investors": [],
+   "investors": [
+    "Bajaj Finance",
+    "Pennant Technologies",
+    "India Accelerator",
+    "Finvolve"
+   ],
+   "hq_city": "Bengaluru",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Frontier LLM lab.",
+   "description": "Bengaluru AI lab building on-premise LLMs.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "has raised nearly $4 million from Bajaj Finance and Pennant Technologies",
+    "round": null,
+    "lead": null,
+    "investors": "India Accelerator and Finvolve also invested undisclosed amounts"
+   },
+   "source_urls": [
+    "https://bharatfast.com/english/tech-english/soket-ai-raises-4-mn-bajaj-finance-pennant/37283/"
+   ],
+   "exclude_reason": "below-min"
+  },
+  {
+   "group_key": "oliver wyman to",
+   "candidate_ids": [
+    "047a579a9a6e"
+   ],
+   "company": "Synpulse",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CH",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI platform/consulting.",
+   "description": "Acquired by Oliver Wyman.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "agreed to acquire Synpulse",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/oliver-wyman-to-acquire-synpulse-to-expand-financial-services-technology-and-ai-capabilities/"
+   ],
+   "exclude_reason": "acquisition"
+  }
+ ]
+}

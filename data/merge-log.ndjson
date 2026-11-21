@@ -1563,3 +1563,26 @@
 {"run":"2026-11-20-2010","action":"inserted","id":"47ecf3f16f","company":"Style Union","in_view":false,"exclude_reason":"not-funding"}
 {"run":"2026-11-20-2010","action":"inserted","id":"933d23092d","company":"SAKAK","in_view":false,"exclude_reason":"not-funding"}
 {"run":"2026-11-20-2010","action":"inserted","id":"c6b16fed5f","company":"PawSwing","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-21","action":"merged","id":"27c9dbbd71","company":"Applied Compute","from":"Applied Compute"}
+{"run":"2026-11-21","action":"inserted","id":"0b21782350","company":"Bending Spoons","in_view":false,"exclude_reason":"acquisition"}
+{"run":"2026-11-21","action":"inserted","id":"64cde8ee58","company":"CFE Fibra E","in_view":false,"exclude_reason":"public-company"}
+{"run":"2026-11-21","action":"inserted","id":"d97677eef3","company":"Telangana Tech 9M 2026 report","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-21","action":"merged","id":"b64ab38547","company":"Science Corporation","from":"Science"}
+{"run":"2026-11-21","action":"merged","id":"a3383536e3","company":"Model ML","from":"Model ML"}
+{"run":"2026-11-21","action":"merged","id":"2c42010298","company":"Galvanize Therapeutics","from":"Galvanize Therapeutics"}
+{"run":"2026-11-21","action":"merged","id":"aa79e80f3a","company":"General Flash","from":"General Flash"}
+{"run":"2026-11-21","action":"merged","id":"4a5c363738","company":"Ramon.Space","from":"Ramon.Space"}
+{"run":"2026-11-21","action":"amount-conflict","id":"f5b7134b68","company":"Marrow Therapeutics","stored_amount":120000000,"incoming_amount":173000000,"incoming_sources":["https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/","https://en.wowtale.net/2026/11/21/236113/"]}
+{"run":"2026-11-21","action":"merged","id":"f5b7134b68","company":"Marrow Therapeutics","from":"Marrow Therapeutics"}
+{"run":"2026-11-21","action":"merged","id":"f477364fd0","company":"Noeri","from":"Noeri"}
+{"run":"2026-11-21","action":"merged","id":"0b57cf0750","company":"Seawolf Therapeutics","from":"Seawolf Therapeutics"}
+{"run":"2026-11-21","action":"merged","id":"b64ab38547","company":"Science Corporation","from":"Science"}
+{"run":"2026-11-21","action":"inserted","id":"3bd81c3ca0","company":"Marrow Therapeutics","in_view":false,"exclude_reason":"duplicate"}
+{"run":"2026-11-21","action":"merged","id":"59d3af6e33","company":"Dreamteam","from":"Dreamteam"}
+{"run":"2026-11-21","action":"inserted","id":"551bd23c21","company":"Wingspire Equipment Finance","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-21","action":"inserted","id":"0023f592e8","company":"Redwire","in_view":false,"exclude_reason":"public-company"}
+{"run":"2026-11-21","action":"inserted","id":"3db351400f","company":"KIKA AI","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-21","action":"merged","id":"6d8b94cf82","company":"n/a (BW Disrupt October 2026 AI funding aggregate)","from":"n/a"}
+{"run":"2026-11-21","action":"merged","id":"4f884cc25c","company":"Fortsense","from":"Fortsense"}
+{"run":"2026-11-21","action":"inserted","id":"f991350357","company":"Soket AI","in_view":false,"exclude_reason":"below-min"}
+{"run":"2026-11-21","action":"inserted","id":"0ec356c315","company":"Synpulse","in_view":false,"exclude_reason":"acquisition"}

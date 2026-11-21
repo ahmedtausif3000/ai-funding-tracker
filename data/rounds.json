@@ -1,7 +1,49 @@
 {
  "version": 1,
- "updated_at": "2026-11-20T23:07:16.394Z",
+ "updated_at": "2026-11-21T14:07:50.959Z",
  "rounds": [
+  {
+   "id": "3db351400f",
+   "group_key": "13 year old founder",
+   "candidate_ids": [
+    "5efc20837d28"
+   ],
+   "company": "KIKA AI",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI startup per title.",
+   "description": "13-year-old founder's seed round; amount unknown, text blocked.",
+   "confidence": 0.3,
+   "evidence": {
+    "amount": "13-year-old founder raises seed round for KIKA AI",
+    "round": "raises seed round",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/13-year-old-founder-raises-seed-round-for-kika-ai"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Seed - KIKA AI",
+   "first_seen_run": "2026-11-21",
+   "runs": [
+    "2026-11-21"
+   ],
+   "created_at": "2026-11-21T14:07:50.946Z",
+   "updated_at": "2026-11-21T14:07:50.946Z",
+   "in_view": false
+  },
   {
    "id": "152c3fa771",
    "group_key": "apollo and goldman sachs",
@@ -126,6 +168,48 @@
    ],
    "created_at": "2026-11-20T14:09:27.724Z",
    "updated_at": "2026-11-20T14:09:27.724Z",
+   "in_view": false
+  },
+  {
+   "id": "64cde8ee58",
+   "group_key": "cfe fibra e",
+   "candidate_ids": [
+    "19252a29ca73"
+   ],
+   "company": "CFE Fibra E",
+   "website": null,
+   "amount_usd": 776000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "MX",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "State utility equity offering, no AI claim.",
+   "description": "Follow-on equity offering by Mexican state utility transmission vehicle.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "raised US$776 million through a follow-on equity offering",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://mexicobusiness.news/infrastructure/news/cfe-fibra-e-raises-us776-million-grid-expansion"
+   ],
+   "exclude_reason": "public-company",
+   "transaction_name": "Other - CFE Fibra E",
+   "first_seen_run": "2026-11-21",
+   "runs": [
+    "2026-11-21"
+   ],
+   "created_at": "2026-11-21T14:07:50.924Z",
+   "updated_at": "2026-11-21T14:07:50.924Z",
    "in_view": false
   },
   {
@@ -467,6 +551,90 @@
    "in_view": false
   },
   {
+   "id": "3bd81c3ca0",
+   "group_key": "marrow therapeutics",
+   "candidate_ids": [
+    "5aab4561955d"
+   ],
+   "company": "Marrow Therapeutics",
+   "website": null,
+   "amount_usd": 173000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Watertown",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Biotech, no AI claim.",
+   "description": "Duplicate of Crunchbase roundup row for Marrow.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "$173 million in combined funding",
+    "round": "a $53 million Series A and a $120 million Series B",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://en.wowtale.net/2026/11/21/236113/"
+   ],
+   "exclude_reason": "duplicate",
+   "transaction_name": "Series B - Marrow Therapeutics",
+   "first_seen_run": "2026-11-21",
+   "runs": [
+    "2026-11-21"
+   ],
+   "created_at": "2026-11-21T14:07:50.936Z",
+   "updated_at": "2026-11-21T14:07:50.936Z",
+   "in_view": false
+  },
+  {
+   "id": "551bd23c21",
+   "group_key": "wingspire commits 30 million",
+   "candidate_ids": [
+    "419c299030a9"
+   ],
+   "company": "Wingspire Equipment Finance",
+   "website": null,
+   "amount_usd": 30000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Lender.",
+   "description": "Equipment financing commitment, not an equity round.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "committed $30 million to finance equipment",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/wingspire-commits-30-million-for-industrial-equipment-financing/"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Debt - Wingspire Equipment Finance",
+   "first_seen_run": "2026-11-21",
+   "runs": [
+    "2026-11-21"
+   ],
+   "created_at": "2026-11-21T14:07:50.941Z",
+   "updated_at": "2026-11-21T14:07:50.941Z",
+   "in_view": false
+  },
+  {
    "id": "afe8b019e9",
    "website": null,
    "currency_note": "EUR 20M converted at ~1.08",
@@ -548,6 +716,48 @@
    ],
    "created_at": "2026-11-20T23:07:16.371Z",
    "updated_at": "2026-11-20T23:07:16.371Z",
+   "in_view": false
+  },
+  {
+   "id": "0023f592e8",
+   "group_key": "redwire",
+   "candidate_ids": [
+    "7c0845e5acc9"
+   ],
+   "company": "Redwire",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Public company contract.",
+   "description": "Contract award, not funding.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "approximately $15 million contract",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/redwire-wins-15-million-solar-array-contract-from-ascendarc/"
+   ],
+   "exclude_reason": "public-company",
+   "transaction_name": "Other - Redwire",
+   "first_seen_run": "2026-11-21",
+   "runs": [
+    "2026-11-21"
+   ],
+   "created_at": "2026-11-21T14:07:50.944Z",
+   "updated_at": "2026-11-21T14:07:50.944Z",
    "in_view": false
   },
   {
@@ -676,6 +886,132 @@
    ],
    "created_at": "2026-11-20T23:07:16.377Z",
    "updated_at": "2026-11-20T23:07:16.377Z",
+   "in_view": false
+  },
+  {
+   "id": "0b21782350",
+   "group_key": "berkshire backed bending spoons to",
+   "candidate_ids": [
+    "6359bf5c0984"
+   ],
+   "company": "Bending Spoons",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IT",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Acquirer; article text unavailable.",
+   "description": "Bending Spoons buys Mailchimp and announces a private placement; not a startup venture round.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "Berkshire-backed Bending Spoons to buy Mailchimp for €3.35 billion; announces €1.18 billion private placement",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.eu-startups.com/2026/11/berkshire-hathaway-backed-bending-spoons-to-buy-mailchimp-for-e3-35-billion-announces-e1-18-billion-private-placement/"
+   ],
+   "exclude_reason": "acquisition",
+   "transaction_name": "Other - Bending Spoons",
+   "first_seen_run": "2026-11-21",
+   "runs": [
+    "2026-11-21"
+   ],
+   "created_at": "2026-11-21T14:07:50.920Z",
+   "updated_at": "2026-11-21T14:07:50.920Z",
+   "in_view": false
+  },
+  {
+   "id": "d97677eef3",
+   "group_key": "telangana tech 9m 2026",
+   "candidate_ids": [
+    "8e0b69e78856"
+   ],
+   "company": "Telangana Tech 9M 2026 report",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Hyderabad",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Regional funding report, not a round.",
+   "description": "Tracxn regional funding statistics report.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "Companies across the state raised $726 million between January and September",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://sahyadristartups.com/spotlight/telangana-tech-9m-2026-report-tracxn/"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Other - Telangana Tech 9M 2026 report",
+   "first_seen_run": "2026-11-21",
+   "runs": [
+    "2026-11-21"
+   ],
+   "created_at": "2026-11-21T14:07:50.928Z",
+   "updated_at": "2026-11-21T14:07:50.928Z",
+   "in_view": false
+  },
+  {
+   "id": "0ec356c315",
+   "group_key": "oliver wyman to",
+   "candidate_ids": [
+    "047a579a9a6e"
+   ],
+   "company": "Synpulse",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CH",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI platform/consulting.",
+   "description": "Acquired by Oliver Wyman.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "agreed to acquire Synpulse",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/oliver-wyman-to-acquire-synpulse-to-expand-financial-services-technology-and-ai-capabilities/"
+   ],
+   "exclude_reason": "acquisition",
+   "transaction_name": "Other - Synpulse",
+   "first_seen_run": "2026-11-21",
+   "runs": [
+    "2026-11-21"
+   ],
+   "created_at": "2026-11-21T14:07:50.951Z",
+   "updated_at": "2026-11-21T14:07:50.951Z",
    "in_view": false
   },
   {
@@ -1452,6 +1788,53 @@
    ],
    "created_at": "2026-11-19T14:10:10.928Z",
    "updated_at": "2026-11-19T14:10:10.928Z",
+   "in_view": false
+  },
+  {
+   "id": "f991350357",
+   "group_key": "soket",
+   "candidate_ids": [
+    "01963453d884"
+   ],
+   "company": "Soket AI",
+   "website": null,
+   "amount_usd": 4000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-19",
+   "lead_investors": [],
+   "investors": [
+    "Bajaj Finance",
+    "Pennant Technologies",
+    "India Accelerator",
+    "Finvolve"
+   ],
+   "hq_city": "Bengaluru",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Frontier LLM lab.",
+   "description": "Bengaluru AI lab building on-premise LLMs.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "has raised nearly $4 million from Bajaj Finance and Pennant Technologies",
+    "round": null,
+    "lead": null,
+    "investors": "India Accelerator and Finvolve also invested undisclosed amounts"
+   },
+   "source_urls": [
+    "https://bharatfast.com/english/tech-english/soket-ai-raises-4-mn-bajaj-finance-pennant/37283/"
+   ],
+   "exclude_reason": "below-min",
+   "transaction_name": "Venture - Unspecified - Soket AI",
+   "first_seen_run": "2026-11-21",
+   "runs": [
+    "2026-11-21"
+   ],
+   "created_at": "2026-11-21T14:07:50.949Z",
+   "updated_at": "2026-11-21T14:07:50.949Z",
    "in_view": false
   },
   {
@@ -3373,16 +3756,19 @@
    },
    "source_urls": [
     "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-    "https://www.unite.ai/science-corporation-raises-400m-series-d-to-expand-prima-access/"
+    "https://www.unite.ai/science-corporation-raises-400m-series-d-to-expand-prima-access/",
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
+    "https://shattered.io/science-400-million-series-d-tops-weeks-biggest-funding-rounds/"
    ],
    "exclude_reason": null,
    "transaction_name": "Series D - Science Corporation",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-21"
    ],
    "created_at": "2026-11-18T06:42:51.042Z",
-   "updated_at": "2026-11-18T06:42:51.106Z",
+   "updated_at": "2026-11-21T14:07:50.934Z",
    "in_view": true
   },
   {
@@ -3476,7 +3862,8 @@
    "source_urls": [
     "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
     "https://pulse2.com/model-ml-raises-250-million-at-1-5-billion-valuation-for-personal-ai-agents/",
-    "https://www.fintechfutures.com/venture-capital-funding/model-ml-250m-series-b-funding-round-1-5bn-valuation"
+    "https://www.fintechfutures.com/venture-capital-funding/model-ml-250m-series-b-funding-round-1-5bn-valuation",
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
    ],
    "exclude_reason": null,
    "run_date": "catchup-2026-11-10_2026-11-17",
@@ -3484,10 +3871,11 @@
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
     "catchup-2026-11-10_2026-11-17",
-    "2026-11-18"
+    "2026-11-18",
+    "2026-11-21"
    ],
    "created_at": "2026-11-18T06:42:51.135Z",
-   "updated_at": "2026-11-18T06:46:01.958Z",
+   "updated_at": "2026-11-21T14:07:50.928Z",
    "in_view": false
   },
   {
@@ -3708,7 +4096,8 @@
    },
    "source_urls": [
     "https://www.prnewswire.com/news-releases/general-flash-announces-128-million-in-funding-to-scale-us-production-of-critical-metals-302941551.html",
-    "https://www.mining.com/general-flash-raises-128-million-to-scale-us-critical-metals-production/"
+    "https://www.mining.com/general-flash-raises-128-million-to-scale-us-critical-metals-production/",
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
    ],
    "exclude_reason": null,
    "run_date": "catchup-2026-11-10_2026-11-17",
@@ -3716,10 +4105,11 @@
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
     "catchup-2026-11-10_2026-11-17",
-    "2026-11-18"
+    "2026-11-18",
+    "2026-11-21"
    ],
    "created_at": "2026-11-18T06:42:51.167Z",
-   "updated_at": "2026-11-18T06:46:01.962Z",
+   "updated_at": "2026-11-21T14:07:50.929Z",
    "in_view": false
   },
   {
@@ -3751,7 +4141,7 @@
     "Deep Insight",
     "Grove Ventures"
    ],
-   "hq_city": null,
+   "hq_city": "Denver",
    "hq_state": "CA",
    "hq_country": "US",
    "is_ai_ml": true,
@@ -3769,7 +4159,8 @@
     "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-915203",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNmdMLWRHSDA1eFI1ZGQ3dWtpMmJ0RVhYVEpoUDJBNWhiUGZYS00zeHQzZlo5T2Q4QXBTLWlMUFQyNUt1S1VQSWZ0cXN2OTQ0VXFIcnY5aDhOTEJqNEZqb2xUTXlFLWktdml5RWhlZzdna0ZPc0JMWUM0bW5YZXRWR1ZMQkptaGhoajVHWTY4djJpTm5zZWJTYVNyQ1JzaEFxa3QxMjVBeVp6ZGNjaTlqbGJQUnRwRzYzbDhBSmdlLVFUaWhrVFBTbXRn?oc=5",
     "https://www.cbinsights.com/company/ramonspace",
-    "https://spaceanddefense.io/ramon-space-raises-124-million-series-b-led-by-psg/"
+    "https://spaceanddefense.io/ramon-space-raises-124-million-series-b-led-by-psg/",
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
    ],
    "exclude_reason": null,
    "run_date": "catchup-2026-11-10_2026-11-17",
@@ -3777,10 +4168,11 @@
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
     "catchup-2026-11-10_2026-11-17",
-    "2026-11-18"
+    "2026-11-18",
+    "2026-11-21"
    ],
    "created_at": "2026-11-18T06:42:51.169Z",
-   "updated_at": "2026-11-18T06:46:01.962Z",
+   "updated_at": "2026-11-21T14:07:50.929Z",
    "in_view": true
   },
   {
@@ -3835,7 +4227,9 @@
     "https://indianewengland.com/",
     "https://www.techtimes.com/articles/330910/20261117/sickle-cell-drug-marrow-raises-173-million-without-releasing-anemia-selectivity-data.htm",
     "https://www.biopharminternational.com/view/marrow-therapeutics-173-million-series-a-b-bone",
-    "https://www.biospace.com/press-releases/marrow-therapeutics-launches-with-173-million-to-develop-genetic-medicines-for-bone-marrow-disorders"
+    "https://www.biospace.com/press-releases/marrow-therapeutics-launches-with-173-million-to-develop-genetic-medicines-for-bone-marrow-disorders",
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
+    "https://en.wowtale.net/2026/11/21/236113/"
    ],
    "exclude_reason": null,
    "run_date": "catchup-2026-11-10_2026-11-17",
@@ -3845,10 +4239,11 @@
     "catchup-2026-11-10_2026-11-17",
     "2026-11-18",
     "2026-11-18-2028",
-    "2026-11-19"
+    "2026-11-19",
+    "2026-11-21"
    ],
    "created_at": "2026-11-18T06:42:51.158Z",
-   "updated_at": "2026-11-19T14:10:10.911Z",
+   "updated_at": "2026-11-21T14:07:50.933Z",
    "in_view": false,
    "alt_amounts": [
     173000000
@@ -6109,17 +6504,19 @@
     "https://www.newswise.com/articles/galvanize-therapeutics-raises-130-million-in-oversubscribed-series-d-financing-to-accelerate-commercial-growth-and-advance-pef-innovation",
     "https://www.newswise.com/articles/galvanize-therapeutics-raises-130-million-in-oversubscribed-series-d-financing-to-accelerate-commercial-growth-and-advance-pef-innovation/?ad2f=1&aid=858591",
     "https://pulse2.com/galvanize-therapeutics-raises-130-million-series-d-to-expand-pef-ablation-platform/",
-    "https://www.wsgr.com/en/insights/wilson-sonsini-advises-galvanize-therapeutics-on-oversubscribed-dollar130-million-series-d.html"
+    "https://www.wsgr.com/en/insights/wilson-sonsini-advises-galvanize-therapeutics-on-oversubscribed-dollar130-million-series-d.html",
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
    ],
    "exclude_reason": null,
    "run_date": "catchup-2026-11-10_2026-11-17",
    "transaction_name": "Series D - Galvanize Therapeutics",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-21"
    ],
    "created_at": "2026-11-18T06:42:51.167Z",
-   "updated_at": "2026-11-18T06:42:51.167Z",
+   "updated_at": "2026-11-21T14:07:50.929Z",
    "in_view": false
   },
   {
@@ -6281,17 +6678,19 @@
    "source_urls": [
     "https://finance.biggo.com/news/1eb5912b-98d4-4367-a5c3-12d67d9c23ad",
     "https://www.tokenpost.com/news/business/58592",
-    "https://pulse2.com/noeri-launches-with-110-million-to-build-self-improving-enterprise-ai/"
+    "https://pulse2.com/noeri-launches-with-110-million-to-build-self-improving-enterprise-ai/",
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
    ],
    "exclude_reason": null,
    "run_date": "catchup-2026-11-10_2026-11-17",
    "transaction_name": "Venture - Unspecified - Noeri",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-21"
    ],
    "created_at": "2026-11-18T06:42:51.172Z",
-   "updated_at": "2026-11-18T06:42:51.172Z",
+   "updated_at": "2026-11-21T14:07:50.934Z",
    "in_view": true
   },
   {
@@ -6339,17 +6738,19 @@
     "https://pulse2.com/seawolf-therapeutics-100-million-funding-and-up-to-1-2-billion-sanofi-partnership-to-advance-dna-medicines/",
     "https://www.reuters.com/legal/litigation/dna-drug-developer-seawolf-launches-with-100-million-funding-sanofi-deal-2026-11-16/",
     "https://www.globalbankingandfinance.com/dna-drug-developer-seawolf-launches-100-million-funding/",
-    "https://fiercebiotech.com/biotech/dna-delivery-biotech-seawolf-surfaces-alongside-investors-novartis-lilly-and-partner-sanofi"
+    "https://fiercebiotech.com/biotech/dna-delivery-biotech-seawolf-surfaces-alongside-investors-novartis-lilly-and-partner-sanofi",
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
    ],
    "exclude_reason": null,
    "transaction_name": "Series A - Seawolf Therapeutics",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
     "catchup-2026-11-10_2026-11-17",
-    "2026-11-18"
+    "2026-11-18",
+    "2026-11-21"
    ],
    "created_at": "2026-11-18T06:42:51.187Z",
-   "updated_at": "2026-11-18T06:46:01.962Z",
+   "updated_at": "2026-11-21T14:07:50.934Z",
    "in_view": false
   },
   {
@@ -6515,17 +6916,19 @@
     "https://en.wowtale.net/2026/11/17/236027/?utm_source=rss&utm_medium=rss&utm_campaign=ai-native-crm-dreamteam-raises-53-million-in-seed-and-series-a-funding",
     "https://pulse2.com/dreamteam-raises-53-million-to-build-ai-native-crm-platform/",
     "https://www.bloomberg.com/news/articles/2026-11-16/ai-startup-dreamteam-raises-capital-to-challenge-salesforce-sap",
-    "https://techfundingnews.com/ex-freshworks-founders-dreamteam-raises-53m-to-challenge-salesforce-with-ai-native-crm-and-virtual-sales-coworkers/"
+    "https://techfundingnews.com/ex-freshworks-founders-dreamteam-raises-53m-to-challenge-salesforce-with-ai-native-crm-and-virtual-sales-coworkers/",
+    "https://indianstartupnews.com/funding/freshworks-veterans-bet-on-ai-to-rebuild-the-crm-raise-53-million-for-dreamteam-12814720"
    ],
    "exclude_reason": null,
    "run_date": "catchup-2026-11-10_2026-11-17",
    "transaction_name": "Series A - Dreamteam",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-21"
    ],
    "created_at": "2026-11-18T06:42:51.226Z",
-   "updated_at": "2026-11-18T06:42:51.226Z",
+   "updated_at": "2026-11-21T14:07:50.937Z",
    "in_view": true
   },
   {
@@ -11806,19 +12209,27 @@
    "website": null,
    "amount_usd": 60000000,
    "amount_disclosed": true,
-   "currency_note": null,
+   "currency_note": "CNY 400M converted at ~0.14",
    "round_type": "Series C",
    "stage_bucket": "Late Stage Venture",
    "announced_date": "2026-11-12",
    "lead_investors": [],
-   "investors": [],
+   "investors": [
+    "Senter Electronic",
+    "Jingce Electronic",
+    "SINOWISDOM",
+    "Huining Investment",
+    "Xingyin Financial Asset Investment",
+    "Qingke Capital",
+    "China-Europe New Energy Vehicle Fund"
+   ],
    "hq_city": "Shenzhen",
    "hq_state": null,
    "hq_country": "CN",
-   "is_ai_ml": false,
-   "ai_ml_rationale": "Lidar SPAD sensor chip maker; the title carries no AI/ML claim.",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Physical AI spatial perception chips.",
    "description": "Chinese developer of SPAD sensor chips for automotive lidar.",
-   "confidence": 0.5,
+   "confidence": 0.8,
    "evidence": {
     "amount": "Fortsense raises $60M Series C",
     "round": "Series C",
@@ -11827,16 +12238,18 @@
    },
    "source_urls": [
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVJva3NWXzc1aXhDMnFDQi1VaW9ycnh6LWFPenNKWXIxSTVodGY3aDJ1Q1YwUUQ1QnVLWmJ4RW5zN2pRWlNCOGxEUWpUbjVwblducUMtOFFzQ1I3bUVCMlZveHExNnlHY21oaUMyc2xySFcxZktUUzQyVG84cE1lWklzMjVTellCUUdHZw?oc=5",
-    "https://autonews.gasgoo.com/articles/ICV/chinese-chip-maker-fortsense-nabs-financing-from-chery-holdings-fund-70022313"
+    "https://autonews.gasgoo.com/articles/ICV/chinese-chip-maker-fortsense-nabs-financing-from-chery-holdings-fund-70022313",
+    "https://autonews.gasgoo.com/articles/news/seeds-fortsense-closes-series-c4-funding-round-exceeding-400-million-yuan-2123714823833182208"
    ],
    "exclude_reason": null,
    "transaction_name": "Series C - Fortsense",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-21"
    ],
    "created_at": "2026-11-18T06:42:51.218Z",
-   "updated_at": "2026-11-18T06:42:51.218Z",
+   "updated_at": "2026-11-21T14:07:50.947Z",
    "in_view": false
   },
   {
@@ -25636,8 +26049,8 @@
    "amount_usd": 350000000,
    "amount_disclosed": true,
    "currency_note": null,
-   "round_type": "Venture - Unspecified",
-   "stage_bucket": "Late Stage Venture",
+   "round_type": "Other",
+   "stage_bucket": "Other",
    "announced_date": "2026-11-03",
    "lead_investors": [
     "Elad Gil"
@@ -25657,7 +26070,7 @@
    "is_ai_ml": true,
    "ai_ml_rationale": "Platform for enterprises to train and run large AI models.",
    "description": "Cloud platform enterprises and developers use to train and run large AI models; $350M at a $3.25B valuation after passing $100M ARR.",
-   "confidence": 0.85,
+   "confidence": 0.9,
    "evidence": {
     "amount": "announced $350 million in new funding at a $3.25 billion valuation",
     "round": null,
@@ -25667,18 +26080,20 @@
    "source_urls": [
     "https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/",
     "https://www.lw.com/en/news/2026/11/latham-advises-applied-compute-on-financing",
-    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+    "https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/",
+    "https://americanbazaaronline.com/2026/11/19/palo-alto-networks-bets-4-5-billion-on-ai-startup-applied-compute-as-shares-jump-9-492677/"
    ],
    "exclude_reason": null,
    "transaction_name": "Venture - Unspecified - Applied Compute",
    "first_seen_run": "2026-11-09",
    "runs": [
     "2026-11-09",
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-21"
    ],
    "created_at": "2026-11-09T16:59:39.402Z",
-   "updated_at": "2026-11-18T06:42:51.051Z",
-   "in_view": true
+   "updated_at": "2026-11-21T14:07:50.915Z",
+   "in_view": false
   },
   {
    "id": "86a976e3ec",
@@ -26052,16 +26467,18 @@
     "investors": null
    },
    "source_urls": [
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcUk3bU44N0hJcENKN25JSklqbWh6UmlnWml1UjlhMEJ3MkUxSmlwTzlWcG1RN3lRa1E1ZWh5d3VqWWZ0TW1ERzRsb1FCMHNzZ0lIWmFZMzRibTZDZDdvc1ZGSC1RZ29LQ3JQRkRvaFJ5TjJTbTlQUXBWRVFEYWFSN1F4MzVIbDJ6cVQxUDBjQzJWc0drR0VNX3Qxcm9OblBGQWFFU2NDeWZ6NGE2TzVqV2FhYlFhTi1zWTdTMzNZd294WVVM?oc=5"
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcUk3bU44N0hJcENKN25JSklqbWh6UmlnWml1UjlhMEJ3MkUxSmlwTzlWcG1RN3lRa1E1ZWh5d3VqWWZ0TW1ERzRsb1FCMHNzZ0lIWmFZMzRibTZDZDdvc1ZGSC1RZ29LQ3JQRkRvaFJ5TjJTbTlQUXBWRVFEYWFSN1F4MzVIbDJ6cVQxUDBjQzJWc0drR0VNX3Qxcm9OblBGQWFFU2NDeWZ6NGE2TzVqV2FhYlFhTi1zWTdTMzNZd294WVVM?oc=5",
+    "https://techli.com/how-to-prepare-your-startup-for-a-series-a-raise-in-2026/11748/"
    ],
    "exclude_reason": "not-funding",
    "transaction_name": "Other - n/a (BW Disrupt October 2026 AI funding aggregate)",
    "first_seen_run": "backfill-2026-10-01_2026-11-09",
    "runs": [
-    "backfill-2026-10-01_2026-11-09"
+    "backfill-2026-10-01_2026-11-09",
+    "2026-11-21"
    ],
    "created_at": "2026-11-09T21:21:13.512Z",
-   "updated_at": "2026-11-09T21:21:13.512Z",
+   "updated_at": "2026-11-21T14:07:50.947Z",
    "in_view": false
   },
   {
@@ -56356,5 +56773,5 @@
    "in_view": true
   }
  ],
- "last_run": "2026-11-20-2010"
+ "last_run": "2026-11-21"
 }

@@ -1,0 +1,604 @@
+{
+ "run_date": "2026-11-21",
+ "extractor": "claude-code routine",
+ "notes": "No web lookups needed. Roundup text truncated after item 8; items 9-10 not extracted.",
+ "rows": [
+  {
+   "group_key": "palo alto networks",
+   "candidate_ids": [
+    "e2dfecdcab33"
+   ],
+   "company": "Applied Compute",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-19",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI startup for training open-weight models.",
+   "description": "AI startup acquired by Palo Alto Networks for $4.5B.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "agreed to acquire AI startup Applied Compute for $4.5 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://americanbazaaronline.com/2026/11/19/palo-alto-networks-bets-4-5-billion-on-ai-startup-applied-compute-as-shares-jump-9-492677/"
+   ],
+   "exclude_reason": "acquisition"
+  },
+  {
+   "group_key": "berkshire backed bending spoons to",
+   "candidate_ids": [
+    "6359bf5c0984"
+   ],
+   "company": "Bending Spoons",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IT",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Acquirer; article text unavailable.",
+   "description": "Bending Spoons buys Mailchimp and announces a private placement; not a startup venture round.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "Berkshire-backed Bending Spoons to buy Mailchimp for €3.35 billion; announces €1.18 billion private placement",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.eu-startups.com/2026/11/berkshire-hathaway-backed-bending-spoons-to-buy-mailchimp-for-e3-35-billion-announces-e1-18-billion-private-placement/"
+   ],
+   "exclude_reason": "acquisition"
+  },
+  {
+   "group_key": "cfe fibra e",
+   "candidate_ids": [
+    "19252a29ca73"
+   ],
+   "company": "CFE Fibra E",
+   "website": null,
+   "amount_usd": 776000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "MX",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "State utility equity offering, no AI claim.",
+   "description": "Follow-on equity offering by Mexican state utility transmission vehicle.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "raised US$776 million through a follow-on equity offering",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://mexicobusiness.news/infrastructure/news/cfe-fibra-e-raises-us776-million-grid-expansion"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "group_key": "telangana tech 9m 2026",
+   "candidate_ids": [
+    "8e0b69e78856"
+   ],
+   "company": "Telangana Tech 9M 2026 report",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Hyderabad",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Regional funding report, not a round.",
+   "description": "Tracxn regional funding statistics report.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "Companies across the state raised $726 million between January and September",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://sahyadristartups.com/spotlight/telangana-tech-9m-2026-report-tracxn/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "weeks 10 biggest funding",
+   "candidate_ids": [
+    "ec30f8193f78"
+   ],
+   "company": "Science",
+   "website": null,
+   "amount_usd": 400000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series D",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Alameda",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Brain-computer interface; no AI claim in text.",
+   "description": "Brain-computer interface and neural engineering company.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "secured $400 million in Series D funding",
+    "round": "secured $400 million in Series D funding",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "weeks 10 biggest funding",
+   "candidate_ids": [
+    "ec30f8193f78"
+   ],
+   "company": "Model ML",
+   "website": null,
+   "amount_usd": 250000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-20",
+   "lead_investors": [
+    "General Atlantic",
+    "QED Investors"
+   ],
+   "investors": [
+    "General Atlantic",
+    "QED Investors"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI platform for financial and professional services.",
+   "description": "AI platform for financial and professional services firms; $1.5B valuation.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "closed on $250 million in Series B funding at a $1.5 billion valuation",
+    "round": "closed on $250 million in Series B funding",
+    "lead": "General Atlantic and QED Investors led the round",
+    "investors": "General Atlantic and QED Investors led the round"
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "weeks 10 biggest funding",
+   "candidate_ids": [
+    "ec30f8193f78"
+   ],
+   "company": "Galvanize Therapeutics",
+   "website": null,
+   "amount_usd": 130000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series D",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-20",
+   "lead_investors": [
+    "HealthQuest Capital"
+   ],
+   "investors": [
+    "HealthQuest Capital"
+   ],
+   "hq_city": "Redwood City",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Medical device/oncology; no AI claim.",
+   "description": "Developer of pulsed electric field ablation technologies for oncology and chronic disease.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "picked up $130 million in Series D funding",
+    "round": "$130 million in Series D funding",
+    "lead": "Series D funding led by HealthQuest Capital",
+    "investors": "led by HealthQuest Capital"
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "weeks 10 biggest funding",
+   "candidate_ids": [
+    "ec30f8193f78"
+   ],
+   "company": "General Flash",
+   "website": null,
+   "amount_usd": 128000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Critical metals production; no AI claim.",
+   "description": "Developer of a new method to produce critical metals.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "raised $128 million across seed and Series A rounds",
+    "round": "across seed and Series A rounds",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "weeks 10 biggest funding",
+   "candidate_ids": [
+    "ec30f8193f78"
+   ],
+   "company": "Ramon.Space",
+   "website": null,
+   "amount_usd": 124000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-20",
+   "lead_investors": [
+    "PSG"
+   ],
+   "investors": [
+    "PSG"
+   ],
+   "hq_city": "Denver",
+   "hq_state": "CO",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Space computing infrastructure.",
+   "description": "Developer of space computing infrastructure.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "pulled in $124M in Series B funding led by PSG",
+    "round": "$124M in Series B funding",
+    "lead": "led by PSG",
+    "investors": "led by PSG"
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "weeks 10 biggest funding",
+   "candidate_ids": [
+    "ec30f8193f78"
+   ],
+   "company": "Marrow Therapeutics",
+   "website": null,
+   "amount_usd": 173000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-20",
+   "lead_investors": [
+    "Orbimed",
+    "Scion Life Sciences",
+    "venBio"
+   ],
+   "investors": [
+    "Orbimed",
+    "Scion Life Sciences",
+    "venBio"
+   ],
+   "hq_city": "Watertown",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Biotech, no AI claim.",
+   "description": "Genetic medicines company delivering siRNA to bone marrow; $53M Series A plus $120M Series B.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "combined $173 million in Series A and B funding",
+    "round": "Orbimed led its $120 million Series B round",
+    "lead": "Orbimed led its $120 million Series B round while Scion Life Sciences and venBio led the $53 million Series A",
+    "investors": "Orbimed led its $120 million Series B round while Scion Life Sciences and venBio led the $53 million Series A"
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
+    "https://en.wowtale.net/2026/11/21/236113/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "weeks 10 biggest funding",
+   "candidate_ids": [
+    "ec30f8193f78"
+   ],
+   "company": "Noeri",
+   "website": null,
+   "amount_usd": 110000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-20",
+   "lead_investors": [
+    "Menlo Ventures"
+   ],
+   "investors": [
+    "Menlo Ventures"
+   ],
+   "hq_city": "Palo Alto",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Self-improving AI for enterprises and researchers.",
+   "description": "Developer of self-improving AI for enterprises and researchers, launched from stealth.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "launched with $110 million in initial funding",
+    "round": "$110 million in initial funding",
+    "lead": "Menlo Ventures led the round",
+    "investors": "Menlo Ventures led the round"
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "weeks 10 biggest funding",
+   "candidate_ids": [
+    "ec30f8193f78"
+   ],
+   "company": "Seawolf Therapeutics",
+   "website": null,
+   "amount_usd": 100000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [
+    "Versant Ventures"
+   ],
+   "hq_city": "San Diego",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Biotech DNA delivery; no AI claim.",
+   "description": "Biotech developing a novel DNA delivery platform.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "has raised $100 million in funding to date",
+    "round": null,
+    "lead": null,
+    "investors": "with Versant Ventures"
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "biggest funding rounds this",
+   "candidate_ids": [
+    "a849c56de284"
+   ],
+   "company": "Science",
+   "website": null,
+   "amount_usd": 400000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series D",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Alameda",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim.",
+   "description": "Brain-computer interface company; duplicate of Crunchbase roundup row.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "secured $400 million in Series D funding",
+    "round": "secured $400 million in Series D funding",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://shattered.io/science-400-million-series-d-tops-weeks-biggest-funding-rounds/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "group_key": "marrow therapeutics",
+   "candidate_ids": [
+    "5aab4561955d"
+   ],
+   "company": "Marrow Therapeutics",
+   "website": null,
+   "amount_usd": 173000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Watertown",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Biotech, no AI claim.",
+   "description": "Duplicate of Crunchbase roundup row for Marrow.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "$173 million in combined funding",
+    "round": "a $53 million Series A and a $120 million Series B",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://en.wowtale.net/2026/11/21/236113/"
+   ],
+   "exclude_reason": "duplicate"
+  },
+  {
+   "group_key": "freshworks veterans bet on",
+   "candidate_ids": [
+    "640e97c66e49"
+   ],
+   "company": "Dreamteam",
+   "website": null,
+   "amount_usd": 53000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-21",
+   "lead_investors": [
+    "Accel",
+    "Together Fund"
+   ],
+   "investors": [
+    "Accel",
+    "Together Fund",
+    "Premji Invest"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-native CRM with AI agents.",
+   "description": "AI-native CRM startup founded by ex-Freshworks executives; seed plus Series A.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "has raised $53 million",
+    "round": "a seed round led by Together Fund and a Series A led by Accel",
+    "lead": "a seed round led by Together Fund and a Series A led by Accel",
+    "investors": "with Premji Invest also participating"
+   },
+   "source_urls": [
+    "https://indianstartupnews.com/funding/freshworks-veterans-bet-on-ai-to-rebuild-the-crm-raise-53-million-for-dreamteam-12814720"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "wingspire commits 30 million",
+   "candidate_ids": [
+    "419c299030a9"
+   ],
+   "company": "Wingspire Equipment Finance",
+   "website": null,
+   "amount_usd": 30000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Lender.",
+   "description": "Equipment financing commitment, not an equity round.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "committed $30 million to finance equipment",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/wingspire-commits-30-million-for-industrial-equipment-financing/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "redwire",
+   "candidate_ids": [
+    "7c0845e5acc9"
+   ],
+   "company": "Redwire",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Public company contract.",
+   "description": "Contract award, not funding.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "approximately $15 million contract",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/redwire-wins-15-million-solar-array-contract-from-ascendarc/"
+   ],
+   "exclude_reason": "public-company"
+  }
+ ]
+}
