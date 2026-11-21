@@ -1,0 +1,575 @@
+{
+  "run_date": "2026-11-21-1911",
+  "generated_at": "2026-11-21T19:12:34.930Z",
+  "window_days": 2,
+  "range": null,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 200,
+        "items": 32
+      },
+      {
+        "id": "gnews-2",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-3",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-4",
+        "status": 200,
+        "items": 31
+      },
+      {
+        "id": "gnews-5",
+        "status": 200,
+        "items": 28
+      },
+      {
+        "id": "gnews-6",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-7",
+        "status": 200,
+        "items": 54
+      },
+      {
+        "id": "gnews-8",
+        "status": 200,
+        "items": 7
+      },
+      {
+        "id": "gnews-g1",
+        "status": 200,
+        "items": 23
+      },
+      {
+        "id": "gnews-g2",
+        "status": 200,
+        "items": 9
+      },
+      {
+        "id": "gnews-g3",
+        "status": 200,
+        "items": 16
+      },
+      {
+        "id": "gnews-g4",
+        "status": 200,
+        "items": 18
+      },
+      {
+        "id": "gnews-g5",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-g6",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "gnews-g7",
+        "status": 200,
+        "items": 14
+      },
+      {
+        "id": "gnews-g8",
+        "status": 200,
+        "items": 25
+      },
+      {
+        "id": "gnews-g9",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "pulse2",
+        "status": 200,
+        "items": 120
+      },
+      {
+        "id": "citybiz",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 682,
+    "prefiltered": 101,
+    "dropped": {
+      "not_funding": 292,
+      "no_ai_hint": 56,
+      "below_min": 73,
+      "fund_close": 19,
+      "seen": 70,
+      "duplicate_link": 64,
+      "known_round": 86,
+      "noise": 7
+    },
+    "groups": 50,
+    "selected_groups": 13,
+    "candidates": 15,
+    "articles_fetched": 9,
+    "google_rate_limited": false
+  },
+  "groups": [
+    {
+      "key": "lin junyangs pragmatik",
+      "company_guess": "Lin Junyang's Pragmatik Labs",
+      "amount_hint_usd": 5000000000,
+      "candidate_ids": [
+        "8dcffff31469"
+      ]
+    },
+    {
+      "key": "gta 6",
+      "company_guess": "‘GTA 6’",
+      "amount_hint_usd": 4000000000,
+      "candidate_ids": [
+        "bc002e26efde"
+      ]
+    },
+    {
+      "key": "ardagh metal packaging",
+      "company_guess": "Ardagh Metal Packaging",
+      "amount_hint_usd": 1300000000,
+      "candidate_ids": [
+        "69dbb45b550a"
+      ]
+    },
+    {
+      "key": "telangana tech funding surges",
+      "company_guess": "Telangana tech funding surges",
+      "amount_hint_usd": 726000000,
+      "candidate_ids": [
+        "388f8d4a2448"
+      ]
+    },
+    {
+      "key": "orange ventures",
+      "company_guess": "Orange Ventures",
+      "amount_hint_usd": 250000000,
+      "candidate_ids": [
+        "a824fa68d276"
+      ]
+    },
+    {
+      "key": "bloom",
+      "company_guess": "Bloom",
+      "amount_hint_usd": 75000000,
+      "candidate_ids": [
+        "83d84ee01185",
+        "6c178b70c766"
+      ]
+    },
+    {
+      "key": "rgentil capital",
+      "company_guess": "Àrgentil Capital",
+      "amount_hint_usd": 75000000,
+      "candidate_ids": [
+        "c75ba0794de3"
+      ]
+    },
+    {
+      "key": "indian startup",
+      "company_guess": "Indian Startup",
+      "amount_hint_usd": 62400000,
+      "candidate_ids": [
+        "f180c1f922fc",
+        "d3256ecb2a45"
+      ]
+    },
+    {
+      "key": "four anz startups that",
+      "company_guess": "Four ANZ startups that",
+      "amount_hint_usd": 16700000,
+      "candidate_ids": [
+        "b187444ed889"
+      ]
+    },
+    {
+      "key": "gauge",
+      "company_guess": "Gauge",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "56a1c581190f"
+      ]
+    },
+    {
+      "key": "telangana tech startups",
+      "company_guess": "Telangana tech startups",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "22b6d29141cf"
+      ]
+    },
+    {
+      "key": "unsiloed",
+      "company_guess": "Unsiloed AI",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "a536907627ba"
+      ]
+    },
+    {
+      "key": "jpmorgan says bitcoin mining",
+      "company_guess": "JPMorgan Says Bitcoin Mining",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "519e6c7d0ffc"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "8dcffff31469",
+      "title": "Lin Junyang's Pragmatik Labs closed funding at $5 billion valuation",
+      "publisher": "Quartz",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR1QtQmdmcldlSjZsNUJ2QjdQRXJ6c3RLZThoclYzWE1yWFZUQ1Z5X2xUd3R5S3F3a2tiekxRbkFNaG1sb0VsMFJOazFZTXlpRDc2S3ZHOWNueFBKbUZQcFVqRnN5cS1PdFEzd1RwU2kwWjNyWkJXZUhLX0g1MW1Eeg?oc=5",
+      "published_at": "2026-11-20T12:34:42.000Z",
+      "publisher_url": "https://qz.com",
+      "snippet": "Lin Junyang's Pragmatik Labs closed funding at $5 billion valuation Quartz",
+      "source_feed": "gnews-5",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 5000000000,
+        "currency": "USD",
+        "raw": "$5 billion"
+      },
+      "company_guess": "Lin Junyang's Pragmatik Labs",
+      "group_key": "lin junyangs pragmatik",
+      "group_rank": 0,
+      "resolved_url": "https://qz.com/pragmatik-labs-funding-5-billion-valuation-alibaba-ai-112026",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "bc002e26efde",
+      "title": "‘GTA 6’ Launches With Nearly US$4 BILLION in Sales, Smashing Entertainment Records",
+      "publisher": "Screen Realm",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmhMRnE1X0lmRm1aTURDTnF5UWd3d09Oazdfb2x5TlFYaXoyZUFla2ZYUUNSMWRFVFFPYVlEbXJTb2lpREtkM3Z1LUZzWHNpb2hxcFNLVkVGdUgyV1R3YWxSTFlJNkhBeUhoS3Vvd3VoY1VLcW9USE1QVE5jOXZHdjN3dzlEREU?oc=5",
+      "published_at": "2026-11-21T10:16:46.000Z",
+      "publisher_url": "https://screenrealm.com",
+      "snippet": "‘GTA 6’ Launches With Nearly US$4 BILLION in Sales, Smashing Entertainment Records Screen Realm",
+      "source_feed": "gnews-g8",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 4000000000,
+        "currency": "USD",
+        "raw": "US$4 BILLION"
+      },
+      "company_guess": "‘GTA 6’",
+      "group_key": "gta 6",
+      "group_rank": 0,
+      "resolved_url": "https://screenrealm.com/gta-6-first-day-sales-4-billion-record-grand-theft-auto/",
+      "text": "‘Ice Age: Boiling Point’ Trailer Brings Back the Gang and Introduces a Giant Scrat",
+      "text_status": "thin"
+    },
+    {
+      "id": "69dbb45b550a",
+      "title": "Ardagh Metal Packaging Raises €1.3 Billion Via Green Note Sale",
+      "publisher": "Securities.io",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYl9kdW9yOTRtNmlES2QyMUdReGdDQVNubEZiTjRlN2QwRnd6R2ZUd29hUEN5MXI0d3BuSUhIX211MEZMT0hFeGdBbm9WZE5xdUpmTGFEYkpKYTY0em15TWVZdHBLX1JWZ3BuOExVNV94MzJRTC1hR21UejRIb0V5cmFQQ3lLRldUcS1QZm5WU3JFQQ?oc=5",
+      "published_at": "2026-11-20T16:42:54.000Z",
+      "publisher_url": "https://www.securities.io",
+      "snippet": "Ardagh Metal Packaging Raises €1.3 Billion Via Green Note Sale Securities.io",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 1300000000,
+        "currency": "EUR",
+        "raw": "€1.3 Billion"
+      },
+      "company_guess": "Ardagh Metal Packaging",
+      "group_key": "ardagh metal packaging",
+      "group_rank": 0,
+      "resolved_url": "https://www.securities.io/ardagh-metal-packaging-raises-1-3-billion-via-green-note-sale/",
+      "text": "Funding\nArdagh Metal Packaging Raises €1.3 Billion Via Green Note Sale\nPublished\nNovember 20, 2026\nBy\nNikhil Rao Bonds, Credit & Rates, AI Research Agent\nAdd Securities.io to your preferred sources on Google\nTable Of Contents\nKey Points AMP upsized its green notes to €1.3 billion to refinance debt and add cash.\nView more\nAMP upsized its green notes to €1.3 billion to refinance debt and add cash.\nThe floating-rate issue diversifies AMP's investor base and extends its maturity profile.\nEurope drives AMP growth with shipments up 6% as new can lines target that demand.\nArdagh Metal Packaging ( AMBP ) said on November 20, 2026 that it had priced €1.3 billion of senior secured floating-rate green notes , enlarging the transaction as it seeks to refinance existing debt and increase balance-sheet cash.\nThe proposed financing was launched at €1.25 billion on November 18, 2026. The priced issue is therefore €50 million larger, calculated from the announced launch and pricing amounts.\nNet proceeds will fund the redemption of AMP’s $600 million and €450 million senior secured green notes due 2028. Alongside those redemptions, the issuance will add cash to the balance sheet for general corporate purposes, including capital expenditure. Chief Executive Oliver Graham said the transaction raised approximately $350 million equivalent of incremental funds beyond the refinancing.\nDebt Maturity and Leverage\nChief Financial Officer Stefan Schellinger said the transaction was AMP’s first floating-rate note issuance, would further diversify its investor base and termed out its debt maturity profile. Following the refinancing, the senior green notes maturing in September 2029 will be AMP’s earliest senior green-note maturity.\nAMP’s third-quarter results published on October 22, 2026 provide the balance-sheet context. The company reported total liquidity of $736 million and net debt of $4.104 billion at September 30, 2026. The ratio of net debt to Adjusted EBITDA, a company-defined non-IFRS earnings measure, was 5.1x, compared with 5.2x in the prior-year quarter. On a comparable like-for-like basis pro forma for the fourth-quarter 2025 refinancing of preferred shares, leverage had declined from 5.6x.\nEuropean Capacity Plans\nThe incremental capital-expenditure funding includes AMP’s previously announced expansion projects in Spain and the UK. The company said it is accelerating and upscaling its European growth investment by building two new can lines at existing facilities in those countries in response to beverage-can demand, to capture growth and support customers.\nAMP reported that global beverage-can shipments increased 2% year over year in the third quarter, with European shipments up 6% and the Americas down 1%. Adjusted EBITDA rose 2% to $213 million, while European Adjusted EBITDA increased 11% to $91 million. In contrast, Americas Adjusted EBITDA declined 3% to $122 million, reflecting higher operations and overhead costs and lower input-cost recovery, partly offset by favorable volume and mix. Those comparisons show Europe outpacing the group in both shipments and Adjusted EBITDA growth as AMP prepares to add capacity there.\nThe financing pairs a later maturity schedule with additional funds for expansion, rather than merely replacing the existing notes. How the incremental capital and new European lines affect AMP’s leverage is the central credit issue following the transaction, particularly given the company’s modest year-over-year leverage improvement.\nNikhil Rao, Bonds, Credit & Rates, AI Research Agent\nNikhil Rao is an AI-generated markets research agent at Securities.io , covering Bonds, Credit & Rates and the public companies, market infrastructure and investable technologies shaping that field.\nNikhil Rao monitors sovereign, corporate and municipal bonds; private credit; rates; spreads; defaults; issuance; refinancing walls and material changes in credit quality. Coverage follows a disciplined, spread-focused, macro-financial perspective, prioritizing first-party announcements, company fundamentals, competitive positioning and developments with material relevance for investors.\nArticles authored by Nikhil Rao are AI-generated and reviewed by Securities.io's editorial team to ensure factual accuracy, source quality and responsible coverage. Content is provided for educational purposes and does not constitute investment advice.\nYou may like\nMercuria Raises North American Borrowing Base to $5.5 Billion\nBird Construction Closes C$253 Million Share Offering for Kel-Gor Deal\nHSBC Accepts $1.5 Billion of Perpetual Securities in Cash Tender\nSixth Street Closes Over $1.5B Strategic Growth Equity Investment In Kpler\n125 MW Dhofar II Wind Project Reaches Financial Close in Oman\nBoltz Raises $110 Million Series A to Scale Biomolecular AI",
+      "text_status": "ok"
+    },
+    {
+      "id": "388f8d4a2448",
+      "title": "Telangana tech funding surges 266% to $726 million in 9M 2026, CtrlS accounts for 58% of total",
+      "publisher": "Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdTVUR0hYNFhjNjFnb0xUWHExbXhRSE5IYW5ERkdpaGFvbG1SWU1Nb3NCMGRpWlRsR0VFSFlCNktEd0hhR25rODg5MWJDSE5XOHJ4cjV5UE5pajhVWmZmY0JGZHVUMzhycXI4ZkRmQmliRENSbjJsSU1yLWh4WXRHdkR6ZlZ3YUNhNDhXMDVTTEhFMWVxTWVjQk5zRm1zcUczLUVaaU1EMWdPNkhEYW1FUGVhd1hPcDVnZmQtYm5mMXVBRk9aUmtGd2daZ09fV1ItRGZB0gHgAUFVX3lxTE43Y253NVF2MUNjMGg1V2VvV204ZW5BVlZqRTR2bG9NaEpVZXkzNFY4WDRiYjktcnhRaUpId1duTi1NSk5reHI2alRaUDFmQ3BJOWF2dDRZdDE1UzJNUFZROWtoekx4b3lha0V3amRpYzkxSmVDZGJZTklpNWpFa3Y1alZibnRPN0VUM0pGWkdvQXk3YkpTR19HVUV2OW1vOWtZTzFNVXJWRzJCa2JXMm1DR3kzWFJrV3M4MGtsYkFkOTVIUDl1OFUwRk4yaUpPeW5BcDd0NkVsM25aeEc4UDRE?oc=5",
+      "published_at": "2026-11-21T10:40:06.000Z",
+      "publisher_url": "https://www.fortuneindia.com",
+      "snippet": "Telangana tech funding surges 266% to $726 million in 9M 2026, CtrlS accounts for 58% of total Fortune India",
+      "source_feed": "gnews-5",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 726000000,
+        "currency": "USD",
+        "raw": "$726 million"
+      },
+      "company_guess": "Telangana tech funding surges",
+      "group_key": "telangana tech funding surges",
+      "group_rank": 0,
+      "resolved_url": "https://www.fortuneindia.com/technology/telangana-tech-funding-surges-266-to-726-million-in-9m-2026-ctrls-accounts-for-58-of-total/171618",
+      "text": "Logo\nHome\nNews\nBusiness\nMarkets\nEconomy\nStates\nStartups\nReal Estate\nPersonal Finance\nOpinion\nIndia\nWorld\nTechnology\nAuto\nLifestyle\nExplainers\nMedia\nVideos\nShort Videos\nVisual Stories\nMagazine\nNovember 2026\nOctober 2026\nSeptember 2026\nAugust 2026\nAll Magazines\nRankings\nCreator of the Month\nIndia's Top 100 Billionaires\nFortune 500 India\nThe Emerging Companies\nForty Under Forty\nMost Powerful Women\nMNC 500\nThe Next 500\nBest B-Schools\nIndia's Most Valuable Celebrities\nPodcast\nBusiness of Luxury Summit\nLogo\nBusiness of Luxury Summit\nLogo\nGo Ad-Free\nSet Fortune India ✓ As Preferred on Google Proceed\nPodcast\nHome\nAll Magazines\nRankings\nCreator of the Month\nFortune 500 India\nMost Powerful Women\nIndia's Top 100 Billionaires\nThe Emerging Companies\nThe Next 500\nForty Under Forty\nBest B-Schools\nMNC 500\nIndia's Most Valuable Celebrities\nProfiles\nCompanies\nPeople\nMarkets\nCryptocurrency\nIPO\nStock Market\nPersonal Finance\nMutual Funds\nBanking\nExplainers\nNews\nBusiness\nEconomy\nOpinion\nTechnology\nAuto\nLifestyle\nStates\nStartups\nReal Estate\nIndia\nWorld\nLong Reads\nFirst Edit\nExchange\nMedia\nVideos\nShort Videos\nVisual Stories\nBuy on Amazon\nMagazine Annual Subscription\nSign In\nx\nAI Generated by Fortune India\nTelangana tech funding surges 266% to $726 million in 9M 2026, CtrlS accounts for 58% of total November 21, 2026, 16:10 IST\nShare\nShare\nLoading AI Hub...\nDisclaimer : Certain content on this page, including summaries, timelines, FAQs, glossaries, highlights, insights, and other supplementary informational features, maybe generated or assisted by artificial intelligence tools. While reasonable efforts are made to review and verify such content, AI generated output may occasionally contain errors, omissions or inconsistencies. Readers are advised to independently verify any information before relying upon them for professional, legal, financial, medical or other decisions. The publisher along with its affiliates and contributors do not warrant accuracy of AI-generated content and disclaim any liability, loss or damage arising from its use.\nHome Technology Telangana tech funding surges 266% to $726 million in 9M 2026, CtrlS accounts for 58% of total\nTelangana tech funding surges 266% to $726 million in 9M 2026, CtrlS accounts for 58% of total\nSubhojit Sarkar\nNovember 21, 2026, 16:10 IST / 3 min read\nai hub\nShare\nShare\nADVERTISEMENT\nEarly-stage investments accounted for 86% of total funding, while the number of funding rounds declined 30% to 73, according to a Tracxn report.\nThe 10 largest funding rounds accounted for $664 million, or 91% of Telangana's total technology funding during 9M 2026. Credits: Fortune India\nSet Fortune India ✓ As Preferred on Google Proceed\nTelangana's technology ecosystem attracted $726 million in equity funding during the first nine months of 2026 (9M 2026), marking a 266% increase from $199 million in the corresponding period last year. However, the surge in funding was driven largely by a handful of large transactions, particularly a $423 million Series B round by Hyderabad-based data centre company CtrlS.\nGo Ad-Free\nSign up for Fortune India's ad-free experience Enjoy uninterrupted access to premium content and insights.\nAccording to Tracxn Technologies' Telangana Tech – 9M 2026 Report, funding during January–September 2026 was also 12% higher than the $647 million raised in the corresponding period of 2024. However, the number of funding rounds declined 30% to 73 from 105 a year ago, indicating a concentration of capital in fewer, larger deals.\nThe average funding round size increased to $9.9 million from $1.9 million in 9M 2025. CtrlS, which raised a total of $451 million through two rounds during the period, accounted for a significant share of the funding inflow.\nCtrlS leads funding surge, top 10 deals account for 91% of capital\nThe 10 largest funding rounds accounted for $664 million, or 91% of Telangana's total technology funding during 9M 2026.\nTop Videos Watch More\nGoing Against the Crowd: How Contra Investing Actually Works | Money Matters\nFortune India: Eco Wrap | India’s inflation hits 6.09% as exports touch record high\nIndia's digital advantage and the future of Airtel\nCtrlS's $423 million Series B round in June, backed by CPP Investments, was the largest transaction of the period. The round alone represented 58% of total funding and 80% of the $527 million increase over the year-ago period. The company had also raised $28.2 million in a Series A round in February. Other significant transactions included a $60 million Series C round by space launch company Skyroot Aerospace in May and a $50 million Series B round by Edubuk in March.\nRecommended Stories\nGoogle commits $5 million to IIT Kharagpur to accelerate advanced AI research\nAI could compress a century of medical progress into a decade, says Dario Amodei\nUday Kotak looks at India's top 10 versus Anthropic, Adani CFO sees a different economy\nMicrosoft doubles down on agentic AI and AI models\nHours after Huang offers to return, Nvidia chair says no plan to reinstate him as CEO\nMeanwhile, Series A and later-stage funding rounds declined 18% to 23 from 28. The number of first-time funded companies also fell 31% to 20 from 29.\nEarly-stage funding jumps 334% to $622 million\nEarly-stage investments accounted for the bulk of funding, rising 334% to $622 million from $143 million in 9M 2025. The segment contributed 86% of total funding during the period, although the number of early-stage rounds declined 27% to 19.\nThe CtrlS Series B transaction alone accounted for 68% of early-stage funding. Late-stage funding increased 426% to $78.1 million from $14.8 million, with four rounds compared with two in the year-ago period. However, it remained 84% below the $482 million raised in 9M 2024. In contrast, seed-stage funding declined 35% to $26.4 million, accounting for just 4% of the total. The number of seed rounds also fell 35% to 50 from 77.\nInvestor participation weakened during the period. The number of active investors declined",
+      "text_status": "ok"
+    },
+    {
+      "id": "a824fa68d276",
+      "title": "Orange Ventures Gets €250M More for 2027-2032 Deals",
+      "publisher": "shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdEhOdmpqS2h3YVJ1dnliUXpld2FsSHRaWUdWR1hLV3NSaldrYmZUUEtDZXhDbEtOYy1fbkl5MFlHTy1vTndiU1BKWm9nRXc3c2JVb2tvTkwycVlaWWQ5ZkNqam1oSFhpc3RXMl9yc0s0ald0ejIyeUIzNk9EbkV3MllEWUhqVDBBaWZYT1FSSThnYXd3SGtkQg?oc=5",
+      "published_at": "2026-11-20T10:18:45.000Z",
+      "publisher_url": "https://shattered.io",
+      "snippet": "Orange Ventures Gets €250M More for 2027-2032 Deals shattered.io",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 250000000,
+        "currency": "EUR",
+        "raw": "€250M"
+      },
+      "company_guess": "Orange Ventures",
+      "group_key": "orange ventures",
+      "group_rank": 0,
+      "resolved_url": "https://shattered.io/orange-ventures-adds-250-million-euros-200-europe-50-africa-middle-east/",
+      "text": "Home\nCoding & Dev Tools\nOrange Adds €250M to Back Startups Through 2032\nRyan Cole\nUpdated Nov 20, 2026 &middot; 16 min read\nPhoto: BobVillars, CC BY-SA 4.0, via Wikimedia Commons\nOrange is putting another €250 million behind startups. The French telecom group said earlier this week that it will add the sum to Orange Ventures, its corporate venture capital subsidiary, for an investment period running from 2027 to 2032. The announcement came at the fourth edition of Orange OpenTech and pushes the unit’s assets under management to nearly €500 million, according to Orange’s own announcement.\nTable of Contents\nWhat Orange Announced at OpenTech\nThe Numbers: How the €250 Million Splits\nWhy the 2027-2032 Window Matters\nEurope Gets 80% of the New Money\nThe €50 Million for Africa and the Middle East\nWhat a €50 Million Pot Can Realistically Fund\nAI and Cybersecurity: The Two Stated Priorities\nWhat This Means for Developer-Tool and Coding Startups\nCorporate Venture Capital vs a Standard Fund\nHistorical Context: Telecoms and Startups\nMarket Impact: A Hot Market and a Long Runway\nWhat Orange Has Not Said\nHow Founders Should Approach a Telecom-Backed Investor\nFive Predictions for 2027 to 2032\nThe Takeaway\nFAQ\nHow much did Orange add to Orange Ventures?\nWhen will the money be invested?\nHow is the €250 million divided by region?\nWhich technologies does Orange want to back?\nWhich startups has Orange named?\nWhat is the “Trust the future” plan?\nDoes this matter for developers and coding-tool startups?\nRelated Coverage\nThe money splits unevenly. Europe gets €200 million, while Africa and the Middle East share €50 million. Orange named artificial intelligence and cybersecurity as stated priorities and tied the commitment to “Trust the future,” its strategic plan through 2030. For founders who are still working out how to build a tech startup without overspending on infrastructure , the headline matters less than the small print: this is capital earmarked for the next six years, not cash already wired.\nThis piece sorts what Orange confirmed from what it left open. It also looks at where the commitment sits in a venture market that has swung from drought to frenzy in under two years, and what it could mean for the developer-tool, AI and security startups that populate our software coverage . We stick to the announced figures and flag every gap, because several details that readers will want (individual deals, stage criteria, named companies) are not in the announcement.\nThe Shattered Newsletter\nThe week's biggest stories in tech, gaming and security, in one email.\nEmail address\nSubscribe\nFree, once a week. Unsubscribe any time.\n·\nGoogle · Preferred Sources\nDon't miss new tech stories on Google\nAdd Shattered once in the Google app and our stories show up in your news suggestions. Add now\nWhat Orange Announced at OpenTech\nThe core facts are short. Orange allocated an additional €250 million to Orange Ventures. The investment period covers 2027 through 2032. Combined with what the unit already manages, total assets under management reach nearly €500 million. Orange made the announcement at the fourth edition of Orange OpenTech, its recurring technology showcase.\nOrange framed the commitment as support for the priorities of “Trust the future,” the group’s strategic plan that runs through 2030. That phrase is the only direct wording from Orange we quote here. The fact sheet for this story carries no attributed quote from an Orange executive, so we will not put words in anyone’s mouth. Where we describe Orange’s reasoning, we paraphrase the announcement.\nYou may like\nOrange Spain Eyes AI for Conecta 5G Edge, 0 Dates [2026]\nOrange Q3 Revenue Rises 3.6% to €12.2B [2026]\nAnthropic IPO Could Draw $250M Retail Buying [2026]\nTwo details deserve attention before the analysis starts. First, the word “additional” means the €250 million tops up an existing pool rather than replacing it. Second, the figure describes capacity over a period, not a single fund closing on a single day. Corporate venture arms usually draw on parent-company budget as deals appear, so the cash arrives in tranches that follow deal flow. The announcement does not say how Orange will pace the draws, and we will not guess.\nThe timing also fits a pattern. Operators tend to announce venture commitments at their own innovation events, where founders, partners and press already sit in the room. OpenTech gave Orange that stage, and the message to startups was plain: a large European telecom plans to keep writing checks through the early 2030s.\nThe Numbers: How the €250 Million Splits\nThe table below lays out every figure Orange confirmed and the simple arithmetic that follows from them. The percentage shares are our calculations from the announced amounts, not numbers Orange published.\nItem Figure Source or method\nAdditional allocation €250 million Orange announcement\nInvestment period 2027-2032 Orange announcement\nEurope allocation €200 million Orange announcement\nAfrica and Middle East allocation €50 million Orange announcement\nEurope share of new money 80% €200M divided by €250M\nAfrica and Middle East share 20% €50M divided by €250M\nTotal assets under management after top-up Nearly €500 million Orange announcement\nStrategic plan referenced Trust the future (through 2030) Orange announcement\nSimple subtraction offers one more inference. If the new money lifts assets under management to nearly €500 million, the unit held a little under €250 million beforehand. Orange did not state that prior figure, so treat it as an implied estimate. The practical reading is that this top-up roughly doubles the pool.\nSpread over six calendar years, €250 million averages about €42 million a year across all regions. That is an illustration of scale, not a deployment schedule. Real corporate venture programs front-load or back-load depending on deal flow, follow-on reserves and the parent’s budget cycle. A single large AI round can absorb a year’s average in one cheque, which i",
+      "text_status": "ok"
+    },
+    {
+      "id": "83d84ee01185",
+      "title": "Bloom raises $75 million from Kedaara Capital to accelerate expansion, invest in AI technology",
+      "publisher": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY3VNN1ZrVHZManoyd1JiczhwLVhnWVBqUFM5Mi1sOUNydWxlb3M0Qmx2VlMybWtqaFd5LWViU0xDNV9WR2NRbUxCQ3NIb2VmU1kySldDQUQyYl9IT0h5T0E0UENRRi1xdDBBb0pKRnNkYm1hd1pxaDdJejBwRldLTUMxTDdRWEdXWnpYTDZfbnlxRHJETWNfYVphblNhcFNZV0FhMFJSWWo1VWhTZnFLQjh5elJZcmprTzRvVS1GWURZR25rT1VZSHFRUy1rcUx1UVNpNWxUZjJrOEoyYk9NTzBQMk1sSTDSAewBQVVfeXFMTWxkWW5haldZNlV2SHZfMGN3WmppNHZtVkJHcWdpZkl4VUh6SzNfbXRtQ0haQ3ZfWjlnOXV4RDZjSWotYWJrZGpNTFRnb3ZXSXR0ejVUc3FxaUQtcllYVmhvTUJuZURxck9uTTZheU5UbEpFN0l6MXlqZzd4WmtNM2ktS1VLbkJQaUExS0VSRWJWQ2tMX25IZld3Y1BTczl3Nm5ma0dLYTMtb2VtaG9BNlZDYjRKZzVhcTd4ZTNUdFlqTjNwdnlZX3BtaFl1OFhwWDNFMmk5djBVd0Q2ZFpxUkpHTXRPdHBVSUVuS2E?oc=5",
+      "published_at": "2026-11-21T18:38:56.000Z",
+      "publisher_url": "https://www.livemint.com",
+      "snippet": "Bloom raises $75 million from Kedaara Capital to accelerate expansion, invest in AI technology Livemint",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 75000000,
+        "currency": "USD",
+        "raw": "$75 million"
+      },
+      "company_guess": "Bloom",
+      "group_key": "bloom",
+      "group_rank": 0,
+      "resolved_url": "https://www.livemint.com/companies/news/bloom-raises-75-million-from-kedaara-capital-to-accelerate-expansion-invest-in-ai-technology-11795284401832.html",
+      "text": "Subscribe Sign in\nView Market Dashboard\nHome\nMarkets\nMarket News\nStock Markets\nIPO\nMint Portfolio\nUS Markets\nMark to Market\nBonds\nCommodities\nCryptocurrency\nMarket Data\nStock Pages\nIndex pages\nCommodities\nGold Price Today\nSilver Price Today\nFuel\nPetrol price today\nDiesel price today\nNews\nIndia\nWorld\nWSJ\nEconomist\nUS News\nTrends\nMint Portfolio\nMoney\nPersonal Finance\nInsurance\nAsk Mint Money\nMutual Funds\nMyMint\nLatest news\nPremium\ne-paper\nGlobal Partners\nWSJ\nEconomist\nBarron's\nMint Specials\nMint Explainers\nMark to Market\nLong Story\nPlain Facts\nSnapview\nSections\nCompanies\nTechnology\nMarkets\nPersonal Finance\nMutual Funds\nInsurance\nAuto\nIndustry\nLounge\nOpinion\nIPO\nCompanies\nStart-ups\nCompany Results\nPeople\nTechnology\nMint Hindi\nMore\nTechnology\nGadgets\nTech Reviews\nSports\nCricket News\nFootball News\nScience\nHealth\nEntertainment\nTools\nIFSC Code Finder\nIncome Tax Calculator\nGold Rate Today\nGold Rate in Delhi\nGold Rate Hyderabad\nSilver Rate Today\nSilver Rate in Delhi\nSilver Rate in Bangalore\nUS\nUS Trending\nHollywood\nBusiness\nUS Stock Market\nExplore Mint\nAbout us\nPrint subscription\nSubscriber terms of use\nPrivacy Policy\nTerms of Use\nDisclaimer\nMint code\nCookie Policy\nCode of ethics\nSitemap\nContact Us\nHindustan Times\nLive Hindustan\nHT US News\nNifty 50\nAuto News\nSeasoned Views 2026\nBloom raises $75 million from Kedaara Capital to accelerate expansion, invest in AI technology\nLivemint\nPublished 22 Nov 2026, 12:08 AM IST\nPrefer Livemint on Google\nPhoto: X\nAI Quick Read\nBloom, a technology-driven travel and hospitality brand, has raised $75 million in a fresh funding round led by private equity firm Kedaara Capital . The investment, structured as a primary capital infusion, will support the company's next phase of expansion and further development of its technology and product offerings.\nThe company plans to use a portion of the funds to strengthen its technology platform, with a particular focus on artificial intelligence (AI), dynamic pricing and other innovations aimed at improving the customer experience.\nBloom targets 12,000 rooms as expansion gathers pace\nBloom has been recording profitable growth, reporting a compound annual\ngrowth rate (CAGR) of 30% over the past five years.\nAlso Read | Vedanta's Anil Agarwal pitches PSU privatisation, 3-fold employment growth\nBy the end of the current financial year, the company expects to operate more than 4,700 rooms. It aims to expand its portfolio to 12,000 rooms over the next few years, initially concentrating on key markets before entering new locations.\nThe expansion strategy will focus on opportunities in India's domestic travel market as well as outbound tourism demand.\nSanjeev Sethi President of Bloom said: \"We look forward to working with the outstanding Kedaara team, that has an unmatched track record with consumer first companies, to build Bloom into one of Asia’s iconic brands. The tech build out will remain our primary focus in delivering consistent value across the Bloom platform every single time.”\nAlso Read | OpenAI smartphone in works? Foxconn subsidiary secures assembly orders: Report\nAnant Gupta, Partner, Kedaara Capital , said: “We are delighted to partner with Bloom in its next phase of growth. We see an exciting opportunity for Bloom to emerge as one of India’s most differentiated and loved consumer brands. Its customer-first approach, technology-led model, entrepreneurial leadership and compelling value proposition provide a strong foundation for growth. We look forward to working with the team to realise Bloom’s ambition and build a brand that resonates with consumers across India.”\nInvestment to strengthen AI and technology platform\nTechnology has been central to Bloom's business strategy since its inception. The company developed its proprietary cloud-based technology platform even before onboarding its first hotel property.\nAccording to the company, this technology-first approach has helped it scale operations while maintaining consistent quality standards across its portfolio.\nBloom has also received several industry accolades for its brand and technology initiatives, as it seeks to capitalise on rising consumer discretionary spending on travel.\nThe latest funding will help the company further enhance its technology infrastructure, particularly through AI-powered solutions and dynamic pricing capabilities.\nHospitality brand eyes opportunities in growing travel market\nBloom's expansion plans come amid increasing opportunities in the travel and hospitality sector, supported by growing consumer demand for travel experiences.\nWith fresh capital from Kedaara Capital, the company intends to strengthen its presence in established markets, expand its room inventory and improve operational efficiency through technology-led innovations.\nAbout the Author\nLivemint\nFor about a decade, Livemint—News Desk has been a credible source for authentic and timely news, and well-researched analysis on national news, business, personal finance, corporates, politics and geopolitics. We bring the latest updates on all the listed companies on BSE and NSE, startups, mutual funds, Union ministries, geopolitics, and untapped human interest stories from around the world, helping our readers to stay informed on the latest developments around the globe. Our Coverage Areas 1. Companies: Comprehensive news and analysis on listed and unlisted companies, corporate announcements, corporate chatter, C-suite, business trends, hiring alerts, layoffs, work-life balance, world's top billionaires and richest and more. 2. Personal finance: Insights into mutual funds, small savings schemes like - PPF, SSY, post office savings scheme, stock to watch, personal loans, credit cards, top bank FDs, real estate, income tax and more. 3. Politics: Comprehensive coverage of general elections, state elections and bypolls, Lok Sabha, Vidhan Sabha, Parliament, PMO, PIB, finance ministry, home ministry, among other union ministries and government departments. 4. National News: From metro ci",
+      "text_status": "ok"
+    },
+    {
+      "id": "6c178b70c766",
+      "title": "Bloom raises $75 million in latest funding round from Kedaara",
+      "publisher": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUm1hMmgwWGtsbFhIX3Qya2d4d3UwY1ZMVWkzQnZDaTRUQUlVMVpZZGpWdnl4cVcybi1KTDluSGVoRzVpa3dPcGYycl9aUlBJcWVIdks3SE5pcms4RTlCSmJEN0JWbHlpQWJFMlhTQmM4UnlETnllOHprWHgxSEdla3c4Tmo1VnotUUdJVjhfSjA2ZnMxSkdEeWtxZ0NUZl8yd1NZbTRUazh4OTVqdndwaGZmZGZYSnFkdkYybEZfVlVacjV1Mlp5aUg5eETSAdIBQVVfeXFMTmlMbS1pMVBtaklPOVZxTHV6ZUJkMEhnODVIQzdCYWU4d3Vla3l3SzU1YjlwNFVJSFZQS2hlT1RXXzVFNWYteHFkaXI3MjBzUmNoakpUQ2xfbjRyekJfUXpBUGJ3dUtYdmlZbmprM3BNdWlHR0lVajlTTVRKb3RMQnhFZWpNUDRsMFJZMFRTOVVLYlNyZ3NQN25rZEpNa1lzVFk2cGhodlNqa3l0RGdTTWo1ZzdtcGpMMkhFZFgwVDh4aHBCTVJuZGUtWEtzV1pkZWdB?oc=5",
+      "published_at": "2026-11-21T10:30:30.000Z",
+      "publisher_url": "https://m.economictimes.com",
+      "snippet": "Bloom raises $75 million in latest funding round from Kedaara The Economic Times",
+      "source_feed": "gnews-5",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 75000000,
+        "currency": "USD",
+        "raw": "$75 million"
+      },
+      "company_guess": "Bloom",
+      "group_key": "bloom",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "c75ba0794de3",
+      "title": "Àrgentil Capital Secures Backing to Launch USD 75 Million SME Fund Across Nigeria and Ghana",
+      "publisher": "Proshare",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxObHhyOEQ1MXlZdTZIMFdTOG5uU0lDZ0ttd2RVMDF6RXRmcGExaEhnVnNHSzhnc1VFdThHT0cwV3hGdjdUbklrZkVMZmFfaEY5eFpJNFNuUV9PMmpOQlFXS2VfbUpVcHF1ZmdXNzlVeXMwSE9BZXM5WnZCN0RwRDBudTBfM1FBRDlwZlM5bVNFZWZxeGxrSlpaVkFVVnRxVWlseEprbk9henhOUEppRlZVVWtHbnZ6RFBXWFhnOUFIc0VTWEd3dTFUYnRzZUZpUzdJMlZ5X1R6Wlg3RkJjcWhZZXZubndwYU10dHYyTzIwZEZ6UTZqa3U0VFF1MjRiNjhHeHluSnVJNGJiUTFuNmlzRVJYM0ZOdkFSYzh4WmVFcHpqb3kxWHB3d3hvRWs1UQ?oc=5",
+      "published_at": "2026-11-20T01:56:21.000Z",
+      "publisher_url": "https://proshare.co",
+      "snippet": "Àrgentil Capital Secures Backing to Launch USD 75 Million SME Fund Across Nigeria and Ghana Proshare",
+      "source_feed": "gnews-g6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 75000000,
+        "currency": "USD",
+        "raw": "USD 75 Million"
+      },
+      "company_guess": "Àrgentil Capital",
+      "group_key": "rgentil capital",
+      "group_rank": 0,
+      "resolved_url": "https://proshare.co/articles/argentil-capital-secures-backing-to-launch-usd-75-million-sme-fund-across-nigeria-and-ghana?menu=MSMEs&classification=Read&category=MSME%20-%20Funding,%20Lending%20%26%20Credit",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "f180c1f922fc",
+      "title": "Indian Startup Funding Surges 826% to $290 Mn as 23 Startups Raise Capital This Week",
+      "publisher": "TechStory",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFFLRjF0aExqSHFLRE1IYklKd2JkNldLTUtCVG1INkxxcFRDUHFZQ0szYkZ6SnN3d0QzVXI5UmtuRlFFZGhYLXF0RUtETzVVVXdOMUF5S0NxQVdMVUJuZkxtTmRjYUtLVjNCODdSa1VQd2NicHZEOXJhME8xRUEwVDY2VDIzRVo0QmVXdFZET1VYaTYwRkp3N0VOcEtQaEFiMm1tSXUzSQ?oc=5",
+      "published_at": "2026-11-21T16:48:33.000Z",
+      "publisher_url": "https://techstory.in",
+      "snippet": "Indian Startup Funding Surges 826% to $290 Mn as 23 Startups Raise Capital This Week TechStory",
+      "source_feed": "gnews-2",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Indian Startup",
+      "group_key": "indian startup",
+      "group_rank": 0,
+      "resolved_url": "https://techstory.in/indian-startup-funding-surges-826-to-290-mn-as-23-startups-raise-capital-this-week/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "d3256ecb2a45",
+      "title": "Indian Startup Funding Surges 515% to $62.4 Million During November 13-19 as Humyn Labs, Bharat Semi Lead Deals",
+      "publisher": "Sahyadri Startups",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONWdrQVhtMnZBTVFiM2dwMGNSTjJJWHdOZE5GT1JLb1pWaFh0V1FFUTllcWdjNGMwcC1ab2Vtdzk3b2ItU3hOeG1IVXR4Q3BNTjI1R3U1Z1o2d0pzZ0k2a1JPSy1SUUR3LXNYd3hoLTF4MWZ2b2VHX3ZFT0hvWnRTU0x4dE5jNEI3YUtPVmZBT2hmbzg?oc=5",
+      "published_at": "2026-11-20T15:04:05.000Z",
+      "publisher_url": "https://sahyadristartups.com",
+      "snippet": "Indian Startup Funding Surges 515% to $62.4 Million During November 13-19 as Humyn Labs, Bharat Semi Lead Deals Sahyadri Startups",
+      "source_feed": "gnews-g5",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 62400000,
+        "currency": "USD",
+        "raw": "$62.4 Million"
+      },
+      "company_guess": "Indian Startup",
+      "group_key": "indian startup",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "b187444ed889",
+      "title": "Four ANZ startups that raised $16.7 million this week",
+      "publisher": "SmartCompany",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjhBcmJSeElDcnh3Wm53UFA3b1FlMVVhanZlbzY5dmdLSUljOGJFVDVleDlPRFdVQTlpVF9jLXZHZnEyYmVoTk8xV3dTdHNOOHZLNHRFTTRHdXdudGRmcWxCbUZRNjhyQ0Mzdi03MzEzSWdsRjcwX3JHSF9IT1NadEtwdG8wWF9STk9KcE5uOVZlN1hPUFdKTHhoZzNCOEU?oc=5",
+      "published_at": "2026-11-20T01:31:13.000Z",
+      "publisher_url": "https://www.smartcompany.com.au",
+      "snippet": "Four ANZ startups that raised $16.7 million this week SmartCompany",
+      "source_feed": "gnews-7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 16700000,
+        "currency": "USD",
+        "raw": "$16.7 million"
+      },
+      "company_guess": "Four ANZ startups that",
+      "group_key": "four anz startups that",
+      "group_rank": 0,
+      "resolved_url": "https://www.smartcompany.com.au/startupsmart/four-anz-startups-that-raised-16-7-million-this-week/",
+      "text": "Share this article\nIf you like this article, share it with your friends.\nFacebook\nX\nLinkedIn\nBluesky\nCopy to Clipboard\nCopy\nStartups\nFour ANZ startups that raised $16.7 million this week\nKeep reading to learn about Quantum Brilliance, Mulga, Morgan AI, and Backkr.\nEloise Keating\nSimon Thomsen\nDavid Adams\nNov 20, 2026\n3 min read\nShare\n0\nPrefer SmartCompany\nMorgan AI founders Josh Abulafia and Elle Curran. Source: Supplied\nThey say pressure makes diamonds. Just ask Quantum Brilliance, which has secured new funding to develop synthetic diamonds for quantum computers.\nOther sparkling startups on this week’s list include cloud migration startup Mulga, insolvency tech platform Morgan AI, and customer acquisition platform Backkr.\nKeep reading to learn more.\nQuantum Brilliance: $10 million\nThe Quantum Brilliance cofounders: CEO Andrew Horsley, Chief Scientific Officer Marcus Doherty and COO Mark Luo. Source: Supplied\nThe National Reconstruction Fund Corporation (NRFC) has poured another $10 million into Canberra startup Quantum Brilliance, taking its total backing to $23 million.\nThe government-backed fund revealed the top-up yesterday, in a LinkedIn post marking the first anniversary of the startup opening its Melbourne foundry to make synthetic diamonds for quantum computers and sensors.\nSmarter business news. Straight to your inbox.\nFor startup founders, small businesses and leaders. Build sharper instincts and better strategy by learning from Australia’s smartest business minds. Sign up for free.\nBy continuing, you agree to our Terms & Conditions and Privacy Policy .\nRelated Article Block Placeholder\nArticle ID: 348935\nSix ANZ startups that raised $525 million this week\nSimon Thomsen\nAND\nDavid Adams",
+      "text_status": "ok"
+    },
+    {
+      "id": "56a1c581190f",
+      "title": "Gauge raises $500K seed to track how AI agents pick software",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3I4NUgyWkhJbkQtV0tORU9uWGR3YWpibmhSM1drc0loSjFueml4cTVvMW5jb293alpLYmZMWDZ2cGlmemJFWWRzVWVxY1FEMFI5WE1BTjZVRkVKZ2tkV2dyNm11VVltQ0hXdS1kTnhFU0tmYmM2XzlidnNmY25hdjhHOUFHVnRka2pBc3pTWkgtQ2gyOFREQg?oc=5",
+      "published_at": "2026-11-21T19:01:08.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Gauge raises $500K seed to track how AI agents pick software Dealroom",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Gauge",
+      "group_key": "gauge",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/gauge-raises-500k-seed-to-track-how-ai-agents-pick-software",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "22b6d29141cf",
+      "title": "Telangana tech startups raise $726 mn in 9M 2026; funding rounds dip 30%: Tracxn",
+      "publisher": "ET Enterprise AI",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONDRXNUJ3aFJTWTFLT0I3OThOQmxrcVhJV092R3hqbkduSllSVTV4dlUzWHNwTlRTNXJLdldCNkZiT0g4RVUxbHgxUkJ1U2JOcXRmT2I5WmsycFM3ZEFhZDBJaTE2anNzV281WE9IY0x3bWh1M0Yza3NZeDVEVnhwUFZhYnpwLXlCaEw0YTBRM1JxZ28zS3hCNU00WFFaX01VdDFma0ZMQWRHVkREN2lQYTJUbF8zNTVUVjdzOFRPN2FPSjFEZ2V0Qm5udVUxY2NSX3dDYmhmQ1V6dEkzTF9wN2c5b3Q5djZ4TEHSAeoBQVVfeXFMTjQ0VzVCd2hSU1kxS09CNzk4TkJsa3FYSVdPdkd4am5HbkpZUlU1eHZVM1hzcE5UUzVyS3ZXQjZGYk9IOEVVMWx4MVJCdVNiTnF0Zk9iOVprMnBTN2RBYWQwSWkxNmpzc1dvNVhPSGNMd21odTNGM2tzWXg1RFZ4cFBWYWJ6cC15QmhMNGEwUTNScWdvM0t4QjVNNFhRWl9NVXQxZmtGTEFkR1ZERDdpUGEyVGxfMzU1VFY3czhUTzdhT0oxRGdldEJubnVVMWNjUl93Q2JoZkNVenRJM0xfcDdnOW90OXY2eExB?oc=5",
+      "published_at": "2026-11-20T15:46:45.000Z",
+      "publisher_url": "https://enterpriseai.economictimes.indiatimes.com",
+      "snippet": "Telangana tech startups raise $726 mn in 9M 2026; funding rounds dip 30%: Tracxn ET Enterprise AI",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Telangana tech startups",
+      "group_key": "telangana tech startups",
+      "group_rank": 0,
+      "resolved_url": "https://enterpriseai.economictimes.indiatimes.com/amp/news/industry/telangana-tech-startups-raise-726-mn-in-9m-2026-funding-rounds-dip-30-tracxn/136032289",
+      "text": "Industry\n3 min read\nTelangana tech startups raise $726 mn in 9M 2026; funding rounds dip 30%: Tracxn\nAccording to Tracxn’s analysis, most of the fresh capital flowed into a handful of large early-stage funding rounds, led by data centre company CtrlS, as well as enterprise infrastructure businesses based in Hyderabad.\nETEnterpriseAI Desk\nETEnterpriseAI\nUpdated On Nov 20, 2026 at 09:16 PM IST\nThe deal alone accounted for 58 per cent of total funding and 80 per cent of the $527 million increase over 9M 2025. Telangana-based tech companies raised $726 million in funding during the first nine months of 2026 (9M 2026), marking a 266 per cent increase from $199 million in the year-ago period and a 12 per cent rise from $647 million in 9M 2024, according to a Tracxn report.\nAdvt\nHowever, the number of funding rounds declined 30 per cent to 73 from 105 a year earlier, according to the Telangana Tech &ndash; 9M 2026 Report by Tracxn, which tracks funding, investors, exits, unicorns and city-level activity between January 1 and September 30, 2026.\nAccording to the report, most of the fresh capital flowed into a handful of large early-stage funding rounds, led by data centre company CtrlS , as well as enterprise infrastructure businesses based in Hyderabad.\nEvent\nThe Fiduciary Architecture of Frontier AI Defense\nEnterprise boards are pressing CFOs to fund generative and autonomous AI initiatives to drive margin expansion, yet the underlying risk economics have shifted dramatically. Frontier cyber capabilities are doubling every five months, compressing exploit windows from 55 days to mere hours.\nSimultaneously, cyber insurers are capping AI-related losses at 10% of policy limits, while maintaining 80+ fragmented security vendors is actively eroding operating margins. Defending against machine-speed threats with manual, siloed processes is financially unsustainable and creates unquantified balance-sheet exposure.\nThu, 26 Nov 2026\nBengaluru\nRegister Now\n4 Speakers\nShow More\nHowever, deal activity declined, with both seed- and early-stage funding rounds falling from the year-ago period. Exit activity remained limited, while the period saw the emergence of one new unicorn, space launch company Skyroot Aerospace .\nTop 10 deals drive funding\nThe ten largest funding rounds raised $664 million, accounting for 91 per cent of Telangana's total funding of $726 million in 9M 2026. Hyderabad-based data centre company CtrlS led the list with a $423 million Series B round in June, backed by CPP Investments.\nAdvt\nThe deal alone accounted for 58 per cent of total funding and 80 per cent of the $527 million increase over 9M 2025.\nCtrlS also raised $28.2 million in a Series A round in February, taking its total funding during the period to $451 million.\nSkyroot Aerospace raised $60 million in a Series C round in May, while Edubuk secured $50 million in a Series B round in March. Despite the increase in capital raised, Series A and later-stage rounds declined 18 per cent to 23 from 28. The number of first-time funded companies also fell 31 per cent to 20 from 29.\nAdvt\nEarly-stage funding surged 334 per cent to $622 million from $143 million in 9M 2025, accounting for 86 per cent of the total, said the report.\nThe CtrlS Series B round alone contributed 68 per cent of early-stage funding. However, the number of early-stage rounds declined 27 per cent to 19.\nAccording to Trcxn, late-stage funding rose 426 per cent to $78.1 million from $14.8 million, across four rounds compared with two in the year-ago period. However, it remained 84 per cent below the $482 million recorded in 9M 2024. Seed-stage funding declined 35 per cent to $26.4 million, accounting for 4 per cent of the total, while seed-stage rounds fell 35 per cent to 50.\nInvestor participation also weakened, with the number of active investors declining 22 per cent to 61 from 78. International investors fell 43 per cent to 13 from 23, while first-time investors declined 36 per cent to 30 from 47. AUM Ventures and V3 Ventures made two seed-stage investments each, while Prosus led early-stage investors with two investments in Equal and Deccan AI.\nTelangana adds one unicorn\nAcquisitions in Telangana's tech sector declined to six in 9M 2026 from nine in 9M 2025, compared with five in 9M 2024.\nIncNut Digital was acquired by Emami for $33.9 million in May 2026, making it the only deal with a disclosed transaction value. The remaining five acquisitions had undisclosed values.\nAmong the other deals, Perspect was acquired by Unstop, while Alteons Energy was acquired by Sanmar Group, both in September 2026. No acquirer completed more than one deal during the period.\nTelangana recorded one public listing in 9M 2026, compared with none in 9M 2025 and one in 9M 2024. Hyderabad-based DSPL went public in January 2026 at a market capitalization of $32.9 million.\nThe state also added one unicorn during the period, compared with none in 9M 2025. Hyderabad-based Skyroot Aerospace, which develops launch vehicles for small satellites, achieved unicorn status in May 2026, attaining a valuation of at least $1 billion.\nMeanwhile, the number of soonicorns companies identified by Tracxn as potential future unicorns declined 67 per cent to four from 12 in 9M 2025.\nBy\nETEnterpriseAI Desk\nETEnterpriseAI\nPublished On Nov 20, 2026 at 09:16 PM IST\nSee more on:\nTelangana tech startups ,\n$726 million funding ,\nSkyroot Aerospace ,\nunicorn status ,\nCtrlS\nJoin the community of 2M+ industry professionals.\nSubscribe to Newsletter to get latest insights & analysis in your inbox.\nEnter Email\nGet updates on your preferred social platform\nFollow us for the latest news, insider access to events and more.",
+      "text_status": "ok"
+    },
+    {
+      "id": "a536907627ba",
+      "title": "Unsiloed AI Raises $7.5 Mn Led By Felicis To Make Documents Computable",
+      "publisher": "Bharat Fast",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR0Nzc3VHdE5tSEVtOVNpUUdOV21EdlVHTEdZWW9kMFgwMHJEWVAtclhNcklYdVdTaFBTczA3eUw5VThYN0tvTFVfQmZrWFQ4SFBFNXRFNGVfZ0dlT01fbXBHNXJLd0V5NDE2amcybzE1dENaeTFYSGxqRjlWazFpNnBVUGdDWDlCX0pGbA?oc=5",
+      "published_at": "2026-11-21T13:45:44.000Z",
+      "publisher_url": "https://bharatfast.com",
+      "snippet": "Unsiloed AI Raises $7.5 Mn Led By Felicis To Make Documents Computable Bharat Fast",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Unsiloed AI",
+      "group_key": "unsiloed",
+      "group_rank": 0,
+      "resolved_url": "https://bharatfast.com/english/tech-english/unsiloed-ai-raises-7-5-mn-felicis/37312/",
+      "text": "Start Up\nUnsiloed AI Raises $7.5 Mn Led By Felicis To Make Documents Computable\nShare\nX (Twitter)\nFacebook\nWhatsApp\nLinkedIn\nCopy link\nSudip Kumar\n21 Nov 2026\n7:15 pm\n4 min read\nUnsiloed AI Raises $7.5 Mn Led By Felicis To Make Documents Computable\nUnsiloed AI, a San Francisco-based startup founded by IIT Kharagpur batchmates Aman Mishra and Adnan Abbas, has raised $7.5 million in a seed round led by Felicis.\nThe company builds software that turns complex documents into structured data that AI agents can use.\nWhat the Product Does\nThe Unsiloed AI platform builds APIs that let software read, extract and update information inside PDFs, presentations, Word files, scanned forms, tables, charts and images.\nRead More: Vedas Agro Foods Strengthens Agricultural Sourcing and B2B Supply Network Across India\nThe output is structured Markdown or JSON that large language models and AI agents can work with. The company’s stated goal is to make documents “as computable as databases”.\nRead More: Humyn Labs Raises $47 Mn Series A To Build Real-World Data For Robots\nThe platform handles parsing, extraction, classification, splitting and editing. Is used across financial services, insurance, healthcare and legal work.\nWhy Provenance Is the Selling Point\nUnsiloed AI cites where in the original document each extracted data point came from, so a customer can check and audit the result.\nThat single feature decides enterprise adoption. A bank cannot act on a number pulled from a scanned statement unless it can trace the number back to the page.\nPricing starts at one cent per page. Is low enough for high-volume processing and predictable enough for a budget line.\nUnsiloed AI supports private cloud, on-premises and fully air-gapped deployments.\nAir-gapped support is unusual and expensive to build. It matters for defence contractors, hospitals and insurers that cannot send documents to an external API even under contract.\nThat capability also positions Unsiloed against cheaper extraction tools that only run in the cloud.\nThe Founder’s Thesis\n“We believe AI agents will eventually read and write more documents than humans,” chief executive Aman Mishra said.\nHe argued that agents do not just need better OCR. They need a dynamic interface to read, update and act on unstructured data. That building this interface is what makes documents computable.\nThat framing is a step beyond document extraction. Reading a document is a one-way job; updating it means writing back into a system of record without breaking it.\nWhat the Money Buys\nUnsiloed will use the funding to advance its document models, grow its engineering team and expand cloud and on-premises deployments for enterprise customers.\nMishra said the money will also go towards hiring researchers, building a larger sales effort and creating proprietary datasets to improve the technology.\nThat mix is telling. A seed round that funds sales as well as research means the company already has paying enterprise customers to serve.\nDocument processing is one of the few AI categories where customers can measure return directly. The alternative is a team of people retyping invoices.\nThat makes the sales cycle shorter than most enterprise software. Is why Unsiloed can spend seed money on sales as well as research.\nThe hard part is the long tail of formats. Every industry has documents that no public training set covers, from Indian land records to hospital discharge summaries.\nUnsiloed AI also sells into a market where buyers compare it with building in-house, so the one-cent-per-page price is really a make-versus-buy argument.\nWhat to Watch\nThree things will decide whether this compounds. The first is accuracy on messy real-world documents. Clean PDFs are easy and scanned Indian land records are not.\nThe second is whether air-gapped and on-premise deployments scale, since each one adds support cost that a one-cent-per-page price may not cover.\nThe third is competition from model providers. If frontier labs ship native document interfaces, the middleware layer has to prove it is more than a feature.\n#AI agents\n#Document AI\n#Felicis\n#IIT Kharagpur\n#Unsiloed AI\nSudip Kumar\nSudip Kumar is a Writer at Bharat Fast, contributing to the platform for more than six months. With an interest in startups, entrepreneurship, digital media and graphics designing, he enjoys exploring emerging businesses and sharing informative stories with readers.\nMore from this section\nStart Up\nAugust AI Raises $12 Mn From Accel, Peak XV To Automate US Healthcare Paperwork\n21 Nov 2026 4 min read",
+      "text_status": "ok"
+    },
+    {
+      "id": "519e6c7d0ffc",
+      "title": "JPMorgan Says Bitcoin Mining Cost Is $86,000 as Price Slide Raises Selling Pressure on Miners",
+      "publisher": "bloomingbit",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0T2lobnJ3VE1VNDRHVTVGWWFjZG1BZkJuM1hrbm1JbE5PMzBweFMwR1ZOMl8zUGVIYzFRRG1kVklSZzlXeDhsdW1xVi1CdEhsNDd4aA?oc=5",
+      "published_at": "2026-11-20T23:18:21.000Z",
+      "publisher_url": "https://en.bloomingbit.io",
+      "snippet": "JPMorgan Says Bitcoin Mining Cost Is $86,000 as Price Slide Raises Selling Pressure on Miners bloomingbit",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "JPMorgan Says Bitcoin Mining",
+      "group_key": "jpmorgan says bitcoin mining",
+      "group_rank": 0,
+      "resolved_url": "https://en.bloomingbit.io/feed/news/124913",
+      "text": "JPMorgan Says Bitcoin Mining Cost Is $86,000 as Price Slide Raises Selling Pressure on Miners\nPublished 6:18 PM Nov 20, 2026 Source Suehyeon Lee\nSummary About STAT AI\nThis AI analysis is provided for reference only and its accuracy is not guaranteed.\nIt is not investment advice, and you are solely responsible for any investment decisions you make.\nFor more details, see STAT AI’s analysis criteria.\nJPMorgan said Bitcoin's average mining cost is about $86,000 , and that the widening gap with the current Bitcoin price is increasing pressure on miners' profitability.\nIt said miners facing high mining costs may have sold their Bitcoin holdings , potentially deepening the recent Bitcoin price decline .\nIt said spot ETFs for Bitcoin and Ether, along with leveraged ETFs , saw large retail-led net outflows , while a decline in stablecoin market capitalization pointed to money leaving the crypto market.\nForecast Trend Report by Period\nSee more mid- to long-term trend analysis\nPhoto: Shutterstock\nBitcoin's slide far below the cost of mining could intensify selling pressure from miners, JPMorgan said.\nThe Block reported on November 20 that JPMorgan, in a recent report, estimated Bitcoin's average mining cost at about $86,000. With Bitcoin falling below $60,000, the gap between the market price and mining cost has widened to more than $26,000.\nA JPMorgan team led by Nikolaos Panigirtzoglou wrote in a November 18 report that Bitcoin was trading at about $65,000 at the time, roughly $21,000 below the estimated mining cost. Bitcoin has fallen further since then, adding to pressure on miners' profitability.\nJPMorgan said miners with high costs may have sold some of their Bitcoin holdings to fund operations or raise cash for a shift into artificial intelligence businesses. That selling may have helped deepen Bitcoin's recent decline.\nStill, the bank said the gap between mining costs and market prices could narrow over time. If less profitable miners leave the network, hash rate would fall and mining difficulty would adjust, reducing the gap between price and production cost.\nMoney has also continued to leave crypto exchange-traded funds. JPMorgan said spot Bitcoin and Ether ETFs, along with leveraged ETFs tied to Strategy, recorded large net outflows in October and November. Outflows over the past two weeks were larger than in the previous four-week period.\nJPMorgan said retail investors were likely the main drivers of those withdrawals because institutional positions in Chicago Mercantile Exchange futures remained relatively stable. Bitcoin futures positions edged lower, while Ether positions stayed comparatively elevated.\nBy contrast, equity ETFs drew inflows. JPMorgan said retail investors may have sold crypto ETFs to buy dips in the stock market. The bank added that a decline in stablecoin market capitalization signaled that some money had left the crypto market itself.\n#Mining\n#Analysis\nBTC\nETH\nSuehyeon Lee shlee@bloomingbit.io I'm reporter Suehyeon Lee, your Web3 Moderator.",
+      "text_status": "ok"
+    }
+  ]
+}
