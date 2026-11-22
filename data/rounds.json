@@ -1,7 +1,136 @@
 {
  "version": 1,
- "updated_at": "2026-11-21T23:07:24.242Z",
+ "updated_at": "2026-11-22T14:08:07.736Z",
  "rounds": [
+  {
+   "id": "a5054b8320",
+   "group_key": "doosan",
+   "candidate_ids": [
+    "77ac5953f744"
+   ],
+   "company": "Doosan",
+   "website": null,
+   "amount_usd": 340000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-22",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "KR",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Public company.",
+   "description": "Korean public company raising 500B won from National Growth Fund for CCL expansion.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "raising 500 billion won ($340 million) from the National Growth Fund",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://en.sedaily.com/market/2026/11/22/doosan-to-expand-ccl-plants-as-ai-spending-drives-demand"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-22",
+   "transaction_name": "Other - Doosan",
+   "first_seen_run": "2026-11-22",
+   "runs": [
+    "2026-11-22"
+   ],
+   "created_at": "2026-11-22T14:08:07.694Z",
+   "updated_at": "2026-11-22T14:08:07.694Z",
+   "in_view": false
+  },
+  {
+   "id": "1dceec69aa",
+   "group_key": "oracle openai contract fully",
+   "candidate_ids": [
+    "525a81f0e998"
+   ],
+   "company": "Oracle",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-22",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Public company capital raise.",
+   "description": "Public cloud and software company; $20B stock and debt raise to fund OpenAI contract.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "The raise totaled $20 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://shattered.io/oracle-says-openai-contract-fully-funded-20-billion-final-raise/"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-22",
+   "transaction_name": "Other - Oracle",
+   "first_seen_run": "2026-11-22",
+   "runs": [
+    "2026-11-22"
+   ],
+   "created_at": "2026-11-22T14:08:07.677Z",
+   "updated_at": "2026-11-22T14:08:07.677Z",
+   "in_view": false
+  },
+  {
+   "id": "25a267a112",
+   "group_key": "24",
+   "candidate_ids": [
+    "6fabb4264e49"
+   ],
+   "company": "24 AI Agents You Can Text",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-22",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "",
+   "description": "Listicle of AI agents; article text unavailable (403); not a single funding round.",
+   "confidence": 0.3,
+   "evidence": {
+    "amount": "24 AI Agents You Can Text: $1.41B Raised, 96% to Instinct",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://fourweekmba.com/ai-24-ai-agents-you-can-text-1-41b-raised-96-to-instinct/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-22",
+   "transaction_name": "Other - 24 AI Agents You Can Text",
+   "first_seen_run": "2026-11-22",
+   "runs": [
+    "2026-11-22"
+   ],
+   "created_at": "2026-11-22T14:08:07.686Z",
+   "updated_at": "2026-11-22T14:08:07.686Z",
+   "in_view": false
+  },
   {
    "id": "b4ab57c83e",
    "group_key": "bloom",
@@ -50,6 +179,178 @@
    "in_view": false
   },
   {
+   "id": "0149320f94",
+   "group_key": "pollypolymer",
+   "candidate_ids": [
+    "a453a5f49ef9"
+   ],
+   "company": "PollyPolymer",
+   "website": null,
+   "amount_usd": 70000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "3D printing process; no AI claim.",
+   "description": "3D printing company with HALS process; text unavailable (403).",
+   "confidence": 0.4,
+   "evidence": {
+    "amount": "PollyPolymer Raises $70 Million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://3druck.com/en/industry-2/pollypolymer-receives-70-million-for-its-3d-printing-process/"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-22",
+   "transaction_name": "Other - PollyPolymer",
+   "first_seen_run": "2026-11-22",
+   "runs": [
+    "2026-11-22"
+   ],
+   "created_at": "2026-11-22T14:08:07.707Z",
+   "updated_at": "2026-11-22T14:08:07.707Z",
+   "in_view": false
+  },
+  {
+   "id": "7b7e4a7f43",
+   "group_key": "mission mobile",
+   "candidate_ids": [
+    "c1bd2212e7f8"
+   ],
+   "company": "Mission Mobile",
+   "website": null,
+   "amount_usd": 28400000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "ZA",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Smartphone access in South Africa; no AI claim.",
+   "description": "Company widening smartphone access in South Africa; text unavailable (403).",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "Mission Mobile raises $28.4M",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/mission-mobile-raises-28-4m-to-widen-smartphone-access-in-south-africa"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-22",
+   "transaction_name": "Other - Mission Mobile",
+   "first_seen_run": "2026-11-22",
+   "runs": [
+    "2026-11-22"
+   ],
+   "created_at": "2026-11-22T14:08:07.714Z",
+   "updated_at": "2026-11-22T14:08:07.714Z",
+   "in_view": false
+  },
+  {
+   "id": "3b7c77b42b",
+   "group_key": "university of michigan library",
+   "candidate_ids": [
+    "3c5d7553d2f5"
+   ],
+   "company": "University of Michigan Library",
+   "website": null,
+   "amount_usd": 21000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Library receiving a bequest for its culinary archive; not venture funding.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "a bequest of more than $21 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/university-of-michigan-library-receives-more-than-21-million-for-culinary-archive/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-22",
+   "transaction_name": "Other - University of Michigan Library",
+   "first_seen_run": "2026-11-22",
+   "runs": [
+    "2026-11-22"
+   ],
+   "created_at": "2026-11-22T14:08:07.717Z",
+   "updated_at": "2026-11-22T14:08:07.717Z",
+   "in_view": false
+  },
+  {
+   "id": "e8c101bd80",
+   "group_key": "flipper one",
+   "candidate_ids": [
+    "f9338e84c962"
+   ],
+   "company": "Flipper Devices",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Maker of Flipper One; $15M Kickstarter crowdfunding pledges, not venture funding.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "has raised $15 million on Kickstarter",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://wisevoter.com/world/2026/11/21/flipper-one-raises-15-million-kickstarter"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-22",
+   "transaction_name": "Other - Flipper Devices",
+   "first_seen_run": "2026-11-22",
+   "runs": [
+    "2026-11-22"
+   ],
+   "created_at": "2026-11-22T14:08:07.719Z",
+   "updated_at": "2026-11-22T14:08:07.719Z",
+   "in_view": false
+  },
+  {
    "id": "5ff222b915",
    "group_key": "unsiloed",
    "candidate_ids": [
@@ -93,6 +394,55 @@
    ],
    "created_at": "2026-11-21T23:07:24.232Z",
    "updated_at": "2026-11-21T23:07:24.232Z",
+   "in_view": false
+  },
+  {
+   "id": "255a31bcc5",
+   "group_key": "each",
+   "candidate_ids": [
+    "ff54ea5e3ba1"
+   ],
+   "company": "each::labs",
+   "website": null,
+   "amount_usd": 7000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-21",
+   "lead_investors": [
+    "Revo Capital",
+    "EBRD"
+   ],
+   "investors": [
+    "Revo Capital",
+    "EBRD"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Generative AI image, video and audio platform.",
+   "description": "AI image, video and audio generation platform.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "closed a $7 million seed round",
+    "round": "seed round",
+    "lead": "led by Revo Capital and the EBRD",
+    "investors": "led by Revo Capital and the EBRD"
+   },
+   "source_urls": [
+    "https://foro3d.com/en/2026/noviembre/eachlabs-cierra-ronda-semilla-de-7-millones-y-acelera-su-plataforma-ge.html"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-22",
+   "transaction_name": "Seed - each::labs",
+   "first_seen_run": "2026-11-22",
+   "runs": [
+    "2026-11-22"
+   ],
+   "created_at": "2026-11-22T14:08:07.725Z",
+   "updated_at": "2026-11-22T14:08:07.725Z",
    "in_view": false
   },
   {
@@ -262,6 +612,135 @@
    ],
    "created_at": "2026-11-21T23:07:24.224Z",
    "updated_at": "2026-11-21T23:07:24.224Z",
+   "in_view": false
+  },
+  {
+   "id": "c74827054f",
+   "group_key": "lockheed martin",
+   "candidate_ids": [
+    "1a9eb916495c"
+   ],
+   "company": "Lockheed Martin",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Defense contractor receiving contract awards, not a funding round.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "totaling approximately $2.35 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/lockheed-martin-receives-2-35-billion-in-direct-defense-awards-across-f-35-c-5-and-trident-programs/"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-22",
+   "transaction_name": "Other - Lockheed Martin",
+   "first_seen_run": "2026-11-22",
+   "runs": [
+    "2026-11-22"
+   ],
+   "created_at": "2026-11-22T14:08:07.682Z",
+   "updated_at": "2026-11-22T14:08:07.682Z",
+   "in_view": false
+  },
+  {
+   "id": "78292b2e23",
+   "group_key": "raytheon",
+   "candidate_ids": [
+    "9a10d47f4788"
+   ],
+   "company": "Raytheon",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Defense contractor receiving Navy contract awards, not funding.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "totaling approximately $159.4 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/raytheon-receives-159-4-million-in-direct-navy-awards-for-missile-and-sensor-systems/"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-22",
+   "transaction_name": "Other - Raytheon",
+   "first_seen_run": "2026-11-22",
+   "runs": [
+    "2026-11-22"
+   ],
+   "created_at": "2026-11-22T14:08:07.697Z",
+   "updated_at": "2026-11-22T14:08:07.697Z",
+   "in_view": false
+  },
+  {
+   "id": "f5f4ee44a0",
+   "group_key": "amentum",
+   "candidate_ids": [
+    "e240b4d220eb"
+   ],
+   "company": "Amentum",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Contractor receiving Army aviation awards, not funding.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "totaling approximately $38.3 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/amentum-receives-38-3-million-in-aviation-awards-and-positions-on-two-major-contract-vehicles/"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-22",
+   "transaction_name": "Other - Amentum",
+   "first_seen_run": "2026-11-22",
+   "runs": [
+    "2026-11-22"
+   ],
+   "created_at": "2026-11-22T14:08:07.711Z",
+   "updated_at": "2026-11-22T14:08:07.711Z",
    "in_view": false
   },
   {
@@ -897,6 +1376,53 @@
    "in_view": false
   },
   {
+   "id": "672caacb79",
+   "group_key": "legacy motor club",
+   "candidate_ids": [
+    "5f335aa0aad2"
+   ],
+   "company": "Legacy Motor Club",
+   "website": null,
+   "amount_usd": 85000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Growth",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-20",
+   "lead_investors": [
+    "Knighthead Capital"
+   ],
+   "investors": [
+    "Knighthead Capital"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "NASCAR racing team.",
+   "description": "NASCAR racing team raising growth capital led by Knighthead Capital.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Raises $85 Million",
+    "round": null,
+    "lead": "Led by Knighthead",
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.briefs.co/news/legacy-motor-club-raises-85-million-led-by-knighthead/"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-22",
+   "transaction_name": "Growth - Legacy Motor Club",
+   "first_seen_run": "2026-11-22",
+   "runs": [
+    "2026-11-22"
+   ],
+   "created_at": "2026-11-22T14:08:07.702Z",
+   "updated_at": "2026-11-22T14:08:07.702Z",
+   "in_view": false
+  },
+  {
    "id": "852d7a9dd2",
    "group_key": "rgentil capital",
    "candidate_ids": [
@@ -1148,6 +1674,54 @@
    ],
    "created_at": "2026-11-21T23:07:24.226Z",
    "updated_at": "2026-11-21T23:07:24.226Z",
+   "in_view": false
+  },
+  {
+   "id": "101d281bc4",
+   "group_key": "insurtech eight by zero",
+   "candidate_ids": [
+    "27cdb51a8511"
+   ],
+   "company": "Eight by Zero",
+   "website": null,
+   "amount_usd": 3000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-20",
+   "lead_investors": [
+    "Diagram"
+   ],
+   "investors": [
+    "Diagram",
+    "Canada Life"
+   ],
+   "hq_city": "Montreal",
+   "hq_state": null,
+   "hq_country": "CA",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Insurance data interoperability; no AI claim.",
+   "description": "Insurance technology company building data interoperability infrastructure.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "has raised $3 mn in seed funding",
+    "round": "seed",
+    "lead": "The financing round was led by Diagram",
+    "investors": "with participation from Canada Life"
+   },
+   "source_urls": [
+    "https://beinsure.com/news/insurtech-eight-by-zero-raises-3mn-seed/"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-22",
+   "transaction_name": "Seed - Eight by Zero",
+   "first_seen_run": "2026-11-22",
+   "runs": [
+    "2026-11-22"
+   ],
+   "created_at": "2026-11-22T14:08:07.721Z",
+   "updated_at": "2026-11-22T14:08:07.721Z",
    "in_view": false
   },
   {
@@ -1530,6 +2104,94 @@
    ],
    "created_at": "2026-11-21T23:07:24.234Z",
    "updated_at": "2026-11-21T23:07:24.234Z",
+   "in_view": false
+  },
+  {
+   "id": "23d0f5c170",
+   "group_key": "databricks discusses 225 billion",
+   "candidate_ids": [
+    "343f40208b83",
+    "fa71c6f6e072"
+   ],
+   "company": "Databricks",
+   "website": "databricks.com",
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Data and AI platform company.",
+   "description": "Data and AI software company; reportedly in early talks for a new round at about a $225B valuation.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "raise several billion dollars",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://wsau.com/2026/11/20/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-wsj-reports/",
+    "https://ua.news/en/dovkolo-svitu/rozrobnik-program-databricks-obgovoriuie-raund-za-otsinki-225-mlrd-channel-newsasia"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-22",
+   "transaction_name": "Venture - Unspecified - Databricks",
+   "first_seen_run": "2026-11-22",
+   "runs": [
+    "2026-11-22"
+   ],
+   "created_at": "2026-11-22T14:08:07.672Z",
+   "updated_at": "2026-11-22T14:08:07.672Z",
+   "in_view": false
+  },
+  {
+   "id": "84e3576460",
+   "group_key": "telangana tech startups",
+   "candidate_ids": [
+    "c3a48424afe1"
+   ],
+   "company": "Telangana startups report",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Tracxn market report on Telangana funding; not a funding round.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "raised $726 million in funding during the first nine months of 2026",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://enterpriseai.economictimes.indiatimes.com/news/industry/telangana-tech-startups-raise-726-mn-in-9m-2026-funding-rounds-dip-30-tracxn"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-22",
+   "transaction_name": "Other - Telangana startups report",
+   "first_seen_run": "2026-11-22",
+   "runs": [
+    "2026-11-22"
+   ],
+   "created_at": "2026-11-22T14:08:07.727Z",
+   "updated_at": "2026-11-22T14:08:07.727Z",
    "in_view": false
   },
   {
@@ -3162,16 +3824,18 @@
     "investors": "Dragonfly, HSG, Peak XV and 50T Fund"
    },
    "source_urls": [
-    "https://en.bloomingbit.io/feed/news/124740"
+    "https://en.bloomingbit.io/feed/news/124740",
+    "https://incrypted.com/follow-the-money-raund-variational-na-110-mln-aktyvnost-tether-y-sdelky-m-a/"
    ],
    "exclude_reason": null,
    "transaction_name": "Series B - Variational",
    "first_seen_run": "2026-11-18-2028",
    "runs": [
-    "2026-11-18-2028"
+    "2026-11-18-2028",
+    "2026-11-22"
    ],
    "created_at": "2026-11-18T23:09:15.639Z",
-   "updated_at": "2026-11-18T23:09:15.639Z",
+   "updated_at": "2026-11-22T14:08:07.698Z",
    "in_view": false
   },
   {
@@ -3918,6 +4582,49 @@
    "in_view": false
   },
   {
+   "id": "b353598f97",
+   "group_key": "deutsche telekom pours another",
+   "candidate_ids": [
+    "bbaa02d324f2"
+   ],
+   "company": "Deutsche Telekom",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "DE",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Public company investing in a Munich AI factory; not a startup round.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "under EUR 250 million more investment",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/deutsche-telekom-pours-another-quarter-billion-into-munich-ai-site-lands-microagi-as-tenant/70544053"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-22",
+   "transaction_name": "Other - Deutsche Telekom",
+   "first_seen_run": "2026-11-22",
+   "runs": [
+    "2026-11-22"
+   ],
+   "created_at": "2026-11-22T14:08:07.723Z",
+   "updated_at": "2026-11-22T14:08:07.723Z",
+   "in_view": false
+  },
+  {
    "id": "2eeb6dcb32",
    "run_date": "catchup-2026-11-10_2026-11-17",
    "group_key": "isomorphic",
@@ -4283,10 +4990,11 @@
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
     "catchup-2026-11-10_2026-11-17",
-    "2026-11-21"
+    "2026-11-21",
+    "2026-11-22"
    ],
    "created_at": "2026-11-18T06:42:51.042Z",
-   "updated_at": "2026-11-21T14:07:50.934Z",
+   "updated_at": "2026-11-22T14:08:07.687Z",
    "in_view": true
   },
   {
@@ -4390,10 +5098,11 @@
    "runs": [
     "catchup-2026-11-10_2026-11-17",
     "2026-11-18",
-    "2026-11-21"
+    "2026-11-21",
+    "2026-11-22"
    ],
    "created_at": "2026-11-18T06:42:51.135Z",
-   "updated_at": "2026-11-21T14:07:50.928Z",
+   "updated_at": "2026-11-22T14:08:07.687Z",
    "in_view": false
   },
   {
@@ -4624,10 +5333,11 @@
    "runs": [
     "catchup-2026-11-10_2026-11-17",
     "2026-11-18",
-    "2026-11-21"
+    "2026-11-21",
+    "2026-11-22"
    ],
    "created_at": "2026-11-18T06:42:51.167Z",
-   "updated_at": "2026-11-21T14:07:50.929Z",
+   "updated_at": "2026-11-22T14:08:07.688Z",
    "in_view": false
   },
   {
@@ -4665,7 +5375,7 @@
    "is_ai_ml": true,
    "ai_ml_rationale": "Radiation-hardened AI/ML processors and computing for in-orbit AI and orbital data centers.",
    "description": "Builds radiation-hardened space computing hardware (processing, storage, networking) that runs AI on data in orbit; Israeli-founded with US offices.",
-   "confidence": 0.7,
+   "confidence": 0.75,
    "evidence": {
     "amount": "raises $124 million in Series B to power orbital data center",
     "round": "raises $124 million in Series B to power orbital data center",
@@ -4687,10 +5397,11 @@
    "runs": [
     "catchup-2026-11-10_2026-11-17",
     "2026-11-18",
-    "2026-11-21"
+    "2026-11-21",
+    "2026-11-22"
    ],
    "created_at": "2026-11-18T06:42:51.169Z",
-   "updated_at": "2026-11-21T14:07:50.929Z",
+   "updated_at": "2026-11-22T14:08:07.688Z",
    "in_view": true
   },
   {
@@ -4758,10 +5469,11 @@
     "2026-11-18",
     "2026-11-18-2028",
     "2026-11-19",
-    "2026-11-21"
+    "2026-11-21",
+    "2026-11-22"
    ],
    "created_at": "2026-11-18T06:42:51.158Z",
-   "updated_at": "2026-11-21T14:07:50.933Z",
+   "updated_at": "2026-11-22T14:08:07.689Z",
    "in_view": false,
    "alt_amounts": [
     173000000
@@ -7031,10 +7743,11 @@
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
     "catchup-2026-11-10_2026-11-17",
-    "2026-11-21"
+    "2026-11-21",
+    "2026-11-22"
    ],
    "created_at": "2026-11-18T06:42:51.167Z",
-   "updated_at": "2026-11-21T14:07:50.929Z",
+   "updated_at": "2026-11-22T14:08:07.688Z",
    "in_view": false
   },
   {
@@ -7205,10 +7918,11 @@
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
     "catchup-2026-11-10_2026-11-17",
-    "2026-11-21"
+    "2026-11-21",
+    "2026-11-22"
    ],
    "created_at": "2026-11-18T06:42:51.172Z",
-   "updated_at": "2026-11-21T14:07:50.934Z",
+   "updated_at": "2026-11-22T14:08:07.690Z",
    "in_view": true
   },
   {
@@ -7265,10 +7979,11 @@
    "runs": [
     "catchup-2026-11-10_2026-11-17",
     "2026-11-18",
-    "2026-11-21"
+    "2026-11-21",
+    "2026-11-22"
    ],
    "created_at": "2026-11-18T06:42:51.187Z",
-   "updated_at": "2026-11-21T14:07:50.934Z",
+   "updated_at": "2026-11-22T14:08:07.690Z",
    "in_view": false
   },
   {
@@ -24060,16 +24775,18 @@
    "amount_usd": 100000000,
    "amount_disclosed": true,
    "currency_note": null,
-   "round_type": "Venture - Unspecified",
+   "round_type": "Growth",
    "stage_bucket": "Late Stage Venture",
    "announced_date": "2026-11-06",
    "lead_investors": [
-    "Multiples Alternate Asset Management"
+    "Multiples Alternate Asset Management",
+    "Multiples Equity"
    ],
    "investors": [
     "Multiples Alternate Asset Management",
     "Epiq Capital",
-    "Edelweiss Discovery Fund"
+    "Edelweiss Discovery Fund",
+    "Multiples Equity"
    ],
    "hq_city": "Bengaluru",
    "hq_state": null,
@@ -24086,17 +24803,19 @@
    },
    "source_urls": [
     "https://entrepreneur.economictimes.indiatimes.com/news/funding/funding-wrap-clinics-on-cloud-peppermint-robotics-giva-raise-fresh-capital/135600777",
-    "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052"
+    "https://indianstartupnews.com/funding/indian-startups-raised-over-290-million-from-november-2-to-november-7-2026-giva-tops-the-list-12798052",
+    "http://legal.economictimes.indiatimes.com/news/international/cam-advises-multiples-equity-on-100-million-investment-in-giva/136048603"
    ],
    "exclude_reason": null,
    "transaction_name": "Venture - Unspecified - GIVA",
    "first_seen_run": "2026-11-09-backfill",
    "runs": [
     "2026-11-09-backfill",
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-22"
    ],
    "created_at": "2026-11-09T20:17:16.087Z",
-   "updated_at": "2026-11-18T06:42:51.114Z",
+   "updated_at": "2026-11-22T14:08:07.699Z",
    "in_view": false
   },
   {
@@ -57291,5 +58010,5 @@
    "in_view": true
   }
  ],
- "last_run": "2026-11-21-1911"
+ "last_run": "2026-11-22"
 }

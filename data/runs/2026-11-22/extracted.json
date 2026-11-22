@@ -1,0 +1,938 @@
+{
+ "run_date": "2026-11-22",
+ "extractor": "parallel agents",
+ "notes": "[extracted.part-01.json] Databricks groups merged (talks only, not-funding). Crunchbase week round-up expanded; all listed rounds already stored (duplicate, stored dates used); Isomorphic Labs is non-US and already stored so omitted. No web lookups used; blocked-text groups left with title facts only.\n[extracted.part-02.json] Mostly sub-$15M, non-AI or non-funding groups. Blocked pages (PollyPolymer, Mission Mobile) not looked up: non-AI, not US-evident. No lookups used.",
+ "rows": [
+  {
+   "group_key": "databricks discusses 225 billion",
+   "candidate_ids": [
+    "343f40208b83",
+    "fa71c6f6e072"
+   ],
+   "company": "Databricks",
+   "website": "databricks.com",
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Data and AI platform company.",
+   "description": "Data and AI software company; reportedly in early talks for a new round at about a $225B valuation.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "raise several billion dollars",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://wsau.com/2026/11/20/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-wsj-reports/",
+    "https://ua.news/en/dovkolo-svitu/rozrobnik-program-databricks-obgovoriuie-raund-za-otsinki-225-mlrd-channel-newsasia"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "oracle openai contract fully",
+   "candidate_ids": [
+    "525a81f0e998"
+   ],
+   "company": "Oracle",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-22",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Public company capital raise.",
+   "description": "Public cloud and software company; $20B stock and debt raise to fund OpenAI contract.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "The raise totaled $20 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://shattered.io/oracle-says-openai-contract-fully-funded-20-billion-final-raise/"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "lockheed martin",
+   "candidate_ids": [
+    "1a9eb916495c"
+   ],
+   "company": "Lockheed Martin",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Defense contractor receiving contract awards, not a funding round.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "totaling approximately $2.35 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/lockheed-martin-receives-2-35-billion-in-direct-defense-awards-across-f-35-c-5-and-trident-programs/"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "24",
+   "candidate_ids": [
+    "6fabb4264e49"
+   ],
+   "company": "24 AI Agents You Can Text",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-22",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "",
+   "description": "Listicle of AI agents; article text unavailable (403); not a single funding round.",
+   "confidence": 0.3,
+   "evidence": {
+    "amount": "24 AI Agents You Can Text: $1.41B Raised, 96% to Instinct",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://fourweekmba.com/ai-24-ai-agents-you-can-text-1-41b-raised-96-to-instinct/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "weeks 10 biggest funding",
+   "candidate_ids": [
+    "a0d25d8cc06d"
+   ],
+   "company": "Science Corporation",
+   "website": null,
+   "amount_usd": 400000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series D",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-17",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Alameda",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Brain-computer interface neurotech; no AI claim in text.",
+   "description": "Brain-computer interface and neural engineering company.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "secured $400 million in Series D funding",
+    "round": "Series D",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
+   ],
+   "exclude_reason": "duplicate",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "weeks 10 biggest funding",
+   "candidate_ids": [
+    "a0d25d8cc06d"
+   ],
+   "company": "Model ML",
+   "website": null,
+   "amount_usd": 250000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-17",
+   "lead_investors": [
+    "General Atlantic",
+    "QED Investors"
+   ],
+   "investors": [
+    "General Atlantic",
+    "QED Investors"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI platform for financial and professional services.",
+   "description": "AI platform for financial and professional services.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "closed on $250 million in Series B funding",
+    "round": "Series B",
+    "lead": "General Atlantic and QED Investors led the round",
+    "investors": "General Atlantic and QED Investors led the round"
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
+   ],
+   "exclude_reason": "duplicate",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "weeks 10 biggest funding",
+   "candidate_ids": [
+    "a0d25d8cc06d"
+   ],
+   "company": "Galvanize Therapeutics",
+   "website": null,
+   "amount_usd": 130000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series D",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-16",
+   "lead_investors": [
+    "HealthQuest Capital"
+   ],
+   "investors": [
+    "HealthQuest Capital"
+   ],
+   "hq_city": "Redwood City",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Pulsed electric field ablation medical technology.",
+   "description": "Developer of pulsed electric field ablation technologies for oncology and chronic disease.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "picked up $130 million in Series D funding led by HealthQuest Capital",
+    "round": "Series D",
+    "lead": "led by HealthQuest Capital",
+    "investors": "led by HealthQuest Capital"
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
+   ],
+   "exclude_reason": "duplicate",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "weeks 10 biggest funding",
+   "candidate_ids": [
+    "a0d25d8cc06d"
+   ],
+   "company": "General Flash",
+   "website": null,
+   "amount_usd": 128000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-17",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Critical metals production method.",
+   "description": "Developer of a new method to produce critical metals.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "raised $128 million across seed and Series A rounds",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
+   ],
+   "exclude_reason": "duplicate",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "weeks 10 biggest funding",
+   "candidate_ids": [
+    "a0d25d8cc06d"
+   ],
+   "company": "Ramon.Space",
+   "website": null,
+   "amount_usd": 124000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-17",
+   "lead_investors": [
+    "PSG"
+   ],
+   "investors": [
+    "PSG"
+   ],
+   "hq_city": "Denver",
+   "hq_state": "CO",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Space computing infrastructure; no AI claim in text.",
+   "description": "Developer of space computing infrastructure.",
+   "confidence": 0.75,
+   "evidence": {
+    "amount": "pulled in $124M in Series B funding led by PSG",
+    "round": "Series B",
+    "lead": "led by PSG",
+    "investors": "led by PSG"
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
+   ],
+   "exclude_reason": "duplicate",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "weeks 10 biggest funding",
+   "candidate_ids": [
+    "a0d25d8cc06d"
+   ],
+   "company": "Marrow Therapeutics",
+   "website": null,
+   "amount_usd": 120000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-17",
+   "lead_investors": [
+    "Orbimed"
+   ],
+   "investors": [
+    "Orbimed"
+   ],
+   "hq_city": "Watertown",
+   "hq_state": "MA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Biotech.",
+   "description": "Developer of bone marrow-targeted therapies for severe blood disorders.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Orbimed led its $120 million Series B round",
+    "round": "Series B",
+    "lead": "Orbimed led its $120 million Series B round",
+    "investors": "Orbimed led its $120 million Series B round"
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
+   ],
+   "exclude_reason": "duplicate",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "weeks 10 biggest funding",
+   "candidate_ids": [
+    "a0d25d8cc06d"
+   ],
+   "company": "Noeri",
+   "website": null,
+   "amount_usd": 110000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-16",
+   "lead_investors": [
+    "Menlo Ventures"
+   ],
+   "investors": [
+    "Menlo Ventures"
+   ],
+   "hq_city": "Palo Alto",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Self-improving AI for enterprises and researchers.",
+   "description": "Developer of self-improving AI for enterprises and researchers, founded by Stanford professors.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "launched with $110 million in initial funding",
+    "round": null,
+    "lead": "Menlo Ventures led the round",
+    "investors": "Menlo Ventures led the round"
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
+   ],
+   "exclude_reason": "duplicate",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "weeks 10 biggest funding",
+   "candidate_ids": [
+    "a0d25d8cc06d"
+   ],
+   "company": "Seawolf Therapeutics",
+   "website": null,
+   "amount_usd": 100000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-16",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "San Diego",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Biotech DNA delivery platform.",
+   "description": "Biotech developing a novel DNA delivery platform.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "raised $100 million in funding to date",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/"
+   ],
+   "exclude_reason": "duplicate",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "doosan",
+   "candidate_ids": [
+    "77ac5953f744"
+   ],
+   "company": "Doosan",
+   "website": null,
+   "amount_usd": 340000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-22",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "KR",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Public company.",
+   "description": "Korean public company raising 500B won from National Growth Fund for CCL expansion.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "raising 500 billion won ($340 million) from the National Growth Fund",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://en.sedaily.com/market/2026/11/22/doosan-to-expand-ccl-plants-as-ai-spending-drives-demand"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "raytheon",
+   "candidate_ids": [
+    "9a10d47f4788"
+   ],
+   "company": "Raytheon",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Defense contractor receiving Navy contract awards, not funding.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "totaling approximately $159.4 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/raytheon-receives-159-4-million-in-direct-navy-awards-for-missile-and-sensor-systems/"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "follow the money",
+   "candidate_ids": [
+    "274dc81406f7"
+   ],
+   "company": "Variational",
+   "website": null,
+   "amount_usd": 110000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-18",
+   "lead_investors": [
+    "Bain Capital Crypto"
+   ],
+   "investors": [
+    "Bain Capital Crypto"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Decentralized derivatives trading protocol.",
+   "description": "Decentralized protocol for trading derivatives on crypto assets, equities, indices and commodities.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "$110 млн — Variational",
+    "round": "серии B",
+    "lead": "под руководством Bain Capital Crypto",
+    "investors": "под руководством Bain Capital Crypto"
+   },
+   "source_urls": [
+    "https://incrypted.com/follow-the-money-raund-variational-na-110-mln-aktyvnost-tether-y-sdelky-m-a/"
+   ],
+   "exclude_reason": "duplicate",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "cam",
+   "candidate_ids": [
+    "b3a767985311"
+   ],
+   "company": "GIVA",
+   "website": null,
+   "amount_usd": 100000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Growth",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-21",
+   "lead_investors": [
+    "Multiples Equity"
+   ],
+   "investors": [
+    "Multiples Equity"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Jewellery brand.",
+   "description": "Indian jewellery brand operated by Indiejewels Fashion Private Limited.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "a funding round of approximately $100 million",
+    "round": null,
+    "lead": "led by Multiples Equity",
+    "investors": "led by Multiples Equity"
+   },
+   "source_urls": [
+    "http://legal.economictimes.indiatimes.com/news/international/cam-advises-multiples-equity-on-100-million-investment-in-giva/136048603"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "legacy motor club",
+   "candidate_ids": [
+    "5f335aa0aad2"
+   ],
+   "company": "Legacy Motor Club",
+   "website": null,
+   "amount_usd": 85000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Growth",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-20",
+   "lead_investors": [
+    "Knighthead Capital"
+   ],
+   "investors": [
+    "Knighthead Capital"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "NASCAR racing team.",
+   "description": "NASCAR racing team raising growth capital led by Knighthead Capital.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Raises $85 Million",
+    "round": null,
+    "lead": "Led by Knighthead",
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.briefs.co/news/legacy-motor-club-raises-85-million-led-by-knighthead/"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "pollypolymer",
+   "candidate_ids": [
+    "a453a5f49ef9"
+   ],
+   "company": "PollyPolymer",
+   "website": null,
+   "amount_usd": 70000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "3D printing process; no AI claim.",
+   "description": "3D printing company with HALS process; text unavailable (403).",
+   "confidence": 0.4,
+   "evidence": {
+    "amount": "PollyPolymer Raises $70 Million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://3druck.com/en/industry-2/pollypolymer-receives-70-million-for-its-3d-printing-process/"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "amentum",
+   "candidate_ids": [
+    "e240b4d220eb"
+   ],
+   "company": "Amentum",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Contractor receiving Army aviation awards, not funding.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "totaling approximately $38.3 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/amentum-receives-38-3-million-in-aviation-awards-and-positions-on-two-major-contract-vehicles/"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "mission mobile",
+   "candidate_ids": [
+    "c1bd2212e7f8"
+   ],
+   "company": "Mission Mobile",
+   "website": null,
+   "amount_usd": 28400000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "ZA",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Smartphone access in South Africa; no AI claim.",
+   "description": "Company widening smartphone access in South Africa; text unavailable (403).",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "Mission Mobile raises $28.4M",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/mission-mobile-raises-28-4m-to-widen-smartphone-access-in-south-africa"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "university of michigan library",
+   "candidate_ids": [
+    "3c5d7553d2f5"
+   ],
+   "company": "University of Michigan Library",
+   "website": null,
+   "amount_usd": 21000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Library receiving a bequest for its culinary archive; not venture funding.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "a bequest of more than $21 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/university-of-michigan-library-receives-more-than-21-million-for-culinary-archive/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "flipper one",
+   "candidate_ids": [
+    "f9338e84c962"
+   ],
+   "company": "Flipper Devices",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Maker of Flipper One; $15M Kickstarter crowdfunding pledges, not venture funding.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "has raised $15 million on Kickstarter",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://wisevoter.com/world/2026/11/21/flipper-one-raises-15-million-kickstarter"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "insurtech eight by zero",
+   "candidate_ids": [
+    "27cdb51a8511"
+   ],
+   "company": "Eight by Zero",
+   "website": null,
+   "amount_usd": 3000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-20",
+   "lead_investors": [
+    "Diagram"
+   ],
+   "investors": [
+    "Diagram",
+    "Canada Life"
+   ],
+   "hq_city": "Montreal",
+   "hq_state": null,
+   "hq_country": "CA",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Insurance data interoperability; no AI claim.",
+   "description": "Insurance technology company building data interoperability infrastructure.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "has raised $3 mn in seed funding",
+    "round": "seed",
+    "lead": "The financing round was led by Diagram",
+    "investors": "with participation from Canada Life"
+   },
+   "source_urls": [
+    "https://beinsure.com/news/insurtech-eight-by-zero-raises-3mn-seed/"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "deutsche telekom pours another",
+   "candidate_ids": [
+    "bbaa02d324f2"
+   ],
+   "company": "Deutsche Telekom",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "DE",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Public company investing in a Munich AI factory; not a startup round.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "under EUR 250 million more investment",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/deutsche-telekom-pours-another-quarter-billion-into-munich-ai-site-lands-microagi-as-tenant/70544053"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "each",
+   "candidate_ids": [
+    "ff54ea5e3ba1"
+   ],
+   "company": "each::labs",
+   "website": null,
+   "amount_usd": 7000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-21",
+   "lead_investors": [
+    "Revo Capital",
+    "EBRD"
+   ],
+   "investors": [
+    "Revo Capital",
+    "EBRD"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Generative AI image, video and audio platform.",
+   "description": "AI image, video and audio generation platform.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "closed a $7 million seed round",
+    "round": "seed round",
+    "lead": "led by Revo Capital and the EBRD",
+    "investors": "led by Revo Capital and the EBRD"
+   },
+   "source_urls": [
+    "https://foro3d.com/en/2026/noviembre/eachlabs-cierra-ronda-semilla-de-7-millones-y-acelera-su-plataforma-ge.html"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "telangana tech startups",
+   "candidate_ids": [
+    "c3a48424afe1"
+   ],
+   "company": "Telangana startups report",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Tracxn market report on Telangana funding; not a funding round.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "raised $726 million in funding during the first nine months of 2026",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://enterpriseai.economictimes.indiatimes.com/news/industry/telangana-tech-startups-raise-726-mn-in-9m-2026-funding-rounds-dip-30-tracxn"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-22"
+  }
+ ]
+}

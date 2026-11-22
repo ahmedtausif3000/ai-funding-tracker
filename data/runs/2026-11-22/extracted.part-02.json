@@ -1,0 +1,362 @@
+{
+ "run_date": "2026-11-22",
+ "extractor": "claude-code routine",
+ "notes": "Mostly sub-$15M, non-AI or non-funding groups. Blocked pages (PollyPolymer, Mission Mobile) not looked up: non-AI, not US-evident. No lookups used.",
+ "rows": [
+  {
+   "group_key": "legacy motor club",
+   "candidate_ids": [
+    "5f335aa0aad2"
+   ],
+   "company": "Legacy Motor Club",
+   "website": null,
+   "amount_usd": 85000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Growth",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-20",
+   "lead_investors": [
+    "Knighthead Capital"
+   ],
+   "investors": [
+    "Knighthead Capital"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "NASCAR racing team.",
+   "description": "NASCAR racing team raising growth capital led by Knighthead Capital.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Raises $85 Million",
+    "round": null,
+    "lead": "Led by Knighthead",
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.briefs.co/news/legacy-motor-club-raises-85-million-led-by-knighthead/"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "pollypolymer",
+   "candidate_ids": [
+    "a453a5f49ef9"
+   ],
+   "company": "PollyPolymer",
+   "website": null,
+   "amount_usd": 70000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "3D printing process; no AI claim.",
+   "description": "3D printing company with HALS process; text unavailable (403).",
+   "confidence": 0.4,
+   "evidence": {
+    "amount": "PollyPolymer Raises $70 Million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://3druck.com/en/industry-2/pollypolymer-receives-70-million-for-its-3d-printing-process/"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "amentum",
+   "candidate_ids": [
+    "e240b4d220eb"
+   ],
+   "company": "Amentum",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Contractor receiving Army aviation awards, not funding.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "totaling approximately $38.3 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/amentum-receives-38-3-million-in-aviation-awards-and-positions-on-two-major-contract-vehicles/"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "mission mobile",
+   "candidate_ids": [
+    "c1bd2212e7f8"
+   ],
+   "company": "Mission Mobile",
+   "website": null,
+   "amount_usd": 28400000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "ZA",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Smartphone access in South Africa; no AI claim.",
+   "description": "Company widening smartphone access in South Africa; text unavailable (403).",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "Mission Mobile raises $28.4M",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/mission-mobile-raises-28-4m-to-widen-smartphone-access-in-south-africa"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "university of michigan library",
+   "candidate_ids": [
+    "3c5d7553d2f5"
+   ],
+   "company": "University of Michigan Library",
+   "website": null,
+   "amount_usd": 21000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Library receiving a bequest for its culinary archive; not venture funding.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "a bequest of more than $21 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/university-of-michigan-library-receives-more-than-21-million-for-culinary-archive/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "flipper one",
+   "candidate_ids": [
+    "f9338e84c962"
+   ],
+   "company": "Flipper Devices",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Maker of Flipper One; $15M Kickstarter crowdfunding pledges, not venture funding.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "has raised $15 million on Kickstarter",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://wisevoter.com/world/2026/11/21/flipper-one-raises-15-million-kickstarter"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "insurtech eight by zero",
+   "candidate_ids": [
+    "27cdb51a8511"
+   ],
+   "company": "Eight by Zero",
+   "website": null,
+   "amount_usd": 3000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-20",
+   "lead_investors": [
+    "Diagram"
+   ],
+   "investors": [
+    "Diagram",
+    "Canada Life"
+   ],
+   "hq_city": "Montreal",
+   "hq_state": null,
+   "hq_country": "CA",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Insurance data interoperability; no AI claim.",
+   "description": "Insurance technology company building data interoperability infrastructure.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "has raised $3 mn in seed funding",
+    "round": "seed",
+    "lead": "The financing round was led by Diagram",
+    "investors": "with participation from Canada Life"
+   },
+   "source_urls": [
+    "https://beinsure.com/news/insurtech-eight-by-zero-raises-3mn-seed/"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "deutsche telekom pours another",
+   "candidate_ids": [
+    "bbaa02d324f2"
+   ],
+   "company": "Deutsche Telekom",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-18",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "DE",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Public company investing in a Munich AI factory; not a startup round.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "under EUR 250 million more investment",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/deutsche-telekom-pours-another-quarter-billion-into-munich-ai-site-lands-microagi-as-tenant/70544053"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "each",
+   "candidate_ids": [
+    "ff54ea5e3ba1"
+   ],
+   "company": "each::labs",
+   "website": null,
+   "amount_usd": 7000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-21",
+   "lead_investors": [
+    "Revo Capital",
+    "EBRD"
+   ],
+   "investors": [
+    "Revo Capital",
+    "EBRD"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Generative AI image, video and audio platform.",
+   "description": "AI image, video and audio generation platform.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "closed a $7 million seed round",
+    "round": "seed round",
+    "lead": "led by Revo Capital and the EBRD",
+    "investors": "led by Revo Capital and the EBRD"
+   },
+   "source_urls": [
+    "https://foro3d.com/en/2026/noviembre/eachlabs-cierra-ronda-semilla-de-7-millones-y-acelera-su-plataforma-ge.html"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-22"
+  },
+  {
+   "group_key": "telangana tech startups",
+   "candidate_ids": [
+    "c3a48424afe1"
+   ],
+   "company": "Telangana startups report",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "",
+   "description": "Tracxn market report on Telangana funding; not a funding round.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "raised $726 million in funding during the first nine months of 2026",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://enterpriseai.economictimes.indiatimes.com/news/industry/telangana-tech-startups-raise-726-mn-in-9m-2026-funding-rounds-dip-30-tracxn"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-22"
+  }
+ ]
+}
