@@ -1,0 +1,748 @@
+{
+  "run_date": "2026-11-22",
+  "generated_at": "2026-11-22T12:36:37.096Z",
+  "window_days": 2,
+  "range": null,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-2",
+        "status": 200,
+        "items": 28
+      },
+      {
+        "id": "gnews-3",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-4",
+        "status": 200,
+        "items": 31
+      },
+      {
+        "id": "gnews-5",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "gnews-6",
+        "status": 200,
+        "items": 31
+      },
+      {
+        "id": "gnews-7",
+        "status": 200,
+        "items": 31
+      },
+      {
+        "id": "gnews-8",
+        "status": 200,
+        "items": 6
+      },
+      {
+        "id": "gnews-g1",
+        "status": 200,
+        "items": 12
+      },
+      {
+        "id": "gnews-g2",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "gnews-g3",
+        "status": 200,
+        "items": 9
+      },
+      {
+        "id": "gnews-g4",
+        "status": 200,
+        "items": 15
+      },
+      {
+        "id": "gnews-g5",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-g6",
+        "status": 200,
+        "items": 25
+      },
+      {
+        "id": "gnews-g7",
+        "status": 200,
+        "items": 12
+      },
+      {
+        "id": "gnews-g8",
+        "status": 200,
+        "items": 17
+      },
+      {
+        "id": "gnews-g9",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "pulse2",
+        "status": 200,
+        "items": 100
+      },
+      {
+        "id": "citybiz",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 543,
+    "prefiltered": 64,
+    "dropped": {
+      "not_funding": 266,
+      "no_ai_hint": 47,
+      "below_min": 43,
+      "fund_close": 6,
+      "seen": 59,
+      "duplicate_link": 54,
+      "known_round": 44,
+      "noise": 4
+    },
+    "groups": 49,
+    "selected_groups": 20,
+    "candidates": 20,
+    "articles_fetched": 17,
+    "google_rate_limited": false
+  },
+  "groups": [
+    {
+      "key": "databricks discusses 225 billion",
+      "company_guess": "Databricks discusses $225 billion",
+      "amount_hint_usd": 225000000000,
+      "candidate_ids": [
+        "343f40208b83"
+      ]
+    },
+    {
+      "key": "databricks in early talks",
+      "company_guess": "Databricks in early talks",
+      "amount_hint_usd": 225000000000,
+      "candidate_ids": [
+        "fa71c6f6e072"
+      ]
+    },
+    {
+      "key": "oracle openai contract fully",
+      "company_guess": "Oracle OpenAI Contract Fully",
+      "amount_hint_usd": 20000000000,
+      "candidate_ids": [
+        "525a81f0e998"
+      ]
+    },
+    {
+      "key": "lockheed martin",
+      "company_guess": "Lockheed Martin",
+      "amount_hint_usd": 2350000000,
+      "candidate_ids": [
+        "1a9eb916495c"
+      ]
+    },
+    {
+      "key": "24",
+      "company_guess": "24 AI",
+      "amount_hint_usd": 1410000000,
+      "candidate_ids": [
+        "6fabb4264e49"
+      ]
+    },
+    {
+      "key": "weeks 10 biggest funding",
+      "company_guess": "Week’s 10 Biggest Funding",
+      "amount_hint_usd": 400000000,
+      "candidate_ids": [
+        "a0d25d8cc06d"
+      ]
+    },
+    {
+      "key": "doosan",
+      "company_guess": "Doosan",
+      "amount_hint_usd": 340000000,
+      "candidate_ids": [
+        "77ac5953f744"
+      ]
+    },
+    {
+      "key": "raytheon",
+      "company_guess": "Raytheon",
+      "amount_hint_usd": 159400000,
+      "candidate_ids": [
+        "9a10d47f4788"
+      ]
+    },
+    {
+      "key": "follow the money",
+      "company_guess": "Follow the Money",
+      "amount_hint_usd": 110000000,
+      "candidate_ids": [
+        "274dc81406f7"
+      ]
+    },
+    {
+      "key": "cam",
+      "company_guess": "CAM",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "b3a767985311"
+      ]
+    },
+    {
+      "key": "legacy motor club",
+      "company_guess": "Legacy Motor Club",
+      "amount_hint_usd": 85000000,
+      "candidate_ids": [
+        "5f335aa0aad2"
+      ]
+    },
+    {
+      "key": "pollypolymer",
+      "company_guess": "PollyPolymer",
+      "amount_hint_usd": 70000000,
+      "candidate_ids": [
+        "a453a5f49ef9"
+      ]
+    },
+    {
+      "key": "amentum",
+      "company_guess": "Amentum",
+      "amount_hint_usd": 38300000,
+      "candidate_ids": [
+        "e240b4d220eb"
+      ]
+    },
+    {
+      "key": "mission mobile",
+      "company_guess": "Mission Mobile",
+      "amount_hint_usd": 28400000,
+      "candidate_ids": [
+        "c1bd2212e7f8"
+      ]
+    },
+    {
+      "key": "university of michigan library",
+      "company_guess": "University Of Michigan Library",
+      "amount_hint_usd": 21000000,
+      "candidate_ids": [
+        "3c5d7553d2f5"
+      ]
+    },
+    {
+      "key": "flipper one",
+      "company_guess": "Flipper One",
+      "amount_hint_usd": 15000000,
+      "candidate_ids": [
+        "f9338e84c962"
+      ]
+    },
+    {
+      "key": "insurtech eight by zero",
+      "company_guess": "Insurtech Eight by Zero",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "27cdb51a8511"
+      ]
+    },
+    {
+      "key": "deutsche telekom pours another",
+      "company_guess": "Deutsche Telekom Pours Another",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "bbaa02d324f2"
+      ]
+    },
+    {
+      "key": "each",
+      "company_guess": "each::labs",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "ff54ea5e3ba1"
+      ]
+    },
+    {
+      "key": "telangana tech startups",
+      "company_guess": "Telangana tech startups",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "c3a48424afe1"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "343f40208b83",
+      "title": "Databricks discusses $225 billion valuation funding round",
+      "publisher": "UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVRLWklJNDFCQVdPbUdWX0o4MEtjbVVRWWl1alBzTUFLcG5QLTVXV1J5YnI0M0x5TW1yVW9LRjdrbk9DSzEtWWlOdE1oeDl3Uy1OV0hrSk44N1Y0OTJlTGVmT3EwaXUyLVNWczdvZC12dDQ5MWJaVHp2ajNaaGFiNjJNeXFSSkdtYnJJbjlaUzJEMmptWDMwVk4yaGVDZ1F4OHB2OEZuNTU0MS1SamRzOTltbVNQYlE?oc=5",
+      "published_at": "2026-11-20T23:56:52.000Z",
+      "publisher_url": "https://ua.news",
+      "snippet": "Databricks discusses $225 billion valuation funding round UA.NEWS",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 225000000000,
+        "currency": "USD",
+        "raw": "$225 billion"
+      },
+      "company_guess": "Databricks discusses $225 billion",
+      "group_key": "databricks discusses 225 billion",
+      "group_rank": 0,
+      "resolved_url": "https://ua.news/en/dovkolo-svitu/rozrobnik-program-databricks-obgovoriuie-raund-za-otsinki-225-mlrd-channel-newsasia",
+      "text": "News\nAround the World\nDatabricks discusses funding round at $225 billion valuation — Channel NewsAsia\nFedir Kryshtovskyi\n21\nNovember\n2026\n01:49\nDatabricks, a developer of software for working with data and artificial intelligence, is holding preliminary talks to raise several billion dollars. The new funding round could value the company at about $225 billion, The Wall Street Journal reported, citing people familiar with the matter.\nDeal terms may change\nAs Channel NewsAsia reports , The Wall Street Journal published this information on November 20. The talks are ongoing, and the terms of the potential deal may still change. Databricks did not immediately respond to a Reuters request for comment.\nMore current news is available on the UA.News Telegram channel Telegram .\nPrevious round and products\nIn August, Databricks said it had raised $5 billion at a valuation of $190 billion. The company was founded in 2013; it develops software products for storing, managing and analyzing data, as well as for building artificial intelligence applications.\nDatabricks competes with Snowflake, and the company is considered a candidate for a future stock market listing. Databricks previously said that the annual revenue run rate of its Lakebase product exceeded $100 million, while the figure for its Lakehouse data warehousing business reached more than $1.5 billion.\nRead us on\nDownload our app\nRELATED MATERIALS\nNews\nAround the World\nUN climate summit in Antalya ends without a joint agreement — Cyprus Mail\nNews\nAround the World\nSpaceX plans to invest more than $74 billion in US AI centers — Fortune\nNews\nAround the World\nBayern chiefs questioned Musiala’s contract — Deutsche Welle\nNews\nAround the World\nScientists create cellular atlas of the basal ganglia — Cyprus Mail\nNews\nAround the World\nUS to change college accreditation based on diversity of viewpoints criterion — The Hill\nNews\nAround the World\nCyprus president links Turkey’s EU progress to Cyprus issue — Cyprus Mail\nNews\nAround the World\nZverev reaches ATP Finals final against Alcaraz — Der Spiegel",
+      "text_status": "ok"
+    },
+    {
+      "id": "fa71c6f6e072",
+      "title": "Databricks in early talks to raise funds at $225 billion valuation, WSJ reports",
+      "publisher": "WSAU",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdndBblBxRXNrYlViVWo2NXV2bDZnOTItYlZCZE4xeVp4MUVMel9QUy16RERKdzR1LU5pdVVsSWVXS2lEZkQzMVFodVJYSElLMmlGZzRCQUZYNVM2c2w3Y1paLWo4VWloLWNnR0l6OTNLN2VnOVpGSXpaY3l4ZmhJYjUwU1oxTzhoNWoyZU5OUGZMc3EzeTRKOGtsdWtzSEtlVXczUnRPM1Z4UQ?oc=5",
+      "published_at": "2026-11-21T03:49:04.000Z",
+      "publisher_url": "https://wsau.com",
+      "snippet": "Databricks in early talks to raise funds at $225 billion valuation, WSJ reports WSAU",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 225000000000,
+        "currency": "USD",
+        "raw": "$225 billion"
+      },
+      "company_guess": "Databricks in early talks",
+      "group_key": "databricks in early talks",
+      "group_rank": 0,
+      "resolved_url": "https://wsau.com/2026/11/20/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-wsj-reports/",
+      "text": "Nov 20 (Reuters) – Databricks is in early talks to raise several billion dollars in a ​new round that would value ‌the data and artificial intelligence software company at about $225 billion, the Wall Street Journal reported on Friday, citing people ‌familiar ​with the matter.\n• ⁠The deal talks are ⁠ongoing and the terms could still change, the report said\n• Databricks did not immediately respond to ​Reuters’ request for comment\n• Databricks had said in August it ⁠raised $5 billion at ⁠a $190 billion valuation, highlighting strong ​investor demand for companies tied to ​the AI boom\n• Founded in 2013, ‌Databricks provides software that helps companies store, manage and analyze data, as well as develop AI ⁠applications\n• The company competes with Snowflake and is widely viewed as a candidate ⁠for a ‌future stock market listing\n• ⁠The company has previously ​said ‌that its Lakebase product has ​exceeded ⁠a $100 million revenue run-rate, while its Lakehouse data warehousing business surpassed a $1.5 billion revenue run-rate\n(Reporting by Harshita Mary Varghese in Bengaluru; Editing by ​Perla Velasco)",
+      "text_status": "ok"
+    },
+    {
+      "id": "525a81f0e998",
+      "title": "Oracle OpenAI Contract Fully Funded After $20B Raise",
+      "publisher": "shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcENkeElZREdDT0FDZnlMNG41bjFMTl9UV19MZTVzRmo3Z0tYUGxhdnNLdU5WVjNqdmwyU09FQUdqRFgxM19NZC12ODRFc1VrOGV0emlFa3dPeDdPcHFUcEMwYXdMWXZicTVoQTFhRnFLdDhiYkE2TURPdHBqM3NLN0xacFdYNUF6WHNlZGNn?oc=5",
+      "published_at": "2026-11-22T04:44:23.000Z",
+      "publisher_url": "https://shattered.io",
+      "snippet": "Oracle OpenAI Contract Fully Funded After $20B Raise shattered.io",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 20000000000,
+        "currency": "USD",
+        "raw": "$20B"
+      },
+      "company_guess": "Oracle OpenAI Contract Fully",
+      "group_key": "oracle openai contract fully",
+      "group_rank": 0,
+      "resolved_url": "https://shattered.io/oracle-says-openai-contract-fully-funded-20-billion-final-raise/",
+      "text": "Home\nAI & Machine Learning\nOracle Says OpenAI Deal Is Funded After $20B Raise\nPriya Anand\nUpdated Nov 22, 2026 &middot; 16 min read\nPhoto: Peter Kaminski from San Francisco, California, USA, CC BY 2.0, via Wikimedia Commons\nOracle told investors on November 20, 2026 that it has locked down the money for its OpenAI infrastructure contract. In the company’s own words, “Oracle has secured all the funding we need to fulfill our contract with OpenAI.” The statement landed after a final capital raise earlier in November, and it aims to settle a question that has hung over the Oracle OpenAI contract for months: who pays for the servers, the buildings and the power?\nTable of Contents\nWhat Oracle Actually Said on November 20\nThe $20 Billion Raise: $10 Billion in Stock, $10 Billion in Debt\nWhat the Securities Filing Says and Leaves Out\nClosing date: November 4, 2026\nUse of proceeds: general corporate purposes\nVendor Financing and the Investor Day Plan\nWhy “Fully Funded” Does Not Mean Fully Paid For\nThe Unknown: What the OpenAI Contract Is Worth\nWhat Oracle Said, in Its Own Words\nHow Oracle’s Funding Claim Compares With Other AI Spenders\nHistorical Context: Cloud Buildouts and the Cost of Capacity\nMarket Impact: Investors, Lenders and Suppliers\nWhy This Matters for the AI Models Race\nWhat Could Still Go Wrong\nFive Predictions for the Next Two Quarters\nFrequently Asked Questions\nWhat did Oracle announce about its OpenAI contract?\nHow much did Oracle raise?\nIs the $20 billion reserved for OpenAI?\nHow much is the OpenAI contract worth?\nWhat is vendor financing?\nIs Oracle really the first fully funded hyperscaler?\nDoes the funding guarantee OpenAI will get its capacity on time?\nRelated\nThe raise totaled $20 billion, split roughly evenly between $10 billion in stock and $10 billion in debt. Oracle also called itself the first hyperscaler fully funded for this investment cycle. That is a bold claim in a year when capital markets have been testing every AI spender, including Anthropic, which priced its IPO at $83 and raised $81.31 billion according to our earlier coverage.\nThis analysis separates what Oracle confirmed from what it did not. The company gave two headline numbers, one date and a handful of carefully worded sentences. It did not give the contract’s total value, its length or its payment schedule. Those gaps matter as much as the confirmed facts, and we treat them that way throughout.\nThe Shattered Newsletter\nThe week's biggest stories in tech, gaming and security, in one email.\nEmail address\nSubscribe\nFree, once a week. Unsubscribe any time.\n·\nGoogle · Preferred Sources\nDon't miss new tech stories on Google\nAdd Shattered once in the Google app and our stories show up in your news suggestions. Add now\nWhat Oracle Actually Said on November 20\nOracle’s message came in a few short statements, and each one does a specific job. The first states the conclusion: the money needed for the OpenAI contract is secured. The second explains how Oracle got there, pointing to a final capital raise earlier in the month. The third tries to head off a different worry, that Oracle still needs extra help from suppliers to finish the job.\nOn that third point, Oracle said any further private discussions with vendors are just additional options. It added that its ability to deliver on the OpenAI contract does not depend on those discussions. Read together, the statements frame vendor talks as optional upside rather than a missing piece of the plan.\nYou may like\nIndian Startups Raise $31.3M; A2B’s $180M Deal Stands Out\nOpenAI Cuts Funding Target $10B to $20B [2026]\nMicrosoft Winds Down Oracle AI Cloud Deal From 2023 [2026]\nSeveral outlets carried the news, including Reuters, The Indian Express, TechStory and The Information, according to the story’s tracking across named publications. The wording across those reports matches the company’s own language, which suggests the claim comes from a single Oracle statement rather than from independent verification of the funding. That distinction shapes how much weight readers should put on the word “fully.”\nThe $20 Billion Raise: $10 Billion in Stock, $10 Billion in Debt\nThe final raise worked out to about $20 billion. Roughly $10 billion came from selling new stock, and roughly $10 billion came from borrowing. Oracle’s securities filing says both offerings closed on November 4, 2026. That date matters because it places the money in Oracle’s accounts weeks before the public announcement, so the funding claim rests on completed transactions rather than on a pipeline of deals still in progress.\nA 50/50 mix of equity and debt is a deliberate balance. Stock dilutes existing shareholders but adds no interest burden. Debt avoids dilution but adds fixed payments that must be met whether or not AI demand shows up on schedule. By splitting the raise evenly, Oracle limited how much it leans on either lever. Rating agencies and lenders tend to reward that kind of balance, though Oracle has not published any rating changes in the sources we reviewed.\nThe $20 billion is also the “final” raise in Oracle’s framing, which implies Oracle does not expect to return for another large round to cover this contract. Oracle did not state that as a promise, but investors will likely read it that way. If a new offering appears soon, the “fully funded” language will look premature.\nItem What Oracle disclosed Source type\nAnnouncement date November 20, 2026 Company statement\nTotal final raise About $20 billion Reported across outlets\nEquity portion About $10 billion in stock Reported across outlets\nDebt portion About $10 billion in debt Reported across outlets\nClosing date, both offerings November 4, 2026 Securities filing\nUse of proceeds General corporate purposes Securities filing\nWhat the Securities Filing Says and Leaves Out\nThe filing is the most useful document in this story because it carries legal weight that a press statement lacks. It confirms the closing date and describes how Oracle may spend ",
+      "text_status": "ok"
+    },
+    {
+      "id": "1a9eb916495c",
+      "title": "Lockheed Martin Receives $2.35 Billion In Direct Defense Awards Across F-35, C-5 And Trident Programs",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/lockheed-martin-receives-2-35-billion-in-direct-defense-awards-across-f-35-c-5-and-trident-programs/",
+      "published_at": "2026-11-21T20:49:00.000Z",
+      "publisher_url": null,
+      "snippet": "Lockheed Martin received five directly valued defense awards totaling approximately $2.35 billion, along with positions on two large multiple-award contract vehicles whose shared ceilings cannot be assigned to any individual contractor.\nThe post Lockheed Martin Receives $2.35 Billion In Direct Defense Awards Across F-35, C-5 And Trident Programs appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 2350000000,
+        "currency": "USD",
+        "raw": "$2.35 Billion"
+      },
+      "company_guess": "Lockheed Martin",
+      "group_key": "lockheed martin",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/lockheed-martin-receives-2-35-billion-in-direct-defense-awards-across-f-35-c-5-and-trident-programs/",
+      "text": "Lockheed Martin Receives $2.35 Billion In Direct Defense Awards Across F-35, C-5 And Trident Programs\nBy Amit Chowdhry\nToday at 3:49 PM\nLockheed Martin Receives $2.35 Billion In Direct Defense Awards Across F-35, C-5 And Trident Programs\nLockheed Martin received five directly valued defense awards totaling approximately $2.35 billion, along with positions on two large multiple-award contract vehicles whose shared ceilings cannot be assigned to any individual contractor.\nThe largest direct award is a Navy letter-contract modification valued at up to $1.53 billion for Trident II D5 missile production and deployed-systems support. The sole-source effort will continue through September 2031.\nAircraft Production And Sustainment\nThe company received a $330.6 million modification for long-lead materials supporting 75 Lot 22 F-35 aircraft. The full amount was obligated at award, with work continuing through December 2030.\nA separate $93.2 million order covers F-35 depot test equipment, cybersecurity upgrades, repair capacity, technical data, and engineering support. The Navy, Air Force, and cooperative-program partners obligated the complete order value.\nThe Air Force also awarded Lockheed Martin a $316.6 million C-5 Galaxy logistics-support contract. Approximately $23.7 million was initially obligated for supply-chain, repair, engineering, and technical services.\nA $72.6 million F-35 Block 4 modification increases the ceiling for software, cybersecurity, and program-management work, but no funding was obligated at award.\nLockheed Martin was additionally selected for the Navy’s shared $7.13 billion Surface Electronic Warfare Improvement Program vehicle and the Air Force’s $16.1 billion Advanced Propulsion Enterprise vehicle. Those ceilings represent pools available to all selected contractors and are not included in Lockheed Martin’s $2.35 billion direct-award total.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "6fabb4264e49",
+      "title": "24 AI Agents You Can Text: $1.41B Raised, 96% to Instinct",
+      "publisher": "FourWeekMBA",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNl9VaDRleVFMcWFrVkNQckREWVRSMlJVNDRJbjNWY2QxTU5fZThVZk1PQVJvWlhtTExaay1vWmRwdHV4RU1XbmhMaE1tM3dMU1FybWt3UjVxS09SSUgxSmQ5Smdzb1J3eDctMUdqcGpaOWZNZHRIWWVpVy1OMGE0c3lwT3RINlZ3?oc=5",
+      "published_at": "2026-11-22T09:07:32.000Z",
+      "publisher_url": "https://fourweekmba.com",
+      "snippet": "24 AI Agents You Can Text: $1.41B Raised, 96% to Instinct FourWeekMBA",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 1410000000,
+        "currency": "USD",
+        "raw": "$1.41B"
+      },
+      "company_guess": "24 AI",
+      "group_key": "24",
+      "group_rank": 0,
+      "resolved_url": "https://fourweekmba.com/ai-24-ai-agents-you-can-text-1-41b-raised-96-to-instinct/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "a0d25d8cc06d",
+      "title": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More",
+      "publisher": "Crunchbase News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmNrZlhtb1h2Z3RIbWg2dlhyeHVSVHlMWDJVNENWODNQX0czZ0t5ekRXN01FMGhJbGxKS2oxR2UxbHczSGZiVjkya0Znd3JLdUJZcU1mU0ktZkFsV3dGMmJEaktkZW8yb1FDSURlYUNYTkZpRjlUaGM5ZFJhWGJjckJRb2RfbXZPMmU2SEpvQnFwbGtLNUxqMDQ4MUQ3Y0RHLUhlTnBfdUYtSzBlNkE?oc=5",
+      "published_at": "2026-11-20T20:15:54.000Z",
+      "publisher_url": "https://news.crunchbase.com",
+      "snippet": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More Crunchbase News",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 400000000,
+        "currency": "USD",
+        "raw": "$400M"
+      },
+      "company_guess": "Week’s 10 Biggest Funding",
+      "group_key": "weeks 10 biggest funding",
+      "group_rank": 0,
+      "resolved_url": "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
+      "text": "Artificial intelligence &bull; Enterprise &bull; Health, Wellness & Biotech &bull; Robotics &bull; Space tech &bull; Startups &bull; Transportation & Logistics &bull; Venture\nThe Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More\nJoanna Glasner\nNovember 20, 2026\nJoanna Glasner\njglasner\n0\nShares\nEmail\nFacebook\nX\nLinkedIn\nWant to keep track of the largest startup funding deals in 2026 with our curated list of $100 million-plus venture deals to U.S.-based companies? Check out The Crunchbase Megadeals Board .\nThis is a weekly feature that runs down the week’s Top 10 announced funding rounds in the U.S. Check out last week’s biggest funding deal roundup here .\nIt was a big week for tech startup exits, headlined by Anthropic pulling off its massive IPO. On the down side, however, tech stocks took a huge dive in the past few days. Should that negative sentiment and downward pressure persist, we can expect it to spill over into private markets.\nFor this past week, however, U.S. startups continued to secure sizable rounds, led by brain-computer interface company Science landing a fresh $400 million. Another seven American companies announced venture or growth funding of $100 million or more, and across the Atlantic, UK-based AI biotech startup Isomorphic Labs landed $5 billion, the largest financing of the week.\n1. Science , $400M, neurotech : Science, a startup focused on brain-computer interface technology, and neural engineering, secured $400 million in Series D funding. The round brings total funding to date for the Alameda, California-based company to more than $900 million.\n2. Model ML , $250M, AI and fintech : Model ML, an AI platform for financial and professional services, closed on $250 million in Series B funding at a $1.5 billion valuation. General Atlantic and QED Investors led the round for the three-year-old company, which is based in New York and London.\n3. Galvanize Therapeutics , $130M, biotech : Redwood City, California-based Galvanize Therapeutics, a developer of pulsed electric field ablation technologies for oncology and chronic disease, picked up $130 million in Series D funding led by HealthQuest Capital .\n4. General Flash , $128M, critical metals : General Flash, a developer of a new method to produce critical metals, announced that it has raised $128 million across seed and Series A rounds from a long list of investors.\n5. Ramon.Space , $124M, space tech : Denver-based Ramon.Space, a developer of space computing infrastructure, pulled in $124M in Series B funding led by PSG .\n6. Marrow Therapeutics , $120M, biotech : Watertown, Massachusetts-based Marrow Therapeutics, a developer of bone marrow-targeted therapies to treat severe blood disorders, announced its launch with a combined $173 million in Series A and B funding. Orbimed led its $120 million Series B round while Scion Life Sciences and venBio led the $53 million Series A.\n7. Noeri , $110M, enterprise AI : Noeri, a developer of self-improving AI for enterprises and researchers, launched with $110 million in initial funding. Menlo Ventures led the round for the Palo Alto-based startup, which was founded by Stanford University computer science professors.\n8. Seawolf Therapeutics , $100M, biotech : San Diego-based Seawolf Therapeutics, a biotech startup developing a novel DNA delivery platform, emerged from stealth and announced that it has raised $100 million in funding to date, with Versant Ventures , MPM BioImpact and Novartis Venture Fund as lead investors.\n9. BrightAI , $97M, physical AI : BrightAI, a startup developing a sensor, drone and robotics-driven platform to bring continuous observability to infrastructure-heavy industries like power, water, and energy, secured $97 million in new funding. Smith Point Capital led the financing for the Silicon Valley-based company.\n10. Vincue , $93M, vehicle intelligence platform : Kansas City-based Vincue, developer of a vehicle lifecycle intelligence platform, closed on $93 million in growth capital led by Wavecrest Growth Partners .\nAnd overseas:\nIsomorphic Labs , $5B, AI and biotech : London-based Isomorphic Labs, a startup that applies AI to drug discovery, secured $5 billion in Series C funding. Greenoaks and Sequoia Capital led the financing for the five-year-old company, which also has offices in Massachusetts and Switzerland.\nMethodology\nWe tracked the largest announced rounds in the Crunchbase database that were raised by U.S.-based companies for the period of Nov. 14-20, 2026. Although most announced rounds are in the database, there may be a small time lag, as some rounds are reported late in the week.\nIllustration: Dom Guzman\nTags unicorn\nStay up to date with recent funding rounds, acquisitions, and more with the\nCrunchbase Daily.\nYou may also like\nArtificial intelligence &bull; Communications tech &bull; Startups &bull; Venture\nWhat The Telecom Bust Taught Me About AI’s Debt Boom\nGuest Author\nNovember 20, 2026\nThe AI buildout’s growing reliance on debt echoes the telecom bubble, raising the risk that infrastructure spending will outpace the revenue needed...",
+      "text_status": "ok"
+    },
+    {
+      "id": "77ac5953f744",
+      "title": "Doosan Raises $340 Million to Expand CCL Capacity Amid AI Data Center Boom",
+      "publisher": "Seoul Economic Daily",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRklrSXhCbkFoNjFoRmsyVFlaT2VVUjBERjVNanhHbVhENEJMNUJsdzc3NlNkYnlhdXQxcDJSUWs5RnZHWE82Mlk5SnJyM1ZTSFJuU3U0b214Q0xZcVJkWVV3THlsZFN4U1FnQlBOSjgwZFc2XzJzY1dHTFpoMHlISm85OTJJNWJZQnZITzM1bVpEanFLb0dCa3FmWmE0UQ?oc=5",
+      "published_at": "2026-11-22T11:13:03.000Z",
+      "publisher_url": "https://en.sedaily.com",
+      "snippet": "Doosan Raises $340 Million to Expand CCL Capacity Amid AI Data Center Boom Seoul Economic Daily",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 340000000,
+        "currency": "USD",
+        "raw": "$340 Million"
+      },
+      "company_guess": "Doosan",
+      "group_key": "doosan",
+      "group_rank": 0,
+      "resolved_url": "https://en.sedaily.com/market/2026/11/22/doosan-to-expand-ccl-plants-as-ai-spending-drives-demand",
+      "text": "Doosan Raises $340 Million to Expand CCL Capacity Amid AI Data Center Boom\nFunds From National Growth Fund to Expand Jeungpyeong, Gimcheon Plants\nCCL Plant Utilization Already Above 100%\nNew Production Lines and R&D Center Planned\nSemiconductor Value Chain From Materials to Back-End Nears Completion\nMarket Signal |\nPublished 2026.11.22. 20:13:03 |\nBy Kim Byung-joon econ_jun@sedaily.com\n| Summary | Save\nA A A\nThis article appeared on Signal, the capital markets compass, at 2:13 p.m. on Nov. 22, 2026.\nView of Doosan's headquarters in Seongnam, Gyeonggi Province. Doosan\nDoosan (000150) is raising 500 billion won ($340 million) from the National Growth Fund to expand its copper clad laminate (CCL) production plants, responding to a surge in demand for high-value CCL driven by expanding investment in artificial intelligence data centers. Analysts say Doosan Group is completing a semiconductor value chain that now spans semiconductor materials, wafers — the discs on which chips are built — through its acquisition of SK Siltron, and back-end processing at Doosan Tesna.\nDoosan's domestic CCL production lines are already running above 100% utilization, leaving the company in need of added capacity through expansion, according to investment banking sources on the 22nd. \"The company will raise funds from the National Growth Fund and the Korea Development Bank and invest in domestic plants, excluding China,\" one investment banking source said.\nThis is not Doosan's first expansion plan. The company previously announced it would invest 400 billion won by 2028 to build a CCL production facility for optical modules spanning about 33,000 square meters next to its flexible copper clad laminate (FCCL) plant in Gimje, Jeonbuk State. Adding the expansion of the Jeungpyeong plant through low-interest loans from the National Growth Fund is seen as a move to respond quickly to rapidly rising CCL demand. Unlike Gimje, which requires new construction, the Jeungpyeong and Gimcheon expansions can be completed relatively quickly.\nDemand for CCL used in optical modules is surging as AI data centers proliferate and networks shift to ultra-high speeds of 800G and above. Optical modules convert electrical signals between servers and network equipment into light signals, and CCL is a core material for printed circuit boards. Securities analysts said rising demand for optical module CCL is creating a seller's market. \"With a CCL supply shortage expected to persist for the next two to three years, suppliers are likely to secure favorable pricing terms when signing long-term supply contracts,\" said Kim Min-kyung, an analyst at Hana Securities.\nDoosan also plans to build a research and development center in Yongin, Gyeonggi Province. Doosan Group had initially planned to build an advanced technology R&D center focused on hydrogen research involving Doosan Enerbility, Doosan Fuel Cell and Doosan Mobility Innovation, but it is now expected to extend the center's scope to semiconductor R&D. The move aims to upgrade and strengthen technological competitiveness as the group completes its semiconductor value chain. Under the structure, SK Siltron produces wafers, the starting point of chip manufacturing, Doosan supplies CCL, and Doosan Tesna handles back-end processes such as wafer testing and package testing for system semiconductors. The Korea Development Bank, together with Woori Bank, earlier arranged 2.5 trillion won in acquisition financing for the SK Siltron purchase.\nFunding from the National Growth Fund is confirmed after a review of eligibility criteria including business viability, technology and creditworthiness, followed by deliberation and approval by an investment review committee and a fund management committee. Doosan has cleared the business viability and creditworthiness stages ahead of the investment review committee, meaning the loan process is effectively in its final phase. \"The Korea Development Bank's support of low-interest loans for both Doosan's SK Siltron acquisition and its plant expansion reads as a show of commitment to fostering the advanced semiconductor industry,\" another investment banking source said.\nThe National Growth Fund provides low-interest loans to advanced strategic industries and their ecosystems, including AI, semiconductors, secondary batteries, biotechnology and energy infrastructure. It has previously extended low-interest loans of 2.5 trillion won to Samsung Electronics' (005930) fifth production line in Pyeongtaek, 1.5 trillion won to LG Display (034220) and 750 billion won to the Sinan Ui offshore wind power project. It also provided 300 billion won to SK Bioscience (302440) to secure production facilities and made a 250 billion won direct investment in Rebellions.\nBeyond Doosan, domestic materials, parts and equipment companies are also expanding investment. Kolon Industries (120110) has added production lines for modified polyphenylene oxide (mPPO), a low-dielectric material that reduces electrical signal loss in semiconductor circuit boards, in response to growth in the AI and semiconductor industries. LG Chem (051910) is also investing in CCL, aiming to broaden its applications from memory chips to non-memory areas such as system-in-package (SiP).\n# Doosan # CCL # AIDataCenter # Semiconductors # SKSiltron # KoreaMarkets\nOriginal reporting by Kim Byung-joon for Seoul Economic Daily.\nAI-translated from Korean. Quotes from foreign sources are based on Korean-language reports and may not reflect exact original wording.\nView Korean original ↗ Translation Policy\nWatch · Seoul Economic Daily More →\n0:06 Samsung Taps HBM and Galaxy Veterans for Top Posts | November 21 2026 | Industry Daily 0:06\nRelated Articles\nElectronic Comb Regrows Hair in Mice, Outperforming Minoxidil Published 2026.11.21. 07:21:17",
+      "text_status": "ok"
+    },
+    {
+      "id": "9a10d47f4788",
+      "title": "Raytheon Receives $159.4 Million In Direct Navy Awards For Missile And Sensor Systems",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/raytheon-receives-159-4-million-in-direct-navy-awards-for-missile-and-sensor-systems/",
+      "published_at": "2026-11-21T20:42:17.000Z",
+      "publisher_url": null,
+      "snippet": "Raytheon received three directly valued Navy awards totaling approximately $159.4 million for Rolling Airframe Missile and Cooperative Engagement Capability work.\nThe post Raytheon Receives $159.4 Million In Direct Navy Awards For Missile And Sensor Systems appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 159400000,
+        "currency": "USD",
+        "raw": "$159.4 Million"
+      },
+      "company_guess": "Raytheon",
+      "group_key": "raytheon",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/raytheon-receives-159-4-million-in-direct-navy-awards-for-missile-and-sensor-systems/",
+      "text": "Raytheon Receives $159.4 Million In Direct Navy Awards For Missile And Sensor Systems\nBy Amit Chowdhry\nToday at 3:42 PM\nRaytheon Receives $159.4 Million In Direct Navy Awards For Missile And Sensor Systems\nRaytheon received three directly valued Navy awards totaling approximately $159.4 million for Rolling Airframe Missile and Cooperative Engagement Capability work.\nThe largest award is a $120.3 million firm-fixed-price modification covering production of Rolling Airframe Missile Block 2B guided-missile round packs.\nMissile Production And Engineering\nThe Block 2B modification supports Navy production and a Foreign Military Sales requirement for Japan. The Navy obligated $105.6 million, while Japan provided $14.7 million. Work will take place in Germany, Arizona, West Virginia, Great Britain, Ohio, and other U.S. locations through February 2030.\nRaytheon also received a $12.3 million modification for design-agent and engineering support for the Rolling Airframe Missile system. Germany funded the complete award, which includes systems engineering, software maintenance, reliability, quality-assurance, logistics, and technical support through September 2028.\nA separate $26.7 million modification supports the Cooperative Engagement Capability weapon system. The work includes design, development, integration, testing, and maintenance for the United States, Australia, Japan, and Canada. The full amount was obligated at award.\nRaytheon was also named to the Navy’s shared $7.13 billion Surface Electronic Warfare Improvement Program contract and parent company RTX was selected for the Air Force’s $16.1 billion propulsion vehicle. Neither shared ceiling is included in Raytheon’s direct-award total because future task orders will determine actual revenue.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "274dc81406f7",
+      "title": "Follow the Money: Variational’s $110M Round, Tether Activity, and M&A Deals",
+      "publisher": "Incrypted",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUM5c2pfbUVaMmRqN3NvSDNjVnFidlNESExVVzdFWUhmWDkwMjh0MTFXd0FUWG5yNUhOZUNEMGlBaWg2eEYwdmItSnZVajJTOTdBdzQ5Q3RIVWR4UGFod0g0X0hHMHF5OXN0M2d5TEJHNlVoMFF6X3V1MWZlYjRtX3ZRZFVTXzIzVTgtSF8yMGpfRDd5MnZ3cktOaw?oc=5",
+      "published_at": "2026-11-21T10:01:00.000Z",
+      "publisher_url": "https://incrypted.com",
+      "snippet": "Follow the Money: Variational’s $110M Round, Tether Activity, and M&A Deals Incrypted",
+      "source_feed": "gnews-7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 110000000,
+        "currency": "USD",
+        "raw": "$110M"
+      },
+      "company_guess": "Follow the Money",
+      "group_key": "follow the money",
+      "group_rank": 0,
+      "resolved_url": "https://incrypted.com/follow-the-money-raund-variational-na-110-mln-aktyvnost-tether-y-sdelky-m-a/",
+      "text": "21.11.2026\n200\n4 мин\nFollow the Money: раунд Variational на $110 млн, активность Tether и сделки M&A\nSergey Khukharkin\nПоділитися в Telegram\nПоділитися в Twitter\nКопіювати посилання\nAI Summary\nВыбирайте нас в Google\nBLACK FRIDAY + INCRYPTED Plus LOTTERY TICKET\nВ период с 14 по 21 ноября 2026 года включительно редакция Incrypted зафиксировала 13 инвестиционных сделок. По девяти из них известны подробности, включая сумму финансирования. В целом на этой неделе проекты из сферы Web3 привлекли $216,7 млн.\nИнфографика Incrypted.\nВенчурные сделки\nНа этой неделе было 11 раундов из этой категории, включая:\n$110 млн — Variational. Децентрализованный протокол закрыл раунд серии B под руководством Bain Capital Crypto при участии Dragonfly, HSG, Peak XV Partners и 50T Funds. Оценка компании достигла $1,5 млрд. Пользователи могут торговать деривативами на криптоактивы, акции, индексы, сырьевые товары и валюты. Средства направят на увеличение числа доступных рынков и повышение лимитов открытого интереса на платформе Omni.\n$30 млн — Nomad. Бразильский финтех-стартап привлек средства в рамках раунда серии C под руководством Tether Capital при участии Endeavor, Globo Ventures, Tiger Global Management и Spark Capital. Платформа предоставляет доступ к долларовым счетам, международным платежам и инвестиционным инструментам. Капитал направят на разработку продуктов на базе ИИ, расширение инвестиционной платформы и развитие инфраструктуры трансграничных расчетов.\n$30 млн — Codex. Разработчик платежной инфраструктуры завершил раунд серии A под руководством Pantera Capital при участии Dragonfly Capital, Coinbase Ventures, TENET, Reciprocal Ventures, Fin Capital и LeadBlock Partners. Сервис обеспечивает конвертацию фиатных валют и стейблкоинов по институциональным курсам. Финансирование позволит масштабировать систему международных расчетов.\n$25 млн — Avenia (ранее BRLA Digital). Бразильская финтех-компания завершила расширенный раунд серии A под руководством Lightspeed Faction при участии Flourish Ventures, Quona Capital, Big Bets, Headline Asia, Fluent Ventures, Tomorrow Capital и Patria Investments. Компания специализируется на трансграничных расчетах. Она также выпускает стейблкоин BRLA, привязанный к местной валюте. Средства направят на запуск новых продуктов и приобретение лицензированных финансовых организаций.\n$10 млн — MetaComp. Платежный сервис привлек финансирование в рамках расширенного раунда Pre-Series A+ при участии Tether и Further Asset Management. Компания обслуживает трансграничные переводы в фиатных валютах и стейблкоинах. Капитал направят на лицензирование, обеспечение соответствия регуляторным требованиям и расширение сети расчетов между Азией, Ближним Востоком и Африкой.\n$4 млн — TheHUB. Разработчик инфраструктурных решений провел посевной раунд под руководством Valor Capital Group при участии Adderall Capital, Keyrock, Staking Facilities и бизнес-ангелов. Компания создает сети с низкой задержкой для криптобирж, маркетмейкеров и валидаторов. Средства направят на расширение инженерной команды и выход на новые рынки.\n$3,5 млн — End Close. Стартап завершил посевной раунд при участии Foundation Capital, Y Combinator, Liquid 2 Ventures, Sunflower Capital и Angel Invest. Команда разрабатывает инструменты автоматизированной сверки финансовых транзакций с использованием ИИ. Капитал направят на расширение штата разработчиков, коммерческого подразделения и подразделения по внедрению продукта.\n$2,5 млн — LART. Стартап привлек финансирование в рамках посевного раунда при участии IBC Group, X21 Digital, Genesis Capital, Gaea Ventures и частных инвесторов. Протокол специализируется на токенизации произведений искусства и подтверждении их происхождения посредством блокчейна. Средства направят на поиск пропавших арт-объектов, развитие платформы RAREON и подготовку первого художественного объекта к выпуску цифрового токена.\n$1,7 млн — Null. DeFi-проект провел предпосевной раунд под руководством cyber Fund и Nethermind при участии Ноа Зинсмейстера, Муди Салема и Лео Шпрута. Команда пока не раскрыла подробностей о продукте и направлениях расходования средств.\nТакже отметим, что некоторые проекты не раскрывают подробности сделок. На этой неделе было два таких кейса:\nSCRYPT Digital. Криптоброкер привлек стратегические инвестиции от Tether. Платформа предлагает институциональным клиентам услуги по торговле цифровыми активами, их хранению и управлению капиталом. Средства направят на развитие платежной инфраструктуры на базе стейблкоинов.\nStables. Платежный сервис получил стратегические инвестиции от Tether Capital. Компания предлагает бизнесу инструменты для приема, конвертации и перевода средств с использованием USDT. Капитал направят на развитие платежной инфраструктуры в Азии, на Ближнем Востоке и в Северной Африке.\nТокенсейлы\nВ указанный период мы не зафиксировали событий из этой категории. С предстоящими токенсейлами можно ознакомиться ниже:\nИнфографика Incrypted.\nВы можете следить за обновлением соответствующего раздела на нашем сайте, чтобы не пропустить новые кейсы. Кроме этого, наша команда регулярно обновляет профильный Telegram-канал .\nКорпоративные сделки и размещения\nНа этой неделе в данном секторе наблюдалось затишье. Мы не зафиксировали сделок из указанной категории.\nСлияния и поглощения\nНа этой неделе мы зафиксировали две сделки в этой категории:\nTribe Capital. Payward, материнская компания криптобиржи Kraken, заключила соглашение о приобретении венчурной компании с $2,7 млрд активов под управлением. Tribe Capital войдет в подразделение Payward по управлению активами. Финансовые условия сделки не раскрываются. Ее закрытие ожидается в I квартале 2027 года.\nCoinGecko. Агрегатор криптовалютных данных заручился поддержкой Solana Foundation. Компания планирует расширить функционал API, усовершенствовать инструменты рыночной аналитики и интегрировать торговые решения в свои продукты. Условия сделки не раскрываются.\nАкселераторы, гранты и DAO-финансирование\nНа этой неделе не было событий из этой категори",
+      "text_status": "ok"
+    },
+    {
+      "id": "b3a767985311",
+      "title": "CAM advises Multiples Equity on $100 million investment in GIVA",
+      "publisher": "ETLegalWorld.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUllUcjBjOU9ERkVuamotdm5DWWt5VlFzcWdqSlhVS1BCTXZLMDJvU3dWeHU4ZHVHSUJoaDQ5VkJMcko0SzRidjljOVdvVE04N0R0OE1HYTRsSEt6NXVOWE56U1NGSzJHQUNXOFoxeXdjSDFiMndRbXF1cDk3eDNwdlF4eG9lS3JubHpka0pZd09aUjhTSzhmLWEzR05abUdPMVZjSWZmN0F2dW5OSlJPaUFuNE9UbE9ULWxDZzR5Y3gwRFlJcXBma2pDZnJrQdIB0wFBVV95cUxPWDBCUVBXRjl2X2dSdTlMcjNveHhrR01COEdKZy1VbXVhNUlHVEN2VXpNMU1JOG51WklfTktPZ3lueUFwbFN3VUIzVGxUZ25rN2dKbkxfcm5ZTTViT0xxSjNaY3hSbkdlMnJSZGdCRnBvdE1ZXy1zUHBudTIwTFJ3VkpZbTU3RzFyc2RFNWxEQ205dHoxWWVYNTJqZ1VsRDA2b3hBeW9PRWxoZHo2VDB2Q2hGTjNPQ251ZHd3TEVNUDRIVWE1YnJCcmM4ZVBjMlAzUHV3?oc=5",
+      "published_at": "2026-11-21T23:13:12.000Z",
+      "publisher_url": "http://legal.economictimes.indiatimes.com",
+      "snippet": "CAM advises Multiples Equity on $100 million investment in GIVA ETLegalWorld.com",
+      "source_feed": "gnews-5",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100 million"
+      },
+      "company_guess": "CAM",
+      "group_key": "cam",
+      "group_rank": 0,
+      "resolved_url": "http://legal.economictimes.indiatimes.com/news/international/cam-advises-multiples-equity-on-100-million-investment-in-giva/136048603",
+      "text": "International\n1 min Read\nCAM advises Multiples Equity on $100 million investment in GIVA\nThe transaction involving Indiejewels Fashion Private Limited, which operates GIVA, comprised a combination of fresh issuance of securities and purchase of securities from certain existing shareholders.\nOnline Desk\nETLegalWorld\nUpdated On Nov 21, 2026 at 01:31 PM IST\nSet ETLegalWorld as your preferred source on Google\nShare Icon\nCopy Link Share on Whatsapp Share on Linkedin Share on X Share on Telegram Share on Facebook\nBookmark\nComment\nCyril Amarchand Mangaldas (CAM) advised Multiples Alternate Asset Management Private Limited on its investment in jewellery brand GIVA , as part of a funding round of approximately $100 million (around ₹900 crore) led by Multiples Equity .\nThe transaction involving Indiejewels Fashion Private Limited , which operates GIVA, comprised a combination of fresh issuance of securities and purchase of securities from certain existing shareholders.\nThe CAM transaction team was led by partners Aditi Manchanda and Abhishek Kalra, with support from principal associate Chandni Ochani and associate Rajat Pareek.\nThe legal due diligence was undertaken by the transaction team along with senior associate Kaushik Raichura and associates Rhea Prasad and Twinkle Tiwari.\nThe firm's intellectual property diligence was led by Swati Sharma, partner and head of intellectual property, with support from principal associate-designate Andri Shukla and principal associate Rohin Koolwal.\nSowmya Kumar, partner, led the employment diligence, supported by Luv Saggi, director &ndash; employment, senior associate Soumyashree Chowdhury and associate Saksham Kumar.\nArya Tripathy, partner, assisted on information technology and data privacy due diligence, with support from associate Milind Yadav.\nThe investment marks another funding round for GIVA, a jewellery brand operating in India's growing organised jewellery market.\nComments\nWhat are your thoughts?",
+      "text_status": "ok"
+    },
+    {
+      "id": "5f335aa0aad2",
+      "title": "Legacy Motor Club Raises $85 Million Led by Knighthead",
+      "publisher": "Briefs Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZG5XVWZEYTlCYUFiRENRN2ZkMmJRZ0JjNVJ3bzltdnpaRlFfTzRLYnRSbTNzaVZCb2ZtTTVPcWNpVmxsMU5jb19HX2s3VTVwN3VsUlBvSGNWYWFPQmFyemw2OVdORG1BVWQzWV80bjZ4OUJsVkxSakxIb3lsZjRHa2E3N1gta3Ra?oc=5",
+      "published_at": "2026-11-21T04:55:24.000Z",
+      "publisher_url": "https://www.briefs.co",
+      "snippet": "Legacy Motor Club Raises $85 Million Led by Knighthead Briefs Finance",
+      "source_feed": "gnews-3",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 85000000,
+        "currency": "USD",
+        "raw": "$85 Million"
+      },
+      "company_guess": "Legacy Motor Club",
+      "group_key": "legacy motor club",
+      "group_rank": 0,
+      "resolved_url": "https://www.briefs.co/news/legacy-motor-club-raises-85-million-led-by-knighthead/",
+      "text": "Briefs\nFinance\nStock Market\nCrypto\nTech\nEconomy\nGlobal\nReal Estate\nDeep Briefs\nInvesting\nPersonal Finance\nWealth\nRetirement\nProducts\nMarket Briefs\nBriefs Money\nBriefs Investor\nBriefs Pro\nLog In\nFree Newsletter Pro Login\nStock\nCrypto\nTechnology\nEconomy\nGlobal Scoop\nReal Estate\nDeep Briefs\nProducts\nMarket Briefs\nBriefs Money\nBriefs Investor\nBriefs Pro\nLog In\nClose Menu ✕\n✕\nStock Market\nCrypto\nTech\nEconomy\nGlobal\nReal Estate\nDeep Briefs\n▸\nInvesting\nPersonal Finance\nRetirement\nWealth\nProducts\n▸\nMarket Briefs Briefs Money Briefs Investor Briefs Pro\nLogin\nFree Newsletter\nWarning : Undefined variable $stocks in /var/www/briefs.co/htdocs/wp-content/plugins/oxygen/component-framework/components/classes/code-block.class.php(133) : eval()'d code on line 448\nWarning : foreach() argument must be of type array|object, null given in /var/www/briefs.co/htdocs/wp-content/plugins/oxygen/component-framework/components/classes/code-block.class.php(133) : eval()'d code on line 448\nWarning : Undefined variable $funds in /var/www/briefs.co/htdocs/wp-content/plugins/oxygen/component-framework/components/classes/code-block.class.php(133) : eval()'d code on line 472\nWarning : foreach() argument must be of type array|object, null given in /var/www/briefs.co/htdocs/wp-content/plugins/oxygen/component-framework/components/classes/code-block.class.php(133) : eval()'d code on line 472\n/* the link was here */\n&times;\nFree investor livestream &mdash; Nov 17\nHow To Use ChatGPT & Claude To Research Stocks Like A Pro\n01\nThe prompt we use to break down any stock\n02\nHow to fact-check what AI tells you\n03\nHow to compare two stocks in minutes\nSave my seat &rarr;\nNEWS / Economy\nLegacy Motor Club Raises $85 Million Led by Knighthead\nKalbir Talwar\nPublished Nov 20, 2026\nShare:\nSummary:\nLegacy Motor Club closed an $85 million round led by Knighthead Capital Management, valuing the team at $450 million, per a person familiar.\nProceeds go to scaling operations and building a new base in Moorseville, North Carolina, targeted to open in 2028.\nKnighthead bought a minority stake in January 2025; partner Kyle Kneisly said the strategy called for putting growth capital to work right away.\nThe deal and the valuation\nJimmie Johnson - a seven-time Nascar Cup Series champion - owns Legacy Motor Club , which raised $85 million in a financing led by Knighthead Capital Management. A person familiar with the deal said the round implies a $450 million valuation.\nKnighthead took a minority position in January 2025, purchasing much of airline entrepreneur Maury Gallagher's stake, a move that left Johnson as the majority owner.\nMarket Briefs\nGet the market news in 5 minutes every morning\nMarket Briefs is our daily email on the economy, stocks, real estate and crypto, written in plain English. Send me Market Briefs\nDaily newsletter. Unsubscribe anytime.\nHow the funds will be used\nThe new capital is slated to beef up team operations and bankroll a headquarters in Moorseville, North Carolina, targeted to open in 2028. Johnson said the team returned to the market to keep scaling, including adding a third race team, and added, \"we can truly hit our objectives to be a tier one racing operation in the Nascar series.\"\nWho is backing it\nKnighthead Capital is led by co-founder Tom Wagner, who started the firm in 2008 and also has ownership interests in the Las Vegas Raiders and Birmingham City Football Club. \"Investing and immediately deploying growth capital was part of the plan,\" said Kyle Kneisly, a Knighthead partner and Legacy board member.\nIn July, Legacy unveiled a separate investor group featuring Bryce Harper, Andy Roddick, Darius Rucker and Guy Fieri.\nMarkets change in ways big and small, so sign up for the free Market Briefs to get clear daily context.\nWhy it matters for investors\nLegacy now fields three chartered Nascar teams, all running Toyota Camry XSEs, with Josh Berry, Erik Jones and Riley Herbst set for the coming season. The raise lands as Nascar's settlement with Michael Jordan's 23XI Racing and Front Row Motorsports enabled permanent team charters, a shift that could lift franchise values across the grid.\nThe bottom line: track how quickly Legacy executes on the 2028 facility and how the three-team roster performs after adding the third entry as part of its growth plan.\nWhen there is a lot to follow across finance, subscribe to our free Market Briefs newsletter for quick daily clarity.\nDisclosure\nTrending Briefs\nChina's AI Trade Flips as $1.7T Evaporates and Chip Curbs Bite\nNov 21, 2026\nAustralian Auction Sales Tick up as Listings Thin Out\nNov 21, 2026\nCalifornia Eyes Potential Criminal Violations in Probe of Nvidia's China Chip Sales and Investor Disclosures\nNov 21, 2026\nEarly Polar Vortex Shakeup Collides with Strong El Ni&ntilde;o, Raising Europe's Winter Energy Risk\nNov 21, 2026\nVenture Party: Anthropic's Mega-IPO Collides with an AI Stock Selloff\nNov 21, 2026\nTrump Floats Upside to FBI System Breach, Cites Voter Fraud and Russia\nNov 21, 2026\nTrump Orders Federal Contractors to Clear Congress Responses with White House, Withhold Material Deemed Confidential\nNov 21, 2026\nTankers Hit Near Oman Amid Murky Reports Around Strait of Hormuz\nNov 21, 2026\nU.S. Airlines Retire Long-haul First Class as Business Suites Take the Throne\nNov 21, 2026\nBuffett's Thanksgiving Gifts Jump to $5.5B, Using Class B Shares Converted from Class A\nNov 21, 2026\nGet Market Briefs every morning for free!\nNo fluff. No noise. No politics. Just finance news in 5 minutes. Subscribe Free\nRecent News\nGlobal Scoop\nNovember 21, 2026\nChina's AI Trade Flips as $1.7T Evaporates and Chip Curbs Bite Read more\nReal Estate\nNovember 21, 2026\nAustralian Auction Sales Tick up as Listings Thin Out Read more\nStock\nNovember 21, 2026\nCalifornia Eyes Potential Criminal Violations in Probe of Nvidia's China Chip Sales and Investor Disclosures Read more\nEconomy\nNovember 21, 2026\nEarly Polar Vortex Shakeup Collides with Strong El Ni&ntilde;o, Raising Europe's Winter Energy Risk Read more\nS",
+      "text_status": "ok"
+    },
+    {
+      "id": "a453a5f49ef9",
+      "title": "PollyPolymer Raises $70 Million for Its HALS 3D Printing Process",
+      "publisher": "3Druck.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbkNPTWE2cjc0SjZsUjZhYTNmX1hpaGtVYWE2S0dtcjd3dkYzOXBVMlZBNE5FN3ozX1NFNUo2OFdpVWluOG5acjlpbVY4elhJWFVtMl9nMld4bWh6N2tPZ3FFUHZMOFJFcGRKMUh6OWRlcFZJM01nYjNLZkpsNUhzUlk2djVsdThiVFZaWmVNZzR2MHJkS21HNG5B?oc=5",
+      "published_at": "2026-11-21T06:57:45.000Z",
+      "publisher_url": "https://3druck.com",
+      "snippet": "PollyPolymer Raises $70 Million for Its HALS 3D Printing Process 3Druck.com",
+      "source_feed": "gnews-g2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70 Million"
+      },
+      "company_guess": "PollyPolymer",
+      "group_key": "pollypolymer",
+      "group_rank": 0,
+      "resolved_url": "https://3druck.com/en/industry-2/pollypolymer-receives-70-million-for-its-3d-printing-process/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "e240b4d220eb",
+      "title": "Amentum Receives $38.3 Million In Aviation Awards And Positions On Two Major Contract Vehicles",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/amentum-receives-38-3-million-in-aviation-awards-and-positions-on-two-major-contract-vehicles/",
+      "published_at": "2026-11-21T21:23:58.000Z",
+      "publisher_url": null,
+      "snippet": "Amentum Services received two Army aviation-maintenance modifications totaling approximately $38.3 million and was selected for two major multiple-award contract vehicles.\nThe post Amentum Receives $38.3 Million In Aviation Awards And Positions On Two Major Contract Vehicles appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 38300000,
+        "currency": "USD",
+        "raw": "$38.3 Million"
+      },
+      "company_guess": "Amentum",
+      "group_key": "amentum",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/amentum-receives-38-3-million-in-aviation-awards-and-positions-on-two-major-contract-vehicles/",
+      "text": "Amentum Receives $38.3 Million In Aviation Awards And Positions On Two Major Contract Vehicles\nBy Amit Chowdhry\nToday at 4:23 PM\nAmentum Receives $38.3 Million In Aviation Awards And Positions On Two Major Contract Vehicles\nAmentum Services received two Army aviation-maintenance modifications totaling approximately $38.3 million and was selected for two major multiple-award contract vehicles.\nThe Army awarded an $18.4 million time-and-materials modification for worldwide aviation maintenance. The work includes level-of-effort support, pass-back maintenance, and aircraft modification installations.\nGlobal Aviation Maintenance\nThe $18.4 million modification increased the cumulative value of contract W58RGZ-25-C-0003 to approximately $435.2 million. The full modification value was obligated using fiscal 2027 Army aircraft-procurement and operations-and-maintenance funding.\nAmentum also received a $19.9 million modification under contract W58RGZ-25-C-0004. Work will be conducted at locations across Alaska, Arizona, California, Hawaii, Kansas, Montana, New Mexico, South Korea, Texas, and Washington through November 2027. The Army obligated the full amount.\nThese two modifications represent approximately $38.3 million in newly awarded, directly attributable value. The cumulative values of the underlying contracts are not added to that total because they include earlier awards.\nAmentum was also selected for the Navy’s $7.13 billion Surface Electronic Warfare Improvement Program vehicle and the Air Force’s $16.1 billion Advanced Propulsion Enterprise contract. Those ceilings are shared with numerous companies and do not guarantee Amentum a specific amount. Actual value will depend on task orders competed and awarded under each vehicle.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "c1bd2212e7f8",
+      "title": "Mission Mobile raises $28.4M to widen smartphone access in South Africa",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2FzcS1YaW1BVHBhVU92TmdKd3ZvdldHa191Qkh2YnJzNl96RUVSaDdtb3FHNk1haExYN2VnenVfYVBuV0VWRGxrVDdKTkF5NjBMOEdvcVY1bjRHWWx5c0tRbmJWRFRPQ0tnNTdUYVhiS3dHMzFHTW04ZVJBMHBFSFJuN055bFFtLU91bVJRZnpRVW9CM1BSUmVDQk9Wa0F6OEhnWFg2NA?oc=5",
+      "published_at": "2026-11-21T07:43:36.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Mission Mobile raises $28.4M to widen smartphone access in South Africa Dealroom",
+      "source_feed": "gnews-g5",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 28400000,
+        "currency": "USD",
+        "raw": "$28.4M"
+      },
+      "company_guess": "Mission Mobile",
+      "group_key": "mission mobile",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/mission-mobile-raises-28-4m-to-widen-smartphone-access-in-south-africa",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "3c5d7553d2f5",
+      "title": "University Of Michigan Library Receives More Than $21 Million For Culinary Archive",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/university-of-michigan-library-receives-more-than-21-million-for-culinary-archive/",
+      "published_at": "2026-11-21T20:40:39.000Z",
+      "publisher_url": null,
+      "snippet": "The University of Michigan Library has received a bequest of more than $21 million from Daniel T. Longone to support the Janice Bluestein Longone Culinary Archive.\nThe post University Of Michigan Library Receives More Than $21 Million For Culinary Archive appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 21000000,
+        "currency": "USD",
+        "raw": "$21 Million"
+      },
+      "company_guess": "University Of Michigan Library",
+      "group_key": "university of michigan library",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/university-of-michigan-library-receives-more-than-21-million-for-culinary-archive/",
+      "text": "University Of Michigan Library Receives More Than $21 Million For Culinary Archive\nBy Amit Chowdhry\nToday at 3:40 PM\nUniversity Of Michigan Library Receives More Than $21 Million For Culinary Archive\nThe University of Michigan Library has received a bequest of more than $21 million from Daniel T. Longone to support the Janice Bluestein Longone Culinary Archive.\nThe gift is the largest in the library’s history and honors Longone’s wife, Janice B. Longone, whose collecting and research helped establish the archive.\nPreserving American Culinary History\nThe collection contains more than 30,000 cookbooks, recipes, restaurant menus, advertisements, and other materials documenting the history of food and drink in the United States.\nIts holdings span the 18th through early 21st centuries, with particular strengths in community cookbooks, African American and immigrant cookbooks, handwritten recipes, restaurant menus, food advertising, wine, and viticulture.\nOne of its most significant items is the only known copy of Malinda Russell’s 1866 work, “A Domestic Cook Book,” the oldest known cookbook written by an African American woman.\nCurrent collecting priorities include Native American cookbooks, regional cooking, immigrant foodways, vegetarian and vegan cuisine, and handwritten recipe collections.\nExpanding Research And Public Access\nThe bequest will support preservation, acquisitions, cataloging, conservation, teaching, research, digitization, and public programming.\nFunding will also support visiting scholars, research fellows, artists, seminars, workshops, curated digital collections, and an annual public lecture.\nLongone previously contributed another $1.5 million to establish the Janice B. Longone Librarian for Culinary History. Juli McLoone, the archive’s longtime curator, holds the endowed position.\nThe library also plans to expand classroom access as students use the collection to investigate migration, identity, race, gender, labor, business, environmental issues, and everyday life.\nKEY QUOTES:\nThis gift is an extraordinary investment in the future of an amazing culinary archive. The endowed librarian position provides dedicated leadership, and this level of support gives that leader the resources to preserve and build the collection, welcome and engage researchers and students, and connect its stories with the broader public. Together, these commitments ensure that Jan and Dan Longone’s vision will continue to flourish and impact scholars well into the future.\nLisa Carter, University Librarian And Dean Of Libraries At The University Of Michigan\nShe knew the value of looking at cookbooks unmitigated by a historian’s perspective.\nRuth Reichl, Chef And Food Writer\nShe would lead you down the rickety back stairs to her basement with all these dehumidifiers going and these metal racks full of books and you could spend as long as you wanted there. I thought I had struck gold.\nRick Bayless, Chef And Restaurateur\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "f9338e84c962",
+      "title": "Flipper One Raises $15 Million on Kickstarter",
+      "publisher": "Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQenRqLXNwNzQ3YkF1YlRpY0RQeUpTbi1kSjNwQjNoMU5qa3ZpYXZ6WG8zQ0FIRWhTZnhCVUJLQkQzbXc5R0YwY0MtelJVa3ZYVkNSUlhZSFJuTkFrbVI1UE5KZkRvMVRNUW14Tk1LM2RacHNEQTJ3Z1VfSjhCY0hscDUzVUhFTGM?oc=5",
+      "published_at": "2026-11-21T13:35:25.000Z",
+      "publisher_url": "https://wisevoter.com",
+      "snippet": "Flipper One Raises $15 Million on Kickstarter Wisevoter",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 15000000,
+        "currency": "USD",
+        "raw": "$15 Million"
+      },
+      "company_guess": "Flipper One",
+      "group_key": "flipper one",
+      "group_rank": 0,
+      "resolved_url": "https://wisevoter.com/world/2026/11/21/flipper-one-raises-15-million-kickstarter",
+      "text": "Home\n› World\n› Tech\n› Consumer Electronics\nFlipper One Raises $15 Million on Kickstarter\nThe pocket-sized Linux mini-computer has drawn more than 27,000 pledges since its Kickstarter campaign launched.\nUpdated on Nov. 21, 2026 in Consumer Electronics\nKickstarter backers have pledged $15 million to the Flipper One, a pocket-sized Linux mini-computer that works with Wi-Fi and 5G networks. AI Illustration. Upload story photo >\nLive Poll\nDo you trust that gadgets like this won't put your home network at risk?\n▲ Yes ▼ No\nThe Flipper One, a pocket-sized mini-computer, has raised $15 million on Kickstarter, with $13 million coming in on the first day of the campaign. The device runs Linux and uses Wi-Fi and 5G rather than the RFID and NFC protocols of its predecessor, the Flipper Zero.\nWhy it matters\nThe campaign's rapid funding signals strong interest in a portable device aimed at networks, routers, and internet-connected hardware rather than only low-level wireless signals. Its focus on regular software and cellular connectivity distinguishes it from the earlier Flipper Zero, launched in 2020.\nThe Flipper One runs Linux, connects over Wi-Fi and 5G, supports eSIM for cellular networks, and can act as both a Wi-Fi client and hotspot. Its raw specifications such as processor and storage were not included in the reporting.\nThe players\nFlipper Devices\nFlipper Devices is the company behind the Flipper Zero and the Flipper One, known for pocket-sized hardware tools aimed at hobbyists and security researchers.\nThe details\nThe device is designed to interact with Wi-Fi networks, routers, and internet-connected devices, and once developers gain access, additional functionality is expected to emerge. Unlike the Flipper Zero, which works with Bluetooth, RFID, and NFC, the Flipper One relies on regular software and modern cellular technologies.\nTimeline\n2020: The predecessor Flipper Zero was launched.\nNovember 21, 2026: Coverage of the Flipper One Kickstarter campaign was published.\nThe Tech Race\nThe Flipper One marks a departure from the Flipper Zero's focus on raw wireless protocols, moving toward general-purpose Linux computing and network-level tools. Its design reflects a broader trend of pocket hardware that bridges hobbyist experimentation and mainstream internet connectivity.\nThe device could give users a portable tool for working with Wi-Fi networks, routers, and cellular connections through regular Linux software. Backers and future buyers will be able to test network-connected devices without carrying a full laptop.\nThe takeaway\nPortable hardware that runs standard software can open network experimentation to a wider audience than specialized single-purpose tools. Readers interested in the device should watch for developer documentation as access expands.\nFurther reading\nExplore more Consumer Electronics coverage for context on pocket-sized gadgets and their connectivity features.\nSource note: This article includes information reported by TechRadar.\nLive Poll\nDo you trust that gadgets like this won't put your home network at risk?\n▲ Yes ▼ No\nWE Participate i\nUpload story photo ↗\nUpdate this story ↗\nSubmit a new story ↗\nToday's stories\nConsumer Electronics 1\nXiaomi Launches 18 Pro Duo in Europe\nConsumer Electronics 2\nSamsung Skips Galaxy Watch Model to 2027\nConsumer Electronics 3\nDoogee Teases Note 70 With Rear Display\nConsumer Electronics 4\nSamsung Galaxy S27 Phones Appear in Customs Records\nConsumer Electronics 5\nWindows 11 Preview Adds Full-Range Stereo During Mic Use\nConsumer Electronics 6\nAmazon Lists Motorola Moto Tag 3 Ahead of Launch\nTrending polls\nBanking\nDo you trust your bank's online services to work when you need them?\n▲ Yes ▼ No\nData Centers\nDo you trust your everyday tech services, like iCloud and the App Store, to work reliably?\n▲ Yes ▼ No\nWeather and Disaster\nDo you have a emergency supply kit with several days of food and water?\n▲ Yes ▼ No\nAir Travel\nDo you trust airlines to keep flying reliably during the holiday travel season?\n▲ Yes ▼ No",
+      "text_status": "ok"
+    },
+    {
+      "id": "27cdb51a8511",
+      "title": "Insurtech Eight by Zero (8/0) raises $3 mn in seed funding led by Diagram",
+      "publisher": "Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WLTBUSUZMV0NBNF93LWo0QmdXNndyNm1jRVhPWjZpUlJPdUxuOWtNd04zdHM0dEdLR09NWk9MOEJlNXF1Q0lJdXNuVVhpdlFIRV9zYW94WjQ3LS1rU1F5QmkzTGZaRnZ4Rks2TkZaR1pGNHRZ?oc=5",
+      "published_at": "2026-11-20T22:03:33.000Z",
+      "publisher_url": "https://beinsure.com",
+      "snippet": "Insurtech Eight by Zero (8/0) raises $3 mn in seed funding led by Diagram Beinsure",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Insurtech Eight by Zero",
+      "group_key": "insurtech eight by zero",
+      "group_rank": 0,
+      "resolved_url": "https://beinsure.com/news/insurtech-eight-by-zero-raises-3mn-seed/",
+      "text": "InsurTech News\nLife Insurance News\n🇨🇦 Canadian Insurance News\n🇺🇸 US Insurance News\nEight by Zero targets insurance data integration costs\nCanada Life invests in insurance interoperability platform\nMunich Re Life US joins as reinsurance partner\nPlatform connects employee data across insurance products\nEight by Zero Technologies (8/0), a Montreal-based insurance technology company developing interoperability infrastructure, has raised $3 mn in seed funding to expand its data connectivity platform across the insurance industry.\nThe financing round was led by Diagram, with participation from Canada Life as a strategic investor.\nEight by Zero is also working with Munich Re Life US, a subsidiary of Munich Re Group, to address employee data integration challenges affecting group insurance and disability carriers.\nInsurtech Eight by Zero has secured $3 mn in seed financing led by Diagram, with strategic participation from Canada Life.\nThe company’s interoperability platform connects insurers, third-party administrators, employers and HR systems, reducing the need for separately maintained data integrations.\nMunich Re Life US is working with Eight by Zero to address employee data connectivity challenges for group and disability insurers, while the funding will support product development and expansion.\nThe new capital will support product development, expansion into additional insurance lines, customer implementation capacity and commercial growth.\nEight by Zero targets insurance data integration costs\nEight by Zero has developed a multi-tenant platform that connects insurers, third-party administrators (TPAs), employers and human resources systems through APIs and file-based integrations.\nThe technology replaces separate point-to-point connections with a shared connectivity layer designed to reduce repetitive integration work.\nInsurance carriers frequently establish individual connections with employers to obtain employee information needed for underwriting, policy administration and claims-related processes. When several insurers provide different forms of coverage to the same employer, each may need to build and maintain its own integration.\nEight by Zero aims to eliminate that duplication by establishing a connection that can serve multiple insurance products and carriers.\nCarriers have rebuilt the same integration for every employer they onboard. We build it once, and the carrier can get it for every line it writes for that employer. Disability and absence are where we’re proving it. The same employee data drives every other line of coverage, and that’s where we’re headed.\nSam Kasle, Co-Founder and CEO of Eight by Zero\nThe platform is already used by multiple insurance carriers across North America. Artificial intelligence supports initial integration setup and ongoing maintenance, while the underlying data mapping remains deterministic.\nCanada Life invests in insurance interoperability platform\nCanada Life participated in the seed round as a strategic investor, supporting Eight by Zero’s development of infrastructure intended to simplify information exchange between employers and insurance providers.\nJulia McGillis, Executive Vice President, Workplace Benefits & Retirement at Canada Life, said the investment aligns with the insurer’s efforts to improve connectivity across benefits and insurance services.\n“We see Eight by Zero as an opportunity to create a more connected experience for our plan sponsors and advisors,” McGillis said. She added that the platform’s capabilities would support Canada Life’s existing technology investments by reducing integration complexity for employers and insurance carriers.\nDiagram, which led the financing, identified recurring integration costs as a significant operational burden for financial institutions.\nGaurav Kapoor, General Partner at Diagram, said insurers repeatedly devote technical resources to establishing employer connections that could otherwise be reused.\nInside any large financial institution, integration work quietly eats the roadmap, and insurers pay that cost again every time they onboard an employer.\nGaurav Kapoor, General Partner at Diagram\nHe said Eight by Zero had demonstrated its approach in disability and absence insurance, providing a basis for expansion into other coverage lines.\nMunich Re Life US joins as reinsurance partner\nEight by Zero is working with Munich Re Life US to explore applications of its platform for group insurance and disability clients.\nEmployee data connectivity is particularly relevant to these insurers because changes in employment status, working hours or leave arrangements can affect coverage administration and claims handling.\nJinnah Cox, Vice President and Actuary, Group & Living Benefits at Munich Re Life US, described employee information exchange as a continuing operational challenge for the sector. The reinsurer expects its collaboration with Eight by Zero to help clients assess a connectivity solution that can support multiple insurance lines.\nPlatform connects employee data across insurance products\nEight by Zero’s initial applications focus on disability insurance and absence management, where timely employee information is needed to administer benefits and support policyholders.\nChanges such as an employee taking medical leave, sustaining a workplace injury, reducing working hours or leaving an organization may need to be communicated to several insurance providers.\nDisability insurers, workers’ compensation carriers, life insurers and employee benefits administrators can each require updated information about the same individual.\nUnder conventional arrangements, these organizations often receive the data through separately developed and maintained integrations.\nEight by Zero’s shared connectivity infrastructure is intended to make current employee information available across the relevant insurance products without requiring carriers to maintain individual connections for each coverage line.\nThe ",
+      "text_status": "ok"
+    },
+    {
+      "id": "bbaa02d324f2",
+      "title": "Deutsche Telekom Pours Another Quarter-Billion Into Munich AI Site, Lands microagi as Tenant - ad-hoc-news.de",
+      "publisher": "ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaEhUYklFX2l2Wk1ZODFZUXQ2blc5ZUVxSFdrWXU5VjU0ZS10eFlGN01oRzY4WEpZdHktSXo2T1Z2a1RsZGFReVIxV0ZXa0UtZjhLcHpEQXh1bnc5ZGZ4VDB3VmlKV01jSDJ2cDJwRGFpdVhXLWd5SEpYYm40UnJOcnZLUjZnTFUyRVdHbjdPZEtfVC14MHZsVWVtYzhWWDlTS25icFk1Y3NiX0J6QTdPVGFfYndCdmdTa3FLQUdWU1V4MXRHYlJ0Mktma0hWRGFodHEtZ2gyUWZTS0tuUmVRNnJkVk9OblNLZlcwNlRPU055MllNN1E?oc=5",
+      "published_at": "2026-11-22T09:30:56.000Z",
+      "publisher_url": "https://www.ad-hoc-news.de",
+      "snippet": "Deutsche Telekom Pours Another Quarter-Billion Into Munich AI Site, Lands microagi as Tenant ad-hoc-news.de",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Deutsche Telekom Pours Another",
+      "group_key": "deutsche telekom pours another",
+      "group_rank": 0,
+      "resolved_url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/deutsche-telekom-pours-another-quarter-billion-into-munich-ai-site-lands-microagi-as-tenant/70544053",
+      "text": "Telekom , Pours\nDeutsche Telekom Pours Another Quarter-Billion Into Munich AI Site, Lands microagi as Tenant\nPublished on 11/22/2026 at 10:30 | Editorial boerse-global.de\nTelekom plans to raise Munich AI factory capacity to 20 MW with under EUR 250 million more investment; microagi to train robotics models there.\nTelekom, Pours, Another, Quarter-Billion, Into, Munich, Site, Lands, Tenant, EUR Illustration mit AI erstellt.\nDeutsche Telekom is turning its Munich AI factory into a magnet for industrial robotics work while deepening its ties to the continent's most closely watched AI startup. The Bonn-based carrier said on 18 November that microagi will train its robotics models for industrial clients at the Munich site, keeping production data and manufacturing know-how in Germany and under the customers' own control.\nThe arrangement comes alongside a capacity upgrade: Telekom plans to lift the Munich facility's output to 20 megawatts, backed by just under a further EUR 250 million of investment. Additional NVIDIA Blackwell Ultra systems will form part of the expansion. The company is also weighing whether to extend its footprint in Bavaria beyond the announced buildout, though any such move remains subject to a final investment decision.\nSovereign AI Push Tied to Mistral Stake\nAlongside the infrastructure work, Telekom is pursuing a strategic partnership with Mistral AI aimed at supplying German companies and public authorities with sovereign AI solutions. The first step in that tie-up is a EUR 100 million investment in Mistral AI by T.Capital Tech Fund, the group's venture arm, made as part of the startup's Series D financing round.\nShould investors sell immediately? Or is it worth buying Deutsche Telekom?\nSeparately, the group disclosed on 16 November that it had repurchased roughly 4.24 million of its own shares between 9 and 13 November. Since the current buyback programme began on 10 August, it had acquired around 53.6 million treasury shares by the end of that window.\nAnalysts Split on Valuation\nResearch houses are pulling in different directions on the stock. Barclays raised its price target to EUR 33 from EUR 32 on 11 November while reaffirming its \"Overweight\" rating. Kepler Cheuvreux moved the other way on 18 November, cutting its target to EUR 30 from EUR 32 and keeping a \"Hold\" stance. The shares added 0.5% on Friday to close at EUR 26.18.\nAd\nDeutsche Telekom Stock: New Analysis - 22 November\nFresh Deutsche Telekom information released. What's the impact for investors? Our latest independent report examines recent figures and market trends.\nRead our updated Deutsche Telekom analysis...\nDisclaimer...\nen | DE0005557508 | TELEKOM | boerse | 70544053 |",
+      "text_status": "ok"
+    },
+    {
+      "id": "ff54ea5e3ba1",
+      "title": "each::labs closes seven million seed round and accelerates its generative platform",
+      "publisher": "Foro3D",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZGJaeDN6dHhvcloyQTI4VUdaMV9yNi1BU1dzN2tPV3NxVkxpRzJXQUJRdTliZm5Ub2dacnJZUC1YT0x6UkFBakR3dTdpT2dqZE1McWJtamVYZm1fRFprUm41bTdtVXNrVjdvNDZXZEw2cEotTUl1encydVF2NkxBVTNvNExLVUVqcEQ4OW9oclFpd1lNNUhjWVktb240UVJKeWhIWk5yd2ZfTGZ4UFJILS1R?oc=5",
+      "published_at": "2026-11-21T22:28:45.000Z",
+      "publisher_url": "https://foro3d.com",
+      "snippet": "each::labs closes seven million seed round and accelerates its generative platform Foro3D",
+      "source_feed": "gnews-g4",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "each::labs",
+      "group_key": "each",
+      "group_rank": 0,
+      "resolved_url": "https://foro3d.com/en/2026/noviembre/eachlabs-cierra-ronda-semilla-de-7-millones-y-acelera-su-plataforma-ge.html",
+      "text": "The startup each::labs, founded in June 2024 by Turkish engineers and headquartered in San Francisco, has closed a $7 million seed round led by Revo Capital and the EBRD. Its AI image, video, and audio generation platform reached $2 million in monthly revenue in October, quintupling its billing since August, and runs nearly one million generations per day for more than 750 organizations.\nIllustrative image generated with AI\nProprietary models and each::studio for audiovisual workflows 🎬\nThe capital will be allocated to expanding the portfolio of proprietary models such as Flint Image and Lockstep, and to developing each::studio, a tool aimed at film and VFX teams that allows working with generative media without API integration. For professionals in the sector, this represents a more controlled and reusable AI generation pathway, with specialized models that reduce the cost of failed iterations and accelerate the creation of character and motion variants in audiovisual production.\nOne million generations a day and there are still those asking the render to hurry up ⏱️\nNearly one million daily generations for 750 organizations sounds like someone on the VFX team will no longer have an excuse to deliver the storyboard on Monday. That said, with each::studio promising to work without touching an API, more than one technician will discover that their new most in-demand skill will be explaining to the producer that the generate button doesn't make coffee.",
+      "text_status": "ok"
+    },
+    {
+      "id": "c3a48424afe1",
+      "title": "Telangana tech startups raise $726 mn in 9M 2026; funding rounds dip 30%: Tracxn",
+      "publisher": "ET Enterprise AI",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcnNCT1hwUEV4ZFZkbnJWR0FOd2VPZXlCSzRQdFFyekxOVjZsZHlKQTFockFjTXhGSzNUdE5SeWp0SGhuM05fdjZCX1JDT2hSU1FWNThrRUNucGpCdm54bWtPMG1OZ21IYWNsVXRNYUtMZUNleGhyT2M3R0JGemhNTGlOQXRiS0dpdjNnVDB5b1RHR0xlY3J5ZkppX2J6VmV5NVA5eEsyM1hMNC00Yy0tNFZFLXFVa2FVWVFQcWR5ZDJmMkNJU2Z0amRhUkxuMFJzajJUUUlHd2ZpSy1ONjlTN3RqSHrSAeoBQVVfeXFMTjQ0VzVCd2hSU1kxS09CNzk4TkJsa3FYSVdPdkd4am5HbkpZUlU1eHZVM1hzcE5UUzVyS3ZXQjZGYk9IOEVVMWx4MVJCdVNiTnF0Zk9iOVprMnBTN2RBYWQwSWkxNmpzc1dvNVhPSGNMd21odTNGM2tzWXg1RFZ4cFBWYWJ6cC15QmhMNGEwUTNScWdvM0t4QjVNNFhRWl9NVXQxZmtGTEFkR1ZERDdpUGEyVGxfMzU1VFY3czhUTzdhT0oxRGdldEJubnVVMWNjUl93Q2JoZkNVenRJM0xfcDdnOW90OXY2eExB?oc=5",
+      "published_at": "2026-11-20T15:46:45.000Z",
+      "publisher_url": "https://enterpriseai.economictimes.indiatimes.com",
+      "snippet": "Telangana tech startups raise $726 mn in 9M 2026; funding rounds dip 30%: Tracxn ET Enterprise AI",
+      "source_feed": "gnews-g5",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Telangana tech startups",
+      "group_key": "telangana tech startups",
+      "group_rank": 0,
+      "resolved_url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/telangana-tech-startups-raise-726-mn-in-9m-2026-funding-rounds-dip-30-tracxn/136032289",
+      "text": "Industry\n3 min read\nTelangana tech startups raise $726 mn in 9M 2026; funding rounds dip 30%: Tracxn\nAccording to Tracxn’s analysis, most of the fresh capital flowed into a handful of large early-stage funding rounds, led by data centre company CtrlS, as well as enterprise infrastructure businesses based in Hyderabad.\nETEnterpriseAI Desk\nETEnterpriseAI\nPublished On Nov 20, 2026 at 09:16 PM IST\nSet ETEnterpriseAI as your preferred source on Google\nCopy Link\nShare on WhatsApp\nShare on Linkedin\nShare on X\nShare on Telegram\nShare on Facebook\nThe deal alone accounted for 58 per cent of total funding and 80 per cent of the $527 million increase over 9M 2025. Telangana-based tech companies raised $726 million in funding during the first nine months of 2026 (9M 2026), marking a 266 per cent increase from $199 million in the year-ago period and a 12 per cent rise from $647 million in 9M 2024, according to a Tracxn report.\nHowever, the number of funding rounds declined 30 per cent to 73 from 105 a year earlier, according to the Telangana Tech &ndash; 9M 2026 Report by Tracxn, which tracks funding, investors, exits, unicorns and city-level activity between January 1 and September 30, 2026.\nAdvt\nAccording to the report, most of the fresh capital flowed into a handful of large early-stage funding rounds, led by data centre company CtrlS , as well as enterprise infrastructure businesses based in Hyderabad.\nHowever, deal activity declined, with both seed- and early-stage funding rounds falling from the year-ago period. Exit activity remained limited, while the period saw the emergence of one new unicorn, space launch company Skyroot Aerospace .\nTop 10 deals drive funding\nThe ten largest funding rounds raised $664 million, accounting for 91 per cent of Telangana's total funding of $726 million in 9M 2026. Hyderabad-based data centre company CtrlS led the list with a $423 million Series B round in June, backed by CPP Investments.\nThe deal alone accounted for 58 per cent of total funding and 80 per cent of the $527 million increase over 9M 2025.\nCtrlS also raised $28.2 million in a Series A round in February, taking its total funding during the period to $451 million.\nSkyroot Aerospace raised $60 million in a Series C round in May, while Edubuk secured $50 million in a Series B round in March. Despite the increase in capital raised, Series A and later-stage rounds declined 18 per cent to 23 from 28. The number of first-time funded companies also fell 31 per cent to 20 from 29.\nEarly-stage funding surged 334 per cent to $622 million from $143 million in 9M 2025, accounting for 86 per cent of the total, said the report.\nAdvt\nThe CtrlS Series B round alone contributed 68 per cent of early-stage funding. However, the number of early-stage rounds declined 27 per cent to 19.\nAccording to Trcxn, late-stage funding rose 426 per cent to $78.1 million from $14.8 million, across four rounds compared with two in the year-ago period. However, it remained 84 per cent below the $482 million recorded in 9M 2024. Seed-stage funding declined 35 per cent to $26.4 million, accounting for 4 per cent of the total, while seed-stage rounds fell 35 per cent to 50.\nInvestor participation also weakened, with the number of active investors declining 22 per cent to 61 from 78. International investors fell 43 per cent to 13 from 23, while first-time investors declined 36 per cent to 30 from 47. AUM Ventures and V3 Ventures made two seed-stage investments each, while Prosus led early-stage investors with two investments in Equal and Deccan AI.\nTelangana adds one unicorn\nAdvt\nAcquisitions in Telangana's tech sector declined to six in 9M 2026 from nine in 9M 2025, compared with five in 9M 2024.\nIncNut Digital was acquired by Emami for $33.9 million in May 2026, making it the only deal with a disclosed transaction value. The remaining five acquisitions had undisclosed values.\nAmong the other deals, Perspect was acquired by Unstop, while Alteons Energy was acquired by Sanmar Group, both in September 2026. No acquirer completed more than one deal during the period.\nTelangana recorded one public listing in 9M 2026, compared with none in 9M 2025 and one in 9M 2024. Hyderabad-based DSPL went public in January 2026 at a market capitalization of $32.9 million.\nAdvt\nThe state also added one unicorn during the period, compared with none in 9M 2025. Hyderabad-based Skyroot Aerospace, which develops launch vehicles for small satellites, achieved unicorn status in May 2026, attaining a valuation of at least $1 billion.\nMeanwhile, the number of soonicorns companies identified by Tracxn as potential future unicorns declined 67 per cent to four from 12 in 9M 2025.\nBy\nETEnterpriseAI Desk\n,\nETEnterpriseAI\nPublished On Nov 20, 2026 at 09:16 PM IST\nSee more on:\nTelangana tech startups ,\n$726 million funding ,\nSkyroot Aerospace ,\nunicorn status ,\nCtrlS\nTelegram\nFacebook\nCopy Link\nComments\nWhat are your thoughts?\nComment Now\nRead Comment (1)\nAll Comments\nBy commenting, you agree to the Prohibited Content Policy\nPost\nBy commenting, you agree to the Prohibited Content Policy\nPost\nFind this Comment Offensive?\nChoose your reason below and click on the submit button. This will alert our moderators to take actions\nREASONS FOR REPORTING\nFoul Language\nDefamatory\nInciting hatred against a certain community\nOut of Context / Spam\nOthers\nReport\nJoin the community of 2M+ industry professionals.\nSubscribe to Newsletter to get latest insights & analysis in your inbox.\nGet updates on your preferred social platform\nFollow us for the latest news, insider access to events and more.\nHome\nNews\nIndustry\nTelangana tech startups raise $726 mn in 9M 2026; funding rounds dip 30%: Tracxn",
+      "text_status": "ok"
+    }
+  ]
+}
