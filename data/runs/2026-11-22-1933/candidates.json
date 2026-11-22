@@ -1,0 +1,397 @@
+{
+  "run_date": "2026-11-22-1933",
+  "generated_at": "2026-11-22T19:34:36.361Z",
+  "window_days": 2,
+  "range": null,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "gnews-2",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-3",
+        "status": 200,
+        "items": 47
+      },
+      {
+        "id": "gnews-4",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-5",
+        "status": 200,
+        "items": 12
+      },
+      {
+        "id": "gnews-6",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-7",
+        "status": 200,
+        "items": 31
+      },
+      {
+        "id": "gnews-8",
+        "status": 200,
+        "items": 0
+      },
+      {
+        "id": "gnews-g1",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "gnews-g2",
+        "status": 200,
+        "items": 8
+      },
+      {
+        "id": "gnews-g3",
+        "status": 200,
+        "items": 9
+      },
+      {
+        "id": "gnews-g4",
+        "status": 200,
+        "items": 12
+      },
+      {
+        "id": "gnews-g5",
+        "status": 200,
+        "items": 24
+      },
+      {
+        "id": "gnews-g6",
+        "status": 200,
+        "items": 36
+      },
+      {
+        "id": "gnews-g7",
+        "status": 200,
+        "items": 19
+      },
+      {
+        "id": "gnews-g8",
+        "status": 200,
+        "items": 17
+      },
+      {
+        "id": "gnews-g9",
+        "status": 200,
+        "items": 28
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "pulse2",
+        "status": 200,
+        "items": 100
+      },
+      {
+        "id": "citybiz",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 547,
+    "prefiltered": 41,
+    "dropped": {
+      "not_funding": 326,
+      "no_ai_hint": 35,
+      "below_min": 26,
+      "fund_close": 5,
+      "seen": 64,
+      "duplicate_link": 48,
+      "known_round": 33,
+      "noise": 2
+    },
+    "groups": 33,
+    "selected_groups": 8,
+    "candidates": 8,
+    "articles_fetched": 6,
+    "google_rate_limited": false
+  },
+  "groups": [
+    {
+      "key": "potential cognition",
+      "company_guess": "Potential Cognition AI",
+      "amount_hint_usd": 2000000000,
+      "candidate_ids": [
+        "b73125540be4"
+      ]
+    },
+    {
+      "key": "indian billionaire",
+      "company_guess": "Indian Billionaire",
+      "amount_hint_usd": 720000000,
+      "candidate_ids": [
+        "1283b5fdf6b5"
+      ]
+    },
+    {
+      "key": "this is not a",
+      "company_guess": "“This Is Not a",
+      "amount_hint_usd": 705000000,
+      "candidate_ids": [
+        "1ed6dc2357c3"
+      ]
+    },
+    {
+      "key": "australian miner paladin energy",
+      "company_guess": "Australian miner Paladin Energy",
+      "amount_hint_usd": 513000000,
+      "candidate_ids": [
+        "3f9a20cc6bd3"
+      ]
+    },
+    {
+      "key": "avenzo therapeutics",
+      "company_guess": "Avenzo Therapeutics",
+      "amount_hint_usd": 215000000,
+      "candidate_ids": [
+        "9d1d64f124d1"
+      ]
+    },
+    {
+      "key": "sellas life sciences placement",
+      "company_guess": "Sellas Life Sciences: Placement",
+      "amount_hint_usd": 172500000,
+      "candidate_ids": [
+        "41b4397dadf8"
+      ]
+    },
+    {
+      "key": "long bootstrapped",
+      "company_guess": "Long bootstrapped",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "a344d5e652eb"
+      ]
+    },
+    {
+      "key": "13 year old hyderabad student",
+      "company_guess": "13-Year-Old Hyderabad Student",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "b3971204392c"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "b73125540be4",
+      "title": "Potential Cognition AI Round Would Raise $2B-Plus at $75B Valuation",
+      "publisher": "Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNzd6LXFGYl9OUTlMYnladkRCa0lFeWZQU09nM3Y1ZXAtbUl5X2NCbnA2eDhhejE5a084RGs5czhJOFVUQ1l1M3FYSjZfQjVWTkVwbGpBTWE2ZzllZ09uRzM4WjhQSTBlNXJiMGpPRGZpenFvN0U2UW01Zjk1bkNNQ2V4aHlzQ1J1TUw5eEhkQWQ?oc=5",
+      "published_at": "2026-11-20T22:50:03.000Z",
+      "publisher_url": "https://www.unite.ai",
+      "snippet": "Potential Cognition AI Round Would Raise $2B-Plus at $75B Valuation Unite.AI",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 2000000000,
+        "currency": "USD",
+        "raw": "$2B"
+      },
+      "company_guess": "Potential Cognition AI",
+      "group_key": "potential cognition",
+      "group_rank": 0,
+      "resolved_url": "https://www.unite.ai/potential-cognition-ai-round-would-raise-2b-plus-at-75b-valuation/",
+      "text": "Funding\nPotential Cognition AI Round Would Raise $2B-Plus at $75B Valuation\nPublished\nNovember 20, 2026\nBy\nEvan Mercer, AI Startups & Venture Capital AI Research Agent\nAdd Unite.AI to your preferred sources on Google\nKey Points Cognition is discussing a $75 billion round that would far exceed its $48 billion…\nView more\nCognition is discussing a $75 billion round that would far exceed its $48 billion September valuation.\nDevin's run-rate revenue climbed from $492 million in May to almost $900 million by September.\nCognition positions itself as an independent agent lab free to combine models rather than rely on one provider.\nBloomberg News reported on November 20, 2026, citing people familiar with the matter, that Cognition AI was discussing a new funding round at a $75 billion valuation and considering raising $2 billion or more, in an account carried by Reuters . The talks were ongoing and the details could change.\nThe report described a potential financing rather than a completed investment. Cognition did not immediately respond to Reuters’ request for comment.\nValuation Gap to Completed 2026 Rounds\nCognition announced its Series E on September 8, 2026 , raising more than $2 billion at a $48 billion valuation. New investors Andreessen Horowitz and Accel led the round, joined by existing backers Founders Fund, General Catalyst and Avenir. The proposed figure is $27 billion higher than that completed valuation, calculated as the difference between the two stated valuations.\nThe earlier May 27, 2026 financing raised more than $1 billion at a $26 billion valuation and was led by Lux Capital, General Catalyst and 8VC. The completed May and September rounds provide reference points for the new report, while the latest terms remain under negotiation.\nDevin Adoption and Reported Revenue Growth\nReuters describes Cognition’s autonomous software-engineering agents as able to handle code planning, writing, testing and deployment with limited human intervention. Devin is Cognition’s product for this work.\nCognition’s own disclosures report run-rate revenue growth from $492 million in May to almost $900 million by September, alongside enterprise usage growth of more than tenfold between the start of 2026 and the May announcement. The revenue increase is roughly $400 million, calculated from the two reported run-rate figures.\nCognition says Devin is used by engineering teams at NVIDIA, GE Aerospace, Citi, Mercedes-Benz and Modal, spanning chip design, aviation, financial services, automotive and AI infrastructure. Devin Auto-Triage can handle an initial incident investigation, Devin Security Swarm identifies and prioritizes vulnerabilities, and Devin Automations can begin tasks in response to activity in Slack, GitHub, Linear and other systems without requiring a separate chat for each task.\nThe September announcement also said Cognition had opened offices in Washington, D.C., Tokyo, Singapore, London, São Paulo and Madrid during the preceding year, alongside its existing San Francisco, New York and Austin hubs. The office expansion accompanied the company’s reported revenue growth and broader customer adoption.\nCognition also describes itself as an independent agent lab that can select and combine models for particular tasks, including its own, so customers are not confined to a single provider. That approach makes model choice part of Devin’s product design as the company expands into incident response, security and event-triggered automation.\nUntil a transaction is announced, the open question is whether the growth and broader Devin deployment documented in September can support the proposed terms, or whether the negotiations produce a different valuation or funding amount.\nEvan Mercer · AI Startups & Venture Capital AI Research Agent\nFollow\nEvan Mercer is an AI-generated research agent at Unite.AI , covering AI startups, venture capital, and the funding dynamics shaping the next generation of technology companies. His reporting focuses on early-stage innovation, capital flows, and the strategic decisions founders and investors make as AI companies scale from concept to global impact.\nWith a strategic and analytical lens, Evan examines funding rounds, market positioning, and emerging trends across the AI startup ecosystem. He tracks how venture capital, corporate investment, and public markets intersect with breakthroughs in artificial intelligence, separating durable signals from short-term hype.\nArticles authored by Evan Mercer are AI-generated and reviewed by Unite.AI’s editorial team to ensure accuracy, context, and responsible coverage of the global AI investment landscape\nDiscover More\nAWS Routes HyperPod Inference Across Regions From One Endpoint\nAnthropic Closes Enlarged $93.5B IPO and $26B Private Placement\nMIT Framework Keeps AI Models of Chaos Within Physical Bounds\nSEC Enforcement Staff Examine NVIDIA Accounting, Reuters Reports\nThinking Machines Lab Releases Inkling 2 Mini for Local Devices\nOpenAI Strengthens GPT-6.2 Astra Against Reasoning Extraction",
+      "text_status": "ok"
+    },
+    {
+      "id": "1283b5fdf6b5",
+      "title": "Indian Billionaire Raises $720 Million Private Credit for Megha Buyout",
+      "publisher": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSC1wdDZxWUNteTlBd01SaW9SNVFvUXVERzMtMy1vU0p5aHFhYmJjYzVEc0ZZbkw4b1NxUkNqQWFBUmZqemhoclhlOHZGczZ4ZmJfRENBRlRma29rck53VjNFWFVnbHlseXlPMk9iU2FoWVZ1eGRpLS1XV3BEcFdFdVp3WDRQcmVya0w5UlhCbThGS0lvWFNENFNnMy1Mdlk0Ujk3Q0dJSUN6YVp1LURyOWxDOA?oc=5",
+      "published_at": "2026-11-21T05:37:00.000Z",
+      "publisher_url": "https://www.bloomberg.com",
+      "snippet": "Indian Billionaire Raises $720 Million Private Credit for Megha Buyout Bloomberg.com",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 720000000,
+        "currency": "USD",
+        "raw": "$720 Million"
+      },
+      "company_guess": "Indian Billionaire",
+      "group_key": "indian billionaire",
+      "group_rank": 0,
+      "resolved_url": "https://www.bloomberg.com/news/articles/2026-11-20/billionaire-raises-720-million-private-credit-for-megha-buyout",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "1ed6dc2357c3",
+      "title": "“This Is Not a Question of Business”: Mark Walter’s Reported Sparks Sale Raises Questions Over $705 Million Price Tag",
+      "publisher": "EssentiallySports",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUm1nb1pJZWlBTzkxNHUtcUpaSGd4akFKZENzQ0hJaDJ3aDlOaHpVa09BaXFsU3ZmV09hbWNFODNFQUZFNkxvQ0RzVHNWbWd6VzNOVFpOSHVlZVpUQ05wSjNfbi15UTZTLUNpaFZpckI4MU5rYzZ5S2w4ZGEzMWQwVzRsU1BseHNNaVR6VTdXT29rblFEQWtZNzJIYV90bWRQZE05b0JfaktuSDNQbG1NVGNsbDRlZU5FQVZwQmxsNXhHOV9YRTVYakxNV1ZTMmZDUE12cVZPdVNUNFVNV21nZUlmSUZBNXNLMlVtOVc0MFZKYVBPNzdDVFE2emRBME5uOUlVNjdfak5ibXgtOFRVd3VCcnJvOGx0?oc=5",
+      "published_at": "2026-11-21T01:50:00.000Z",
+      "publisher_url": "https://www.essentiallysports.com",
+      "snippet": "“This Is Not a Question of Business”: Mark Walter’s Reported Sparks Sale Raises Questions Over $705 Million Price Tag EssentiallySports",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 705000000,
+        "currency": "USD",
+        "raw": "$705 Million"
+      },
+      "company_guess": "“This Is Not a",
+      "group_key": "this is not a",
+      "group_rank": 0,
+      "resolved_url": "https://www.essentiallysports.com/nba-active-basketball-news-this-is-not-a-question-of-business-mark-walters-reported-sparks-sale-raises-questions-over-seven-hundred-five-million-price-tag/",
+      "text": "The world’s most expensive garage sale continues. Mark Walter is reportedly close to offloading another major franchise as he continues to dismantle pieces of his global sports portfolio at record-shattering prices. The billionaire sports executive has managed to flip the Los Angeles Lakers, Chelsea FC, and RC Strasbourg. Now it’s the turn of the Los Angeles Sparks, a WNBA team. According to Sportico , Walter, who bought the Los Angeles Sparks for $10 million in 2014 alongside an ownership group that included Lakers legend Magic Johnson, is nearing a record-shattering deal to sell the WNBA franchise to San Diego Padres owners José E. Feliciano and his wife, Kwanza Jones. Just like with the Lakers, he stands to earn a neat profit from the Sparks too, which had Pablo Torre’s Spidey Senses tingling.\nWatch What’s Trending Now!\nNote: While early reports and initial reactions, including those from Pablo Torre, cited a $750 million figure, Sportico subsequently clarified that the actual sale price is $705 million, still more than double the previous WNBA record of $300 million, set when Houston Rockets owner Tilman Fertitta purchased the Connecticut Sun in March.\nADVERTISEMENT\nEven at the corrected $705 million mark, the valuation represents roughly 23 times the Sparks’ estimated 2026 revenue, marking the highest revenue multiple for a major U.S. sports franchise sale since 2022 and surpassing Walter’s pending $12.5 billion Los Angeles Lakers sale at 20x revenue.\nOn Pardon the Interruption , Frank Isola and Pablo Torre dissected both the staggering price tag and the broader legal pressures surrounding Walter, who is facing federal investigations over alleged self-dealing and faulty disclosures tied to his insurance companies.\nADVERTISEMENT\nIsola kicked off the segment by framing the astronomical valuation against the WNBA’s rapid financial climb before asking Torre where the real story lies.\n“Sportico reports that Dodgers and outgoing Lakers owner Mark Walter is close to selling the WNBA Sparks to the owners of baseball’s Padres. For, get this—750 million. That’s 300 million higher than the New York Liberty were valued for a minority investment last year. All right, Pablo, are you more focused on Walter’s potential sale or the reported price tag?” Isola asked.\nADVERTISEMENT\nTorre immediately argued that the eye-popping number and Walter’s urgent sell-off cannot be separated.\n“I think it’s the same story, and I’ve been investigating this on my show, Pablo Torre Finds Out. One of the things, Frank, to know about the business… so annual revenue for the Sparks is about 25 to $28 million. Doing the math, we’re looking at more than 25x revenue. When you say, ‘Okay, they’re going to go for 750 million,’ that is beyond AI company-level absurdity, right? We’re now untethered from reality. This is not a question of business. This is a question of Mark Walter needing to sell his sports teams, as he is under federal investigation for these faulty disclosures around his insurance companies and alleged self-dealing stuff that’s come up in class-action lawsuits.”\nADVERTISEMENT\nTorre suggested it’s no coincidence the economics defy conventional valuation logic.\n“We know he needs as much money as possible. We now see 750 million might be coming his way. The question is: why is someone giving him 750 million? And the answer, Frank, is the WNBA is a fantastic business—rising tide lifts all boats. But you just pointed out this is—look, I don’t know what’s under the hood of the Sparks. I just know this is so much more, multiples more, than any reasonable person would have expected,” Torre said.\nADVERTISEMENT\nThe reported Sparks deal fits into a rapid sequence of divestments by Walter, who agreed to sell his majority stake in the Lakers to Joshua Kushner and Bob Iger for $12.5 billion a year after buying it for $10 billion.\nHe offloaded his 13% stake in Premier League club Chelsea to Clearlake Capital, co-founded by Padres’ Feliciano, and is reportedly shopping his stake in the Cadillac Formula 1 team at a $3 billion valuation. He, however, maintains he will not sell the crown jewel of his sports empire, the 27% controlling stake in the Los Angeles Dodgers.\nADVERTISEMENT\nMeanwhile, Feliciano and Jones, who also closed a $3.9 billion MLB-record purchase of the Padres in August and hold minority stakes in the Minnesota Timberwolves and several women’s sports funds, are betting heavily on Los Angeles’ market power and stars like Cameron Brink despite the Sparks missing the playoffs for six straight seasons. Interestingly, the youngest ousted Buss siblings, Joey and Jesse Buss, have also joined the Padres ownership amid their legal battles with Jeanie Buss.\nDuring the Pardon the Interruption exchange, Isola pivoted from Walter’s sell-off to question whether outgoing WNBA commissioner Cathy Engelbert deserves more credit for the league’s booming valuations that could benefit Walter in this sale.\n“Yeah, he sold his stake in Chelsea in the Premier League. You know, he sold the Lakers. He’s going to sell the Sparks. Now, he says he’s not going to sell the Dodgers. I think he might have a couple more teams. This is what billionaires do. They’re all out there, and they all want to buy teams. I want to, before I get back to him, I want to ask you about this from the WNBA standpoint, cuz Cathy Engelbert, the commissioner—she’s out, the outgoing commissioner—she gets a lot of criticism. All right, they don’t have load management. They don’t have tanking. They don’t have a gambling issue in their league. The valuations of the franchises are up. The players make more money than they ever made before. They travel by charter plane. They get good hotel accommodations. Did she really do that bad of a job? I know that everybody wants her out. Did she do that bad of a job? Yes or no?” Isola asked.\nADVERTISEMENT\nTorre pushed back on giving Engelbert credit for the surge, tying the debate right back to the unanswered questions behind the ",
+      "text_status": "ok"
+    },
+    {
+      "id": "3f9a20cc6bd3",
+      "title": "Australian miner Paladin Energy raises $513 million to finance Sask. uranium project",
+      "publisher": "Saskatoon StarPhoenix",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT2dZQnJubTh0c3lvdHIxbFk4TWUtak8wbTFYMjZVNURlOS03VDJiUzdlSGRMajFqQ05Rc21nNWM1dnVsbWlVLVBGQzlxNkFaMlJ0cGdnWk9Ea3J0ZjN4ZWJDbzlXMXJpN3REbVlVTVp1Zzh1bUJQWWJ4Q3NCLVhwSzN0QnN4NFJNdkxSR0VVZHhTMkhobjB6dk9LMWpEM3JSaVZaaXZRRWstRktW?oc=5",
+      "published_at": "2026-11-20T22:06:13.000Z",
+      "publisher_url": "https://thestarphoenix.com",
+      "snippet": "Australian miner Paladin Energy raises $513 million to finance Sask. uranium project Saskatoon StarPhoenix",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 513000000,
+        "currency": "USD",
+        "raw": "$513 million"
+      },
+      "company_guess": "Australian miner Paladin Energy",
+      "group_key": "australian miner paladin energy",
+      "group_rank": 0,
+      "resolved_url": "https://thestarphoenix.com/business/australian-miner-paladin-energy-raises-513-million-sask-uranium-project/",
+      "text": "Business\nAustralian miner Paladin Energy raises $513 million to finance Sask. uranium project\nWith the new war chest, the miner says it can secure some costly infrastructure so that it’s ready by the time it has approvals to build",
+      "text_status": "thin"
+    },
+    {
+      "id": "9d1d64f124d1",
+      "title": "Avenzo Therapeutics Announces Closing of Merger with Rallybio Corporation and Previously Announced $215 Million Concurrent Private Placement",
+      "publisher": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOczBsVWhJSVpKS0F3UDlvSHEwNXF5VXYwVl9HblhpS1E0b3lWZTcyaklJQk9wR09zNWUtYlczbXFURi0wMDJGaWVpWUpaNzBXcXN1VEsxbGgzU3h2czlXb2Z6d09OU21qY3ZVREFWZzQwT25lODJMNWgtNk1NRzZVNlBzUVFXOFVPYzJCSUFFMk5DTGRYcEJ2QlRWZ0Y5WVMwVUE2X0dBQTBMMU9QaVhmMkRXSy1ienF1aW5DMVRldkpqbUlJSG9CSFFfbVV2WUpJY0pOYkNmMzVGWnVLY3M0Mkc3TFNMb2FZbkVYQWlFWWJFMEVVcGlUQ0VZNElnN252VjJKRjg3djlCZWJtZlZjNUdNUmFvdThSTkFFNjJnTlVHclZXd1E?oc=5",
+      "published_at": "2026-11-20T21:30:00.000Z",
+      "publisher_url": "https://www.businesswire.com",
+      "snippet": "Avenzo Therapeutics Announces Closing of Merger with Rallybio Corporation and Previously Announced $215 Million Concurrent Private Placement Business Wire",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 215000000,
+        "currency": "USD",
+        "raw": "$215 Million"
+      },
+      "company_guess": "Avenzo Therapeutics",
+      "group_key": "avenzo therapeutics",
+      "group_rank": 0,
+      "resolved_url": "https://www.businesswire.com/news/home/20261120707360/en/Avenzo-Therapeutics-Announces-Closing-of-Merger-with-Rallybio-Corporation-and-Previously-Announced-%24215-Million-Concurrent-Private-Placement",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "41b4397dadf8",
+      "title": "Sellas Life Sciences: Placement Closes at $172.5 Million as REGAL Data Sit Alongside a Bigger Share - ad-hoc-news.de",
+      "publisher": "ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNLUpMZjNSLVZfc2JpM25DREdsaUpMaGhGbzRzZDZiQ19BSkMwNUdDWFBLbWowRDF4clBpek1sNFFBdy1ibDBTNXQ3V2poVHltOTQ0cUdhUXR2SWNJREZTcjJHbTVZVWc5aWxWeTI4aTJfcmhpLXlQLWgwY1JMR3I1RC1jdzVWZnlGUXJ0TXVObzdhQ2tEbDRyVW90c1hfSmpNR1YyWU5FQUJQVHhtb19uZ0VOUW1xdmNOcnZuYjlOTHlkSVNIRFU4N1VXRnhIam1XckVMTHZvNEdybGg3Qk81UmUxTXlVSGNvQ3hFZTcxSDM3WXFwN3p1a1ZxSk5JZw?oc=5",
+      "published_at": "2026-11-22T16:11:41.000Z",
+      "publisher_url": "https://www.ad-hoc-news.de",
+      "snippet": "Sellas Life Sciences: Placement Closes at $172.5 Million as REGAL Data Sit Alongside a Bigger Share ad-hoc-news.de",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 172500000,
+        "currency": "USD",
+        "raw": "$172.5 Million"
+      },
+      "company_guess": "Sellas Life Sciences: Placement",
+      "group_key": "sellas life sciences placement",
+      "group_rank": 0,
+      "resolved_url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/sellas-life-sciences-placement-closes-at-172-5-million-as-regal-data-sit-alongside-a-bigger-share/70544633",
+      "text": "Sellas , Life\nSellas Life Sciences: Placement Closes at $172.5 Million as REGAL Data Sit Alongside a Bigger Share Count\nPublished on 11/22/2026 at 17:11 | Editorial boerse-global.de\nSellas closed its $172.5M placement at $13.00 per share, with shares down 8.1%, as investors weigh dilution against REGAL Phase III survival data.\nSellas Life Sciences Illustration mit AI erstellt.\nSellas Life Sciences wrapped up its public share placement on Friday, and the market's response was swift: the stock closed 8.1% lower as investors weighed the cost of fresh equity against the clinical progress the company has been touting. The offering, priced at $13.00 per share on November 18, ultimately comprised 13,269,231 shares — a figure that includes the full exercise of the underwriters' overallotment option — for gross proceeds of $172.5 million.\nThat \"gross\" qualifier matters. Placement discounts, commissions and other offering expenses still come out of the headline number, so the actual cash inflow will land below the stated total. Sellas had originally targeted $150.0 million in gross proceeds; the bankers' 30-day option to buy additional shares, exercised in full, is what pushed the transaction to its final size.\nTwo Questions, Not One\nThe placement and the clinical program answer entirely different questions, and conflating them serves neither. A capital raise speaks to the balance sheet; a Phase III readout speaks to the science. Treating a financing decision as a seal of approval for the entire investment case is a shortcut that skips the hard part.\nOn the balance-sheet side, the picture is straightforward. The raise bolsters Sellas's capital base, but it does so by issuing new stock — meaning existing holders absorb dilution of their stakes. That tension, rather than any single headline, is the more useful frame for assessing where the company stands.\nShould investors sell immediately? Or is it worth buying Sellas Life Sciences?\nWhat the Trial Showed\nThe medical story centers on REGAL, the Phase III study of galinpepimut-S in acute myeloid leukemia. Sellas reported last week that the trial met its primary endpoint of overall survival. Median overall survival came in at 24.0 months, against 14.7 months for patients on the best available therapy — a 41% reduction in the risk of death, according to the company. The hazard ratio was 0.59, with a p-value of 0.035.\nThose numbers are the clinical core of the story. The financing step neither replaces them nor diminishes them. What investors need to hold separately is the strength of the evidence and the status of the regulatory path.\nThe Filing Is Still Ahead\nSellas said it plans to discuss an accelerated submission strategy with the FDA and is preparing a biologics license application for the first half of 2027. Those remain intentions, not achievements — the endpoint has been met, but the conversations and the application preparations are still to come.\nSellas Life Sciences at a turning point? This analysis reveals what investors need to know now.\nThe third-quarter figures, released November 12, add another layer. Sellas posted a net loss of $10.1 million for Q3 2026, wider than the $6.8 million shortfall in the same period a year earlier. Cash and cash equivalents stood at $134.7 million at quarter-end.\nWhat Investors Are Left to Weigh\nSellas cannot be reduced to either the share-price slide or the cash infusion. The raise is done; the regulatory path the company has sketched out lies ahead. A durable assessment has to accommodate both at once — the reported medical advance and the price existing shareholders pay for additional equity. The offering closed Friday. The filing has yet to be made.\nAd\nSellas Life Sciences Stock: New Analysis - 22 November\nFresh Sellas Life Sciences information released. What's the impact for investors? Our latest independent report examines recent figures and market trends.\nRead our updated Sellas Life Sciences analysis...\nDisclaimer...\nen | US81642T2096 | SELLAS | boerse | 70544633 |",
+      "text_status": "ok"
+    },
+    {
+      "id": "a344d5e652eb",
+      "title": "Long bootstrapped, Redbrick Offices raises Rs 630 crore led by Abakkus and India SME Investments",
+      "publisher": "Indian Startup News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNW9pckVZcEIwSVVjM2lpZUNYRGJaY0xNMnBYNk1CU1V4ZnBBZEVJaTV4b0FpcENGZm9KQ2xTRmRqeGpHZDZLdHEwbkhfeHJvR3lwZmM5S2FWQ0I0OXh3b2VDRE5WNHRNMnBpb0NXMk5LT1JwekJUSEd0LWttQVhZNmxLa2ZEY1ZJQ1FKVXN3cWV2YWtmd2loYnU1OC0tTy1CdDNsTFZmWEJ4MllMclJsUlFXX2UzWmJGMEFqclY2Qzg2LS1oYlBLUnBpSHRuVzlWZVVGWUpXMTRlUdIB2gFBVV95cUxNNW9pckVZcEIwSVVjM2lpZUNYRGJaY0xNMnBYNk1CU1V4ZnBBZEVJaTV4b0FpcENGZm9KQ2xTRmRqeGpHZDZLdHEwbkhfeHJvR3lwZmM5S2FWQ0I0OXh3b2VDRE5WNHRNMnBpb0NXMk5LT1JwekJUSEd0LWttQVhZNmxLa2ZEY1ZJQ1FKVXN3cWV2YWtmd2loYnU1OC0tTy1CdDNsTFZmWEJ4MllMclJsUlFXX2UzWmJGMEFqclY2Qzg2LS1oYlBLUnBpSHRuVzlWZVVGWUpXMTRlUQ?oc=5",
+      "published_at": "2026-11-21T14:05:27.000Z",
+      "publisher_url": "https://indianstartupnews.com",
+      "snippet": "Long bootstrapped, Redbrick Offices raises Rs 630 crore led by Abakkus and India SME Investments Indian Startup News",
+      "source_feed": "gnews-3",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Long bootstrapped",
+      "group_key": "long bootstrapped",
+      "group_rank": 0,
+      "resolved_url": "https://indianstartupnews.com/funding/long-bootstrapped-redbrick-offices-raises-rs-630-crore-led-by-abakkus-and-india-sme-investments-12829708",
+      "text": "Funding Fusion\nNews\nLong bootstrapped, Redbrick Offices raises Rs 630 crore led by Abakkus and India SME Investments\nSumit Vishwakarma\n21 Nov 2026\n19:35\nIST\nFollow Us\nNew Update\nMumbai-based managed workspace provider Redbrick Offices has secured about Rs 630 crore ($72 million), including conditional commitments, in equity across its Series A and Series A1 rounds, led by India SME Investments and Abakkus Asset Manager.\nAdvertisment\nThe funding is mostly a primary infusion, with a smaller secondary component through which some existing shareholders sold shares.\nIndia SME Investments led the Series A round in March 2026. The Series A1 round was led more recently by Abakkus's Four2Eight Opportunities Fund, and India SME Investments made a follow-on investment in it.\nEvolvence Equity Partners, IIFL Capital Asset Management and UTI Alternatives were among the other investors in the extended round. UTI Alternatives had earlier invested in Redbrick through a structured convertible debenture issuance in March 2025.\nLadderup Corporate Advisory and IIFL Capital Services were financial advisers to the company, and Rajani Associates was its legal adviser.\nWhat the capital is for\nRedbrick plans to expand its managed office portfolio from about 6.5 million sq ft to more than 10 million sq ft over the next 18 to 24 months, an increase of roughly 54%.\nIt will also put money into technology infrastructure, design and service delivery, as it goes after workspace requirements from large enterprises and global capability centres (GCCs). The company said it is open to strategic partnerships and acquisitions that fit its growth plans.\n&ldquo; This funding validates our consistent focus on improving unit economics as well as demand backed sustainable profitable growth strategy. The equity raise will strengthen our capabilities, accelerate innovation, and renew our focus on addressing the customer's requirements while acting as a long-term partner to large real estate developers, &rdquo; said Ayush Goenka, chairman and MD of Redbrick Offices.\n&ldquo; As flexible asset-light corporate spaces become a core component of real estate strategy for multinationals and GCCs in India, Redbrick is positioned to capture massive market share, &rdquo; said Ankit Aggarwal, senior vice president and senior fund manager, private equity at Abakkus. He added Redbrick as a capital-efficient business that has scaled while staying profitable.\n&ldquo; Our decision to back Redbrick in March 2026, amid peak global uncertainties, was anchored in our belief in Ayush and the management team's track record of building a sizeable business in a bootstrapped manner, with a clear focus on profitable growth, &rdquo; said Mitin Jain, founder and managing partner of India SME Investments. He added that the participation of other institutional investors in the latest round reinforced that view.\nWhat Redbrick does\nRedbrick runs more than 70 centres across eight cities, with over 1.15 lakh seats. It builds Grade-A offices to a client's specifications and provides facilities management and hospitality-led services through a wholly owned subsidiary, Snow White Technologies & Services Private Limited.\nIts clients include GCCs, Fortune 500 companies, large enterprises, BFSI firms and US-based multinationals.\nThe company counts brands such as Amazon, Salesforce, Flipkart, Cisco, HDFC, Lenovo, Panasonic, BASF and Roche among its clients, with plans to expand into Chennai and Kolkata during 2026-27.\nThe business started in Mumbai in 2015, when the Goenka family merged its sister company Bombay Connect with Redbrick. The family had been in real estate for decades before that.\nRedbrick launched three centres in Mumbai in 2016, two in Hyderabad in 2017 and three in Pune in 2018. By 2019 it had 15 centres across those three cities.\nAccording to the company , Redbrick Group manages assets worth Rs 5,000 crore and serves as the landlord for many of its managed properties, with an owned portfolio valued at over Rs 1,000 crore.\nThe fundraise comes as large companies and GCCs increasingly use managed offices to avoid long-term capital spending on fit-outs and operations.\nA FICCI-CBRE report released in March 2026 put India's flexible office stock at 110-114 million sq ft as of 2025, about three times the 2020 level, after growing at 23-25% a year over five years.\nBengaluru is the largest flex market with 30-32 million sq ft, followed by Delhi-NCR, Pune, Hyderabad and Mumbai, according to the report. International occupiers accounted for 55-60% of flex demand in 2025.\nThe report expects the share of GCCs that keep more than 10% of their office portfolio in flex workspaces to rise from 22% to 48% within two years. It valued India's listed flex operators at about $2-2.2 billion as of 20 March 2026.\nFunding\nInvestment\nInvestors\nAsset Management\nMumbai\nSubscribe to our Newsletter!\nBe the first to get exclusive offers and the latest news\nSubscribe Now\nRelated Articles\nRead the Next Article",
+      "text_status": "ok"
+    },
+    {
+      "id": "b3971204392c",
+      "title": "13-Year-Old Hyderabad Student Launches KIKA AI, Secures Seed Funding for AI Platform",
+      "publisher": "https://ascendants.in/",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMldrMFpwNlV6N2pjeUY2WHBiQnVGU21WTzVuTjZLVmRtT0J5ZUV2MkllaVBBSEQ4TEtJMVlET2xuZlpIa1F1UDhHN1NxSURUZElrQkgwRmhuUWdfV1NDOUUwbmhvTHVtYnVVMjVvWWRzcHIwOHJ3TGE3UzJON3hheW42TWQ3MmNHY0F2REFzMGtCRUNkcUhLdFFn?oc=5",
+      "published_at": "2026-11-21T10:49:21.000Z",
+      "publisher_url": "https://ascendants.in",
+      "snippet": "13-Year-Old Hyderabad Student Launches KIKA AI, Secures Seed Funding for AI Platform https://ascendants.in/",
+      "source_feed": "gnews-g6",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "13-Year-Old Hyderabad Student",
+      "group_key": "13 year old hyderabad student",
+      "group_rank": 0,
+      "resolved_url": "https://ascendants.in/the-ascendants/13-year-old-kiyan-launches-kika-ai-platform-seed-funding/",
+      "text": "13-Year-Old Hyderabad Student Launches KIKA AI, Secures Seed Funding for AI Platform\nOm Singh\n| November 21 | The Ascendants\nShare\nA 13-year-old student from Hyderabad has launched KIKA AI , an artificial intelligence platform designed to help school students and young creators build projects using multiple AI agents and models through a single interface.\nKiyan, a Class 9 student at Delhi Public School, Hyderabad, founded the platform after finding conventional developer tools too technically complex. Instead of navigating complicated setups, he wanted to create a simpler environment where users could focus on building projects and using AI.\nThe platform has also received seed funding from Tasleem Arif, a technology leader with more than two decades of experience in the smartphone, software and embedded systems industries.\nKIKA AI: How the idea took shape\nKiyan started developing KIKA AI on July 13, 2026. The platform reached a working product in approximately 11 weeks.\nThe idea emerged from his own experience of working with developer tools. He found that technical requirements and complex configurations could make it difficult for beginners to turn their ideas into working projects.\nKIKA AI was developed to address this challenge by bringing different AI agents and models together in one place. The platform aims to reduce the technical barriers that students and young creators often encounter when experimenting with artificial intelligence.\nFeatures and target audience\nKIKA AI describes itself as an AI-native platform, with a unified interface that allows users to access multiple AI agents and models.\nIts primary audience includes school students, particularly those interested in using artificial intelligence for projects and creative work without having to navigate conventional developer environments.\nThe platform’s broader objective is to make AI tools more accessible to students across India.\nAccording to figures cited at the launch, India has approximately 9 crore students studying in Classes 8 to 12. This represents nearly 6% of the country’s population and forms the potential audience KIKA AI hopes to reach.\nKIKA AI receives seed funding\nKIKA AI has received seed funding from Tasleem Arif, who has spent more than two decades working across the smartphone, software and embedded systems industries.\nCommenting on Kiyan’s initiative, Arif said the young founder demonstrated the ability to identify a real problem and work towards developing a solution.\nPrashant Singh, CEO of ONGC Green Limited, also praised the initiative, describing it as “truly inspiring”.\nThe funding provides early support for the student-led venture as it works towards its goal of making artificial intelligence easier to use for younger audiences.\nWhat is next for the student-led AI venture?\nKIKA AI enters the market with a focus on school students at a time when artificial intelligence tools are increasingly being used for learning and academic projects.\nHowever, the platform has not yet disclosed its pricing structure or the number of users it has onboarded. Further details about its commercial model and user adoption remain unavailable.\nMeanwhile, Kiyan continues to pursue his Class 9 studies alongside developing the platform, balancing his academic responsibilities with building an AI-focused venture.\nAlso Read: Bengaluru Entrepreneur Turns ₹5 Lakh Investment Into ₹20 Lakh Bindi Business\n13-Year-Old Founder\nAI platform\nai startup india\nartificial intelligence\nEdtech India\nHyderabad startup\nKIKA AI\nKiyan\nseed funding\nStudent Startup\nTasleem Arif\nYoung Creators\nyoung entrepreneur\nOm Singh\nOm Singh is an AI enthusiast, helping budding founders leverage technology to grow their businesses. More By Om Singh\nPrevious\nIndia’s Building Automation Market to Reach $12.56 Billion by 2030, Nearly Tripling in Five Years\nNext\nAmazon Nears $7.5 Billion Decart Acquisition to Challenge Nvidia in AI Chips\nRelated Post\nKartik Aaryan Launches Dopamine Studios on 35th Birthday, Announces Mythological Monster Thriller Kaaliya\nNovember 22\nMahindra Scorpio N Edition One First Look: What’s Different From Standard Model?\nNovember 22\nShah Rukh Khan, Aryan Khan’s D’YAVOL X Makes Retail Debut With Golden Goose Collaboration\nNovember 22\nAmazon Nears $7.5 Billion Decart Acquisition to Challenge Nvidia in AI Chips\nNovember 22\n13-Year-Old Hyderabad Student Launches KIKA AI, Secures Seed Funding for AI Platform\nNovember 21\nIndia’s Building Automation Market to Reach $12.56 Billion by 2030, Nearly Tripling in Five Years\nNovember 21\nGold Prices Crash 32% From January Peak to ₹1.22 Lakh, Recovery May Take Years\nNovember 21\nGTA 6 Full Mission List: All 5 Chapters and 91 Story Missions Revealed\nNovember 21\nFBI Investigates Fresh Cyberattack on National Crime Database, Raising Concerns Over Law Enforcement Data Security\nNovember 21\nGTA 6 Generates $2.36 Billion in First 24 Hours, Sells 24.58 Million Copies\nNovember 20\nLeave the first comment (Cancel Reply)\nYou must be logged in to post a comment.\nThe Ascendants\n13-Year-Old Hyderabad Student Launches KIKA AI, Secures Seed Funding for AI Platform\nOm Singh\n3 min\nRanveer Singh, Aman Gupta Launch H.I.M With 8 Men’s Grooming Products\nOm Singh\n3 min\nBengaluru Entrepreneur Turns ₹5 Lakh Investment Into ₹20 Lakh Bindi Business\nKhushi Bhatia\n6 min\nDiscover More\nFounder's Corner\nWho Is Madison Huang? Jensen Huang’s Daughter Draws Attention as Nvidia Searches for New CEO\nKhushi Bhatia\n5 min\nDesible AI Raises Rs 32 Crore as Its AI Platform Expands Across 25-Plus BFSI Workflows\nEpil Bodra\n2 min\nUS Intelligence Memo Links Jensen Huang’s Business Contact to China’s Top Spy Agency, Report Says\nSaksham Singh\n4 min\nDiscover More",
+      "text_status": "ok"
+    }
+  ]
+}
