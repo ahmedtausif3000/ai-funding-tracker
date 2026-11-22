@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-22T14:08:07.736Z",
+ "updated_at": "2026-11-22T23:07:09.473Z",
  "rounds": [
   {
    "id": "a5054b8320",
@@ -43,6 +43,49 @@
    ],
    "created_at": "2026-11-22T14:08:07.694Z",
    "updated_at": "2026-11-22T14:08:07.694Z",
+   "in_view": false
+  },
+  {
+   "id": "56a3077ca2",
+   "run_date": "2026-11-22-1933",
+   "website": null,
+   "amount_usd": 172500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.8,
+   "group_key": "sellas life sciences placement",
+   "candidate_ids": [
+    "41b4397dadf8"
+   ],
+   "company": "Sellas Life Sciences",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-22",
+   "hq_country": "US",
+   "ai_ml_rationale": "Public biotech; no AI claim.",
+   "description": "Public clinical-stage biotech that closed a $172.5M public share placement.",
+   "evidence": {
+    "amount": "$172.5 Million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/sellas-life-sciences-placement-closes-at-172-5-million-as-regal-data-sit-alongside-a-bigger-share/70544633"
+   ],
+   "exclude_reason": "public-company",
+   "transaction_name": "Other - Sellas Life Sciences",
+   "first_seen_run": "2026-11-22-1933",
+   "runs": [
+    "2026-11-22-1933"
+   ],
+   "created_at": "2026-11-22T23:07:09.453Z",
+   "updated_at": "2026-11-22T23:07:09.453Z",
    "in_view": false
   },
   {
@@ -176,6 +219,55 @@
    ],
    "created_at": "2026-11-21T23:07:24.219Z",
    "updated_at": "2026-11-21T23:07:24.219Z",
+   "in_view": false
+  },
+  {
+   "id": "a0aced7639",
+   "run_date": "2026-11-22-1933",
+   "website": null,
+   "amount_usd": 72000000,
+   "amount_disclosed": true,
+   "currency_note": "Rs 630 crore stated as about $72 million in article",
+   "lead_investors": [
+    "India SME Investments",
+    "Abakkus Asset Manager"
+   ],
+   "investors": [
+    "India SME Investments",
+    "Abakkus Asset Manager"
+   ],
+   "hq_city": "Mumbai",
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.8,
+   "group_key": "long bootstrapped",
+   "candidate_ids": [
+    "a344d5e652eb"
+   ],
+   "company": "Redbrick Offices",
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-21",
+   "hq_country": "IN",
+   "ai_ml_rationale": "Managed workspace provider; no AI claim.",
+   "description": "Mumbai-based managed workspace provider.",
+   "evidence": {
+    "amount": "Rs 630 crore ($72 million)",
+    "round": "Series A and Series A1 rounds",
+    "lead": "led by India SME Investments and Abakkus Asset Manager",
+    "investors": "led by India SME Investments and Abakkus Asset Manager"
+   },
+   "source_urls": [
+    "https://indianstartupnews.com/funding/long-bootstrapped-redbrick-offices-raises-rs-630-crore-led-by-abakkus-and-india-sme-investments-12829708"
+   ],
+   "exclude_reason": null,
+   "transaction_name": "Series A - Redbrick Offices",
+   "first_seen_run": "2026-11-22-1933",
+   "runs": [
+    "2026-11-22-1933"
+   ],
+   "created_at": "2026-11-22T23:07:09.456Z",
+   "updated_at": "2026-11-22T23:07:09.456Z",
    "in_view": false
   },
   {
@@ -502,14 +594,16 @@
    "stage_bucket": "Seed",
    "announced_date": "2026-11-21",
    "lead_investors": [],
-   "investors": [],
-   "hq_city": null,
+   "investors": [
+    "Tasleem Arif"
+   ],
+   "hq_city": "Hyderabad",
    "hq_state": null,
-   "hq_country": "unknown",
+   "hq_country": "IN",
    "is_ai_ml": true,
    "ai_ml_rationale": "AI startup per title.",
    "description": "13-year-old founder's seed round; amount unknown, text blocked.",
-   "confidence": 0.3,
+   "confidence": 0.8,
    "evidence": {
     "amount": "13-year-old founder raises seed round for KIKA AI",
     "round": "raises seed round",
@@ -517,16 +611,18 @@
     "investors": null
    },
    "source_urls": [
-    "https://app.dealroom.co/news/note/13-year-old-founder-raises-seed-round-for-kika-ai"
+    "https://app.dealroom.co/news/note/13-year-old-founder-raises-seed-round-for-kika-ai",
+    "https://ascendants.in/the-ascendants/13-year-old-kiyan-launches-kika-ai-platform-seed-funding/"
    ],
    "exclude_reason": "not-funding",
    "transaction_name": "Seed - KIKA AI",
    "first_seen_run": "2026-11-21",
    "runs": [
-    "2026-11-21"
+    "2026-11-21",
+    "2026-11-22-1933"
    ],
    "created_at": "2026-11-21T14:07:50.946Z",
-   "updated_at": "2026-11-21T14:07:50.946Z",
+   "updated_at": "2026-11-22T23:07:09.459Z",
    "in_view": false
   },
   {
@@ -741,6 +837,92 @@
    ],
    "created_at": "2026-11-22T14:08:07.711Z",
    "updated_at": "2026-11-22T14:08:07.711Z",
+   "in_view": false
+  },
+  {
+   "id": "8fc370ac41",
+   "run_date": "2026-11-22-1933",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.6,
+   "group_key": "indian billionaire",
+   "candidate_ids": [
+    "1283b5fdf6b5"
+   ],
+   "company": "Megha Engineering buyout (Indian billionaire)",
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Private credit for a buyout; no AI claim.",
+   "description": "Private credit raise for a buyout by an Indian billionaire; paywalled, not a startup round.",
+   "evidence": {
+    "amount": "Raises $720 Million Private Credit",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.bloomberg.com/news/articles/2026-11-20/billionaire-raises-720-million-private-credit-for-megha-buyout"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Debt - Megha Engineering buyout (Indian billionaire)",
+   "first_seen_run": "2026-11-22-1933",
+   "runs": [
+    "2026-11-22-1933"
+   ],
+   "created_at": "2026-11-22T23:07:09.438Z",
+   "updated_at": "2026-11-22T23:07:09.438Z",
+   "in_view": false
+  },
+  {
+   "id": "b947bd8ad0",
+   "run_date": "2026-11-22-1933",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Los Angeles",
+   "hq_state": "CA",
+   "is_ai_ml": false,
+   "confidence": 0.8,
+   "group_key": "this is not a",
+   "candidate_ids": [
+    "1ed6dc2357c3"
+   ],
+   "company": "Los Angeles Sparks",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "hq_country": "US",
+   "ai_ml_rationale": "Sports franchise sale; no AI product.",
+   "description": "WNBA team reportedly being sold for $705 million.",
+   "evidence": {
+    "amount": "$705 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.essentiallysports.com/nba-active-basketball-news-this-is-not-a-question-of-business-mark-walters-reported-sparks-sale-raises-questions-over-seven-hundred-five-million-price-tag/"
+   ],
+   "exclude_reason": "acquisition",
+   "transaction_name": "Other - Los Angeles Sparks",
+   "first_seen_run": "2026-11-22-1933",
+   "runs": [
+    "2026-11-22-1933"
+   ],
+   "created_at": "2026-11-22T23:07:09.444Z",
+   "updated_at": "2026-11-22T23:07:09.444Z",
    "in_view": false
   },
   {
@@ -2192,6 +2374,92 @@
    ],
    "created_at": "2026-11-22T14:08:07.727Z",
    "updated_at": "2026-11-22T14:08:07.727Z",
+   "in_view": false
+  },
+  {
+   "id": "730cce5b50",
+   "run_date": "2026-11-22-1933",
+   "website": "cognition.ai",
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "group_key": "potential cognition",
+   "candidate_ids": [
+    "b73125540be4"
+   ],
+   "company": "Cognition AI",
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "hq_country": "US",
+   "ai_ml_rationale": "Builds autonomous AI software-engineering agents (Devin).",
+   "description": "Maker of Devin, autonomous AI software-engineering agents. Reported talks only for a new round; not completed.",
+   "evidence": {
+    "amount": "considering raising $2 billion or more",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.unite.ai/potential-cognition-ai-round-would-raise-2b-plus-at-75b-valuation/"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Venture - Unspecified - Cognition AI",
+   "first_seen_run": "2026-11-22-1933",
+   "runs": [
+    "2026-11-22-1933"
+   ],
+   "created_at": "2026-11-22T23:07:09.428Z",
+   "updated_at": "2026-11-22T23:07:09.428Z",
+   "in_view": false
+  },
+  {
+   "id": "85b651951f",
+   "run_date": "2026-11-22-1933",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.6,
+   "group_key": "avenzo therapeutics",
+   "candidate_ids": [
+    "9d1d64f124d1"
+   ],
+   "company": "Avenzo Therapeutics",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "hq_country": "US",
+   "ai_ml_rationale": "Biotech reverse merger; no AI claim in available text.",
+   "description": "Biotech that closed a merger with public Rallybio alongside a $215M private placement.",
+   "evidence": {
+    "amount": "$215 Million Concurrent Private Placement",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.businesswire.com/news/home/20261120707360/en/Avenzo-Therapeutics-Announces-Closing-of-Merger-with-Rallybio-Corporation-and-Previously-Announced-%24215-Million-Concurrent-Private-Placement"
+   ],
+   "exclude_reason": "public-company",
+   "transaction_name": "Other - Avenzo Therapeutics",
+   "first_seen_run": "2026-11-22-1933",
+   "runs": [
+    "2026-11-22-1933"
+   ],
+   "created_at": "2026-11-22T23:07:09.450Z",
+   "updated_at": "2026-11-22T23:07:09.450Z",
    "in_view": false
   },
   {
@@ -12849,16 +13117,18 @@
    },
    "source_urls": [
     "https://www.proactiveinvestors.com.au/a/13cfda17/paladin-raises-a-525-million-to-accelerate-canadian-uranium-growth",
-    "https://sightlineu3o8.com/2026/11/paladin-successfully-completes-a525-million-fully-underwritten-equity-raising/"
+    "https://sightlineu3o8.com/2026/11/paladin-successfully-completes-a525-million-fully-underwritten-equity-raising/",
+    "https://thestarphoenix.com/business/australian-miner-paladin-energy-raises-513-million-sask-uranium-project/"
    ],
    "exclude_reason": "public-company",
    "transaction_name": "Other - Paladin Energy",
    "first_seen_run": "catchup-2026-11-10_2026-11-17",
    "runs": [
-    "catchup-2026-11-10_2026-11-17"
+    "catchup-2026-11-10_2026-11-17",
+    "2026-11-22-1933"
    ],
    "created_at": "2026-11-18T06:42:51.096Z",
-   "updated_at": "2026-11-18T06:42:51.096Z",
+   "updated_at": "2026-11-22T23:07:09.445Z",
    "in_view": false
   },
   {
@@ -58010,5 +58280,5 @@
    "in_view": true
   }
  ],
- "last_run": "2026-11-22"
+ "last_run": "2026-11-22-1933"
 }

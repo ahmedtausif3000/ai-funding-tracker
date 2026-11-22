@@ -1,0 +1,287 @@
+{
+ "run_date": "2026-11-22-1933",
+ "extractor": "claude-code routine",
+ "notes": "No US in-scope rounds. Cognition is talks only.",
+ "rows": [
+  {
+   "run_date": "2026-11-22-1933",
+   "website": "cognition.ai",
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "group_key": "potential cognition",
+   "candidate_ids": [
+    "b73125540be4"
+   ],
+   "company": "Cognition AI",
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "hq_country": "US",
+   "ai_ml_rationale": "Builds autonomous AI software-engineering agents (Devin).",
+   "description": "Maker of Devin, autonomous AI software-engineering agents. Reported talks only for a new round; not completed.",
+   "evidence": {
+    "amount": "considering raising $2 billion or more",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.unite.ai/potential-cognition-ai-round-would-raise-2b-plus-at-75b-valuation/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "run_date": "2026-11-22-1933",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.6,
+   "group_key": "indian billionaire",
+   "candidate_ids": [
+    "1283b5fdf6b5"
+   ],
+   "company": "Megha Engineering buyout (Indian billionaire)",
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Private credit for a buyout; no AI claim.",
+   "description": "Private credit raise for a buyout by an Indian billionaire; paywalled, not a startup round.",
+   "evidence": {
+    "amount": "Raises $720 Million Private Credit",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.bloomberg.com/news/articles/2026-11-20/billionaire-raises-720-million-private-credit-for-megha-buyout"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "run_date": "2026-11-22-1933",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Los Angeles",
+   "hq_state": "CA",
+   "is_ai_ml": false,
+   "confidence": 0.8,
+   "group_key": "this is not a",
+   "candidate_ids": [
+    "1ed6dc2357c3"
+   ],
+   "company": "Los Angeles Sparks",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-21",
+   "hq_country": "US",
+   "ai_ml_rationale": "Sports franchise sale; no AI product.",
+   "description": "WNBA team reportedly being sold for $705 million.",
+   "evidence": {
+    "amount": "$705 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.essentiallysports.com/nba-active-basketball-news-this-is-not-a-question-of-business-mark-walters-reported-sparks-sale-raises-questions-over-seven-hundred-five-million-price-tag/"
+   ],
+   "exclude_reason": "acquisition"
+  },
+  {
+   "run_date": "2026-11-22-1933",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.7,
+   "group_key": "australian miner paladin energy",
+   "candidate_ids": [
+    "3f9a20cc6bd3"
+   ],
+   "company": "Paladin Energy",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "hq_country": "AU",
+   "ai_ml_rationale": "Uranium miner; no AI claim.",
+   "description": "Listed Australian uranium miner raising capital for a Saskatchewan project.",
+   "evidence": {
+    "amount": "raises $513 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://thestarphoenix.com/business/australian-miner-paladin-energy-raises-513-million-sask-uranium-project/"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "run_date": "2026-11-22-1933",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.6,
+   "group_key": "avenzo therapeutics",
+   "candidate_ids": [
+    "9d1d64f124d1"
+   ],
+   "company": "Avenzo Therapeutics",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "hq_country": "US",
+   "ai_ml_rationale": "Biotech reverse merger; no AI claim in available text.",
+   "description": "Biotech that closed a merger with public Rallybio alongside a $215M private placement.",
+   "evidence": {
+    "amount": "$215 Million Concurrent Private Placement",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.businesswire.com/news/home/20261120707360/en/Avenzo-Therapeutics-Announces-Closing-of-Merger-with-Rallybio-Corporation-and-Previously-Announced-%24215-Million-Concurrent-Private-Placement"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "run_date": "2026-11-22-1933",
+   "website": null,
+   "amount_usd": 172500000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.8,
+   "group_key": "sellas life sciences placement",
+   "candidate_ids": [
+    "41b4397dadf8"
+   ],
+   "company": "Sellas Life Sciences",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-22",
+   "hq_country": "US",
+   "ai_ml_rationale": "Public biotech; no AI claim.",
+   "description": "Public clinical-stage biotech that closed a $172.5M public share placement.",
+   "evidence": {
+    "amount": "$172.5 Million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/sellas-life-sciences-placement-closes-at-172-5-million-as-regal-data-sit-alongside-a-bigger-share/70544633"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "run_date": "2026-11-22-1933",
+   "website": null,
+   "amount_usd": 72000000,
+   "amount_disclosed": true,
+   "currency_note": "Rs 630 crore stated as about $72 million in article",
+   "lead_investors": [
+    "India SME Investments",
+    "Abakkus Asset Manager"
+   ],
+   "investors": [
+    "India SME Investments",
+    "Abakkus Asset Manager"
+   ],
+   "hq_city": "Mumbai",
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.8,
+   "group_key": "long bootstrapped",
+   "candidate_ids": [
+    "a344d5e652eb"
+   ],
+   "company": "Redbrick Offices",
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-21",
+   "hq_country": "IN",
+   "ai_ml_rationale": "Managed workspace provider; no AI claim.",
+   "description": "Mumbai-based managed workspace provider.",
+   "evidence": {
+    "amount": "Rs 630 crore ($72 million)",
+    "round": "Series A and Series A1 rounds",
+    "lead": "led by India SME Investments and Abakkus Asset Manager",
+    "investors": "led by India SME Investments and Abakkus Asset Manager"
+   },
+   "source_urls": [
+    "https://indianstartupnews.com/funding/long-bootstrapped-redbrick-offices-raises-rs-630-crore-led-by-abakkus-and-india-sme-investments-12829708"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "run_date": "2026-11-22-1933",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [
+    "Tasleem Arif"
+   ],
+   "hq_city": "Hyderabad",
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "group_key": "13 year old hyderabad student",
+   "candidate_ids": [
+    "b3971204392c"
+   ],
+   "company": "KIKA AI",
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-21",
+   "hq_country": "IN",
+   "ai_ml_rationale": "AI-native platform with multiple AI agents.",
+   "description": "AI platform for students to build projects with multiple AI agents and models.",
+   "evidence": {
+    "amount": "received seed funding from Tasleem Arif",
+    "round": "seed funding",
+    "lead": null,
+    "investors": "seed funding from Tasleem Arif"
+   },
+   "source_urls": [
+    "https://ascendants.in/the-ascendants/13-year-old-kiyan-launches-kika-ai-platform-seed-funding/"
+   ],
+   "exclude_reason": null
+  }
+ ]
+}
