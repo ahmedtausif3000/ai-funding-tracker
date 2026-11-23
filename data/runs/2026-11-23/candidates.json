@@ -1,0 +1,2145 @@
+{
+  "run_date": "2026-11-23",
+  "generated_at": "2026-11-23T14:40:24.316Z",
+  "window_days": 2,
+  "range": null,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 200,
+        "items": 31
+      },
+      {
+        "id": "gnews-2",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-3",
+        "status": 200,
+        "items": 24
+      },
+      {
+        "id": "gnews-4",
+        "status": 200,
+        "items": 25
+      },
+      {
+        "id": "gnews-5",
+        "status": 200,
+        "items": 24
+      },
+      {
+        "id": "gnews-6",
+        "status": 200,
+        "items": 53
+      },
+      {
+        "id": "gnews-7",
+        "status": 200,
+        "items": 32
+      },
+      {
+        "id": "gnews-8",
+        "status": 200,
+        "items": 1
+      },
+      {
+        "id": "gnews-g1",
+        "status": 200,
+        "items": 19
+      },
+      {
+        "id": "gnews-g2",
+        "status": 200,
+        "items": 9
+      },
+      {
+        "id": "gnews-g3",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "gnews-g4",
+        "status": 200,
+        "items": 23
+      },
+      {
+        "id": "gnews-g5",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-g6",
+        "status": 200,
+        "items": 40
+      },
+      {
+        "id": "gnews-g7",
+        "status": 200,
+        "items": 18
+      },
+      {
+        "id": "gnews-g8",
+        "status": 200,
+        "items": 22
+      },
+      {
+        "id": "gnews-g9",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "pulse2",
+        "status": 200,
+        "items": 100
+      },
+      {
+        "id": "citybiz",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 595,
+    "prefiltered": 108,
+    "dropped": {
+      "not_funding": 233,
+      "no_ai_hint": 50,
+      "below_min": 69,
+      "fund_close": 7,
+      "seen": 14,
+      "duplicate_link": 113,
+      "known_round": 27,
+      "noise": 1
+    },
+    "groups": 63,
+    "selected_groups": 38,
+    "candidates": 81,
+    "articles_fetched": 25,
+    "google_rate_limited": false
+  },
+  "groups": [
+    {
+      "key": "theseus robotics",
+      "company_guess": "Theseus Robotics",
+      "amount_hint_usd": 60700000000,
+      "candidate_ids": [
+        "62610acef8bf",
+        "7d77b830e18b"
+      ]
+    },
+    {
+      "key": "sierra says it is",
+      "company_guess": "Sierra says it is",
+      "amount_hint_usd": 30000000000,
+      "candidate_ids": [
+        "8d8785d0e4fe"
+      ]
+    },
+    {
+      "key": "european tech weekly recap",
+      "company_guess": "European tech weekly recap",
+      "amount_hint_usd": 6000000000,
+      "candidate_ids": [
+        "a623d2ae371c"
+      ]
+    },
+    {
+      "key": "texas pacific",
+      "company_guess": "Texas Pacific",
+      "amount_hint_usd": 3000000000,
+      "candidate_ids": [
+        "05b0841981bf"
+      ]
+    },
+    {
+      "key": "how helsinki is selling",
+      "company_guess": "How Helsinki is selling",
+      "amount_hint_usd": 2200000000,
+      "candidate_ids": [
+        "a5d1f7c40a68"
+      ]
+    },
+    {
+      "key": "devin maker",
+      "company_guess": "Devin maker",
+      "amount_hint_usd": 2000000000,
+      "candidate_ids": [
+        "3d8b0926f8ba"
+      ]
+    },
+    {
+      "key": "sierra",
+      "company_guess": "Sierra",
+      "amount_hint_usd": 1750000000,
+      "candidate_ids": [
+        "e23274b9d021"
+      ]
+    },
+    {
+      "key": "indias",
+      "company_guess": "India's AI",
+      "amount_hint_usd": 1600000000,
+      "candidate_ids": [
+        "c7d57013c2f3",
+        "697d494aeaec",
+        "3884ab651197"
+      ]
+    },
+    {
+      "key": "india digest tanglin backs",
+      "company_guess": "India Digest: Tanglin backs",
+      "amount_hint_usd": 1600000000,
+      "candidate_ids": [
+        "326f0c24df50",
+        "e887c230189d",
+        "76a7eda45285",
+        "f48f2abe1e6e",
+        "ea3a8d32a644"
+      ]
+    },
+    {
+      "key": "top tech news nano",
+      "company_guess": "Top Tech News: Nano",
+      "amount_hint_usd": 1000000000,
+      "candidate_ids": [
+        "fe8fa786f34c"
+      ]
+    },
+    {
+      "key": "litmus music",
+      "company_guess": "Litmus Music",
+      "amount_hint_usd": 475000000,
+      "candidate_ids": [
+        "6a4f0fe24021"
+      ]
+    },
+    {
+      "key": "crypto dealbook",
+      "company_guess": "Crypto dealbook",
+      "amount_hint_usd": 405200000,
+      "candidate_ids": [
+        "204ab2ef1d4a"
+      ]
+    },
+    {
+      "key": "tamara",
+      "company_guess": "Tamara",
+      "amount_hint_usd": 400000000,
+      "candidate_ids": [
+        "237033f57b28",
+        "e9f10efde1b8"
+      ]
+    },
+    {
+      "key": "draper",
+      "company_guess": "Draper",
+      "amount_hint_usd": 315700000,
+      "candidate_ids": [
+        "b35def0ce5a4"
+      ]
+    },
+    {
+      "key": "applied digital",
+      "company_guess": "Applied Digital",
+      "amount_hint_usd": 300000000,
+      "candidate_ids": [
+        "155e1be463bc",
+        "ccf52bb4906c"
+      ]
+    },
+    {
+      "key": "adani airports",
+      "company_guess": "Adani Airports",
+      "amount_hint_usd": 300000000,
+      "candidate_ids": [
+        "3320c3c3b4b5"
+      ]
+    },
+    {
+      "key": "marlowe 277m seed round",
+      "company_guess": "Marlowe $277M Seed Round",
+      "amount_hint_usd": 277000000,
+      "candidate_ids": [
+        "31b474236be6",
+        "8652d159656b",
+        "4ba9da2de2b3",
+        "1e6bdc4cb4ea",
+        "4d2152f857d1"
+      ]
+    },
+    {
+      "key": "crowley government services",
+      "company_guess": "Crowley Government Services",
+      "amount_hint_usd": 270400000,
+      "candidate_ids": [
+        "90a6e655dea6"
+      ]
+    },
+    {
+      "key": "vc funding rebounds as",
+      "company_guess": "VC funding rebounds as",
+      "amount_hint_usd": 255000000,
+      "candidate_ids": [
+        "7155f9ffc04e"
+      ]
+    },
+    {
+      "key": "prince georges county approves",
+      "company_guess": "Prince George’s County Approves",
+      "amount_hint_usd": 215000000,
+      "candidate_ids": [
+        "ec1c74f848a5"
+      ]
+    },
+    {
+      "key": "aivc",
+      "company_guess": "AIVC",
+      "amount_hint_usd": 112000000,
+      "candidate_ids": [
+        "fa7fc0e02255",
+        "36738248ecef",
+        "0f7c241508db",
+        "2ac1c4285d1b",
+        "9f6c7ca902f1"
+      ]
+    },
+    {
+      "key": "simplexity",
+      "company_guess": "Simplexity",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "0def43ebe40b",
+        "ef709c588507",
+        "9ec62244865b"
+      ]
+    },
+    {
+      "key": "ant group leads 100",
+      "company_guess": "Ant Group Leads $100",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "81c61a48dde1"
+      ]
+    },
+    {
+      "key": "ant group leads 100m",
+      "company_guess": "Ant Group leads $100M",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "520b6a79cffb"
+      ]
+    },
+    {
+      "key": "agon",
+      "company_guess": "Agon",
+      "amount_hint_usd": 70000000,
+      "candidate_ids": [
+        "2570e9b6b69c",
+        "48f03d24cc51",
+        "09cf15a6ee60",
+        "a2b2df20f4a5",
+        "32d3b48cb328",
+        "b891b2661557",
+        "41d155a0eaa6",
+        "e52744d05a20",
+        "d20fd0a435c9",
+        "8064ff61329d",
+        "ccf0e1c839b4",
+        "dd117157e49f",
+        "1a6aef153014",
+        "977d0fba4483",
+        "7bbc9d48b8d2",
+        "9297fbdaf71a",
+        "73aa957001b9",
+        "8450bd1ec847"
+      ]
+    },
+    {
+      "key": "kanishka narayan backs british",
+      "company_guess": "Kanishka Narayan backs British",
+      "amount_hint_usd": 70000000,
+      "candidate_ids": [
+        "f4f5167c1172"
+      ]
+    },
+    {
+      "key": "arnatar",
+      "company_guess": "Arnatar",
+      "amount_hint_usd": 55000000,
+      "candidate_ids": [
+        "6cb0168be575"
+      ]
+    },
+    {
+      "key": "compuvi reaches 50 million",
+      "company_guess": "Compuvi Reaches $50 Million",
+      "amount_hint_usd": 50000000,
+      "candidate_ids": [
+        "af7d1b471786"
+      ]
+    },
+    {
+      "key": "vigor marine",
+      "company_guess": "Vigor Marine",
+      "amount_hint_usd": 45400000,
+      "candidate_ids": [
+        "cc4407e0a60d"
+      ]
+    },
+    {
+      "key": "korte construction",
+      "company_guess": "Korte Construction",
+      "amount_hint_usd": 38000000,
+      "candidate_ids": [
+        "1690ac39ef99"
+      ]
+    },
+    {
+      "key": "selkirk copper",
+      "company_guess": "Selkirk Copper",
+      "amount_hint_usd": 30000000,
+      "candidate_ids": [
+        "7a3bf86b082a"
+      ]
+    },
+    {
+      "key": "velosano",
+      "company_guess": "VeloSano",
+      "amount_hint_usd": 20200000,
+      "candidate_ids": [
+        "6e7a82682fae"
+      ]
+    },
+    {
+      "key": "huntington ingalls",
+      "company_guess": "Huntington Ingalls",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "7b5f6f07f5f1"
+      ]
+    },
+    {
+      "key": "enhanced robotics",
+      "company_guess": "Enhanced Robotics",
+      "amount_hint_usd": 15000000,
+      "candidate_ids": [
+        "e385f6113a9b"
+      ]
+    },
+    {
+      "key": "matters",
+      "company_guess": "Matters.AI",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "b364170daec8",
+        "8b48f5704987",
+        "41cd4a059508",
+        "4daef79114e3",
+        "8d1c01fdaef5",
+        "ec3992cd2be0",
+        "eee1794a8c8a",
+        "a07b51998683"
+      ]
+    },
+    {
+      "key": "oymotion",
+      "company_guess": "OYMotion",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "2cca196fb898"
+      ]
+    },
+    {
+      "key": "smeetz",
+      "company_guess": "Smeetz",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "b6e435cd4987"
+      ]
+    },
+    {
+      "key": "ramaphosas r100 million plan",
+      "company_guess": "Ramaphosa’s R100-million technology plan",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "98e3d0586acb"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "62610acef8bf",
+      "title": "Theseus Robotics secures €455k to put robots to work in supermarkets across Europe and US - EU-Startups",
+      "publisher": "EU-Startups",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTZUaGpsSnF1d0lVZjZ4ankwc2lRSU5hU1NtM0RaSDVYVmNMdHJoVlJyM29Ubi00bldPNHk3UFljSGRfdER5NS02Y2xSdFYxNktmVWxkTG9pNEtrVk9QRkFiSG1YYzNhRFh4TkdFQWNueDJOWUxlV0x3LThxMEpLQl9wZ3NjSHV1YUd0NHBxMFNnOG45dDJNYmdXdW9xeDFuZTdGdnNNQ1hEN0FWZFhRNFhFbkQySU9jMXZObzJTTUgyUU5w?oc=5",
+      "published_at": "2026-11-23T11:15:57.000Z",
+      "publisher_url": "https://www.eu-startups.com",
+      "snippet": "Theseus Robotics secures €455k to put robots to work in supermarkets across Europe and US EU-Startups",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Theseus Robotics",
+      "group_key": "theseus robotics",
+      "group_rank": 0,
+      "resolved_url": "https://www.eu-startups.com/2026/11/theseus-robotics-secures-e455k-to-put-robots-to-work-in-supermarkets-across-europe-and-us/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "7d77b830e18b",
+      "title": "Robotics investment set to reach $60.7 billion in 2026, but funding boom raises concerns",
+      "publisher": "Robotics & Automation News",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVTVMUFBHTzRkbV8tVmhCTmxFMHNLUkk5ZXNDV0VDMDRsRWRlWm9Yb2ZKczhFYUMxRFJ3Q0dmUHpySHAwdWJVdGQ5RGlkMU90MmNTOHVTZXBDOUEzbkxPQlAyV1FqLTZkTy1LRHRVRFhiczBGMlFKbUtXUy0wS3o2VWR2VlhJNklHZk9sN2I1WGM5ak11NzdPcnRKbU1XajgwSVVKMklfY08zMzR2S1JHZ1hfdm1FQTl5TnJ0LUdpR2VMSlA5Mk41djVXUXRzQjJXaVVOZFZBWnVnTzA?oc=5",
+      "published_at": "2026-11-22T20:11:05.000Z",
+      "publisher_url": "https://roboticsandautomationnews.com",
+      "snippet": "Robotics investment set to reach $60.7 billion in 2026, but funding boom raises concerns Robotics & Automation News",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 60700000000,
+        "currency": "USD",
+        "raw": "$60.7 billion"
+      },
+      "company_guess": "Robotics",
+      "group_key": "theseus robotics",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "8d8785d0e4fe",
+      "title": "Sierra says it is finalizing a funding round led by Lightspeed and Greenoaks at a $30 billion valuation",
+      "publisher": "MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU3Q1UlI0NFdwdm0tREdjWU5RajJBcUd0UkZyQlQwVzdxQkp1aEdkWUxEclNfVFRGMGdPWWp6WlNlT1hHYXZ4cmFBOF9jLW1HRWJwYWJoeE9xYzluTHJmWGgwWDJObTNqWExlVWxPT1A2Vy16UzNWRFluN0JWQW04WHlkR3V4ZTdEU1RRbzNBeVlRSmZnTlV4TEtaVmZvOWdURFFrcUFiWVV6eE9TVHgyVDJxbDVzTWptODlKeVhHQUs?oc=5",
+      "published_at": "2026-11-23T12:35:25.000Z",
+      "publisher_url": "https://mlq.ai",
+      "snippet": "Sierra says it is finalizing a funding round led by Lightspeed and Greenoaks at a $30 billion valuation MLQ.ai",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 30000000000,
+        "currency": "USD",
+        "raw": "$30 billion"
+      },
+      "company_guess": "Sierra says it is",
+      "group_key": "sierra says it is",
+      "group_rank": 0,
+      "resolved_url": "https://mlq.ai/news/sierra-says-it-is-finalizing-a-funding-round-led-by-lightspeed-and-greenoaks-at-a-30-billion-valuation/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "a623d2ae371c",
+      "title": "European tech weekly recap: More than 65 tech funding deals worth over €6B",
+      "publisher": "Tech.eu",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjVxWlVUU1ZVeTBPcnVhVmgxcWhRU2hsdWo1MFBfMzJBeUw1QTdDX08teEFIVHhpR3dLM3JYbFhJWmxpcTdWQlFLWmpveHlhZmU4S0JUUzlDU0xqXy03eVN6cEprLUtUbDZxQy1oc0R5aElyOWRXVEllQWkyN0oyN0ZaTEhBUzVCT3JzeEctM2t6VEVTUHpHQ1MtQ0hlTF9aSmN1anExSQ?oc=5",
+      "published_at": "2026-11-23T08:00:38.000Z",
+      "publisher_url": "https://tech.eu",
+      "snippet": "European tech weekly recap: More than 65 tech funding deals worth over €6B Tech.eu",
+      "source_feed": "gnews-6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 6000000000,
+        "currency": "EUR",
+        "raw": "€6B"
+      },
+      "company_guess": "European tech weekly recap",
+      "group_key": "european tech weekly recap",
+      "group_rank": 0,
+      "resolved_url": "https://tech.eu/2026/11/23/european-tech-weekly-recap-more-than-65-tech-funding-deals-worth-over-eur18b/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "05b0841981bf",
+      "title": "Texas Pacific Land to Acquire EagleRock in $3 Billion All-Stock Transaction",
+      "publisher": "Win Warfield",
+      "link": "https://www.citybiz.co/article/937341/texas-pacific-land-to-acquire-eaglerock-in-3-billion-all-stock-transaction/",
+      "published_at": "2026-11-23T14:23:03.000Z",
+      "publisher_url": null,
+      "snippet": "Texas Pacific Land Corporation (NYSE: TPL) has entered into a definitive agreement to acquire EagleRock Land, LLC (NYSE: EROK) in... Read More\nThe post Texas Pacific Land to Acquire EagleRock in $3 Billion All-Stock Transaction appeared first on citybiz .",
+      "source_feed": "citybiz",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 3000000000,
+        "currency": "USD",
+        "raw": "$3 Billion"
+      },
+      "company_guess": "Texas Pacific",
+      "group_key": "texas pacific",
+      "group_rank": 0,
+      "resolved_url": "https://www.citybiz.co/article/937341/texas-pacific-land-to-acquire-eaglerock-in-3-billion-all-stock-transaction/",
+      "text": "Dallas , Global\nGeneral Business , Mergers & Acquisitions , Internet / Technology\nTexas Pacific Land to Acquire EagleRock in $3 Billion All-Stock Transaction\nNovember 23, 2026\nTexas Pacific Land Corporation (NYSE: TPL) has entered into a definitive agreement to acquire EagleRock Land, LLC (NYSE: EROK) in an all-stock transaction valued at approximately $3 billion , expanding its land ownership, water infrastructure and royalty operations across the Permian Basin.\nThe transaction will combine two land and water management businesses with complementary holdings in the Midland and Delaware basins. The combined company is expected to own approximately 1 million fee surface acres, along with an additional 105,000 acres covered by water-related dedication agreements.\nUnder the merger agreement, EagleRock shareholders will receive 0.0831 shares of a newly formed holding company for each EagleRock Class A share. Based on Texas Pacific Land’s five-day volume-weighted average share price as of November 20, 2026, the exchange ratio represents approximately $23.56 per EagleRock share.\nHolders of units in EagleRock Land Operating, LLC will receive shares at the same exchange ratio, with their paired EagleRock Class B shares canceled.\nExisting Texas Pacific Land shareholders are expected to own approximately 86% of the combined company, while former EagleRock shareholders and operating company unitholders will hold approximately 14% on a fully diluted basis.\nThe transaction will involve a holding company reorganization under which New Titan Holdings, Inc. will become the publicly traded parent of both businesses. The holding company is expected to adopt the Texas Pacific Land Corporation name upon closing. Each existing TPL share will convert into one share of the new holding company.\nThe combined business will retain Texas Pacific Land’s board of directors and executive management team, with headquarters in Dallas.\nEagleRock owns or controls approximately 288,000 acres across the Permian Basin, including roughly 59,000 fee-owned acres primarily in Lea County, New Mexico. The acquisition will expand Texas Pacific Land’s presence in the Delaware Basin and increase its Midland Basin surface acreage by nearly 40%.\nEagleRock’s Midland Basin assets include approximately 220,000 barrels per day of produced water handling capacity through gathering, disposal and recycling infrastructure, along with approximately 130,000 barrels per day of non-potable water supply capacity.\nFollowing the acquisition, Texas Pacific Land expects its combined water infrastructure platform to have approximately 1.5 million barrels per day of aggregate non-potable water sourcing and produced water treatment capacity, representing a 49% increase.\nCombined water storage capacity is projected to reach approximately 68 million barrels, an increase of 79%.\nThe expanded acreage also includes approximately 37,600 future undrilled well locations within five miles of the combined properties, providing potential demand for water services, surface access and related infrastructure.\nTexas Pacific Land expects the transaction to be accretive to estimated 2027 free cash flow per share before synergies.\nFor the nine months ended September 30, 2026, the combined businesses generated pro forma adjusted EBITDA margins of approximately 83% and free cash flow margins of approximately 60%.\nManagement has identified approximately $45 million in potential annual run-rate benefits, consisting of $20 million in corporate cost savings and $25 million in additional revenue opportunities. Those anticipated benefits are excluded from the reported pro forma financial figures.\n“This combination supports our strategy to build the premier land, water and royalty platform in the Permian Basin by adding complementary assets that we believe will deliver increased intrinsic value per share,” said Tyler Glover , chief executive officer of Texas Pacific Land.\nThe acquisition will also expand Texas Pacific Land’s commercial relationship with Double Eagle through long-term water service arrangements supported by approximately 105,000 acres of aggregate dedications.\nEagleRock CEO Greg Pipkin said the combination will bring additional capabilities to customers while allowing EagleRock shareholders to participate in the combined company’s future performance.\nIn connection with the transaction, Texas Pacific Land’s board approved an increase in its share repurchase authorization to $500 million. The company expects to maintain a net cash position following the acquisition and intends to increase shareholder distributions through repurchases and regular dividend growth.\nBoth companies’ boards unanimously approved the merger agreement. EagleRock’s board has recommended that its shareholders vote in favor of the transaction, while no vote of Texas Pacific Land shareholders is required.\nEagleRock equity holders representing more than 50% of its outstanding voting power, including Double Eagle, have entered into voting and support agreements supporting the merger. Those shareholders are also subject to staggered lock-up arrangements extending through 12 months after closing.\nThe acquisition is expected to close during the first half of 2027, subject to EagleRock shareholder approval, expiration or termination of the applicable Hart-Scott-Rodino antitrust waiting period and other customary closing conditions.\nThe transaction is intended to be tax-free to EagleRock shareholders and operating company unitholders for U.S. federal income tax purposes.\nEvercore is serving as exclusive financial advisor to Texas Pacific Land, with Sidley Austin LLP and Haynes Boone, LLP providing legal counsel.\nGoldman Sachs & Co. LLC is serving as exclusive financial advisor to EagleRock, while Vinson & Elkins LLP is providing legal counsel.",
+      "text_status": "ok"
+    },
+    {
+      "id": "a5d1f7c40a68",
+      "title": "How Helsinki is selling the whole Nordics, and Finland’s startups are the proof",
+      "publisher": "Sofia Chesnokova",
+      "link": "https://techfundingnews.com/finland-startup-ecosystem-late-stage-capital-slush-2026/",
+      "published_at": "2026-11-23T08:47:07.000Z",
+      "publisher_url": null,
+      "snippet": "With a population of 5.6 million, Finland’s startup ecosystem is tracking toward roughly $2.2 billion in venture funding…",
+      "source_feed": "techfundingnews",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 2200000000,
+        "currency": "USD",
+        "raw": "$2.2 billion"
+      },
+      "company_guess": "How Helsinki is selling",
+      "group_key": "how helsinki is selling",
+      "group_rank": 0,
+      "resolved_url": "https://techfundingnews.com/finland-startup-ecosystem-late-stage-capital-slush-2026/",
+      "text": "November 23, 2026\nDatabricks eyes $225B valuation in new funding talks, 18% above its August round: Report\nby Abhinaya Prabhu",
+      "text_status": "thin"
+    },
+    {
+      "id": "3d8b0926f8ba",
+      "title": "Report: Devin maker Cognition in talks to raise $2B+ at $75B valuation, two months after $48B round",
+      "publisher": "Abhinaya Prabhu",
+      "link": "https://techfundingnews.com/report-devin-maker-cognition-in-talks-to-raise-2b-at-75b-valuation-two-months-after-48b-round/",
+      "published_at": "2026-11-23T09:32:22.000Z",
+      "publisher_url": null,
+      "snippet": "Cognition, the AI startup behind autonomous software engineering agent Devin, is in talks to raise $2 billion or…",
+      "source_feed": "techfundingnews",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 2000000000,
+        "currency": "USD",
+        "raw": "$2B"
+      },
+      "company_guess": "Devin maker",
+      "group_key": "devin maker",
+      "group_rank": 0,
+      "resolved_url": "https://techfundingnews.com/report-devin-maker-cognition-in-talks-to-raise-2b-at-75b-valuation-two-months-after-48b-round/",
+      "text": "November 23, 2026\nDatabricks eyes $225B valuation in new funding talks, 18% above its August round: Report\nby Abhinaya Prabhu",
+      "text_status": "thin"
+    },
+    {
+      "id": "e23274b9d021",
+      "title": "Sierra Raises $1.75B in Series F Funding at $30B Valuation",
+      "publisher": "Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFFVUE04a3hYSG5TYlNFNHIzdjE2VXhOazBFSFJSbVd4Y3ZheUNUMHdENmVHV3pQZjRPTWNobzBCeUtUYWVmenVQUGFIVmNQYzlSelk1aHV1eEtQTmZhb2dIMVhRYU9iVUR2S0NZS3BZajAwSkNnWkJDb2RMekFXZi1ZMGw?oc=5",
+      "published_at": "2026-11-23T12:27:03.000Z",
+      "publisher_url": "https://www.unite.ai",
+      "snippet": "Sierra Raises $1.75B in Series F Funding at $30B Valuation Unite.AI",
+      "source_feed": "gnews-g3",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 1750000000,
+        "currency": "USD",
+        "raw": "$1.75B"
+      },
+      "company_guess": "Sierra",
+      "group_key": "sierra",
+      "group_rank": 0,
+      "resolved_url": "https://www.unite.ai/sierra-raises-1-75b-in-series-f-funding-at-30b-valuation/",
+      "text": "Funding\nSierra Raises $1.75B in Series F Funding at $30B Valuation\nPublished\nNovember 23, 2026\nBy\nEvan Mercer, AI Startups & Venture Capital AI Research Agent\nAdd Unite.AI to your preferred sources on Google\nKey Points Sierra's outcome-based pricing ties revenue to delivered results but makes margins…\nView more\nSierra's outcome-based pricing ties revenue to delivered results but makes margins sensitive to execution failures.\nGhostwriter lets teams define goals and guardrails while the system builds tests and deploys agents.\nSierra's constellation-of-models architecture routes tasks across 15 or more models to optimize latency and quality.\nSierra announced on November 23, 2026 that it is raising $1.75 billion in Series F funding at a $30 billion valuation, in a round led by Greenoaks and Lightspeed Venture Partners. The company builds AI agents that handle customer interactions and carry out business tasks for large enterprises.\nThe terms follow Sierra’s May 4, 2026 announcement that it was raising $950 million, led by Tiger Global and GV, at a valuation above $15 billion. Benchmark, Sequoia, Greenoaks, GV and Tiger Global are participating again after previously serving as lead investors.\nEnterprise Growth Behind the Round\nSierra reported on October 30, 2026 that annual recurring revenue (ARR) had passed $400 million, including more than $150 million added in the third quarter. That quarterly addition exceeded the ARR it added during the entire prior year.\nThe company said ARR took six months to double from $100 million to $200 million, then five months to double from $200 million to $400 million.\nCustomer adoption has accompanied that growth. Sierra reported working with more than 40% of the Fortune 50 in May and almost 50% by the October update. The latter disclosure also described a large US retailer with more than $40 billion in revenue going from its first meeting with Sierra to a live agent in 27 days.\nThe May announcement supplied further deployment measures: Nordstrom launched its Nora voice agent in five weeks; Singtel launched in 10 weeks with resolution rates above 70%; and Cigna entered production in eight weeks while reducing patient-authentication time by 80%.\nOutcome Pricing and Its Constraints\nSierra’s outcome-based pricing charges for results such as a resolved problem, originated loan, paid insurance claim or retained subscriber, rather than basing its core model on seats, tokens or usage. The company says this aligns its incentives with customers’ business results, while making attrition and margin more directly sensitive when promised results are not delivered.\nSierra also describes the approach as more complex operationally, contractually and for accounting than seat- or consumption-based pricing. It works only when software is highly autonomous and the outcome can be cleanly attributed to it; Sierra retains consumption-style pricing where that better fits the problem.\nGhostwriter and the Model Architecture\nGhostwriter sits above that pricing model. Sierra says teams define goals and guardrails, and the system builds, tests and deploys agents. A September 28, 2026 update made Ghostwriter proactive inside Slack and Teams: it can review customer conversations, recommend changes and experiments, monitor results and identify when those results are statistically significant.\nSierra says its constellation-of-models architecture assembles agents from 15 or more frontier, open-weight and proprietary models, selecting different models for tasks such as low-latency tool calling, classification, long-context reasoning and tone. Its Agent OS orchestrates those tasks, applies supervisors for guardrails and quality checks, and tracks provider latency, errors and timeouts so traffic can fail over to healthier models when a provider degrades.\nThe financing ultimately ties Sierra’s growth story to execution: rapid deployments supply the customer base, while its pricing model requires agents to operate autonomously and produce clearly attributable results.\nEvan Mercer · AI Startups & Venture Capital AI Research Agent\nFollow\nEvan Mercer is an AI-generated research agent at Unite.AI , covering AI startups, venture capital, and the funding dynamics shaping the next generation of technology companies. His reporting focuses on early-stage innovation, capital flows, and the strategic decisions founders and investors make as AI companies scale from concept to global impact.\nWith a strategic and analytical lens, Evan examines funding rounds, market positioning, and emerging trends across the AI startup ecosystem. He tracks how venture capital, corporate investment, and public markets intersect with breakthroughs in artificial intelligence, separating durable signals from short-term hype.\nArticles authored by Evan Mercer are AI-generated and reviewed by Unite.AI’s editorial team to ensure accuracy, context, and responsible coverage of the global AI investment landscape\nDiscover More\nMarlowe Raises $277M Seed to Build Multi-Silicon AI Factories\nArm CEO Rene Haas Extends Tenure with New SoftBank Leadership Role\nWalmart Enables Muse Shopping Through Its Agent Gateway\nZ.ai’s GLM-5.4 Uses Iterative Depth Without Adding Parameters\nAgon Raises $70M Series A at $450M Valuation to Build Defence AI Lab\nCoprod Raises $6M Pre-Seed to Bring Modular Robot Hardware to Market",
+      "text_status": "ok"
+    },
+    {
+      "id": "c7d57013c2f3",
+      "title": "India’s AI funding nearly doubles to $1.6 billion, but a handful of deals drive the surge: Report",
+      "publisher": "Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObS1IRFlpMW12dUI2VlpKQjY2c0M4VWtiUHZ5azF5emkyWTRTbi10dm1YUGoxdUJTSW1ZOENxMEZsM201MzFBU0RsRkNGV2FIUnJTc0o3M1REY0hfaHlfM3AzbTQzZ2FXQTVmNlZZRl9XbVRwRTNQRVZ3c3MtX3BDNWVXVXZZVTg1T2pCLVg0MnVKYkNMZ25qRXhsa0FpWS1DeGh5Y29OS1lSem55WVlxOVVJT0JrbGxVUEFOXzlmRTN2VDZyWnVSWC1uLThNbEo1STIzN3Jfclh6QnVUd2lEclBJaXZlRjjSAecBQVVfeXFMTm0tSERZaTFtdnVCNlZaSkI2NnNDOFVrYlB2eWsxeXppMlk0U24tdHZtWFBqMXVCU0ltWThDcTBGbDNtNTMxQVNEbEZDRldhSFJyU3NKNzNURGNIX2h5XzNwM200M2dhV0E1ZjZWWUZfV21UcEUzUEVWd3NzLV9wQzVlV1V2WVU4NU9qQi1YNDJ1SmJDTGduakV4bGtBaVktQ3hoeWNvTktZUnpueVlZcTlVSU9Ca2xsVVBBTl85ZkUzdlQ2clp1Ulgtbi04TWxKNUkyMzdyX3JYekJ1VHdpRHJQSWl2ZUY4?oc=5",
+      "published_at": "2026-11-23T08:19:43.000Z",
+      "publisher_url": "https://www.fortuneindia.com",
+      "snippet": "India’s AI funding nearly doubles to $1.6 billion, but a handful of deals drive the surge: Report Fortune India",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 1600000000,
+        "currency": "USD",
+        "raw": "$1.6 billion"
+      },
+      "company_guess": "India’s AI",
+      "group_key": "indias",
+      "group_rank": 0,
+      "resolved_url": "https://www.fortuneindia.com/amp/story/startups-news/indias-ai-funding-nearly-doubles-to-16-billion-but-a-handful-of-deals-drive-the-surge-report/171774",
+      "text": "Sign In\nMy Account\nPodcast\nHome\nAll Magazines\nRankings\nCreator of the Month Fortune 500 India Most Powerful Women India's Top 100 Billionaires The Emerging Companies The Next 500 Forty Under Forty Best B-Schools MNC 500 India's Most Valuable Celebrities\nProfiles\nCompanies People\nMarkets\nCryptocurrency IPO Stock Market\nPersonal Finance\nMutual Funds Banking\nExplainers\nNews\nBusiness Economy Opinion Technology Auto Lifestyle States Startups Real Estate India World\nLong Reads\nFirst Edit\nExchange\nMedia\nVideos Short Videos Visual Stories\nBuy on Amazon\nMagazine Annual Subscription\nHighlights\nIndia’s AI funding nearly doubles to $1.6 billion, but a handful of deals drive the surge: Report\nTamanna Mohanty\nNovember 23, 2026, 13:49 IST / 4 min read\nAI Hub\nhttps://www.fortuneindia.com/startups-news/indias-ai-funding-nearly-doubles-to-16-billion-but-a-handful-of-deals-drive-the-surge-report/171774 Link Copied!!\nIndian AI companies raised $1.6 billion in equity funding between January and September 2026, a 96% increase from the $822 million raised in the corresponding period last year, according to Tracxn’s latest report.\nCredits: Getty Images\nSet Fortune India ✓ As Preferred on Google Proceed\nAI Hub\n×\n{{#hasTopic}}\nAI Generated by Fortune India\n{{topic}} November 23, 2026, 13:49 IST\nhttps://www.fortuneindia.com/startups-news/indias-ai-funding-nearly-doubles-to-16-billion-but-a-handful-of-deals-drive-the-surge-report/171774?aihub=true Link Copied!!\n{{/hasTopic}}\n{{#hasInTheStory}}\nIn the story {{#inTheStory}}\n{{name}} {{rankType}} {{rankYear}} {{/inTheStory}}\n{{/hasInTheStory}} {{#hasSummary}}\nSummary\n{{summary}} {{/hasSummary}} {{#hasKeyTakeaways}}\nKey Takeaways {{#key_takeaways}}\n{{.}} {{/key_takeaways}} {{/hasKeyTakeaways}} {{#hasTimeline}}\nTimeline\n{{#timeline}}\n{{date}}\n{{event}}\n{{description}} {{/timeline}} {{/hasTimeline}} {{#hasFaqs}}\nFrequently Asked Questions\n{{#faqs}}\nQ. {{question}}\nA. {{answer}} {{/faqs}} {{/hasFaqs}}\n{{#hasGlossary}}\nFirst Principles\n{{#glossary}}\n{{term}}\n{{definition}} {{/glossary}}\n{{/hasGlossary}}\n{{#hasTweets}}\nSocial Reactions\n{{#tweets}} {{/tweets}}\n{{/hasTweets}}\nDisclaimer: Certain content on this page, including summaries, timelines, FAQs, glossaries, highlights, insights, and other supplementary informational features, maybe generated or assisted by artificial intelligence tools. While reasonable efforts are made to review and verify such content, AI generated output may occasionally contain errors, omissions or inconsistencies. Readers are advised to independently verify any information before relying upon them for professional, legal, financial, medical or other decisions. The publisher along with its affiliates and contributors do not warrant accuracy of AI-generated content and disclaim any liability, loss or damage arising from its use.\nIndia’s artificial intelligence (AI) funding has nearly doubled in 2026, but the sharp rise in investment has not necessarily translated into a wider pool of startups attracting capital. Instead, a handful of large funding rounds have accounted for most of the money flowing into the sector, even as the overall number of deals has declined.\nEverything you need to know about this story Summary, key takeaways, timeline, glossary and FAQs — all in one place.\nADVERTISEMENT\nIndian AI companies raised $1.6 billion in equity funding between January and September 2026, a 96% increase from the $822 million raised in the corresponding period last year, according to Tracxn’s latest report. The funding was also 162% higher than the $616 million raised in the first nine months of 2024, making it the highest total for any corresponding nine-month period since 2019.\nThe rise in funding has not translated into more deals for India's AI startups. In fact, the number of funding rounds fell 42% to 87 in the first nine months of 2026, from 149 a year ago. What changed was the size of the cheques. The average deal value climbed to $18.5 million from $5.5 million, indicating that investors are putting substantially more money into a smaller pool of companies.\nADVERTISEMENT\nA closer look at the deals shows just how concentrated the funding has been. The 10 largest rounds together brought in $1.5 billion, accounting for 90% of the total raised by Indian AI companies. Neysa, a Mumbai-based AI cloud provider, led the pack with its $600 million Series B in February. The round alone made up 37% of all AI funding during the period and contributed 76% of the increase in funding over the year-ago period. Sarvam, the Bengaluru-based generative AI startup, was another major recipient, raising $255 million in a Series B in June and a further $90.4 million in August. Yotta also secured $150 million in a Series D round in July.\nThe flip side of these large transactions is that fewer companies are getting funded. The number of startups receiving funding for the first time dropped 60% to 24, compared with 60 in the first nine months of 2025. Series A and later-stage deals also became fewer, falling 33% to 24 from 36.\nTop Videos Watch More\nGoing Against the Crowd: How Contra Investing Actually Works | Money Matters\nFortune India: Eco Wrap | India’s inflation hits 6.09% as exports touch record high\nIndia's digital advantage and the future of Airtel\nEarly-stage cheques get bigger, but seed funding loses ground\nEarly-stage investments were the biggest contributor to the funding increase. Startups in this category raised $1.3 billion during the nine-month period, compared with $434 million a year earlier. As a result, early-stage deals accounted for 78% of total AI funding, up from 53% in 9M 2025. But the increase in money did not mean more startups were receiving it. The number of early-stage rounds actually fell 38% to 21. The average deal size, meanwhile, shot up to $60.2 million from $12.8 million.\nLate-stage funding saw a smaller increase, rising 4% to $280 million across three rounds. Seed-stage companies had a more difficult run, with funding falling 42% to $",
+      "text_status": "ok"
+    },
+    {
+      "id": "697d494aeaec",
+      "title": "India’s AI funding nearly doubles to $1.6 billion, but a handful of deals drive the surge: Report",
+      "publisher": "Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN0JpR3J1X21Tc3haYy1YWXJpVVpFSnRTQ0lCQU4xTGViRjFVOWJBVl9uYVlGenpBQmRfNFdTVkZsYkxEbV80bVNxQUJIQjJhbExqWUMyLTdZZlc5WTJJUV9FNG5Mc0dHWXViU3d2UnpKUFNuS0twd0NfRVdRTHJ0a1NwYThVSV9BWHhsaE9PMnpMaDIwcjRIRk5pQmVnTEs4NExpbDdDeUxGYk05M09JLVRod3VuMVA1YkkzMWRkdzgwdGpGWWlWZnJxRGRMTm1LcHFCanVYVV9FQdIB5wFBVV95cUxObS1IRFlpMW12dUI2VlpKQjY2c0M4VWtiUHZ5azF5emkyWTRTbi10dm1YUGoxdUJTSW1ZOENxMEZsM201MzFBU0RsRkNGV2FIUnJTc0o3M1REY0hfaHlfM3AzbTQzZ2FXQTVmNlZZRl9XbVRwRTNQRVZ3c3MtX3BDNWVXVXZZVTg1T2pCLVg0MnVKYkNMZ25qRXhsa0FpWS1DeGh5Y29OS1lSem55WVlxOVVJT0JrbGxVUEFOXzlmRTN2VDZyWnVSWC1uLThNbEo1STIzN3Jfclh6QnVUd2lEclBJaXZlRjg?oc=5",
+      "published_at": "2026-11-23T08:19:43.000Z",
+      "publisher_url": "https://www.fortuneindia.com",
+      "snippet": "India’s AI funding nearly doubles to $1.6 billion, but a handful of deals drive the surge: Report Fortune India",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 1600000000,
+        "currency": "USD",
+        "raw": "$1.6 billion"
+      },
+      "company_guess": "India’s AI",
+      "group_key": "indias",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "3884ab651197",
+      "title": "India's AI funding jumps 96% to $1.6 billion, but deals fall 42%: Tracxn",
+      "publisher": "BMI",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVHpVUGRZSEo3SWVtS0VrUkppV0g2TkdxUTM3ZnQyTXNKWFRXOUQtRjFrVzB4UUt2bktGcFQ1TEdrWl9TSmpHZ0U5MnF4WGU4cU54T0ZUcFpEUzdhcGVDaWZvWFc4WG94d0VtMEJqai00cFp3amRYZ1F4UEh6YUY4OHdmLWdTc05fd3l4UmIxeUFXcU15M2E3bm8yWUdwVUFjZEZ0YkREWG5hVlRGRFUzNE9nbHBoa2ZXTU05MjlFWnZ6N0NjdWw00gHHAUFVX3lxTFBUelVQZFlISjdJZW1LRWtSSmlXSDZOR3FRMzdmdDJNc0pYVFc5RC1GMWtXMHhRS3ZuS0ZwVDVMR2taX1NKakdnRTkycXhYZThxTnhPRlRwWkRTN2FwZUNpZm9YVzhYb3h3RW0wQmpqLTRwWndqZFhnUXhQSHphRjg4d2YtZ1NzTl93eXhSYjF5QVdxTXkzYTdubzJZR3BVQWNkRnRiRERYbmFWVEZEVTM0T2dscGhrZldNTTkyOUVadno3Q2N1bDQ?oc=5",
+      "published_at": "2026-11-23T10:39:06.000Z",
+      "publisher_url": "https://bestmediainfo.com",
+      "snippet": "India's AI funding jumps 96% to $1.6 billion, but deals fall 42%: Tracxn BMI",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 1600000000,
+        "currency": "USD",
+        "raw": "$1.6 billion"
+      },
+      "company_guess": "India's AI",
+      "group_key": "indias",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "326f0c24df50",
+      "title": "India Digest: Tanglin backs Matters.AI; Ionic Wealth raises funding from parent",
+      "publisher": "DealStreetAsia",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS3l4UWVLR005MzRPVWROeDlhMG0yWU5RaFNMTnNYSzluU2ZVa3BERjZhbWVETkJwRXZBaUlzSkV0bVRzMFV0QXN2a0luUVdPeERfZTBITkJJOE9JeURHVExnYlN2R2xnOUctVVhVRHg0NTEwWU9vbjN1Q0lyZURUbkc1VQ?oc=5",
+      "published_at": "2026-11-23T10:16:26.000Z",
+      "publisher_url": "https://www.dealstreetasia.com",
+      "snippet": "India Digest: Tanglin backs Matters.AI; Ionic Wealth raises funding from parent DealStreetAsia",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "India Digest: Tanglin backs",
+      "group_key": "india digest tanglin backs",
+      "group_rank": 0,
+      "resolved_url": "https://www.dealstreetasia.com/stories/tanglin-matters-ai-ionic-wealth-501922",
+      "text": "Matters.AI has raised about Rs 115 crore ($12 million) in a pre-Series A funding round led by Tanglin Venture Partners, while Ionic Wealth has secured strategic funding from its parent company and a group of family offices.\nTanglin backs Matters.AI\nMatters.AI, which is building an AI security engineer for data, has raised about Rs 115 crore ($12 million) in a pre-Series A funding round led by Tanglin Venture Partners, per an announcement.\nIIFL Fintech Fund, Piper Serica’s Bharat Tech Fund, Foster Ventures and Tetration Ventures also participated, alongside existing investors Kalaari Capital and Endiya Partners.\nThe latest round takes the company’s total funding to about Rs 175 crore ($18.25 million).\nAI agents now read, copy and move enterprise data with the permissions of the employees who run them. Most data security tools show where sensitive data sits. They do not show who or what is using it, or why, so security teams connect alerts from separate tools by hand before they can respond.\n“Security teams don’t need another tool telling them something might be wrong. They need a system that understands the problem, investigates it, and takes action,” said Keshava Murthy, Co-Founder and CEO of Matters.AI, in a statement.\nIonic Wealth raises funding from parent\nIonic Wealth, the wealth management platform backed by Angel One, has raised Rs 177 crore in strategic funding from its parent company and a group of family offices.\nThe fundraise takes the platform’s total funding to Rs 466 crore, Angel One said in a media statement.\nIonic Wealth claims to have crossed Rs 16,000 crore in assets under management (AUM), with a combined high-net-worth individual (HNI) and ultra-high-net-worth individual (UHNI) client base of more than 2,900 across over 12 cities. The platform has a team of more than 100 private bankers and has achieved this scale within two years of operations.\nThe company plans to use the funding to strengthen its portfolio-led offerings and global capabilities, integrate AI into its wealth-tech platform, scale its UHNI business and expand its presence in India and overseas.\n“This strategic investment validates our vision of building a new-age wealth platform at the intersection of domain expertise and technology,” said Srikanth Subramanian, Co-founder and CEO of Ionic Wealth, in a media statement.",
+      "text_status": "ok"
+    },
+    {
+      "id": "e887c230189d",
+      "title": "India AI funding nearly doubles to record $1.6 billion in Jan-Sep: Report",
+      "publisher": "IANS LIVE",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUWwzcE1qRUduUXprR0U5Y1ByRjZBcVEtdkx3ZWpiVDNJTGs1M2l6SW01Vi1UN2tlWVhEM3l4cGhvQXoyNzBOa29MVWlZdUk1RUZtZWVkbmlTMy15Qnd5blpLVTBESVQxbmVHOWxZQWdiV09wa01hVHJrb1JwX3dHaDRhZEtBZ2hZMnUwVDA5T1ZXby1lOHE0QlY2NWpMUjFGS3IySzh4RFpqZw?oc=5",
+      "published_at": "2026-11-23T09:10:00.000Z",
+      "publisher_url": "https://ianslive.in",
+      "snippet": "India AI funding nearly doubles to record $1.6 billion in Jan-Sep: Report IANS LIVE",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 1600000000,
+        "currency": "USD",
+        "raw": "$1.6 billion"
+      },
+      "company_guess": "India AI",
+      "group_key": "india digest tanglin backs",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "76a7eda45285",
+      "title": "India AI funding nearly doubles to USD 1.6 billion in Jan-Sept 2026: Tracxn",
+      "publisher": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONmthMERzdExCemNMZ0l5WHN1RUpMTkw3VWw4UUxaWWpDYmdsaTJmUnpKVWtpTGFudGJLM2IydUQtdGpNVjhtczJmMjhSdlBBMVNzTERxTWJpRFZKQ1RiQWt1Nk5qV3B4X0lmMDVCalBrNWljNWRzQlBSWjhoQlhEWnM1Qzhvck9DVk9FaV9rTHlCckJjVVFsTDBGX1AzdXlSUHpOeGNONjZUMm1MeVRxNXd5bVRMNlZxRzdjSTU5a1NvVEVGcXlGMk1rbEhaQlZvZDZDOW02NkpjRGJBQXVaSkZaMVA2NDFBaldxQ3Nn0gHzAUFVX3lxTE9qdEhQSzZ1S01aWW5BNDUwWmlVTHV4bmxEaDM0MXd3U2NUVmhTdWc3Ri1Wemp1ZjA1Z0paak82OWgzdHcxVEdUZVVFUjlNYmVZSnJJYUFKaW5MaTR0NExteXlSUGItUktjX3l1eHh4Z2s2bE1jMTN3Q0draXZNZlNJVDBoSHI2bUFtT00yNXRjTzZ0MlhMNFBrMGNOSldsQUNfa0lzUmFQMW5VNzQ0RXcxMkFONm9URHlhczRPYnN0YmpQaFNoQU9Oc3ZmSUpEdW5adDRHZGE5dXFqMmMzWTdzeVpOTVVBS3hKV2dlNEFrN01FVQ?oc=5",
+      "published_at": "2026-11-23T12:24:49.000Z",
+      "publisher_url": "https://m.economictimes.com",
+      "snippet": "India AI funding nearly doubles to USD 1.6 billion in Jan-Sept 2026: Tracxn The Economic Times",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 1600000000,
+        "currency": "USD",
+        "raw": "USD 1.6 billion"
+      },
+      "company_guess": "India AI",
+      "group_key": "india digest tanglin backs",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "f48f2abe1e6e",
+      "title": "India AI Startups Raise $1.6 Bn In Nine Months, Highest Since 2019",
+      "publisher": "BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUThOZElDbTEzQllIV3RtUWxVUWNwSklfY0JHaDhPT2I5RTdBWWRlOTRoTlBHV08wX3NlZExqMkVDc09CVVRJNWt3aDFJRUJ3WWItaTNoMGhBQlVoYWVJUHJhbHhzZzktd1ZteUxvNWtEcXFfc0hPdWhGNm9fU2lndk5ZeVVqQllOdElrNl9ReG0zWWJpREljMlNMSFFqYVRLVnRQNWhKNXU3OUJG?oc=5",
+      "published_at": "2026-11-22T23:30:05.000Z",
+      "publisher_url": "https://www.businessworld.in",
+      "snippet": "India AI Startups Raise $1.6 Bn In Nine Months, Highest Since 2019 BW Businessworld",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 1600000000,
+        "currency": "USD",
+        "raw": "$1.6 Bn"
+      },
+      "company_guess": "India AI",
+      "group_key": "india digest tanglin backs",
+      "group_rank": 3,
+      "text_status": "skipped"
+    },
+    {
+      "id": "ea3a8d32a644",
+      "title": "India AI funding hits $1.6 billion in 9 months 2026, up 96% YoY",
+      "publisher": "Storyboard18",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNlJGeS1Iak80WWFybXlWQkVVaVVETVdiNGhkX0R5eFNzV1cxc2lXdTFHQ2t3c0hvY19wcXJKQWdfU2haUk5wV3YxQ3FEZmVCaEw3MGVhZ2l5Z2NWTlNEekpaTnhMRkVHVVh1dWpwdjdweFAwM05PamJVckNSOGdwNkpnZFhmUlNCaW5VZkRiLXpzVDR1MkxBazFXZzFNb2NYeU5RYldlcERmYU5nT0FXdGpBenh6V2vSAbcBQVVfeXFMTTZSRnktSGpPNFlhcm15VkJFVWlVRE1XYjRoZF9EeXhTc1dXMXNpV3UxR0Nrd3NIb2NfcHFySkFnX1NoWlJOcFd2MUNxRGZlQmhMNzBlYWdpeWdjVk5TRHpKWk54TEZFR1VYdXVqcHY3cHhQMDNOT2piVXJDUjhncDZKZ2RYZlJTQmluVWZEYi16c1Q0dTJMQWsxV2cxTW9jWHlOUWJXZXBEZmFOZ09BV3RqQXp4eldr?oc=5",
+      "published_at": "2026-11-23T11:01:01.000Z",
+      "publisher_url": "https://www.storyboard18.com",
+      "snippet": "India AI funding hits $1.6 billion in 9 months 2026, up 96% YoY Storyboard18",
+      "source_feed": "gnews-5",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 1600000000,
+        "currency": "USD",
+        "raw": "$1.6 billion"
+      },
+      "company_guess": "India AI",
+      "group_key": "india digest tanglin backs",
+      "group_rank": 4,
+      "text_status": "skipped"
+    },
+    {
+      "id": "fe8fa786f34c",
+      "title": "Top Tech News: Nano Core Raises USD 1 Billion, Akash Launches GPU Marketplace",
+      "publisher": "Analytics Insight",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTRuTnc0QUIzVWxUWG1YckdPbzZKOTl0WGNlY0dfckN2RnYzQ2lLR1BXWmgxaTRPLU5oTWdmWHVpaTF0YVMxZ2xwbmNDYVktQXpzRENHSjVjbUhiQnNDaUlvMkY1QmxTZEZlOFAwaUJNUEVsbGFRZlZhNW1iYnA5ZlBoT3dCY3lCeHpXMnpxVm42c0JLSUsybUY1cFFPWUt5c21IRGUtbEhWZ3ZCWTlkUjZBNVQySUtka2hqRXNRUUhXZTBfSkRn0gHHAUFVX3lxTE9ZNG5OdzRBQjNVbFRYbVhyR09vNko5OXRYY2VjR19yQ3ZGdjNDaUtHUFdaaDFpNE8tTmhNZ2ZYdWlpMXRhUzFnbHBuY0NhWS1BenNEQ0dKNWNtSGJCc0NpSW8yRjVCbFNkRmU4UDBpQk1QRWxsYVFmVmE1bWJicDlmUGhPd0JjeUJ4elcyenFWbjZzQktJSzJtRjVwUU9ZS3lzbUhEZS1sSFZndkJZOWRSNkE1VDJJS2RraGpFc1FRSFdlMF9KRGc?oc=5",
+      "published_at": "2026-11-23T07:18:05.000Z",
+      "publisher_url": "https://www.analyticsinsight.net",
+      "snippet": "Top Tech News: Nano Core Raises USD 1 Billion, Akash Launches GPU Marketplace Analytics Insight",
+      "source_feed": "gnews-7",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 1000000000,
+        "currency": "USD",
+        "raw": "USD 1 Billion"
+      },
+      "company_guess": "Top Tech News: Nano",
+      "group_key": "top tech news nano",
+      "group_rank": 0,
+      "resolved_url": "https://www.analyticsinsight.net/amp/story/tech-news/top-tech-news-nano-core-raises-usd-1-billion-akash-launches-gpu-marketplace",
+      "text": "X\nLatest News\nBusiness\nIndustry >\nAviation <\nInsights >\nBig Data\nBusiness Analytics\nBusiness Intelligence\nCoding\nVisualization <\nGeographies >\nAsia\nCanada\nChina\nEurope\nIndia\nIsrael\nJapan\nMEA\nNorth America\nRussia\nSingapore\nUnited Kingdom\nUnited States <\nAbout Us\nConnect >\nAdvertise Units\nCareers\nContact Us <\nPodcast\nReports\nWhite Papers\nGlossary\nTutorials\nTech News\nTop Tech News: Nano Core Raises USD 1 Billion, Akash Launches GPU Marketplace\nChinese AI chip startup Nano Core has secured over RMB 1 billion in fresh funding, while Akash has introduced a new marketplace for future GPU computing capacity.\nWritten By : Akshita Pidiha\nReviewed By : Vijay Laxmi\nPublished: 23rd Nov, 2026 at 12:06 PM\nUpdated: 23rd Nov, 2026 at 12:06 PM\nGood morning, tech fam! Here are some quick technology updates to keep you informed about the latest developments.\nWhat’s New Today: Chinese AI chip startup Nano Core has raised over RMB 1 billion in Series C2 funding, highlighting growing investment in AI chip development.\nFast-Track Insights: Akash has launched a GPU computing marketplace that allows AI companies to secure future computing capacity at fixed prices. The platform supports Nvidia B300, H200 and RTX Pro 6000 Blackwell systems.\nHere’s a quick rundown of today's biggest technology headlines. Let's explore the latest developments in AI chips, tech funding, graduate hiring, artificial intelligence and cryptocurrency.\nAkash Launches Marketplace for Future GPU Computing Capacity\nAkash has launched Akash Forwards, a marketplace where AI firms can reserve their GPU computing power for future months at fixed prices. The service uses daily bidding and US Dollar settlement. It includes Nvidia B300, H200, and RTX Pro 6000 Blackwell. A trial version is due in Q1 2027, while a general public release will happen in Q2 2027.\nRead More\nAlkemi Growth Capital Plans USD 150 Million Third Fund\nHealthcare-focused investment firm Alkemi Growth Capital plans to raise USD 125 million to USD 150 million for its third fund. The fund will invest in healthcare startups and businesses working in medical technology, diagnostics, pharmaceuticals and preventive healthcare. The firm expects to launch the fund between March and June 2027.\nRead More\nSerentica Plans to Hire 1,000 Employees Over Next Year\nRenewable energy company Serentica plans to recruit 1,000 professionals over the next year. The hiring drive will include 500 entry-level employees, offering fresh graduates opportunities to start their careers in the clean energy sector. The company aims to strengthen its workforce and support its growing business operations.\nRead More\nUS Intelligence Chief Warns of More Tech Outages\nThe US intelligence chief has warned that more technology outages could occur as major systems undergo upgrades. The changes may cause temporary disruptions to digital services. The warning highlights the need for better system maintenance and stronger technology infrastructure to prevent service failures and protect essential operations.\nRead More\nFusionist ACE Bridge Loses USD 3.7 Million in Crypto Exploit\nThe Fusionist's ACE bridge is said to have lost USD 3.7 million to a security hack. This comes after a previous loss of USD 2 million as a result of another security hack. These losses pose threats to the security of cryptocurrencies.\nRead More\nJoin our WhatsApp Channel to get the latest news, exclusives and videos on WhatsApp\nAlso Read\nCrypto Prices Today: Bitcoin Holds Above USD 60,000, Ethereum and XRP Recover as Global Market Cap Reaches USD 2.08 Trillion 23rd Nov, 2026 at 11:35 AM\nBest Crypto Apps for Bitcoin vs Ethereum Investments in 2026: Fees, Staking and Features Compared 23rd Nov, 2026 at 8:00 AM\nChainflip Confirms USD 12 Million Vault Hack, Offers Attacker a 10% Bounty 22nd Nov, 2026 at 11:00 PM\nShiba Inu Price Rebounds Alongside Bitcoin as Net Exchange Inflows Slow 22nd Nov, 2026 at 10:00 PM\nEthereum Price Tests Support Near USD 1,650 After Five Days of Ether ETF Outflows 22nd Nov, 2026 at 9:00 PM\nAnalytics Insight is an award-winning tech news publication that delivers in-depth insights into the major technology trends that impact the markets. The content produced on this website is for educational purposes only and does not constitute investment advice or recommendation. Always conduct your own research or check with certified experts before investing, and be prepared for potential losses. Opinions expressed herein are those of the authors and not necessarily those of Analytics Insight, or any of its affiliates, officers or directors. © Analytics Insight 2026. All rights reserved.",
+      "text_status": "ok"
+    },
+    {
+      "id": "6a4f0fe24021",
+      "title": "Litmus Music Secures $475 Million From Carlyle And KKR",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/litmus-music-secures-475-million-from-carlyle-and-kkr/",
+      "published_at": "2026-11-23T05:10:44.000Z",
+      "publisher_url": null,
+      "snippet": "Litmus Music has received approximately $475 million in new capital commitments from Carlyle and investment funds managed by KKR.\nThe post Litmus Music Secures $475 Million From Carlyle And KKR appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 475000000,
+        "currency": "USD",
+        "raw": "$475 Million"
+      },
+      "company_guess": "Litmus Music",
+      "group_key": "litmus music",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/litmus-music-secures-475-million-from-carlyle-and-kkr/",
+      "text": "Litmus Music Secures $475 Million From Carlyle And KKR\nBy Amit Chowdhry\nToday at 12:10 AM\nLitmus Music Secures $475 Million From Carlyle And KKR\nLitmus Music has received approximately $475 million in new capital commitments from Carlyle and investment funds managed by KKR.\nThe financing will provide Litmus with additional flexibility to acquire music catalogs and related rights. Carlyle Global Credit, which helped establish Litmus alongside its management team in 2022, will retain a majority ownership position. KKR will join the business as a new strategic investor.\nExpanding A $1.4 Billion Music-Rights Platform\nLitmus manages approximately $1.4 billion in assets and has assembled a portfolio containing more than 100,000 copyrights and recordings.\nThe company’s portfolio includes music associated with artists and songwriters such as Katy Perry, benny blanco, Randy Newman, and Keith Urban. Litmus acquires and manages publishing rights and recorded-music rights across multiple genres, regions, and generations.\nCarlyle initially supported the launch of Litmus with a $500 million commitment consisting of equity and debt. Its latest investment came through the firm’s Credit Opportunities strategy.\nKKR is investing primarily through its Asset-Based Finance Partners II fund. Evercore served as financial advisor to Carlyle, while Latham & Watkins acted as Carlyle’s legal counsel. Kirkland & Ellis advised KKR.\nKEY QUOTES:\n“Together with Carlyle and our team, we’ve built Litmus into a scalable music rights management business rooted in trust, creativity, analysis and, above all, our passion for music. This investment marks an exciting next chapter for our company, providing meaningful additional capital to pursue new deals and accelerate growth.”\n“We’re grateful for Carlyle’s continued partnership and look forward to working with our new strategic partner, KKR.”\nHank Forsyth, Co-Founder and CEO of Litmus Music\n“At the heart of Litmus is our commitment to partnering with artists and songwriters and recognizing the enduring value of their work. With Carlyle’s continued support and KKR joining as a new investor, we’re excited to deepen those relationships, pursue new opportunities and bring more iconic music into the Litmus portfolio.”\nDan McCarroll, Co-Founder and Chief Creative Officer of Litmus Music\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "204ab2ef1d4a",
+      "title": "Crypto dealbook: November funding reaches $405.2 million as Variational leads the week",
+      "publisher": "www.tokenpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vdjNRZ1BSU2RSekc4UEN3V3pLejBJS3dmT2dVaXJwSDZuY0FjTHprV2k4T3FaNW96T043QU1GX3hMQ3Rnc05xQkxXMlhsYW85dVBSdHdpYXE?oc=5",
+      "published_at": "2026-11-23T12:22:45.000Z",
+      "publisher_url": "https://www.tokenpost.com",
+      "snippet": "Crypto dealbook: November funding reaches $405.2 million as Variational leads the week www.tokenpost.com",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 405200000,
+        "currency": "USD",
+        "raw": "$405.2 million"
+      },
+      "company_guess": "Crypto dealbook",
+      "group_key": "crypto dealbook",
+      "group_rank": 0,
+      "resolved_url": "https://www.tokenpost.com/news/business/62432",
+      "text": "Home Business 2 min read Add as a preferred source on Google\nCrypto dealbook: November funding reaches $405.2 million as Variational leads the week\nCrypto ventures have raised $405.2 million in November across 36 rounds. Variational led the latest week with a $110 million Series B.\nBy John Kim\nPublished Nov 23, 2026, 7:22 AM EST\nSave Share\nMentioned assets\nSOL Solana Data: CryptoRank · TokenPost\nCrypto ventures have raised $405.2 million in November, with Variational accounting for the largest funding round of the week at $110 million. API, payments and artificial intelligence were the leading investment categories.\nCrypto venture funding for November stands at $405.2 million.\nA total of 36 funding rounds have been recorded for the month, raising $405.2 million.\nCrypto ventures raised $1.85 billion across 52 rounds in October and $680.5 million across 53 rounds in September.\nVariational recorded the largest round of the week, raising $110 million, or 49% of weekly funding.\nNovember 16 Nomad ($30 million, Series C, Tether and others); Lart ($2.5 million, undisclosed stage, x21 Digital and others).\nNovember 17 Codex ($30 million, Series A, Pantera Capital and others); Avenia (Prev. BRLA Digital) ($25 million, Extended Series A, Faction and others); TheHUB ($4 million, seed, Valor Capital Group and others); End Close ($3.5 million, seed, Foundation Capital and others); Stables (undisclosed amount, strategic, Tether); CoinGecko (undisclosed amount and stage, Solana Foundation).\nNovember 18 Variational ($110 million, Series B, Bain Capital Crypto and others); Global MPC ($7.5 million, strategic, Paul Taylor and others); Null ($1.7 million, pre-seed, cyber Fund and others).\nNovember 19 MetaComp ($10 million, Pre-Series A, Further Ventures and others); SCRYPT Digital (undisclosed amount, strategic, Tether).\nThe investment activity index fell 34% from the previous month over the latest 30-day period. Both the number of rounds and total funding declined.\nThere were 57 funding rounds during the period, down 13.64% from the previous month. Total investment fell 9.47% to $1.65 billion.\nAverage round sizes ranged from $3 million to $10 million, and strategic investments were the most active stage. API was the leading area of investment focus.\nOver the past six months, API accounted for 29.13% of investment focus, followed by payments at 23.04%, artificial intelligence at 19.57%, real-world assets at 15.22% and developer tools at 13.04%.\nThe most active investors over the same period included YZi Labs (Prev. Binance Labs) with 28 investments, Coinbase Ventures with 26, Tether with 11, Circle and SBI Holdings with 10 each, MH Ventures with nine and Maven 11 Capital with eight.\nJohn Kim\nJohn Kim reports on the digital-asset business for TokenPost. Send corrections or tips to info@tokenpost.com. Payments API Variational Crypto Venture Capital Funding rounds\nJoin the discussion Back to top",
+      "text_status": "ok"
+    },
+    {
+      "id": "237033f57b28",
+      "title": "Tamara secures $400 million from MUFG and Standard Chartered as lending business grows",
+      "publisher": "FWDStart",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcDlBd2VYa3Z1QUVCY3RDTnppR2ZBbG1wOWEzN0ZkWW44Y0JzRzF3SFk5QVIzSGJJQWZ3bklOOEtCMHdya0RIRVFjU3MwSFE3dnpodmg0V1ZiRW10NHRXR3dKdno1NVZaR3dSQU5kVzI5bkNOZzJJMG5zX3RMNzZrRy14WHk2dmUtSWZyQ1VseVdlVW9IMmF6RzU2eHdaUjQ1Z25HN3g0X25pUGJ5OGI5ag?oc=5",
+      "published_at": "2026-11-23T09:15:19.000Z",
+      "publisher_url": "https://www.fwdstart.me",
+      "snippet": "Tamara secures $400 million from MUFG and Standard Chartered as lending business grows FWDStart",
+      "source_feed": "gnews-g6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 400000000,
+        "currency": "USD",
+        "raw": "$400 million"
+      },
+      "company_guess": "Tamara",
+      "group_key": "tamara",
+      "group_rank": 0,
+      "resolved_url": "https://www.fwdstart.me/p/tamara-secures-400-million-from-mufg-and-standard-chartered-as-lending-business-grows",
+      "text": "👉 Before it’s everywhere, it’s in FWDstart. Subscribe for $99 and save 17% on the first year to support independent reporting on the MENA tech and startup ecosystem",
+      "text_status": "thin"
+    },
+    {
+      "id": "e9f10efde1b8",
+      "title": "Tamara Secures USD 400M in Asset-Backed Financing from MUFG & Standard Chartered",
+      "publisher": "waya.media",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOGxnZTM3dnR3c1JjUWpja2tOT0gzNm10dDJJTGg0RUc2aGtxUm9aMmF6Q2UtRVVJSnpkUVlIM3RKYzlXUjdfVXBQNHJxWEpYdHRvMDBjNlA1MXhfUm5ienNCcDJHaVhrYk1Ea3VyQkMtNW5tWVZzSHNnWEZYb2dhbVJ2Q1JUdWR3anV0d2lPRlRoWFBDclRmVmtkdjZxZnM?oc=5",
+      "published_at": "2026-11-23T09:16:45.000Z",
+      "publisher_url": "https://waya.media",
+      "snippet": "Tamara Secures USD 400M in Asset-Backed Financing from MUFG & Standard Chartered waya.media",
+      "source_feed": "gnews-g6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 400000000,
+        "currency": "USD",
+        "raw": "USD 400M"
+      },
+      "company_guess": "Tamara",
+      "group_key": "tamara",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "b35def0ce5a4",
+      "title": "Draper Receives $315.7 Million For Trident II Guidance Engineering",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/draper-receives-315-7-million-for-trident-ii-guidance-engineering/",
+      "published_at": "2026-11-23T05:36:00.000Z",
+      "publisher_url": null,
+      "snippet": "The U.S. Navy has awarded Draper a $315.7 million contract modification for specialized engineering support related to the Trident II D5 Strategic Weapons System.\nThe post Draper Receives $315.7 Million For Trident II Guidance Engineering appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 315700000,
+        "currency": "USD",
+        "raw": "$315.7 Million"
+      },
+      "company_guess": "Draper",
+      "group_key": "draper",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/draper-receives-315-7-million-for-trident-ii-guidance-engineering/",
+      "text": "Draper Receives $315.7 Million For Trident II Guidance Engineering\nBy Amit Chowdhry\nToday at 12:36 AM\nDraper Receives $315.7 Million For Trident II Guidance Engineering\nThe U.S. Navy has awarded Draper a $315.7 million contract modification for specialized engineering support related to the Trident II D5 Strategic Weapons System.\nThe cost-plus-fixed-fee modification adds work to contract N0003024C6001. It primarily covers engineering services associated with the missile system’s guidance subsystem, which supports navigation and accuracy throughout flight.\nStrategic Weapons Engineering Support\nApproximately 70% of the work will be performed in Cambridge, Massachusetts, while another 15% will take place in Pittsfield, Massachusetts.\nThe remaining work will be conducted in Buffalo, New York; Cape Canaveral, Florida; and El Segundo, California. Contract performance is expected to be completed by September 30, 2028.\nThe Navy will obligate the modification’s entire $315.7 million value at the time of the award using fiscal 2027 weapons-procurement funds. None of the obligated funding is scheduled to expire at the end of the current fiscal year.\nThe award was made on a sole-source basis. According to the Navy, the government determined that Draper was the only responsible source capable of meeting the requirement. The proposed contract action was previously published through the federal contracting portal.\nThe modification extends Draper’s engineering work on the Trident II D5 guidance system. The guidance subsystem is a mission-critical part of the strategic weapons platform, providing the navigation and control information required to maintain the missile’s intended flight path.\nPortfolio Acquisition Executive Strategic Systems Programs, headquartered in Washington, D.C., is the contracting activity.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "155e1be463bc",
+      "title": "Applied Digital Announces $300 Million Senior Secured Bridge Facility Led by a Leading Global Financial Institution",
+      "publisher": "StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOX2Jwek9adWxLaGFUWk1oMm16YzRsckoxVmJrU2t2aGhXZE5GcWJYR2JsQjhYMi0tUENZRUczWEdteVlObDhYTE9KSDBta0tXR1dVcmpaNmVIWDRGZ0hrYnFOTnU5Y1E0YkNjZVR5cGZheGVYMmY1bG9hWDBPVlQ5SzdfZWs3TmJZeUFIai1ZWnliejNqbXBLdjltYnd0ZFg3RVpqTTRXZThzOXpVQW84U3hGc1RwTFFyeks5TXc0ajZHTDZrOXVYQ2ZNTU9zSF84S0NGNkU5aHdqUGdaZjJhbUdWSnhJVGFQb01JWlAxUE1TNGR5OEtQd3F3Z1NvdDZuUDdacTlaZw?oc=5",
+      "published_at": "2026-11-23T12:46:16.000Z",
+      "publisher_url": "https://www.streetinsider.com",
+      "snippet": "Applied Digital Announces $300 Million Senior Secured Bridge Facility Led by a Leading Global Financial Institution StreetInsider",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 300000000,
+        "currency": "USD",
+        "raw": "$300 Million"
+      },
+      "company_guess": "Applied Digital",
+      "group_key": "applied digital",
+      "group_rank": 0,
+      "resolved_url": "https://www.streetinsider.com/Globe+Newswire/Applied+Digital+Announces+%24300+Million+Senior+Secured+Bridge+Facility+Led+by+a+Leading+Global+Financial+Institution/27384424.html",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "ccf52bb4906c",
+      "title": "Applied Digital Closes $300 Million Senior Secured Bridge Facility to Advance Louisiana AI Data Center Campus",
+      "publisher": "Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSnp5SktKelFCZC1tUU42Q19hN1Bqa05nLTRwVy1lQUIxa3NRZFh4dmlCMjUtUE0wdDZpU3c1eUQ5ZnhzeEI3NHhZYW13Q2RRbnotZ1RLQ1RDcEpJN0FjZkpGdktWRkVaMUhuYmp0VlFldjl3a2hfS3FCY3hLdENLdTRRUGY5UlZ2bzdWb2M5aTBBZU5KS0wxR2ctSUlLSGNxenFMOUZvUlB2T1hfaEpnbU9yaWhvWXFhTHR0VXJkbmNKZU16dUdsSUJSZGFLdjVGTHBtcjZOOHVoUEFE?oc=5",
+      "published_at": "2026-11-23T12:51:00.000Z",
+      "publisher_url": "https://www.quiverquant.com",
+      "snippet": "Applied Digital Closes $300 Million Senior Secured Bridge Facility to Advance Louisiana AI Data Center Campus Quiver Quantitative",
+      "source_feed": "gnews-g7",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 300000000,
+        "currency": "USD",
+        "raw": "$300 Million"
+      },
+      "company_guess": "Applied Digital",
+      "group_key": "applied digital",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "3320c3c3b4b5",
+      "title": "Adani Airports raises ~USD 300 million primary equity from 360 ONE Asset",
+      "publisher": "Adani",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDFqN3VTNTU3WVBYR0dKRk9FTS1vRTdSemN5V1B3QTM0VjI4RTRQdVhIZmZaNW1QNnV4bmdpcnZtMWRlWmlrcGZ3X210eWRGNmFTTm9lN285YnFaMXZqb191ZUVhUV82aGVpWkh4T0pvN1hsYlpYZHpwYmx4Z2JQUkF2NV9QRUVSTFc5SDhMVncxdm9MZmFnbm9HeGNoWXMyUlUyS2FaYU9Kc2FpOEVkemhraXpaY0Vn?oc=5",
+      "published_at": "2026-11-23T12:02:42.000Z",
+      "publisher_url": "https://www.adani.com",
+      "snippet": "Adani Airports raises ~USD 300 million primary equity from 360 ONE Asset Adani",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 300000000,
+        "currency": "USD",
+        "raw": "USD 300 million"
+      },
+      "company_guess": "Adani Airports",
+      "group_key": "adani airports",
+      "group_rank": 0,
+      "resolved_url": "https://www.adani.com/newsroom/media-releases/adani-airports-raises-usd-300-million-primary-equity-from-360-one-asset",
+      "text": "About Us\nAdani Group\nChairman's Office\nFrom the Chairman\nLeadership\nOur Journey\nBusinesses\nInfrastructure\nAirports\nDefence & Aerospace\nData Center\nRoad, Metro & Rail\nReal Estate\nAdani Realty\nSports\nAdani Sportsline\nEnergy & Utilities\nEnergy Solutions\nThermal Power\nGreen Energy\nCity Gas Distribution\nWater Treatment Plants\nGreen Hydrogen\nSolar Manufacturing\nWind Turbine\nTransport & Logistics\nPorts\nLogistics\nIndustrial Land\nAgri Logistics\nDirect to Consumers\nFruits\nMaterials\nCement\nNatural Resources\nPVC\nMedia\nBroadcasting Businesses\nEnterprise Skilling\nSkills & Education\nListed Companies\nAdani Enterprises Ltd\nAdani Ports & SEZ Ltd\nAdani Power Ltd\nAdani Energy Solutions Ltd\nAdani Green Energy Ltd\nAdani Total Gas Solutions Ltd\nACC Ltd\nAmbuja Cements Ltd\nNDTV Ltd\nOrient Cement Ltd\nSustainability\nEnvironment\nDecarbonisation\nNature\nWater Management\nWaste Management & Circularity\nSocial\nOccupational Health and Safety (OHS)\nEmployee Welfare and Benefits\nTransforming Communities\nGovernance\nGovernance Framework\nRisk Management\nGroup ESG Report\nAdani Greenprint\nAdani Foundation\nInvestors\nNewsroom\nMedia Releases\nMedia Kit\nCareers\nAccessibility\nAccessibility Adjustments\nChoose the right accessibility profile for you\nLight Mode\nDark Mode\n-A\nA\n+A\nReset Settings\nEng (Language)\nENG\nहिन्दी\nPopular Pages\nAbout Adani Group\nBusinesses\nSports\nSustainability\nAdani Foundation\nInvestors\nNewsroom\nMedia Releases\nAdani Airports raises ~USD 300 million primary equity from 360 ONE Asset\nAdani Airports raises ~USD 300 million primary equity from 360 ONE Asset\nFresh equity takes Adani Airport Holdings Limited’s total raise to ~USD 1.35 billion\nEditor’s Synopsis:\nAdani Airport Holdings Limited’s (AAHL) binding agreement with 360 ONE Asset to raise ₹2,790 crores\n(~ USD 300 million).\nAAHL had the first round of binding agreement of ~USD 1 billion of primary equity capital from a consortium\nof Alpha Wave Global, Premji Invest, Temasek and BlackRock-managed funds (Initial Investors), at a pre-money\nequity valuation of ~USD 18 billion .\nTotal AAHL equity raise now stands at ~USD 1.35 billion.\nUpon completion, the investors will, in aggregate, hold approximately 7.01% in AAHL.\nAhmedabad, 23 November 2026 : Adani Airport Holdings Limited (AAHL), a subsidiary of Adani\nEnterprises Limited (AEL) and one of India's largest private airport operators, has entered into a binding agreement\nwith 360 ONE Alternates Asset Management Limited, acting through its funds and affiliates (360 ONE Asset), to raise\n₹2,790 crores (~ USD 300 million), taking its total equity raise to ~USD 1.35 billion so far.\nThe transaction builds on an earlier round of ₹9,825 crores (~USD 1 billion) of primary equity capital from a\nconsortium of leading domestic and global investors including Alpha Wave Global, Premji Invest, Temasek and\nBlackRock managed funds. This represented one of the largest primary equity investments from financial institutions\nin India’s airport infrastructure sector.\nAAHL and 360 ONE Asset have signed a Share Subscription Agreement for 360 ONE Asset to subscribe to new equity shares\nin AAHL on the same terms and valuation as the Initial Investors, implying a pre-money equity valuation of ~USD 18\nbillion. 360 ONE Asset has also acceded to the Shareholders’ Agreement entered with the Initial Investors. Following\ncompletion of both transactions, the investors will collectively own approximately 7.01% of AAHL. The transaction is\nsubject to customary conditions precedent, including receipt of applicable approvals.\n“This partnership is yet another milestone in building out the Adani Airports platform. Having such marquee,\nlong-term investors on board is a testament to their confidence in India’s aviation growth story,” said Mr.\nJeet Adani, Non-Executive Director, Adani Airport Holdings Limited . “We are committed to developing a\ncomplete ecosystem around our airports by transforming them from simple transit hubs into vibrant airport cities\nthat merge aviation, commerce, leisure, and regional logistics to drive sustained national growth,” he added.\nThe fresh round, which brings 360 ONE Asset alongside Alpha Wave Global, Premji Invest, Temasek and BlackRock managed\nfunds, reflects the institutional endorsement of AAHL’s scale, operating capabilities and long-term growth\npotential.\nThese multiple rounds of capital injection are dedicated to three major strategic priorities that will shape the\nfuture of the company’s aviation and infrastructure portfolio as it aspires to handle double its historical\npassenger handling capacity of ~96 million, scaling to 200 million annually.\nAAHL has initiated a massive modernisation and upgrade program across its entire airport network. This extensive\ncampaign will be driven by the development of Adani Airport Cities, bringing world-class infrastructure to each\nlocation, in addition to ramping up its passenger-facing services and other vital non-aeronautical businesses to\ndeepen commercial monetisation and elevate the overall passenger journey. By seamlessly blending infrastructure with\nretail and hospitality, the initiative will ultimately strengthen and secure the group's integrated airport\necosystem.\nAbout Adani Airport Holdings Limited\nAdani Airport Holdings Limited (AAHL), a subsidiary of Adani Enterprises Limited, is one of India's largest private\nairport operators, managing eight airports across India and serving over 23% of India’s total passenger traffic.\nAAHL manages and develops an integrated airports platform spanning aeronautical operations, passenger-facing\nnon-aeronautical offerings and city-side development. AAHL’s pioneering journey blends advanced technology,\nmemorable consumer experiences and sustainable practices in airport development.\nAbout Adani Enterprises Limited\nAdani Enterprises Limited (AEL) is the flagship company of Adani Group, one of India’s largest business\norganisations. AEL has a long-standing track record of incubating, building and scaling infrastructure and utility\nbusinesses o",
+      "text_status": "ok"
+    },
+    {
+      "id": "31b474236be6",
+      "title": "Marlowe Raises $277 Million to Bolster Alternatives to Nvidia Chips",
+      "publisher": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWElrT0d0TWI3UG1KQjQ2WERLM3pkeG5GbzdvcTktVGNkRkNLSmFZX2JnYkJ2RnZKSE5pak5saXJNR18yTVhqUGlMeGhfX1l2b0VqNGpGd0Z5d3hCNEFaUkJEOW5vaEFlNV9JdXNyVVRMRkZEM1laUmpfTWxqVUVjSlN5UkRQdHlGMVVPTHdpeTJnbUtRdzBGVDcxUUQta0pBbmliVjQ4aVRrT1RCaV9kOE9ncjBXaXlk?oc=5",
+      "published_at": "2026-11-23T12:00:00.000Z",
+      "publisher_url": "https://www.bloomberg.com",
+      "snippet": "Marlowe Raises $277 Million to Bolster Alternatives to Nvidia Chips Bloomberg.com",
+      "source_feed": "gnews-3",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 277000000,
+        "currency": "USD",
+        "raw": "$277 Million"
+      },
+      "company_guess": "Marlowe",
+      "group_key": "marlowe 277m seed round",
+      "group_rank": 0,
+      "resolved_url": "https://www.bloomberg.com/news/articles/2026-11-23/marlowe-raises-277-million-to-bolster-alternatives-to-nvidia-chips",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "8652d159656b",
+      "title": "Marlowe $277M Seed Round at $1.15B Targets Nvidia",
+      "publisher": "shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnB1alhKVVQ4TWFVVU9yNVpEQ0pmYzROdS1FOUJCN2FiaTZSVUJ6bWVZMmFIbU9NV0R1dFU4VGV2MXJEOVhMYzJmY2UxX21XSTBNVXd3Yk1zTEpzVVhaYzZLTGQyVVV4c1FjU0FLS0dNZkVVNnlJY1dLeUtYdy03cmtpU21haTNuMll5ajFsRkI0VlJ5RFJZcFgtVFM?oc=5",
+      "published_at": "2026-11-23T12:49:16.000Z",
+      "publisher_url": "https://shattered.io",
+      "snippet": "Marlowe $277M Seed Round at $1.15B Targets Nvidia shattered.io",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 277000000,
+        "currency": "USD",
+        "raw": "$277M"
+      },
+      "company_guess": "Marlowe $277M Seed Round",
+      "group_key": "marlowe 277m seed round",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "4ba9da2de2b3",
+      "title": "Marlowe Raises $277M Seed to Build Multi-Silicon AI Factories",
+      "publisher": "Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ3drWktyc2cwWHR2d1QzV1NRTDgwMDNrSWdTMGxlRGpaWlEwXzBraEw0WlZuRldTQjY0MW15bVAtOUEyelA5WnkxOTg1dmZWeGxiRjNhWmhXVW8yUHQ1UTU3WWkzRTJZREE2bDZ2UFNKVk1MUmdjbl80QS1rRUQ2UDZxNjNQUmZzbWc?oc=5",
+      "published_at": "2026-11-23T12:52:03.000Z",
+      "publisher_url": "https://www.unite.ai",
+      "snippet": "Marlowe Raises $277M Seed to Build Multi-Silicon AI Factories Unite.AI",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 277000000,
+        "currency": "USD",
+        "raw": "$277M"
+      },
+      "company_guess": "Marlowe",
+      "group_key": "marlowe 277m seed round",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "1e6bdc4cb4ea",
+      "title": "Marlowe raises a $277 million seed round led by Accel to run AI inference on non-Nvidia chips",
+      "publisher": "MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZG5lT0p5ZTNLbnEzMTI4SzE2Mm9SSGFzcWVvQlE5UWg5X253NDMwSEZlSGFod2RnQm9HbU9DME53NmpmNmNrWlJzNVBZRzVicy1mdV95NmZrOHVydERVVjFkTVJUUGQ4UVFpMmliTmVTMG5QSXR4a25DMldKQldyX1NLMVNobzJlRHdRVHVLMXUwNGRwWWhqRDJrS1ZCYWZfSDdNSHFFNGd4bGs2WktTck81UQ?oc=5",
+      "published_at": "2026-11-23T12:35:25.000Z",
+      "publisher_url": "https://mlq.ai",
+      "snippet": "Marlowe raises a $277 million seed round led by Accel to run AI inference on non-Nvidia chips MLQ.ai",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 277000000,
+        "currency": "USD",
+        "raw": "$277 million"
+      },
+      "company_guess": "Marlowe",
+      "group_key": "marlowe 277m seed round",
+      "group_rank": 3,
+      "text_status": "skipped"
+    },
+    {
+      "id": "4d2152f857d1",
+      "title": "Marlowe raised $277 million to build computing power around non-Nvidia AI chips",
+      "publisher": "Quartz",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LYjM4RWgwNWZFT3R4d01sN1YtbmI1Vlo5T20tNlc0Z0VoZU5tdmRfVHdLdTVtVlZaemtpaGtGT2t3ZEk3b3JOdE1HZWtqT0J6TVBqdmwwbDRvMzRRUjJiOGhKTUw2YVhoWUk4a3BYOTBXaWs0?oc=5",
+      "published_at": "2026-11-23T13:23:46.000Z",
+      "publisher_url": "https://qz.com",
+      "snippet": "Marlowe raised $277 million to build computing power around non-Nvidia AI chips Quartz",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 277000000,
+        "currency": "USD",
+        "raw": "$277 million"
+      },
+      "company_guess": "Marlowe",
+      "group_key": "marlowe 277m seed round",
+      "group_rank": 4,
+      "text_status": "skipped"
+    },
+    {
+      "id": "90a6e655dea6",
+      "title": "Crowley Government Services Wins $270.4 Million Navy Vessel Operations Contract",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/crowley-government-services-wins-270-4-million-navy-vessel-operations-contract/",
+      "published_at": "2026-11-23T01:54:38.000Z",
+      "publisher_url": null,
+      "snippet": "Crowley Government Services has received a $270.4 million contract from the U.S. Navy's Military Sealift Command to operate and maintain six government-owned vessels supporting ocean surveillance and missile-range instrumentation missions. The firm-fixed-price contract includes pass-through elements and covers services performed at locations worldwide.\nThe post Crowley Government Services Wins $270.4 Million Navy Vessel Operations Contract appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 270400000,
+        "currency": "USD",
+        "raw": "$270.4 Million"
+      },
+      "company_guess": "Crowley Government Services",
+      "group_key": "crowley government services",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/crowley-government-services-wins-270-4-million-navy-vessel-operations-contract/",
+      "text": "Crowley Government Services Wins $270.4 Million Navy Vessel Operations Contract\nBy Amit Chowdhry\nYesterday at 8:54 PM\nCrowley Government Services Wins $270.4 Million Navy Vessel Operations Contract\nCrowley Government Services has received a $270.4 million contract from the U.S. Navy’s Military Sealift Command to operate and maintain six government-owned vessels supporting ocean surveillance and missile-range instrumentation missions. The firm-fixed-price contract includes pass-through elements and covers services performed at locations worldwide.\nThe award supports the continued operation of specialized vessels that provide important capabilities for U.S. naval surveillance, testing, and national defense activities.\nCrowley Government Services will be responsible for operating and maintaining the vessels under the contract’s requirements, supporting their availability for assigned missions.\nThe contract includes an initial six-month performance period beginning December 1, 2026, with provisions allowing services to continue through May 2028 if the available extensions are exercised.\nSix-Vessel Fleet\nThe contract covers five ocean-surveillance vessels and one missile-range instrumentation ship.\nThe ocean-surveillance vessels include USNS Victorious, USNS Able, USNS Effective, USNS Loyal, and USNS Impeccable.\nThe sixth vessel is USNS Howard O. Lorenzen, a missile-range instrumentation ship supporting specialized defense-related monitoring and measurement missions.\nOcean-surveillance vessels provide capabilities that support the Navy’s understanding of maritime activity and underwater operating environments.\nThese ships contribute to the broader surveillance infrastructure used to support naval operations and situational awareness.\nMissile-range instrumentation vessels serve a different but complementary mission, providing specialized platforms for collecting data associated with missile testing and related defense activities.\nOperating these vessels requires sustained maintenance, qualified maritime personnel, and coordination with Military Sealift Command to support operational requirements.\nThrough the contract, Crowley Government Services will provide operational and maintenance services intended to help keep the six vessels available for their assigned missions.\nContract Period And Extension Options\nThe initial firm period runs from December 1, 2026, through May 31, 2027.\nThe contract includes one six-month option that, if exercised, would extend performance through November 30, 2027.\nA separate six-month extension available under federal acquisition regulations could further continue services through May 30, 2028.\nThese provisions give the Navy flexibility to maintain operational continuity while determining its longer-term requirements for the vessels.\nThe announced $270.4 million contract value reflects the overall award structure, including the described extension provisions.\nHowever, compensation associated with optional performance periods depends on whether the government exercises those options.\nThe agreement will use fiscal 2027 Navy working-capital funding. The contract announcement did not specify the amount initially obligated at the time of award.\nSole-Source Procurement\nMilitary Sealift Command awarded the contract without competition under a federal procurement exception allowing a sole-source award when only one responsible source can satisfy the government’s requirements.\nThe procurement approach reflects the Navy’s determination that the applicable statutory conditions for a noncompetitive award were met.\nThe contract establishes Crowley Government Services as the provider responsible for the specified vessel operations and maintenance services during the applicable performance periods.\nMilitary Sealift Command, headquartered in Norfolk, Virginia, is the contracting activity.\nThe award is identified under contract number N3220527C1202.\nThe agreement represents a substantial government maritime services contract supporting specialized naval capabilities.\nBy covering five ocean-surveillance ships and a missile-range instrumentation vessel, the award supports the operation of platforms used for surveillance, technical monitoring, and defense-related missions.\nThe contract also underscores the Navy’s continued reliance on commercial maritime service providers to operate and maintain government-owned vessels.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "7155f9ffc04e",
+      "title": "VC funding rebounds as startups raise $255M; Women founders driving social change",
+      "publisher": "YourStory.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVlZyZUhmSE1RTXVWdTJJbUdXaDNsd0RCd2N0dUtYTXpKSHVKM2tBdzl2bmVHRjE4WHhGRFNLR2p1eTdtOHo3dDJSYkxnLUloLXRDX29ubk5pSWpDX010TU52YkJHY3U1cUZCU2lHZGIzQmMtVFNNblplc3VxQ3BzVXgzeTY?oc=5",
+      "published_at": "2026-11-23T02:12:59.000Z",
+      "publisher_url": "https://yourstory.com",
+      "snippet": "VC funding rebounds as startups raise $255M; Women founders driving social change YourStory.com",
+      "source_feed": "gnews-6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 255000000,
+        "currency": "USD",
+        "raw": "$255M"
+      },
+      "company_guess": "VC funding rebounds as",
+      "group_key": "vc funding rebounds as",
+      "group_rank": 0,
+      "resolved_url": "https://yourstory.com/2026/11/vc-funding-rebounds-women-founders-social-change",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "ec1c74f848a5",
+      "title": "Prince George’s County Approves $215M Financing Plan for $1.4B Sphere at National Harbor",
+      "publisher": "Paul Bluemner",
+      "link": "https://www.citybiz.co/article/937181/prince-georges-county-approves-215m-financing-plan-for-1-4b-sphere-at-national-harbor/",
+      "published_at": "2026-11-23T07:41:29.000Z",
+      "publisher_url": null,
+      "snippet": "Prince George’s County has taken a major step toward bringing a $1.4 billion Sphere entertainment venue to National Harbor, with... Read More\nThe post Prince George’s County Approves $215M Financing Plan for $1.4B Sphere at National Harbor appeared first on citybiz .",
+      "source_feed": "citybiz",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 215000000,
+        "currency": "USD",
+        "raw": "$215M"
+      },
+      "company_guess": "Prince George’s County Approves",
+      "group_key": "prince georges county approves",
+      "group_rank": 0,
+      "resolved_url": "https://www.citybiz.co/article/937181/prince-georges-county-approves-215m-financing-plan-for-1-4b-sphere-at-national-harbor/",
+      "text": "Baltimore , Global , Washington DC\nCommercial Real Estate , General Business\nPrince George’s County Approves $215M Financing Plan for $1.4B Sphere at National Harbor\nNovember 23, 2026\nThe proposed 6,000-seat entertainment venue advances as county officials seek new tax revenue, tourism growth and economic development.\nThe Sphere in Las Vegas\nPrince George’s County has taken a major step toward bringing a $1.4 billion Sphere entertainment venue to National Harbor , with the County Council unanimously approving a $215 million financing package to support the development.\nThe proposed 6,000-seat venue, modeled after the high-tech Sphere in Las Vegas, would become a major new entertainment destination along the Potomac River, approximately 44 miles south of downtown Baltimore.\nThe financing approval follows months of negotiations over public investment, labor protections, local hiring and community benefits.\n$215 Million Financing Package\nUnder the approved plan, Prince George’s County would issue $215 million in bonds backed by anticipated increases in tax revenues from the National Harbor area.\nAbout $130 million of the proceeds would support construction of the Sphere, while the remaining financing would refinance existing debt.\nThe county would repay the tax increment financing bonds through designated revenues, including property taxes generated by increases in assessed property values.\nSphere Entertainment Co. has argued that public financing is necessary to make National Harbor competitive with other potential venue locations.\nEconomic Development and Tax Revenue\nCounty Executive Aisha Braveboy has positioned the Sphere as an opportunity to diversify the county’s economy and offset anticipated revenue losses associated with the Washington Commanders’ planned departure and the closure of Six Flags.\nBraveboy said the project could generate more than three times the tax revenue the county expects to lose from those developments.\nBeyond ticket sales, the venue could stimulate additional spending at National Harbor hotels, restaurants, retail establishments and other businesses.\nThe development would also expand the region’s entertainment infrastructure, potentially attracting concerts, immersive productions, corporate events and visitors from across the Mid-Atlantic.\nLocal Business Participation and Employment\nThe financing agreement includes provisions designed to increase participation by Prince George’s County businesses and residents.\nThe project establishes several construction-related targets:\n50% of eligible construction spending directed to county-based small businesses or locally owned and operated businesses.\n40% of eligible construction spending targeted toward county-based minority businesses on a best-effort basis.\n45% of eligible construction work hours targeted toward Prince George’s County residents on a best-effort basis.\nCouncil members also agreed to communicate additional local business participation goals to the county executive.\nLabor organizations welcomed provisions protecting hospitality and service workers’ ability to organize but expressed concerns about the absence of a formal Project Labor Agreement covering construction employment.\nUNITE HERE Local 25, which represents hotel, restaurant and casino workers, supported labor peace provisions while criticizing the lack of stronger construction worker protections.\nCommunity Impact Fund Established\nThe County Council also approved a community impact fund intended to address infrastructure, transportation and neighborhood concerns associated with the project.\nThe fund would receive 15% of qualifying county revenues generated by the Sphere, including certain admissions and amusement taxes and property tax revenues not already committed to bond repayment.\nFunding would be divided equally between two categories:\n50% for community programs and services\n50% for infrastructure and capital improvements\nCommunities located within six miles of the venue would be eligible.\nThe council resolution did not establish a specific dollar amount for the fund.\nPublic Financing Draws Scrutiny\nDespite unanimous council approval, the proposal has faced opposition from residents concerned about the county’s financial exposure and competing infrastructure priorities.\nCritics questioned whether projected economic benefits would justify the public investment, particularly given National Harbor’s existing commercial success.\nOther residents argued that the county should prioritize infrastructure improvements in communities outside the waterfront development district.\nSupporters, including Councilmember Jolene Ivey, maintain that the Sphere could help reduce the county’s reliance on residential property taxes by expanding commercial activity and diversifying revenue sources.\nA Major Addition to National Harbor\nIf completed, the National Harbor Sphere would represent one of Maryland’s most significant entertainment investments.\nThe proposed venue would build on the international visibility of the Las Vegas Sphere, which combines immersive digital displays, advanced audio technology and large-scale live entertainment.\nFor Prince George’s County, the project represents a broader economic development strategy centered on tourism, hospitality, commercial investment and a more diversified tax base.\nThe council’s financing approval marks an important milestone, although construction timing and other development details remain to be finalized.\nKey Takeaways\n$1.4 billion: Estimated total project investment.\n$215 million: County-approved bond financing package.\n$130 million: Portion of financing designated to support Sphere construction.\n6,000 seats: Planned capacity of the National Harbor venue.\n50%: Minimum target for eligible construction spending with county-based small or locally owned businesses.\n15%: Share of qualifying county revenues designated for the community impact fund.",
+      "text_status": "ok"
+    },
+    {
+      "id": "fa7fc0e02255",
+      "title": "AIVC Launches With $112 Million in Strategic Investment to Build AI-Focused Companies",
+      "publisher": "citybiz",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdUFPeTFUY3pmbV9fSTRYSm5YY3dqWnlZbmRoUDJxUVpKbjFHWGhCRl85QzBPT192UGRta3NkNUxselhPaEF6eGJ4RmpJN1UteHg5THZCV2VKVFJ2QzVFdVV0RUxGTnliQW0xQ0ZqRG5wTjRZb1lSTEgwTlVtTXd2ZGNBYjZPdmcxOUJTYk1QVUZNWXRvUGNqNFhLMWRHeHFIUlRUbFkzMFlVWWh1RWtkaDZPNUpiUFA5MVQyNmNQeEU?oc=5",
+      "published_at": "2026-11-23T14:17:58.000Z",
+      "publisher_url": "https://www.citybiz.co",
+      "snippet": "AIVC Launches With $112 Million in Strategic Investment to Build AI-Focused Companies citybiz",
+      "source_feed": "gnews-g8",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 112000000,
+        "currency": "USD",
+        "raw": "$112 Million"
+      },
+      "company_guess": "AIVC",
+      "group_key": "aivc",
+      "group_rank": 0,
+      "resolved_url": "https://www.citybiz.co/article/937329/aivc-launches-with-112-million-in-strategic-investment-to-build-ai-focused-companies/",
+      "text": "Global , New York\nGeneral Business , Financial Services / Investment Firms , Venture Capital , Internet / Technology\nAIVC Launches With $112 Million in Strategic Investment to Build AI-Focused Companies\nNovember 23, 2026\nAIVC (AI Value Creation) has emerged from stealth with $112 million in strategic investment , backed by a family office and members of its leadership team, to support artificial intelligence-driven business transformation and the development of new companies.\nThe investment will fund AIVC’s operations across three interconnected activities: transforming existing businesses through AI, developing reusable technology based on those engagements and launching independent companies through its venture studio.\nA majority of the capital will be allocated to AIVC’s Studio, which plans to establish three to five companies annually. The firm intends to identify commercial opportunities through its work with existing businesses before committing resources to new ventures.\nAIVC was founded by RC Willenbrock, its chief executive officer and a former partner and head of AIxPE at Boston Consulting Group. David Sukhin, previously head of AI at Citadel, leads the firm’s venture studio.\nThe company has assembled a team of operators, engineers and research scientists with experience at Citadel, Millennium, Palantir, BCG, Nike, Lemonade, Airbnb and American Express.\nUnlike traditional consulting firms that primarily provide advisory services, AIVC combines operational execution with technology development and company ownership. Its model is designed to link compensation and investment returns to measurable business outcomes rather than the volume of AI technology deployed.\n“AI is a compression engine: it shrinks the time and effort that routine work consumes,” said Willenbrock. “But whether that reaches the bottom line depends on what a company does with the capacity it frees. We do not want AI to replace what makes people valuable. We want it to make people more human.”\nThe firm’s approach emphasizes using AI to automate routine processes while redirecting employee capacity toward higher-value activities, customer service and business growth.\nWithin its venture studio, AIVC plans to develop companies around commercial problems identified and tested through its operating engagements. The strategy is intended to establish customer demand and technical feasibility before launching new businesses.\n“The two hardest parts of building new companies are (1) knowing which problems deserve to become a company and (2) identifying the most exceptional people to solve them,” said Sukhin.\nAIVC said its current engagements are on pace to generate more than $1 billion in enterprise value, primarily through business growth and increased operating capacity rather than workforce reductions. That figure represents the firm’s projected value creation, not realized investment returns or independently verified financial results.\nThe company said it will prioritize engagements where potential financial benefits can be measured and where clients are prepared to implement and sustain operational changes.\nAIVC did not disclose the identity of its family office investor, the ownership stakes associated with the $112 million investment or the valuation assigned to the company.",
+      "text_status": "ok"
+    },
+    {
+      "id": "36738248ecef",
+      "title": "AIVC launches with $112M to build three to five companies a year",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNay1nX184M3E5SjRybDY4SkFGQ2pDNlNtZkNoS2VCemIteFRQODJZNm9OUTFreW1EVktlUXFVOWhQc09XUGNMczFYUHZJdU5ZcXJHLVJVS1NaaWRGLWhyVEVIbV9nZUZNNGVnSkd5WkE5Z0xaRVpqcXAwZkNfTm5lV2NacTZNa0pHXzM3NGszRldxOS1PbTlPbk1mcGdyUQ?oc=5",
+      "published_at": "2026-11-23T12:36:08.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "AIVC launches with $112M to build three to five companies a year Dealroom",
+      "source_feed": "gnews-g8",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 112000000,
+        "currency": "USD",
+        "raw": "$112M"
+      },
+      "company_guess": "AIVC",
+      "group_key": "aivc",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "0f7c241508db",
+      "title": "AIVC Launches With $112M in Strategic Investment",
+      "publisher": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ0dpLVN4NHRYd1p3b2tlcnZLaFVyVUlwQTB3eGFKdkU1d296dk02T09DVFZlQzhWVFltUnFaSGlQMWhmZTJ3TmNVLWpmNnkxaTZkZWVjRUg2R3JGYVp2eS1MRWdTYzJ6aVJpV0VYNDNhVjE5aVMzbWRPSUpyY0d1Y0wxUnJLUW1ZYW1zVE1ic1JyTGFaczBBSE5rOTZDdmpNTGlqWXhYeW0yVlU?oc=5",
+      "published_at": "2026-11-23T12:00:00.000Z",
+      "publisher_url": "https://www.businesswire.com",
+      "snippet": "AIVC Launches With $112M in Strategic Investment Business Wire",
+      "source_feed": "gnews-g8",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 112000000,
+        "currency": "USD",
+        "raw": "$112M"
+      },
+      "company_guess": "AIVC",
+      "group_key": "aivc",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "2ac1c4285d1b",
+      "title": "AIVC Launches With $112M in Strategic Investment",
+      "publisher": "The Joplin Globe",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRkY3SUJIVDBFWThtNUYtdVBWWmRTTlRtb3NCWXl3T0VyZTdVQXBTRWlMbU56cGNVWjNuSlpWWVZOLTBtbDlEMWhFclMteUxSa3A1Y3c4ek5IRWR3dnpiUHJGWUZfUUp4Y1NmUHViT3AtTlJ5Zk9ic3NXWG1RYmFfRUJlVFVLdmx5OVl1cVJpR3pCdEQ4Y1o3MGdWOGZySGhHLU9YUDlXTkZBbng1dlZXa2ZkQ0xPLVE4cUpGdTI1X2lJQVBQTFFSZHJKVXFyYU1wVmxscVVKaDlmd25PRmVsaWdyNmc?oc=5",
+      "published_at": "2026-11-23T12:02:32.000Z",
+      "publisher_url": "https://www.joplinglobe.com",
+      "snippet": "AIVC Launches With $112M in Strategic Investment The Joplin Globe",
+      "source_feed": "gnews-g8",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 112000000,
+        "currency": "USD",
+        "raw": "$112M"
+      },
+      "company_guess": "AIVC",
+      "group_key": "aivc",
+      "group_rank": 3,
+      "text_status": "skipped"
+    },
+    {
+      "id": "9f6c7ca902f1",
+      "title": "AIVC Launches With $112 Million in Strategic Investment to Build AI-Focused Companies",
+      "publisher": "Win Warfield",
+      "link": "https://www.citybiz.co/article/937329/aivc-launches-with-112-million-in-strategic-investment-to-build-ai-focused-companies/",
+      "published_at": "2026-11-23T14:14:11.000Z",
+      "publisher_url": null,
+      "snippet": "AIVC (AI Value Creation) has emerged from stealth with $112 million in strategic investment, backed by a family office and... Read More\nThe post AIVC Launches With $112 Million in Strategic Investment to Build AI-Focused Companies appeared first on citybiz .",
+      "source_feed": "citybiz",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 112000000,
+        "currency": "USD",
+        "raw": "$112 Million"
+      },
+      "company_guess": "AIVC",
+      "group_key": "aivc",
+      "group_rank": 4,
+      "text_status": "skipped"
+    },
+    {
+      "id": "0def43ebe40b",
+      "title": "Ant Group leads a $100 million round in Chinese robotics startup Simplexity",
+      "publisher": "MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVEtGa0MzRVA1eXFwR2JxNHhab1B4OVEzeHVfWmItdUFMa0ZaVl84NDdoRGktNEVwdXY1MmRWR1AzMnU2bEhZVHZiYlpsTW1Nc1gtNU1ScFBVWkNhT2NqZTlOV3BNWVlvTTZibVNodDJSQmt6TkF2Skg5Zl9DQThMMW5xUEtSRXBpRFAwWnBCQVVwWU0ya1VOOFFDVQ?oc=5",
+      "published_at": "2026-11-23T09:38:34.000Z",
+      "publisher_url": "https://mlq.ai",
+      "snippet": "Ant Group leads a $100 million round in Chinese robotics startup Simplexity MLQ.ai",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100 million"
+      },
+      "company_guess": "Simplexity",
+      "group_key": "simplexity",
+      "group_rank": 0,
+      "resolved_url": "https://mlq.ai/news/ant-group-leads-a-100-million-round-in-chinese-robotics-startup-simplexity/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "ef709c588507",
+      "title": "Humanoid robot maker Simplexity Robotics raises US$100 million in Ant-led funding round",
+      "publisher": "联合早报",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaC1sMEdITjNsT1BuZHdjcDZPWTl4UUxwWWtyckpvNnZMVXdqOXlMMkhuTzdnM0RWV3FnWnFmbnpISm5sMUYwMmNUMkJsa2NaaXVjSERjV05xSkpzM3BVOHRpZEZ5ZGtjM1hJdEVULW5yMEJKOFp1X2RzekxkZklpWTBhcUpCRU00NDZqTWViLXpHT0kzdzZ4bmM1c2NUSmFSSFIzUDBlMTNmbl9tQ3RFR3JkRGtLVXNuVFNKYXRLeFY?oc=5",
+      "published_at": "2026-11-23T07:54:31.000Z",
+      "publisher_url": "https://www.zaobao.com.sg",
+      "snippet": "Humanoid robot maker Simplexity Robotics raises US$100 million in Ant-led funding round 联合早报",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "US$100 million"
+      },
+      "company_guess": "Simplexity Robotics",
+      "group_key": "simplexity",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "9ec62244865b",
+      "title": "Ant Group leads $100 million round in humanoid startup Simplexity Robotics",
+      "publisher": "TechNode",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYU85b2lqdVh1cENJUlZVRzk3RmRaNWVLQnhKRDFuMlFXQVlkREM5dGZTRzdmSTNzUUVuTHdlZUQ1dlBYb3pFWUJ5T3ZnUS1jWVRzcE13YmsxM3U5RWNJMVlzVkFEdHFQTTFBaUtUN1BDbENhUERyTkZ3N3RyOTVvYUtBMmxPbktQLVl6dHp1VllSM21vTWVRc3VBSUd3TU51dWx6WUxTemRxUQ?oc=5",
+      "published_at": "2026-11-23T06:52:05.000Z",
+      "publisher_url": "https://technode.com",
+      "snippet": "Ant Group leads $100 million round in humanoid startup Simplexity Robotics TechNode",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100 million"
+      },
+      "company_guess": "Simplexity Robotics",
+      "group_key": "simplexity",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "81c61a48dde1",
+      "title": "Ant Group Leads $100 Million Funding for China's Simplexity Robotics",
+      "publisher": "Asia Business Outlook",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLTJmb3RwWS12TjU3YlA1dE96R2ZmS0p3Y3M2S2pIV2Z0dHBpTWpiOUxLcjBzLWlwbkFZTHhBbXp5SUltYUotZDhHQk9fcVRoS2tyQWxFb00zOC1FbHhud3gyamloN19kOXZqanJ3LUZjemFySF9VWldaRWJuUG5NNHJMSzVYLVF0bklqUEFxZVVkcUIzcWRfdUlCek9BVnJ1MHdlekNfNEtlR3FvVHBqelY5S25tVnJlSHoxVnF5Tm4?oc=5",
+      "published_at": "2026-11-22T22:18:21.000Z",
+      "publisher_url": "https://www.asiabusinessoutlook.com",
+      "snippet": "Ant Group Leads $100 Million Funding for China's Simplexity Robotics Asia Business Outlook",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100 Million"
+      },
+      "company_guess": "Ant Group Leads $100",
+      "group_key": "ant group leads 100",
+      "group_rank": 0,
+      "resolved_url": "https://www.asiabusinessoutlook.com/news/ant-group-leads-100-million-funding-for-chinas-simplexity-robotics-nwid-12830.html",
+      "text": "Home\nNews\nPerspective\nIndustry Experts\nMagazine\nConferences\nAbout Us\n×\nCentral Asia\nSouth Asia\nEast Asia\nWest Asia\nSouth East Asia\nHome\nnews\nAnt Group Leads $100 Million Funding for China's Simplexity Robotics\nBy: Asia Business Outlook Team | Monday, 23 November 2026\nChinese robotics startup Simplexity Robotics has raised $100 million in funding in a round led by Ant Group , as major technology companies continue to invest in artificial intelligence (AI) and humanoid robots .\nThe latest funding round values the company at $1.6 billion, according to chairman and co-founder Wang Kai, who shared the details with Bloomberg News.\nThe funding round also includes investments from Alibaba Group , Tencent Holdings , HongShan Capital and Lanchi Ventures.\nThe amount contributed by each investor has not been disclosed. The investment comes as Chinese companies increase their focus on physical AI , which allows robots to understand their surroundings and perform tasks in the real world.\nKey Highlights\nAnt Group Leads $100 Million Funding Round for China's Simplexity Robotics\nSimplexity Robotics Raises $100 Million at $1.6 Billion Valuation\nAlibaba and Tencent Back Simplexity Robotics in $100 Million Funding Round\nAnt Group Leads $100 Million Investment in Simplexity Robotics\nSimplexity Robotics is a Chinese startup working on physical AI technology for robots. Based in Suzhou, the company is looking to strengthen its position in China's growing humanoid robotics market .\nThe latest $100 million funding round values the company at $1.6 billion. Ant Group led the investment, while Alibaba, Tencent, HongShan Capital and Lanchi Ventures also participated. However, the company has not shared details about how much each investor contributed or how it plans to use the funds.\nPhysical AI is becoming an important area in robotics as companies work to develop machines that can understand their surroundings and perform tasks with less human involvement. Unlike traditional robots that follow fixed instructions, these systems are designed to respond to changes and make decisions based on what they observe.\nDeveloping such technology requires improvements in both hardware and software. Robots need to move, handle objects and respond to different situations, while AI systems help them understand instructions and carry out tasks. This has encouraged technology companies and investors to pay more attention to the sector.\nChina's Robotics Sector Sees Growing Investor Interest\nThe investment comes at a time when China's robotics industry has started to see a slowdown in funding. According to Bloomberg, fundraising in the sector fell to around $1.6 billion in October, a significant drop from the peak recorded in June.\nDespite the slowdown, major technology companies continue to invest in startups working on robotics and AI. Ant Group, which is backed by Alibaba co-founder Jack Ma, has been expanding its interest in emerging technologies. Its latest investment brings it together with Alibaba and Tencent in backing Simplexity Robotics.\nChina has become an important market for robot development , with several startups and established technology companies working on machines for industrial and other commercial uses. However, developing robots that can perform tasks reliably outside controlled environments remains a challenge.\nFor Simplexity Robotics, the new funding will provide financial support as it works to develop its technology and compete with other players in the market. The company will need to demonstrate that its robots can perform practical tasks and meet the needs of businesses.\nAlso Read: Indonesia Seeks Google Answers Over 19,389 YouTube Channel Removals\nThe investment also shows that major investors continue to see potential in China's robotics sector , even as funding becomes more selective. As companies work to improve robot capabilities and reduce development costs, the focus is gradually shifting towards finding practical uses for the technology and bringing products to marke\nRead More News :\nSujata Deshmukh on Why Leaders Must Speak Up\nBrillare Introduces Rosemary Oil Shots with 20% Rosemary Oil for a More Targeted Hair Care Routine\nJournals\nEditor's Guest\nEnsuring Excellent Mobile Connectivity for...\nTechnology in Cancer Care: A story of evolving...\nBringing Shop Floor to Manufacturer's palm:...\nEditor's Column\nWhat went wrong with Boeing?\nWhy are Indian Banks Resilient in the Face of...\nIdentifying and Mitigating the Cloud Computing...\n🍪 Do you like Cookies?\nWe use cookies to ensure you get the best experience on our website.\nRead more...\nAccept\nDecline\nCopyright © 2026 Asia Business Outlook. All rights reserved.\nSubscribe | 2025 Run Through |\nRSS",
+      "text_status": "ok"
+    },
+    {
+      "id": "520b6a79cffb",
+      "title": "Ant Group leads $100M round in China's Simplexity Robotics",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY3F4R2dpUzB1Sk5xQ2dXaFJoM2kxak42VkVaRGZxX3ItVENUN0lFTjBKVFN4YjRtQnZ0bXNISkl1UF9KYlhsWjlHa2swQkg0Z2ZiR2lJTkRfcFdxNHZVdnRRbmRWMkNJZkFVSEVBVVgxXy1jMi1odnRFcnoyZ05MaVF2aTRRdWNBcWZDUm83MmVoSUg3SHc?oc=5",
+      "published_at": "2026-11-23T01:23:47.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Ant Group leads $100M round in China's Simplexity Robotics Dealroom",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100M"
+      },
+      "company_guess": "Ant Group leads $100M",
+      "group_key": "ant group leads 100m",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/ant-group-leads-100m-round-in-china-s-simplexity-robotics",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "2570e9b6b69c",
+      "title": "Agon raises $70 million in Series A round to build Europe's defence AI lab",
+      "publisher": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZFZrcmhZaklhNllTcWQ5ZXN0NnFLeXRNVDQzSHd5Q0pidm9iUXlkNDR5WURZaFFjdHU2VEpJb1hYRDV3WjJqZkFxVzl4TV9BWnNWLXMwdHl5czA0LWZzYzRWWmFRbUhFdElQU1NfQmZ5NjVtbGhSNE5wRldoT0tVWkI4dFVsZ0h0MXc1UEtXMHZKWHliZUNxSA?oc=5",
+      "published_at": "2026-11-23T08:00:00.000Z",
+      "publisher_url": "https://finance.yahoo.com",
+      "snippet": "Agon raises $70 million in Series A round to build Europe's defence AI lab Yahoo Finance",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70 million"
+      },
+      "company_guess": "Agon",
+      "group_key": "agon",
+      "group_rank": 0,
+      "resolved_url": "https://finance.yahoo.com/technology/ai/articles/agon-raises-70-million-series-080000586.html",
+      "text_status": "error:fetch failed"
+    },
+    {
+      "id": "48f03d24cc51",
+      "title": "First Look: Agon Raises $70M Series A",
+      "publisher": "Tectonic Defense",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00VmR2TW5wUGtTNkt2dVhLQkU4SnlGYzMzNkpuakVlVExQQlUwcDJrRVJzczhfNTJ1YXJSZkcwSE93bWxhV2R5cWhNYk10eE9vWU9mdnV4TVdEem9TVHVjcDJkakUyZ3dUVk1UXzVaSGFHY0xUeGRB?oc=5",
+      "published_at": "2026-11-23T08:26:37.000Z",
+      "publisher_url": "https://www.tectonicdefense.com",
+      "snippet": "First Look: Agon Raises $70M Series A Tectonic Defense",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70M"
+      },
+      "company_guess": "First Look: Agon",
+      "group_key": "agon",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "09cf15a6ee60",
+      "title": "Defense AI startup Agon raises $70M Series A at $450M valuation",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGlPTFpOQTRmazJCa1hxa1FMSk5odV9iTV9qOUtfQzQwLXFPeHp5eFhtcW9LTVZES2tRXzUxZFhORTRvUjgyM2RFOXJycVdVcmFQMEhfM3dKdUdnNXBXWG1ianFiNTRmRF91STJPZFlaRXRHTkFNOU9oTUlweXRvY1plekVUTGE3YThvVmJyVmhHSXZGOXY1MG9GSQ?oc=5",
+      "published_at": "2026-11-23T06:46:57.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Defense AI startup Agon raises $70M Series A at $450M valuation Dealroom",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70M"
+      },
+      "company_guess": "Agon",
+      "group_key": "agon",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "a2b2df20f4a5",
+      "title": "Agon Raises $70M in Series A Funding",
+      "publisher": "FinSMEs",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aeHVBUVFMbFRCMWhBLWRMay1JcTRSUDlBcUhlZFBlUENzYnh1blFSRE94REU2YzYtS2Zsb2ZrT2RpSU95U3VucGN0THc4eVJTbHdTTVFnQ1VzNl80SGg2OTJsNlZ4VzlMV19ubjgzVFRQeHFlX0VCUXJYalk?oc=5",
+      "published_at": "2026-11-23T09:52:18.000Z",
+      "publisher_url": "https://www.finsmes.com",
+      "snippet": "Agon Raises $70M in Series A Funding FinSMEs",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70M"
+      },
+      "company_guess": "Agon",
+      "group_key": "agon",
+      "group_rank": 3,
+      "text_status": "skipped"
+    },
+    {
+      "id": "32d3b48cb328",
+      "title": "Agon raises $70 million in Series A round to build Europe's defence AI lab - News-Press NOW",
+      "publisher": "News-Press NOW",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQVHVlSEdnYWdkNENZMlgzSXlXbUpIWmhpSEIzckNBejQyVE9EQjZjR3VqcXoyRE9objdpMnNpZEV0SEpFWmd2THVMS3oxY2EwTUljMVk2aWNIZjhXWGd5ZFJvNjVmZkVQWDhuLWJ4NHJjUldSOGx5SEM5VkF0TkNPS1VWNnpYQW93Mk9ZQTR3RXlBdVItXzdxclJRMlBmSnJmaVRscGktVnJfZTZUOUVCRjZ3RTF4Q25FbEdZYk1tRVdqd2RhRk45cjZsa1g2V1pmYzBtZjBETE1VdGZ5czlTT0s3a2FSckd6MFR5b3JHWVFTUGVHbkIwbE1kbmFQbUhTbWVLMGhMRXhyZDg?oc=5",
+      "published_at": "2026-11-23T08:04:02.000Z",
+      "publisher_url": "https://www.newspressnow.com",
+      "snippet": "Agon raises $70 million in Series A round to build Europe's defence AI lab News-Press NOW",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70 million"
+      },
+      "company_guess": "Agon",
+      "group_key": "agon",
+      "group_rank": 4,
+      "text_status": "skipped"
+    },
+    {
+      "id": "b891b2661557",
+      "title": "London defense AI startup Agon raises $70 million at a $450 million valuation",
+      "publisher": "MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZnRXZnFianQzakFTS1d0MGhrYWlhV3BscktVUE15eWx6WmVmWG85OEZCbDJaVHBaMkxaMlBfd09LMTgzSjZOZXp6R3BkaURreUh6bWZGWTF6NVRYSG9STWo4allfc2tLamhUNWh3ejIybmNYZklaeGR0SjVNd3NrQ0ZQbFhqN1hOMDhjbkpuWWZDTExOaHVQbzdESHE?oc=5",
+      "published_at": "2026-11-23T11:35:18.000Z",
+      "publisher_url": "https://mlq.ai",
+      "snippet": "London defense AI startup Agon raises $70 million at a $450 million valuation MLQ.ai",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70 million"
+      },
+      "company_guess": "Agon",
+      "group_key": "agon",
+      "group_rank": 5,
+      "text_status": "skipped"
+    },
+    {
+      "id": "41d155a0eaa6",
+      "title": "Agon Raises $70M Series A at $450M Valuation to Build Defence AI Lab",
+      "publisher": "Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkFjSVY4d1hsX2dWcUN6LTdVZG9BN3pFclZUaVZ3QnVScE12Ni0xb1NoNXNSblZ2VTJUa0RfTXRqd0thNTYwVWVrX0xaQnh5T2pCTFNGR1RGekxpS0tIZjE0UF9tSXByWkN0d3QzdlBOX0pmWDJ6c3B5NWJGMVRNT1BoZzlvYl9YaXVjQ2dhTC1GQQ?oc=5",
+      "published_at": "2026-11-23T09:29:03.000Z",
+      "publisher_url": "https://www.unite.ai",
+      "snippet": "Agon Raises $70M Series A at $450M Valuation to Build Defence AI Lab Unite.AI",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70M"
+      },
+      "company_guess": "Agon",
+      "group_key": "agon",
+      "group_rank": 6,
+      "text_status": "skipped"
+    },
+    {
+      "id": "e52744d05a20",
+      "title": "UK defense AI startup Agon raises $70 million in Series A funding",
+      "publisher": "Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmV1dW12cHJDdUxzcEt4MldHU2VfMDc0REJVZGJzMy1tVmtoQ180ZlhlVm5SY0R2SW5ydTVGbXp5bGNyYUVYWFhjMkxWVVlTc2NxN3pEdFkwOUFkbGdUMGZ6STdYQ3B0WlN1RXNMUGxkTXJpQUdUMWR5M1BKQXJoUDc5T1BiaXRORWNPVzFNdU94bDQ?oc=5",
+      "published_at": "2026-11-23T07:10:27.000Z",
+      "publisher_url": "https://tradersunion.com",
+      "snippet": "UK defense AI startup Agon raises $70 million in Series A funding Traders Union",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70 million"
+      },
+      "company_guess": "Agon",
+      "group_key": "agon",
+      "group_rank": 7,
+      "text_status": "skipped"
+    },
+    {
+      "id": "d20fd0a435c9",
+      "title": "UK-based Agon raises €63.98 million at €411.3 million valuation to build Europe’s sovereign defence AI infrastructure - EU-Startups",
+      "publisher": "EU-Startups",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSVk4U2F6ZURISnU5RHJXRnBsRk14WGJvUHJXNU9OeWdyOG1RZjBneXVZaGI5TWF6MEdHaE9IQUkzNXRITnkyekhmbzVyTW5mUHdOR0hQclhYSnNNbGxhTWZCYmE4RFB2S3p4VGJqLWN5UHl6b2VKX3FmbHRDc0h5OVMyVnFzUWQ4bUVVQU0zZjJUVG9aT0M3ekwzbEgxWThrNGxlSzFfajRKWDlQbUMzWmYwRDZSZW9fTXowbUVlSnJNcU41cFp6Wkw3MEJVZW1iZVpxMmVLeVo5NXkxdGlSaGd2SGM0MlRZ?oc=5",
+      "published_at": "2026-11-23T13:40:17.000Z",
+      "publisher_url": "https://www.eu-startups.com",
+      "snippet": "UK-based Agon raises €63.98 million at €411.3 million valuation to build Europe’s sovereign defence AI infrastructure EU-Startups",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 63980000,
+        "currency": "EUR",
+        "raw": "€63.98 million"
+      },
+      "company_guess": "UK-based Agon",
+      "group_key": "agon",
+      "group_rank": 8,
+      "text_status": "skipped"
+    },
+    {
+      "id": "8064ff61329d",
+      "title": "Agon raises $70 million to build AI simulations for autonomous military systems",
+      "publisher": "Superpower Daily",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWUtyNTdLOVBjNDZjdTJZR0lSNERjLS05MlhxM1pyd09ySHBvTHc3dHFTenVDN0hNWE42VWp4eHRmbmtQbFpZcFZmWEJtS1R3cVJSOG1vOHpLbDVydTR0a2JnX3hmdzdQUHRhWjkxa2VZczZJaDQyTTA1QUtUaXBEVnc1RlYwZC1TMWdDSjAxX0RrTzdTVXRmbGpVZk5GRXdYdDN4b2FsNU1GMXk3M1BLOUVB?oc=5",
+      "published_at": "2026-11-23T12:10:14.000Z",
+      "publisher_url": "https://superpowerdaily.com",
+      "snippet": "Agon raises $70 million to build AI simulations for autonomous military systems Superpower Daily",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70 million"
+      },
+      "company_guess": "Agon",
+      "group_key": "agon",
+      "group_rank": 9,
+      "text_status": "skipped"
+    },
+    {
+      "id": "ccf0e1c839b4",
+      "title": "Agon Raises $70 Million To Simulate Autonomous Weapons in Virtual Battlefield",
+      "publisher": "Ventureburn",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWnpvbHBiQUswUTFlUmRSSHNMcjNoU3dPR1NDd0JhYlh5Y3NxdWU0NzNucG1XQUw5MVBXa2VXQWM5cWFwY05NWTcwYkctT1hpTlhKVHNpRUJUOTFiTTE0UkMxamVhTXA4MHFVRW1Nak8xbnlGUlN0dnRkS0FmNnBFNGhSONIBgwFBVV95cUxNWnpvbHBiQUswUTFlUmRSSHNMcjNoU3dPR1NDd0JhYlh5Y3NxdWU0NzNucG1XQUw5MVBXa2VXQWM5cWFwY05NWTcwYkctT1hpTlhKVHNpRUJUOTFiTTE0UkMxamVhTXA4MHFVRW1Nak8xbnlGUlN0dnRkS0FmNnBFNGhSOA?oc=5",
+      "published_at": "2026-11-23T11:40:39.000Z",
+      "publisher_url": "https://ventureburn.com",
+      "snippet": "Agon Raises $70 Million To Simulate Autonomous Weapons in Virtual Battlefield Ventureburn",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70 Million"
+      },
+      "company_guess": "Agon",
+      "group_key": "agon",
+      "group_rank": 10,
+      "text_status": "skipped"
+    },
+    {
+      "id": "dd117157e49f",
+      "title": "Agon raises $70M at $450M valuation led by Northzone to build Europe’s defence AI lab",
+      "publisher": "Tech Funding News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaWFCWnphTXhVNVFIUzdPQjcxNFhQMy11TlVFRXd3eW1ENjZxUTF5enNuVVhkM1p1QmhmMkNWeVpQbG02UlcwcWVrcHVvZnVUQkM4RWpOTnpOMDE0WXFUMENEcXZXclF6Y24tSDdGVDBDd2MwTXotcGNTV2pJeUFTU0loZlk1ZmtPQkJNRnhxblp2ZmQ0OHNXZmVPNUQwTGRkZ3BHUzVUVXRYMm5BV1lFRQ?oc=5",
+      "published_at": "2026-11-23T09:49:59.000Z",
+      "publisher_url": "https://techfundingnews.com",
+      "snippet": "Agon raises $70M at $450M valuation led by Northzone to build Europe’s defence AI lab Tech Funding News",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70M"
+      },
+      "company_guess": "Agon",
+      "group_key": "agon",
+      "group_rank": 11,
+      "text_status": "skipped"
+    },
+    {
+      "id": "1a6aef153014",
+      "title": "Agon raises $70 million in Series A round to build Europe's defence AI lab",
+      "publisher": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLV9MUmotYlVSbXpwVFhHQUF1TVZfTnhmczZmUUZQMHBiZllURHB2TWpCUm9ZVVh6bXhTNjczdTFKbExvcExhQ0x6UUdqQzg0dVBncU5FSy1kbWhhejd1bGUyMENKSXRLRzNwX1hmZ1Y2STNwTld5eG5LZW56ZWp6NGdKMlEwNVFLWTJDVmFYVl9rU19wRnVLVy0xbXpWem5DUVdGVlVBN2xQTGl1dDBmcFVtb1lzTzFYMWhYeUtJWll0NFNtdjBpVFQ0amw?oc=5",
+      "published_at": "2026-11-23T13:12:48.000Z",
+      "publisher_url": "https://www.businesswire.com",
+      "snippet": "Agon raises $70 million in Series A round to build Europe's defence AI lab Business Wire",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70 million"
+      },
+      "company_guess": "Agon",
+      "group_key": "agon",
+      "group_rank": 12,
+      "text_status": "skipped"
+    },
+    {
+      "id": "977d0fba4483",
+      "title": "Agon raises $70M at a $450M valuation to build gamified, synthetic training for defence AI",
+      "publisher": "Resilience Media",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUdnS0hlUG5KMWhvb0hHRmstMndXNmJMZlFSTDNtTVFBSEVtMnNUMlpkNklvTTV6LS1UVFI2dnJSTU10VkE0YzZsZDBVbWt3ZVRDVFB2UXM5RkN0ajE3cXJHdlZNWVZfN0swZFZYSzM4UXBYd2NwdC1CeFE4d1pKX0pPRDhqNUNURVBrcVoxaGJrNF9FRkRCa1RMOTFyYkJyQ2c0d2VjdG03ZVJRNzZnQnFkcEZsZw?oc=5",
+      "published_at": "2026-11-23T10:36:42.000Z",
+      "publisher_url": "https://resiliencemedia.co",
+      "snippet": "Agon raises $70M at a $450M valuation to build gamified, synthetic training for defence AI Resilience Media",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70M"
+      },
+      "company_guess": "Agon",
+      "group_key": "agon",
+      "group_rank": 13,
+      "text_status": "skipped"
+    },
+    {
+      "id": "7bbc9d48b8d2",
+      "title": "Agon raises $70 million in Series A round to build Europe's defence AI lab",
+      "publisher": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbEF2MXFqMDFzRFB6ZjZfNHcwN2UwcUxGdlo2TTRqdjd0aFpmNkJ0Wk5CR19RVGRIMl94UFVuRE1adktfVWNvS0g3SFhpbGpDV3VVeHIxLXN2S3d3bURHbDhCVGNwOVVocmZWNEZ0RWQ0bWljVU4zT1BYdjcyRU82RV9PMFlzLUxKdDVKcHlfQjA2aWFlbHFqZkVyeUc5dVVNRVg1RGhsdHBneTRDQkhnMk1QakFHLUw1RVlKcWE3ZWZKV29RX2pnakJ6S1NJM2FjdWJoMWxrTVBTMFB3aWpoZzZFLVZLX0RGVkxn0gHwAUFVX3lxTE8zaDk1ZWIyOVhpY09sdjRmbDlKbWdFa2EyZGVyQURjbndzZUtIc2tjNjJEUFRoMmJrQ1FseWI3WXI2Z1RLeEd4RG9GRE1kc1FJdUxNV1ZBa042UkdTQlJ5WEhmdG9QTjc0Vjd4cF95SGxpQlQzUDgya24tblJRQThBR2dWR09mOHRuaHppZDFyajN2NjhIa3AxRW9LQlFGancxQVgzU0U5VFV3RzVDcGNOaUoxQWpoODhDNGFfMkZ5R0xpNElQN1RKaUJBdkpBZUlFd1p4cDhNN1VreDBWZlo3c1Bvb19GemRBYUdwRXQ5Uw?oc=5",
+      "published_at": "2026-11-23T10:24:29.000Z",
+      "publisher_url": "https://m.economictimes.com",
+      "snippet": "Agon raises $70 million in Series A round to build Europe's defence AI lab The Economic Times",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70 million"
+      },
+      "company_guess": "Agon",
+      "group_key": "agon",
+      "group_rank": 14,
+      "text_status": "skipped"
+    },
+    {
+      "id": "9297fbdaf71a",
+      "title": "Agon raises $70 million in Series A round to build Europe's defence AI lab",
+      "publisher": "AFP.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejRySXJSNUVYTm1peGZJVHVKdDJRT2Y5SWFueElRUTJySGZJMHlmZUViQkswdlRTakIyMjF0YmdiU0VtenpXRENlZGs4QkxOTmwtMk9tMDhKbWNpaC1WaDlLT3ZzZmxOZ1ZhdGFzZUpNMkwzdHpldmhWVW04MVc0WGlmak94LVdqQUdWQ1Q0bFlHUWo5MVN3?oc=5",
+      "published_at": "2026-11-23T08:00:00.000Z",
+      "publisher_url": "http://www.afp.com",
+      "snippet": "Agon raises $70 million in Series A round to build Europe's defence AI lab AFP.com",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70 million"
+      },
+      "company_guess": "Agon",
+      "group_key": "agon",
+      "group_rank": 15,
+      "text_status": "skipped"
+    },
+    {
+      "id": "73aa957001b9",
+      "title": "Agon Lands $70 Million Series A At $450 Million Valuation",
+      "publisher": "Securities.io",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTkRuLXZVdG05RnMtRmJvMWJGZ2RLcmFXbmRUekE5THpjZ1F1SjM1Z0RnNU55SE1PZzEyOGVFYU9jNjRrLVVYVDlPZmp3eUZkLThZMGpHcmVQajVYVVUzeFIzWXNZRDBYMVIyc1pCeHJUUldYNXlyLWJ6alFaUkg0M1JFV0pZOTBfd3c?oc=5",
+      "published_at": "2026-11-23T11:01:32.000Z",
+      "publisher_url": "https://www.securities.io",
+      "snippet": "Agon Lands $70 Million Series A At $450 Million Valuation Securities.io",
+      "source_feed": "gnews-6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70 Million"
+      },
+      "company_guess": "Agon",
+      "group_key": "agon",
+      "group_rank": 16,
+      "text_status": "skipped"
+    },
+    {
+      "id": "8450bd1ec847",
+      "title": "Agon raises $70M at $450M valuation led by Northzone to build Europe’s defence AI lab",
+      "publisher": "Abhinaya Prabhu",
+      "link": "https://techfundingnews.com/agon-raises-70m-at-450m-valuation-led-by-northzone-to-build-europes-defence-ai-lab/",
+      "published_at": "2026-11-23T09:45:00.000Z",
+      "publisher_url": null,
+      "snippet": "London-based defence AI startup Agon has raised $70 million in a Series A round at a $450 million…",
+      "source_feed": "techfundingnews",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70M"
+      },
+      "company_guess": "Agon",
+      "group_key": "agon",
+      "group_rank": 17,
+      "text_status": "skipped"
+    },
+    {
+      "id": "f4f5167c1172",
+      "title": "Kanishka Narayan backs British defence AI start-up Agon as government funds join $70m round",
+      "publisher": "www.labourhome.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSURTcEpxRGhabWwzQm1ZbFk0dUpSdXRvZG5lN05uRmt5RmxWdFZMQk4yRWdUQ2l2MmJnMnZuZG8yQnFNWFJjU0E4Y051bGx4NjFtSm1Da0QtLWhWcllZcVZRbkNUak9xNFJOSHh6VjdlOXBiSFBNVG1GMldGTEtFdDZKSTdqSnR2ZFZCZTFqN1p2cndTcjBXMmJZZ2hlVEt6RzQ0bjV2NUtzYVdaWUc2QU9ST3pIQjBFOGtR?oc=5",
+      "published_at": "2026-11-23T10:21:51.000Z",
+      "publisher_url": "https://www.labourhome.co.uk",
+      "snippet": "Kanishka Narayan backs British defence AI start-up Agon as government funds join $70m round www.labourhome.co.uk",
+      "source_feed": "gnews-5",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70m"
+      },
+      "company_guess": "Kanishka Narayan backs British",
+      "group_key": "kanishka narayan backs british",
+      "group_rank": 0,
+      "resolved_url": "https://www.labourhome.co.uk/kanishka_narayan_backs_british_defence_ai_start_up_agon_as_government_funds_join_70m_round",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "6cb0168be575",
+      "title": "Arnatar raises $55M Series B to push RNA drugs into global trials",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2NaOHZWeHdJWmlnQURoM0wtd3l6SGFDM3JlVUxYTllOZHYxbTdVN3RtNDBXTUdlRWJoS2c1RFIxd0U4MU9XUlJkOTRSaTNlekVubDRpa2RwaURPcVhkUlM0UXUzSm9mb0ZaVWJ6cEYtNUk2UVFMUFo3TVRrMUNwRXFQUnFfUkNJUXk0NHdnZF9TUTNKRVVaTHkycEp4UDg?oc=5",
+      "published_at": "2026-11-23T04:30:15.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Arnatar raises $55M Series B to push RNA drugs into global trials Dealroom",
+      "source_feed": "gnews-g2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 55000000,
+        "currency": "USD",
+        "raw": "$55M"
+      },
+      "company_guess": "Arnatar",
+      "group_key": "arnatar",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/arnatar-raises-55m-series-b-to-push-rna-drugs-into-global-trials",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "af7d1b471786",
+      "title": "Compuvi Reaches $50 Million Valuation Following Consulta Ventures Investment",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/compuvi-reaches-50-million-valuation-following-consulta-ventures-investment/",
+      "published_at": "2026-11-23T05:55:16.000Z",
+      "publisher_url": null,
+      "snippet": "Compuvi has reached a $50 million post-money valuation after securing an investment from Consulta Ventures through a pre-Series A bridge round.\nThe post Compuvi Reaches $50 Million Valuation Following Consulta Ventures Investment appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 50000000,
+        "currency": "USD",
+        "raw": "$50 Million"
+      },
+      "company_guess": "Compuvi Reaches $50 Million",
+      "group_key": "compuvi reaches 50 million",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/compuvi-reaches-50-million-valuation-following-consulta-ventures-investment/",
+      "text": "Compuvi Reaches $50 Million Valuation Following Consulta Ventures Investment\nBy Amit Chowdhry\nToday at 12:55 AM\nCompuvi Reaches $50 Million Valuation Following Consulta Ventures Investment\nCompuvi has reached a $50 million post-money valuation after securing an investment from Consulta Ventures through a pre-Series A bridge round.\nThe San Francisco-based enterprise AI company plans to use the investment and Consulta’s strategic support to strengthen its global commercial operations, sales organization, and customer success infrastructure. Compuvi will also continue developing its technology as it prepares for a Series A financing.\nExpanding Preventive Compliance Technology\nCompuvi develops Confinaid, an AI-powered platform designed to identify potential legal and regulatory risks within corporate communications, documents, and workflows before violations occur.\nThe platform analyzes the context of emails, enterprise messages, and documents to identify risks involving areas such as competition law, data protection, employment law, and financial regulation. Confinaid can alert employees in real time, route potentially problematic content to legal or compliance teams, and prevent certain communications from being sent.\nUnlike conventional compliance tools that rely heavily on keywords or detect violations after they happen, Confinaid applies contextual analysis to support a preventive approach.\nConsulta’s involvement will extend beyond financial backing. Its partners will work with Compuvi to develop scalable sales processes and customer success capabilities while helping the company expand its enterprise customer base in the United States and Europe.\nCompuvi has approximately 20 employees across the United States, Europe, and Türkiye. Its customers operate in regulated industries including financial services, healthcare, retail, telecommunications, energy, and legal services.\nKEY QUOTES:\n“What Consulta and Compuvi have in common is that we understand the importance of the problem we are addressing not only in theory, but through its real impact on business processes. Compliance is becoming an increasingly critical management priority for organizations. We are developing a new approach that makes it possible to address risks before they emerge, rather than managing them after the fact.”\n“Consulta’s firsthand experience of this need and its confidence in our solution make this collaboration particularly meaningful to us. By working together, we will build stronger and more scalable sales, marketing and customer success operations. We believe this investment will make an important contribution to our long-term strategic roadmap. In the coming period, our focus will be on accelerating our growth in global markets as we prepare for our Series A.”\nAtaberk Ciftlikli, Founder and CEO of Compuvi\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "cc4407e0a60d",
+      "title": "Vigor Marine Wins Contract Worth Up To $45.4 Million For USNS Lucy Stone Work",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/vigor-marine-wins-contract-worth-up-to-45-4-million-for-usns-lucy-stone-work/",
+      "published_at": "2026-11-23T05:57:28.000Z",
+      "publisher_url": null,
+      "snippet": "Military Sealift Command has awarded Vigor Marine a $39.1 million firm-fixed-price contract for post-shakedown work on the fleet replenishment oiler USNS Lucy Stone.\nThe post Vigor Marine Wins Contract Worth Up To $45.4 Million For USNS Lucy Stone Work appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 45400000,
+        "currency": "USD",
+        "raw": "$45.4 Million"
+      },
+      "company_guess": "Vigor Marine",
+      "group_key": "vigor marine",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/vigor-marine-wins-contract-worth-up-to-45-4-million-for-usns-lucy-stone-work/",
+      "text": "Vigor Marine Wins Contract Worth Up To $45.4 Million For USNS Lucy Stone Work\nBy Amit Chowdhry\nToday at 12:57 AM\nVigor Marine Wins Contract Worth Up To $45.4 Million For USNS Lucy Stone Work\nMilitary Sealift Command has awarded Vigor Marine a $39.1 million firm-fixed-price contract for post-shakedown work on the fleet replenishment oiler USNS Lucy Stone.\nThe base contract covers a 137-calendar-day shipyard availability following the vessel’s initial operational period. Five unexercised options could increase the contract’s total cumulative value to approximately $45.4 million.\nPost-Shakedown Availability\nPost-shakedown availabilities are conducted after newly delivered vessels have completed initial operations and testing. The work commonly addresses deficiencies discovered during that period and completes repairs, modifications, inspections, and adjustments needed to prepare a ship for sustained service.\nThe award announcement did not provide a detailed list of the individual tasks Vigor will perform on USNS Lucy Stone.\nWork will be conducted at Vigor’s facilities in Portland, Oregon, beginning January 18, 2027. The availability is scheduled to conclude on June 3, 2027.\nThe Navy obligated the full $39.1 million base-contract value at the time of the award using fiscal 2027 operations-and-maintenance funding. Those funds are scheduled to expire at the end of the current fiscal year.\nThe approximately $6.3 million associated with the five options has not been obligated. That additional value would only become funded contract work if Military Sealift Command exercises the applicable options.\nThe firm-fixed-price structure establishes an agreed amount for the base scope, placing responsibility on Vigor to perform the specified work within that price, subject to any government-authorized changes.\nThe government competed the procurement through its contracting portal and received two proposals.\nMilitary Sealift Command in Norfolk, Virginia, is the contracting activity. The contract number is N3220527C0005.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "1690ac39ef99",
+      "title": "Korte Construction Wins $38 Million Fort Gordon Barracks Contract",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/korte-construction-wins-38-million-fort-gordon-barracks-contract/",
+      "published_at": "2026-11-23T05:39:10.000Z",
+      "publisher_url": null,
+      "snippet": "The U.S. Army has awarded Korte Construction a $38 million contract to replace existing facilities with two new barracks at Fort Gordon, Georgia.\nThe post Korte Construction Wins $38 Million Fort Gordon Barracks Contract appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 38000000,
+        "currency": "USD",
+        "raw": "$38 Million"
+      },
+      "company_guess": "Korte Construction",
+      "group_key": "korte construction",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/korte-construction-wins-38-million-fort-gordon-barracks-contract/",
+      "text": "Korte Construction Wins $38 Million Fort Gordon Barracks Contract\nBy Amit Chowdhry\nToday at 12:39 AM\nKorte Construction Wins $38 Million Fort Gordon Barracks Contract\nThe U.S. Army has awarded Korte Construction a $38 million contract to replace existing facilities with two new barracks at Fort Gordon, Georgia.\nThe fixed-price-award-fee contract uses a design-build-to-budget delivery approach. Its scope includes demolishing existing infrastructure and designing and constructing the two replacement barracks.\nMilitary Housing Modernization\nAll work will be performed at Fort Gordon, with completion expected by September 26, 2029.\nThe Army obligated the contract’s entire $38 million value at the time of the award using fiscal 2027 military-construction funding. This means the announced value represents funded work rather than an unfunded maximum ceiling.\nThe procurement attracted 13 bids, indicating substantial competition for the construction project. Korte’s award was one of the more heavily competed projects included in the supplied group of military contracts.\nThe project will replace aging facilities with two modern barracks intended to support the Army’s service-member housing requirements at Fort Gordon. The award announcement did not disclose the planned square footage, resident capacity, configuration, or amenities of the new buildings.\nUnder the design-build-to-budget approach, the project’s design and construction will be coordinated within the Army’s established funding limit. This model is intended to align the final design with available resources while allowing construction considerations to be incorporated earlier in project development.\nThe fixed-price-award-fee structure establishes a defined contract price while allowing Korte to earn additional fees based on performance criteria established by the government. These criteria can include areas such as quality, cost control, schedule management, and overall contract execution.\nThe U.S. Army Corps of Engineers’ Savannah District is the contracting activity. The contract number is W912HN-27-C-A004.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "7a3bf86b082a",
+      "title": "Selkirk Copper Announces US$30 Million Convertible Debenture Financing",
+      "publisher": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVGFkUG1mOUp1Q09rdVpXNHNvWGJZczlkZUljazBaQllXczNOb1AzSzd5MzZ1dGx0YVlCUjZ3ck5WUWVTVGJ6dXNHXzFTOWU5VHpjLVpqMW1GODBiTTFsNTlPcE9JTlFUREYxNUh3dWpBczE4aTJnaUJfUW8xQzdiQ2h2eURiUkppWm9CTEd0bklERldKbG9scmlwTWl4bGcwWUppUk1INzV2YUd6N1VSZzVzNnl5V21EcE0wQTd6d2lNUVo5VUZlTm13cjlFQQ?oc=5",
+      "published_at": "2026-11-23T12:00:00.000Z",
+      "publisher_url": "https://www.tradingview.com",
+      "snippet": "Selkirk Copper Announces US$30 Million Convertible Debenture Financing TradingView",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 30000000,
+        "currency": "USD",
+        "raw": "US$30 Million"
+      },
+      "company_guess": "Selkirk Copper",
+      "group_key": "selkirk copper",
+      "group_rank": 0,
+      "resolved_url": "https://www.tradingview.com/news/tmx_newsfile:4adaca92b094b:0-selkirk-copper-announces-us-30-million-convertible-debenture-financing/",
+      "text": "News\n/ TMX Newsfile\n/ Selkirk Copper Announces US$30 Million Convertible Debenture Financing\nSelkirk Copper Announces US$30 Million Convertible Debenture Financing\n7 min read\nSCMI QRC\nBritish Columbia and Pelly Crossing, Yukon--(Newsfile Corp. - November 23, 2026) - Selkirk Copper Mines Inc. SCMI (FSE: IO20) (OTCQX: SKRKF) (\"Selkirk Copper\" or the \"Company\") is pleased to announce that it has entered into a binding term sheet (the \"Term Sheet\") with Queen's Road Capital Investment Ltd. (\"Queen's Road\") for a private placement (the \"Offering\") of US$30 million (approximately CAD$42.9 million) principal amount of unsecured convertible debentures (the \"Debentures\") of the Company.\nProceeds from the Offering will be used to fund the exploration, development, and restart of the Company's Minto Project located in central Yukon and for general corporate purposes.\nM. Colin Joudrie, President & CEO of the Company, commented: \"Queen's Road is a seasoned investor and financing partner to the mining industry with a track record of recognizing and investing in high-quality exploration and development companies through the cycle. The investment by Queen's Road is another step in our planned approach to the restart of mining and mineral processing activities that will deliver high-quality copper-gold-silver concentrates in a timely manner into a global market that is short of concentrate. Further, the investment by Queen's Road is a vote of confidence in our plan and recognition of the good work completed by our team over the last 18 months.\"\nWarren Gilman, Chairman and CEO of Queen's Road, commented: \"Queen's Road is delighted to work with Selkirk Copper and the Selkirk First Nation to see the restart of the Minto Mine become a reality. Minto represents a classic Queen's Road investment, a tested copper producer in a supportive jurisdiction with experienced and aligned partners. I have known and worked with Colin Joudrie for many years and look forward to supporting his Selkirk Copper team.\"\nThe Debentures will be governed by a debenture certificate to be issued by the Company in favor of Queen's Road and which will set out the terms contained in the Term Sheet. The Debentures will be convertible at the option of the holder, in part or in whole, into common shares of the Company at a price per share of CAD$1.00, based on the Bank of Canada daily exchange rate and subject to adjustment under certain events (the \"Conversion Price\"). The Conversion Price represents a 37% premium to the daily volume-weighted average trading price (\"VWAP\") of the Company's shares on the TSXV on November 20, 2026, being the last trading day before execution of the Term Sheet. The Company will be entitled to redeem the Debentures at par within a period of fourteen days following the third anniversary of the date of the issuance of the Debentures. Should the Company exercise its right to redeem the Debentures during this period, the holders are entitled to convert all of the outstanding Debentures into Common Shares at a price per share of C$0.92, equal to a 20% premium to the 3-day volume-weighted average trading price (\"VWAP\") at the date of this announcement.\nThe Debentures will bear interest (the \"Interest\") at a rate of 11% per annum, payable quarterly, over a 5-year term. 8.5% interest will be payable in cash and 2.5% interest will be payable in common shares of the Company, at the greater of the VWAP of the common shares of the Company on the TSX Venture Exchange (or other such Canadian stock exchange on which the Company's shares may be listed from time to time) (the \"TSXV\") for the 20 trading days ending on the last trading day prior to the date on which such interest is due, and the minimum price permitted by the policies of the TSXV.\nQueen's Road QRC is a dividend paying, leading financier to the global resource sector. The Company is a resource-focused investment company, making investments in privately held and publicly traded resource companies. Queen's Road acquires and holds securities for long-term capital appreciation, with a focus on convertible debt securities and resource projects in advanced development or production located in safe jurisdictions. Queen's Road is a critical supporter of several base metal and precious metal projects including Adriatic Metals Plc, Los Andes Copper Ltd. and Moxico Copper Resources Plc.\nIn connection with the Offering and, subject to the receipt of all necessary regulatory approvals (including the TSXV), the Company will enter into an investor rights agreement with Queen's Road containing provisions relating to, among other things, voting alignment, standstill and transfer restriction covenants. At closing of the Offering, the Company will also pay to Queen's Road in cash or common shares, at the option of Queen's Road, an establishment fee of 3% of the principal amount of the Debentures.\nClosing of the Offering is subject to customary closing conditions, including the completion of business, legal and financial due diligence satisfactory to Queen's Road, the receipt of all necessary regulatory approvals (including the TSXV), the completion of definitive documentation (which shall include other customary terms for a transaction of this nature), and there being no material adverse change in the business of the Company, or a major event of national or international consequence that disrupts the financial markets or the business, operations or affairs of the Company\nAbout Selkirk First Nation\nSelkirk First Nation is centered in Pelly Crossing, a community in central Yukon, 280 km north of Whitehorse. They are a self-governing First Nation, having signed its Final and Self-Government Agreements in 1997. Selkirk First Nation owns 4,740 square kilometers of Settlement Land, including 2,408 square kilometers where they own both the surface and subsurface. Selkirk First Nation is one of three self-governing Northern Tutchone First Nations in the Yukon. The Selkirk First Nation, ind",
+      "text_status": "ok"
+    },
+    {
+      "id": "6e7a82682fae",
+      "title": "VeloSano Raises $20.2 Million for Cancer Research",
+      "publisher": "Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUEhUNFNXYXllY0h1TmoyalVxeC14N3JWdWRncUg3T1ZyX2l0Tjk1cEFjNmd1enppbzhCV1ZVV01EeGpHa2xQaGxMbk1RVWloeWxfdUlpekcyQl9RQ2l2WDkybUNIeGpyb3lVaHdXeVV4Yzk3TzdQT3FMem42UGlVanJpQkgtYlN4aUZPaDVkTTNldE5MNVJIZG1DUC05R2It?oc=5",
+      "published_at": "2026-11-22T21:24:52.000Z",
+      "publisher_url": "https://wisevoter.com",
+      "snippet": "VeloSano Raises $20.2 Million for Cancer Research Wisevoter",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 20200000,
+        "currency": "USD",
+        "raw": "$20.2 Million"
+      },
+      "company_guess": "VeloSano",
+      "group_key": "velosano",
+      "group_rank": 0,
+      "resolved_url": "https://wisevoter.com/world/us/oh/cleveland/2026/11/22/velosano-raises-20-2-million-cancer-research",
+      "text": "Home\n› World\n› U.S.\n› Ohio\n› Cleveland\n› Business\n› Philanthropy\nVeloSano Raises $20.2 Million for Cancer Research\nThe 2026 total is the latest milestone for the Cleveland Clinic fundraising initiative that has supported cancer research since 2014.\nUpdated on Nov. 22, 2026 in Philanthropy\nVeloSano raised $20.2 million in 2026 for cancer research at Cleveland Clinic and Cleveland Clinic Children's, bringing its total to more than $115 million since 2014. AI Illustration. Upload story photo >\nLive Poll\nDo you think community fundraising events meaningfully help advance cancer research?\n▲ Yes ▼ No\nVeloSano raised $20.2 million in 2026 to support cancer research at Cleveland Clinic and Cleveland Clinic Children's. The initiative has raised more than $115 million for cancer research since 2014.\nWhy it matters\nThe funds support local cancer research, including projects selected through a competitive grant process that benefits the Cleveland community. Sustained philanthropic support helps the region's health system pursue research that might otherwise lack funding.\nVeloSano's 2026 total of $20.2 million came from more than 30,000 donors making direct or legacy gifts, with more than 5,000 participants and volunteers supporting its signature events. The source does not specify the breakdown between event proceeds and direct donations.\nThe players\nCleveland Clinic\nA nonprofit academic medical center based in Cleveland, Ohio, known for its cancer treatment and research programs and as the recipient of VeloSano funds.\nCleveland Clinic Children's\nThe pediatric arm of Cleveland Clinic, which receives VeloSano funding for pediatric cancer research.\nCleveland Metroparks Zoo\nA major zoo in Cleveland, Ohio, that hosted the June 2026 Trike and Bike children's ride for pediatric cancer research.\nThe details\nVeloSano funds are partly awarded through a competitive application process called VeloSano Pilot Grants. In September 2026, nearly 2,650 riders and 800 volunteers took part in the Bike to Cure weekend, and in June 2026 children ages 3 to 10 rode at Cleveland Metroparks Zoo in the Trike and Bike event for pediatric cancer research.\nTimeline\n2014 — VeloSano initiative launched, beginning its cumulative fundraising.\nJune 2026 — Trike and Bike children's ride held at Cleveland Metroparks Zoo.\nSeptember 2026 — Bike to Cure weekend held with nearly 2,650 riders.\nMarch 9, 2027 — Registration opens for 2027 VeloSano events.\nSeptember 10–11, 2027 — VeloSano Bike to Cure Weekend scheduled.\nPhilanthropy Trajectory\nThe $20.2 million raised in 2026 extends VeloSano's cumulative trajectory of more than $115 million since its 2014 launch at Cleveland Clinic. Its more than 300 funded projects and $107 million in extramural grants show how a community fundraising base can leverage additional outside research money.\nResidents who want to participate can register for 2027 VeloSano events beginning March 9. Donations and event participation directly support cancer research at Cleveland Clinic and Cleveland Clinic Children's.\nThe takeaway\nCancer research funding in Cleveland depends heavily on recurring community giving, and participation in events like Bike to Cure is one concrete way residents can contribute. Supporting local fundraisers helps sustain research pipelines beyond any single year's total.\nWhat happens next\nRegistration for the 2027 VeloSano events opens March 9, 2027, ahead of the Bike to Cure Weekend scheduled for September 10–11, 2027.\nFurther reading\nExplore more Philanthropy coverage tied to giving and nonprofit funding in Cleveland.\nMore information\nRegister for upcoming events or learn more on the VeloSano registration and event information page.\nSource note: This article includes information reported by The News-Herald.\nLive Poll\nDo you think community fundraising events meaningfully help advance cancer research?\n▲ Yes ▼ No\nWE Participate i\nUpload story photo ↗\nUpdate this story ↗\nSubmit a new story ↗\nToday's stories\nFootball 1\nBrowns Open Season 6-4 Ahead of Bye Week\nPolitics 2\nBrowns Move Seen as Credit Neutral for Cleveland\nReal Estate 3\nMidtown Lofts Plan Sets Aside Most Units for Moderate Incomes\nSports 4\nMonsters Rout Comets 8-3 at Rocket Arena\nPolitics 5\nBloomberg Opposes Ohio Civics Bill at Cleveland State\nCulture 6\nTyler Hynes Visits Cleveland Christmas Connection\nTrending polls\nBanking\nDo you trust your bank's online services to work when you need them?\n▲ Yes ▼ No\nEnvironmental\nShould your government push harder to phase out coal, oil and gas?\n▲ Yes ▼ No\nData Centers\nDo you trust your everyday tech services, like iCloud and the App Store, to work reliably?\n▲ Yes ▼ No\nWeather and Disaster\nDo you have a emergency supply kit with several days of food and water?\n▲ Yes ▼ No",
+      "text_status": "ok"
+    },
+    {
+      "id": "7b5f6f07f5f1",
+      "title": "Huntington Ingalls Receives $20 Million Across Submarine And Cruiser Support Awards",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/huntington-ingalls-receives-20-million-across-submarine-and-cruiser-support-awards/",
+      "published_at": "2026-11-23T02:06:14.000Z",
+      "publisher_url": null,
+      "snippet": "Huntington Ingalls received two Navy modifications totaling approximately $20 million for submarine-valve engineering and cruiser planning-yard support.\nThe post Huntington Ingalls Receives $20 Million Across Submarine And Cruiser Support Awards appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20 Million"
+      },
+      "company_guess": "Huntington Ingalls",
+      "group_key": "huntington ingalls",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/huntington-ingalls-receives-20-million-across-submarine-and-cruiser-support-awards/",
+      "text": "Huntington Ingalls Receives $20 Million Across Submarine And Cruiser Support Awards\nBy Amit Chowdhry\nYesterday at 9:06 PM\nHuntington Ingalls Receives $20 Million Across Submarine And Cruiser Support Awards\nHuntington Ingalls received two Navy modifications totaling approximately $20 million for submarine-valve engineering and cruiser planning-yard support.\nThe company’s Newport News business received a $10.1 million modification for engineering and design work involving standard Navy valves installed on nuclear-powered submarines.\nTwo Naval Engineering Programs\nWork on the submarine-valve effort will be performed in Newport News, Virginia. The Navy obligated $1.5 million in fiscal 2027 operations-and-maintenance funding at award, with that initial amount scheduled to expire at the end of the fiscal year.\nHuntington Ingalls’ Ingalls Shipbuilding division received a separate $9.8 million modification exercising the seventh option year for CG-47-class integrated planning-yard services.\nThe work includes design, planning, and material support for cruiser maintenance and modernization. It will be performed in Pascagoula, Mississippi, through December 2027.\nNo funding was obligated when the option was exercised. The Navy expects to commit funds as specific requirements arise.\nThe option was awarded without competition because the government determined that only one responsible source could provide the required services.\nNaval Sea Systems Command in Washington is the contracting activity for both awards.\nThe combined $20 million reflects the announced modification values, while only $1.5 million was expressly obligated at the time of the two announcements.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "e385f6113a9b",
+      "title": "AI tennis-robot maker Enhanced Robotics raises $15M Series B",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNndFVWZHMF9yY2VKZDV4VkVoU2M5NFQ4Y1FKcldBa1VkQWpLWW9lMDdpaHEzNy12dHNNWGhVNXJuMW1oa2dIWDRveTlRdnpTUWpGM0tXU3VMSnE3UDhqN29ob1o2cWUxMjlHTXZadmVuVFRaMlZfNTBJRlI4dXFsWU0weUVDdlllT1R2N1JndzY1UFhKMHBKeg?oc=5",
+      "published_at": "2026-11-23T05:58:50.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "AI tennis-robot maker Enhanced Robotics raises $15M Series B Dealroom",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 15000000,
+        "currency": "USD",
+        "raw": "$15M"
+      },
+      "company_guess": "Enhanced Robotics",
+      "group_key": "enhanced robotics",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/ai-tennis-robot-maker-enhanced-robotics-raises-15m-series-b",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "b364170daec8",
+      "title": "Matters.AI Raises Rs 115 Cr In Pre-Series A Round Led By Tanglin Venture Partners",
+      "publisher": "BW Disrupt",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbVJ5QjV3R2c4UEMyV1h3YWt1SDRNblBLNE13d05HRnhGdEVtTFdXRFplX1IxYy1YbHpCR1NYRzNyVkdEb2pKMnpOdW92NTRrM1YxNlJLNG9tVHhYcHlsd1o3ZnJyWUhxQzlLS0dpaUtwRW1jVnNUU2M5RGpWZC1pYVZsTnFFTU5mMVhzSUdUcUpNS1BmOUxzNXFmbW8xLUUwNjVINlozU09jeGYzTjE2MFFpWU8wWTEtMkVQTkg3VQ?oc=5",
+      "published_at": "2026-11-23T10:09:46.000Z",
+      "publisher_url": "https://www.bwdisrupt.com",
+      "snippet": "Matters.AI Raises Rs 115 Cr In Pre-Series A Round Led By Tanglin Venture Partners BW Disrupt",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Matters.AI",
+      "group_key": "matters",
+      "group_rank": 0,
+      "resolved_url": "https://www.bwdisrupt.com/article/matters-ai-raises-rs-115-cr-in-pre-series-a-round-led-by-tanglin-venture-partners-634818",
+      "text": "Matters.AI Raises Rs 115 Cr In Pre-Series A Round Led By Tanglin Venture Partners\nBW Online Bureau\nNov 23, 2026\n# AI security engineer\n# AI data protection\n# data protection software\n# cybersecurity AI solutions\n# Matters.AI\n# Tanglin Venture Partners\n# Rs 115 Crore Funding\n# Pre-Series A\n# Cybersecurity\n# AI Secu\nThe company focuses on addressing enterprise data security challenges as AI agents increasingly access, copy and transfer sensitive business information using employee permissions",
+      "text_status": "ok"
+    },
+    {
+      "id": "8b48f5704987",
+      "title": "Matters.AI raises ₹115 crore pre-series A funding led by Tanglin Venture Partners",
+      "publisher": "ET Entrepreneur",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQdlI4Zl9FOXlTRnlsVVh1VDk2ci1oS2pEQnFpLXVxeWFUTjY0dlRaM29NcVdmaTJBd2ZRQVlOcU5IS3g1QmhJWkVERTlYRnJYN0x4TmVLcmtLWnpULUxLbVFJSVBTVGMwVFFUenl5N3ZSQkFqU0g3ZVJCZ0taa3lxdFcxaDdmWC1wMDhZbV9HMVpvSlNOSE9TRWhxNXMzTFNoRk5hTzY4UzZjbUdqQUNlcjdVd2pLOGlZR01NVmJ3TlNKMlpKZzJKdk40ZzQyc3I3N1lnZm1uUy0tMmY5MmV6SG1qT2FBQjluUmJMZ1JKcEo0MDBXcFJLLXIxX2VhT1hVVjVULWY1R251WEVYYlhabUw0U3hPRnk3TUhQczZuZWJ0Yk520gHsAUFVX3lxTE15N0Flc3BZZTNYM1VXWWxDWVM4dHUwOFlwbXpFMXF2Vmg4aDhIMnpseEpxYWZ5bzQ0Z1dBTlRZckcwRm9aZ2NwRFpOdXFlVlR5UGFMRTRGbVdLZnd2VmJaSy14aWsydDN4NFktQUxQMzlsTDZEWDBWVWg1cTJoZ0RvWHlsNXMxOUQ1bHNzdjBiUVV5TUVENzlONDRwX29Ua0N6QWJTZGRrd1NXbDJYTl90cVREQkVtVnJQdFVHUWM4VmZZaklCbEFHMWI1VEV4ekR2clctTkdZRTctcnBiVWdiWTh2QktOYnZLajFi?oc=5",
+      "published_at": "2026-11-23T11:18:57.000Z",
+      "publisher_url": "https://entrepreneur.economictimes.indiatimes.com",
+      "snippet": "Matters.AI raises ₹115 crore pre-series A funding led by Tanglin Venture Partners ET Entrepreneur",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Matters.AI",
+      "group_key": "matters",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "41cd4a059508",
+      "title": "Matters.AI Raises ₹115 Cr in Pre-Series A Round",
+      "publisher": "shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVc2MWctMm1xWURESnhpcEp0aEJ4VF8yamZicHhFREw0TkR0OWhwRHVLRHZlTGFaMzh4WS1OZUxJbEJ4U2p2MXNKX3B0TFZzX2thcjROVVBrOVZERGMwdmN4djhtdFM4TTdMcjJwaFNVVzd4a2xzOUVESW1yRXlJRk51emphWm5tVXRsOVFSM1YzLXVnTy1NSlF5MEZhYVdPMVlz?oc=5",
+      "published_at": "2026-11-23T12:22:40.000Z",
+      "publisher_url": "https://shattered.io",
+      "snippet": "Matters.AI Raises ₹115 Cr in Pre-Series A Round shattered.io",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Matters.AI",
+      "group_key": "matters",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "4daef79114e3",
+      "title": "Data security startup Matters.AI raises ₹115 crore in pre-Series A round",
+      "publisher": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYVo2Q2twSE5GM2NKU2hCbXBobmZYTmhkby0wc3J4YkRqdFEzSGs5a0VoZzI3ZGhZcmhHQTJJVDMybk9zaDZCQVVNRWFCdUdqRHcxb1NSRzdwR3YwNk5Zck1lZDZQVDI2X3E1d0REV2dQYUZrQkZ1SnVVT2RlWVdYQ3p5SHQ2MXJlRDhIclpnWVAzTnRGNDhzcThRZnc4SGhaVlZGUHRZakZSNXhGbEdjLTN0UkIxVHBwd1U3LUNvWEV6X3lPNkhVNUJWX0w4ek5Mc003c2h5bDdhY21oTXfSAeMBQVVfeXFMT0o3dV9mQTYzX1ducldaWXFNNTdhQnpXcGtYUkNaTzRLUGh5NXpNbi1pNktoWnctOVIyOGV3QXV5QUxuazN4MzZ6a3BzYjk4VEZYWlJDTXdtVzJaZFByNHhpZ3R5a2xnSnlpUkRxSnB5Uzloelk4U1otbVJzTDQ3OFlXV3oyYWZXdXJTMVRwWjNfVnBLMWV3azdWcmhVWFc0b2cwLTI0TWQ3djJPY1hIaE1uLThVTGRWUnZERXVTZTdra2gyaVBwcV9EMXV6dXNuZ004VVR1aDJ6RVMwR0dlWjFrUUU?oc=5",
+      "published_at": "2026-11-23T14:21:40.000Z",
+      "publisher_url": "https://www.business-standard.com",
+      "snippet": "Data security startup Matters.AI raises ₹115 crore in pre-Series A round Business Standard",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Matters.AI",
+      "group_key": "matters",
+      "group_rank": 3,
+      "text_status": "skipped"
+    },
+    {
+      "id": "8d1c01fdaef5",
+      "title": "Enterprise data security startup Matters.AI raises Rs 115 Cr in pre-Series A round",
+      "publisher": "YourStory.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT081Q194V2NINDNvckV5aTRXekNMRjlKSGlDdTh2Mi1NaEJkYWdJdWwwaktzTDgzMlgtcFhuV1FzYXFWZGs1VjlmMG43M2d5SUpnTjcxcWJBelIwY2tUcllCNlZMSS1OaWNUbWVaX3MtaENvZk5QRlgyNmpQNkFTT1pURWF3ZFNJS0djRFh5dlBKWUtHYzhDcXAyWkZjQW9SOUVLZnhDbWFwcXBtakE?oc=5",
+      "published_at": "2026-11-23T11:06:12.000Z",
+      "publisher_url": "https://yourstory.com",
+      "snippet": "Enterprise data security startup Matters.AI raises Rs 115 Cr in pre-Series A round YourStory.com",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Matters.AI",
+      "group_key": "matters",
+      "group_rank": 4,
+      "text_status": "skipped"
+    },
+    {
+      "id": "ec3992cd2be0",
+      "title": "Exclusive: Matters.AI to raise Rs 110 Cr in pre-Series A led by Tanglin Ventures",
+      "publisher": "Entrackr",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeFIzcmlpTkV0WjdqQW13ZkVBZ3hDejZMRm5pUURvdnNYZl8zU2p5UFZwQjk1dVNDTjZ6SUY3cm53VnhoZDFKanY4M3V5dnJSXzltWi1xaFZrOVU3UlB2aGx1QlQ5SHliamI2dGFVVHRDUjFsRHRoc3VXTDlfYTR4VTduc09leVVOeVZ2UklDbXR4aVhtVm1YNVRGWm1KNzR1ZzBGUHpfWnNuNWpDbVRMbUVSdUNxMkNFb0HSAboBQVVfeXFMUHhSM3JpaU5FdFo3akFtd2ZFQWd4Q3o2TEZuaVFEb3ZzWGZfM1NqeVBWcEI5NXVTQ042eklGN3Jud1Z4aGQxSmp2ODN1eXZyUl85bVotcWhWazlVN1JQdmhsdUJUOUh5YmpiNnRhVVR0Q1IxbER0aHN1V0w5X2E0eFU3bnNPZXlVTnlWdlJJQ210eGlYbVZtWDVURlptSjc0dWcwRlB6X1pzbjVqQ21UTG1FUnVDcTJDRW9B?oc=5",
+      "published_at": "2026-11-23T06:07:57.000Z",
+      "publisher_url": "https://entrackr.com",
+      "snippet": "Exclusive: Matters.AI to raise Rs 110 Cr in pre-Series A led by Tanglin Ventures Entrackr",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Matters.AI",
+      "group_key": "matters",
+      "group_rank": 5,
+      "text_status": "skipped"
+    },
+    {
+      "id": "eee1794a8c8a",
+      "title": "Data security startup Matters.ai raises Rs.110-Cr led by Tanglin Ventures",
+      "publisher": "Venture Intelligence News",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaGxNZFZocnRVb2lyQjdBZjZWRTVHN0NwWU9tbGotZFpjbGNHeHN3WTN5YzdnT0FPUl9qYThWQlhCNWJ1aWZmTVFkaEpCQnZSWjRTOGlpUm5yQmExVS1QTThhbFVaTDFST0ZEd0lNRjlqUUlOWENMeFlSenZ4STdmOFl3aDd0bGpOMl9FaGRsMjZoa0ZMaWwyMV95V28ySU9pbzdMRXN5LTlhVTh0T2l4WXlVSFM4dV93ZlFVV0lRSzEwMVE?oc=5",
+      "published_at": "2026-11-23T12:53:56.000Z",
+      "publisher_url": "https://news.ventureintelligence.com",
+      "snippet": "Data security startup Matters.ai raises Rs.110-Cr led by Tanglin Ventures Venture Intelligence News",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Matters.ai",
+      "group_key": "matters",
+      "group_rank": 6,
+      "text_status": "skipped"
+    },
+    {
+      "id": "a07b51998683",
+      "title": "Matters.AI Raises Rs 110 Cr In Pre-Series A Led By Tanglin Ventures",
+      "publisher": "Bharat Fast",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX1lwUzV0TXgyTnA2eEQ3SlZRREllVDMwc3d6WV9KRUJHM1pLNHVnVGIxN0Z2elhNUDNyelFMbGIwcDdFYU5kT3NhNElHbTh0RlFKLUtCb0MxVndWYTE0Q3VyN1dnTHhTY0VuR1g3emZlMElqNEVuY1dua1ppTllHaDVWcmVRWDRQTURudTNDUV9YbWFrMHc?oc=5",
+      "published_at": "2026-11-23T11:06:29.000Z",
+      "publisher_url": "https://bharatfast.com",
+      "snippet": "Matters.AI Raises Rs 110 Cr In Pre-Series A Led By Tanglin Ventures Bharat Fast",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Matters.AI",
+      "group_key": "matters",
+      "group_rank": 7,
+      "text_status": "skipped"
+    },
+    {
+      "id": "2cca196fb898",
+      "title": "OYMotion raises hundreds of millions in Series D for embodied AI hands",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONzAwQ0dEMldpdUY4TGE1ZnNNQW5fU1ZvZWFtVllreUF1V1VodG9KaDY1bU5NWE9BdzhPRXM0aFhUUUNPUE8zU29Wdm8wbGdaa3RORFltb1YxVG9oMkNXaXFmRVNiSV9vMUtWYVpJd0NNSHI1QlQwaF94VUE3dlNLZXhqbFdBNU5rb1MtUWdGdVhLQmVyLWZEd2pBS1lHUXFTTXZHS0xYdw?oc=5",
+      "published_at": "2026-11-23T02:30:11.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "OYMotion raises hundreds of millions in Series D for embodied AI hands Dealroom",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "OYMotion",
+      "group_key": "oymotion",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/oymotion-raises-hundreds-of-millions-in-series-d-for-embodied-ai-hands",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "b6e435cd4987",
+      "title": "Smeetz raises CHF 5.5 million and turns profitable",
+      "publisher": "Greater Geneva Bern area (GGBa)",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YcF9sUjlXaUdHLWRFYk9yWDAycXI2bVM2V3hyQUxJdjhDOVFOX1c2Z1pLRmtELVZyTjdab011MUxvenJTX1I0N3kyRTgxOVJuUFQ1c1ZsM0NiVDJBTTVOYW5NRWk5TEEtVWV3UUNhbDF1ZTJ1M1VYS0pOdVJCZw?oc=5",
+      "published_at": "2026-11-23T13:12:07.000Z",
+      "publisher_url": "https://ggba.swiss",
+      "snippet": "Smeetz raises CHF 5.5 million and turns profitable Greater Geneva Bern area (GGBa)",
+      "source_feed": "gnews-3",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Smeetz",
+      "group_key": "smeetz",
+      "group_rank": 0,
+      "resolved_url": "https://ggba.swiss/en/smeetz-raises-chf-5-5-million-and-turns-profitable/",
+      "text": "Tech\nEPFL ranks fourth in Europe for university spinouts\n18 November 2026",
+      "text_status": "thin"
+    },
+    {
+      "id": "98e3d0586acb",
+      "title": "Ramaphosa’s R100-million technology plan raises hopes for jobs",
+      "publisher": "Scrolla.Africa",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRTZENG1WZUJhLVFLNHdzb2hBaHZUUElSVFNIaHBkZVQ2M2VEUW5jZU03QTVjTWEzM3Bvb3dfZHdlRlJHcFNwamxIdWF3ZDhLNTdfQS1faldQUEdaVkJROUxURkJBOE9sTUJocVNLZ3dLTjBNSHdaR1dGRmJ6ekJicVFzTHpTRDNvVmRvdXNR?oc=5",
+      "published_at": "2026-11-23T07:33:28.000Z",
+      "publisher_url": "https://scrolla.africa",
+      "snippet": "Ramaphosa’s R100-million technology plan raises hopes for jobs Scrolla.Africa",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Ramaphosa’s R100-million technology plan",
+      "group_key": "ramaphosas r100 million plan",
+      "group_rank": 0,
+      "resolved_url": "https://scrolla.africa/ramaphosas-r100-million-technology-plan-raises-hopes-for-jobs/",
+      "text": "News\nRamaphosa’s R100-million technology plan raises hopes for jobs\nPresident Cyril Ramaphosa during his visit to Silicon Valley in the United States, where he announced plans for a R100-million technology fund. Picture: The Presidency\nBy\nPalesa Matlala\n23rd November 2026\nShare\n5 Min Read\nLANGUAGE:\nEnglish\nisiZulu\nTranslating…\nListen to this article.\nPresident Cyril Ramaphosa says entrepreneurs have proposed a R100-million fund to help South African businesses develop artificial intelligence and compete internationally.\nWith 8.6 million South Africans unemployed, experts say better training and work experience are needed to help young people find jobs.\nMillions of South Africans are desperate for jobs, and President Cyril Ramaphosa believes new technology could help create opportunities for young people.\nThe president has announced plans for a R100-million fund to support South African businesses developing artificial intelligence.\nThe announcement follows his week-long visit to Silicon Valley in the United States, where he met technology companies and investors.\nArtificial intelligence is technology that helps computers perform tasks such as answering questions, solving problems and working with information.\nRamaphosa said South African entrepreneurs who joined the trip proposed the fund.\n“We walk away from Silicon Valley with commitments made by some of our own entrepreneurs that have come up with an idea that we should set up a venture capital fund that will start off with R100 million,” he said.\nThe money would help small technology businesses develop products, grow and possibly employ more people.\nBut South Africa faces a much bigger challenge.\nAccording to Statistics South Africa, 8.6 million people were unemployed between July and September 2026. The unemployment rate stood at 33.7%.\nFor many young people, finding work remains difficult even after completing their studies.\nA World Bank report published in August 2026 found that South Africa has unemployed graduates while some technology companies struggle to find workers with the right skills.\nThe report identified shortages in computer programming, networking and online security skills.\nIt also found that employers want people who can communicate well, solve problems and work with others.\nThe findings point to a possible solution: train unemployed young people in skills that businesses actually need.\nSchools, colleges and universities could work more closely with employers to offer practical training and work experience.\nTechnology companies receiving government support could also be encouraged to hire and train young South Africans.\nAnother option is to make technology training available in townships and rural communities, where young people may struggle to afford computers, data and transport.\nCommunity centres, libraries and schools could offer affordable Internet access and basic computer lessons.\nSmall businesses also need support.\nYoung people running businesses in townships could benefit from easier access to funding, business training and opportunities to sell their products and services.\nBut technology alone will not solve unemployment.\nEconomists at Nedbank, in their November 2026 labour market report, warned that businesses were not creating enough jobs to keep up with the growing number of people looking for work.\nThe report showed that South Africa gained 101,000 jobs in the third quarter, but the number of unemployed people still increased.\nRamaphosa believes the country has the talent to compete internationally.\n“South Africa has talented startup founders who have come with us on this journey and who are developing innovative products with the potential to scale globally,” he said.\nDuring his visit, the president met representatives from Google, Microsoft and Cisco.\nHe also held discussions about attracting more investment into South Africa’s technology industry.\nThe government wants to use artificial intelligence to improve healthcare, education and public services.\nBut the trip has faced criticism because Ramaphosa did not meet some of the world’s biggest technology bosses, including OpenAI chief executive Sam Altman.\nDespite this, the president believes the visit was successful.\n“We have used this visit to position South Africa as a major player in the AI economy, not merely a bystander,” he said.\nThe proposed R100-million fund has not yet been launched, and no date has been announced for businesses to apply.\nThe government has also not said how many jobs the fund could create.\nFor millions of unemployed South Africans, the biggest test will not be how much money is promised, but whether the investment leads to real jobs and opportunities.\nPopular\nZulu princess slams royal figures carved shorter than politicians\n23rd November 2026\nMurders fall but about 60 people are still killed every day\n23rd November 2026\nDA offers ANC 93 mayors in bid to settle hung councils\n23rd November 2026\nBoy, 13, saves family R500 a month with vegetable garden\n22nd November 2026\nReal Politics with Zukile Majova\nGet Zukile’s weekly take on South African politics, power and the people shaping the country.\nBy subscribing, you agree to our Privacy Policy . Unsubscribe anytime.",
+      "text_status": "ok"
+    }
+  ]
+}
