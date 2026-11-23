@@ -1,7 +1,1457 @@
 {
  "version": 1,
- "updated_at": "2026-11-22T23:07:09.473Z",
+ "updated_at": "2026-11-23T23:08:43.913Z",
  "rounds": [
+  {
+   "id": "ff743ed6b5",
+   "group_key": "sierra says it is",
+   "candidate_ids": [
+    "8d8785d0e4fe"
+   ],
+   "company": "Sierra",
+   "website": "sierra.ai",
+   "amount_usd": 1750000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series F",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [
+    "Lightspeed",
+    "Greenoaks",
+    "Lightspeed Venture Partners"
+   ],
+   "investors": [
+    "Lightspeed",
+    "Greenoaks",
+    "Lightspeed Venture Partners",
+    "Benchmark",
+    "Sequoia",
+    "GV",
+    "Tiger Global"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Builds AI agents for customer interactions.",
+   "description": "AI agents that handle customer interactions and business tasks for large enterprises.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "Sierra says it is finalizing a funding round led by Lightspeed and Greenoaks at a $30 billion valuation",
+    "round": null,
+    "lead": "led by Lightspeed and Greenoaks",
+    "investors": "led by Lightspeed and Greenoaks"
+   },
+   "source_urls": [
+    "https://mlq.ai/news/sierra-says-it-is-finalizing-a-funding-round-led-by-lightspeed-and-greenoaks-at-a-30-billion-valuation/",
+    "https://www.unite.ai/sierra-raises-1-75b-in-series-f-funding-at-30b-valuation/"
+   ],
+   "exclude_reason": "duplicate",
+   "run_date": "2026-11-23",
+   "transaction_name": "Series F - Sierra",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.847Z",
+   "updated_at": "2026-11-23T23:08:43.856Z",
+   "in_view": false
+  },
+  {
+   "id": "5eeeab9aa0",
+   "group_key": "litmus music",
+   "candidate_ids": [
+    "6a4f0fe24021"
+   ],
+   "company": "Litmus Music",
+   "website": null,
+   "amount_usd": 475000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Music-rights acquirer backed by Carlyle and KKR; capital commitments.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "approximately $475 million in new capital commitments",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/litmus-music-secures-475-million-from-carlyle-and-kkr/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - Litmus Music",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.866Z",
+   "updated_at": "2026-11-23T23:08:43.866Z",
+   "in_view": false
+  },
+  {
+   "id": "d949ff5168",
+   "group_key": "tamara",
+   "candidate_ids": [
+    "237033f57b28",
+    "e9f10efde1b8"
+   ],
+   "company": "Tamara",
+   "website": null,
+   "amount_usd": 400000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "SA",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Saudi BNPL; asset-backed financing from MUFG and Standard Chartered.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Tamara secures $400 million from MUFG and Standard Chartered",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.fwdstart.me/p/tamara-secures-400-million-from-mufg-and-standard-chartered-as-lending-business-grows"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Debt - Tamara",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.870Z",
+   "updated_at": "2026-11-23T23:08:43.870Z",
+   "in_view": false
+  },
+  {
+   "id": "7328078709",
+   "group_key": "draper",
+   "candidate_ids": [
+    "b35def0ce5a4"
+   ],
+   "company": "Draper",
+   "website": null,
+   "amount_usd": 315700000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Navy contract modification.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$315.7 million contract modification",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/draper-receives-315-7-million-for-trident-ii-guidance-engineering/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - Draper",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.871Z",
+   "updated_at": "2026-11-23T23:08:43.871Z",
+   "in_view": false
+  },
+  {
+   "id": "4cb07780d2",
+   "group_key": "applied digital",
+   "candidate_ids": [
+    "155e1be463bc",
+    "ccf52bb4906c"
+   ],
+   "company": "Applied Digital",
+   "website": null,
+   "amount_usd": 300000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Public AI data center operator; $300M senior secured bridge facility.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$300 Million Senior Secured Bridge Facility",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.streetinsider.com/Globe+Newswire/Applied+Digital+Announces+%24300+Million+Senior+Secured+Bridge+Facility+Led+by+a+Leading+Global+Financial+Institution/27384424.html"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-23",
+   "transaction_name": "Debt - Applied Digital",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.872Z",
+   "updated_at": "2026-11-23T23:08:43.872Z",
+   "in_view": false
+  },
+  {
+   "id": "e4b2200dfc",
+   "group_key": "adani airports",
+   "candidate_ids": [
+    "3320c3c3b4b5"
+   ],
+   "company": "Adani Airports",
+   "website": null,
+   "amount_usd": 300000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Airport operator equity raise.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "raises ~USD 300 million primary equity",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.adani.com/newsroom/media-releases/adani-airports-raises-usd-300-million-primary-equity-from-360-one-asset"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - Adani Airports",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.874Z",
+   "updated_at": "2026-11-23T23:08:43.874Z",
+   "in_view": false
+  },
+  {
+   "id": "667e2f152d",
+   "group_key": "marlowe 277m seed round",
+   "candidate_ids": [
+    "31b474236be6",
+    "8652d159656b",
+    "4ba9da2de2b3",
+    "1e6bdc4cb4ea",
+    "4d2152f857d1"
+   ],
+   "company": "Marlowe",
+   "website": null,
+   "amount_usd": 277000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-23",
+   "lead_investors": [
+    "Accel"
+   ],
+   "investors": [
+    "Accel"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Runs AI inference on non-Nvidia chips.",
+   "description": "Builds computing power for AI inference on non-Nvidia chips (multi-silicon AI factories).",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "Marlowe raises a $277 million seed round led by Accel",
+    "round": "seed round",
+    "lead": "led by Accel",
+    "investors": "led by Accel"
+   },
+   "source_urls": [
+    "https://www.bloomberg.com/news/articles/2026-11-23/marlowe-raises-277-million-to-bolster-alternatives-to-nvidia-chips"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-23",
+   "transaction_name": "Seed - Marlowe",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.875Z",
+   "updated_at": "2026-11-23T23:08:43.875Z",
+   "in_view": false
+  },
+  {
+   "id": "6d02584b39",
+   "group_key": "crowley government services",
+   "candidate_ids": [
+    "90a6e655dea6"
+   ],
+   "company": "Crowley Government Services",
+   "website": null,
+   "amount_usd": 270400000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Navy contract.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$270.4 million contract",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/crowley-government-services-wins-270-4-million-navy-vessel-operations-contract/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - Crowley Government Services",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.877Z",
+   "updated_at": "2026-11-23T23:08:43.877Z",
+   "in_view": false
+  },
+  {
+   "id": "d90789afe4",
+   "group_key": "prince georges county approves",
+   "candidate_ids": [
+    "ec1c74f848a5"
+   ],
+   "company": "Prince George's County Sphere",
+   "website": null,
+   "amount_usd": 215000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Public bond financing for venue.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$215 million financing package",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/937181/prince-georges-county-approves-215m-financing-plan-for-1-4b-sphere-at-national-harbor/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - Prince George's County Sphere",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.880Z",
+   "updated_at": "2026-11-23T23:08:43.880Z",
+   "in_view": false
+  },
+  {
+   "id": "e0f627f31a",
+   "group_key": "top tech news nano",
+   "candidate_ids": [
+    "fe8fa786f34c"
+   ],
+   "company": "Nano Core",
+   "website": null,
+   "amount_usd": 140000000,
+   "amount_disclosed": true,
+   "currency_note": "RMB 1B at about 0.14 (approx)",
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI chip startup.",
+   "description": "Chinese AI chip startup; Series C2 over RMB 1 billion.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "over RMB 1 billion in Series C2 funding",
+    "round": "Series C2",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.analyticsinsight.net/amp/story/tech-news/top-tech-news-nano-core-raises-usd-1-billion-akash-launches-gpu-marketplace"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-23",
+   "transaction_name": "Series C - Nano Core",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.863Z",
+   "updated_at": "2026-11-23T23:08:43.863Z",
+   "in_view": false
+  },
+  {
+   "id": "32e2e0e22a",
+   "group_key": "aivc",
+   "candidate_ids": [
+    "fa7fc0e02255",
+    "36738248ecef",
+    "0f7c241508db",
+    "2ac1c4285d1b",
+    "9f6c7ca902f1"
+   ],
+   "company": "AIVC",
+   "website": null,
+   "amount_usd": 112000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "New York",
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "AI-focused venture studio/transformation firm backed by a family office.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "$112 million in strategic investment",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/937329/aivc-launches-with-112-million-in-strategic-investment-to-build-ai-focused-companies/",
+    "https://www.citybiz.co/article/937329/aivc-launches-with-112-million-in-strategic-investment-to-build-ai-focused-companies/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - AIVC",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.882Z",
+   "updated_at": "2026-11-23T23:08:43.882Z",
+   "in_view": false
+  },
+  {
+   "id": "5e69c9731b",
+   "group_key": "simplexity",
+   "candidate_ids": [
+    "0def43ebe40b"
+   ],
+   "company": "Simplexity Robotics",
+   "website": null,
+   "amount_usd": 100000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [
+    "Ant Group"
+   ],
+   "investors": [
+    "Ant Group",
+    "Alibaba Group",
+    "Tencent Holdings",
+    "HongShan Capital",
+    "Lanchi Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Humanoid robots.",
+   "description": "Chinese humanoid robot maker.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Ant Group leads a $100 million round",
+    "round": null,
+    "lead": "Ant Group leads",
+    "investors": "Ant Group leads"
+   },
+   "source_urls": [
+    "https://mlq.ai/news/ant-group-leads-a-100-million-round-in-chinese-robotics-startup-simplexity/",
+    "https://www.asiabusinessoutlook.com/news/ant-group-leads-100-million-funding-for-chinas-simplexity-robotics-nwid-12830.html",
+    "https://app.dealroom.co/news/note/ant-group-leads-100m-round-in-china-s-simplexity-robotics"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-23",
+   "transaction_name": "Venture - Unspecified - Simplexity Robotics",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.883Z",
+   "updated_at": "2026-11-23T23:08:43.886Z",
+   "in_view": false
+  },
+  {
+   "id": "789ced4cb4",
+   "group_key": "agon",
+   "candidate_ids": [
+    "2570e9b6b69c",
+    "48f03d24cc51",
+    "09cf15a6ee60",
+    "a2b2df20f4a5",
+    "32d3b48cb328",
+    "b891b2661557",
+    "41d155a0eaa6",
+    "e52744d05a20",
+    "d20fd0a435c9",
+    "8064ff61329d",
+    "ccf0e1c839b4",
+    "dd117157e49f",
+    "1a6aef153014",
+    "977d0fba4483",
+    "7bbc9d48b8d2",
+    "9297fbdaf71a",
+    "73aa957001b9",
+    "8450bd1ec847"
+   ],
+   "company": "Agon",
+   "website": null,
+   "amount_usd": 70000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [
+    "Northzone"
+   ],
+   "investors": [
+    "Northzone"
+   ],
+   "hq_city": "London",
+   "hq_state": null,
+   "hq_country": "GB",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Defence AI lab.",
+   "description": "UK defence AI lab building simulations for autonomous military systems.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "raises $70 million in Series A round",
+    "round": "Series A",
+    "lead": "led by Northzone",
+    "investors": "led by Northzone"
+   },
+   "source_urls": [
+    "https://finance.yahoo.com/technology/ai/articles/agon-raises-70-million-series-080000586.html",
+    "https://techfundingnews.com/agon-raises-70m-at-450m-valuation-led-by-northzone-to-build-europes-defence-ai-lab/",
+    "https://www.labourhome.co.uk/kanishka_narayan_backs_british_defence_ai_start_up_agon_as_government_funds_join_70m_round"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-23",
+   "transaction_name": "Series A - Agon",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.888Z",
+   "updated_at": "2026-11-23T23:08:43.889Z",
+   "in_view": false
+  },
+  {
+   "id": "58c78319ad",
+   "group_key": "arnatar",
+   "candidate_ids": [
+    "6cb0168be575"
+   ],
+   "company": "Arnatar",
+   "website": null,
+   "amount_usd": 55000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "RNA drugs; no AI claim seen.",
+   "description": "RNA drug developer.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "raises $55M Series B",
+    "round": "Series B",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/arnatar-raises-55m-series-b-to-push-rna-drugs-into-global-trials"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-23",
+   "transaction_name": "Series B - Arnatar",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.890Z",
+   "updated_at": "2026-11-23T23:08:43.890Z",
+   "in_view": false
+  },
+  {
+   "id": "d81aa94c99",
+   "group_key": "vigor marine",
+   "candidate_ids": [
+    "cc4407e0a60d"
+   ],
+   "company": "Vigor Marine",
+   "website": null,
+   "amount_usd": 45400000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Navy contract.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$45.4 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/vigor-marine-wins-contract-worth-up-to-45-4-million-for-usns-lucy-stone-work/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - Vigor Marine",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.893Z",
+   "updated_at": "2026-11-23T23:08:43.893Z",
+   "in_view": false
+  },
+  {
+   "id": "d81dd16669",
+   "group_key": "korte construction",
+   "candidate_ids": [
+    "1690ac39ef99"
+   ],
+   "company": "Korte Construction",
+   "website": null,
+   "amount_usd": 38000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Army contract.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$38 million contract",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/korte-construction-wins-38-million-fort-gordon-barracks-contract/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - Korte Construction",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.894Z",
+   "updated_at": "2026-11-23T23:08:43.894Z",
+   "in_view": false
+  },
+  {
+   "id": "907609fecf",
+   "group_key": "selkirk copper",
+   "candidate_ids": [
+    "7a3bf86b082a"
+   ],
+   "company": "Selkirk Copper Mines",
+   "website": null,
+   "amount_usd": 30000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CA",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Convertible debenture for mining.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "US$30 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.tradingview.com/news/tmx_newsfile:4adaca92b094b:0-selkirk-copper-announces-us-30-million-convertible-debenture-financing/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Debt - Selkirk Copper Mines",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.896Z",
+   "updated_at": "2026-11-23T23:08:43.896Z",
+   "in_view": false
+  },
+  {
+   "id": "e716b1da63",
+   "group_key": "velosano",
+   "candidate_ids": [
+    "6e7a82682fae"
+   ],
+   "company": "VeloSano",
+   "website": null,
+   "amount_usd": 20200000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Charity fundraising.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$20.2 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://wisevoter.com/world/us/oh/cleveland/2026/11/22/velosano-raises-20-2-million-cancer-research"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - VeloSano",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.897Z",
+   "updated_at": "2026-11-23T23:08:43.897Z",
+   "in_view": false
+  },
+  {
+   "id": "1d2ab77248",
+   "group_key": "huntington ingalls",
+   "candidate_ids": [
+    "7b5f6f07f5f1"
+   ],
+   "company": "Huntington Ingalls",
+   "website": null,
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Navy contracts to a public company.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$20 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/huntington-ingalls-receives-20-million-across-submarine-and-cruiser-support-awards/"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - Huntington Ingalls",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.898Z",
+   "updated_at": "2026-11-23T23:08:43.898Z",
+   "in_view": false
+  },
+  {
+   "id": "9e980831bf",
+   "group_key": "enhanced robotics",
+   "candidate_ids": [
+    "e385f6113a9b"
+   ],
+   "company": "Enhanced Robotics",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Shenzhen",
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI tennis robot maker.",
+   "description": "Shenzhen maker of AI tennis robots (TENNIIX).",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "raises $15M Series B",
+    "round": "Series B",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/ai-tennis-robot-maker-enhanced-robotics-raises-15m-series-b"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-23",
+   "transaction_name": "Series B - Enhanced Robotics",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.900Z",
+   "updated_at": "2026-11-23T23:08:43.900Z",
+   "in_view": false
+  },
+  {
+   "id": "0e301c8cd0",
+   "group_key": "india digest tanglin backs",
+   "candidate_ids": [
+    "326f0c24df50",
+    "e887c230189d",
+    "76a7eda45285",
+    "f48f2abe1e6e",
+    "ea3a8d32a644"
+   ],
+   "company": "Matters.AI",
+   "website": null,
+   "amount_usd": 12000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [
+    "Tanglin Venture Partners"
+   ],
+   "investors": [
+    "Tanglin Venture Partners"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI security engineer for data.",
+   "description": "AI security engineer for enterprise data protection; pre-Series A about $12M.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Rs 115 crore ($12 million) in a pre-Series A funding round",
+    "round": null,
+    "lead": "led by Tanglin Venture Partners",
+    "investors": "led by Tanglin Venture Partners"
+   },
+   "source_urls": [
+    "https://www.dealstreetasia.com/stories/tanglin-matters-ai-ionic-wealth-501922",
+    "https://www.bwdisrupt.com/article/matters-ai-raises-rs-115-cr-in-pre-series-a-round-led-by-tanglin-venture-partners-634818"
+   ],
+   "exclude_reason": "duplicate",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - Matters.AI",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.862Z",
+   "updated_at": "2026-11-23T23:08:43.901Z",
+   "in_view": false
+  },
+  {
+   "id": "85b3a467e4",
+   "group_key": "smeetz",
+   "candidate_ids": [
+    "b6e435cd4987"
+   ],
+   "company": "Smeetz",
+   "website": null,
+   "amount_usd": 6000000,
+   "amount_disclosed": true,
+   "currency_note": "CHF 5.5M approx",
+   "round_type": "Other",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CH",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Swiss startup.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "raises CHF 5.5 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://ggba.swiss/en/smeetz-raises-chf-5-5-million-and-turns-profitable/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - Smeetz",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.904Z",
+   "updated_at": "2026-11-23T23:08:43.904Z",
+   "in_view": false
+  },
+  {
+   "id": "f3e0bc0677",
+   "group_key": "theseus robotics",
+   "candidate_ids": [
+    "62610acef8bf"
+   ],
+   "company": "Theseus Robotics",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Robots for supermarkets.",
+   "description": "Robots working in supermarkets across Europe and US; raised about EUR 455k.",
+   "confidence": 0.4,
+   "evidence": {
+    "amount": "secures €455k",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.eu-startups.com/2026/11/theseus-robotics-secures-e455k-to-put-robots-to-work-in-supermarkets-across-europe-and-us/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Venture - Unspecified - Theseus Robotics",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.844Z",
+   "updated_at": "2026-11-23T23:08:43.844Z",
+   "in_view": false
+  },
+  {
+   "id": "89986f107e",
+   "group_key": "european tech weekly recap",
+   "candidate_ids": [
+    "a623d2ae371c"
+   ],
+   "company": "European tech weekly recap",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Weekly roundup of European funding deals.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "More than 65 tech funding deals worth over €6B",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://tech.eu/2026/11/23/european-tech-weekly-recap-more-than-65-tech-funding-deals-worth-over-eur18b/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - European tech weekly recap",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.851Z",
+   "updated_at": "2026-11-23T23:08:43.851Z",
+   "in_view": false
+  },
+  {
+   "id": "c2f51c98e9",
+   "group_key": "texas pacific",
+   "candidate_ids": [
+    "05b0841981bf"
+   ],
+   "company": "Texas Pacific Land",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Acquisition of EagleRock Land by Texas Pacific Land, a public company.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$3 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/937341/texas-pacific-land-to-acquire-eaglerock-in-3-billion-all-stock-transaction/"
+   ],
+   "exclude_reason": "acquisition",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - Texas Pacific Land",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.853Z",
+   "updated_at": "2026-11-23T23:08:43.853Z",
+   "in_view": false
+  },
+  {
+   "id": "90422e89c2",
+   "group_key": "how helsinki is selling",
+   "candidate_ids": [
+    "a5d1f7c40a68"
+   ],
+   "company": "Finland startup ecosystem",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Feature on Finnish startup ecosystem.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$2.2B",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://techfundingnews.com/finland-startup-ecosystem-late-stage-capital-slush-2026/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - Finland startup ecosystem",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.855Z",
+   "updated_at": "2026-11-23T23:08:43.855Z",
+   "in_view": false
+  },
+  {
+   "id": "60f42ae820",
+   "group_key": "indias",
+   "candidate_ids": [
+    "c7d57013c2f3",
+    "697d494aeaec",
+    "3884ab651197"
+   ],
+   "company": "India's AI funding report",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Tracxn report on Indian AI funding.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$1.6 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.fortuneindia.com/amp/story/startups-news/indias-ai-funding-nearly-doubles-to-16-billion-but-a-handful-of-deals-drive-the-surge-report/171774"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - India's AI funding report",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.859Z",
+   "updated_at": "2026-11-23T23:08:43.859Z",
+   "in_view": false
+  },
+  {
+   "id": "cd051f726e",
+   "group_key": "crypto dealbook",
+   "candidate_ids": [
+    "204ab2ef1d4a"
+   ],
+   "company": "Crypto dealbook roundup",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Weekly crypto funding roundup; Variational $110M Series B.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Variational led the latest week with a $110 million Series B",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.tokenpost.com/news/business/62432"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - Crypto dealbook roundup",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.868Z",
+   "updated_at": "2026-11-23T23:08:43.868Z",
+   "in_view": false
+  },
+  {
+   "id": "c7fe028542",
+   "group_key": "vc funding rebounds as",
+   "candidate_ids": [
+    "7155f9ffc04e"
+   ],
+   "company": "VC funding roundup",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "YourStory weekly roundup.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "startups raise $255M",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://yourstory.com/2026/11/vc-funding-rebounds-women-founders-social-change"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - VC funding roundup",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.878Z",
+   "updated_at": "2026-11-23T23:08:43.878Z",
+   "in_view": false
+  },
+  {
+   "id": "d5c99aa0d2",
+   "group_key": "compuvi reaches 50 million",
+   "candidate_ids": [
+    "af7d1b471786"
+   ],
+   "company": "Compuvi",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [
+    "Consulta Ventures"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-powered compliance platform.",
+   "description": "Enterprise AI preventive compliance platform Confinaid; pre-Series A bridge, amount undisclosed.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "$50 million post-money valuation",
+    "round": "pre-Series A bridge round",
+    "lead": null,
+    "investors": "investment from Consulta Ventures"
+   },
+   "source_urls": [
+    "https://pulse2.com/compuvi-reaches-50-million-valuation-following-consulta-ventures-investment/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - Compuvi",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.892Z",
+   "updated_at": "2026-11-23T23:08:43.892Z",
+   "in_view": false
+  },
+  {
+   "id": "b0c576f683",
+   "group_key": "oymotion",
+   "candidate_ids": [
+    "2cca196fb898"
+   ],
+   "company": "OYMotion",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Series D",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Embodied AI hands.",
+   "description": "Chinese maker of embodied AI hands.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "raises hundreds of millions in Series D",
+    "round": "Series D",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/oymotion-raises-hundreds-of-millions-in-series-d-for-embodied-ai-hands"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-23",
+   "transaction_name": "Series D - OYMotion",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.903Z",
+   "updated_at": "2026-11-23T23:08:43.903Z",
+   "in_view": false
+  },
+  {
+   "id": "3412c3cca7",
+   "group_key": "ramaphosas r100 million plan",
+   "candidate_ids": [
+    "98e3d0586acb"
+   ],
+   "company": "South Africa AI fund plan",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "ZA",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Government plan for AI fund.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "R100-million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://scrolla.africa/ramaphosas-r100-million-technology-plan-raises-hopes-for-jobs/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23",
+   "transaction_name": "Other - South Africa AI fund plan",
+   "first_seen_run": "2026-11-23",
+   "runs": [
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-23T23:08:43.906Z",
+   "updated_at": "2026-11-23T23:08:43.906Z",
+   "in_view": false
+  },
   {
    "id": "a5054b8320",
    "group_key": "doosan",
@@ -1007,6 +2457,51 @@
    ],
    "created_at": "2026-11-20T23:07:16.333Z",
    "updated_at": "2026-11-20T23:07:16.333Z",
+   "in_view": false
+  },
+  {
+   "id": "730cce5b50",
+   "run_date": "2026-11-22-1933",
+   "website": "cognition.ai",
+   "amount_usd": 2000000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "group_key": "potential cognition",
+   "candidate_ids": [
+    "b73125540be4"
+   ],
+   "company": "Cognition AI",
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-20",
+   "hq_country": "US",
+   "ai_ml_rationale": "Builds autonomous AI software-engineering agents (Devin).",
+   "description": "Maker of Devin, autonomous AI software-engineering agents. Reported talks only for a new round; not completed.",
+   "evidence": {
+    "amount": "considering raising $2 billion or more",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.unite.ai/potential-cognition-ai-round-would-raise-2b-plus-at-75b-valuation/",
+    "https://techfundingnews.com/report-devin-maker-cognition-in-talks-to-raise-2b-at-75b-valuation-two-months-after-48b-round/"
+   ],
+   "exclude_reason": "not-funding",
+   "transaction_name": "Venture - Unspecified - Cognition AI",
+   "first_seen_run": "2026-11-22-1933",
+   "runs": [
+    "2026-11-22-1933",
+    "2026-11-23"
+   ],
+   "created_at": "2026-11-22T23:07:09.428Z",
+   "updated_at": "2026-11-23T23:08:43.855Z",
    "in_view": false
   },
   {
@@ -2374,49 +3869,6 @@
    ],
    "created_at": "2026-11-22T14:08:07.727Z",
    "updated_at": "2026-11-22T14:08:07.727Z",
-   "in_view": false
-  },
-  {
-   "id": "730cce5b50",
-   "run_date": "2026-11-22-1933",
-   "website": "cognition.ai",
-   "amount_usd": null,
-   "amount_disclosed": false,
-   "currency_note": null,
-   "lead_investors": [],
-   "investors": [],
-   "hq_city": "San Francisco",
-   "hq_state": "CA",
-   "is_ai_ml": true,
-   "confidence": 0.8,
-   "group_key": "potential cognition",
-   "candidate_ids": [
-    "b73125540be4"
-   ],
-   "company": "Cognition AI",
-   "round_type": "Venture - Unspecified",
-   "stage_bucket": "Other",
-   "announced_date": "2026-11-20",
-   "hq_country": "US",
-   "ai_ml_rationale": "Builds autonomous AI software-engineering agents (Devin).",
-   "description": "Maker of Devin, autonomous AI software-engineering agents. Reported talks only for a new round; not completed.",
-   "evidence": {
-    "amount": "considering raising $2 billion or more",
-    "round": null,
-    "lead": null,
-    "investors": null
-   },
-   "source_urls": [
-    "https://www.unite.ai/potential-cognition-ai-round-would-raise-2b-plus-at-75b-valuation/"
-   ],
-   "exclude_reason": "not-funding",
-   "transaction_name": "Venture - Unspecified - Cognition AI",
-   "first_seen_run": "2026-11-22-1933",
-   "runs": [
-    "2026-11-22-1933"
-   ],
-   "created_at": "2026-11-22T23:07:09.428Z",
-   "updated_at": "2026-11-22T23:07:09.428Z",
    "in_view": false
   },
   {
@@ -58280,5 +59732,5 @@
    "in_view": true
   }
  ],
- "last_run": "2026-11-22-1933"
+ "last_run": "2026-11-23"
 }

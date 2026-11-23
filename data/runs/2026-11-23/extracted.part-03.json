@@ -1,0 +1,392 @@
+{
+ "run_date": "2026-11-23",
+ "extractor": "claude-code routine",
+ "notes": "Simplexity and Agon groups are duplicates of each other (same round).",
+ "rows": [
+  {
+   "group_key": "aivc",
+   "candidate_ids": [
+    "fa7fc0e02255",
+    "36738248ecef",
+    "0f7c241508db",
+    "2ac1c4285d1b",
+    "9f6c7ca902f1"
+   ],
+   "company": "AIVC",
+   "website": null,
+   "amount_usd": 112000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "New York",
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "AI-focused venture studio/transformation firm backed by a family office.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "$112 million in strategic investment",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/937329/aivc-launches-with-112-million-in-strategic-investment-to-build-ai-focused-companies/",
+    "https://www.citybiz.co/article/937329/aivc-launches-with-112-million-in-strategic-investment-to-build-ai-focused-companies/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "simplexity",
+   "candidate_ids": [
+    "0def43ebe40b"
+   ],
+   "company": "Simplexity Robotics",
+   "website": null,
+   "amount_usd": 100000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [
+    "Ant Group"
+   ],
+   "investors": [
+    "Ant Group"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Humanoid robots.",
+   "description": "Chinese humanoid robot maker.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Ant Group leads a $100 million round",
+    "round": null,
+    "lead": "Ant Group leads",
+    "investors": "Ant Group leads"
+   },
+   "source_urls": [
+    "https://mlq.ai/news/ant-group-leads-a-100-million-round-in-chinese-robotics-startup-simplexity/"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "ant group leads 100",
+   "candidate_ids": [
+    "81c61a48dde1"
+   ],
+   "company": "Simplexity Robotics",
+   "website": null,
+   "amount_usd": 100000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [
+    "Ant Group"
+   ],
+   "investors": [
+    "Ant Group",
+    "Alibaba Group",
+    "Tencent Holdings",
+    "HongShan Capital",
+    "Lanchi Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Humanoid robots.",
+   "description": "Chinese humanoid robot maker valued at $1.6B.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "raised $100 million in funding in a round led by Ant Group",
+    "round": null,
+    "lead": "led by Ant Group",
+    "investors": "investments from Alibaba Group , Tencent Holdings , HongShan Capital and Lanchi Ventures"
+   },
+   "source_urls": [
+    "https://www.asiabusinessoutlook.com/news/ant-group-leads-100-million-funding-for-chinas-simplexity-robotics-nwid-12830.html"
+   ],
+   "exclude_reason": "duplicate",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "ant group leads 100m",
+   "candidate_ids": [
+    "520b6a79cffb"
+   ],
+   "company": "Simplexity Robotics",
+   "website": null,
+   "amount_usd": 100000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [
+    "Ant Group"
+   ],
+   "investors": [
+    "Ant Group"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Humanoid robots.",
+   "description": "Chinese humanoid robot maker.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Ant Group leads $100M round",
+    "round": null,
+    "lead": "Ant Group leads",
+    "investors": "Ant Group leads"
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/ant-group-leads-100m-round-in-china-s-simplexity-robotics"
+   ],
+   "exclude_reason": "duplicate",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "agon",
+   "candidate_ids": [
+    "2570e9b6b69c",
+    "48f03d24cc51",
+    "09cf15a6ee60",
+    "a2b2df20f4a5",
+    "32d3b48cb328",
+    "b891b2661557",
+    "41d155a0eaa6",
+    "e52744d05a20",
+    "d20fd0a435c9",
+    "8064ff61329d",
+    "ccf0e1c839b4",
+    "dd117157e49f",
+    "1a6aef153014",
+    "977d0fba4483",
+    "7bbc9d48b8d2",
+    "9297fbdaf71a",
+    "73aa957001b9",
+    "8450bd1ec847"
+   ],
+   "company": "Agon",
+   "website": null,
+   "amount_usd": 70000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [
+    "Northzone"
+   ],
+   "investors": [
+    "Northzone"
+   ],
+   "hq_city": "London",
+   "hq_state": null,
+   "hq_country": "GB",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Defence AI lab.",
+   "description": "UK defence AI lab building simulations for autonomous military systems.",
+   "confidence": 0.85,
+   "evidence": {
+    "amount": "raises $70 million in Series A round",
+    "round": "Series A",
+    "lead": "led by Northzone",
+    "investors": "led by Northzone"
+   },
+   "source_urls": [
+    "https://finance.yahoo.com/technology/ai/articles/agon-raises-70-million-series-080000586.html",
+    "https://techfundingnews.com/agon-raises-70m-at-450m-valuation-led-by-northzone-to-build-europes-defence-ai-lab/"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "kanishka narayan backs british",
+   "candidate_ids": [
+    "f4f5167c1172"
+   ],
+   "company": "Agon",
+   "website": null,
+   "amount_usd": 70000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "GB",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Defence AI.",
+   "description": "UK defence AI startup.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "$70m round",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.labourhome.co.uk/kanishka_narayan_backs_british_defence_ai_start_up_agon_as_government_funds_join_70m_round"
+   ],
+   "exclude_reason": "duplicate",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "arnatar",
+   "candidate_ids": [
+    "6cb0168be575"
+   ],
+   "company": "Arnatar",
+   "website": null,
+   "amount_usd": 55000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "RNA drugs; no AI claim seen.",
+   "description": "RNA drug developer.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "raises $55M Series B",
+    "round": "Series B",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/arnatar-raises-55m-series-b-to-push-rna-drugs-into-global-trials"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "compuvi reaches 50 million",
+   "candidate_ids": [
+    "af7d1b471786"
+   ],
+   "company": "Compuvi",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [
+    "Consulta Ventures"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-powered compliance platform.",
+   "description": "Enterprise AI preventive compliance platform Confinaid; pre-Series A bridge, amount undisclosed.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "$50 million post-money valuation",
+    "round": "pre-Series A bridge round",
+    "lead": null,
+    "investors": "investment from Consulta Ventures"
+   },
+   "source_urls": [
+    "https://pulse2.com/compuvi-reaches-50-million-valuation-following-consulta-ventures-investment/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "vigor marine",
+   "candidate_ids": [
+    "cc4407e0a60d"
+   ],
+   "company": "Vigor Marine",
+   "website": null,
+   "amount_usd": 45400000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Navy contract.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$45.4 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/vigor-marine-wins-contract-worth-up-to-45-4-million-for-usns-lucy-stone-work/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "korte construction",
+   "candidate_ids": [
+    "1690ac39ef99"
+   ],
+   "company": "Korte Construction",
+   "website": null,
+   "amount_usd": 38000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Army contract.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$38 million contract",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/korte-construction-wins-38-million-fort-gordon-barracks-contract/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  }
+ ]
+}

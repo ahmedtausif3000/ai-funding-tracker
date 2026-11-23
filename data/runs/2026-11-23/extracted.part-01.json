@@ -1,0 +1,373 @@
+{
+ "run_date": "2026-11-23",
+ "extractor": "claude-code routine",
+ "notes": "Group \"how helsinki\" text was thin/off-topic. Sierra: groups \"sierra says it is\" and \"sierra\" are the same round; the first marked duplicate. Matters.AI appears in digest group and in a separate group in part 4.",
+ "rows": [
+  {
+   "group_key": "theseus robotics",
+   "candidate_ids": [
+    "62610acef8bf"
+   ],
+   "company": "Theseus Robotics",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Robots for supermarkets.",
+   "description": "Robots working in supermarkets across Europe and US; raised about EUR 455k.",
+   "confidence": 0.4,
+   "evidence": {
+    "amount": "secures €455k",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.eu-startups.com/2026/11/theseus-robotics-secures-e455k-to-put-robots-to-work-in-supermarkets-across-europe-and-us/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "sierra says it is",
+   "candidate_ids": [
+    "8d8785d0e4fe"
+   ],
+   "company": "Sierra",
+   "website": null,
+   "amount_usd": 1750000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series F",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [
+    "Lightspeed",
+    "Greenoaks"
+   ],
+   "investors": [
+    "Lightspeed",
+    "Greenoaks"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Builds AI agents for customer interactions.",
+   "description": "AI agents that handle customer interactions and business tasks for large enterprises.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "Sierra says it is finalizing a funding round led by Lightspeed and Greenoaks at a $30 billion valuation",
+    "round": null,
+    "lead": "led by Lightspeed and Greenoaks",
+    "investors": "led by Lightspeed and Greenoaks"
+   },
+   "source_urls": [
+    "https://mlq.ai/news/sierra-says-it-is-finalizing-a-funding-round-led-by-lightspeed-and-greenoaks-at-a-30-billion-valuation/"
+   ],
+   "exclude_reason": "duplicate",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "european tech weekly recap",
+   "candidate_ids": [
+    "a623d2ae371c"
+   ],
+   "company": "European tech weekly recap",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Weekly roundup of European funding deals.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "More than 65 tech funding deals worth over €6B",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://tech.eu/2026/11/23/european-tech-weekly-recap-more-than-65-tech-funding-deals-worth-over-eur18b/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "texas pacific",
+   "candidate_ids": [
+    "05b0841981bf"
+   ],
+   "company": "Texas Pacific Land",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Acquisition of EagleRock Land by Texas Pacific Land, a public company.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$3 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/937341/texas-pacific-land-to-acquire-eaglerock-in-3-billion-all-stock-transaction/"
+   ],
+   "exclude_reason": "acquisition",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "how helsinki is selling",
+   "candidate_ids": [
+    "a5d1f7c40a68"
+   ],
+   "company": "Finland startup ecosystem",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Feature on Finnish startup ecosystem.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$2.2B",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://techfundingnews.com/finland-startup-ecosystem-late-stage-capital-slush-2026/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "devin maker",
+   "candidate_ids": [
+    "3d8b0926f8ba"
+   ],
+   "company": "Cognition",
+   "website": null,
+   "amount_usd": 2000000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Devin AI software engineer.",
+   "description": "Maker of Devin AI coding agent; reported in talks, not announced.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "in talks to raise $2B+ at $75B valuation",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://techfundingnews.com/report-devin-maker-cognition-in-talks-to-raise-2b-at-75b-valuation-two-months-after-48b-round/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "sierra",
+   "candidate_ids": [
+    "e23274b9d021"
+   ],
+   "company": "Sierra",
+   "website": "sierra.ai",
+   "amount_usd": 1750000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series F",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [
+    "Greenoaks",
+    "Lightspeed Venture Partners"
+   ],
+   "investors": [
+    "Greenoaks",
+    "Lightspeed Venture Partners",
+    "Benchmark",
+    "Sequoia",
+    "GV",
+    "Tiger Global"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Builds AI agents for enterprise customer service.",
+   "description": "AI agents that handle customer interactions and carry out business tasks for large enterprises.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "raising $1.75 billion in Series F funding at a $30 billion valuation",
+    "round": "Series F",
+    "lead": "led by Greenoaks and Lightspeed Venture Partners",
+    "investors": "led by Greenoaks and Lightspeed Venture Partners"
+   },
+   "source_urls": [
+    "https://www.unite.ai/sierra-raises-1-75b-in-series-f-funding-at-30b-valuation/"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "indias",
+   "candidate_ids": [
+    "c7d57013c2f3",
+    "697d494aeaec",
+    "3884ab651197"
+   ],
+   "company": "India's AI funding report",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Tracxn report on Indian AI funding.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$1.6 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.fortuneindia.com/amp/story/startups-news/indias-ai-funding-nearly-doubles-to-16-billion-but-a-handful-of-deals-drive-the-surge-report/171774"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "india digest tanglin backs",
+   "candidate_ids": [
+    "326f0c24df50",
+    "e887c230189d",
+    "76a7eda45285",
+    "f48f2abe1e6e",
+    "ea3a8d32a644"
+   ],
+   "company": "Matters.AI",
+   "website": null,
+   "amount_usd": 12000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [
+    "Tanglin Venture Partners"
+   ],
+   "investors": [
+    "Tanglin Venture Partners"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI security engineer for data.",
+   "description": "AI security engineer for enterprise data protection; pre-Series A about $12M.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Rs 115 crore ($12 million) in a pre-Series A funding round",
+    "round": null,
+    "lead": "led by Tanglin Venture Partners",
+    "investors": "led by Tanglin Venture Partners"
+   },
+   "source_urls": [
+    "https://www.dealstreetasia.com/stories/tanglin-matters-ai-ionic-wealth-501922"
+   ],
+   "exclude_reason": "duplicate",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "top tech news nano",
+   "candidate_ids": [
+    "fe8fa786f34c"
+   ],
+   "company": "Nano Core",
+   "website": null,
+   "amount_usd": 140000000,
+   "amount_disclosed": true,
+   "currency_note": "RMB 1B at about 0.14 (approx)",
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI chip startup.",
+   "description": "Chinese AI chip startup; Series C2 over RMB 1 billion.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "over RMB 1 billion in Series C2 funding",
+    "round": "Series C2",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.analyticsinsight.net/amp/story/tech-news/top-tech-news-nano-core-raises-usd-1-billion-akash-launches-gpu-marketplace"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-23"
+  }
+ ]
+}

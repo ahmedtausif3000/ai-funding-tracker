@@ -1,0 +1,290 @@
+{
+ "run_date": "2026-11-23",
+ "extractor": "claude-code routine",
+ "notes": "Matters.AI also in part 1 digest (marked duplicate there).",
+ "rows": [
+  {
+   "group_key": "selkirk copper",
+   "candidate_ids": [
+    "7a3bf86b082a"
+   ],
+   "company": "Selkirk Copper Mines",
+   "website": null,
+   "amount_usd": 30000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CA",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Convertible debenture for mining.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "US$30 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.tradingview.com/news/tmx_newsfile:4adaca92b094b:0-selkirk-copper-announces-us-30-million-convertible-debenture-financing/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "velosano",
+   "candidate_ids": [
+    "6e7a82682fae"
+   ],
+   "company": "VeloSano",
+   "website": null,
+   "amount_usd": 20200000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Charity fundraising.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$20.2 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://wisevoter.com/world/us/oh/cleveland/2026/11/22/velosano-raises-20-2-million-cancer-research"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "huntington ingalls",
+   "candidate_ids": [
+    "7b5f6f07f5f1"
+   ],
+   "company": "Huntington Ingalls",
+   "website": null,
+   "amount_usd": 20000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Navy contracts to a public company.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$20 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/huntington-ingalls-receives-20-million-across-submarine-and-cruiser-support-awards/"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "enhanced robotics",
+   "candidate_ids": [
+    "e385f6113a9b"
+   ],
+   "company": "Enhanced Robotics",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Shenzhen",
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI tennis robot maker.",
+   "description": "Shenzhen maker of AI tennis robots (TENNIIX).",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "raises $15M Series B",
+    "round": "Series B",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/ai-tennis-robot-maker-enhanced-robotics-raises-15m-series-b"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "matters",
+   "candidate_ids": [
+    "b364170daec8",
+    "8b48f5704987",
+    "41cd4a059508",
+    "4daef79114e3",
+    "8d1c01fdaef5",
+    "ec3992cd2be0",
+    "eee1794a8c8a",
+    "a07b51998683"
+   ],
+   "company": "Matters.AI",
+   "website": null,
+   "amount_usd": 12000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [
+    "Tanglin Venture Partners"
+   ],
+   "investors": [
+    "Tanglin Venture Partners"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI security engineer.",
+   "description": "AI security engineer for enterprise data; pre-Series A.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Rs 115 Cr In Pre-Series A Round",
+    "round": null,
+    "lead": "Led By Tanglin Venture Partners",
+    "investors": "Led By Tanglin Venture Partners"
+   },
+   "source_urls": [
+    "https://www.bwdisrupt.com/article/matters-ai-raises-rs-115-cr-in-pre-series-a-round-led-by-tanglin-venture-partners-634818"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "oymotion",
+   "candidate_ids": [
+    "2cca196fb898"
+   ],
+   "company": "OYMotion",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Series D",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Embodied AI hands.",
+   "description": "Chinese maker of embodied AI hands.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "raises hundreds of millions in Series D",
+    "round": "Series D",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/oymotion-raises-hundreds-of-millions-in-series-d-for-embodied-ai-hands"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "smeetz",
+   "candidate_ids": [
+    "b6e435cd4987"
+   ],
+   "company": "Smeetz",
+   "website": null,
+   "amount_usd": 6000000,
+   "amount_disclosed": true,
+   "currency_note": "CHF 5.5M approx",
+   "round_type": "Other",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CH",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Swiss startup.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "raises CHF 5.5 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://ggba.swiss/en/smeetz-raises-chf-5-5-million-and-turns-profitable/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "ramaphosas r100 million plan",
+   "candidate_ids": [
+    "98e3d0586acb"
+   ],
+   "company": "South Africa AI fund plan",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "ZA",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Government plan for AI fund.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "R100-million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://scrolla.africa/ramaphosas-r100-million-technology-plan-raises-hopes-for-jobs/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  }
+ ]
+}

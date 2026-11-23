@@ -1,0 +1,357 @@
+{
+ "run_date": "2026-11-23",
+ "extractor": "claude-code routine",
+ "notes": "Marlowe HQ not verified (two web searches found nothing); hq_country unknown so it will not be in view.",
+ "rows": [
+  {
+   "group_key": "litmus music",
+   "candidate_ids": [
+    "6a4f0fe24021"
+   ],
+   "company": "Litmus Music",
+   "website": null,
+   "amount_usd": 475000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Music-rights acquirer backed by Carlyle and KKR; capital commitments.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "approximately $475 million in new capital commitments",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/litmus-music-secures-475-million-from-carlyle-and-kkr/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "crypto dealbook",
+   "candidate_ids": [
+    "204ab2ef1d4a"
+   ],
+   "company": "Crypto dealbook roundup",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Weekly crypto funding roundup; Variational $110M Series B.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Variational led the latest week with a $110 million Series B",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.tokenpost.com/news/business/62432"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "tamara",
+   "candidate_ids": [
+    "237033f57b28",
+    "e9f10efde1b8"
+   ],
+   "company": "Tamara",
+   "website": null,
+   "amount_usd": 400000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "SA",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Saudi BNPL; asset-backed financing from MUFG and Standard Chartered.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "Tamara secures $400 million from MUFG and Standard Chartered",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.fwdstart.me/p/tamara-secures-400-million-from-mufg-and-standard-chartered-as-lending-business-grows"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "draper",
+   "candidate_ids": [
+    "b35def0ce5a4"
+   ],
+   "company": "Draper",
+   "website": null,
+   "amount_usd": 315700000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Navy contract modification.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$315.7 million contract modification",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/draper-receives-315-7-million-for-trident-ii-guidance-engineering/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "applied digital",
+   "candidate_ids": [
+    "155e1be463bc",
+    "ccf52bb4906c"
+   ],
+   "company": "Applied Digital",
+   "website": null,
+   "amount_usd": 300000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Public AI data center operator; $300M senior secured bridge facility.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$300 Million Senior Secured Bridge Facility",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.streetinsider.com/Globe+Newswire/Applied+Digital+Announces+%24300+Million+Senior+Secured+Bridge+Facility+Led+by+a+Leading+Global+Financial+Institution/27384424.html"
+   ],
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "adani airports",
+   "candidate_ids": [
+    "3320c3c3b4b5"
+   ],
+   "company": "Adani Airports",
+   "website": null,
+   "amount_usd": 300000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Airport operator equity raise.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "raises ~USD 300 million primary equity",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.adani.com/newsroom/media-releases/adani-airports-raises-usd-300-million-primary-equity-from-360-one-asset"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "marlowe 277m seed round",
+   "candidate_ids": [
+    "31b474236be6",
+    "8652d159656b",
+    "4ba9da2de2b3",
+    "1e6bdc4cb4ea",
+    "4d2152f857d1"
+   ],
+   "company": "Marlowe",
+   "website": null,
+   "amount_usd": 277000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-23",
+   "lead_investors": [
+    "Accel"
+   ],
+   "investors": [
+    "Accel"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Runs AI inference on non-Nvidia chips.",
+   "description": "Builds computing power for AI inference on non-Nvidia chips (multi-silicon AI factories).",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "Marlowe raises a $277 million seed round led by Accel",
+    "round": "seed round",
+    "lead": "led by Accel",
+    "investors": "led by Accel"
+   },
+   "source_urls": [
+    "https://www.bloomberg.com/news/articles/2026-11-23/marlowe-raises-277-million-to-bolster-alternatives-to-nvidia-chips"
+   ],
+   "exclude_reason": null,
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "crowley government services",
+   "candidate_ids": [
+    "90a6e655dea6"
+   ],
+   "company": "Crowley Government Services",
+   "website": null,
+   "amount_usd": 270400000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Navy contract.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$270.4 million contract",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/crowley-government-services-wins-270-4-million-navy-vessel-operations-contract/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "vc funding rebounds as",
+   "candidate_ids": [
+    "7155f9ffc04e"
+   ],
+   "company": "VC funding roundup",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "YourStory weekly roundup.",
+   "confidence": 0.8,
+   "evidence": {
+    "amount": "startups raise $255M",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://yourstory.com/2026/11/vc-funding-rebounds-women-founders-social-change"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  },
+  {
+   "group_key": "prince georges county approves",
+   "candidate_ids": [
+    "ec1c74f848a5"
+   ],
+   "company": "Prince George's County Sphere",
+   "website": null,
+   "amount_usd": 215000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-23",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI/ML company.",
+   "description": "Public bond financing for venue.",
+   "confidence": 0.95,
+   "evidence": {
+    "amount": "$215 million financing package",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/937181/prince-georges-county-approves-215m-financing-plan-for-1-4b-sphere-at-national-harbor/"
+   ],
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23"
+  }
+ ]
+}
