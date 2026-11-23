@@ -1,0 +1,1053 @@
+{
+  "run_date": "2026-11-23-2350",
+  "generated_at": "2026-11-23T23:51:21.565Z",
+  "window_days": 2,
+  "range": null,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 200,
+        "items": 48
+      },
+      {
+        "id": "gnews-2",
+        "status": 200,
+        "items": 28
+      },
+      {
+        "id": "gnews-3",
+        "status": 200,
+        "items": 54
+      },
+      {
+        "id": "gnews-4",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-5",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "gnews-6",
+        "status": 200,
+        "items": 53
+      },
+      {
+        "id": "gnews-7",
+        "status": 200,
+        "items": 31
+      },
+      {
+        "id": "gnews-8",
+        "status": 200,
+        "items": 4
+      },
+      {
+        "id": "gnews-g1",
+        "status": 200,
+        "items": 26
+      },
+      {
+        "id": "gnews-g2",
+        "status": 200,
+        "items": 14
+      },
+      {
+        "id": "gnews-g3",
+        "status": 200,
+        "items": 14
+      },
+      {
+        "id": "gnews-g4",
+        "status": 200,
+        "items": 37
+      },
+      {
+        "id": "gnews-g5",
+        "status": 200,
+        "items": 31
+      },
+      {
+        "id": "gnews-g6",
+        "status": 200,
+        "items": 22
+      },
+      {
+        "id": "gnews-g7",
+        "status": 200,
+        "items": 37
+      },
+      {
+        "id": "gnews-g8",
+        "status": 200,
+        "items": 32
+      },
+      {
+        "id": "gnews-g9",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "pulse2",
+        "status": 200,
+        "items": 120
+      },
+      {
+        "id": "citybiz",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 735,
+    "prefiltered": 93,
+    "dropped": {
+      "not_funding": 249,
+      "no_ai_hint": 72,
+      "below_min": 85,
+      "fund_close": 7,
+      "seen": 156,
+      "duplicate_link": 71,
+      "known_round": 61,
+      "noise": 2
+    },
+    "groups": 62,
+    "selected_groups": 25,
+    "candidates": 32,
+    "articles_fetched": 18,
+    "google_rate_limited": false
+  },
+  "groups": [
+    {
+      "key": "anthropic",
+      "company_guess": "Anthropic",
+      "amount_hint_usd": 119500000000,
+      "candidate_ids": [
+        "4137cca3c455"
+      ]
+    },
+    {
+      "key": "sierra doubles valuation to",
+      "company_guess": "Sierra doubles valuation to",
+      "amount_hint_usd": 30000000000,
+      "candidate_ids": [
+        "d6a5b08e3fa8"
+      ]
+    },
+    {
+      "key": "banner ridge",
+      "company_guess": "Banner Ridge",
+      "amount_hint_usd": 15400000000,
+      "candidate_ids": [
+        "42aaab226b23"
+      ]
+    },
+    {
+      "key": "libertas funding surpasses 6",
+      "company_guess": "Libertas Funding Surpasses $6",
+      "amount_hint_usd": 6000000000,
+      "candidate_ids": [
+        "8c4d00a61ad0"
+      ]
+    },
+    {
+      "key": "afreximbank commits 2bn to",
+      "company_guess": "Afreximbank commits $2bn to",
+      "amount_hint_usd": 2000000000,
+      "candidate_ids": [
+        "e211fd65f827"
+      ]
+    },
+    {
+      "key": "bath & body works",
+      "company_guess": "Bath & Body Works",
+      "amount_hint_usd": 500000000,
+      "candidate_ids": [
+        "d52d7c5d030a"
+      ]
+    },
+    {
+      "key": "w w grainger stock",
+      "company_guess": "W.W. Grainger stock: Company",
+      "amount_hint_usd": 400000000,
+      "candidate_ids": [
+        "1e374b5c81c4"
+      ]
+    },
+    {
+      "key": "morgan & morgan",
+      "company_guess": "Morgan & Morgan",
+      "amount_hint_usd": 346000000,
+      "candidate_ids": [
+        "e47ec0fda55b"
+      ]
+    },
+    {
+      "key": "quantum space completes spac",
+      "company_guess": "Quantum Space Completes SPAC",
+      "amount_hint_usd": 300000000,
+      "candidate_ids": [
+        "cb71a03ab036"
+      ]
+    },
+    {
+      "key": "california water service group",
+      "company_guess": "California Water Service Group",
+      "amount_hint_usd": 275000000,
+      "candidate_ids": [
+        "42789a1ca024"
+      ]
+    },
+    {
+      "key": "hunt capital",
+      "company_guess": "Hunt Capital",
+      "amount_hint_usd": 238600000,
+      "candidate_ids": [
+        "4d7597c3b5d7"
+      ]
+    },
+    {
+      "key": "walker & dunlop arranges",
+      "company_guess": "Walker & Dunlop Arranges",
+      "amount_hint_usd": 203500000,
+      "candidate_ids": [
+        "01d846feb29b"
+      ]
+    },
+    {
+      "key": "everli",
+      "company_guess": "Everli",
+      "amount_hint_usd": 200000000,
+      "candidate_ids": [
+        "d54514933170"
+      ]
+    },
+    {
+      "key": "embo",
+      "company_guess": "Embo",
+      "amount_hint_usd": 110000000,
+      "candidate_ids": [
+        "888c134a0bb2",
+        "3f25a4e24f5e",
+        "2a57e4238ea0",
+        "33cea794146a"
+      ]
+    },
+    {
+      "key": "energy vault",
+      "company_guess": "Energy Vault",
+      "amount_hint_usd": 78000000,
+      "candidate_ids": [
+        "f095e8268fe8",
+        "cd9b85b26116"
+      ]
+    },
+    {
+      "key": "uk government funds back",
+      "company_guess": "UK Government Funds Back",
+      "amount_hint_usd": 70000000,
+      "candidate_ids": [
+        "061e3ead8b46"
+      ]
+    },
+    {
+      "key": "myriota",
+      "company_guess": "Myriota",
+      "amount_hint_usd": 60000000,
+      "candidate_ids": [
+        "b2e54aa2f5b5",
+        "98665d28494c",
+        "13aa108c14b5"
+      ]
+    },
+    {
+      "key": "banco sabadell",
+      "company_guess": "Banco Sabadell",
+      "amount_hint_usd": 56000000,
+      "candidate_ids": [
+        "71b023696108"
+      ]
+    },
+    {
+      "key": "braiin",
+      "company_guess": "BRAIIN",
+      "amount_hint_usd": 40000000,
+      "candidate_ids": [
+        "3041ae0d6387"
+      ]
+    },
+    {
+      "key": "aidenai",
+      "company_guess": "AidenAI",
+      "amount_hint_usd": 32000000,
+      "candidate_ids": [
+        "88619da25a59"
+      ]
+    },
+    {
+      "key": "supertake",
+      "company_guess": "Supertake",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "0d63fb1e6c01"
+      ]
+    },
+    {
+      "key": "brunswick exploration",
+      "company_guess": "Brunswick Exploration",
+      "amount_hint_usd": 19500000,
+      "candidate_ids": [
+        "604751245e3f",
+        "75c79f5993f7"
+      ]
+    },
+    {
+      "key": "apricity",
+      "company_guess": "Apricity",
+      "amount_hint_usd": 16100000,
+      "candidate_ids": [
+        "09f7cbe339b5"
+      ]
+    },
+    {
+      "key": "dublin robotics",
+      "company_guess": "Dublin robotics",
+      "amount_hint_usd": 16000000,
+      "candidate_ids": [
+        "9ece44b56534"
+      ]
+    },
+    {
+      "key": "16 year olds",
+      "company_guess": "16-Year-Old’s AI",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "86ca6d3a9237"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "4137cca3c455",
+      "title": "Anthropic Launches with a Market Valuation of $119.5 Billion",
+      "publisher": "RS Web Solutions",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmhseTRTTldoemJtX0cza0VNd1ZOTjlLbHVKTkdKVU42ekJ2MDFabk83bHEwMTduZS1tcWowVTlaN01vUnhYWUY4TG5rUFFDUFpoM0NoSFFIZUVhNXlERjhVeUw1RGRya1Y4Y09MTU9MeGVNU1paaG1hX3hGN08xenB3R3FEVUtfMWxpWDJPZmE0SzZxRlE?oc=5",
+      "published_at": "2026-11-23T20:00:00.000Z",
+      "publisher_url": "https://www.rswebsols.com",
+      "snippet": "Anthropic Launches with a Market Valuation of $119.5 Billion RS Web Solutions",
+      "source_feed": "gnews-g8",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 119500000000,
+        "currency": "USD",
+        "raw": "$119.5 Billion"
+      },
+      "company_guess": "Anthropic",
+      "group_key": "anthropic",
+      "group_rank": 0,
+      "resolved_url": "https://www.rswebsols.com/news/anthropic-launches-with-a-market-valuation-of-119-5-billion/",
+      "text": "Anthropic’s Historic IPO: A Major Launch in the AI Sphere\nAnthropic, the innovative artificial intelligence company renowned for its chatbot Claude, has successfully executed its initial public offering (IPO), garnering approximately $119.5 billion during its stock market introduction, alongside a distinct investment round featuring involvement from several leading technology corporations.\nTrading commenced on the Nasdaq stock exchange on November 19 under the ticker symbol “ANT,” with initial share prices set at $83 each.\nThe IPO reached official closure on November 20, raising around $93.5 billion, as articulated in a recent announcement from Anthropic.\nIn conjunction with its public offering, Anthropic has also procured an impressive $26 billion in private investments from tech behemoths such as Google, Microsoft, NVIDIA, AMD, Broadcom, Micron Technology, and TSMC Partners.\nThis influx of capital underscores the steadfast support from prominent technology entities as Anthropic strives to fortify its foothold within the intensifying generative AI landscape, competing against notable rivals like OpenAI and Google.\nNevertheless, Anthropic’s market debut surfaced against a backdrop of escalating investor trepidation regarding the profitability of AI ventures.\nAs reported by CNN, shares experienced a decline of 8.5% on November 20, paralleled by a 5.28% drop in the Nasdaq Composite, effectively erasing the year’s gains.\nThis decline signifies the intensified scrutiny facing AI enterprises to yield concrete returns from their considerable investments in AI technology and infrastructure.\nFurthermore, the IPO follows a notable surge in Anthropic’s expenditures on marketing and advertising.\nAccording to its IPO prospectus, the company allocated $3.17 billion to sales, marketing, and partnerships during the first half of 2026, a marked increase from $120 million the previous year.\nThis expenditure included a $273 million uplift in marketing and advertising costs, propelled by enhanced media investments to back product launches.\nIn addition to ramping up marketing efforts, Anthropic is also broadening its global presence, recently inaugurating an office in Singapore located at Raffles Place.\nThe company has established a memorandum of understanding (MOU) with the Ministry of Digital Development and Information (MDDI).\nThis collaborative endeavor aims to promote AI safety, security, and responsible integration through research, technical exchanges, and cooperation regarding AI model evaluation and testing standards.\nSource link: Marketing-interactive.com .\nTopics: Digital Marketing / Anthropic / Market Valuation / AI Industry / Innovation / Growth\n&laquo; Previous Article\nNext Article &raquo;\nDisclosure: This article is for general information only and is based on publicly available sources. We aim for accuracy but can't guarantee it. The views expressed are the author's and may not reflect those of the publication. Some content was created with help from AI and reviewed by a human for clarity and accuracy. We value transparency and encourage readers to verify important details. This article may include affiliate links. If you buy something through them, we may earn a small commission — at no extra cost to you. All information is carefully selected and reviewed to ensure it's helpful and trustworthy.\nReported By\nRanjana Banerjee\nI’m Ranjana Banerjee, Creative Content Manager at RSWEBSOLS in Kolkata, India, with 10+ years of experience in blogging, SEO, digital marketing, and e-commerce. I create high-quality content and SEO strategies that boost traffic, improve rankings, and help businesses grow in competitive markets.\nShare the Love\nRelated News Worth Reading\nHyper Bit Technologies Unveils Distributed AI Project and Marketing Partnerships\nMarketing Struggles When Business Finances Are Down: Trade Desk, News, Mutinex, Tracksuit, and Asahi Embrace New Metrics-Focused Marketing Strategy\nLi-FT Power Links $1.4 Million Marketing Investment to Adina’s Revaluation Set for Early 2027\nMeesho Aims for 200,000 YouTube Creators; Launches 30 Million Products for Affiliate Marketing\nAnthropic Begins Promoting Shares in Preparation for Initial Public Offering\nPolymarket Reduces Marketing Team While Pursuing $600K Fraud Executive",
+      "text_status": "ok"
+    },
+    {
+      "id": "d6a5b08e3fa8",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "publisher": "Ivan Mehta",
+      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "published_at": "2026-11-23T14:43:03.000Z",
+      "publisher_url": null,
+      "snippet": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "source_feed": "techcrunch-ai",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 30000000000,
+        "currency": "USD",
+        "raw": "$30B"
+      },
+      "company_guess": "Sierra doubles valuation to",
+      "group_key": "sierra doubles valuation to",
+      "group_rank": 0,
+      "resolved_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "text": "Enterprise customer experience company Sierra , co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round that doubles the company’s valuation to $30 billion. The new raise comes within six months of its previous round, which valued the company at $15 billion .\nThe new round was led by Greenoaks and Lightspeed Venture Partners, with participation from existing investors who have led previous rounds, including Benchmark, Sequoia, Greenoaks, GV, and Tiger Global.\nEnterprise automation is among the few areas where AI has seen rapid adoption. Sierra said that it currently serves almost 50% of Fortune 50 companies, and its clients include BNY, HSBC, Singtel, Wells Fargo, JPMorganChase, Pearson, Next, and Cox Automotive. The company late last month said its outcome-based pricing model has helped it double its run-rate revenue to $400 million within five months .\nThat said, Sierra is working along similar lines as other customer experience players in the market, which is creating a platform to build agents and partner with model developers to provide choices to enterprises. As personal and work agents interact with enterprise systems, Sierra is also working on creating protocol definitions for agents with companies like Meta, Stripe, and Walmart.\nSierra will use the fresh cash build to its technology stack to layer agents for servicing and hire more sales folks to sign and maintain enterprise contracts faster than its rivals.\nStartups operating in the CX space have seen multimillion-dollar rounds come their way with soaring valuations. Voice AI company ElevenLabs is now valued at $22 billion; Decagon is valued at $4.5 billion ; Wonderful is valued at $5 billion ; and Parloa is valued at $3 billion . Multiple other startups have scored investments of more than $100 million.\nDuring the HumanX conference in Amsterdam in September, Sierra co-founder Clay Bavor argued that despite the popular belief that AI-powered CX companies are replacing humans in contact centers, a majority of its customers are reassigning roles to existing employees.\nTopics\nAI , Bret Taylor , customer experience , Enterprise , Fundraising , sierra\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\nIvan Mehta\nIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\nYou can contact or verify outreach from Ivan by emailing [email protected] or via encrypted message at ivan.42 on Signal.\nView Bio\n2027\nSan Francisco\nGet an Early Peek at the Next TechCrunch Disrupt\nDisrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line.\nSign up for our waitlist\nRegister Now\nMost Popular\nStartup sues Apple in India over tap-to-share contacts feature\nJagmeet Singh\nAI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too\nTim Fernholz\nMicrosoft CEO Satya Nadella explains why he asked 60K employees to quit\nJulie Bort\nPalmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated\nAmanda Silberling\nAmazon and Google will together own nearly 30% of Anthropic after its IPO\nJulie Bort\nGoogle joins the tech outage trend by announcing it’s not having one\nSarah Perez\nApple services, including iCloud, App Store, Apple Music, and more, hit by outage\nSarah Perez",
+      "text_status": "ok"
+    },
+    {
+      "id": "42aaab226b23",
+      "title": "Banner Ridge Partners Announces Strategic Growth Investment from Bisonti Partners and Bonaccord Capital Partners",
+      "publisher": "",
+      "link": "https://www.prnewswire.com/news-releases/banner-ridge-partners-announces-strategic-growth-investment-from-bisonti-partners-and-bonaccord-capital-partners-302947321.html",
+      "published_at": "2026-11-23T21:00:00.000Z",
+      "publisher_url": null,
+      "snippet": "Investment reflects Banner Ridge's growth trajectory, with assets under management more than doubling since 2024 NEW YORK, Nov. 23, 2026 /PRNewswire/ -- Banner Ridge Partners (\"Banner Ridge\" or the \"Firm\"), a $15.4 billion private markets investment specialist, today announced a strategic...",
+      "source_feed": "prnewswire-vc",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 15400000000,
+        "currency": "USD",
+        "raw": "$15.4 billion"
+      },
+      "company_guess": "Banner Ridge",
+      "group_key": "banner ridge",
+      "group_rank": 0,
+      "resolved_url": "https://www.prnewswire.com/news-releases/banner-ridge-partners-announces-strategic-growth-investment-from-bisonti-partners-and-bonaccord-capital-partners-302947321.html",
+      "text": "Banner Ridge Partners Announces Strategic Growth Investment from Bisonti Partners and Bonaccord Capital Partners\nNews provided by\nBanner Ridge Partners\nNov 23, 2026, 16:00 ET\nShare this article\nShare this article\nInvestment reflects Banner Ridge's growth trajectory, with assets under management more than doubling since 2024\nNEW YORK , Nov. 23, 2026 /PRNewswire/ -- Banner Ridge Partners (\"Banner Ridge\" or the \"Firm\"), a $15.4 billion private markets investment specialist, today announced a strategic growth investment from Bisonti Partners (\"Bisonti\") and Bonaccord Capital Partners (\"Bonaccord\").\nThe transaction provides growth capital to support Banner Ridge's ongoing institutionalization. Under the terms of the agreement, Bisonti and Bonaccord are passive, non-voting partners in Banner Ridge. There will be no changes to the Firm's team, strategy, investment process, or day-to-day management and operations. Financial terms of the transaction were not disclosed.\nAnthony Cusano and C.J. Driessen, Co-founders of Banner Ridge, said: \"This continued partnership with Bisonti and the addition of Bonaccord as a partner come at an important time for Banner Ridge as we build on the momentum of Secondary Fund VI and pursue opportunities across credit secondaries and special situations. We value the support of both firms as we continue to grow our business.\"\nAnthony Maniscalco, Managing Partner and Head of Bisonti Partners, and Tim Osnabrug, Investment Partner at Bisonti Partners, said: \"Since our initial investment in 2024, Banner Ridge has meaningfully grown its platform. The Firm continues to demonstrate its differentiated position in credit secondaries and its ability to attract strong investor demand, as evidenced by recently raising $4.2 billion for its oversubscribed Secondary Fund VI. The credit secondaries market is experiencing a phase of significant structural growth, with transaction volumes rising in recent years and multiple forecasts projecting annual volume of $50 billion or more by 2030. Together with persistent low levels of liquidity in private markets, these tailwinds create a compelling environment for a category leader like Banner Ridge. We are pleased with the strength of our partnership and look forward to working closely with Bonaccord Capital Partners and the Banner Ridge team as Banner Ridge capitalizes on the many growth opportunities ahead.\"\nAjay Chitkara, Managing Partner at Bonaccord Capital Partners, said: \"We are thrilled to partner with Tony, C.J. and the Banner Ridge team at an exciting point in the Firm's evolution. Banner Ridge has built a differentiated platform across credit secondaries and special situations, supported by deep investment expertise and a strong foundation for continued growth. Bonaccord was built to help exceptional private markets firms capitalize on moments like this, combining flexible growth capital with value creation expertise, institutional relationships and the broader resources of our platform. We look forward to working closely with Bisonti Partners and the Banner Ridge team to support Banner Ridge's continued success and further strengthen the enduring business they have built.\"\nBisonti and Bonaccord are experienced strategic partners to private markets firms, providing long-term, non-control capital to support the growth and development of leading middle-market managers. Their investment approaches are grounded in long-term partnership, alignment and a commitment to helping established firms capitalize on opportunities to scale their platforms and build enduring franchises.\nBisonti's follow-on investment expands the partnership established in 2024, under which Bisonti provided primary growth capital to support Banner Ridge's strategy across credit secondaries and co-investment platforms.\nDebevoise & Plimpton LLP served as legal counsel to Banner Ridge Partners. Fried Frank served as legal counsel to Bisonti and Sidley Austin LLP served as legal counsel to Bonaccord.\nPress Contacts\nBanner Ridge Partners\nAnthony Cusano\nManaging Partner\n[email protected]\nBisonti Partners\nJenny Boyd\nFTI Consulting\nCommunications Advisors\n[email protected]\nBonaccord Capital Partners\nInvestor Relations:\nSophia Katz\n[email protected]\nMedia Relations:\nProsek Partners\n[email protected]\nAbout Banner Ridge Partners\nBanner Ridge Partners is a $15.4 billion alternative investment specialist that identifies best-in-class private equity managers in niche markets. The Firm manages discrete investment vehicles for primary, co-investment, and secondary investment strategies. Banner Ridge is led by a senior team with significant private markets experience. By targeting deep value opportunities, focusing on fragmented markets, and working through structural complexities, we believe we can exceed the investment goals of our clients. To learn more about Banner Ridge, please visit www.BannerRidge.com .\nAbout Bisonti Partners\nBisonti Partners, which rebranded from Investcorp Strategic Capital Group in September 2026, is the GP capital solutions business of Investcorp, a global alternative investment firm founded in 1982. Bisonti Partners operates as an integral part of Investcorp's global investment platform, backing high-growth private capital managers in the middle market, generally those managing between $1 billion and $10 billion in assets. Since its inception in 2019, Bisonti Partners has partnered with over a dozen GPs investing in private equity, private credit, real assets, infrastructure, structured capital, and secondaries. The combined AUM of Partner GPs exceeds $105 billion. Investment advisory services are provided by Investcorp Investment Advisers LLC, a registered investment advisor and a wholly owned subsidiary of Investcorp Holdings B.S.C. (c). The promotion and content of the GP capital solutions business mentioned here are conducted under the trade name Bisonti Partners. Bisonti Partners is a registered 'doing business as' (DBA) name owned by the Investco",
+      "text_status": "ok"
+    },
+    {
+      "id": "8c4d00a61ad0",
+      "title": "Libertas Funding Surpasses $6 Billion In Small Business Financing As Growth Accelerates",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/libertas-funding-surpasses-6-billion-in-small-business-financing-as-growth-accelerates/",
+      "published_at": "2026-11-23T18:47:19.000Z",
+      "publisher_url": null,
+      "snippet": "Libertas Funding has surpassed $6 billion in cumulative financing facilitated to U.S. small and medium-sized businesses, reaching the milestone as it marks its 10th anniversary.\nThe post Libertas Funding Surpasses $6 Billion In Small Business Financing As Growth Accelerates appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 6000000000,
+        "currency": "USD",
+        "raw": "$6 Billion"
+      },
+      "company_guess": "Libertas Funding Surpasses $6",
+      "group_key": "libertas funding surpasses 6",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/libertas-funding-surpasses-6-billion-in-small-business-financing-as-growth-accelerates/",
+      "text": "Libertas Funding Surpasses $6 Billion In Small Business Financing As Growth Accelerates\nBy Amit Chowdhry\nToday at 1:47 PM\nLibertas Funding Surpasses $6 Billion In Small Business Financing As Growth Accelerates\nLibertas Funding has surpassed $6 billion in cumulative financing facilitated to U.S. small and medium-sized businesses, reaching the milestone as it marks its 10th anniversary.\nThe Greenwich, Connecticut-based company facilitated its latest $1 billion in approximately nine months, its fastest billion-dollar expansion since launching in 2016. By comparison, reaching its first $1 billion took five years.\nThe milestone represents cumulative funding across all Libertas financing products since inception. It reflects financing facilitated over the company’s history rather than a current loan portfolio balance.\nLibertas provides revenue-based financing and access to term loans generally ranging from $100,000 to $15 million. Funding decisions can be made in as little as one business day. Term loans are issued by WebBank and serviced by Libertas through its partnership with the bank.\nThe company said it funded more new clients in 2026 than in any previous year, reflecting a broader customer base alongside the acceleration in cumulative financing volume.\nAccording to Libertas’ market analysis, businesses spent much of the past year restructuring operations, preserving capital and preparing for growth as conditions stabilized. The company characterized that behavior as postponing investment rather than abandoning expansion plans.\nIts financing offering is designed to help operators access capital quickly enough to act on business opportunities. As transaction volume grows, maintaining underwriting discipline and timely decisions remains a central operating priority.\nThe latest milestone brings together two measures of the company’s development: a decade of operations and a substantially shorter period required to facilitate each additional billion dollars. Libertas attributes that acceleration to demand for flexible growth capital and its ability to underwrite and fund at greater scale.\nKEY QUOTES\n“Six billion dollars is less a finish line than a measure of momentum. It took us five years to facilitate the first billion and a fraction of that to facilitate the most recent billion. That compression is the clearest signal of what a decade of disciplined building produces.”\n“The businesses we back spent the past year repositioning rather than retreating, and they are now ready to move. At ten years old our job is the same as it was at one: put capital in the hands of good operators fast enough that they can act while the opportunity is still in front of them.”\n“Scale only matters if the next business through the door still gets a decision measured in days, not weeks. Keeping that true at six billion dollars is what I am proudest of.”\nJohn Paradisi, Chief Executive Officer Of Libertas Funding\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "e211fd65f827",
+      "title": "Afreximbank commits $2bn to African creative industry, announces $118m Nigeria funding",
+      "publisher": "Western Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFBXQkdSNWc2c2wyaUpicEVLVnFCd3EzLXRxTXZKWm1YVlZaUWNmZGpfQTRkd3h0N3ZLTkVVUVhvdEphZU45dGF6LV96dl9TTmhFMDZwaXYxY3VTVUJ3RlZTd3JsTXZrZzFuX0ZtX2VvM3Y0aXdsSXRpWV9YQ3NFZEFGWXNWbDhVbTdKU19SdGFkLTd4SnRaOFlndWhWS0c1bTZ3SWplZE1OcEZpV3RaTQ?oc=5",
+      "published_at": "2026-11-23T19:50:20.000Z",
+      "publisher_url": "https://www.westernpost.ng",
+      "snippet": "Afreximbank commits $2bn to African creative industry, announces $118m Nigeria funding Western Post",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 2000000000,
+        "currency": "USD",
+        "raw": "$2bn"
+      },
+      "company_guess": "Afreximbank commits $2bn to",
+      "group_key": "afreximbank commits 2bn to",
+      "group_rank": 0,
+      "resolved_url": "https://www.westernpost.ng/afreximbank-commits-2bn-to-african-creative-industry-announces-118m-nigeria-funding/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "d52d7c5d030a",
+      "title": "Bath & Body Works Raises Sales Outlook And Authorizes $500 Million Repurchase Program",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/bath-body-works-raises-sales-outlook-and-authorizes-500-million-repurchase-program/",
+      "published_at": "2026-11-23T18:30:39.000Z",
+      "publisher_url": null,
+      "snippet": "Bath & Body Works raised its fiscal 2026 sales outlook and announced a new $500 million share-repurchase authorization after third-quarter sales and adjusted earnings exceeded its guidance.\nThe post Bath & Body Works Raises Sales Outlook And Authorizes $500 Million Repurchase Program appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 500000000,
+        "currency": "USD",
+        "raw": "$500 Million"
+      },
+      "company_guess": "Bath & Body Works",
+      "group_key": "bath & body works",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/bath-body-works-raises-sales-outlook-and-authorizes-500-million-repurchase-program/",
+      "text": "Bath & Body Works Raises Sales Outlook And Authorizes $500 Million Repurchase Program\nBy Amit Chowdhry\nToday at 1:30 PM\nBath & Body Works Raises Sales Outlook And Authorizes $500 Million Repurchase Program\nBath & Body Works raised its fiscal 2026 sales outlook and announced a new $500 million share-repurchase authorization after third-quarter sales and adjusted earnings exceeded its guidance.\nQuarterly net sales totaled $1.58 billion, down 1% from the prior-year period. Performance varied across distribution channels, with growth in direct and international sales partially offsetting lower sales at U.S. and Canadian stores.\nU.S. and Canadian store sales declined 4.3% to $1.17 billion. Direct sales increased 2.6% to $307 million, while international and other sales rose 39.3% to $101 million.\nStores remained the company’s largest sales channel, although international and other operations delivered the strongest percentage growth during the quarter.\nProfitability Declines Despite Results Above Guidance\nOperating income fell to $108 million from $161 million a year earlier. Net income declined to $38 million from $77 million, while diluted earnings decreased to $0.19 per share from $0.37.\nOn an adjusted basis, operating income was $121 million, net income totaled $52 million and diluted earnings were $0.26 per share.\nCEO Daniel Heaf described the results as progress for the company’s Consumer First Formula strategy, introduced a year earlier. The strategy spans its product offering, brand and marketplace execution.\nUpdated Outlook And Capital Returns\nBath & Body Works now expects fiscal 2026 sales to decline between 3.4% and 2.1%. Reported diluted earnings are expected to range from $3.09 to $3.29 per share.\nAdjusted diluted earnings guidance remains unchanged at $2.60 to $2.80 per share. The updated outlook therefore combines an improved sales forecast with an unchanged range for adjusted earnings.\nThe board’s new $500 million repurchase authorization can begin after the company completes its existing program. The authorization provides capacity for additional share repurchases rather than representing purchases already completed.\nKEY QUOTES\n“Our third quarter results exceeded our sales and adjusted earnings per share guidance, and marks encouraging progress in our Consumer First Formula. One year after introducing this strategy, we are seeing our actions translate into results across product, brand, and marketplace.”\nDaniel Heaf, CEO Of Bath & Body Works\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "1e374b5c81c4",
+      "title": "W.W. Grainger stock: Company closes USD 400 million notes sale - ad-hoc-news.de",
+      "publisher": "ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm5FOGZUTGRlTkl4dlZBRjlSZWo2QUd4RFVNVVdjVDBLNmNJWHl2Y3JzcTJFSGtwend2V1BmLWN5clJDWWJnblpLZ3VydEhKWnFwWnBOUE4yRl92SFk3aGlIRGNUQnpOai1zTWVSRUtPMWRHdTBJRTRlbFpPajVwS1NmeExBVDJPOEtNSUNmald1Z0lPOXBhYzUzRFRhYUtkR1F1RzNWdjJ2MDZfSi1VOTdTeEdpallTNHVWaU9pT2o?oc=5",
+      "published_at": "2026-11-23T16:18:31.000Z",
+      "publisher_url": "https://www.ad-hoc-news.de",
+      "snippet": "W.W. Grainger stock: Company closes USD 400 million notes sale ad-hoc-news.de",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 400000000,
+        "currency": "USD",
+        "raw": "USD 400 million"
+      },
+      "company_guess": "W.W. Grainger stock: Company",
+      "group_key": "w w grainger stock",
+      "group_rank": 0,
+      "resolved_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/w-w-grainger-stock-company-closes-usd-400-million-notes-sale/70547297",
+      "text": "W.W. Grainger , US3848021040\nW.W. Grainger stock: Company closes USD 400 million notes sale\nPublished on 11/23/2026 at 17:18 | Editorial responsibility: Rafael Müller, Editor-in-Chief AD HOC NEWS\nW.W. Grainger stock enters a new financing phase after the company completed a senior-note offering. The notes add fixed interest obligations through 2031.\nFinancing changes for Grainger\nGrainger completed a USD 400 million senior-note offering on November 19, adding a new fixed-interest obligation.\nInterest payments begin on May 19, 2027, while the notes mature on November 19, 2031.\nThe filing includes a 101 percent repurchase provision for holders after a change-of-control triggering event.\nW.W. Grainger, US3848021040, Illustration mit AI erstellt.\nW.W. Grainger completed the sale of USD 400 million of 5.400% senior notes on November 19, 2026, according to the company's Form 8-K filing reproduced by Equibles . The transaction gives the industrial distributor a new debt obligation as investors assess the balance between operating growth and financing costs.\nNew debt reaches closing\nThe notes were issued under Grainger's existing registration statement and a sixth supplemental indenture dated November 19. They pay interest at a fixed annual rate of 5.400%, with payments scheduled twice a year on May 19 and November 19, beginning May 19, 2027.\nPrincipal is due on November 19, 2031. The terms allow Grainger to redeem the notes before October 19, 2031 under a make-whole formula and at par on or after that date.\nTerms add a shareholder consideration\nThe filing also sets out a change-of-control provision. If a change of control is combined with a qualifying rating event, Grainger must offer to repurchase the notes for 101% of principal, plus accrued and unpaid interest.\nFor shareholders, the completed financing expands the company's fixed payment obligations. The proceeds' use was not specified in the filing beyond the transaction documents, leaving leverage and future cash allocation as relevant points for ongoing analysis.\nW.W. Grainger at a glance\nCompany: W.W. Grainger, Inc.\nISIN: US3848021040\nTicker: GWW\nPrimary exchange: New York Stock Exchange\nFinancing: USD 400 million of 5.400% senior notes due 2031\nClosing date: November 19, 2026\nInvestors can place Grainger's financing activity in the wider context of current market reports .\nMore news and analyses on W.W. Grainger stock .\nDisclaimer...\nen | US3848021040 | W.W. GRAINGER | boerse | 70547297 | bgmi",
+      "text_status": "ok"
+    },
+    {
+      "id": "e47ec0fda55b",
+      "title": "Morgan & Morgan Lands 23 Verdicts on Florida’s Top 100 List for 2025",
+      "publisher": "Kevin Parker",
+      "link": "https://www.citybiz.co/article/937679/morgan-morgan-lands-23-verdicts-on-floridas-top-100-list-for-2025/",
+      "published_at": "2026-11-23T18:41:38.000Z",
+      "publisher_url": null,
+      "snippet": "Orlando-based Morgan & Morgan obtained 23 of Florida’s 100 largest plaintiff jury verdicts in 2025, totaling approximately $346 million, according... Read More\nThe post Morgan & Morgan Lands 23 Verdicts on Florida’s Top 100 List for 2025 appeared first on citybiz .",
+      "source_feed": "citybiz",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 346000000,
+        "currency": "USD",
+        "raw": "$346 million"
+      },
+      "company_guess": "Morgan & Morgan",
+      "group_key": "morgan & morgan",
+      "group_rank": 0,
+      "resolved_url": "https://www.citybiz.co/article/937679/morgan-morgan-lands-23-verdicts-on-floridas-top-100-list-for-2025/",
+      "text": "Global , South Florida\nGeneral Business , Internet / Technology , Law\nMorgan & Morgan Lands 23 Verdicts on Florida’s Top 100 List for 2025\nNovember 23, 2026\nOrlando-based Morgan & Morgan obtained 23 of Florida’s 100 largest plaintiff jury verdicts in 2025, totaling approximately $346 million, according to TopVerdict.com’s annual rankings.\nFour of the firm’s verdicts ranked among the top 20, and 10 placed in the top 50. The cases involved motor vehicle and trucking collisions, negligent security, premises liability, medical malpractice, insurance bad faith and commercial litigation.\nThe firm’s largest listed award was a $100 million verdict in Campbell v. Akam & Associates LLC, et al., a negligent security and wrongful death case ranked eighth statewide.\nOther results included a $54.1 million trucking collision and wrongful death verdict in Estate of Hindalong, et al. v. Escalera, et al., ranked 12th; a $37.5 million utility negligence and property damage verdict in Cooper, et al. v. Midway Water Systems, Inc., ranked 16th; and a $27 million medical malpractice verdict in Gerlach v. Holmes Regional, et al., ranked 20th.\n“On any given week, Morgan & Morgan is trying cases in courthouses around the country. We never hesitate to bring a case to trial when a defendant won’t make a fair offer, and these rankings show that approach delivers,” said John Morgan , the firm’s founder.\nThe 23 awards totaled $345,950,609.25. The figures represent jury awards and do not necessarily reflect amounts collected. Past results do not guarantee future outcomes.\nMorgan & Morgan represents clients in more than 50 practice areas and has attorneys licensed in all 50 states.",
+      "text_status": "ok"
+    },
+    {
+      "id": "cb71a03ab036",
+      "title": "Quantum Space Completes SPAC Merger, Raises $300 Million at $958 Million Valuation",
+      "publisher": "citybiz",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUWFOeDdOa2I0LUhwUFljOHZ4MzFuT3B6MmpYSXpseUlmWHpzb0tMdkl3Nl9zLTQ2d1BGeHo2dlczVFFTQkpuU3ZzLWpPU1BDTERIN2c2LU85ZkpZNjV0OGZEWmMwWVp3Rmdkelh3dHVzeWVyMkdZT2h0QzNTOFJJSkI5aFY4ZThGQnNTLTdqNHRtWDFrUVpfWDJqX0RGSjV0NTNkS2djelFCT1hiU09XQmNLX3VLOUpVTHc?oc=5",
+      "published_at": "2026-11-23T17:17:45.000Z",
+      "publisher_url": "https://www.citybiz.co",
+      "snippet": "Quantum Space Completes SPAC Merger, Raises $300 Million at $958 Million Valuation citybiz",
+      "source_feed": "gnews-g2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 300000000,
+        "currency": "USD",
+        "raw": "$300 Million"
+      },
+      "company_guess": "Quantum Space Completes SPAC",
+      "group_key": "quantum space completes spac",
+      "group_rank": 0,
+      "resolved_url": "https://www.citybiz.co/article/937577/quantum-space-completes-spac-merger-raises-300-million-at-958-million-valuation/",
+      "text": "Baltimore , Global , Washington DC\nGeneral Business , Mergers & Acquisitions , Internet / Technology\nQuantum Space Completes SPAC Merger, Raises $300 Million at $958 Million Valuation\nNovember 23, 2026\nQuantum Space, Inc . has completed its business combination with Inflection Point Acquisition Corp. VI, a special purpose acquisition company, raising approximately $300 million in new capital and establishing a publicly traded spacecraft technology company with an implied pro forma equity valuation of approximately $958 million.\nThe transaction was approved by Inflection Point shareholders on November 20, 2026, and formally closed on November 23, 2026.\nThe combined company operates as Quantum Space, Inc., with its Class A-1 common stock expected to begin trading on the New York Stock Exchange under the ticker symbol QSPC. Its warrants are expected to trade on NYSE American under QSPC WS.\nInflection Point’s existing Nasdaq-listed securities, previously trading under IPFXU, IPFX and IPFXW, were halted on November 23 and are expected to be voluntarily delisted.\nThe transaction includes two private investment in public equity (PIPE) financings that generated approximately $300 million in new capital.\nThe first financing involved approximately $60 million in Series B convertible preferred units of Quantum Space and associated warrants, purchased by investors including Inflection Point Fund.\nA second financing completed at closing raised approximately $240 million through the sale of Series A Preferred Stock and Series A Warrants of the combined company.\nQuantum Space intends to use proceeds from the transaction to accelerate production of its Ranger and Scout spacecraft, which are being developed for maneuverable orbital operations, satellite servicing and national security missions.\nCo-founded by space entrepreneur Dr. Kam Ghaffarian , Quantum Space is developing spacecraft designed to maneuver repeatedly in orbit, support on-orbit refueling and extend operational mission capabilities.\nThe company’s technology platform incorporates proprietary propulsion systems, modular spacecraft architecture and capabilities intended to enable satellites to reposition without substantially reducing their operational lifespans.\nQuantum Space has secured contracts and agreements involving U.S. government agencies, including the U.S. Space Force, the Department of War and NASA.\nThe company has also been selected to support NASA’s Moon Base initiative, according to its announcement.\n“We founded Quantum Space with a clear vision: space mobility will be essential to America’s national security and leadership in space,” said Ghaffarian, co-founder and executive chairman of Quantum Space.\n“As space becomes an increasingly contested domain, the ability to maneuver, reposition and extend missions in orbit is critical to maintaining strategic advantage.”\nJim Bridenstine, former NASA administrator and chief executive officer of Quantum Space, said the company’s technology is being developed to address the operational limitations of satellites operating in relatively predictable orbits.\n“Our spacecraft are being designed to maneuver repeatedly, deliver fuel to other spacecraft on orbit and give operators the freedom to reposition without sacrificing mission life,” Bridenstine said.\nHe added that the company’s transition to public ownership is expected to support development and production of its Ranger and Scout platforms.\nThe Ranger and Scout spacecraft are designed to operate as a coordinated system, providing mobility and mission flexibility for government and commercial customers.\nThe company is targeting applications in national security, civil space exploration and commercial orbital infrastructure, including missions requiring extended spacecraft endurance and repositioning capabilities.\nMichael Blitzer, chairman of Inflection Point, said the transaction combines Quantum Space’s technology development programs and government relationships with additional capital to support manufacturing expansion.\nInflection Point Acquisition Corp. VI was sponsored by a management team associated with Inflection Point Asset Management.\nCantor served as lead placement agent and exclusive financial advisor to Quantum Space, while Moelis & Company LLC served as joint placement agent to Inflection Point.\nWhite & Case LLP represented Inflection Point, Reed Smith LLP served as legal advisor to Quantum Space, and DLA Piper LLP (US) represented Cantor and Moelis.\nThe completed merger provides Quantum Space with a public-market listing and approximately $300 million in new financing as it works to advance its maneuverable spacecraft technology and expand production for government and commercial space missions.",
+      "text_status": "ok"
+    },
+    {
+      "id": "42789a1ca024",
+      "title": "California Water Service Group announces $275 million in new debt financing By Investing.com",
+      "publisher": "Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaWF3ZVVRQ2h1X0RkOVhPNXZSUVYwYkdYaHdCYndKVi10N1kzal9TTV8xWERwNkhxUU1Lc3dxOWlIeGp1SDQ5R0htbGhKYjE1ZC10TjNBak9FZmJFa0NjVzFGYlVyNXdBOHdXTkxXbWFEMTJUOWc4WEQ5MS1xTlRNVHRRT0lUZWRfdWRQOXEyenl2RDZaMS1Jd2l2STZLTTRrbk5TV0RSVi1saTlzQnBXQjNJREFISUNtNDNGQ05jSmdfVXZ5c2NBQVlHVENMTHJQ?oc=5",
+      "published_at": "2026-11-23T21:41:11.000Z",
+      "publisher_url": "https://in.investing.com",
+      "snippet": "California Water Service Group announces $275 million in new debt financing By Investing.com Investing.com India",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 275000000,
+        "currency": "USD",
+        "raw": "$275 million"
+      },
+      "company_guess": "California Water Service Group",
+      "group_key": "california water service group",
+      "group_rank": 0,
+      "resolved_url": "https://in.investing.com/news/stock-market-news/california-water-service-group-announces-275-million-in-new-debt-financing-93CH-5722000",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "4d7597c3b5d7",
+      "title": "Hunt Capital Partners Secures $238.6 Million For 1,722 Affordable Homes Across 12 States",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/hunt-capital-partners-secures-238-6-million-for-1722-affordable-homes-across-12-states/",
+      "published_at": "2026-11-23T18:45:44.000Z",
+      "publisher_url": null,
+      "snippet": "Hunt Capital Partners has secured $238.6 million at the initial closing of Hunt Capital Partners Tax Credit Fund 55, an affordable housing investment vehicle supporting 1,722 homes across 19 developments in 12 states.\nThe post Hunt Capital Partners Secures $238.6 Million For 1,722 Affordable Homes Across 12 States appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 238600000,
+        "currency": "USD",
+        "raw": "$238.6 Million"
+      },
+      "company_guess": "Hunt Capital",
+      "group_key": "hunt capital",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/hunt-capital-partners-secures-238-6-million-for-1722-affordable-homes-across-12-states/",
+      "text": "Hunt Capital Partners Secures $238.6 Million For 1,722 Affordable Homes Across 12 States\nBy Amit Chowdhry\nToday at 1:45 PM\nHunt Capital Partners Secures $238.6 Million For 1,722 Affordable Homes Across 12 States\nHunt Capital Partners has secured $238.6 million at the initial closing of Hunt Capital Partners Tax Credit Fund 55, an affordable housing investment vehicle supporting 1,722 homes across 19 developments in 12 states.\nThe fund is one of the company’s largest multi-investor vehicles to date. It brings together 10 returning investors and 18 for-profit and nonprofit development partners, more than 60% of which have previously worked with Hunt Capital Partners.\nFund 55 will finance a combination of new construction, acquisition and rehabilitation, and historic rehabilitation. Its investments will support affordable housing in Arizona, California, Georgia, Hawaii, Idaho, Illinois, Louisiana, Mississippi, New Mexico, Ohio, Texas and Utah.\nThe homes will serve residents earning between 30% and 70% of area median income. Ten developments, comprising 728 homes, will benefit from Section 8 project-based vouchers. Two developments will reserve 88 homes for households with special needs.\nSeven of the 19 developments will offer free service coordination tailored to residents. Programs may include health and wellness services, adult education, support for children and case management for households with special needs or those at risk of homelessness.\nAmong the investments is Queen Apartments in Los Angeles, where the fund will support acquisition and rehabilitation alongside Alliance Property Group and Community Revitalization Development Corporation.\nHunt Capital Partners will syndicate $17 million in federal low-income housing tax credits for that project, preserving 96 affordable studio and one-bedroom homes. Residents will have access to health, wellness, education and skill-building programs.\nHunt Capital Partners is the tax credit syndication division of Hunt Companies. Since its founding in 2010, it has raised more than $4.6 billion in tax credit equity across 55 proprietary and multi-investor funds, financing development in 48 states and territories.\nKEY QUOTES\n“Fund 55 is about more than capital. It reflects relationships built over time. We’re proud that all 10 investors have a history with Hunt, and we’re incredibly grateful for the continued trust and confidence they place in us. Together with our 18 development partners, their commitment helps us create and preserve affordable rental housing for families and seniors across our country.”\nJohn Lee, Managing Director, Investor Relations And Funds Management At Hunt Capital Partners\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "01d846feb29b",
+      "title": "Walker & Dunlop Arranges $203.5 Million For East Village Multifamily Development",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/walker-dunlop-arranges-203-5-million-for-east-village-multifamily-development/",
+      "published_at": "2026-11-23T21:01:45.000Z",
+      "publisher_url": null,
+      "snippet": "Walker & Dunlop has arranged $203.5 million in construction financing for 50 Third Avenue, a mixed-use development planned for Manhattan’s East Village.\nThe post Walker & Dunlop Arranges $203.5 Million For East Village Multifamily Development appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 203500000,
+        "currency": "USD",
+        "raw": "$203.5 Million"
+      },
+      "company_guess": "Walker & Dunlop Arranges",
+      "group_key": "walker & dunlop arranges",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/walker-dunlop-arranges-203-5-million-for-east-village-multifamily-development/",
+      "text": "Walker & Dunlop Arranges $203.5 Million For East Village Multifamily Development\nBy Amit Chowdhry\nToday at 4:01 PM\nWalker & Dunlop Arranges $203.5 Million For East Village Multifamily Development\nWalker & Dunlop has arranged $203.5 million in construction financing for 50 Third Avenue, a mixed-use development planned for Manhattan’s East Village.\nThe project will include 184 apartments and 12,529 square feet of ground-floor retail at the intersection of East 11th Street and Third Avenue.\nWalker & Dunlop’s Capital Markets Institutional Advisory team served as exclusive adviser to joint venture partners SK Development and Kinsmen Property Group. Ironsand provided the floating-rate, interest-only loan.\nThe financing team included Aaron Appel, Keith Kurland, Jonathan Schwartz, Adam Schwartz, Dustin Stolly, Sean Reimer and Sean Bastian.\nHousing Includes An Affordable Component\nThe proposed 17-story development comprises two adjoining Class A residential buildings. Of its 184 apartments, 37 will be designated affordable for households earning no more than 80% of area median income.\nPlanned amenities include a fitness center, yoga studio, sauna, cold plunge, golf simulator, coworking space, resident lounge and common terraces.\nThe retail component will have frontage along Third Avenue, with space positioned for food and beverage businesses and service-oriented tenants.\nFinancing Supports Construction In A Constrained Market\nThe property is near New York University, major Manhattan employment centers and the neighborhood’s dining, retail, entertainment and transportation options.\nAccording to the announcement, the East Village had an approximately 2% vacancy rate and average asking rents of about $5,440 per month as of June 2026. Those figures provide the market context for the developers’ plans to introduce additional housing.\nThe loan will support construction and delivery of the residential and retail components.\nWalker & Dunlop’s Capital Markets team sourced more than $13.9 billion from non-agency capital providers during the first half of 2026, including nearly $9.6 billion for multifamily properties. The 50 Third Avenue assignment adds another construction financing transaction to that business.\nKEY QUOTES\n“The East Village combines exceptionally limited new housing supply with sustained renter demand, creating compelling fundamentals for a project of this caliber. Vacancy in the neighborhood remains low while proximity to major employment centers and the area’s appeal to young professionals and high-income renters continue to support demand. This financing provides SK Development and Kinsmen Property Group with the capital needed to bring 50 Third Avenue to market at a time when new housing remains particularly constrained.”\nAaron Appel, Senior Managing Director Of Capital Markets And Co-Head Of Institutional Advisory At Walker & Dunlop\n“50 Third Avenue is positioned to become a marquee luxury multifamily development in a submarket that continues to attract institutional investment. The financing arranged by Walker & Dunlop allows us to execute our long-term vision for the property: delivering thoughtfully designed housing, a substantial affordable component and a high-quality residential experience in one of Manhattan’s most established neighborhoods.”\nScott Shnay, Principal At SK Development\n“50 Third Avenue presented an opportunity to finance a well-conceived development backed by an experienced ownership team in a market with significant barriers to new construction. The combination of market-rate and affordable housing, thoughtfully designed amenities and a prominent retail component create a differentiated project, and we were glad to support Walker & Dunlop, SK Development, and Kinsmen Property Group through construction and delivery.”\nBrian Renzi, Managing Principal At Ironsand\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "d54514933170",
+      "title": "Everli Secures Up to $200 Million in Standby Equity Financing From Yorkville",
+      "publisher": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORC1kU0N5ck55QkZUNVNVb2U0VWY0bE1NeTVleTFUM09oZ2RaWUtEV0pvQjRaUUFrV0VOdnBacDNJTXJEdDBHUEtRQjdIN3Noa2lRRHJmd3NUYXBrU3p1ZDlTWmxza3dfVEZkeDNTNWUxWEt4dDl2REZhOFBNWWpRR0IwV2lZX1lBWlpaQjI3bGNkV3pvRk1XbVluS3BuLTJzRnJTeWo4d1kxRDBzbE90UzVDSllfYVNESVdJdjh4RFI4VG1tZE5UOHhyWnBWMXJmLXBF?oc=5",
+      "published_at": "2026-11-23T14:33:00.000Z",
+      "publisher_url": "https://www.tradingview.com",
+      "snippet": "Everli Secures Up to $200 Million in Standby Equity Financing From Yorkville TradingView",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 200000000,
+        "currency": "USD",
+        "raw": "$200 Million"
+      },
+      "company_guess": "Everli",
+      "group_key": "everli",
+      "group_rank": 0,
+      "resolved_url": "https://www.tradingview.com/news/tradingview:72e10235ce49e:0-everli-secures-up-to-200-million-in-standby-equity-financing-from-yorkville/",
+      "text": "News\n/ TradingView\n/ Everli Secures Up to $200 Million in Standby Equity Financing From Yorkville\nEverli Secures Up to $200 Million in Standby Equity Financing From Yorkville\n1 min read\nEverli entered into a 36-month agreement allowing it to sell up to $200 million of Class A common stock to Yorkville, and received a final $2 million tranche under its separate convertible note financing. The company also disclosed amendments extending the maturity of existing debt, including a non-convertible note extended to March 31, 2027 and a convertible note due January 31, 2027. Everli says proceeds from share sales may support working capital and general corporate purposes, including debt repayment.\nAgreement 1: Everli Secures Up to $200 Million in Standby Equity Financing From Yorkville\nAgreement type : Standby equity purchase agreement\nCounterparty : Yorkville\nSigned / Effective : Nov 23 2026 / same\nDuration / Termination : 36 months\nReason : Repay debt and support working capital and general corporate purposes\nAgreement 2: Everli Raises $2 Million From Yorkville in Final Convertible Note Tranche\nAgreement type : Convertible note and amendment to convertible promissory notes\nCounterparty : Yorkville\nSigned / Effective : Nov 23 2026 / same\nDuration / Termination : Matures Sep 06 2027\nReason : Provide financing for corporate purposes\nAgreement 3: Everli Extends Non-Convertible Note Maturity to March 2027\nAgreement type : Fifth amendment to secured promissory note and pledge agreement\nCounterparty : Melar Acquisition and Palella Holdings\nSigned / Effective : Nov 20 2026 / same\nDuration / Termination : Matures Mar 31 2027\nReason : Extend the repayment deadline\nAgreement 4: Everli Amends $8.9 Million Convertible Note Terms With New Holder\nAgreement type : Amendment to secured convertible promissory note\nCounterparty : Unaffiliated noteholder\nSigned / Effective : Nov 20 2026 / same\nDuration / Termination : Matures Jan 31 2027\nReason : Amend conversion and repayment terms for outstanding debt\nOriginal SEC Filing: Everli Global Holdings Inc. [ MACI ] - 8-K - Nov. 23, 2026\nDisclaimer\nThis is an AI-powered summary. It may contain inaccuracies. Consider verifying important information with the source. Please note this summary is solely based on documents filed with the SEC.\nStrategy, business, and products TradingView US stocks\nCompare charts\nAnalyze on Supercharts\nLatest news\nMore news from TradingView",
+      "text_status": "ok"
+    },
+    {
+      "id": "888c134a0bb2",
+      "title": "Embo Raises $110M Seed Led by a16z to Build a Robot Brain on World Models",
+      "publisher": "Wowtale",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OamFjNC03YUdwODJ5MEcydGd0VUxraFJwM0I2eDBUSnVvd1Y5NFFKYkdlcmdZQVd5eWl2UWlubWQxcGZJTm1La0NhcHMwdnludE1N?oc=5",
+      "published_at": "2026-11-23T18:39:28.000Z",
+      "publisher_url": "https://en.wowtale.net",
+      "snippet": "Embo Raises $110M Seed Led by a16z to Build a Robot Brain on World Models Wowtale",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 110000000,
+        "currency": "USD",
+        "raw": "$110M"
+      },
+      "company_guess": "Embo",
+      "group_key": "embo",
+      "group_rank": 0,
+      "resolved_url": "https://en.wowtale.net/2026/11/24/236136/?utm_source=rss&utm_medium=rss&utm_campaign=embo-raises-110m-seed-led-by-a16z-to-build-a-robot-brain-on-world-models",
+      "text": "Embo , which is building AI models to serve as the brain of robots, has raised a $110 million seed round. Andreessen Horowitz (a16z) led the round, with Khosla Ventures, DST Global, NVIDIA’s venture arm NVentures and other strategic investors taking part.\nRobots can now fold laundry, cook and sort objects in demo videos. Move an item, change the lighting or introduce something unfamiliar, though, and they often falter. Demonstrations can teach a robot to repeat a motion, but no one can demonstrate every object and situation it will meet in the real world. Embo says it wants to get past that limit.\nIts answer is a world model, an AI that predicts how a scene will change next, trained on a huge volume of internet video. By guessing what comes next in a clip, the model picks up how objects move, how they interact and how a task unfolds. Embo also uses that world model as a virtual practice ground. The robot brain rehearses motor skills across many imagined scenarios and improves through reinforcement learning. That lets it draw on far more experience than can be collected on physical hardware, including the failures and surprises that demonstration videos rarely capture, the company says.\nThe company is tackling two problems: generalization, so that a robot trained in one kitchen can work in a kitchen it has never seen, and resilience, so that it recovers when an object slips or a drawer sticks. Embo is building one unified model that is pretrained from scratch on internet-scale video, finetuned on experience from the company’s own fleet of humanoid robots, and then pushed further with reinforcement learning. Handling information-dense video and fast, precise motor signals takes architecture and algorithms that language models lack, and Embo says it is building the training infrastructure too. It did not disclose the size or models of its humanoid fleet, or any customers.\nThe founding team comes from the front line of world-model research. CEO Danijar Hafner has spent nearly a decade on world-model agents. He created Dreamer, which learns to act by practicing inside a world model, and its latest version, Dreamer 4, learned to collect diamonds in Minecraft from previously gathered data alone, with all of its training done through imagined experience. CTO Wilson Yan created VideoGPT and has long worked with Hafner on world models. The team also includes researchers who pioneered work such as Diffusion Forcing, drawn from Google DeepMind, Meta Superintelligence Labs, NVIDIA Cosmos, UC Berkeley and MIT, and they have built infrastructure to train multimodal models across 70,000 GPUs, the company says. Embo did not disclose a valuation, founding date, headquarters or headcount.\nEmbo says it will focus on widening what robots can do and share progress as it comes. If robots can enter a new environment and work reliably, the company and a16z argue, manufacturing, logistics and services could change, making goods and services more abundant and affordable.\nCompetition: money is flowing to robot brains that learn from video\nThe closest company Wowtale has covered is Rhoda AI. Its method is nearly identical: pretrain on hundreds of millions of internet videos, then refine with a small amount of robot data. It raised a $450 million Series A led by Premji Invest in March, and Khosla Ventures backed it too. Skild AI combines learning from internet video with practice in simulation to build a brain that controls any robot. It raised $1.4 billion in January at a $14 billion valuation, and NVentures is also one of its investors. Physical Intelligence, which builds models without making hardware, was reported in March to be in talks to raise $1 billion at an $11 billion valuation.\nOthers build the body as well. Genesis AI trains its models with human-hand-sized robot hands and data-collection gloves, and closed a $500 million Series A on Nov. 18. Khosla Ventures led its 2025 seed round too. World Labs , which builds world models themselves, is being acquired by AMD for $8.2 billion.\nEmbo has no product or customers to show yet. Rivals going down the same road have already raised hundreds of millions of dollars, and some are testing in the field.",
+      "text_status": "ok"
+    },
+    {
+      "id": "3f25a4e24f5e",
+      "title": "Embo raises $110M seed to build robot brains with world models",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZC14WlpaUEpzTVdNSF9wZ0piLUlhSld1c25uc2hsbGlEdUwxRXlyLXk5enA4bG1taW1JdWNHSFRIamtxcHRxZ3VaOGJkZzNES0NTWnpCVXR3YmRmVDhBY1lNdXNYRUxIcFo5eC1LcHIybVp1TVpLRHVWOWVuaTJOREpqODJGR2l5QWF1WHM1SUtHMnZHM1BFYi1iSQ?oc=5",
+      "published_at": "2026-11-23T19:17:45.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Embo raises $110M seed to build robot brains with world models Dealroom",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 110000000,
+        "currency": "USD",
+        "raw": "$110M"
+      },
+      "company_guess": "Embo",
+      "group_key": "embo",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "2a57e4238ea0",
+      "title": "Ex-DeepMind Hafner’s Embo Raises $110M Seed for Robot Brains",
+      "publisher": "FourWeekMBA",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0Q1YtNmczblk5aEFvemEyTnRIUHZ6SzBtbkk2QjZ5MldDLVBwbVg3UmNfRFVON0lPdVdxUmNGOHFabmJOLUZrbzIzYzk4MnV3TW1vX052cXpqazhfVTI4UkRWRlFRcGJzci1xQjdheDFGbmxu?oc=5",
+      "published_at": "2026-11-23T18:21:55.000Z",
+      "publisher_url": "https://fourweekmba.com",
+      "snippet": "Ex-DeepMind Hafner’s Embo Raises $110M Seed for Robot Brains FourWeekMBA",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 110000000,
+        "currency": "USD",
+        "raw": "$110M"
+      },
+      "company_guess": "Ex-DeepMind Hafner’s Embo",
+      "group_key": "embo",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "33cea794146a",
+      "title": "Robot AI Startup Embo Secures $110M Seed Investment Led by A16z",
+      "publisher": "Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeGpLRW1JY3pWTWNMRHVnQk1lMDFCRG96TWlqNV9XYzdEX3FPMi1mWWFWVEt3dFFJZlNFbWo2MmhFTjcwbHBZMGd6emlia1JSUm1oR0dfeTVzTFViZ3kwXzB1Z1pCTnd3QVJkS2NZbWtJWFFyRFZnVlBOMVlGbHlRemdfTmZGSDY5ZFB0cg?oc=5",
+      "published_at": "2026-11-23T18:54:03.000Z",
+      "publisher_url": "https://www.unite.ai",
+      "snippet": "Robot AI Startup Embo Secures $110M Seed Investment Led by A16z Unite.AI",
+      "source_feed": "gnews-g4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 110000000,
+        "currency": "USD",
+        "raw": "$110M"
+      },
+      "company_guess": "Embo",
+      "group_key": "embo",
+      "group_rank": 3,
+      "text_status": "skipped"
+    },
+    {
+      "id": "f095e8268fe8",
+      "title": "Energy Vault Closes $78 Million Financing For Texas Battery Storage Project",
+      "publisher": "Pulse 2.0",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0NLYmtsQ3B2OGFmYW1kWkc5WTlhdENhNVNXMDJVNzVycWRndEJTU1FYQnFlSEd5Y1BaMWVkZE91TmgtN3JId3RwYk9WNUplbDVqWGRsQlRzRy1tbnVaWXJPT2lOa0JlOEsydWFQRXBqSkNKWndwLWpJT01hdnNGZ2lJYTRwN3RIdnBNZ0xwbFVYN2VIT29KbHpB?oc=5",
+      "published_at": "2026-11-23T20:24:16.000Z",
+      "publisher_url": "https://pulse2.com",
+      "snippet": "Energy Vault Closes $78 Million Financing For Texas Battery Storage Project Pulse 2.0",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 78000000,
+        "currency": "USD",
+        "raw": "$78 Million"
+      },
+      "company_guess": "Energy Vault",
+      "group_key": "energy vault",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/energy-vault-closes-78-million-financing-for-texas-battery-storage-project/",
+      "text": "Energy Vault Closes $78 Million Financing For Texas Battery Storage Project\nBy Amit Chowdhry\nToday at 3:24 PM\nEnergy Vault Closes $78 Million Financing For Texas Battery Storage Project\nEnergy Vault has closed $78 million in construction and bridge financing for its SOSA Energy Center, a 150 MW/300 MWh battery energy storage project in Madison County, Texas.\nThe non-recourse financing supports construction of the project, which is expected to begin commercial operations in the third quarter of 2027.\nThe bridge financing will be repaid using an already committed $80 million preferred equity investment when the project is completed. An additional draw on Energy Vault’s existing OIC preferred facility will provide incremental project equity.\nTogether, those financing arrangements are intended to support SOSA through construction and into commercial operation. The bridge and preferred equity amounts represent different stages of the financing structure rather than entirely separate, additive sources of permanent capital.\nConstruction Advances Toward 2027 Operations\nConstruction began in the fourth quarter of 2025. Civil work is complete, a substation has been installed, and major equipment is expected to arrive in the coming months.\nEnergy Vault is performing the engineering, procurement and construction work itself. Site control, environmental and interconnection milestones are already in place.\nOnce operating, SOSA will provide power and ancillary services in the ERCOT North market. It will initially operate on a merchant basis, retaining flexibility to enter an offtake agreement as market conditions evolve.\nAsset Vault Expands Owned Infrastructure\nSOSA was the first storage asset acquired and placed into development through Asset Vault, Energy Vault’s platform for owning and operating energy storage and AI infrastructure assets.\nThe company projects $250 million to more than $300 million in long-term revenue and recurring EBITDA margins of approximately 65% to 75%. Those figures are forward-looking expectations rather than contracted results.\nThe approximately $100 million project is expected to create 65 construction jobs and generate an estimated $9.3 million in tax revenue for North Zulch Independent School District and Madison County over 10 years.\nKEY QUOTES\n“Storage earns its place in a portfolio the way any infrastructure does, by being financed on its fundamentals. A bank, a strategic partner and an institutional investor have each backed SOSA on those terms. SOSA Energy Center reinforces our Asset Vault strategy of building projects that generate recurring revenue, robust EBITDA margin, and long-term operating cash flows.”\nCory Magnuson, President Of Asset Vault At Energy Vault\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "cd9b85b26116",
+      "title": "Energy Vault Closes $78 Million Financing For Texas Battery Storage Project",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/energy-vault-closes-78-million-financing-for-texas-battery-storage-project/",
+      "published_at": "2026-11-23T20:24:15.000Z",
+      "publisher_url": null,
+      "snippet": "Energy Vault has closed $78 million in construction and bridge financing for its SOSA Energy Center, a 150 MW/300 MWh battery energy storage project in Madison County, Texas.\nThe post Energy Vault Closes $78 Million Financing For Texas Battery Storage Project appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 78000000,
+        "currency": "USD",
+        "raw": "$78 Million"
+      },
+      "company_guess": "Energy Vault",
+      "group_key": "energy vault",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "061e3ead8b46",
+      "title": "UK Government Funds Back Defence AI Startup Agon in $70 Million Series A",
+      "publisher": "SSBCrack",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2pfZTBfYWFQM3FHMnF3OVhCZ0dNT0QwSlpVYm1vUmtBa1ZYb0s4YUNCczE1LUtnZkh6ODVwbC1oTk9aOVd2aTNHRXNIQUd1VHY4Y1NRaW40MnY4N1h2cWFpbGFxWXMxSVZSbWo5UnhSTEJOYkJxSGJ4aFNPYjVOSWMwQjQ4RlNxLTBTNkxmVjRaUEljZVdKZm11c3NRU00?oc=5",
+      "published_at": "2026-11-23T14:44:17.000Z",
+      "publisher_url": "https://news.ssbcrack.com",
+      "snippet": "UK Government Funds Back Defence AI Startup Agon in $70 Million Series A SSBCrack",
+      "source_feed": "gnews-5",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "$70 Million"
+      },
+      "company_guess": "UK Government Funds Back",
+      "group_key": "uk government funds back",
+      "group_rank": 0,
+      "resolved_url": "https://news.ssbcrack.com/uk-government-funds-back-defence-ai-startup-agon-in-70-million-series-a/",
+      "text": "Home &raquo; Trending News &raquo; UK Government Funds Back Defence AI Startup Agon in $70 Million Series A\nTrending News\nUK Government Funds Back Defence AI Startup Agon in $70 Million Series A\nBy\nNews Desk\nLast updated: November 23, 2026\n5 Min Read\nShare\nThe UK Government’s Sovereign AI Fund and the National Security Strategic Investment Fund (NSSIF) are investing in Agon, a British-founded defence technology company developing infrastructure to train, test and coordinate autonomous defence systems.\nThe government-backed funds are participating in Agon’s $70 million Series A funding round, which values the company at $450 million. The investment is their first directly alongside one another. Agon said the latest round brings its total funding to $100 million.\nFounded by former British Army officer Tristam Constant and Junaid Hussain, a co-founder of defence company Cambridge Aerospace, Agon is building a simulated “virtual battlefield” where defence AI systems can be trained and evaluated in realistic scenarios. The aim is to make testing faster and less costly than relying on real-world trials alone.\nPotential applications include assessing AI tools designed to help counter drone attacks and testing whether systems continue to operate as intended when an adversary disrupts communications. The company says its infrastructure is intended to support the development and evaluation of autonomous defence systems.\nThe investment is intended to strengthen the UK’s ability to develop defence AI at home, reduce reliance on overseas technology and support skilled jobs and industrial growth. Agon is based in London and also has an office in Berlin. Its other investors include Northzone, Lakestar, XYZ and Lux Capital.\nAI Minister Kanishka Narayan said AI was rapidly changing warfare, from the use of drones to the speed at which soldiers can interpret information from the battlefield. The UK, he said, needed sovereign defence AI capabilities to protect national security, while helping ensure the technology was reliable, trustworthy and responsibly deployed.\n“Agon’s work will make a valuable contribution to this work: not just British-made AI that our military can use to keep us safe, but defence AI that’s been built in the right way,” Narayan said.\nAgon chief executive and co-founder Tristam Constant described the company’s work as a response to the growing use of intelligent machines and software agents in warfare. He said the company aimed to develop sovereign infrastructure and AI foundation models that could train, test and improve autonomous defence systems in Europe.\nConstant said the funds’ joint investment was an endorsement of Agon’s mission and the strategic importance of sovereign defence AI.\nCo-founder Junaid Hussain said Europe could not rely on other countries for foundational AI capabilities that would underpin future security. He said the company would use its funding to accelerate the development of infrastructure and models for European defence.\nSovereign AI investor Will Bushby said the UK needed not only to deploy defence AI but also to build it. He cited the founders’ experience in defence and technology and said the fund was backing the company as it develops its capabilities in Britain.\nAn NSSIF spokesperson said Agon was addressing the challenge of developing and evaluating advanced systems in realistic operational environments. The spokesperson said the investment reflected the fund’s commitment to technologies with national security relevance and the potential to deliver long-term impact.\nThe Sovereign AI Fund invests in early- and growth-stage UK AI companies to help them develop and scale in Britain. At the Budget, the Chancellor announced an additional £140 million for the fund and said it would expand into Physical and Industrial AI, including areas such as robotics, autonomous systems and advanced manufacturing.\nThe government says its Sovereign AI programme is intended to help promising companies grow from the UK, supporting domestic technological capability and skilled employment. The NSSIF invests in dual-use technologies that can strengthen national security and defence.\nShare This Article\nFacebook\nWhatsapp\nWhatsapp\nBy News Desk\nFollow:\nAt SSBCrack News, our dedicated editorial team brings you the latest and most reliable updates on Defence, Geopolitics, Military Affairs, Science, and Technology. Driven by a passion for national security and strategic awareness, the SSBCrack News Desk delivers fact-checked, timely, and insightful reporting that matters to defence aspirants, veterans, and informed citizens alike. With a commitment to accuracy and credibility, we are your trusted source for all things defence and beyond.\nPrevious Article\nGenworth Names Jerome Upton CEO as CareScout Ends New LTC Insurance Sales\n- Advertisement -\nTrending News\nGenworth Names Jerome Upton CEO as CareScout Ends New LTC Insurance Sales\nNovember 23, 2026\nControversial Touchdown Calls Renew Debate Over NFL Catch Rule\nNovember 23, 2026\nInzaghi: Al-Hilal Ready to Give Their Best Against Neftchi\nNovember 23, 2026\nغلامرضا نیکخواه، بازیگر سینما و تلویزیون، درگذشت\nNovember 23, 2026",
+      "text_status": "ok"
+    },
+    {
+      "id": "b2e54aa2f5b5",
+      "title": "Adelaide satellite maker Myriota raises $60 million in 100 days",
+      "publisher": "SmartCompany",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeDVhSjdCMnRsc2liNFYzNjhBbGVpX3Q4QlYxVW5HR1p6SHY4cEVvRHhhcWdhbktCWmNUajJ5QURpOVg4a0pmeF93LXE1Xy1IQW9va014T0wtVVhaLXZBQ2ktMmhTR1QzejRlcTZ0Qi1NYURENVJhUWxfaWtQdkZjalAtMmtoOWhtdmwxRlU2ZnRDaWlxb2xmaXVpSGpFUTAxeHlTWWpabnp6a3Ra?oc=5",
+      "published_at": "2026-11-23T22:53:32.000Z",
+      "publisher_url": "https://www.smartcompany.com.au",
+      "snippet": "Adelaide satellite maker Myriota raises $60 million in 100 days SmartCompany",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 60000000,
+        "currency": "USD",
+        "raw": "$60 million"
+      },
+      "company_guess": "Myriota",
+      "group_key": "myriota",
+      "group_rank": 0,
+      "resolved_url": "https://www.smartcompany.com.au/startupsmart/adelaide-satellite-maker-myriota-raises-60-million-in-100-days/",
+      "text": "Share this article\nIf you like this article, share it with your friends.\nFacebook\nX\nLinkedIn\nBluesky\nCopy to Clipboard\nCopy\nStartups\nAdelaide satellite maker Myriota raises $60 million in 100 days\nBudding telco Myriota has grabbed $60 million to wire the physical world from space, scaling satellite IoT for tanks, trackers and defence.\nSimon Thomsen\nNov 24, 2026\n2 min read\nShare\n0\nPrefer SmartCompany\n(L-R) Myriota CEO Ben Cade, former South Australian Assistant Minister for Artificial Intelligence, Digital Economy, Defence and Space Industries Michael Brown MP, and Myriota CTO and co-founder Dr David Haley at Myriota's 10th birthday celebration in November 2025. Source: Supplied/Naomi Jellicoe Photography\nAdelaide satellite startup Myriota has raised the first $60 million of its Series C in just 100 days.\nThe federal government’s National Reconstruction Fund Corporation (NRFC) has chipped in once again, co-leading the round alongside Main Sequence Ventures, supported by super fund Hostplus, while South Australian investment manager Funds SA joined the cap table.\nThe first close of the Series C takes Myriota’s total funding past $160 million, with the balance of the round due to close in early 2027.\nRelated Article Block Placeholder\nArticle ID: 310218\nNational Reconstruction Fund helps rocket Myriota capital raise to $50 million\nTegan Jones",
+      "text_status": "ok"
+    },
+    {
+      "id": "98665d28494c",
+      "title": "Satellite maker Myriota lands first $60 million in Series C build",
+      "publisher": "Startup Daily",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRk5mMHlISWcyemhvWDFFc0IwZ0hhUEZKU0JvbzJYZ1NrdkV4U0FnNlB4YnQ3VUs1WE1KVDZ3QW9LNGh6MnFRekxLN3ZpNjQyNVJocC1pWVNQQlZNU3hiS2t6d1ViQUxMSnpiZzNiWXNhYlBwX1FqTm01dW13dURzWUN2WWNxUkJkVmJDYmhacmZGTkMtM2k4QmtQT1BYaXZ2dlZQUjJFdEpOclJ6?oc=5",
+      "published_at": "2026-11-23T21:57:41.000Z",
+      "publisher_url": "https://www.startupdaily.net",
+      "snippet": "Satellite maker Myriota lands first $60 million in Series C build Startup Daily",
+      "source_feed": "gnews-g6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 60000000,
+        "currency": "USD",
+        "raw": "$60 million"
+      },
+      "company_guess": "Myriota",
+      "group_key": "myriota",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "13aa108c14b5",
+      "title": "Myriota secures $60m in first Series C close to scale satellite connectivity",
+      "publisher": "Capital Brief",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUXE0NV9EdXZNOWppX0wzZ0RHZEtpOWJtYnNMQnJPVDBuVC0zRVVaYVJCazlkSnVGM1ZoU3RiYUp6WkpvNjN2Yl9rSk5mRzFVOFl6UGpqRm5lc0VlVTB1NXdKV3QyYUFrbjRvZ3lZdlR1dzRSclk1SzY4TU9YalYtU3N2eHF1SC0ydEFIRU5POVVwQTVaRGY1UEhBekQxcW1PNTlRWnBDeXNBZWtJeEdHRy1nSEpjRl91UFRQcXd5X0l0Tzd6VzdFTHBKRHZZZWlUNVV2aU1PbEhwUFh5NGY0Q2k3QkJqZw?oc=5",
+      "published_at": "2026-11-23T21:53:00.000Z",
+      "publisher_url": "https://www.capitalbrief.com",
+      "snippet": "Myriota secures $60m in first Series C close to scale satellite connectivity Capital Brief",
+      "source_feed": "gnews-g6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 60000000,
+        "currency": "USD",
+        "raw": "$60m"
+      },
+      "company_guess": "Myriota",
+      "group_key": "myriota",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "71b023696108",
+      "title": "Banco Sabadell Closes US$56 Million in Financing for Renewables",
+      "publisher": "Mexico Business News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdHFVdDBvTWlQVzRGUTBYdEpfT0JXdlBxUllfbXBGdjcwaGlQX2NLbTBzcV9fNi1DWWpIYy0zQjdWdWdkMlNoWnFrNGJFQnJndDA3bzllUVpMeVkwUVJQcUdVRXpuRE02eXNlWW82WW1ON2ZWZWs3YndZMHFraHhCVzZIOVg3X2JmWTJEUGNpMVFkQzdtVGhNcXJvQQ?oc=5",
+      "published_at": "2026-11-23T16:50:46.000Z",
+      "publisher_url": "https://mexicobusiness.news",
+      "snippet": "Banco Sabadell Closes US$56 Million in Financing for Renewables Mexico Business News",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 56000000,
+        "currency": "USD",
+        "raw": "US$56 Million"
+      },
+      "company_guess": "Banco Sabadell",
+      "group_key": "banco sabadell",
+      "group_rank": 0,
+      "resolved_url": "https://mexicobusiness.news/energy/news/banco-sabadell-closes-us56-million-financing-renewables",
+      "text": "English\nSpanish\nOur Categories\nEntrepreneurs\nTech\nTalent\nEnergy\nOil & Gas\nMining\nHealth\nAutomotive\nAerospace\nFinance & Fintech\nInfrastructure\nSustainability\nProfessional Services\nE-Commerce & Retail\nAgribusiness & Food\nLogistics\nMobility\nTrade & Investment\nPolicy & Economy\nCybersecurity\nAI, Cloud & Data\nChemicals\nMultimedia\nPodcast\nVideos\nAudio Articles\nOpinion\nExpert Contributor\nStartup Contributor\nGoverment\nEmbassy\nChamber of Commerce\nIndustry Association\nType\nSpotlight\nJoin our expert contributor program\nEntrepreneurs\nTech\nTalent\nEnergy\nOil & Gas\nMining\nHealth\nAutomotive\nAerospace\nFinance & Fintech\nInfrastructure\nSustainability\nProfessional Services\nE-Commerce & Retail\nAgribusiness & Food\nLogistics\nMobility\nTrade & Investment\nPolicy & Economy\nCybersecurity\nAI, Cloud & Data\nChemicals\nHome > Energy > Article\nBanco Sabadell Closes US$56 Million in Financing for Renewables\nShare it!\nBy MBN Staff\nMBN staff\nMon, 11/23/2026\n10:50\n0 min\nread\nDIA\nREAD ARTICLE\nReady to read\nReading...\n1x\nBanco Sabadell México closed two renewable energy financing transactions totaling up to US$56 million, supporting more than 130MW of wind and solar capacity across Yucatan, Zacatecas, and Nuevo Leon. The deals include the 75MW Tizimín II wind farm and two solar plants acquired by Riverstone Holdings.\n___\nBanco Sabadell México finalized two structured financing transactions totaling up to US$56 million to support more than 130MW of wind and solar power capacity across Yucatan, Zacatecas, and Nuevo Leon. Announced on Nov. 19, 2026, the facilities back projects expected to generate more than 380GWh of clean electricity annually as financial institutions mobilize capital for Mexico's energy transition.\n\"Mexico is at a decisive moment for its energy infrastructure, where certainty, financial discipline, and agility in execution are indispensable to trigger long-term investments,\" says Gustavo Martínez, Deputy Director General of Corporate Investment Banking, Banco Sabadell México.\nAccording to a bank statement cited by Energy21 , the larger transaction provides up to US$41 million for the Tizimín II wind farm in Yucatan, developed by Smartener. Acting as structurer and coordinator alongside co-lenders funding 50% of the debt, Banco Sabadell arranged a package comprising senior debt, letters of credit, and financial hedges for the 75MW facility, which will operate under a fully merchant scheme and generate an estimated 262.5GWh per year.\nThe transactions occur as private renewable energy developers and commercial banks adapt project financing structures to align with Mexico's updated regulatory framework and grid planning rules. As previously reported by Mexico Business News , the Ministry of Energy (SENER) and the National Energy Commission (CNE) now evaluate private generation assets based on their contribution to regional grid stability under the National Electric System Development Plan (PLADESE). During earlier industry discussions covered by Mexico Business News, Gerardo Pérez, President, Mexican Wind Energy Association (AMDEE), noted that the domestic wind sector holds the potential to mobilize between US$6 billion and US$30 billion in private capital when supported by transparent regulatory criteria and targeted transmission coordination.\nConcurrently, structured project finance remains vital for brownfield asset acquisitions and contracted clean power generation. According to a separate Mexico Business News analysis, private sponsors have increasingly utilized long-term power purchase agreements (PPAs) with the Federal Electricity Commission (CFE) and hybrid grid-fit architectures to mitigate merchant price volatility and secure commercial operation approvals from the National Energy Control Center (CENACE).\nBanco Sabadell's second financing facility allocates up to US$15 million to support private equity firm Riverstone Holdings in acquiring two operating solar photovoltaic assets: the Aldebarán plant in Zacatecas and the Pollux facility in Nuevo Leon. Together, the two solar parks represent approximately 57MWp of installed capacity and an estimated annual output exceeding 120GWh, backed by long-term PPAs with CFE under the Small Producer regime.\nBanco Sabadell stated that both transactions combine commercial bank participation with institutional asset managers to advance co-investment and tailored project finance models aligned with Mexico's national target of reaching 38.5% clean electricity generation by 2030. At the close of 3Q26, Banco Sabadell reported a total loan portfolio of MX$115.52 billion (US$6.21 billion) and customer deposits of MX$71.11 billion (US$3.82 billion) in Mexico, reinforcing its active role in domestic corporate and infrastructure lending.\nTags:\nGustavo Martínez\nGerardo Pérez\nBanco Sabadell México\nSmartener\nRiverstone Holdings\nFederal Electricity Commission\nMinistry of Energy\nNational Energy Commission\nNational Energy Control Center\nMexican Wind Energy Association\nMexico\nYucatán\nZacatecas\nNuevo León\nrenewable energy\nYou May Like\nBanco Sabadell Closes US$56 Million in Financing for Renewables\nJudge Halts Land-Use Changes for Royal Caribbean Project\nMexico’s Wind Sector Eyes New Investment as Market Reopens\nRenewables Can Still Power Energy Demand Surge\nThe Potential of Battery Storage in Mexico’s Energy Transition\nMexico’s Renewables Shift: Smarter Clients, New Grid Paths\nToday's Energy Priorities for Mexico's Long-Term Success\nSpaceX to Carry Mexican Experiment to ISS\nMost popular\n1\nTrade & Investment\nSheinbaum Seeks US Trade Deal, Rules Out China FTA\n2\nTrade & Investment\nEU Urges Mexico to Ratify Modernized Trade Agreement\n3\nEnergy\nWhat’s Holding Industry Back Isn’t a Lack of Energy\n4\nAutomotive\nBIOin Invests MX$1.05 Billion in Toluca Industrial Complex\n5\nMining\nTorex Gold Commences NYSE Trading, Secures TSX Bid\n6\nSustainability\nMexico Approves Federal Animal Welfare Law\n7\nAutomotive\nUSMCA Review and Tariffs Reshape Mexican Auto Retail Allocation\nAv. Paseo de la Reforma 180, piso ",
+      "text_status": "ok"
+    },
+    {
+      "id": "3041ae0d6387",
+      "title": "BRAIIN ANNOUNCES ~US$40 MILLION ACQUISITION INITIATIVE TO ENTER US$11 BILLION INDIAN DRONE MARKET",
+      "publisher": "Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0ZBQnBOTklCU1pnTjFYcE9oNUtRVVh2U09QU0Rha3lmbmR6ZGlZSHI0dllNemV0aEtYbUZsSTBTdXV0M0dCTExGdnZQd09reEJDNktET3V4Q2RfNVE2NFpiSFZYSHNHWFRtQXo5bEVrcldjUVE1QTI5OHNhcDRDRzU4QVFmUQ?oc=5",
+      "published_at": "2026-11-23T12:45:00.000Z",
+      "publisher_url": "https://sg.finance.yahoo.com",
+      "snippet": "BRAIIN ANNOUNCES ~US$40 MILLION ACQUISITION INITIATIVE TO ENTER US$11 BILLION INDIAN DRONE MARKET Yahoo Finance Singapore",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 40000000,
+        "currency": "USD",
+        "raw": "US$40 MILLION"
+      },
+      "company_guess": "BRAIIN",
+      "group_key": "braiin",
+      "group_rank": 0,
+      "resolved_url": "https://sg.finance.yahoo.com/news/braiin-announces-us-40-million-124500917.html",
+      "text_status": "error:fetch failed"
+    },
+    {
+      "id": "88619da25a59",
+      "title": "Exclusive: Princeton AI firm AidenAI raises $32M in Series A",
+      "publisher": "NJBIZ",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81aElKdmxoY01aeWtTZTJ6aHhueE9naGVObEw2bXU1RVJ6THN6MHlxMUY4UXJ2ZTZLc2dmY0NkbGR3WVcwR2FuallnM1k2RU1mN0Y2Y2ZjOC1jWlEtMDdkcVdlMjVYblk?oc=5",
+      "published_at": "2026-11-23T16:33:38.000Z",
+      "publisher_url": "https://njbiz.com",
+      "snippet": "Exclusive: Princeton AI firm AidenAI raises $32M in Series A NJBIZ",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 32000000,
+        "currency": "USD",
+        "raw": "$32M"
+      },
+      "company_guess": "AidenAI",
+      "group_key": "aidenai",
+      "group_rank": 0,
+      "resolved_url": "https://njbiz.com/aidenai-princeton-ai-funding-series-a/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "0d63fb1e6c01",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "publisher": "Sarah Perez",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "published_at": "2026-11-23T22:02:05.000Z",
+      "publisher_url": null,
+      "snippet": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "source_feed": "techcrunch-ai",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20M"
+      },
+      "company_guess": "Supertake",
+      "group_key": "supertake",
+      "group_rank": 0,
+      "resolved_url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "text": "AI investing startup Supertake has an interesting premise: What if your “takes” on the market could make you money without you having to pick stocks yourself? The service lets people turn their ideas into real investment portfolios, using frontier AI models and trading agents.\nNow, the company has raised $20 million in seed funding to grow its business. The round was led by venture firm Adjacent (Nico Wittenborn), with participation from Coinbase Ventures and Union Square Ventures (USV). Numerous angel investors also joined, including Nat Friedman , who’s currently head of product at Meta Superintelligence Labs; Vercel CEO Guillermo Rauch; renowned product manager Nikita Bier; investor Scott Belsky; and Nemil Dalal, a former Coinbase exec who is now a visiting partner at Y Combinator.\nMichael Mignano originally incubated the startup at USV. He is the co-founder and former CEO of the podcasting platform Anchor, which Spotify acquired in 2019 for over $150 million. After leading Spotify’s podcasting business as “Head of Talk” for a few years, he joined the team at Lightspeed as a venture partner, betting on AI companies like Suno and Granola. He also co-founded Oboe, an AI education startup, and joined USV as a general partner in April.\nImage Credits: Supertake\n“We really believed there was an opportunity to make investing more democratized…and give everyone and anyone the ability to invest in their own insights and beliefs and ideas,” Mignano said. While he will continue in his role as founder and executive chairman, he’s now brought in a team to run the company day to day.\nThe team includes co-founders Lincoln Murr (CEO) and John Peterson (CTO). Both joined from Coinbase, where, Mignano notes, they were the heads of AI product and engineering, leading launches like Coinbase advisor, Coinbase for agents, agentic wallets, and others.\nThe startup arrives as AI continues to make inroads into financial services, but allowing AI to take over people’s actual investments requires a new level of trust. Supertake is betting that people will ultimately be willing to take that leap, given recent improvements in frontier AI models.\nCurrently, Supertake works with Coinbase and Robinhood, and the company intends to expand to more brokerages over time. The idea is that you can explain, in broad, natural language, what you believe about how the world is going to change, and Supertake’s AI will iterate with you back and forth to turn that idea into a “take” that’s investable.\nUnder the hood, the startup is leveraging frontier AI technology and tools, combined with its own proprietary software that directs and limits what the AI can do.\nImage Credits: Supertake\nSupertake’s users’ ideas are tracked on a leaderboard on the site, so others who agree can invest alongside them. For instance, there’s currently an idea on the leaderboard about looksmaxxing and longevity becoming more of a trend, where the portfolio includes certain pharma and cosmetic companies that could potentially benefit.\nFor now, these portfolios consist of stock picks, but the team wants to expand the service over time to handle other types of transactions, like shorts, derivatives, perpetuals, long exposure, or even prediction markets — the latter handled through partnerships with companies in that space.\nDespite these “takes” seeming like bets on what could happen next in a given market, Murr stresses that this doesn’t make Supertake itself a prediction market.\nImage Credits: Supertake example (screenshot)\n“We think it’s a novel and very much improved way to create what was previously considered the robo-advisor experience,” he says. “When that came out, it had this amazing vision and direction of allowing people to have digital asset management. We think now is actually the time for that, with AI agents being so widely proliferated.”\n“I don’t think this is necessarily a prediction market by any means. The idea of natural language translation into an underlying set of assets feels different in that regard,” he says.\nStill, the startup could wade into short-term predictions if a user’s take involves something they believe could happen in the near future, like who might win an election.\n“We’re primarily focused on the longer, medium-term holdings today. But that being said, we don’t want to preclude people from building out very hyper short-term strategies that might exist,” Murr adds.\nImage Credits: Screenshot\nTo address people’s concerns over AI managing their money, Supertake’s team says it’s implementing certain guardrails and spend limits. For instance, the AI has no ability to deposit or withdraw funds on a user’s behalf without their explicit consent. There are also drift limits in place so the portfolio stays balanced, plus allow and deny lists (meaning which assets the AI may and may not trade), real-time monitoring for anomalous activity, tools to set trade size limits, and a restriction that keeps agents from seeing the user’s brokerage credentials.\n“We view it as somewhat analogous to self-driving cars, actually, where there is a spectrum here of both trust and technological innovations that are happening,” says Murr. “Where a few years ago you may not feel comfortable getting in a car that has lane assist, but today you get in a Waymo, and it’s like nothing. And we think that there’s a very similar progression happening with the agentic finance space, and we’re far further along in the technological spectrum than people think.”\nAccess to Supertake is still behind a waitlist while in beta, but the founders said they’ve put their money where their mouths are. Murr and Peterson are letting it manage “tens of thousands” and “thousands” of dollars, respectively.\nMignano, meanwhile, says he has Supertake managing “hundreds of thousands” of dollars.\nWith the new funding, which follows a $2 million pre-seed round, Supertake aims to expand its team in areas like engineering, design, growth marketing, and others. Mignano and Murr are in ",
+      "text_status": "ok"
+    },
+    {
+      "id": "604751245e3f",
+      "title": "Brunswick Exploration closes $19.5 million lithium financing",
+      "publisher": "Mining.com.au",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0VsQXpmdUszTW1GQlpKcmxTQ1VsZXJPaEVJTWNDeDBqLU5YVlAtNzFOdXFaT2c5U3Z2bVRrYTdKWkFZZkQzWmhScGxKcndQdHZhN2dJRWdEOHdHVnNSZ1RabHNtMTB0YWVJbVJzWFhWeU45WTNfSHcwT1dEdC1zSHlyaTMxYVdITGc?oc=5",
+      "published_at": "2026-11-23T17:05:09.000Z",
+      "publisher_url": "https://mining.com.au",
+      "snippet": "Brunswick Exploration closes $19.5 million lithium financing Mining.com.au",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 19500000,
+        "currency": "USD",
+        "raw": "$19.5 million"
+      },
+      "company_guess": "Brunswick Exploration",
+      "group_key": "brunswick exploration",
+      "group_rank": 0,
+      "resolved_url": "https://mining.com.au/brunswick-closes-19-5-million-lithium-exploration-financing/",
+      "text": "24 November 2026\nNews\nWRITTEN BY France Pinzon\nBrunswick Exploration closes $19.5 million lithium financing\nBrunswick Exploration (TSX-V:BRW) has raised C$18.56 million ($19.5 million) in gross proceeds through two equity placements to fund lithium exploration in Québec, Canada, and general corporate activities.\nThe company closed its ‘best efforts’ listed issuer financing exemption (LIFE) offering for C$17.84 million, alongside the first tranche of a concurrent non-brokered placement , which raised C$718,018.\nThe LIFE offering comprised 21.05 million common shares at C$0.19 each and 46.15 million charity flow-through shares at C$0.30 each.\nThe concurrent placement’s first tranche involved 2.56 million traditional flow-through shares priced at C$0.28 each.\nThe closings follow Brunswick’s decision earlier this month to nearly double the marketed placement following strong investor demand, as previously reported by Mining.com.au .\nProceeds from the flow-through shares will fund eligible Canadian exploration expenditures at Brunswick’s Québec properties by 31 December 2027. Net proceeds from the common shares will support exploration, working capital, and general corporate purposes.\nCanaccord Genuity, part of Canaccord Genuity Group (TSX:CF), led the marketed offering alongside Red Cloud Securities and Integrity Capital Group.\nThe agents received C$1.07 million in cash fees and 2.02 million warrants exercisable at C$0.19 per share until 23 November 2029.\nBrunswick expects to close the second tranche of its concurrent placement around 26 November. Both financings remain subject to final TSX Venture Exchange approval.\nBrunswick Exploration is a Montréal-based lithium explorer with projects across Canada , Greenland, and Saudi Arabia, including its Mirage and Anatacau projects in Québec.\nWrite to France Pinzon at Mining.com.au\nMain image: Brunswick Exploration\nAdd to Watch List: Brunswick Exploration Lithium\nWritten By France Pinzon\nFrance is an editor and writer with more than 15 years of experience in lifestyle media publishing, brand communications, and strategy. She has held senior editorial roles across print and digital publications and co-founded a boutique digital marketing agency. She is also a novelist and a collector of typewriters.\nShare:",
+      "text_status": "ok"
+    },
+    {
+      "id": "75c79f5993f7",
+      "title": "Brunswick Closes Offerings for Gross Proceeds of $18.6 Million",
+      "publisher": "TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVG9GeWlvRXAwSnBFUUpmLWJXVTR1YzNoQzJuTEJOb29KYUwtRWdMNXVYcWpERS1ITm9yUjN1c0g2NUxOQUpDTjFDa3psa0lrckNQNnFhenUxX0ZrVzhaRlU5ZzgwTVl2ZjZ2bXcyd2FXY3lEcGdEZjZCOTZzYWhnNXNZYTI5RlFZNFA1QjlaUFJja3pRdnN6X0syQWRDUlR5Y04xQWFpYWtwV0xIbjBLc0JIZw?oc=5",
+      "published_at": "2026-11-23T14:34:25.000Z",
+      "publisher_url": "https://www.tipranks.com",
+      "snippet": "Brunswick Closes Offerings for Gross Proceeds of $18.6 Million TipRanks",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 18600000,
+        "currency": "USD",
+        "raw": "$18.6 Million"
+      },
+      "company_guess": "Brunswick",
+      "group_key": "brunswick exploration",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "09f7cbe339b5",
+      "title": "Apricity raises $16.1M Series A for robotic ultrasound",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOENPcnotTVRzUWs0ZFQzREFKeHFQZ0lybktUZDZoU2xrUG5lU1dJYm5kTHZWT2JkZmJOcjBZUkk3dUY3Q3RHb09yUnF5UEZOa29GZUlZemRuTnJabFM0eXQwamZHTkxLdnlTQW5hckE4bGt0bkQxYk1XZ0QtblV5WF90TmVCaDA5VTVfeGFZSTU?oc=5",
+      "published_at": "2026-11-23T14:36:32.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Apricity raises $16.1M Series A for robotic ultrasound Dealroom",
+      "source_feed": "gnews-6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 16100000,
+        "currency": "USD",
+        "raw": "$16.1M"
+      },
+      "company_guess": "Apricity",
+      "group_key": "apricity",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/apricity-raises-16-1m-series-a-for-robotic-ultrasound",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "9ece44b56534",
+      "title": "Dublin robotics startup raises $16M toward preventing stress injuries in hospital techs",
+      "publisher": "The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZHBhblNQTFJHVFRhR2IzcmJoZFZGUDVfX0FhWEdLWTNFN0Q4SXhxQkotVmtIakhjN1dQMVdIaXo4akRLUW5BQ1BmdmVqaGxJdzRkY1d2dzdIZmwtN3owck0xM2xweF9CbnNTZVIxa3Zvd3NQanZzN2d4T0JZVldoUHZ0SE40SWJoYW0xQw?oc=5",
+      "published_at": "2026-11-23T17:17:00.000Z",
+      "publisher_url": "https://www.bizjournals.com",
+      "snippet": "Dublin robotics startup raises $16M toward preventing stress injuries in hospital techs The Business Journals",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 16000000,
+        "currency": "USD",
+        "raw": "$16M"
+      },
+      "company_guess": "Dublin robotics",
+      "group_key": "dublin robotics",
+      "group_rank": 0,
+      "resolved_url": "https://www.bizjournals.com/columbus/news/2026/11/23/apricity-robotics-series-a.html",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "86ca6d3a9237",
+      "title": "A 16-Year-Old’s AI Missile Startup Lands $500K From Y Combinator",
+      "publisher": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNUxoN04xYVBsNFJYUVhvVWgwMEpCX3RLTnBpdHNvNU1YT3pOTjVucTRXSmJsc2M0WUZaTWJiQVpwSGlFWDIwd3JZcjBidkUzZnNIb28xaG1qNXJmc2p2X2ttOEZXVjBQQTZ5bHk1cFZ1RmFsWEhldkM4T0xxaHlKa0pFVUFtVHlUWm53VnN2WlduOXM?oc=5",
+      "published_at": "2026-11-23T15:07:48.000Z",
+      "publisher_url": "https://finance.yahoo.com",
+      "snippet": "A 16-Year-Old’s AI Missile Startup Lands $500K From Y Combinator Yahoo Finance",
+      "source_feed": "gnews-8",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "16-Year-Old’s AI",
+      "group_key": "16 year olds",
+      "group_rank": 0,
+      "resolved_url": "https://finance.yahoo.com/technology/ai/articles/16-old-ai-missile-startup-150748913.html",
+      "text_status": "error:fetch failed"
+    }
+  ]
+}
