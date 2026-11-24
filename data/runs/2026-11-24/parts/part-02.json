@@ -1,0 +1,244 @@
+{
+ "run_date": "2026-11-24",
+ "part": 2,
+ "groups": [
+  {
+   "group_key": "avicena",
+   "company_guess": "Avicena",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "0554488e8c33",
+     "group_key": "avicena",
+     "title": "Avicena raises $100M to link AI chips with microLEDs instead of lasers",
+     "publisher": "The Next Web",
+     "url": "https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai",
+     "published_at": "2026-11-24T13:17:36.000Z",
+     "amount_hint": "$100M",
+     "snippet": "Avicena raises $100M to link AI chips with microLEDs instead of lasers The Next Web",
+     "text_status": "ok",
+     "text": "Avicena’s connectorised LightBundle microLED link, shown in September 2026\nCredit: Avicena\nAvicena, a Sunnyvale startup that links AI chips with tiny LEDs instead of lasers, has raised more than $100M in Series C funding. It also has a new chief executive. Kevin Pope succeeds Marco Chisari and will lead the company as it brings its first product to market next year.\nInterVest led the round, Avicena announced on Tuesday. Other investors include Tiger Global, Cerberus Capital Management, SK hynix Ventures, Samsung Catalyst Fund and AMD Ventures. Prosperity7 Ventures, Mitsubishi Chemical’s Diamond Edge Ventures and Hitachi Ventures also took part. InterVest director John Dongwoo Ha joins Avicena’s board.\n“AI infrastructure needs a new approach to moving data between accelerators, memory, and switches,” Pope said.\nLight instead of copper\nAI systems move ever more data between accelerators, memory and switches. Copper links face limits on reach, density and energy use, Avicena says. Memory bandwidth and capacity also increasingly hold systems back. SK hynix, one of the investors, has said the memory shortage will last until 2030.\nAvicena’s LightBundle platform uses dense arrays of microLEDs and silicon photodetectors linked by multicore fibre. Rather than pushing a few channels very fast, it spreads data across many slower ones. That, the company says, cuts the need for data-rate conversion and complex signal processing.\nBecause it needs no lasers, the platform can sit close to compute and memory chips. Avicena pitches it for links inside and between chip packages, and across accelerator systems. By contrast, Photon Bridge raised $10M last month to build lasers for AI data centres.\nFrom evaluation kits to a product\nAvicena began shipping 1Tbps LightBundle evaluation kits in August. In September, it announced a version with connectors for the ECOC 2026 optics conference. It is meant to make assembly, testing and servicing easier.\nThe money will go on hiring, product development and engineering, Pope said. Two of the chipmakers behind the round see a role for the technology in memory.\n“Energy-efficient optical interconnects are becoming increasingly important to next-generation memory architectures,” said SK hynix Ventures’ Rene Do.\nSK hynix Ventures said it hopes to work with Avicena on future memory interconnects. Energy and data movement limit the AI build-out, said Samsung Catalyst Fund’s David Goldschmidt. AMD Ventures’ Patrick Rundell said moving data between compute, memory and networking chips is becoming critical.\nEarlier this month, Marvell agreed to buy Lumentum , the Nvidia-backed optical component maker, in an all-stock deal.\nStory by\nCristian Dina\nCristian Dina is the CRO at The Next Web. He has interviewed 300+ industry leaders and authored the book King of Networking, establishing hi (show all)\nCristian Dina is the CRO at The Next Web. He has interviewed 300+ industry leaders and authored the book King of Networking, establishing himself as one of the most connected and respected voices in the ecosystem. At just 23 years old, Cristian was included in the Forbes 30 Under 30 2025 list, representing a new generation of tech builders, bold thinkers who move fast, build with purpose, and create real impact.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.\nEmail address\nSubscribe\nWebsite\nThanks! Check your inbox to confirm your subscription.\nBy subscribing you agree to our Privacy Statement .\nPublished"
+    },
+    {
+     "id": "d8cf942263c6",
+     "group_key": "avicena",
+     "title": "Avicena Raises $100M+ Series C to Commercialize microLED Optical Links",
+     "publisher": "Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ1JmeUxXekwyZHJ5WEhReThVcGdYb1N2Y3ZZaVdWR2c3MHJkYWRPQkN6Z1VRa3RCZldEeTdsR05nRzgwdlk3aFZib3JEbnpPNnd4MWVEQ2d0WGoxNUx3aWlsUml2S0xsMkFnZ2tSVW1sWHI5Sl9idHBOdG5WWnJMbERHZENNNkJZWU5yU1RMcEgwY01HY1ZRTXdrTQ?oc=5",
+     "published_at": "2026-11-24T13:44:04.000Z",
+     "amount_hint": "$100M",
+     "snippet": "Avicena Raises $100M+ Series C to Commercialize microLED Optical Links Unite.AI",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "14b37a50a9a7",
+     "group_key": "avicena",
+     "title": "Avicena Raises $100 Million Series C to Accelerate Commercialization of microLED Optical Interconnects for AI Infrastructure",
+     "publisher": "01net",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbzA3S2xsVFFGUmFZMnB1c05sX1VGS1pTY1F0TlJOdkQ4VWl2dkl5blRnMmVzOWNOdm9zZGVKRjhjUGxOUzZ4VHZ6UXJNRHhSRzZBMlRwamZOVTdaa2hvMTdtVkpTNHRhUVQzb2t6RHFIVlVvU3dFNmNTRTZsTkRwVjRvWlBPU2ppeVFtS3drbDdzTjNOcWk3Qm56MnpaTEVLRWQ1MXk0U25Sc2xScllmYUE1U0loZWg1RGpvSEhVblJrbEVuc0oyUF84WHoxejdkNmtGX3UycFZZel9SZWc?oc=5",
+     "published_at": "2026-11-24T14:00:00.000Z",
+     "amount_hint": "$100 Million",
+     "snippet": "Avicena Raises $100 Million Series C to Accelerate Commercialization of microLED Optical Interconnects for AI Infrastructure 01net",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "345422577a1c",
+     "group_key": "avicena",
+     "title": "Avicena raises $100M Series C for microLED optical links",
+     "publisher": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUGdPNHh1Zm9UTWU2X1luWmJnRndwRVBMeG0xTTNNS2lvbjZ1SVFFbGpGdmZQckhTOGUxQ2xqSUFpTDVGUVJZOEZuT3pVQ1MyWWVHVjQycDVxSlFfa19zU2xTcTUxekI0c0kzdThnS1J0Z0pOMTdkX21BTzY2dE5tSVUxZWp5UTJvck0xZG5FVWl3WHM?oc=5",
+     "published_at": "2026-11-24T11:54:13.000Z",
+     "amount_hint": "$100M",
+     "snippet": "Avicena raises $100M Series C for microLED optical links Dealroom",
+     "text_status": "skipped",
+     "text": null
+    },
+    {
+     "id": "daffd0ef3ee4",
+     "group_key": "avicena",
+     "title": "Avicena Raises $100M to Link AI Chips With Light, Not Lasers",
+     "publisher": "FourWeekMBA",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS0xBNGhqUWVOQXB6VmtNM2V4b05ydWNPT0JCOE0zUVJ1NXVKcGlLa1ByRGwzWkhpS25icldDTEpfa0E4cURoMl8zdVJJcE85d2FXM3RVSGEzckFUMm5ubzRtZnVUVEJ5WGVHS0RWbkRFaXFURDdzbzlqa09rYy1nQk5IVTB2by1GQUdITGkzbw?oc=5",
+     "published_at": "2026-11-24T14:15:49.000Z",
+     "amount_hint": "$100M",
+     "snippet": "Avicena Raises $100M to Link AI Chips With Light, Not Lasers FourWeekMBA",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "after",
+   "company_guess": "After",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "8b4cc594f677",
+     "group_key": "after",
+     "title": "After raising $100 million, Israeli AI company Leadspace faces insolvency petition",
+     "publisher": "CTech",
+     "url": "https://www.calcalistech.com/ctechnews/article/a6s0i8n2b",
+     "published_at": "2026-11-24T10:24:00.000Z",
+     "amount_hint": "$100 million",
+     "snippet": "After raising $100 million, Israeli AI company Leadspace faces insolvency petition CTech",
+     "text_status": "thin",
+     "text": "Leadspace"
+    }
+   ]
+  },
+  {
+   "group_key": "china physical",
+   "company_guess": "China Physical AI",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "97c2b7775768",
+     "group_key": "china physical",
+     "title": "China Physical AI Roundup: Simplexity Robotics Raises $100M Pre-A, Plus X Square Model, OYMotion and AgiBot Deployment",
+     "publisher": "AI Insider",
+     "url": "https://theaiinsider.tech/2026/11/24/china-physical-ai-roundup-simplexity-robotics-raises-100m-pre-a-plus-x-square-model-oymotion-and-agibot-deployment/",
+     "published_at": "2026-11-24T04:21:53.000Z",
+     "amount_hint": "$100M",
+     "snippet": "China Physical AI Roundup: Simplexity Robotics Raises $100M Pre-A, Plus X Square Model, OYMotion and AgiBot Deployment AI Insider",
+     "text_status": "ok",
+     "text": "Physical AI · Humanoids\nChina Physical AI Roundup: Simplexity Robotics Raises $100M Pre-A, Plus X Square Model, OYMotion and AgiBot Deployment\nBy Greg Bock · 24 November 2026 · 3 min read\nAI Insider\nInsider Brief\nChina’s physical AI sector saw new funding, robot technology releases and industrial deployments, alongside government efforts to develop national standards for embodied-intelligence data.\nSimplexity Robotics raised $100 million at a $1.6 billion valuation and unveiled its iX wheeled humanoid, while OYMotion secured several hundred million yuan to expand its dexterous hand and robot training technology.\nX Square Robot reported a 55.1% zero-shot success rate for its WALL-OSS-1.0 model across 312 real-robot tasks, while AgiBot began trial operations of its Genie G2 robots on a semiconductor testing line in Shanghai.\nChina ‘s physical AI industry continues to expand on several fronts, with fresh investment, advances in robotic intelligence and growing activity in industrial settings. This week’s developments also highlight specialized hardware, training data and emerging standards as companies work to move robots beyond demonstrations and into commercial use. Here’s a look at the latest developments.\nSimplexity Robotics\nSimplexity Robotics has raised $100 million in a pre-Series A round led by Ant Group at a $1.6 billion post-money valuation, Ifeng reported , citing chairman and co-founder Wang Kai. Wang made the comments in a Bloomberg interview and said Ant also joined as a strategic investor. TechNode , also citing Bloomberg, said existing investors Tencent, HSG and Lanchi Ventures participated as well and that the company was founded by former Li Auto executives.\nWang listed the company’s current backers as Vision Plus Capital, HSG, Lanchi Ventures, Tencent, Alibaba, Legend Capital, CAS Star and Gaorong Ventures, according to Ifeng. He said Lanchi, Tencent, Legend Capital and HSG have each invested in three or more rounds.\nSimplexity also unveiled iX, its second humanoid and a wheeled robot that prepares and delivers drinks, fetches items and guides visitors, Ifeng said. Early customers include Korean robotics startup RLWRLD, Tsinghua University and forklift maker Hangcha Group. Simplexity has already put a warehouse sorting line into operation with Hangcha.\nX Square Robot\nX Square Robot introduced WALL-OSS-1.0, a vision-language-action foundation model for robots, the Shenzhen company announced . It reported a 55.1% zero-shot success rate across 312 real-robot tasks chosen by evaluators, with no task-specific training. On ManipArena, a real-world benchmark of 15 tabletop tasks, the model scored 1,101 out of 1,500 points without task-specific fine-tuning, 70.8% higher than a fine-tuned π0.5 baseline, according to the company.\nX Square said a compact Nano version of the model ran 18 robots on one Nvidia Blackwell GPU in a tested configuration. It also said a WALL-OSS-1.0-based parcel-sorting policy for an unnamed logistics customer kept more than 90% of its original-site speed and success rate when moved across sites. The company said it will open-source the model’s weights soon.\nOYMotion\nOYMotion , a Shanghai maker of dexterous robot hands and muscle-signal technology, has closed a Series D of several hundred million yuan, 36Kr reported in an exclusive, citing the company. The exact amount was undisclosed. Zhongbing Shunjing, Changjiang Capital and Guanggu Industrial Investment invested in the round, OYMotion’s second this yea"
+    }
+   ]
+  },
+  {
+   "group_key": "sherpa 6",
+   "company_guess": "Sherpa 6",
+   "amount_hint_usd": 99900000,
+   "articles": [
+    {
+     "id": "2760d8c9fb84",
+     "group_key": "sherpa 6",
+     "title": "Sherpa 6 Wins $99.9 Million Tactical Endpoint Management Contract",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/sherpa-6-wins-99-9-million-tactical-endpoint-management-contract/",
+     "published_at": "2026-11-24T12:10:20.000Z",
+     "amount_hint": "$99.9 Million",
+     "snippet": "The Army has awarded Sherpa 6 a $99.9 million Small Business Innovation Research Phase III contract to demonstrate a unified endpoint-management platform at the tactical edge.\nThe post Sherpa 6 Wins $99.9 Million Tactical Endpoint Management Contract appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Sherpa 6 Wins $99.9 Million Tactical Endpoint Management Contract\nBy Amit Chowdhry\nToday at 7:10 AM\nSherpa 6 Wins $99.9 Million Tactical Endpoint Management Contract\nThe Army has awarded Sherpa 6 a $99.9 million Small Business Innovation Research Phase III contract to demonstrate a unified endpoint-management platform at the tactical edge.\nThe award combines cost-no-fee and firm-fixed-price ordering structures under an indefinite-delivery/indefinite-quantity contract.\nTechnology For Tactical Environments\nThe platform is intended to demonstrate how endpoint-management technology can be used in operational environments where military users depend on distributed devices, constrained networks, and rapidly changing mission requirements.\nSpecific work locations, tasks, and funding amounts will be established through individual orders. The Army did not announce an initial obligation.\nThe contract has an estimated completion date of November 17, 2031.\nOnly one bid was solicited, and Sherpa 6 submitted that proposal. The Phase III designation indicates that the work follows earlier innovation efforts and is intended to transition developed technology toward operational use without using additional Small Business Innovation Research program funding.\nBecause this is an IDIQ award, the $99.9 million amount represents the maximum potential ordering value. Actual revenue will depend on the orders placed during the contract period.\nSherpa 6 is headquartered in Littleton, Colorado. Army Contracting Command at Aberdeen Proving Ground, Maryland, is the contracting activity. The contract number is W911QX-27-D-A001.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "parsons",
+   "company_guess": "Parsons",
+   "amount_hint_usd": 75500000,
+   "articles": [
+    {
+     "id": "fdcbc6c7b578",
+     "group_key": "parsons",
+     "title": "Parsons Receives $75.5 Million Across Environmental And Space Systems Contracts",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/parsons-receives-75-5-million-across-environmental-and-space-systems-contracts/",
+     "published_at": "2026-11-24T12:16:42.000Z",
+     "amount_hint": "$75.5 Million",
+     "snippet": "Parsons Government Services received two awards carrying combined potential value of approximately $75.5 million.\nThe post Parsons Receives $75.5 Million Across Environmental And Space Systems Contracts appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Parsons Receives $75.5 Million Across Environmental And Space Systems Contracts\nBy Amit Chowdhry\nToday at 7:16 AM\nParsons Receives $75.5 Million Across Environmental And Space Systems Contracts\nParsons Government Services received two awards carrying a combined potential value of approximately $75.5 million.\nThe larger award is a $45.7 million Army indefinite-delivery/indefinite-quantity contract for environmental remediation at the Escambia Wood Treating Co. Superfund Site in Florida.\nEnvironmental Remediation Work\nParsons will use in-situ thermal treatment and in-situ chemical oxidation at Operable Unit Two of the Superfund site. The Army received two bids for the contract.\nFunding and specific work requirements will be established through individual orders, with performance expected to continue through November 2031. The $45.7 million amount is an ordering ceiling rather than an initial obligation.\nParsons also received an undefinitized Space Force contract with a ceiling of approximately $29.8 million for Integrated Solutions for Situational Awareness.\nThe sole-source award covers technical sustainment and program support required to deliver and maintain operational capabilities across multiple security domains and classification levels. Work will be performed in Los Angeles through November 2027.\nThe government obligated $1.1 million in research, development, test, and evaluation funding at award. Because the contract remains undefined, its final terms and value may change during negotiations.\nTogether, the awards provide Parsons with up to approximately $75.5 million in potential value, although only the announced $1.1 million Space Force obligation was committed immediately.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "zipher",
+   "company_guess": "Zipher",
+   "amount_hint_usd": 53000000,
+   "articles": [
+    {
+     "id": "333788bea7dd",
+     "group_key": "zipher",
+     "title": "Zipher Raises $53M Across Seed and Series A Rounds to Automate Data Workloads",
+     "publisher": "Unite.AI",
+     "url": "https://www.unite.ai/zipher-raises-53-million-to-automate-enterprise-data-infrastructure/",
+     "published_at": "2026-11-24T13:00:00.000Z",
+     "amount_hint": "$53M",
+     "snippet": "Zipher Raises $53M Across Seed and Series A Rounds to Automate Data Workloads Unite.AI",
+     "text_status": "ok",
+     "text": "Funding\nZipher Raises $53M Across Seed and Series A Rounds to Automate Data Workloads\nPublished\nNovember 24, 2026\nBy\nTheo Nash, AI Infrastructure & Compute AI Research Agent\nAdd Unite.AI to your preferred sources on Google\nCo-Founders (left to right): Dan Coster (CEO) and Yoav Gill Ben Ephraim (CTO). Portrait composite; photos courtesy of Zipher.\nKey Points Zipher raised $53 million to automate cloud capacity decisions that data teams now make…\nView more\nZipher raised $53 million to automate cloud capacity decisions that data teams now make manually in advance.\nHertz cut compute costs by 25% to 40% while holding performance steady through seasonal peaks with Zipher.\nZipher's execution layer targets performance and budget goals rather than simply choosing the cheapest infrastructure.\nZipher has raised $53 million across its seed and Series A rounds to automate how enterprise data workloads run in the cloud. The company said TLV Partners , Maor Investments and Glilot Capital backed the rounds. It did not disclose how much each round contributed or the valuation.\nThe funding will go toward research and development and expanding sales, including a larger U.S. enterprise sales operation and growth outside the United States. Founded in 2024 by CEO Dan Coster and CTO Yoav Gill Ben Ephraim, Zipher targets the infrastructure underneath analytics and AI projects: the computing resources that move, transform and process data before people or applications use it.\nHow Zipher Allocates Cloud Capacity\nData teams have traditionally chosen cluster configurations, job schedules and execution engines ahead of time. That works when a job’s input volume and deadline are reasonably predictable. But a pipeline that processes steady traffic on most days might need considerably more memory during a holiday rush or when a backlog lands. Reserving enough capacity for the largest run can waste money on quiet days; sizing every run for the average can make an unexpectedly large job miss its deadline.\nZipher’s product documentation describes an execution layer that learns from earlier runs, looks for recurring changes in demand and adjusts resources accordingly. Customers define targets such as how quickly a job must finish and how much it should cost. Zipher says its software can then adjust a cluster, route a workload to another engine or rewrite it for another framework. The company lists support for workloads on AWS, Azure and Google Cloud and integrations with tools including Apache Airflow, dbt and Databricks Workflows.\nOne example is deciding when a job can use spare cloud capacity. Amazon EC2 Spot Instances use capacity that AWS can reclaim. That can make them a fit for work that can recover from an interruption, but a poor fit when interruption would put a deadline at risk. Zipher says it monitors spot availability and can adjust resources if capacity is reclaimed or a job runs out of memory. The point is not to use the cheapest infrastructure on every run. It is to weigh the cost of that run against the cost of an interruption or missed deadline.\nWhat the Customer Results Show\nHertz uses Zipher for production data workloads, according to the announcement. Gaurav Rastogi, Hertz’s senior director of enterprise data analytics and BI platforms, said in a statement distributed by Zipher that the rental company saw compute costs fall by 25% to 40%, depending on the workload, while maintaining consistent performance during seasonal peaks. Zipher does not disclose"
+    }
+   ]
+  },
+  {
+   "group_key": "built for agents",
+   "company_guess": "Built For Agents",
+   "amount_hint_usd": 53000000,
+   "articles": [
+    {
+     "id": "7a8bc6640bc4",
+     "group_key": "built for agents",
+     "title": "Zipher A Data Analytics Platform Built For Agents Raises $53 Million",
+     "publisher": "Forbes",
+     "url": "https://www.forbes.com/sites/timkeary/2026/11/24/zipher-a-data-platform-built-by-agents-for-agents-raises-53-million/",
+     "published_at": "2026-11-24T14:05:03.000Z",
+     "amount_hint": "$53 Million",
+     "snippet": "Zipher A Data Analytics Platform Built For Agents Raises $53 Million Forbes",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "zipher",
+   "company_guess": "Zipher",
+   "amount_hint_usd": 45000000,
+   "articles": [
+    {
+     "id": "8a29bee4cb4a",
+     "group_key": "zipher",
+     "title": "Israeli startup Zipher raises $45 million Series A to automate corporate data infrastructure",
+     "publisher": "CTech",
+     "url": "https://www.calcalistech.com/ctechnews/article/bkreuwq1xg",
+     "published_at": "2026-11-24T13:00:00.000Z",
+     "amount_hint": "$45 million",
+     "snippet": "Israeli startup Zipher raises $45 million Series A to automate corporate data infrastructure CTech",
+     "text_status": "thin",
+     "text": "Photo: Omer Hacohen"
+    }
+   ]
+  },
+  {
+   "group_key": "chinas cardinal operations",
+   "company_guess": "China's Cardinal Operations",
+   "amount_hint_usd": 45000000,
+   "articles": [
+    {
+     "id": "6c7de8bea612",
+     "group_key": "chinas cardinal operations",
+     "title": "China's Cardinal Operations raises $45M Series D for decision AI",
+     "publisher": "Dealroom",
+     "url": "https://app.dealroom.co/news/note/china-s-cardinal-operations-raises-45m-series-d-for-decision-ai",
+     "published_at": "2026-11-23T18:59:38.000Z",
+     "amount_hint": "$45M",
+     "snippet": "China's Cardinal Operations raises $45M Series D for decision AI Dealroom",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "aiden",
+   "company_guess": "Aiden",
+   "amount_hint_usd": 32000000,
+   "articles": [
+    {
+     "id": "e4cd3ac2b8ad",
+     "group_key": "aiden",
+     "title": "Ex-Infosys veteran’s enterprise AI startup Aiden raises $32 million from A91 Partners",
+     "publisher": "The Economic Times",
+     "url": "https://m.economictimes.com/tech/startups/ex-infosys-veterans-enterprise-ai-startup-aiden-raises-32-million-from-a91-partners/articleshow/136110343.cms",
+     "published_at": "2026-11-24T00:30:00.000Z",
+     "amount_hint": "$32 million",
+     "snippet": "Ex-Infosys veteran’s enterprise AI startup Aiden raises $32 million from A91 Partners The Economic Times",
+     "text_status": "ok",
+     "text": "Enterprise AI startup Aiden AI, founded by former Infosys senior vice president Srinivas Kamadi, has raised $32 million (Rs 297 crore) from investment firm A91 Partners in its maiden institutional funding round, bolstering its plans to expand the platform for helping large firms looking to deploy AI across legacy systems.The Princeton and Hyderabad-based startup focuses on enterprises, particularly in banking, financial services and insurance"
+    }
+   ]
+  }
+ ]
+}
