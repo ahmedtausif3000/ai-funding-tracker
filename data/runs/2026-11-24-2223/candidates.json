@@ -1,0 +1,1046 @@
+{
+  "run_date": "2026-11-24-2223",
+  "generated_at": "2026-11-24T22:24:30.170Z",
+  "window_days": 2,
+  "range": null,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 200,
+        "items": 100
+      },
+      {
+        "id": "gnews-2",
+        "status": 200,
+        "items": 57
+      },
+      {
+        "id": "gnews-3",
+        "status": 200,
+        "items": 42
+      },
+      {
+        "id": "gnews-4",
+        "status": 200,
+        "items": 28
+      },
+      {
+        "id": "gnews-5",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "gnews-6",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-7",
+        "status": 200,
+        "items": 65
+      },
+      {
+        "id": "gnews-8",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "gnews-g1",
+        "status": 200,
+        "items": 41
+      },
+      {
+        "id": "gnews-g2",
+        "status": 200,
+        "items": 14
+      },
+      {
+        "id": "gnews-g3",
+        "status": 200,
+        "items": 18
+      },
+      {
+        "id": "gnews-g4",
+        "status": 200,
+        "items": 49
+      },
+      {
+        "id": "gnews-g5",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "gnews-g6",
+        "status": 200,
+        "items": 59
+      },
+      {
+        "id": "gnews-g7",
+        "status": 200,
+        "items": 44
+      },
+      {
+        "id": "gnews-g8",
+        "status": 200,
+        "items": 44
+      },
+      {
+        "id": "gnews-g9",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "pulse2",
+        "status": 200,
+        "items": 120
+      },
+      {
+        "id": "citybiz",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 989,
+    "prefiltered": 130,
+    "dropped": {
+      "not_funding": 271,
+      "no_ai_hint": 101,
+      "below_min": 154,
+      "fund_close": 20,
+      "seen": 206,
+      "duplicate_link": 105,
+      "known_round": 97,
+      "noise": 2
+    },
+    "groups": 65,
+    "selected_groups": 23,
+    "candidates": 33,
+    "articles_fetched": 14,
+    "google_rate_limited": false
+  },
+  "groups": [
+    {
+      "key": "south east asia payment firms",
+      "company_guess": "South-East Asia Payment Firms",
+      "amount_hint_usd": 1600000000,
+      "candidate_ids": [
+        "043060e18eeb"
+      ]
+    },
+    {
+      "key": "congo mining forum",
+      "company_guess": "Congo mining forum",
+      "amount_hint_usd": 965000000,
+      "candidate_ids": [
+        "4e85a5ac2333"
+      ]
+    },
+    {
+      "key": "credit acceptance",
+      "company_guess": "Credit Acceptance",
+      "amount_hint_usd": 800000000,
+      "candidate_ids": [
+        "cc21a869f98a"
+      ]
+    },
+    {
+      "key": "balfour beatty",
+      "company_guess": "Balfour Beatty",
+      "amount_hint_usd": 600000000,
+      "candidate_ids": [
+        "b92c79e0f522"
+      ]
+    },
+    {
+      "key": "2021d4509930",
+      "company_guess": "AI",
+      "amount_hint_usd": 400000000,
+      "candidate_ids": [
+        "2021d4509930"
+      ]
+    },
+    {
+      "key": "dutch",
+      "company_guess": "Dutch AI",
+      "amount_hint_usd": 400000000,
+      "candidate_ids": [
+        "e94ac9979c30"
+      ]
+    },
+    {
+      "key": "miami fintech",
+      "company_guess": "Miami fintech",
+      "amount_hint_usd": 300000000,
+      "candidate_ids": [
+        "50063173accc"
+      ]
+    },
+    {
+      "key": "accel leads a 277",
+      "company_guess": "Accel Leads a $277",
+      "amount_hint_usd": 277000000,
+      "candidate_ids": [
+        "44707dc93c22"
+      ]
+    },
+    {
+      "key": "ex convoy ceos new startup",
+      "company_guess": "Ex-Convoy CEO's new startup",
+      "amount_hint_usd": 277000000,
+      "candidate_ids": [
+        "cb8aa3e916bd"
+      ]
+    },
+    {
+      "key": "arrow 3 and barak",
+      "company_guess": "Arrow 3 and Barak",
+      "amount_hint_usd": 180000000,
+      "candidate_ids": [
+        "6834bbc0d088"
+      ]
+    },
+    {
+      "key": "peak energy",
+      "company_guess": "Peak Energy",
+      "amount_hint_usd": 157000000,
+      "candidate_ids": [
+        "66108eab6133",
+        "62619aa865cd"
+      ]
+    },
+    {
+      "key": "chase properties and tru",
+      "company_guess": "Chase Properties and Tru",
+      "amount_hint_usd": 148000000,
+      "candidate_ids": [
+        "43ffbce2cb39"
+      ]
+    },
+    {
+      "key": "avicena",
+      "company_guess": "Avicena",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "6b0dc7cadfc9",
+        "776c03f2aa7d",
+        "e1321f1cc8e1",
+        "ce60b6656965",
+        "a9b07c249abf"
+      ]
+    },
+    {
+      "key": "harbinger",
+      "company_guess": "Harbinger",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "42a22400697f",
+        "0a4ff6ef2c22",
+        "666aa4549aab",
+        "070a55e4c04d"
+      ]
+    },
+    {
+      "key": "yreka western railroad",
+      "company_guess": "Yreka Western Railroad",
+      "amount_hint_usd": 60200000,
+      "candidate_ids": [
+        "f746522243a9"
+      ]
+    },
+    {
+      "key": "trustly",
+      "company_guess": "Trustly",
+      "amount_hint_usd": 60000000,
+      "candidate_ids": [
+        "4733f726d30a"
+      ]
+    },
+    {
+      "key": "zipher",
+      "company_guess": "Zipher",
+      "amount_hint_usd": 53000000,
+      "candidate_ids": [
+        "5ad9bd1fa17b",
+        "6f6536ae1073"
+      ]
+    },
+    {
+      "key": "sensenet",
+      "company_guess": "SenseNet",
+      "amount_hint_usd": 43000000,
+      "candidate_ids": [
+        "fa949a87cdae",
+        "ae2137ee6b3c"
+      ]
+    },
+    {
+      "key": "native realty brokers 35 38",
+      "company_guess": "Native Realty Brokers $35.38",
+      "amount_hint_usd": 35380000,
+      "candidate_ids": [
+        "1cc8cf192a86"
+      ]
+    },
+    {
+      "key": "leash bio",
+      "company_guess": "Leash Bio",
+      "amount_hint_usd": 30000000,
+      "candidate_ids": [
+        "e1ea3e670580"
+      ]
+    },
+    {
+      "key": "uruguays kunstig aero",
+      "company_guess": "Uruguay's Kunstig Aero",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "73e389bade9d"
+      ]
+    },
+    {
+      "key": "prosus to lead rs",
+      "company_guess": "Prosus to lead Rs",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "e3bc7c9a4e82"
+      ]
+    },
+    {
+      "key": "madrone",
+      "company_guess": "Madrone",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "261c0f1b238e"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "043060e18eeb",
+      "title": "South-East Asia Payment Firms Raise US$1.6 Billion",
+      "publisher": "Retail News Asia",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oa3VQSk4wV3I3OWpNekRxM1lya1ZqcmhEeVZOTU5iSThBcU9iNV9vcUlWSnVFeUpGZ3ltS3ctRGF6V1lYV3c2RVl0R1FCNUJyM1NYNnk5S2ZuaHhBUjdPamdnT1c1bWdPSkhneHhzcDB4U2FVZDM2SzNQQ0diUQ?oc=5",
+      "published_at": "2026-11-24T06:50:46.000Z",
+      "publisher_url": "https://retailnews.asia",
+      "snippet": "South-East Asia Payment Firms Raise US$1.6 Billion Retail News Asia",
+      "source_feed": "gnews-g6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 1600000000,
+        "currency": "USD",
+        "raw": "US$1.6 Billion"
+      },
+      "company_guess": "South-East Asia Payment Firms",
+      "group_key": "south east asia payment firms",
+      "group_rank": 0,
+      "resolved_url": "https://retailnews.asia/south-east-asia-payment-firms-raise-us1-6-billion",
+      "text": "Share\nStartups\nSouth-East Asia Payment Firms Raise US$1.6 Billion\nBy Minjun Park\n2 min read Updated Nov 24, 2026 Publication date: Nov 24, 2026 4:49 AM\nShare | Save\naa97d584861474f4097cf13ccb5325da Mobile Payments Plastic is so Passé\nIn this article ( 9 )\nIn this article\nMega-rounds skew early-stage totals\nDeal volumes fall across the region\nSingapore captures the bulk of capital\nTrade sales dominate liquidity events\nQuestions & Answers\nWhich deals drove the surge in South-east Asian payment funding?\nWhy did early-stage funding figures increase so dramatically?\nHow is payment sector investment distributed geographically across the region?\nWhat does the typical exit path look like for payment firms in the region?\nWhy it matters\nSouth-east Asian payment firms secured US$1.6 billion by mid-November 2026, driven almost entirely by mega-rounds for Ant International and Airwallex.\nCapital concentration in Singapore starves early-stage regional fintechs, with deal counts collapsing to 10 and seed transactions tumbling from nine to one.\nTrack whether local champions like Xendit and MoMo can unlock liquidity, given trade sales average an extended 19.5 years to reach US$80.9 million.\nRetail News Asia newsroom analysis\nSouth-east Asia’s payment companies raised US$1.6 billion in equity funding between Jan 1 and Nov 17, 2026. That total more than doubles the US$733 million secured across the entire twelve months of 2025.\nThe capital injection represents the highest annual funding level for the sector since 2022. It extends a three-year recovery from 2023, when sector investment hit a trough of US$270 million. Capital flow, however, concentrated heavily into a tiny cluster of mega-transactions rather than a broad market expansion.\nMega-rounds skew early-stage totals\nTwo transactions accounted for the vast majority of the capital raised across the region this year. Ant International secured US$1.2 billion in a Series A round in July, while cross-border payments provider Airwallex closed a US$320 million Series H round in June.\nRead also\nStartups news and analysis\nMore on acquisitions\nAdvertisement Advertise with us Mobile 320×100\nBecause Ant International structured its transaction as a Series A round, early-stage capital metrics surged to US$1.3 billion for the year. Late-stage funding reached just US$320 million through mid-November. The breakdown reverses the distribution recorded in 2025, when late-stage financing rounds comprised US$662 million of the US$733 million raised.\nDeal volumes fall across the region\nUnderlying deal activity contracted sharply despite the top-line dollar expansion. Investors completed only 10 equity deals across South-east Asia through Nov 17, 2026.\nEarly-stage venture creation experienced the steepest drop. Seed rounds fell from nine completed transactions in 2025 to a single deal in 2026. The compression leaves early-stage fintech founders facing a substantially narrower base of active institutional checks than in prior fundraising cycles.\nSingapore captures the bulk of capital\nGeographic allocation remains skewed toward Singapore, which drew approximately 71.1 per cent of all payment sector funding in South-east Asia. The city-state has payment unicorns Airwallex, Coda, and cross-border infrastructure network Thunes.\nThunes represents the most recent addition to the regional unicorn roster, having crossed the US$1 billion valuation mark in April 2025. Other markets maintain discrete domestic champions: Thailand houses Omise and Ascend Money, Indonesia supports Xendit, the Philippines counts GCash and Voyager Innovations, and Vietnam includes MoMo and VNPay.\nTrade sales dominate liquidity events\nTrade acquisitions continue to serve as the primary route to liquidity for investors and founders in the region. South-east Asia has logged 53 acquisitions and nine initial public offerings in the payments vertical to date.\nThe path to an acquisition remains extended. Payment firms averaged 19.5 years from their initial funding round to an acquisition, securing an average transaction price of US$80.9 million. Corporate buyers completed two acquisitions in 2026 through Nov 17, compared with three in 2025, while public listings remained flat with one IPO completed in each year.\nWhat this means\nHeadline funding gains mask a severe liquidity crunch for South-east Asian fintech. Funnelling capital into Ant International and Airwallex creates an unsustainable divide. This lopsided backing directly pressures regional champions like Xendit, GCash, and MoMo, which must now defend domestic turf without comparable mega-checks. While Thunes secured a unicorn valuation in April 2025, newer entrants face a closed door after seed activity collapsed to a solitary round. The core risk is an innovation drought across peripheral markets as Singapore monopolises institutional dry powder. Watch whether corporate acquirers surpass the US$80.9 million average exit price before year-end.\nMinjun Park\nQuestions & Answers\nQ.\nWhich deals drove the surge in South-east Asian payment funding?\nA.\nAnt International and Airwallex secured the vast majority of capital raised across the region in 2026. Ant International raised US$1.2 billion in a July Series A round, whilst cross-border payments provider Airwallex secured a US$320 million Series H round in June.\nQ.\nWhy did early-stage funding figures increase so dramatically?\nA.\nEarly-stage totals surged to US$1.3 billion primarily because Ant International structured its US$1.2 billion transaction as a Series A round. In reality, underlying early-stage deal activity collapsed, with seed rounds across the region falling from nine in 2025 to a single deal in 2026.\nQ.\nHow is payment sector investment distributed geographically across the region?\nA.\nSingapore drew approximately 71.1 per cent of all payment funding, serving as headquarters for regional unicorns Airwallex, Coda, and Thunes. Other countries maintain separate domestic champions instead, such as Omise in ",
+      "text_status": "ok"
+    },
+    {
+      "id": "4e85a5ac2333",
+      "title": "Congo mining forum announces $965 million in sector financing",
+      "publisher": "Mining.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaUQ0Rm0yaWVkRU9oQV9Cc2I1WnZIdzZQN2xMVnJYenFia2xPOUw4eW5kMVdtaXlHOGdlWGt2X19TUzZ4Si1VYzZscmxzTnhnRm9ZdUFUdE50Tkp3SzZfMDU0Wnk2UGFFZ3o1VjdlaTRza3Z0ZFhrbnlFbUxjTTBqdDZGZEdaUG1BU0UydzRkMVFyUQ?oc=5",
+      "published_at": "2026-11-24T20:54:13.000Z",
+      "publisher_url": "https://www.mining.com",
+      "snippet": "Congo mining forum announces $965 million in sector financing Mining.com",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 965000000,
+        "currency": "USD",
+        "raw": "$965 million"
+      },
+      "company_guess": "Congo mining forum",
+      "group_key": "congo mining forum",
+      "group_rank": 0,
+      "resolved_url": "https://www.mining.com/web/congo-mining-forum-announces-965-million-in-sector-financing/",
+      "text": "Congo mining forum announces $965 million in sector financing\nThe financing will support small and medium-sized enterprises, mining subcontracting and local processing of resources.\nReuters\n&verbar;\nNovember 24, 2026 - 3:51 pm\nCategories:\nExploration\nKinshasa, Democratic Republic of Congo. Stock image.\nThe Democratic Republic of the Congo will receive $965 million in mining-sector investment, organizers announced at the opening of the Makutano Mining Forum in Kinshasa.\nOf that total, $700 million is earmarked for financing in the Congolese mining sector, with financial institutions committing to support the sector and its entire value chain.\nThe remaining $265 million is being provided through the International Finance Corporation (IFC) to support the private sector in the DRC.\nThe financing will support small and medium-sized enterprises, mining subcontracting, local processing of resources and trade finance.\nPresident Felix Tshisekedi used the opening ceremony to reaffirm the DRC’s aim to move beyond extracting resources to creating added value through local processing, saying this would bring “lasting prosperity for the people.”\n(Reporting by Congo newsroom. Editing by Ayen Deng Bior and Mark Potter)\nComments\nPlease sign in to leave a comment.\nSign In\nJoin\nNo comments yet.",
+      "text_status": "ok"
+    },
+    {
+      "id": "cc21a869f98a",
+      "title": "Credit Acceptance Announces Completion of $800.0 Million Asset-Backed Financing",
+      "publisher": "The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMzZ5dTRzSGdHdHBGMzNOVnVPb2xieWh4LTRRTVduVHpnTmJ2OE5iNGEtQ3piakJNeXBuQ05VNHR0UmpfZVJTTVlYUTFkaU05LVBBR2FGMkd3emVLX05DY3JYVzZtM3hJblRGNldQUGJPcW95cTZzcFJYYWJLMnJvVjRjN0FFZGJsWWZqZU9IVXk1b2ZCSDlxVDB2V0VSUUhhaVlaLUVFR0xyMXp1a3Fqc1BlYmtTNWw5cGllUTZFWFl4SGJkbWpPYVR0LUNfNmd6YXdlbmhWYWhvaFBVQlFlczNNWmVacjJyN2w00gHrAUFVX3lxTE0zNnl1NHNIZ0d0cEYzM05WdU9vbGJ5aHgtNFFNV25UemdOYnY4TmI0YS1DemJqQk15cG5DTlU0dHRSal9lUlNNWVhRMWRpTTktUEFHYUYyR3d6ZUtfTkNjclhXNm0zeEluVEY2V1BQYk9xb3lxNnNwUlhhYksycm9WNGM3QUVkYmxZZmplT0hVeTVvZkJIOXFUMHZXRVJRSGFpWVotRUVHTHIxenVrcWpzUGVia1M1bDlwaWVRNkVYWXhIYmRtak9hVHQtQ182Z3phd2VuaFZhaG9oUFVCUWVzM01aZVpyMnI3bDQ?oc=5",
+      "published_at": "2026-11-24T21:13:59.000Z",
+      "publisher_url": "https://www.manilatimes.net",
+      "snippet": "Credit Acceptance Announces Completion of $800.0 Million Asset-Backed Financing The Manila Times",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 800000000,
+        "currency": "USD",
+        "raw": "$800.0 Million"
+      },
+      "company_guess": "Credit Acceptance",
+      "group_key": "credit acceptance",
+      "group_rank": 0,
+      "resolved_url": "https://www.manilatimes.net/2026/11/25/tmt-newswire/globenewswire/credit-acceptance-announces-completion-of-8000-million-asset-backed-financing/2477575/amp",
+      "text": "TMT Newswire\n>\nGlobeNewswire\nCredit Acceptance Announces Completion of $800.0 Million Asset-Backed Financing\nby GlobeNewswire\nNov 25, 2026 5:13 am\nSouthfield, Michigan, Nov. 24, 2026 (GLOBE NEWSWIRE) -- Credit Acceptance Corporation (Nasdaq: CACC) (referred to as the \"Company”, \"Credit Acceptance”, \"we”, \"our”, or \"us”) announced today the completion of an $800.0 million asset-backed non-recourse secured financing (the \"Financing”). Pursuant to this transaction, we conveyed loans having a value of approximately $1.0 billion to a wholly owned special purpose entity which will transfer the loans to a trust, which will issue three classes of notes:\nNote Class Amount Average Life Price Interest Rate\nA $ 397,334,000 2.49 years 99.97736% 5.73%\nB $ 158,400,000 3.15 years 99.99401% 6.01%\nC $ 244,266,000 3.65 years 99.99546% 6.27% The Financing will:\nhave an expected average annualized cost of approximately 6.2% including upfront fees and other costs;\nrevolve for 24 months after which it will amortize based upon the cash flows on the conveyed loans; and\nbe used by us to repay higher cost outstanding indebtedness and for general corporate purposes. We will receive 4.0% of the cash flows related to the underlying consumer loans to cover servicing expenses. The remaining 96.0%, less amounts due to dealers for payments of dealer holdback, will be used to pay principal and interest on the notes as well as the ongoing costs of the Financing. The Financing is structured so as not to affect our contractual relationships with dealers and to preserve the dealers’ rights to future payments of dealer holdback.\nFollowing the completion of this financing, Credit Acceptance maintained approximately $1.5 billion in unused and available borrowing capacity on its revolving credit facilities and unrestricted cash. \"Completing our largest securitization to date is an important milestone for our diversified funding strategy,” said Jay Brinkley, Treasurer of Credit Acceptance. \"The transaction reflects continued investor support for our ABS program and demonstrates our ability to access the capital markets at meaningful scale.”\nThe notes have not been and will not be registered under the Securities Act of 1933 and may not be offered or sold in the United States absent registration or an applicable exemption from registration requirements. This news release does not and will not constitute an offer to sell or the solicitation of an offer to buy the notes. This news release is being issued pursuant to and in accordance with Rule 135c under the Securities Act of 1933.\nDescription of Credit Acceptance Corporation\nWe make vehicle ownership possible by providing innovative financing solutions that enable automobile dealers to sell vehicles to consumers regardless of their credit history. Our financing programs are offered through a nationwide network of automobile dealers who benefit from sales of vehicles to consumers who otherwise could not obtain financing; from repeat and referral sales generated by these same customers; and from sales to customers responding to advertisements for our financing programs, but who actually end up qualifying for traditional financing.\nWithout our financing programs, consumers are often unable to purchase vehicles, or they purchase unreliable ones. Further, as we report to the three national credit reporting agencies, an important ancillary benefit of our programs is that we provide consumers with an opportunity to improve their lives by improving their credit score and move on to more traditional sources of financing. Credit Acceptance is publicly traded on the Nasdaq Stock Market under the symbol CACC. For more information, visit creditacceptance.com .\nCONTACT: Investor Relations: Jay Brinkley\nSenior Vice President & Treasurer\n(248) 353-2700 Ext. 6739\nIR@creditacceptance.com\nNEXT ARTICLE\nRelated Articles\nArrowMark Financial Corp. Releases Month End Estimated Net Asset Value as of October 2026\nPure Parima Introduces New Egyptian Cotton Ribbed Towels to Its Bath Collection\nHelium Evolution Reports Third Quarter 2026 Results and Provides Development Update\nNOVAGOLD Exercises Prepayment Option and Completes Full Repayment of Barrick Promissory Note\nAshland increases prices for its 1,4 butanediol intermediates and solvents product range globally\nRocket Doctor AI Announces Resignation of Chief Financial Officer\nQfin Holdings Announces Third Quarter 2026 Unaudited Financial Results",
+      "text_status": "ok"
+    },
+    {
+      "id": "b92c79e0f522",
+      "title": "Balfour Beatty raises its 2026 outlook and books about $600 million of US data centre orders",
+      "publisher": "MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUjk2NVZraWRlVUVPaGtwT2NfSWRoTlV0MGJmWEpTRUxhd1ZhZ0VpamV2eVhtaUJaQ21nZ1dDdGQ2VkUtU3NpalRLRUQzOGZEb21wLVF1REx5UlRUQ0h5SWloX1NUMjJUOE9pUlhtejB5Y3AtbVB5aWF5NHVqYmtHTGg3UVZRZ0VkNkxDVzloc1RybnJFYWJSVzV4UXN6aU02S0phcUk2NEREUm05QUJFd0hn?oc=5",
+      "published_at": "2026-11-24T09:46:27.000Z",
+      "publisher_url": "https://mlq.ai",
+      "snippet": "Balfour Beatty raises its 2026 outlook and books about $600 million of US data centre orders MLQ.ai",
+      "source_feed": "gnews-g9",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 600000000,
+        "currency": "USD",
+        "raw": "$600 million"
+      },
+      "company_guess": "Balfour Beatty",
+      "group_key": "balfour beatty",
+      "group_rank": 0,
+      "resolved_url": "https://mlq.ai/news/balfour-beatty-raises-its-2026-outlook-and-books-about-600-million-of-us-data-centre-orders/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "2021d4509930",
+      "title": "AI Chipmaker Axelera in Talks to Raise Additional $400 Million",
+      "publisher": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFFteGYzSjFPMF90bGlRRUF6Ny1YMGFDMGJFdEUzVlF0Yk83TVp5VE9SRWdvWDFhVDE1c3h1ZEtfNjB0em5aUzFfTXp4QmhfeTlPV3Znd05KdkFtQ2FsNjZzYzg2ek03TXRteVNjQ3pmTEdoaExsV0NGUkh6NWdHYjNCRWYzTmpfRTAybkNqMDJyUVBGVlgyYnB5NHJxb3oxbVVpeFVFa215V2dYZTE3WUd3?oc=5",
+      "published_at": "2026-11-24T07:10:00.000Z",
+      "publisher_url": "https://www.bloomberg.com",
+      "snippet": "AI Chipmaker Axelera in Talks to Raise Additional $400 Million Bloomberg.com",
+      "source_feed": "gnews-7",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 400000000,
+        "currency": "USD",
+        "raw": "$400 Million"
+      },
+      "company_guess": "AI",
+      "group_key": "2021d4509930",
+      "group_rank": 0,
+      "resolved_url": "https://www.bloomberg.com/news/articles/2026-11-24/ai-chipmaker-axelera-in-talks-to-raise-additional-400-million",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "e94ac9979c30",
+      "title": "Dutch AI chipmaker Axelera in talks to raise $400M and EU subsidies to take on Nvidia",
+      "publisher": "Tech Funding News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTTNWVk9KMW5BLUFxaVl3QWpnUHBwM1pPY0g3TUJSQVBhaWstNXBYQ3dHaDBHUUpaSlkyNEZOYjNRN2FMTTBHdjh4UlRKMXkyeGY3Umx4QThBMXRQOXlSU0Q4MU90c0o2U0swRXNBSWJ1Z0dqdExYQ3FiUExRMTFXOTR0aFl5YzM3TDd1cDR3MlB0c3hyMGo0X1QwTXYxQWJYa2RsbldGeHlyMVBTeklla05zOA?oc=5",
+      "published_at": "2026-11-24T10:38:28.000Z",
+      "publisher_url": "https://techfundingnews.com",
+      "snippet": "Dutch AI chipmaker Axelera in talks to raise $400M and EU subsidies to take on Nvidia Tech Funding News",
+      "source_feed": "gnews-7",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 400000000,
+        "currency": "USD",
+        "raw": "$400M"
+      },
+      "company_guess": "Dutch AI",
+      "group_key": "dutch",
+      "group_rank": 0,
+      "resolved_url": "https://techfundingnews.com/dutch-ai-chipmaker-axelera-in-talks-to-raise-400m-and-eu-subsidies-to-take-on-nvidia/",
+      "text": "November 24, 2026\nEx-OpenAI and Palantir duo’s Verra raises $5M to build an AI memory layer for consulting firms\nby Abhinaya Prabhu",
+      "text_status": "thin"
+    },
+    {
+      "id": "50063173accc",
+      "title": "Miami fintech lands $300 million as transaction volume surges",
+      "publisher": "The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcnNvbDlEVDMyR2NzR1lzMDFwYW5sMFkwOHF6OGo1dTdlU2ZrMVhLaUQyUy1vLVM3MTBZeUx5Rkwtc0RjOWtwdkh6aDRKSUh2ckNIM3BqbDhoV0xvVjFMMWdnSGpGLWxNWTlQeHI3WVFjUDhkT0NUYXNqZGhYdFNpOHc3UVlFTjRKQ1hCTjdhVVMwQzZxLVZadHhjdlltTWhPcklneVNR?oc=5",
+      "published_at": "2026-11-24T18:41:00.000Z",
+      "publisher_url": "https://www.bizjournals.com",
+      "snippet": "Miami fintech lands $300 million as transaction volume surges The Business Journals",
+      "source_feed": "gnews-g6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 300000000,
+        "currency": "USD",
+        "raw": "$300 million"
+      },
+      "company_guess": "Miami fintech",
+      "group_key": "miami fintech",
+      "group_rank": 0,
+      "resolved_url": "https://www.bizjournals.com/southflorida/news/2026/11/24/fintech-company-secures-300m-in-financing.html",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "44707dc93c22",
+      "title": "Accel Leads a $277 Million Seed Round for Marlowe, Valuing the Non-Nvidia AI Inference Startup at $1.15 Billion",
+      "publisher": "HedgeCo.Net",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbENRblIxdnFWdjZuRWJ5ejVnX0xaOGk4WnBocWxxZnBKM0txMWppSk1CbW1Jakkta1VmQmVOdHlTX3BVQl9Rbjk3T3prYlc4NVM0bGlha2NsaUhLWEF6enk0NEZzeHJvU2xVWG5LYzN0WTlzdjRKU1k0NUJDYWhVU3FEN1JjeFdRNE9nTW8wWlQ2dFUyNGZFRzdjZmtON0ZNMEVZaTZJUFpGNmlIQVFHVGt4NjFiWFFXenF3Y2hGZDdEbW9TcTFaeHlfWXdRLXdxdmZnM0ZQZkNaRWZtZUk4?oc=5",
+      "published_at": "2026-11-24T16:42:59.000Z",
+      "publisher_url": "https://hedgeco.net",
+      "snippet": "Accel Leads a $277 Million Seed Round for Marlowe, Valuing the Non-Nvidia AI Inference Startup at $1.15 Billion HedgeCo.Net",
+      "source_feed": "gnews-7",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 277000000,
+        "currency": "USD",
+        "raw": "$277 Million"
+      },
+      "company_guess": "Accel Leads a $277",
+      "group_key": "accel leads a 277",
+      "group_rank": 0,
+      "resolved_url": "https://hedgeco.net/news/11/2026/accel-leads-a-277-million-seed-round-for-marlowe-valuing-the-non-nvidia-ai-inference-startup-at-1-15-billion.html",
+      "text": "Marlowe, an AI infrastructure startup founded in May by Convoy co-founder Dan Lewis and former Microsoft corporate vice president Kutta Srinivasan, has raised a $277 million seed round led by Accel. The financing values the company at $1.15 billion, according to the company as reported by GeekWire, making it a unicorn at the seed stage.\nMarlowe said its seed investors include Accel, Bessemer, Altimeter, Atreides, Eclipse, Journey, Valor, Emergence Capital, Pitango and Neo, among others. Quartz, citing Bloomberg, reported that Eclipse had led an earlier round and that Eclipse chief executive Lior Susan serves as Marlowe’s executive chairman. GeekWire noted angel backers including KKR co-founder Henry Kravis and Uber chief executive Dara Khosrowshahi.\nThe company is building what it calls multi-silicon AI factories: data centers designed specifically for inference workloads and built around chips from vendors other than Nvidia, starting with AMD and the startup Etched. Marlowe argues that co-designing chips, networking, power management and software can deliver two to three times more output per watt and per dollar than conventional GPU clouds. GeekWire reported that its first site, built around Etched chips, is scheduled to go live in December, with a larger AMD-based site targeted for the second quarter of 2027.\nThe size of the round reflects how capital-intensive AI infrastructure has become even at the earliest stage. The founders told GeekWire that much of the money will go toward chips, networking equipment and site operations, and that the company plans to prove its approach at sites of tens of megawatts before financing additional capacity site by site.\nFor venture investors, Marlowe is a bet that the shift from training models to running them will open room for alternatives to Nvidia’s dominant ecosystem. It also highlights a broader trend of seed rounds that look more like growth financings, which concentrates risk in fewer companies and raises the bar for follow-on rounds. Execution on the first two sites will be the key test of whether the valuation holds.\nThis entry was posted in Venture Capital and tagged accel , AI infrastructure , Dan Lewis , inference , Marlowe , seed round . Bookmark the permalink .\n&larr; Sierra Doubles Its Valuation to $30 Billion in a $1.75 Billion Series F Led by Greenoaks and Lightspeed:\nSEC Fines Former Fort Ross Ventures Adviser $300,000 for Misleading Fund Investors About Sanctioned LPs: &rarr;",
+      "text_status": "ok"
+    },
+    {
+      "id": "cb8aa3e916bd",
+      "title": "Ex-Convoy CEO's new startup emerges from stealth with $277 million",
+      "publisher": "The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOby0tT2xpX1lTTlItSTQ2X3BpdkxDbklsQkl3NVZ3Z2lBY1NMc0w2X1BSN0o0MzBkOGlueVR5TjF6YXA2TDZlZmNDQTZEdkFvd0pnWEpydGJONC1RU2dhTkY4Z2g1TVV1aHRvZHJnaUFiVF9CSVJkNjdWWWZGSENURTB1MzVQVmFGY2hOMk9YMHVIZWh0UnpnR2tyelR1TDYxMHJsNWNSVGY?oc=5",
+      "published_at": "2026-11-24T21:47:00.000Z",
+      "publisher_url": "https://www.bizjournals.com",
+      "snippet": "Ex-Convoy CEO's new startup emerges from stealth with $277 million The Business Journals",
+      "source_feed": "gnews-8",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 277000000,
+        "currency": "USD",
+        "raw": "$277 million"
+      },
+      "company_guess": "Ex-Convoy CEO's new startup",
+      "group_key": "ex convoy ceos new startup",
+      "group_rank": 0,
+      "resolved_url": "https://www.bizjournals.com/seattle/news/2026/11/24/marlowe-ai-dan-lewis-convoy-microsoft-srinivasan.html",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "6834bbc0d088",
+      "title": "Arrow 3 and Barak MX motor maker raises $180 million for expansion",
+      "publisher": "CTech",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xLUNZUjJabjZnMHNYU3dyRV9sQWtZSGo5X3ZQUXdhbUI1UjIxbjA1bW8xVW5udW14MTRVbVpBcVF4OHQ2c1ZJOXNkWGE1aEc3cWtlTlhGUklZUWlSSkxRMXBCeFVBc3M?oc=5",
+      "published_at": "2026-11-24T18:43:00.000Z",
+      "publisher_url": "https://www.calcalistech.com",
+      "snippet": "Arrow 3 and Barak MX motor maker raises $180 million for expansion CTech",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 180000000,
+        "currency": "USD",
+        "raw": "$180 million"
+      },
+      "company_guess": "Arrow 3 and Barak",
+      "group_key": "arrow 3 and barak",
+      "group_rank": 0,
+      "resolved_url": "https://www.calcalistech.com/ctechnews/article/z080jzlm9",
+      "text": "Photo: Tomer",
+      "text_status": "thin"
+    },
+    {
+      "id": "66108eab6133",
+      "title": "Peak Energy Expands Series B Total Financing to $157 Million to Accelerate Manufacturing Amid Growing Customer Backlog",
+      "publisher": "",
+      "link": "https://www.prnewswire.com/news-releases/peak-energy-expands-series-b-total-financing-to-157-million-to-accelerate-manufacturing-amid-growing-customer-backlog-302949087.html",
+      "published_at": "2026-11-24T16:00:00.000Z",
+      "publisher_url": null,
+      "snippet": "Additional capital will support U.S. manufacturing expansion and commercial deployments beginning in 2027 BURLINGAME, Calif., Nov. 24, 2026 /PRNewswire/ -- Peak Energy, the leading developer of passively cooled sodium-ion energy storage systems for the grid, today announced it has...",
+      "source_feed": "prnewswire-vc",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 157000000,
+        "currency": "USD",
+        "raw": "$157 Million"
+      },
+      "company_guess": "Peak Energy",
+      "group_key": "peak energy",
+      "group_rank": 0,
+      "resolved_url": "https://www.prnewswire.com/news-releases/peak-energy-expands-series-b-total-financing-to-157-million-to-accelerate-manufacturing-amid-growing-customer-backlog-302949087.html",
+      "text": "Peak Energy Expands Series B Total Financing to $157 Million to Accelerate Manufacturing Amid Growing Customer Backlog\nNews provided by\nPeak Energy Technologies\nNov 24, 2026, 11:00 ET\nShare this article\nShare this article\nAdditional capital will support U.S. manufacturing expansion and commercial deployments beginning in 2027\nBURLINGAME, Calif. , Nov. 24, 2026 /PRNewswire/ -- Peak Energy , the leading developer of passively cooled sodium-ion energy storage systems for the grid, today announced it has expanded its Series B financing to $157 million, including $132 million in equity financing and a $25 million debt facility from HSBC. The additional capital will accelerate manufacturing capacity to meet growing customer demand and support commercial deployments beginning in 2027.\n\"Customers are telling us they need a lot more energy storage, and they need better options,\" said Landon Mossburg, co-founder and CEO of Peak Energy. \"That's especially true as data centers drive a new wave of electricity demand. We built Peak to solve the economics of storage at scale, but also to build systems that are easier to live with: quieter, simpler and safer. This capital lets us move faster on both.\"\nPeak initially announced its oversubscribed Series B in October, led by General Motors Ventures with participation from Maverick Silicon, Infinite Capital, Eclipse, Xora Innovation and LG Technology Ventures. With more than $2.5 billion in customer agreements and growing commercial momentum, Peak expanded the round in response to additional investor interest. The new investment will accelerate the company's manufacturing buildout and support a pilot project demonstrating the long-term economic benefits of Peak's technology for data centers. The $25 million HSBC facility will support project deliveries beginning in 2027 and help Peak scale its supply chain as commercial production ramps.\n\"We're grateful to our existing investors for deepening their support as our backlog grows,\" said Zack Jacobson, Vice President of Finance at Peak Energy. \"Adding HSBC gives us flexibility to fund project deliveries without additional dilution and reserve equity for scaling the business. Building a capital stack that fits each need is how we'll finance Peak's growth, and HSBC is the right partner to lead that.\"\nPeak's flagship passively cooled energy storage system eliminates active cooling systems, requires zero planned maintenance and can reduce the cost of energy by up to 20% compared with conventional storage systems. With systems designed to perform for 30 years without augmentation, Peak delivers significant long-term economic benefits for customers, including data centers with large and growing power needs.\nTo learn more about Peak Energy, visit peakenergy.com .\nABOUT PEAK ENERGY:\nPeak Energy is a U.S.-based company building sodium-ion energy storage to solve today's grid infrastructure challenges. With $157 million in new financing, Peak is ramping domestic manufacturing at its 4 GWh facility in Sacramento, California, to meet growing demand for U.S.-made energy storage. Founded in 2023, the company has over $2.5 billion in commercial agreements, including deals with Jupiter Power, RWE, and Energy Vault, and a strategic partnership with General Motors to develop next-generation storage cells purpose-built for the grid. Built by veterans from Tesla, Enovix, and Fluence, Peak's proprietary passive cooling platform makes grid-scale storage safer, simpler, and more affordable. For more information, visit www.peakenergy.com .\nMedia Contact:\nInkhouse for Peak Energy\n[email protected]\nSOURCE Peak Energy Technologies\n&times;\nModal title",
+      "text_status": "ok"
+    },
+    {
+      "id": "62619aa865cd",
+      "title": "Peak Energy Expands Series B Financing To $157 Million To Scale Sodium-Ion Energy Storage Manufacturing",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/peak-energy-expands-series-b-financing-to-157-million-to-scale-sodium-ion-energy-storage-manufacturing/",
+      "published_at": "2026-11-24T17:30:47.000Z",
+      "publisher_url": null,
+      "snippet": "Peak Energy, a developer of passively cooled sodium-ion energy storage systems, has expanded its Series B financing to $157 million, comprising $132 million in equity financing and a $25 million debt facility from HSBC.\nThe post Peak Energy Expands Series B Financing To $157 Million To Scale Sodium-Ion Energy Storage Manufacturing appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 157000000,
+        "currency": "USD",
+        "raw": "$157 Million"
+      },
+      "company_guess": "Peak Energy",
+      "group_key": "peak energy",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "43ffbce2cb39",
+      "title": "Chase Properties and Tru Arrow Partners Raise More Than $148 Million Across Two Real Estate Funds",
+      "publisher": "Paul Bluemner",
+      "link": "https://www.citybiz.co/article/938211/chase-properties-and-tru-arrow-partners-raise-more-than-148-million-across-two-real-estate-funds/",
+      "published_at": "2026-11-24T15:58:59.000Z",
+      "publisher_url": null,
+      "snippet": "Chase Properties, a Beachwood, Ohio-based owner and operator of open-air shopping centers, and New York-based alternative asset manager Tru Arrow... Read More\nThe post Chase Properties and Tru Arrow Partners Raise More Than $148 Million Across Two Real Estate Funds appeared first on citybiz .",
+      "source_feed": "citybiz",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 148000000,
+        "currency": "USD",
+        "raw": "$148 Million"
+      },
+      "company_guess": "Chase Properties and Tru",
+      "group_key": "chase properties and tru",
+      "group_rank": 0,
+      "resolved_url": "https://www.citybiz.co/article/938211/chase-properties-and-tru-arrow-partners-raise-more-than-148-million-across-two-real-estate-funds/",
+      "text": "Global , Indianapolis\nCommercial Real Estate , General Business\nChase Properties and Tru Arrow Partners Raise More Than $148 Million Across Two Real Estate Funds\nNovember 24, 2026\nCreekside Plaza in Ithaca, N.Y., one of the open-air shopping centers acquired by Fund V alongside TACPP. (Photo: Chase Properties)\nChase Properties , a Beachwood, Ohio-based owner and operator of open-air shopping centers, and New York-based alternative asset manager Tru Arrow Partners have completed the final closings of two real estate investment funds, securing more than $148 million in combined capital commitments.\nTru Arrow-Chase Properties Partners (TACPP) closed at nearly $105 million, while Chase Properties Retail Opportunities Fund V closed at nearly $44 million. Both funds closed within their respective fundraising targets.\nFund V follows a core-plus investment strategy focused on stabilized, income-producing shopping centers, while TACPP pursues opportunistic investments across retail, multifamily and industrial properties, including investments alongside Chase Properties’ retail funds.\nFund V has acquired eight open-air shopping centers alongside TACPP across New York, Virginia, Arkansas, Texas and Illinois, with a ninth property currently under contract.\nThe portfolio includes prominent national retailers such as T.J. Maxx, HomeGoods, Ross Dress for Less, Dick’s Sporting Goods and Kroger.\n“Our investors’ commitments reflect both the strength of open-air retail today and their confidence in how we invest,” said Yoel Mayerfeld , co-chief executive officer of Chase Properties.\n“The best centers are in high demand, and pricing reflects that. We’ve owned shopping centers through a lot of cycles since this company was founded more than 50 years ago, and that experience has taught us to be patient and disciplined.”\nThe fund closings come amid favorable supply and demand fundamentals in the open-air retail sector.\nAccording to Colliers, shopping center vacancy stood at 5.4% in the third quarter of 2026, near historic lows, while CoStar reported that retail construction starts had fallen to their lowest level in at least a decade.\nChase Properties continues to target individual shopping centers and portfolios anchored by national, value-oriented and creditworthy tenants, particularly in secondary and tertiary U.S. markets.\n“Our partnership with Tru Arrow has expanded what we can pursue and how quickly we can execute,” said Andy Kline , co-chief executive officer of Chase Properties.\n“With both funds closed, we’re actively acquiring, and we want to be the first call from a seller or their broker.”\nGlenn Fuhrman , co-founder of Tru Arrow Partners, highlighted Chase Properties’ extensive experience investing in smaller cities and regional markets.\n“Having a strong GP that invests its own capital alongside its LPs was a key factor in our investors’ decision to commit to TACPP,” added James Rothschild, co-founder of Tru Arrow Partners.\nFounded in 1973, Chase Properties is a vertically integrated real estate investment firm managing more than $1 billion in assets, including approximately eight million square feet of retail space across more than 25 states.\nThe company primarily invests in open-air shopping centers, with additional investments in multifamily and industrial properties.\nFounded in 2021, Tru Arrow Partners is a New York-based investment firm focused on technology and real estate investments, managing capital on behalf of a global network of privately held conglomerates, family offices and other long-term investors.\nThe combined fund closings provide Chase Properties and Tru Arrow Partners with additional capital to expand their commercial real estate portfolios, with open-air shopping centers remaining a primary investment focus.",
+      "text_status": "ok"
+    },
+    {
+      "id": "6b0dc7cadfc9",
+      "title": "Avicena Raises over $100M in Series C Funding",
+      "publisher": "FinSMEs",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYURjQVdRTlR5dzhOXzNoSTlaeEJUdUdLU3RtUlRRVTZ1QmRtQ1BlUkthTVpUV1ZkbmhDWW02OXlTang0ejNPLVVlMEIwOWdnT1p5MUVqdURYWjJMQTVHTDlaWEdxSUxNclM4MVlKNU5XcEJTc3VpRU9BaUMycVRaOU9GUk5wV2po?oc=5",
+      "published_at": "2026-11-24T14:33:02.000Z",
+      "publisher_url": "https://www.finsmes.com",
+      "snippet": "Avicena Raises over $100M in Series C Funding FinSMEs",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100M"
+      },
+      "company_guess": "Avicena",
+      "group_key": "avicena",
+      "group_rank": 0,
+      "resolved_url": "https://www.finsmes.com/2026/11/avicena-raises-over-100m-in-series-c-funding.html",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "776c03f2aa7d",
+      "title": "Avicena Raises $100 Million Series C to Swap Copper for Light in AI Data Centers",
+      "publisher": "Ventureburn",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRnB4N1MwTUY3UUJLOEZ5ckNnbEQwal9UWkt6Wms3dnJVbng5VW94VXF6V1RHZ1ZmOC1lT0xzdzFMOEUzT2Y5eU90V1NvWGE2R0hmVWlhbXhuWlVvejVEb3hPRFp0aUJETDZXSmk1eHlsdDFFS3hXM0FUZ2ZoUFlpS2VoQ3p2VWhPT1RIS2FucmZ6TVQ30gGUAUFVX3lxTFBGcHg3UzBNRjdRQks4RnlyQ2dsRDBqX1RaS3paazd2clVueDlVb3hVcXpXVEdnVmY4LWVPTHN3MUw4RTNPZjl5T3RXU29YYTZHSGZVaWFteG5aVW96NURveE9EWnRpQkRMNldKaTV4eWx0MUVLeFczQVRnZmhQWWlLZWhDenZVaE9PVEhLYW5yZnpNVDc?oc=5",
+      "published_at": "2026-11-24T14:35:03.000Z",
+      "publisher_url": "https://ventureburn.com",
+      "snippet": "Avicena Raises $100 Million Series C to Swap Copper for Light in AI Data Centers Ventureburn",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100 Million"
+      },
+      "company_guess": "Avicena",
+      "group_key": "avicena",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "e1321f1cc8e1",
+      "title": "Avicena Raises $100 Million Series C to Accelerate Commercialization of microLED Optical Interconnects for AI Infrastructure",
+      "publisher": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOekU0a3RvVTYxbTFPNGhwSi02THVTZFY1QlpSeVZOa1JDRWRWcm1HZkdYRXMtdzdZZU15bzdEUlBmRzAyYWFUTlVmcUNkUUx4TjVSVWUyQThVQ0piTjhzNjF5VHF2V184c2kzUzJGeHo5dFhLQ250OF9JQndFRV81QlJTSUhCVnJkaFJnNjIxMkdJVzMzbHRvT0MwNUlId1VTSU10MlFuYlFLanVUczN0NWpaaGV6MktIeXVXZzNmSXlTUXVhRUpFTENFRVBQb2JXTGkyM1VVMFY5TERXRHBMNzR3T1VFX3hCUjhGQXRPZUI4QWFza3JrQXU5QlNTWVZCWVlrS3hWenM1a05qbDI1Sw?oc=5",
+      "published_at": "2026-11-24T11:00:00.000Z",
+      "publisher_url": "https://www.businesswire.com",
+      "snippet": "Avicena Raises $100 Million Series C to Accelerate Commercialization of microLED Optical Interconnects for AI Infrastructure Business Wire",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100 Million"
+      },
+      "company_guess": "Avicena",
+      "group_key": "avicena",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "ce60b6656965",
+      "title": "Avicena Raises $100 Million in Series C",
+      "publisher": "Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOazg1SlJwb18tZ1NkMHhsM0RYU0RXc0tQQ2NxQkRqN2x3UG5od1RidzdpZExnem8zb01uMHd6ZF95WE9SZXNUMExDcVhORlNOdEhCWmNIa04zQ1ozcmh5N1FsdTdKYnFxS2NheTVlOWYtYXAyWV9MTEhMNjg3UUFWVjdIalNpOWp3SURxUnhVaGhmeFJV?oc=5",
+      "published_at": "2026-11-24T12:34:05.000Z",
+      "publisher_url": "https://wisevoter.com",
+      "snippet": "Avicena Raises $100 Million in Series C Wisevoter",
+      "source_feed": "gnews-2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100 Million"
+      },
+      "company_guess": "Avicena",
+      "group_key": "avicena",
+      "group_rank": 3,
+      "text_status": "skipped"
+    },
+    {
+      "id": "a9b07c249abf",
+      "title": "Avicena Raises More Than $100 Million to Commercialize Optical Interconnects for AI Infrastructure",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/avicena-raises-more-than-100-million-to-commercialize-optical-interconnects-for-ai-infrastructure/",
+      "published_at": "2026-11-24T18:15:36.000Z",
+      "publisher_url": null,
+      "snippet": "Avicena has raised more than $100 million in Series C funding to accelerate the commercialization of its LightBundle microLED optical interconnect platform. The round included InterVest, Tiger Global, Cerberus Capital Management, SK hynix Ventures, Samsung Catalyst Fund, AMD Ventures, Prosperity7 Ventures, Diamond Edge Ventures and Hitachi Ventures.\nThe post Avicena Raises More Than $100 Million to Commercialize Optical Interconnects for AI Infrastructure appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100 Million"
+      },
+      "company_guess": "Avicena",
+      "group_key": "avicena",
+      "group_rank": 4,
+      "text_status": "skipped"
+    },
+    {
+      "id": "42a22400697f",
+      "title": "Harbinger Secures More Than $100 Million in Debt Financing from Erebor Bank and Pinegrove Venture Partners to Support Production Ramp and Future Growth",
+      "publisher": "",
+      "link": "https://www.prnewswire.com/news-releases/harbinger-secures-more-than-100-million-in-debt-financing-from-erebor-bank-and-pinegrove-venture-partners-to-support-production-ramp-and-future-growth-302948754.html",
+      "published_at": "2026-11-24T16:00:00.000Z",
+      "publisher_url": null,
+      "snippet": "The combined capital was provided through term loan, revolving debt and convertible note financings to support Harbinger's next stage of growth GARDEN GROVE, Calif., Nov. 24, 2026 /PRNewswire/ -- Harbinger, an American industrial technology platform company, today announced it has closed...",
+      "source_feed": "prnewswire-vc",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100 Million"
+      },
+      "company_guess": "Harbinger",
+      "group_key": "harbinger",
+      "group_rank": 0,
+      "resolved_url": "https://www.prnewswire.com/news-releases/harbinger-secures-more-than-100-million-in-debt-financing-from-erebor-bank-and-pinegrove-venture-partners-to-support-production-ramp-and-future-growth-302948754.html",
+      "text": "Harbinger Secures More Than $100 Million in Debt Financing from Erebor Bank and Pinegrove Venture Partners to Support Production Ramp and Future Growth\nNews provided by\nHarbinger\nNov 24, 2026, 11:00 ET\nShare this article\nShare this article\nThe combined capital was provided through term loan, revolving debt and convertible note financings to support Harbinger's next stage of growth\nGARDEN GROVE, Calif. , Nov. 24, 2026 /PRNewswire/ -- Harbinger , an American industrial technology platform company, today announced it has closed financing agreements totaling more than $100 million with Erebor Bank , co-founded by Palmer Luckey , and Pinegrove Venture Partners , which is sponsored by Brookfield Asset Management and HRTG Partners. The complementary financing structures include senior debt provided by Erebor and a separate convertible note from Pinegrove.\nContinue Reading\nHarbinger has secured more than $100 million in financing from Erebor Bank and Pinegrove Venture Partners to accelerate production and support its growing commercial vehicle business.\nThe transactions mark an important step in Harbinger's evolution from an electric vehicle manufacturer to a broader industrial technology platform company reinventing the critical systems the world depends on across mobility, power, defense, autonomy and components. Harbinger develops advanced electrification technologies, including all-electric and hybrid medium-duty vehicle platforms, battery and drivetrain systems, energy storage and auxiliary power solutions, autonomous driving technology and defense applications.\nHarbinger is now scaling production and fulfilling major commercial orders, including its recent multi-year order for 2,000 all-electric trucks from FedEx . Harbinger has added 400 jobs this year, primarily at its Orange County, California headquarters, and plans to continue rapid growth next year, with the goal of creating hundreds of additional jobs around the country.\n\"Erebor finances companies building the future of American industry—businesses that are making real products, building factories, and scaling U.S. manufacturing,\" said Palmer Luckey . \"Traditional lenders have struggled to support the unique capital needs of businesses developing real technology and scaling domestic jobs. Harbinger is exactly the kind of business we built Erebor to back: an American manufacturer building world-class technology. We're proud to provide the capital to help build more of America's industrial future here at home.\"\nThe debt financing comes on the heels of Harbinger's recently announced Series D funding round, and represents an expansion beyond the equity-driven funding model Harbinger has historically utilized as an emerging technology company. By accessing financing structures more commonly associated with established industrial manufacturers, Harbinger is building a more diversified capital strategy to support long-term growth while demonstrating how a new generation of American manufacturers can finance production at scale.\n\"Building an industrial technology company at scale requires a different financing approach,\" said John Harris , Co-Founder and CEO, Harbinger. \"The capital needed to ramp production and deliver vehicles to customers shouldn't have to come entirely from equity. Major vehicle and aerospace manufacturers have long relied on debt financing to support their production operations, and we're bringing that same approach to Harbinger. Erebor is now our primary banking partner, and together with Pinegrove, they're helping us build the financial foundation to support our next stage of growth.\"\nErebor is a nationally chartered bank financing the companies rebuilding American industry. Erebor serves customers across 43 states, including businesses in manufacturing, defense, energy, AI, robotics, and aerospace, industries critical to America's national security and economic growth. Built on modern technology, regulated by the Office of the Comptroller of the Currency (OCC), and a member of the Federal Deposit Insurance Corporation (FDIC), Erebor has grown to $8 billion in assets by expanding access to capital for businesses historically underserved by legacy banks.\n\"Harbinger is building an impressive industrial technology platform, and we're excited to partner with John and the team as they enter their next phase of growth,\" said Jim Ellison , Head of Credit, Pinegrove. \"Our flexible convertible structure was designed around the company's capital needs and provides Harbinger with additional resources to continue scaling production and investing behind the significant opportunity ahead.\"\nPinegrove operates as an integrated investment platform with over $15B of assets under management across venture fund primaries, venture and growth secondaries, and private credit. Its private credit strategy provides financing solutions to growth-stage companies, including businesses with significant capital requirements. Its participation in this transaction introduces an additional source of flexible financing for Harbinger as the company expands production, builds manufacturing capacity and pursues new commercial opportunities.\nAbout Harbinger\nHarbinger is an American industrial technology platform company reinventing the critical systems the world depends on across mobility, power, defense, autonomy and components. The company develops advanced electrification technologies, including all-electric and hybrid medium-duty vehicle platforms, battery and drivetrain systems, energy storage and auxiliary power solutions, autonomous driving technology and defense applications.\nHarbinger engineers systems from first principles, using deep vertical integration to design safer, more reliable, more capable and more efficient solutions at economic parity. Its technologies serve a range of applications, including medium-duty trucks, recreational vehicles (RVs), mobile healthcare units, power infrastructure and defense vehicles. Harbinger's mission is to ",
+      "text_status": "ok"
+    },
+    {
+      "id": "0a4ff6ef2c22",
+      "title": "Harbinger secures over $100 million in financing",
+      "publisher": "finway.com.ua",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BTTV1Mkg1UFcxblVReVZGcFFSRFpwbW5ERnA3TnFtdk1QRGVLTUxjbWROLUd1Q2hXYmpqZ24xX2tIS3NQVE9pUGR2LURDYkxteGRSaHE0TkxXVjktbnlIVUg0MUNiT0U?oc=5",
+      "published_at": "2026-11-24T18:11:49.000Z",
+      "publisher_url": "https://finway.com.ua",
+      "snippet": "Harbinger secures over $100 million in financing finway.com.ua",
+      "source_feed": "gnews-g6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100 million"
+      },
+      "company_guess": "Harbinger",
+      "group_key": "harbinger",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "666aa4549aab",
+      "title": "Harbinger Secures Over $100 Million In Financing From Erebor Bank And Pinegrove Venture Partners To Scale Production",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/harbinger-secures-over-100-million-in-financing-from-erebor-bank-and-pinegrove-venture-partners-to-scale-production/",
+      "published_at": "2026-11-24T17:41:45.000Z",
+      "publisher_url": null,
+      "snippet": "Harbinger has secured more than $100 million in financing from Erebor Bank and Pinegrove Venture Partners to accelerate vehicle production, support commercial deliveries, and expand its industrial technology operations. The financing includes senior debt from Erebor and a separate convertible note provided by Pinegrove, giving Harbinger additional capital as it scales its manufacturing business.\nThe post Harbinger Secures Over $100 Million In Financing From Erebor Bank And Pinegrove Venture Partners To Scale Production appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100 Million"
+      },
+      "company_guess": "Harbinger",
+      "group_key": "harbinger",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "070a55e4c04d",
+      "title": "Harbinger Secures More Than $100 Million in Debt Financing From Erebor Bank and Pinegrove Venture Partners",
+      "publisher": "Sobeida Dilone",
+      "link": "https://www.citybiz.co/article/938420/harbinger-secures-more-than-100-million-in-debt-financing-from-erebor-bank-and-pinegrove-venture-partners/",
+      "published_at": "2026-11-24T20:01:39.000Z",
+      "publisher_url": null,
+      "snippet": "Harbinger, a California-based industrial technology and commercial electric vehicle manufacturer, has closed financing agreements totaling more than $100 million with... Read More\nThe post Harbinger Secures More Than $100 Million in Debt Financing From Erebor Bank and Pinegrove Venture Partners appeared first on citybiz .",
+      "source_feed": "citybiz",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100 Million"
+      },
+      "company_guess": "Harbinger",
+      "group_key": "harbinger",
+      "group_rank": 3,
+      "text_status": "skipped"
+    },
+    {
+      "id": "f746522243a9",
+      "title": "Yreka Western Railroad Secures $60.2 Million Federal Grant for California Freight Modernization",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/yreka-western-railroad-secures-60-2-million-federal-grant-for-california-freight-modernization/",
+      "published_at": "2026-11-24T18:23:06.000Z",
+      "publisher_url": null,
+      "snippet": "Yreka Western Railroad has received a $60.2 million federal grant to modernize its freight corridor between Yreka and Montague in Northern California.\nThe post Yreka Western Railroad Secures $60.2 Million Federal Grant for California Freight Modernization appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 60200000,
+        "currency": "USD",
+        "raw": "$60.2 Million"
+      },
+      "company_guess": "Yreka Western Railroad",
+      "group_key": "yreka western railroad",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/yreka-western-railroad-secures-60-2-million-federal-grant-for-california-freight-modernization/",
+      "text": "Yreka Western Railroad Secures $60.2 Million Federal Grant for California Freight Modernization\nBy Amit Chowdhry\nToday at 1:23 PM\nYreka Western Railroad Secures $60.2 Million Federal Grant for California Freight Modernization\nYreka Western Railroad has received a $60.2 million federal grant to modernize its freight corridor between Yreka and Montague in Northern California.\nThe award was made through the Federal Railroad Administration’s fiscal 2025–2026 Consolidated Rail Infrastructure and Safety Improvements program.\nParent company Railmark Holdings is contributing another $20.2 million in cash and in-kind support, bringing the project’s total value to approximately $80.4 million.\nUpgrading the Freight Corridor\nThe project will upgrade the railroad from FRA Excepted Track to Class 2 standards and allow the route to accommodate industry-standard railcars weighing up to 286,000 pounds.\nWork will renew 8.43 miles of mainline and approximately 1.5 miles of sidings and industrial spurs. Improvements include new rail, crossties, ballast and other materials, along with the replacement of 21 turnouts.\nTwo mainline connections will also be built for the separately developed 58-acre Yreka Rail Industrial Park. The project will redeck the Oregon Slough and Shasta River bridges, replace two short-span bridges with culverts and improve four public road crossings in Yreka.\nThe upgraded infrastructure is expected to support agricultural producers, lumber and forest-products businesses, fertilizer suppliers, propane distributors, recyclers and building-materials shippers.\nYreka Western connects with Union Pacific Railroad and Central Oregon & Pacific Railroad, providing access to the national freight network. Railmark acquired the historic short-line railroad in 2017.\nThe project was among 105 selected from 368 applications seeking a combined $12.2 billion in federal support.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "4733f726d30a",
+      "title": "Trustly Raises $60 Million in Equity to Turn Bank Payments Into AI Insight",
+      "publisher": "Ventureburn",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYnlhcE9YSWljZTk3aGJJZGpvekxHTlI0bl9jSC02QXQ0UHEweUxxdkZ2dlFPaGVTeENQOVRTX0dva21qMjdQa05IYlNBRE5TMml4QlNYVmxxa0U1Rl80OTZBYklIaDRwSUc2bDI0YW02SzlUM3BXTkJIUEtDZ0FDc0EzNU1SZjTSAYcBQVVfeXFMTWJ5YXBPWElpY2U5N2hiSWRqb3pMR05SNG5fY0gtNkF0NFBxMHlMcXZGdnZRT2hlU3hDUDlUU19Hb2ttajI3UGtOSGJTQUROUzJpeEJTWFZscWtFNUZfNDk2QWJJSGg0cElHNmwyNGFtNks5VDNwV05CSFBLQ2dBQ3NBMzVNUmY0?oc=5",
+      "published_at": "2026-11-24T12:56:57.000Z",
+      "publisher_url": "https://ventureburn.com",
+      "snippet": "Trustly Raises $60 Million in Equity to Turn Bank Payments Into AI Insight Ventureburn",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 60000000,
+        "currency": "USD",
+        "raw": "$60 Million"
+      },
+      "company_guess": "Trustly",
+      "group_key": "trustly",
+      "group_rank": 0,
+      "resolved_url": "https://ventureburn.com/trustly-raises-60-million-equity-ai-product-development/",
+      "text": "Cryptocurrency\n8 months ago\nHow AI and Data Analytics Are Driving Payout Optimization Across Platforms",
+      "text_status": "thin"
+    },
+    {
+      "id": "5ad9bd1fa17b",
+      "title": "Zipher raises $53M to let AI agents run enterprise data workloads",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZjNrQ251RzdwOUl4aFBISXUwcjJUVUgyLTlXOVhDcG1TZkEyQjN0Um1IQ0hmWkhPY2thaHVtTXBWXzBBSWxSWXh5dndSR2lla1Z5WUUwMnNncnV5ek5Hc2V1R3dfdDNXSFFLeU1JRURFVklkXzVBdTRmcDhfelRrMXRBcTdDenQ2bXRaaWc0a2ZXd01qMExLN1hDMzRkUkE?oc=5",
+      "published_at": "2026-11-24T13:32:40.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Zipher raises $53M to let AI agents run enterprise data workloads Dealroom",
+      "source_feed": "gnews-7",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 53000000,
+        "currency": "USD",
+        "raw": "$53M"
+      },
+      "company_guess": "Zipher",
+      "group_key": "zipher",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/zipher-raises-53m-to-let-ai-agents-run-enterprise-data-workloads",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "6f6536ae1073",
+      "title": "Zipher lands $53M to put AI agents, not data engineers, in charge of data workloads",
+      "publisher": "SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU3hiNndPVjhrNkQwR3NYNWZXdElScUFqNE92Tkg1dElPN25kdmdnYTJvWmRhckFQWV8tQWhFWFJ2M2FoX19LaVd2cWJFbld3bTRhQzVjcWpaS01JT21vWjc0N01zQ19QdG9IUTRaSmxSakZTcHBmVXRLQzJvNGR0X0Ric3c2UUgtUDA1TzQ4WnNGdVVRZjFVc01sM1pGcWgwYlZUeS1STTlaa2x6cDRpbUVnNVg4aEgy?oc=5",
+      "published_at": "2026-11-24T13:00:00.000Z",
+      "publisher_url": "https://siliconangle.com",
+      "snippet": "Zipher lands $53M to put AI agents, not data engineers, in charge of data workloads SiliconANGLE",
+      "source_feed": "gnews-7",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 53000000,
+        "currency": "USD",
+        "raw": "$53M"
+      },
+      "company_guess": "Zipher",
+      "group_key": "zipher",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "fa949a87cdae",
+      "title": "SenseNet Raises $43 Million to Expand Wildfire Detection",
+      "publisher": "Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNemJ2U2NRYWRUWllKazRLLWdJZFp5QXB5aVNlMkJiRXdZQnM1S1dBYV9iYVl4YWJrdkhRdWFaNFR1WDJaRkZEMlAxcGk1UVIyeFVDVGN1Rnowb1F5eWQ5MVo5Z3pReGF6RWRCTjB4TkpUeDE2dzVqUUQ0WjBZbXpldkctd1JXbEFSclJoWjJPR2ZHMFFjWURTZFVaYVZGQl8zT1VoLTRR?oc=5",
+      "published_at": "2026-11-24T18:57:08.000Z",
+      "publisher_url": "https://wisevoter.com",
+      "snippet": "SenseNet Raises $43 Million to Expand Wildfire Detection Wisevoter",
+      "source_feed": "gnews-g2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 43000000,
+        "currency": "USD",
+        "raw": "$43 Million"
+      },
+      "company_guess": "SenseNet",
+      "group_key": "sensenet",
+      "group_rank": 0,
+      "resolved_url": "https://wisevoter.com/world/us/ca/san-francisco/2026/11/24/sensenet-raises-43-million-series-b-wildfire",
+      "text": "Home\n› World\n› U.S.\n› California\n› San Francisco\n› Business\n› Startups\nSenseNet Raises $43 Million to Expand Wildfire Detection\nThe Series B financing led by Idealist Capital will fund international growth and commercial team expansion for the wildfire monitoring company.\nUpdated on Nov. 24, 2026 in Startups\nSenseNet has secured $43 million in Series B financing led by Idealist Capital, with participation from Fusion Fund, Stormbreaker Ventures, Thin Line Capital, NBC, and The Sitka Foundation. The company said it will use the capital to scale its international operations and grow its commercial teams.\nWhy it matters\nThe financing supports expansion of wildfire monitoring as the company reports tripling its global footprint from 130 million to more than 450 million acres over the last year. The round is expected to accelerate SenseNet's growth in the US and internationally as wildfire risks intensify.\nSenseNet's $43 million Series B round includes primary and secondary sales plus debt financing, while its network has grown to more than 5,300 sensors and AI-enabled cameras across 12 countries. The company has not disclosed the proportion of each financing type or its valuation.\nThe players\nSenseNet\nSenseNet is a wildfire detection company that deploys sensors, AI-enabled cameras and predictive analytics across multiple countries.\nIdealist Capital\nIdealist Capital is an investment firm that led the Series B financing round for SenseNet.\nThe details\nSenseNet combines ground-level environmental sensors, AI-enabled cameras, satellite intelligence, drone technology, and predictive analytics into one multimodal ecosystem that integrates with existing third-party and emergency systems without replacing current infrastructure. The company reports US customers including Palo Alto and Woodside fire departments, Santa Clara County and San Jose Water in California, and Jefferson County and the City of Colorado Springs in Colorado.\nTimeline\nOver the last year: SenseNet tripled its global wildfire monitoring footprint.\nDuring the past wildfire season: SenseNet detected several fires hours before the first 911 reports.\nNovember 24, 2026: SenseNet announced the $43 million Series B financing.\nMarket Landscape\nSenseNet's multimodal approach, which layers ground sensors, AI cameras, satellite intelligence and drones, extends the AI-enabled camera and satellite wildfire detection systems now used by fire departments and water utilities. Its ability to integrate with existing emergency systems positions it as an add-on to current infrastructure rather than a replacement.\nFire departments and water utilities in California, Colorado and other customer regions may gain earlier wildfire alerts through SenseNet's integrated systems. The extraction does not indicate any change to pricing or availability for residents.\nThe takeaway\nWildfire detection is increasingly being built as layered systems that connect with existing emergency services, which may help agencies respond sooner as fire seasons lengthen.\nFurther reading\nFor more on young companies raising capital, see Startups coverage in San Francisco.\nSource note: This article includes information reported by The Manila times.\nWE Participate i\nUpload story photo ↗\nUpdate this story ↗\nSubmit a new story ↗\nToday's stories\nBasketball 1\nWarriors Expected to Trade Kristaps Porzingis\nBasketball 2\nWarriors, Valkyries Expand Google Gemini Partnership\nCulture 3\nSFFILM Honors Turturro, Coon, Guitarricadelafuente, Gamble\nCommercial 4\nMeta Weighs Sublease of 250 Howard Street\nWeather and Disaster 5\nStorm Floods Low-Lying San Francisco Streets\nPets 6\nZoo Releases Endangered Garter Snakes into Wild\nTrending polls\nEnvironmental\nShould your government push harder to phase out coal, oil and gas?\n▲ Yes ▼ No\nPublic Companies\nDo you think now is a good time to invest in the stock market?\n▲ Yes ▼ No\nWeather and Disaster\nDo you trust local and federal officials to be open about environmental health risks in your area?\n▲ Yes ▼ No\nPublic Companies\nDo you trust large companies' boards to make the right leadership decisions?\n▲ Yes ▼ No",
+      "text_status": "ok"
+    },
+    {
+      "id": "ae2137ee6b3c",
+      "title": "SenseNet lands $43M financing deal for early wildfire detection and intelligence",
+      "publisher": "GeekWire",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTd6OHlvY0FFNHJJVEFUSzZZMkM1SjRyQjVVaXE2NHpGZUEtZDI0b2NBYU9VZXlhTk95SkhCVTVSbkhYSWEybDBYZVZ5WllZQXJMRW1xakUwRkUxTjNaVHpNWUFMbkJ4N0hMd3NWbWs2SnF5ZkZrZjVxYmNYcXQ0UG1jajBLSDFxNEpyajlRRTFYdk5mRm9udC1HSVE5SWJXRnFZMnFIZUp0WTdFWC1n?oc=5",
+      "published_at": "2026-11-24T17:47:24.000Z",
+      "publisher_url": "https://www.geekwire.com",
+      "snippet": "SenseNet lands $43M financing deal for early wildfire detection and intelligence GeekWire",
+      "source_feed": "gnews-g6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 43000000,
+        "currency": "USD",
+        "raw": "$43M"
+      },
+      "company_guess": "SenseNet",
+      "group_key": "sensenet",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "1cc8cf192a86",
+      "title": "Native Realty Brokers $35.38 Million Sale of Gateway Shopping District in Fort Lauderdale",
+      "publisher": "Kevin Parker",
+      "link": "https://www.citybiz.co/article/938210/native-realty-brokers-35-38-million-sale-of-gateway-shopping-district-in-fort-lauderdale/",
+      "published_at": "2026-11-24T16:07:11.000Z",
+      "publisher_url": null,
+      "snippet": "Native Realty, the Fort Lauderdale-based firm led by Jaime Sturgis, closed the $35.38 million sale of Gateway Shopping District, a... Read More\nThe post Native Realty Brokers $35.38 Million Sale of Gateway Shopping District in Fort Lauderdale appeared first on citybiz .",
+      "source_feed": "citybiz",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 35380000,
+        "currency": "USD",
+        "raw": "$35.38 Million"
+      },
+      "company_guess": "Native Realty Brokers $35.38",
+      "group_key": "native realty brokers 35 38",
+      "group_rank": 0,
+      "resolved_url": "https://www.citybiz.co/article/938210/native-realty-brokers-35-38-million-sale-of-gateway-shopping-district-in-fort-lauderdale/",
+      "text": "Global , South Florida\nCommercial Real Estate , General Business\nNative Realty Brokers $35.38 Million Sale of Gateway Shopping District in Fort Lauderdale\nNovember 24, 2026\nCEO Jaime Sturgis unites several property owners to close 11-building, 73,756-square-foot retail sale to Miami-based CORE\nNative Realty , the Fort Lauderdale-based firm led by Jaime Sturgis , closed the $35.38 million sale of Gateway Shopping District, a 73,756-square-foot retail district located at 1900 E. Sunrise Blvd . in Fort Lauderdale. Miami-based CORE acquired the property.\nNative CEO Jaime Sturgis represented the seller, and Native Associate Jeremiah Adler represented the buyer. The transaction closed on Nov. 20.\nThe sale includes 11 buildings. Only the building at 1990 E. Sunrise Blvd . was excluded from the transaction.\nGateway’s sale marks the culmination of Sturgis’ long-term efforts to revitalize the site through adaptive reuse and thoughtful tenant curation. Gateway was a fractured retail site, with different individual owners holding different buildings within the overall property.\nTo bring the transaction across the finish line, Sturgis had to secure each individual seller and reconcile differing motivations, timelines and aspirations. He worked to align the group and cross-collateralize the properties so the sale could move forward as a single transaction.\nJeremiah Adler and Jaime Sturgis\n“Gateway has always been a site with enormous potential, but its ownership structure made a sale of this scale extremely complicated,” Sturgis said. “Our job was to listen, build trust and find a path that worked for everyone. Seeing this property transform from a neglected shopping center into one of the most dynamic retail destinations in Fort Lauderdale, and then closing a sale of this size, is incredibly rewarding.”\nGateway’s history spans several eras. The site began as a quarry and rockyard before being converted into Jungle Zoo in 1940. It was later redeveloped as a supermarket, then a big-box retail center and, most recently, a boutique neighborhood plaza.\nPrior to Native being hired more than five years ago to lease and manage the property, Gateway languished for several decades and accumulated significant deferred maintenance. The center needed new roofs, windows, doors, fixtures, flooring, painting, facades and much more. Native balanced overseeing the complete rehabilitation of the center with simultaneously launching a leasing campaign to attract new tenants.\nSturgis and the Native team reimagined Gateway with a bustling mix of food-and-beverage and experiential retailers, creating a modern retail district that takes full advantage of the site’s highly visible and prime location.\nGateway sits very close to the Galleria Mall, where developer Russell Galbut and his partners are embarking on a major mixed-use redevelopment that will transform the mall into an eight-building destination.\nThe sale serves as a case study in how Native draws on its vast local market knowledge and relationships to activate a long-dormant asset and position it for a successful exit for the property owner.\nAbout Native Realty: Founded in 2017 by Fort Lauderdale-based commercial real estate broker Jaime Sturgis, Native Realty’s experienced commercial real estate professionals specializes in investment sales and leasing across the region’s urban core and emerging markets, advising institutional investors, private capital groups, developers and owner-operators on high-stakes acquisitions and dispositions. The firm recently surpassed $1 billion in overall transaction volume and generated more than $350 million in 2025 volume. Native moved up eight spots in the South Florida Business Journal’s 2026 Commercial Real Estate Brokerages ranking, which is based on the previous year’s transaction volume. The firm is also widely recognized for its role in shaping Fort Lauderdale’s Flagler Village, where it has completed several million square feet in transactions.\nNative continues to grow strategically by adding senior commercial real estate brokers who align with its collaborative, high-performance culture. The firm offers a platform where top producers can expand their businesses, leverage a connected team and compete at the highest level of the South Florida market. Native serves clients of every size, from Fortune 500 companies to small businesses. Native is headquartered at 1926 E. Sunrise Blvd . in Fort Lauderdale. For more information, visit www.nativerealty.com .",
+      "text_status": "ok"
+    },
+    {
+      "id": "e1ea3e670580",
+      "title": "Exclusive: Leash Bio raises seed round at $30M valuation",
+      "publisher": "Axios",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUURKZkw0WlgzOXNybklLbzBzRGs1am5URUpKVmxmTGxFVEJWdENjUmgzYmViMWhGOHlLWkR0TU1SNTBDeENkQVZIV0dDTktscTlfV3Z0d05DNGt0VTNjZlloOVk0VUlYRW9GR3JJMU9tMEVTSE9SQ1pvVFdNdEV0OUNyamlCN2JtempmOWt5SQ?oc=5",
+      "published_at": "2026-11-24T12:06:33.000Z",
+      "publisher_url": "https://www.axios.com",
+      "snippet": "Exclusive: Leash Bio raises seed round at $30M valuation Axios",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 30000000,
+        "currency": "USD",
+        "raw": "$30M"
+      },
+      "company_guess": "Leash Bio",
+      "group_key": "leash bio",
+      "group_rank": 0,
+      "resolved_url": "https://www.axios.com/pro/biotech-deals/2026/11/24/leash-bio-seed-30-million-valuation",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "73e389bade9d",
+      "title": "Uruguay's Kunstig Aero raises $270K seed for AI airport safety",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRlJpdVE1b3E3alpwUU5QdWlBdHBsZ1FtLUJlR2x6Uk9JdGMxQldyeVhOM2o3eWFKWDlkQmlDR2I5VUpRVVJOdHBSRnduUlNGQnNkVFhZQVlBQThUWVkwS1hiMHBjZ3BUUTEwZXlzUWl0NXVMdDk1aFk2WV9uaDhwbDRXN3dDSzRvS2duZmhYcTNKRnRiNlRUekR5VQ?oc=5",
+      "published_at": "2026-11-24T19:02:13.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Uruguay's Kunstig Aero raises $270K seed for AI airport safety Dealroom",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Uruguay's Kunstig Aero",
+      "group_key": "uruguays kunstig aero",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/uruguay-s-kunstig-aero-raises-270k-seed-for-ai-airport-safety",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "e3bc7c9a4e82",
+      "title": "Prosus to lead Rs 38 crore funding in Vegapay as fintech bets gather pace",
+      "publisher": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX3M1c1RWN09QOTFlTEEzbnlUTzZ4dTFnZWcxRlM1dkxHSmVvcXExRlNNN29mSGd6Z0xBRGUyYWE3QTBtUUdKZnFFaWJBVGtpTE5pRkZUbml0bUotaWVxLWNsNVJNdklGZmFPQ2lNc1p5dGdxOWVmR3dodVBfSG9rX1VTSm9NaU9VTGxqbW84eGg1TXIwdzBNU3UwUFpHSThzRUt0MzZHTlcwbjd2REtraVRYZ3BId3RhOXAzRGJfZ0Rmd0tXS3NfU1pHdDQ0cVRjRXlubXItMVjSAd4BQVVfeXFMTjlwVlhhclRGVmpFM0FLMWlGb2tqMFZqUm05SEFRVnFyY3NDSmg4UlAxYV9xM3ZMTjBUTmVMY09tRVdXbTYxRWhwY2hhSGJYaUFwNlo4SWwxWjh0b0RQMzF6YkowbGI2WFJuQ0hhR2dLR0t3ZWZvZHB3NzdnSXdSQU0zbi1iUnk5WDVvZ3NXT2pYV2U4aXpDeTRsWkx1SDVRNmozbEZNQWhJT0UwUWRJX3J6QWNDeXdhWDFxRl9sOHlYVm56YTlING5TdldwaWx4eUg2Q2FpWXpzWlFFN2tn?oc=5",
+      "published_at": "2026-11-24T07:28:10.000Z",
+      "publisher_url": "https://m.economictimes.com",
+      "snippet": "Prosus to lead Rs 38 crore funding in Vegapay as fintech bets gather pace The Economic Times",
+      "source_feed": "gnews-2",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Prosus to lead Rs",
+      "group_key": "prosus to lead rs",
+      "group_rank": 0,
+      "resolved_url": "https://m.economictimes.com/tech/startups/prosus-to-lead-rs-38-crore-funding-in-vegapay-as-fintech-bets-gather-pace/articleshow/136122830.cms",
+      "text": "Synopsis\nProsus will invest Rs 28.8 crore through its investment arm, while Elevation Capital, Vertex Ventures and Eximius Ventures will put in Rs 6 crore, Rs 2.3 crore and Rs 1.3 crore, respectively, according to filings with the Registrar of Companies.\nListen to this article in summarized format Listen\nETtech (L-R) Abhinav Garg, Himanshu Agrawal, Puneet Sharma and Gaurav Mittal, founders, Vegapay\nAmsterdam-listed technology investor Prosus is set to lead a Rs 38.4 crore funding round in fintech infrastructure startup Vegapay , with participation from existing investors Elevation Capital, Vertex Ventures and Eximius Ventures.\nProsus will invest Rs 28.8 crore through its investment arm, while Elevation Capital, Vertex Ventures and Eximius Ventures will put in Rs 6 crore, Rs 2.3 crore and Rs 1.3 crore, respectively, according to filings with the Registrar of Companies.\nThe investment will value the Mumbai-based startup at about Rs 380 crore ($38-40 million) post-money, according to the share issuance details. Prosus will hold a 7.6% stake in the company, while Elevation Capital will own 25.1%.\nThe proposed investment comes just months after Vegapay raised Rs 37.9 crore from its existing investors in a round led by Vertex Ventures. People aware of the matter said the latest share issuance is part of a larger funding round. Entrackr first reported the proposed share issuance.\nThe deal marks an expansion of Prosus' fintech investment portfolio beyond companies directly offering credit and other financial products to those building the underlying technology infrastructure for financial institutions.\nET reported earlier this month that Prosus, which has invested $100 million in the Sachin Bansal-founded Navi, around $80 million in supply-chain financing platform Mintifi and $100 million in Vastu Housing Finance over the past two years, is looking to increase its exposure to financial services after years of backing consumer internet companies in India.\n“You will see us over-indexing on financial services,” Ashutosh Sharma, head of India investments at Prosus, had told ET, pointing to opportunities where technology can expand access to financial products or improve the economics of delivering them.\nProsus was also close to investing in artificial intelligence-led credit management startup Oolka, ET had reported.\nFounded in 2022 by Gaurav Mittal, Himanshu Agrawal, Puneet Sharma and Abhinav Garg, Vegapay develops software for banks and non-banking financial companies (NBFCs) to launch and manage credit products without having to overhaul their existing technology systems.\nIts offerings include card issuance and management, credit lines on the Unified Payments Interface (UPI), as well as software for loan origination, colending and collections. It competes with rivals such as SoftBank-backed banking technology startup Zeta.\nVegapay had raised $5.5 million in May 2024 in a round led by Elevation Capital. Its operating revenue grew nearly threefold to Rs 8.7 crore in FY26, while the net loss widened marginally to Rs 18.7 crore.\nAdd as a Reliable and Trusted News Source\nAdd Now!\nRead more news on\nProsus Vegapay fintech funding round investment financial services technology infrastructure credit products software development\n(Catch all the Technology News News , and Latest News Updates on The Economic Times .)\n...more\nAdd Comment",
+      "text_status": "ok"
+    },
+    {
+      "id": "261c0f1b238e",
+      "title": "Madrone raises $500K from NVIDIA, Y Combinator for data-center cooling",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFpLeGw0N09UbHJWeE4tSXZ4LWw3S2tlRDBjTFIybmtldVYtSUZsRWtXZTExUlk5MEVMOWt2WDlnQzhrdnRWTkxCZTNDNlowel9HS3c1QzhoWjRueGt5Z3FJQjUwX0U0Qm1iNlIxYTNyRThNR1g2c0lDOU05QTdvYldPMGxPVWJkSHNWdW9xdnpJWnlWRUY2LXVaM3duYU1BQWJQQQ?oc=5",
+      "published_at": "2026-11-24T14:20:54.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Madrone raises $500K from NVIDIA, Y Combinator for data-center cooling Dealroom",
+      "source_feed": "gnews-7",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Madrone",
+      "group_key": "madrone",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/madrone-raises-500k-from-nvidia-y-combinator-for-data-center-cooling",
+      "text_status": "blocked:403"
+    }
+  ]
+}
