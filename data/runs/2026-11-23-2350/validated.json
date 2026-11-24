@@ -1,0 +1,884 @@
+{
+  "run_date": "2026-11-23-2350",
+  "validated_at": "2026-11-24T14:10:42.951Z",
+  "rows": [
+    {
+      "website": "anthropic.com",
+      "amount_usd": 119500000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Public company after IPO; excluded.",
+      "description": "AI company behind Claude; completed IPO on Nasdaq plus private placements.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "garnering approximately $119.5 billion during its stock market introduction",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": "public-company",
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "4137cca3c455"
+      ],
+      "source_urls": [
+        "https://www.rswebsols.com/news/anthropic-launches-with-a-market-valuation-of-119-5-billion/"
+      ],
+      "group_key": "anthropic",
+      "company": "Anthropic",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": "sierra.ai",
+      "amount_usd": 1750000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series F",
+      "stage_bucket": "Late Stage Venture",
+      "lead_investors": [
+        "Greenoaks",
+        "Lightspeed Venture Partners"
+      ],
+      "investors": [
+        "Greenoaks",
+        "Lightspeed Venture Partners",
+        "Benchmark",
+        "Sequoia",
+        "GV",
+        "Tiger Global"
+      ],
+      "hq_city": "San Francisco",
+      "hq_state": "CA",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Builds AI agents for enterprise customer experience.",
+      "description": "Enterprise customer experience platform for building AI agents, co-founded by Bret Taylor.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "raised $1.75 billion in a Series F round",
+        "round": "Series F round",
+        "lead": "The new round was led by Greenoaks and Lightspeed Venture Partners",
+        "investors": "including Benchmark, Sequoia, Greenoaks, GV, and Tiger Global"
+      },
+      "exclude_reason": null,
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "d6a5b08e3fa8"
+      ],
+      "source_urls": [
+        "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+      ],
+      "group_key": "sierra doubles valuation to",
+      "company": "Sierra",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Not an AI startup funding round.",
+      "description": "Private markets investment firm; received strategic growth investment.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "Financial terms of the transaction were not disclosed",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": "fund",
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "42aaab226b23"
+      ],
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/banner-ridge-partners-announces-strategic-growth-investment-from-bisonti-partners-and-bonaccord-capital-partners-302947321.html"
+      ],
+      "group_key": "banner ridge",
+      "company": "Banner Ridge Partners",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Greenwich",
+      "hq_state": "CT",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Not an AI startup funding round.",
+      "description": "Revenue-based financing provider; milestone news.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "surpassed $6 billion in cumulative financing",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": "not-funding",
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "8c4d00a61ad0"
+      ],
+      "source_urls": [
+        "https://pulse2.com/libertas-funding-surpasses-6-billion-in-small-business-financing-as-growth-accelerates/"
+      ],
+      "group_key": "libertas funding surpasses 6",
+      "company": "Libertas Funding",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Not an AI startup funding round.",
+      "description": "Pan-African bank committing funds to creative industries.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "Afreximbank commits $2bn to African creative industry",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": "not-funding",
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "e211fd65f827"
+      ],
+      "source_urls": [
+        "https://www.westernpost.ng/afreximbank-commits-2bn-to-african-creative-industry-announces-118m-nigeria-funding/"
+      ],
+      "group_key": "afreximbank commits 2bn to",
+      "company": "Afreximbank",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Not an AI startup funding round.",
+      "description": "Retailer; share repurchase authorization.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "$500 million share-repurchase authorization",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": "public-company",
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "d52d7c5d030a"
+      ],
+      "source_urls": [
+        "https://pulse2.com/bath-body-works-raises-sales-outlook-and-authorizes-500-million-repurchase-program/"
+      ],
+      "group_key": "bath & body works",
+      "company": "Bath & Body Works",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Not an AI startup funding round.",
+      "description": "Industrial distributor; senior notes offering.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "USD 400 million senior-note offering",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": "public-company",
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "1e374b5c81c4"
+      ],
+      "source_urls": [
+        "https://www.ad-hoc-news.de/boerse/news/corporate-news/w-w-grainger-stock-company-closes-usd-400-million-notes-sale/70547297"
+      ],
+      "group_key": "w w grainger stock",
+      "company": "W.W. Grainger",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": null,
+      "amount_disclosed": false,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": "Orlando",
+      "hq_state": "FL",
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Not an AI startup funding round.",
+      "description": "Law firm; jury verdict rankings.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "totaling approximately $346 million",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": "not-funding",
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "e47ec0fda55b"
+      ],
+      "source_urls": [
+        "https://www.citybiz.co/article/937679/morgan-morgan-lands-23-verdicts-on-floridas-top-100-list-for-2025/"
+      ],
+      "group_key": "morgan & morgan",
+      "company": "Morgan & Morgan",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": 300000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Not an AI startup funding round.",
+      "description": "Spacecraft technology company that went public via SPAC merger.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "raising approximately $300 million in new capital",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": "public-company",
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "cb71a03ab036"
+      ],
+      "source_urls": [
+        "https://www.citybiz.co/article/937577/quantum-space-completes-spac-merger-raises-300-million-at-958-million-valuation/"
+      ],
+      "group_key": "quantum space completes spac",
+      "company": "Quantum Space",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": 275000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Not an AI startup funding round.",
+      "description": "Water utility; debt financing.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "$275 million in new debt financing",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": "public-company",
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "42789a1ca024"
+      ],
+      "source_urls": [
+        "https://in.investing.com/news/stock-market-news/california-water-service-group-announces-275-million-in-new-debt-financing-93CH-5722000"
+      ],
+      "group_key": "california water service group",
+      "company": "California Water Service Group",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": 238600000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Not an AI startup funding round.",
+      "description": "Affordable housing tax credit fund first close.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "Secures $238.6 Million",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": "fund",
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "4d7597c3b5d7"
+      ],
+      "source_urls": [
+        "https://pulse2.com/hunt-capital-partners-secures-238-6-million-for-1722-affordable-homes-across-12-states/"
+      ],
+      "group_key": "hunt capital",
+      "company": "Hunt Capital Partners",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": 203500000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "US",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Not an AI startup funding round.",
+      "description": "Construction loan for a Manhattan multifamily development.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "$203.5 million in construction financing",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": "not-funding",
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "01d846feb29b"
+      ],
+      "source_urls": [
+        "https://pulse2.com/walker-dunlop-arranges-203-5-million-for-east-village-multifamily-development/"
+      ],
+      "group_key": "walker & dunlop arranges",
+      "company": "50 Third Avenue (Walker & Dunlop)",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": 200000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Not an AI startup funding round.",
+      "description": "Standby equity facility with Yorkville.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "Everli Secures Up to $200 Million in Standby Equity Financing From Yorkville",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": "public-company",
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "d54514933170"
+      ],
+      "source_urls": [
+        "https://www.tradingview.com/news/tradingview:72e10235ce49e:0-everli-secures-up-to-200-million-in-standby-equity-financing-from-yorkville/"
+      ],
+      "group_key": "everli",
+      "company": "Everli",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": "embo.com",
+      "amount_usd": 110000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "lead_investors": [
+        "Andreessen Horowitz"
+      ],
+      "investors": [
+        "Andreessen Horowitz",
+        "Khosla Ventures",
+        "DST Global",
+        "NVentures"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Builds AI world models as brains for robots.",
+      "description": "Builds AI world models to serve as the brain of humanoid robots; founded by Dreamer creator Danijar Hafner.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "has raised a $110 million seed round",
+        "round": "$110 million seed round",
+        "lead": "Andreessen Horowitz (a16z) led the round",
+        "investors": "with Khosla Ventures, DST Global, NVIDIA’s venture arm NVentures"
+      },
+      "exclude_reason": null,
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "888c134a0bb2",
+        "3f25a4e24f5e",
+        "2a57e4238ea0",
+        "33cea794146a"
+      ],
+      "source_urls": [
+        "https://en.wowtale.net/2026/11/24/236136/?utm_source=rss&utm_medium=rss&utm_campaign=embo-raises-110m-seed-led-by-a16z-to-build-a-robot-brain-on-world-models"
+      ],
+      "group_key": "embo",
+      "company": "Embo",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": 78000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Not an AI startup funding round.",
+      "description": "Project financing for Texas battery storage project.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "closed $78 million in construction and bridge financing",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": "public-company",
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "f095e8268fe8"
+      ],
+      "source_urls": [
+        "https://pulse2.com/energy-vault-closes-78-million-financing-for-texas-battery-storage-project/"
+      ],
+      "group_key": "energy vault",
+      "company": "Energy Vault",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": 70000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "lead_investors": [],
+      "investors": [
+        "Sovereign AI Fund",
+        "National Security Strategic Investment Fund"
+      ],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "GB",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Defence AI training and testing infrastructure.",
+      "description": "British defence technology company building a simulated virtual battlefield to train and test defence AI.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "$70 million Series A funding round",
+        "round": "Series A",
+        "lead": null,
+        "investors": "The UK Government’s Sovereign AI Fund and the National Security Strategic Investment Fund (NSSIF) are investing in Agon"
+      },
+      "exclude_reason": null,
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "061e3ead8b46"
+      ],
+      "source_urls": [
+        "https://news.ssbcrack.com/uk-government-funds-back-defence-ai-startup-agon-in-70-million-series-a/"
+      ],
+      "group_key": "uk government funds back",
+      "company": "Agon",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": 60000000,
+      "amount_disclosed": true,
+      "currency_note": "Reported as $60 million; AUD vs USD not stated in text",
+      "round_type": "Series C",
+      "stage_bucket": "Late Stage Venture",
+      "lead_investors": [
+        "National Reconstruction Fund Corporation",
+        "Main Sequence Ventures"
+      ],
+      "investors": [
+        "National Reconstruction Fund Corporation",
+        "Main Sequence Ventures",
+        "Hostplus",
+        "Funds SA"
+      ],
+      "hq_city": "Adelaide",
+      "hq_state": null,
+      "hq_country": "AU",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Satellite IoT connectivity; no AI claim.",
+      "description": "Adelaide satellite IoT connectivity company.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "raised the first $60 million of its Series C",
+        "round": "first close of the Series C",
+        "lead": "co-leading the round alongside Main Sequence Ventures",
+        "investors": "supported by super fund Hostplus, while South Australian investment manager Funds SA joined the cap table"
+      },
+      "exclude_reason": null,
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "b2e54aa2f5b5",
+        "98665d28494c",
+        "13aa108c14b5"
+      ],
+      "source_urls": [
+        "https://www.smartcompany.com.au/startupsmart/adelaide-satellite-maker-myriota-raises-60-million-in-100-days/"
+      ],
+      "group_key": "myriota",
+      "company": "Myriota",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": 56000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Debt",
+      "stage_bucket": "Other",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "MX",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Not an AI startup funding round.",
+      "description": "Bank closed renewable energy loans.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "totaling up to US$56 million",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": "not-funding",
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "71b023696108"
+      ],
+      "source_urls": [
+        "https://mexicobusiness.news/energy/news/banco-sabadell-closes-us56-million-financing-renewables"
+      ],
+      "group_key": "banco sabadell",
+      "company": "Banco Sabadell México",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": 40000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Not an AI startup funding round.",
+      "description": "Announces acquisition initiative in Indian drone market.",
+      "confidence": 0.6,
+      "evidence": {
+        "amount": "BRAIIN ANNOUNCES ~US$40 MILLION ACQUISITION INITIATIVE",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": "acquisition",
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "3041ae0d6387"
+      ],
+      "source_urls": [
+        "https://sg.finance.yahoo.com/news/braiin-announces-us-40-million-124500917.html"
+      ],
+      "group_key": "braiin",
+      "company": "BRAIIN",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": 32000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "lead_investors": [
+        "A91 Partners"
+      ],
+      "investors": [
+        "A91 Partners"
+      ],
+      "hq_city": "Princeton",
+      "hq_state": "NJ",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Enterprise AI builder platform.",
+      "description": "Princeton-based enterprise AI company with an AI Builder Platform and AI engineer academy.",
+      "confidence": 0.85,
+      "evidence": {
+        "amount": "AidenAI raises $32M in Series A",
+        "round": "Series A",
+        "lead": "Series A funding led by A91 Partners",
+        "investors": "Series A funding led by A91 Partners"
+      },
+      "exclude_reason": null,
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "88619da25a59"
+      ],
+      "source_urls": [
+        "https://njbiz.com/aidenai-princeton-ai-funding-series-a/",
+        "https://www.exchange4media.com/industry-briefing-news/aidenai-raises-32-million-in-series-a-funding-led-by-a91-partners-160641.html"
+      ],
+      "group_key": "aidenai",
+      "company": "AidenAI",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": 20000000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Seed",
+      "stage_bucket": "Seed",
+      "lead_investors": [
+        "Adjacent"
+      ],
+      "investors": [
+        "Adjacent",
+        "Coinbase Ventures",
+        "Union Square Ventures"
+      ],
+      "hq_city": "New York",
+      "hq_state": "NY",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Uses frontier AI models and trading agents to build portfolios.",
+      "description": "AI investing service that turns users' market takes into stock portfolios using AI agents.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "raised $20 million in seed funding",
+        "round": "$20 million in seed funding",
+        "lead": "The round was led by venture firm Adjacent",
+        "investors": "with participation from Coinbase Ventures and Union Square Ventures (USV)"
+      },
+      "exclude_reason": null,
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "0d63fb1e6c01"
+      ],
+      "source_urls": [
+        "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+      ],
+      "group_key": "supertake",
+      "company": "Supertake",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": 19500000,
+      "amount_disclosed": true,
+      "currency_note": "C$18.56M reported as $19.5M",
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "CA",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Not an AI startup funding round.",
+      "description": "TSX-V listed lithium exploration company.",
+      "confidence": 0.9,
+      "evidence": {
+        "amount": "raised C$18.56 million ($19.5 million) in gross proceeds",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": "public-company",
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "604751245e3f",
+        "75c79f5993f7"
+      ],
+      "source_urls": [
+        "https://mining.com.au/brunswick-closes-19-5-million-lithium-exploration-financing/"
+      ],
+      "group_key": "brunswick exploration",
+      "company": "Brunswick Exploration",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": 16100000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Series A",
+      "stage_bucket": "Early Stage Venture",
+      "lead_investors": [
+        "JumpStart Ventures"
+      ],
+      "investors": [
+        "JumpStart Ventures",
+        "The O.H.I.O. Fund",
+        "Orlando Health Ventures",
+        "JobsOhio Ventures",
+        "University Hospitals Ventures"
+      ],
+      "hq_city": "Dublin",
+      "hq_state": "OH",
+      "hq_country": "US",
+      "is_ai_ml": true,
+      "ai_ml_rationale": "Robotic, AI-guided ultrasound assistant.",
+      "description": "Developing a Robotic Ultrasound Assistant that positions the transducer on existing ultrasound carts.",
+      "confidence": 0.8,
+      "evidence": {
+        "amount": "Apricity raises $16.1M Series A for robotic ultrasound",
+        "round": "Series A",
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": null,
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "09f7cbe339b5",
+        "9ece44b56534"
+      ],
+      "source_urls": [
+        "https://app.dealroom.co/news/note/apricity-raises-16-1m-series-a-for-robotic-ultrasound",
+        "https://www.businesswire.com/news/home/20261123226286/en/Apricity-Announces-%2416.1-Million-Series-A-Funding-to-Bring-Robotic-Assistance-to-Diagnostic-Ultrasound",
+        "https://www.mobihealthnews.com/news/exclusive-apricity-raises-161m-ultrasound-robotics"
+      ],
+      "group_key": "apricity",
+      "company": "Apricity",
+      "announced_date": "2026-11-23"
+    },
+    {
+      "website": null,
+      "amount_usd": 500000,
+      "amount_disclosed": true,
+      "currency_note": null,
+      "round_type": "Other",
+      "stage_bucket": "Other",
+      "lead_investors": [],
+      "investors": [],
+      "hq_city": null,
+      "hq_state": null,
+      "hq_country": "unknown",
+      "is_ai_ml": false,
+      "ai_ml_rationale": "Not an AI startup funding round.",
+      "description": "Y Combinator investment into AI missile startup.",
+      "confidence": 0.5,
+      "evidence": {
+        "amount": "Lands $500K From Y Combinator",
+        "round": null,
+        "lead": null,
+        "investors": null
+      },
+      "exclude_reason": "not-funding",
+      "run_date": "2026-11-23-2350",
+      "candidate_ids": [
+        "86ca6d3a9237"
+      ],
+      "source_urls": [
+        "https://finance.yahoo.com/technology/ai/articles/16-old-ai-missile-startup-150748913.html"
+      ],
+      "group_key": "16 year olds",
+      "company": "Unnamed 16-year-old's AI missile startup",
+      "announced_date": "2026-11-23"
+    }
+  ],
+  "problems": [],
+  "counts": {
+    "input": 24,
+    "accepted": 24,
+    "rejected": 0
+  }
+}

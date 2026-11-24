@@ -1,0 +1,12 @@
+# Run 2026-11-23-2350
+- Feed health: all Google News feeds returned HTTP 200 (see candidates.json stats).
+- Counts: 25 groups; 24 rows extracted; inserted 22, merged 2, excluded on insert 19; 262 rounds in view of 1275 total.
+- In-scope rounds added:
+  - Sierra — $1.75B, Series F, led by Greenoaks and Lightspeed Venture Partners
+  - AidenAI — $32M, Series A, led by A91 Partners (Princeton, NJ)
+  - Supertake — $20M, Seed, led by Adjacent
+  - Apricity — $16.1M, Series A, led by JumpStart Ventures (Dublin, OH)
+- Suspicious / notes:
+  - Embo ($110M seed, a16z) kept with HQ unknown: the sources do not state a headquarters, so it is not in view.
+  - Anthropic row is an IPO (public company), excluded.
+  - AidenAI and Apricity details come from web lookups because the feed articles were blocked (403).

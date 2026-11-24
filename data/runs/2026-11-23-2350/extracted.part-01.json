@@ -1,0 +1,357 @@
+{
+ "run_date": "2026-11-23-2350",
+ "extractor": "claude-code routine",
+ "notes": "",
+ "rows": [
+  {
+   "website": "anthropic.com",
+   "amount_usd": 119500000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Public company after IPO; excluded.",
+   "description": "AI company behind Claude; completed IPO on Nasdaq plus private placements.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "garnering approximately $119.5 billion during its stock market introduction",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-23-2350",
+   "candidate_ids": [
+    "4137cca3c455"
+   ],
+   "source_urls": [
+    "https://www.rswebsols.com/news/anthropic-launches-with-a-market-valuation-of-119-5-billion/"
+   ],
+   "group_key": "anthropic",
+   "company": "Anthropic",
+   "announced_date": "2026-11-23"
+  },
+  {
+   "website": "sierra.ai",
+   "amount_usd": 1750000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series F",
+   "stage_bucket": "Late Stage Venture",
+   "lead_investors": [
+    "Greenoaks",
+    "Lightspeed Venture Partners"
+   ],
+   "investors": [
+    "Greenoaks",
+    "Lightspeed Venture Partners",
+    "Benchmark",
+    "Sequoia",
+    "GV",
+    "Tiger Global"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Builds AI agents for enterprise customer experience.",
+   "description": "Enterprise customer experience platform for building AI agents, co-founded by Bret Taylor.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "raised $1.75 billion in a Series F round",
+    "round": "Series F round",
+    "lead": "The new round was led by Greenoaks and Lightspeed Venture Partners",
+    "investors": "including Benchmark, Sequoia, Greenoaks, GV, and Tiger Global"
+   },
+   "exclude_reason": null,
+   "run_date": "2026-11-23-2350",
+   "candidate_ids": [
+    "d6a5b08e3fa8"
+   ],
+   "source_urls": [
+    "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+   ],
+   "group_key": "sierra doubles valuation to",
+   "company": "Sierra",
+   "announced_date": "2026-11-23"
+  },
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI startup funding round.",
+   "description": "Private markets investment firm; received strategic growth investment.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "Financial terms of the transaction were not disclosed",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "exclude_reason": "fund",
+   "run_date": "2026-11-23-2350",
+   "candidate_ids": [
+    "42aaab226b23"
+   ],
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/banner-ridge-partners-announces-strategic-growth-investment-from-bisonti-partners-and-bonaccord-capital-partners-302947321.html"
+   ],
+   "group_key": "banner ridge",
+   "company": "Banner Ridge Partners",
+   "announced_date": "2026-11-23"
+  },
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Greenwich",
+   "hq_state": "CT",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI startup funding round.",
+   "description": "Revenue-based financing provider; milestone news.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "surpassed $6 billion in cumulative financing",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23-2350",
+   "candidate_ids": [
+    "8c4d00a61ad0"
+   ],
+   "source_urls": [
+    "https://pulse2.com/libertas-funding-surpasses-6-billion-in-small-business-financing-as-growth-accelerates/"
+   ],
+   "group_key": "libertas funding surpasses 6",
+   "company": "Libertas Funding",
+   "announced_date": "2026-11-23"
+  },
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI startup funding round.",
+   "description": "Pan-African bank committing funds to creative industries.",
+   "confidence": 0.5,
+   "evidence": {
+    "amount": "Afreximbank commits $2bn to African creative industry",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23-2350",
+   "candidate_ids": [
+    "e211fd65f827"
+   ],
+   "source_urls": [
+    "https://www.westernpost.ng/afreximbank-commits-2bn-to-african-creative-industry-announces-118m-nigeria-funding/"
+   ],
+   "group_key": "afreximbank commits 2bn to",
+   "company": "Afreximbank",
+   "announced_date": "2026-11-23"
+  },
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI startup funding round.",
+   "description": "Retailer; share repurchase authorization.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$500 million share-repurchase authorization",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-23-2350",
+   "candidate_ids": [
+    "d52d7c5d030a"
+   ],
+   "source_urls": [
+    "https://pulse2.com/bath-body-works-raises-sales-outlook-and-authorizes-500-million-repurchase-program/"
+   ],
+   "group_key": "bath & body works",
+   "company": "Bath & Body Works",
+   "announced_date": "2026-11-23"
+  },
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI startup funding round.",
+   "description": "Industrial distributor; senior notes offering.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "USD 400 million senior-note offering",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-23-2350",
+   "candidate_ids": [
+    "1e374b5c81c4"
+   ],
+   "source_urls": [
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/w-w-grainger-stock-company-closes-usd-400-million-notes-sale/70547297"
+   ],
+   "group_key": "w w grainger stock",
+   "company": "W.W. Grainger",
+   "announced_date": "2026-11-23"
+  },
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Orlando",
+   "hq_state": "FL",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI startup funding round.",
+   "description": "Law firm; jury verdict rankings.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "totaling approximately $346 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "exclude_reason": "not-funding",
+   "run_date": "2026-11-23-2350",
+   "candidate_ids": [
+    "e47ec0fda55b"
+   ],
+   "source_urls": [
+    "https://www.citybiz.co/article/937679/morgan-morgan-lands-23-verdicts-on-floridas-top-100-list-for-2025/"
+   ],
+   "group_key": "morgan & morgan",
+   "company": "Morgan & Morgan",
+   "announced_date": "2026-11-23"
+  },
+  {
+   "website": null,
+   "amount_usd": 300000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI startup funding round.",
+   "description": "Spacecraft technology company that went public via SPAC merger.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "raising approximately $300 million in new capital",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-23-2350",
+   "candidate_ids": [
+    "cb71a03ab036"
+   ],
+   "source_urls": [
+    "https://www.citybiz.co/article/937577/quantum-space-completes-spac-merger-raises-300-million-at-958-million-valuation/"
+   ],
+   "group_key": "quantum space completes spac",
+   "company": "Quantum Space",
+   "announced_date": "2026-11-23"
+  },
+  {
+   "website": null,
+   "amount_usd": 275000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Not an AI startup funding round.",
+   "description": "Water utility; debt financing.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$275 million in new debt financing",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "exclude_reason": "public-company",
+   "run_date": "2026-11-23-2350",
+   "candidate_ids": [
+    "42789a1ca024"
+   ],
+   "source_urls": [
+    "https://in.investing.com/news/stock-market-news/california-water-service-group-announces-275-million-in-new-debt-financing-93CH-5722000"
+   ],
+   "group_key": "california water service group",
+   "company": "California Water Service Group",
+   "announced_date": "2026-11-23"
+  }
+ ]
+}
