@@ -1,0 +1,45 @@
+{
+ "run_date": "catchup-2026-11-24_2026-11-24-2223",
+ "extractor": "claude-code routine",
+ "notes": "Noise groups (earnings, contracts, funds, grants, <$15M) skipped. Miami fintech $300M and Leash Bio unresolved/under threshold.",
+ "rows": [
+  {
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": "Rs 297 crore, reported as $32M",
+   "lead_investors": [
+    "A91 Partners"
+   ],
+   "investors": [
+    "A91 Partners"
+   ],
+   "hq_city": "Princeton",
+   "hq_state": "NJ",
+   "exclude_reason": null,
+   "confidence": 0.6,
+   "group_key": "aiden",
+   "candidate_ids": [
+    "e4cd3ac2b8ad"
+   ],
+   "company": "Aiden AI",
+   "amount_usd": 32000000,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Enterprise AI platform.",
+   "description": "Enterprise AI platform for deploying AI across legacy systems in banking, financial services and insurance.",
+   "evidence": {
+    "amount": "raised $32 million (Rs 297 crore) from investment firm A91 Partners",
+    "round": null,
+    "lead": null,
+    "investors": "from investment firm A91 Partners"
+   },
+   "source_urls": [
+    "https://m.economictimes.com/tech/startups/ex-infosys-veterans-enterprise-ai-startup-aiden-raises-32-million-from-a91-partners/articleshow/136110343.cms"
+   ]
+  }
+ ]
+}

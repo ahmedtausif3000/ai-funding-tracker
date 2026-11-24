@@ -1,7 +1,357 @@
 {
  "version": 1,
- "updated_at": "2026-11-24T14:10:45.471Z",
+ "updated_at": "2026-11-24T23:08:27.522Z",
  "rounds": [
+  {
+   "id": "25e371e786",
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": "peakenergy.com",
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "General Motors Ventures"
+   ],
+   "investors": [
+    "General Motors Ventures",
+    "Maverick Silicon",
+    "Infinite Capital",
+    "Eclipse",
+    "Xora Innovation",
+    "LG Technology Ventures",
+    "HSBC"
+   ],
+   "hq_city": "Burlingame",
+   "hq_state": "CA",
+   "exclude_reason": null,
+   "confidence": 0.8,
+   "group_key": "peak-energy",
+   "candidate_ids": [
+    "66108eab6133",
+    "62619aa865cd"
+   ],
+   "company": "Peak Energy",
+   "amount_usd": 157000000,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Sodium-ion energy storage; no AI claim.",
+   "description": "Developer of passively cooled sodium-ion grid energy storage systems.",
+   "evidence": {
+    "amount": "expanded its Series B financing to $157 million",
+    "round": "Series B",
+    "lead": "led by General Motors Ventures",
+    "investors": "Maverick Silicon, Infinite Capital, Eclipse, Xora Innovation and LG Technology Ventures"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/peak-energy-expands-series-b-total-financing-to-157-million-to-accelerate-manufacturing-amid-growing-customer-backlog-302949087.html"
+   ],
+   "transaction_name": "Series B - Peak Energy",
+   "first_seen_run": "catchup-2026-11-24_2026-11-24-2223",
+   "runs": [
+    "catchup-2026-11-24_2026-11-24-2223"
+   ],
+   "created_at": "2026-11-24T23:08:27.485Z",
+   "updated_at": "2026-11-24T23:08:27.485Z",
+   "in_view": false
+  },
+  {
+   "id": "2ccce0da3b",
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "InterVest"
+   ],
+   "investors": [
+    "InterVest",
+    "Tiger Global",
+    "Cerberus Capital Management",
+    "SK hynix Ventures",
+    "Samsung Catalyst Fund",
+    "AMD Ventures",
+    "Prosperity7 Ventures",
+    "Diamond Edge Ventures",
+    "Hitachi Ventures"
+   ],
+   "hq_city": "Sunnyvale",
+   "hq_state": "CA",
+   "exclude_reason": null,
+   "confidence": 0.8,
+   "group_key": "avicena",
+   "candidate_ids": [
+    "0554488e8c33",
+    "d8cf942263c6",
+    "14b37a50a9a7"
+   ],
+   "company": "Avicena",
+   "amount_usd": 100000000,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Optical interconnects for AI infrastructure.",
+   "description": "Sunnyvale startup linking AI chips with microLED optical interconnects.",
+   "evidence": {
+    "amount": "raised more than $100M in Series C funding",
+    "round": "Series C",
+    "lead": "InterVest led the round",
+    "investors": "Tiger Global, Cerberus Capital Management, SK hynix Ventures, Samsung Catalyst Fund and AMD Ventures"
+   },
+   "source_urls": [
+    "https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai"
+   ],
+   "transaction_name": "Series C - Avicena",
+   "first_seen_run": "catchup-2026-11-24_2026-11-24-2223",
+   "runs": [
+    "catchup-2026-11-24_2026-11-24-2223"
+   ],
+   "created_at": "2026-11-24T23:08:27.493Z",
+   "updated_at": "2026-11-24T23:08:27.493Z",
+   "in_view": true
+  },
+  {
+   "id": "352f69d74a",
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [
+    "Erebor Bank",
+    "Pinegrove Venture Partners"
+   ],
+   "hq_city": "Garden Grove",
+   "hq_state": "CA",
+   "exclude_reason": null,
+   "confidence": 0.8,
+   "group_key": "harbinger",
+   "candidate_ids": [
+    "42a22400697f"
+   ],
+   "company": "Harbinger",
+   "amount_usd": 100000000,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-24",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Electric vehicle maker; debt financing.",
+   "description": "Industrial technology company building electric medium-duty vehicles.",
+   "evidence": {
+    "amount": "financing agreements totaling more than $100 million",
+    "round": null,
+    "lead": null,
+    "investors": "Erebor Bank , co-founded by Palmer Luckey , and Pinegrove Venture Partners"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/harbinger-secures-more-than-100-million-in-debt-financing-from-erebor-bank-and-pinegrove-venture-partners-to-support-production-ramp-and-future-growth-302948754.html"
+   ],
+   "transaction_name": "Debt - Harbinger",
+   "first_seen_run": "catchup-2026-11-24_2026-11-24-2223",
+   "runs": [
+    "catchup-2026-11-24_2026-11-24-2223"
+   ],
+   "created_at": "2026-11-24T23:08:27.497Z",
+   "updated_at": "2026-11-24T23:08:27.497Z",
+   "in_view": false
+  },
+  {
+   "id": "84c36bfa11",
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "exclude_reason": null,
+   "confidence": 0.3,
+   "group_key": "trustly",
+   "candidate_ids": [
+    "4733f726d30a"
+   ],
+   "company": "Trustly",
+   "amount_usd": 60000000,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-24",
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Payments firm; only headline available.",
+   "description": "Bank payments company.",
+   "evidence": {
+    "amount": "Trustly Raises $60 Million in Equity",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://ventureburn.com/trustly-raises-60-million-equity-ai-product-development/"
+   ],
+   "transaction_name": "Other - Trustly",
+   "first_seen_run": "catchup-2026-11-24_2026-11-24-2223",
+   "runs": [
+    "catchup-2026-11-24_2026-11-24-2223"
+   ],
+   "created_at": "2026-11-24T23:08:27.500Z",
+   "updated_at": "2026-11-24T23:08:27.500Z",
+   "in_view": false
+  },
+  {
+   "id": "9632bced10",
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [
+    "TLV Partners",
+    "Maor Investments",
+    "Glilot Capital"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "exclude_reason": null,
+   "confidence": 0.5,
+   "group_key": "zipher",
+   "candidate_ids": [
+    "333788bea7dd",
+    "5ad9bd1fa17b",
+    "6f6536ae1073",
+    "7a8bc6640bc4",
+    "8a29bee4cb4a"
+   ],
+   "company": "Zipher",
+   "amount_usd": 53000000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "IL",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI agents automating data workloads.",
+   "description": "Automates enterprise cloud data workload execution; $53M across seed and Series A (Series A $45M per CTech).",
+   "evidence": {
+    "amount": "raised $53 million across its seed and Series A rounds",
+    "round": "Series A",
+    "lead": null,
+    "investors": "TLV Partners , Maor Investments and Glilot Capital"
+   },
+   "source_urls": [
+    "https://www.unite.ai/zipher-raises-53-million-to-automate-enterprise-data-infrastructure/",
+    "https://www.calcalistech.com/ctechnews/article/bkreuwq1xg"
+   ],
+   "transaction_name": "Series A - Zipher",
+   "first_seen_run": "catchup-2026-11-24_2026-11-24-2223",
+   "runs": [
+    "catchup-2026-11-24_2026-11-24-2223"
+   ],
+   "created_at": "2026-11-24T23:08:27.503Z",
+   "updated_at": "2026-11-24T23:08:27.503Z",
+   "in_view": false
+  },
+  {
+   "id": "3b43235a74",
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Idealist Capital"
+   ],
+   "investors": [
+    "Idealist Capital",
+    "Fusion Fund",
+    "Stormbreaker Ventures",
+    "Thin Line Capital",
+    "NBC",
+    "The Sitka Foundation"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "exclude_reason": null,
+   "confidence": 0.7,
+   "group_key": "sensenet",
+   "candidate_ids": [
+    "fa949a87cdae",
+    "ae2137ee6b3c"
+   ],
+   "company": "SenseNet",
+   "amount_usd": 43000000,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-enabled cameras and predictive analytics for wildfire detection.",
+   "description": "Wildfire detection using sensors, AI-enabled cameras and predictive analytics.",
+   "evidence": {
+    "amount": "$43 million in Series B financing led by Idealist Capital",
+    "round": "Series B",
+    "lead": "led by Idealist Capital",
+    "investors": "Fusion Fund, Stormbreaker Ventures, Thin Line Capital, NBC, and The Sitka Foundation"
+   },
+   "source_urls": [
+    "https://wisevoter.com/world/us/ca/san-francisco/2026/11/24/sensenet-raises-43-million-series-b-wildfire"
+   ],
+   "transaction_name": "Series B - SenseNet",
+   "first_seen_run": "catchup-2026-11-24_2026-11-24-2223",
+   "runs": [
+    "catchup-2026-11-24_2026-11-24-2223"
+   ],
+   "created_at": "2026-11-24T23:08:27.507Z",
+   "updated_at": "2026-11-24T23:08:27.507Z",
+   "in_view": true
+  },
+  {
+   "id": "4bab7134f4",
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "exclude_reason": "not-funding",
+   "confidence": 0.4,
+   "group_key": "axelera",
+   "candidate_ids": [
+    "bf1a491a00a6",
+    "e94ac9979c30",
+    "2021d4509930"
+   ],
+   "company": "Axelera AI",
+   "amount_usd": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-24",
+   "hq_country": "NL",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI chipmaker.",
+   "description": "Dutch AI semiconductor startup reportedly in talks to raise more.",
+   "evidence": {
+    "amount": "in talks to raise an additional $400 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://techfundingnews.com/dutch-ai-chipmaker-axelera-in-talks-to-raise-400m-and-eu-subsidies-to-take-on-nvidia/"
+   ],
+   "transaction_name": "Other - Axelera AI",
+   "first_seen_run": "catchup-2026-11-24_2026-11-24-2223",
+   "runs": [
+    "catchup-2026-11-24_2026-11-24-2223"
+   ],
+   "created_at": "2026-11-24T23:08:27.491Z",
+   "updated_at": "2026-11-24T23:08:27.491Z",
+   "in_view": false
+  },
   {
    "id": "7cbeaf2282",
    "website": "anthropic.com",
@@ -89,7 +439,8 @@
    "source_urls": [
     "https://mlq.ai/news/sierra-says-it-is-finalizing-a-funding-round-led-by-lightspeed-and-greenoaks-at-a-30-billion-valuation/",
     "https://www.unite.ai/sierra-raises-1-75b-in-series-f-funding-at-30b-valuation/",
-    "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+    "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+    "https://www.techtimes.com/articles/331379/20261124/ai-customer-service-startup-sierra-raising-30b-valuation-75-times-revenue-billing-per-outcome.htm"
    ],
    "exclude_reason": "duplicate",
    "run_date": "2026-11-23",
@@ -97,10 +448,11 @@
    "first_seen_run": "2026-11-23",
    "runs": [
     "2026-11-23",
-    "2026-11-23-2350"
+    "2026-11-23-2350",
+    "catchup-2026-11-24_2026-11-24-2223"
    ],
    "created_at": "2026-11-23T23:08:43.847Z",
-   "updated_at": "2026-11-24T14:10:45.399Z",
+   "updated_at": "2026-11-24T23:08:27.480Z",
    "in_view": false
   },
   {
@@ -385,15 +737,24 @@
     "Accel"
    ],
    "investors": [
-    "Accel"
+    "Accel",
+    "Bessemer",
+    "Altimeter",
+    "Atreides",
+    "Eclipse",
+    "Journey",
+    "Valor",
+    "Emergence Capital",
+    "Pitango",
+    "Neo"
    ],
    "hq_city": null,
    "hq_state": null,
-   "hq_country": "unknown",
+   "hq_country": "US",
    "is_ai_ml": true,
    "ai_ml_rationale": "Runs AI inference on non-Nvidia chips.",
    "description": "Builds computing power for AI inference on non-Nvidia chips (multi-silicon AI factories).",
-   "confidence": 0.6,
+   "confidence": 0.7,
    "evidence": {
     "amount": "Marlowe raises a $277 million seed round led by Accel",
     "round": "seed round",
@@ -401,18 +762,20 @@
     "investors": "led by Accel"
    },
    "source_urls": [
-    "https://www.bloomberg.com/news/articles/2026-11-23/marlowe-raises-277-million-to-bolster-alternatives-to-nvidia-chips"
+    "https://www.bloomberg.com/news/articles/2026-11-23/marlowe-raises-277-million-to-bolster-alternatives-to-nvidia-chips",
+    "https://hedgeco.net/news/11/2026/accel-leads-a-277-million-seed-round-for-marlowe-valuing-the-non-nvidia-ai-inference-startup-at-1-15-billion.html"
    ],
    "exclude_reason": null,
    "run_date": "2026-11-23",
    "transaction_name": "Seed - Marlowe",
    "first_seen_run": "2026-11-23",
    "runs": [
-    "2026-11-23"
+    "2026-11-23",
+    "catchup-2026-11-24_2026-11-24-2223"
    ],
    "created_at": "2026-11-23T23:08:43.875Z",
-   "updated_at": "2026-11-23T23:08:43.875Z",
-   "in_view": false
+   "updated_at": "2026-11-24T23:08:27.481Z",
+   "in_view": true
   },
   {
    "id": "0b8613b6bb",
@@ -702,17 +1065,19 @@
     "investors": null
    },
    "source_urls": [
-    "https://www.analyticsinsight.net/amp/story/tech-news/top-tech-news-nano-core-raises-usd-1-billion-akash-launches-gpu-marketplace"
+    "https://www.analyticsinsight.net/amp/story/tech-news/top-tech-news-nano-core-raises-usd-1-billion-akash-launches-gpu-marketplace",
+    "https://www.analyticsinsight.net/tech-news/top-tech-news-nano-core-raises-usd-1-billion-akash-launches-gpu-marketplace"
    ],
    "exclude_reason": null,
    "run_date": "2026-11-23",
    "transaction_name": "Series C - Nano Core",
    "first_seen_run": "2026-11-23",
    "runs": [
-    "2026-11-23"
+    "2026-11-23",
+    "catchup-2026-11-24_2026-11-24-2223"
    ],
    "created_at": "2026-11-23T23:08:43.863Z",
-   "updated_at": "2026-11-23T23:08:43.863Z",
+   "updated_at": "2026-11-24T23:08:27.480Z",
    "in_view": false
   },
   {
@@ -827,8 +1192,8 @@
    "amount_usd": 100000000,
    "amount_disclosed": true,
    "currency_note": null,
-   "round_type": "Venture - Unspecified",
-   "stage_bucket": "Late Stage Venture",
+   "round_type": "Other",
+   "stage_bucket": "Other",
    "announced_date": "2026-11-23",
    "lead_investors": [
     "Ant Group"
@@ -856,17 +1221,19 @@
    "source_urls": [
     "https://mlq.ai/news/ant-group-leads-a-100-million-round-in-chinese-robotics-startup-simplexity/",
     "https://www.asiabusinessoutlook.com/news/ant-group-leads-100-million-funding-for-chinas-simplexity-robotics-nwid-12830.html",
-    "https://app.dealroom.co/news/note/ant-group-leads-100m-round-in-china-s-simplexity-robotics"
+    "https://app.dealroom.co/news/note/ant-group-leads-100m-round-in-china-s-simplexity-robotics",
+    "https://theaiinsider.tech/2026/11/24/china-physical-ai-roundup-simplexity-robotics-raises-100m-pre-a-plus-x-square-model-oymotion-and-agibot-deployment/"
    ],
    "exclude_reason": null,
    "run_date": "2026-11-23",
    "transaction_name": "Venture - Unspecified - Simplexity Robotics",
    "first_seen_run": "2026-11-23",
    "runs": [
-    "2026-11-23"
+    "2026-11-23",
+    "catchup-2026-11-24_2026-11-24-2223"
    ],
    "created_at": "2026-11-23T23:08:43.883Z",
-   "updated_at": "2026-11-23T23:08:43.886Z",
+   "updated_at": "2026-11-24T23:08:27.494Z",
    "in_view": false
   },
   {
@@ -1165,6 +1532,49 @@
    "in_view": false
   },
   {
+   "id": "a89fc610cc",
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "exclude_reason": null,
+   "confidence": 0.5,
+   "group_key": "cardinal",
+   "candidate_ids": [
+    "6c7de8bea612"
+   ],
+   "company": "Cardinal Operations",
+   "amount_usd": 45000000,
+   "round_type": "Series D",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-23",
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Decision AI.",
+   "description": "Chinese decision-AI company.",
+   "evidence": {
+    "amount": "raises $45M Series D",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/china-s-cardinal-operations-raises-45m-series-d-for-decision-ai"
+   ],
+   "transaction_name": "Series D - Cardinal Operations",
+   "first_seen_run": "catchup-2026-11-24_2026-11-24-2223",
+   "runs": [
+    "catchup-2026-11-24_2026-11-24-2223"
+   ],
+   "created_at": "2026-11-24T23:08:27.511Z",
+   "updated_at": "2026-11-24T23:08:27.511Z",
+   "in_view": false
+  },
+  {
    "id": "6883e0cd0e",
    "website": null,
    "amount_usd": 40000000,
@@ -1255,7 +1665,7 @@
    "website": null,
    "amount_usd": 32000000,
    "amount_disclosed": true,
-   "currency_note": null,
+   "currency_note": "Rs 297 crore, reported as $32M",
    "round_type": "Series A",
    "stage_bucket": "Early Stage Venture",
    "lead_investors": [
@@ -1284,7 +1694,8 @@
    ],
    "source_urls": [
     "https://njbiz.com/aidenai-princeton-ai-funding-series-a/",
-    "https://www.exchange4media.com/industry-briefing-news/aidenai-raises-32-million-in-series-a-funding-led-by-a91-partners-160641.html"
+    "https://www.exchange4media.com/industry-briefing-news/aidenai-raises-32-million-in-series-a-funding-led-by-a91-partners-160641.html",
+    "https://m.economictimes.com/tech/startups/ex-infosys-veterans-enterprise-ai-startup-aiden-raises-32-million-from-a91-partners/articleshow/136110343.cms"
    ],
    "group_key": "aidenai",
    "company": "AidenAI",
@@ -1292,11 +1703,15 @@
    "transaction_name": "Series A - AidenAI",
    "first_seen_run": "2026-11-23-2350",
    "runs": [
-    "2026-11-23-2350"
+    "2026-11-23-2350",
+    "catchup-2026-11-24_2026-11-24-2223"
    ],
    "created_at": "2026-11-24T14:10:45.454Z",
-   "updated_at": "2026-11-24T14:10:45.454Z",
-   "in_view": true
+   "updated_at": "2026-11-24T23:08:27.514Z",
+   "in_view": true,
+   "alt_amounts": [
+    32000000
+   ]
   },
   {
    "id": "907609fecf",
@@ -7698,7 +8113,8 @@
     "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
     "https://www.unite.ai/science-corporation-raises-400m-series-d-to-expand-prima-access/",
     "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
-    "https://shattered.io/science-400-million-series-d-tops-weeks-biggest-funding-rounds/"
+    "https://shattered.io/science-400-million-series-d-tops-weeks-biggest-funding-rounds/",
+    "https://www.citybiz.co/article/937913/former-neuralink-co-founder-max-hodaks-science-corp-raises-400m-series-d/"
    ],
    "exclude_reason": null,
    "transaction_name": "Series D - Science Corporation",
@@ -7706,10 +8122,11 @@
    "runs": [
     "catchup-2026-11-10_2026-11-17",
     "2026-11-21",
-    "2026-11-22"
+    "2026-11-22",
+    "catchup-2026-11-24_2026-11-24-2223"
    ],
    "created_at": "2026-11-18T06:42:51.042Z",
-   "updated_at": "2026-11-22T14:08:07.687Z",
+   "updated_at": "2026-11-24T23:08:27.480Z",
    "in_view": true
   },
   {
@@ -60727,5 +61144,5 @@
    "in_view": true
   }
  ],
- "last_run": "2026-11-23-2350"
+ "last_run": "catchup-2026-11-24_2026-11-24-2223"
 }

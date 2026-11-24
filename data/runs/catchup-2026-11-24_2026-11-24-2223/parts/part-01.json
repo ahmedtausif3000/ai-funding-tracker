@@ -1,0 +1,196 @@
+{
+ "run_date": "catchup-2026-11-24_2026-11-24-2223",
+ "part": 1,
+ "groups": [
+  {
+   "group_key": "sierra",
+   "company_guess": "Sierra",
+   "amount_hint_usd": 30000000000,
+   "articles": [
+    {
+     "id": "4f1f265a3bb9",
+     "group_key": "sierra",
+     "title": "AI Customer Service Startup Sierra Raising at $30B Valuation, 75 Times Revenue, Billing Per Outcome",
+     "publisher": "Tech Times",
+     "url": "https://www.techtimes.com/articles/331379/20261124/ai-customer-service-startup-sierra-raising-30b-valuation-75-times-revenue-billing-per-outcome.htm",
+     "published_at": "2026-11-24T10:17:36.000Z",
+     "amount_hint": "$30B",
+     "snippet": "AI Customer Service Startup Sierra Raising at $30B Valuation, 75 Times Revenue, Billing Per Outcome Tech Times",
+     "text_status": "ok",
+     "text": "By\nTerrence Hill\nPublished: Nov 24 2026, 5:17 AM EST\nShare on Facebook\nShare on Twitter\nShare on LinkedIn\nShare on Reddit\nShare on Flipboard Share on WhatsApp\nSierra ai\nSierra, the AI customer service company co-founded by OpenAI board chair Bret Taylor and former Google executive Clay Bavor, said Monday it is raising $1.75 billion at a $30 billion valuation, roughly 75 times its more than $400 million in annual recurring revenue (ARR). That multiple only holds if Sierra's outcome-based pricing, which charges customers when an AI agent resolves a conversation rather than for the compute it burns, produces revenue that lasts. Anyone weighing AI customer service contracts, or judging whether private AI valuations are tracking real revenue, needs to understand that bet.\nGreenoaks and Lightspeed are leading the round, and Benchmark, Sequoia, GV and Tiger Global are investing more. Sierra's own announcement says it is \"raising\" the money, while TechCrunch reported the round as raised, so the funds may not all have closed.\nValuation Doubled in Six Months While Revenue Also Doubled\nThe $30 billion figure is about twice the \"more than $15 billion\" valuation Sierra carried when it raised $950 million in May , led by Tiger Global and GV. Revenue grew about as fast: Sierra reported $200 million in ARR in May and more than $400 million by October 30, and it says the third quarter alone added more than $150 million.\nThat makes the multiple compress, not inflate. At the $10 billion valuation, TechCrunch cited a 100x revenue multiple on $100 million in ARR. Using the $15.8 billion figure reported for the May round, Sierra was priced near 79 times ARR, and it sits near 75 times now.\nDate Valuation Reported ARR Approximate multiple\nNovember 2025 $10 billion About $100 million About 100 times\nMay 2026 $15.8 billion (reported) $200 million About 79 times\nNovember 2026 $30 billion More than $400 million About 75 times\nHow Per-Outcome Billing Moves Inference Cost Onto Sierra\nTraditional software bills per seat. Many AI vendors bill for usage, meaning the tokens a model processes, which passes the cost of running the model to the customer. Sierra instead charges when its agent completes a task such as resolving a support request, and says an unresolved conversation usually means no charge . The logical consequence is that Sierra, not the customer, absorbs the inference cost of every conversation the agent fails to resolve. That is an analysis of the pricing model, not a figure Sierra has disclosed, and Sierra has not published its gross margin.\nSierra's engineering answer is to route each conversation through a constellation of more than 15 models , with its own fine-tuned models handling some steps, rather than one large model. Its tooling includes Agent OS 2.0 .\nThe cost pressure is industrywide. ICONIQ's State of AI snapshot tracks average gross margins for AI products rising from 41% in 2024 to 45% in 2025, with a projected 52% in 2026, against 70% to 85% for classic software . Sierra's per-outcome model makes reliability a margin issue: every failed attempt costs compute with no revenue attached.\nReliability is measurable. Sierra's own &tau;-bench benchmark scores agents on repeated attempts at the same task, using a metric called pass^k, the probability that all k attempts succeed. In the 2024 &tau;-bench paper , GPT-4o completed fewer than half of tasks and scored under 25% on pass^8 in the retail domain. Those results are from 2024 and from Sierra's "
+    }
+   ]
+  },
+  {
+   "group_key": "applied digital",
+   "company_guess": "Applied Digital",
+   "amount_hint_usd": 5400000000,
+   "articles": [
+    {
+     "id": "0eb53a887bf7",
+     "group_key": "applied digital",
+     "title": "Applied Digital Secures 18-Year AI Data Center Lease Worth $5.4 Billion",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/applied-digital-secures-18-year-ai-data-center-lease-worth-5-4-billion/",
+     "published_at": "2026-11-24T12:08:51.000Z",
+     "amount_hint": "$5.4 Billion",
+     "snippet": "Applied Digital has signed an 18-year lease with a tier-one investment-grade hyperscaler for 150 megawatts of critical information-technology capacity.\nThe post Applied Digital Secures 18-Year AI Data Center Lease Worth $5.4 Billion appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Applied Digital Secures 18-Year AI Data Center Lease Worth $5.4 Billion\nBy Amit Chowdhry\nToday at 7:08 AM\nApplied Digital Secures 18-Year AI Data Center Lease Worth $5.4 Billion\nApplied Digital has signed an 18-year lease with a tier-one investment-grade hyperscaler for 150 megawatts of critical information-technology capacity.\nThe agreement represents approximately $5.4 billion in contracted base-term revenue. Potential revenue could reach approximately $12.7 billion if the customer exercises every renewal option, extending the total term to 33 years.\nThe latest agreement increases Applied Digital’s total contracted base-term lease revenue to more than $41 billion. That figure could approach $100 billion if customers exercise all available renewal options.\nGrowing Contracted AI Infrastructure Portfolio\nApplied Digital said the latest lease contains higher pricing and improved commercial terms compared with its earlier agreements.\nIts contracted portfolio now represents more than 1.6 gigawatts of critical IT load and 2.2 gigawatts of grid-connected peak load.\nApproximately 75% of contracted base-term lease revenue is attributable to investment-grade customers, strengthening the credit profile of the company’s long-term revenue base.\nDelivery of the newly leased capacity is expected to begin during the first half of 2028, subject to development milestones, utility arrangements and regulatory approvals.\nApplied Digital plans to finance construction through equity already committed from its balance sheet and its $5 billion programmatic partnership with Macquarie Asset Management. Project financing supported by the hyperscaler lease is expected to follow.\nThe company expects to complete the remaining project financing for Delta Forge 1 and Polaris Forge 3 during the first quarter of 2027. Financing for Delta Forge 2 is expected in the second quarter.\nKEY QUOTES:\n“Securing another large-scale, long-term lease with a tier-one investment-grade hyperscaler reinforces to us the strength of our customer relationships and the quality of our contracted revenue. We believe our portfolio reflects the scale and sophistication of the infrastructure we’ve developed, and our focus remains on executing with the speed, discipline and consistency required for our customers.”\nWes Cummins, Chairman And CEO Of Applied Digital\n“This approach is designed to optimize our cost of capital while aligning capital deployment with construction timelines.”\nSaidal Mohmand, CFO Of Applied Digital\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "dicks sporting goods reports",
+   "company_guess": "DICK’S Sporting Goods Reports",
+   "amount_hint_usd": 5130000000,
+   "articles": [
+    {
+     "id": "3d3aaedbc476",
+     "group_key": "dicks sporting goods reports",
+     "title": "DICK’S Sporting Goods Reports $5.13 Billion in Q3 Sales, Raises Full-Year Earnings Outlook",
+     "publisher": "Sobeida Dilone",
+     "url": "https://www.citybiz.co/article/937995/dicks-sporting-goods-reports-5-13-billion-in-q3-sales-raises-full-year-earnings-outlook/",
+     "published_at": "2026-11-24T13:30:53.000Z",
+     "amount_hint": "$5.13 Billion",
+     "snippet": "DICK’S Sporting Goods, Inc. (NYSE: DKS) reported third-quarter fiscal 2026 net sales of $5.13 billion, an increase of 23.2% year... Read More\nThe post DICK’S Sporting Goods Reports $5.13 Billion in Q3 Sales, Raises Full-Year Earnings Outlook appeared first on citybiz .",
+     "text_status": "ok",
+     "text": "Global , New York , Philadelphia , Pittsburgh\nGeneral Business , Internet / Technology , Sports\nDICK’S Sporting Goods Reports $5.13 Billion in Q3 Sales, Raises Full-Year Earnings Outlook\nNovember 24, 2026\nDICK’S Sporting Goods, Inc. (NYSE: DKS) reported third-quarter fiscal 2026 net sales of $5.13 billion, an increase of 23.2% year over year, as its core sporting goods business delivered continued comparable sales growth and its acquired Foot Locker operations showed signs of improvement.\nFor the quarter ended October 31, 2026, consolidated net income increased 114% to $161 million from $75 million in the prior-year period. Diluted earnings per share increased 117% to $1.87 from $0.86.\nOn an adjusted basis, however, net income declined 7% to $168 million, while diluted earnings per share decreased 6% to $1.94 from $2.07 a year earlier.\nConsolidated operating margin increased to 4.7% from 2.2%, while adjusted operating margin declined to 4.9% from 5.8%.\nThe year-over-year sales comparison reflects a full quarter of Foot Locker operations, compared with approximately eight weeks in the prior-year period following the September 2025 acquisition.\nThe DICK’S Business generated third-quarter net sales of $3.34 billion, compared with $3.24 billion a year earlier. Comparable sales increased 2.6%, supported by a strong back-to-school shopping season, while segment operating income reached $290.6 million.\nThe Foot Locker Business generated $1.80 billion in quarterly net sales and recorded an operating loss of $40.9 million. Pro forma comparable sales increased 0.5%, compared with a decline of 4.7% in the prior-year quarter.\nFoot Locker’s North American comparable sales increased 1.3%, while international comparable sales declined 1.8%. Comparable sales at the U.S. Foot Locker banner increased more than 4%.\n“Our third quarter performance was driven by another strong quarter in the DICK’S Business, which continues to benefit from the breadth and flexibility of our portfolio,” said Ed Stack , Executive Chairman of DICK’S Sporting Goods. “We’re gaining market share, and we’re very confident in our competitive position.”\nThe company continued investing in its experiential retail concepts, opening six House of Sport locations and three DICK’S Field House locations during the quarter. The expansion brought its nationwide footprint to 47 House of Sport and 55 Field House locations.\nGameChanger, the company’s digital youth sports platform, marked its tenth anniversary as part of DICK’S, with full-year fiscal 2026 revenue expected to approach $200 million.\n“We’re continuing to invest behind our long-term growth opportunities,” said Lauren Hobart , President and Chief Executive Officer of DICK’S Sporting Goods. “House of Sport has delivered strong sales, profitability and returns, while GameChanger continues to scale and deepen our relationship with millions of youth athletes and families.”\nDICK’S repurchased 6.7 million shares of common stock for $903 million during the third quarter, bringing year-to-date share repurchases to approximately $1.04 billion. The company had $2.12 billion remaining under its existing share repurchase authorization at quarter-end.\nThe board also declared a quarterly cash dividend of $1.25 per share, payable December 24, 2026, to shareholders of record on December 11, 2026.\nFor the first nine months of fiscal 2026, consolidated net sales increased 44.6% to $15.88 billion, while net income increased 10% to $796 million. Adjusted "
+    }
+   ]
+  },
+  {
+   "group_key": "0fff9071c069",
+   "company_guess": "AI",
+   "amount_hint_usd": 1600000000,
+   "articles": [
+    {
+     "id": "0fff9071c069",
+     "group_key": "0fff9071c069",
+     "title": "AI Funding Boom: Mumbai Overtakes Bengaluru as Indian AI Startups Raise $1.6 Billion in 2026",
+     "publisher": "theopenpress.in",
+     "url": "https://theopenpress.in/article/ai-funding-boom-mumbai-bengaluru-16-billion-tracxn-2026",
+     "published_at": "2026-11-24T14:22:00.000Z",
+     "amount_hint": "$1.6 Billion",
+     "snippet": "AI Funding Boom: Mumbai Overtakes Bengaluru as Indian AI Startups Raise $1.6 Billion in 2026 theopenpress.in",
+     "text_status": "ok",
+     "text": "Home &rsaquo;\nBusiness\nBusiness\nAI Funding Boom: Mumbai Overtakes Bengaluru as Indian AI Startups Raise $1.6 Billion in 2026\nIndia's artificial intelligence startup ecosystem is seeing a big jump in investor interest, with funding nearly doubling in the first nine months of 2026. But the money is not flowing evenly across …\nPublished By :\nBusiness Desk , The Open Press\nLast Updated: November 24, 2026, 19:52 IST\nArtificial intelligence themed illustration. Indian AI companies raised $1.6 billion in equity funding between January and September 2026, nearly double the amount raised a year earlier.\nIndia's artificial intelligence startup ecosystem is seeing a big jump in investor interest, with funding nearly doubling in the first nine months of 2026. But the money is not flowing evenly across the country, and a handful of cities are attracting most of the investments.\nIndian AI companies raised $1.6 billion in equity funding between January and September 2026, a 96 percent increase from the $822 million raised during the same period last year. The latest figures also mark a 162 percent jump from the $616 million raised in the corresponding period of 2024, according to Tracxn's India AI 9M 2026 Report.\nMumbai emerged as the country's biggest AI funding hub, followed by Bengaluru and Chennai. Together, the three cities accounted for around 96 percent of all AI investments raised in India during the period.\nMumbai takes the lead\nMumbai has emerged as the biggest destination for AI investments, overtaking Bengaluru in the first nine months of 2026.\nAI companies based in Mumbai raised $765 million during the period, accounting for 48 percent of the total funding raised in the country. This is a sharp increase from the $15.7 million raised in the same period last year, when the city accounted for just 2 percent of India's AI funding.\nA couple of large deals played a major role in this jump. Mumbai-based AI cloud provider Neysa raised $600 million in a Series B round in February, making it the largest AI funding deal in the country during the period. The round alone accounted for around 37 percent of India's total AI funding. Another major deal came from Yotta, which raised $150 million in a Series D round in July.\nBengaluru second, Chennai third\nBengaluru, long known as India's startup capital, secured the second position with $711 million in AI funding. The city accounted for 44 percent of the total investments, down from 54 percent in the first nine months of 2025.\nSeveral large deals contributed to Bengaluru's funding numbers. Generative AI startup Sarvam raised $255 million in a Series B round in June and another $90.4 million in August. Emergent was among the other prominent companies that attracted investor interest.\nChennai took the third spot, with AI companies raising $75.5 million, accounting for around 5 percent of the country's total funding. Most of this came from Freehand, which raised $75 million in a Series B round.\nBigger cheques, fewer deals\nWhile the total amount raised by Indian AI companies has increased sharply, the number of funding rounds has moved in the opposite direction.\nThe sector recorded 87 funding rounds in the first nine months of 2026, down 42 percent from 149 in the same period last year. At the same time, the average deal size increased to $18.5 million from $5.5 million. This suggests that investors are putting larger amounts of money into fewer companies rather than spreading their investments across a wider"
+    }
+   ]
+  },
+  {
+   "group_key": "south east asia payment firms",
+   "company_guess": "South-East Asia Payment Firms",
+   "amount_hint_usd": 1600000000,
+   "articles": [
+    {
+     "id": "043060e18eeb",
+     "group_key": "south east asia payment firms",
+     "title": "South-East Asia Payment Firms Raise US$1.6 Billion",
+     "publisher": "Retail News Asia",
+     "url": "https://retailnews.asia/south-east-asia-payment-firms-raise-us1-6-billion",
+     "published_at": "2026-11-24T06:50:46.000Z",
+     "amount_hint": "US$1.6 Billion",
+     "snippet": "South-East Asia Payment Firms Raise US$1.6 Billion Retail News Asia",
+     "text_status": "ok",
+     "text": "Share\nStartups\nSouth-East Asia Payment Firms Raise US$1.6 Billion\nBy Minjun Park\n2 min read Updated Nov 24, 2026 Publication date: Nov 24, 2026 4:49 AM\nShare | Save\naa97d584861474f4097cf13ccb5325da Mobile Payments Plastic is so Passé\nIn this article ( 9 )\nIn this article\nMega-rounds skew early-stage totals\nDeal volumes fall across the region\nSingapore captures the bulk of capital\nTrade sales dominate liquidity events\nQuestions & Answers\nWhich deals drove the surge in South-east Asian payment funding?\nWhy did early-stage funding figures increase so dramatically?\nHow is payment sector investment distributed geographically across the region?\nWhat does the typical exit path look like for payment firms in the region?\nWhy it matters\nSouth-east Asian payment firms secured US$1.6 billion by mid-November 2026, driven almost entirely by mega-rounds for Ant International and Airwallex.\nCapital concentration in Singapore starves early-stage regional fintechs, with deal counts collapsing to 10 and seed transactions tumbling from nine to one.\nTrack whether local champions like Xendit and MoMo can unlock liquidity, given trade sales average an extended 19.5 years to reach US$80.9 million.\nRetail News Asia newsroom analysis\nSouth-east Asia’s payment companies raised US$1.6 billion in equity funding between Jan 1 and Nov 17, 2026. That total more than doubles the US$733 million secured across the entire twelve months of 2025.\nThe capital injection represents the highest annual funding level for the sector since 2022. It extends a three-year recovery from 2023, when sector investment hit a trough of US$270 million. Capital flow, however, concentrated heavily into a tiny cluster of mega-transactions rather than a broad market expansion.\nMega-rounds skew early-stage totals\nTwo transactions accounted for the vast majority of the capital raised across the region this year. Ant International secured US$1.2 billion in a Series A round in July, while cross-border payments provider Airwallex closed a US$320 million Series H round in June.\nRead also\nStartups news and analysis\nMore on acquisitions\nAdvertisement Advertise with us Mobile 320×100\nBecause Ant International structured its transaction as a Series A round, early-stage capital metrics surged to US$1.3 billion for the year. Late-stage funding reached just US$320 million through mid-November. The breakdown reverses the distribution recorded in 2025, when late-stage financing rounds comprised US$662 million of the US$733 million raised.\nDeal volumes fall across the region\nUnderlying deal activity contracted sharply despite the top-line dollar expansion. Investors completed only 10 equity deals across South-east Asia through Nov 17, 2026.\nEarly-stage venture creation experienced the steepest drop. Seed rounds fell from nine completed transactions in 2025 to a single deal in 2026. The compression leaves early-stage fintech founders facing a substantially narrower base of active institutional checks than in prior fundraising cycles.\nSingapore captures the bulk of capital\nGeographic allocation remains skewed toward Singapore, which drew approximately 71.1 per cent of all payment sector funding in South-east Asia. The city-state has payment unicorns Airwallex, Coda, and cross-border infrastructure network Thunes.\nThunes represents the most recent addition to the regional unicorn roster, having crossed the US$1 billion valuation mark in April 2025. Other markets maintain discrete domestic champions: Thailand house"
+    }
+   ]
+  },
+  {
+   "group_key": "top tech news nano",
+   "company_guess": "Top Tech News: Nano",
+   "amount_hint_usd": 1000000000,
+   "articles": [
+    {
+     "id": "bbbfdd67155b",
+     "group_key": "top tech news nano",
+     "title": "Top Tech News: Nano Core Raises USD 1 Billion, Akash Launches GPU Marketplace",
+     "publisher": "Analytics Insight",
+     "url": "https://www.analyticsinsight.net/tech-news/top-tech-news-nano-core-raises-usd-1-billion-akash-launches-gpu-marketplace",
+     "published_at": "2026-11-23T06:36:18.000Z",
+     "amount_hint": "USD 1 Billion",
+     "snippet": "Top Tech News: Nano Core Raises USD 1 Billion, Akash Launches GPU Marketplace Analytics Insight",
+     "text_status": "ok",
+     "text": "About Us\nTeam\nTrending\nContact Us\nAdvertise\nPromote\nUAE Edition\nहिन्‍दी\nBooks\nePaper\nRankings\nInsights\nCryptocurrencies\nGadgets\nStocks\nMagazines\nIndustry\nGeography\nMedia\nNews\nMore\nReviews\nInsights\nCryptocurrencies\nGadgets\nStocks\nMagazines\nIndustry\nGeography\nMedia\nNews\nMore\nReviews\nTech News\nTop Tech News: Nano Core Raises USD 1 Billion, Akash Launches GPU Marketplace\nChinese AI chip startup Nano Core has secured over RMB 1 billion in fresh funding, while Akash has introduced a new marketplace for future GPU computing capacity.\nWritten By:\nAkshita Pidiha\nReviewed By:\nVijay Laxmi\nPublished on :\n23 Nov 2026, 6:36 am\nUpdated on :\n23 Nov 2026, 6:36 am\nCopied\nGood morning, tech fam! Here are some quick technology updates to keep you informed about the latest developments.\nWhat’s New Today: Chinese AI chip startup Nano Core has raised over RMB 1 billion in Series C2 funding, highlighting growing investment in AI chip development.\nFast-Track Insights: Akash has launched a GPU computing marketplace that allows AI companies to secure future computing capacity at fixed prices. The platform supports Nvidia B300, H200 and RTX Pro 6000 Blackwell systems.\nHere’s a quick rundown of today's biggest technology headlines. Let's explore the latest developments in AI chips, tech funding, graduate hiring, artificial intelligence and cryptocurrency.\nAkash Launches Marketplace for Future GPU Computing Capacity\nAkash has launched Akash Forwards, a marketplace where AI firms can reserve their GPU computing power for future months at fixed prices. The service uses daily bidding and US Dollar settlement. It includes Nvidia B300, H200, and RTX Pro 6000 Blackwell. A trial version is due in Q1 2027, while a general public release will happen in Q2 2027.\nRead More\nAlkemi Growth Capital Plans USD 150 Million Third Fund\nHealthcare-focused investment firm Alkemi Growth Capital plans to raise USD 125 million to USD 150 million for its third fund. The fund will invest in healthcare startups and businesses working in medical technology, diagnostics, pharmaceuticals and preventive healthcare. The firm expects to launch the fund between March and June 2027.\nRead More\nSerentica Plans to Hire 1,000 Employees Over Next Year\nRenewable energy company Serentica plans to recruit 1,000 professionals over the next year. The hiring drive will include 500 entry-level employees, offering fresh graduates opportunities to start their careers in the clean energy sector. The company aims to strengthen its workforce and support its growing business operations.\nRead More\nUS Intelligence Chief Warns of More Tech Outages\nThe US intelligence chief has warned that more technology outages could occur as major systems undergo upgrades. The changes may cause temporary disruptions to digital services. The warning highlights the need for better system maintenance and stronger technology infrastructure to prevent service failures and protect essential operations.\nRead More\nFusionist ACE Bridge Loses USD 3.7 Million in Crypto Exploit\nThe Fusionist's ACE bridge is said to have lost USD 3.7 million to a security hack. This comes after a previous loss of USD 2 million as a result of another security hack. These losses pose threats to the security of cryptocurrencies.\nRead More\nJoin our WhatsApp Channel to get the latest news, exclusives and videos on WhatsApp\nTop Tech News Today\nRelated Stories\nBitcoin Falls as NVIDIA Selloff Hits Miners with AI Exposure\nYusuf Islam\n1 hour ago\nBitcoin Falls Below USD 56,000"
+    }
+   ]
+  },
+  {
+   "group_key": "congo mining forum",
+   "company_guess": "Congo mining forum",
+   "amount_hint_usd": 965000000,
+   "articles": [
+    {
+     "id": "4e85a5ac2333",
+     "group_key": "congo mining forum",
+     "title": "Congo mining forum announces $965 million in sector financing",
+     "publisher": "Mining.com",
+     "url": "https://www.mining.com/web/congo-mining-forum-announces-965-million-in-sector-financing/",
+     "published_at": "2026-11-24T20:54:13.000Z",
+     "amount_hint": "$965 million",
+     "snippet": "Congo mining forum announces $965 million in sector financing Mining.com",
+     "text_status": "ok",
+     "text": "Congo mining forum announces $965 million in sector financing\nThe financing will support small and medium-sized enterprises, mining subcontracting and local processing of resources.\nReuters\n&verbar;\nNovember 24, 2026 - 3:51 pm\nCategories:\nExploration\nKinshasa, Democratic Republic of Congo. Stock image.\nThe Democratic Republic of the Congo will receive $965 million in mining-sector investment, organizers announced at the opening of the Makutano Mining Forum in Kinshasa.\nOf that total, $700 million is earmarked for financing in the Congolese mining sector, with financial institutions committing to support the sector and its entire value chain.\nThe remaining $265 million is being provided through the International Finance Corporation (IFC) to support the private sector in the DRC.\nThe financing will support small and medium-sized enterprises, mining subcontracting, local processing of resources and trade finance.\nPresident Felix Tshisekedi used the opening ceremony to reaffirm the DRC’s aim to move beyond extracting resources to creating added value through local processing, saying this would bring “lasting prosperity for the people.”\n(Reporting by Congo newsroom. Editing by Ayen Deng Bior and Mark Potter)\nComments\nPlease sign in to leave a comment.\nSign In\nJoin\nNo comments yet."
+    }
+   ]
+  },
+  {
+   "group_key": "credit acceptance",
+   "company_guess": "Credit Acceptance",
+   "amount_hint_usd": 800000000,
+   "articles": [
+    {
+     "id": "cc21a869f98a",
+     "group_key": "credit acceptance",
+     "title": "Credit Acceptance Announces Completion of $800.0 Million Asset-Backed Financing",
+     "publisher": "The Manila Times",
+     "url": "https://www.manilatimes.net/2026/11/25/tmt-newswire/globenewswire/credit-acceptance-announces-completion-of-8000-million-asset-backed-financing/2477575/amp",
+     "published_at": "2026-11-24T21:13:59.000Z",
+     "amount_hint": "$800.0 Million",
+     "snippet": "Credit Acceptance Announces Completion of $800.0 Million Asset-Backed Financing The Manila Times",
+     "text_status": "ok",
+     "text": "TMT Newswire\n>\nGlobeNewswire\nCredit Acceptance Announces Completion of $800.0 Million Asset-Backed Financing\nby GlobeNewswire\nNov 25, 2026 5:13 am\nSouthfield, Michigan, Nov. 24, 2026 (GLOBE NEWSWIRE) -- Credit Acceptance Corporation (Nasdaq: CACC) (referred to as the \"Company”, \"Credit Acceptance”, \"we”, \"our”, or \"us”) announced today the completion of an $800.0 million asset-backed non-recourse secured financing (the \"Financing”). Pursuant to this transaction, we conveyed loans having a value of approximately $1.0 billion to a wholly owned special purpose entity which will transfer the loans to a trust, which will issue three classes of notes:\nNote Class Amount Average Life Price Interest Rate\nA $ 397,334,000 2.49 years 99.97736% 5.73%\nB $ 158,400,000 3.15 years 99.99401% 6.01%\nC $ 244,266,000 3.65 years 99.99546% 6.27% The Financing will:\nhave an expected average annualized cost of approximately 6.2% including upfront fees and other costs;\nrevolve for 24 months after which it will amortize based upon the cash flows on the conveyed loans; and\nbe used by us to repay higher cost outstanding indebtedness and for general corporate purposes. We will receive 4.0% of the cash flows related to the underlying consumer loans to cover servicing expenses. The remaining 96.0%, less amounts due to dealers for payments of dealer holdback, will be used to pay principal and interest on the notes as well as the ongoing costs of the Financing. The Financing is structured so as not to affect our contractual relationships with dealers and to preserve the dealers’ rights to future payments of dealer holdback.\nFollowing the completion of this financing, Credit Acceptance maintained approximately $1.5 billion in unused and available borrowing capacity on its revolving credit facilities and unrestricted cash. \"Completing our largest securitization to date is an important milestone for our diversified funding strategy,” said Jay Brinkley, Treasurer of Credit Acceptance. \"The transaction reflects continued investor support for our ABS program and demonstrates our ability to access the capital markets at meaningful scale.”\nThe notes have not been and will not be registered under the Securities Act of 1933 and may not be offered or sold in the United States absent registration or an applicable exemption from registration requirements. This news release does not and will not constitute an offer to sell or the solicitation of an offer to buy the notes. This news release is being issued pursuant to and in accordance with Rule 135c under the Securities Act of 1933.\nDescription of Credit Acceptance Corporation\nWe make vehicle ownership possible by providing innovative financing solutions that enable automobile dealers to sell vehicles to consumers regardless of their credit history. Our financing programs are offered through a nationwide network of automobile dealers who benefit from sales of vehicles to consumers who otherwise could not obtain financing; from repeat and referral sales generated by these same customers; and from sales to customers responding to advertisements for our financing programs, but who actually end up qualifying for traditional financing.\nWithout our financing programs, consumers are often unable to purchase vehicles, or they purchase unreliable ones. Further, as we report to the three national credit reporting agencies, an important ancillary benefit of our programs is that we provide consumers with an opportunity to improve their lives by i"
+    }
+   ]
+  },
+  {
+   "group_key": "telangana tech ecosystem",
+   "company_guess": "Telangana tech ecosystem",
+   "amount_hint_usd": 726000000,
+   "articles": [
+    {
+     "id": "1e7764a65f5a",
+     "group_key": "telangana tech ecosystem",
+     "title": "Telangana tech ecosystem raises $726M in equity funding in 9M 2026",
+     "publisher": "Communications Today",
+     "url": "https://www.communicationstoday.co.in/telangana-tech-ecosystem-raises-726m-in-equity-funding-in-9m-2026/",
+     "published_at": "2026-11-24T02:28:18.000Z",
+     "amount_hint": "$726M",
+     "snippet": "Telangana tech ecosystem raises $726M in equity funding in 9M 2026 Communications Today",
+     "text_status": "ok",
+     "text": "Headlines of the Day\nTelangana tech ecosystem raises $726M in equity funding in 9M 2026\nNovember\n24,\n2026\nTelangana’s technology ecosystem attracted $726 million in equity funding during the first nine months of 2026 (9M 2026), marking a 266% increase from $199 million in the corresponding period last year. However, the surge in funding was driven largely by a handful of large transactions, particularly a $423 million Series B round by Hyderabad-based data centre company CtrlS.\nAccording to Tracxn Technologies’ Telangana Tech – 9M 2026 Report, funding during January–September 2026 was also 12% higher than the $647 million raised in the corresponding period of 2024. However, the number of funding rounds declined 30% to 73 from 105 a year ago, indicating a concentration of capital in fewer, larger deals.\nThe average funding round size increased to $9.9 million from $1.9 million in 9M 2025. CtrlS, which raised a total of $451 million through two rounds during the period, accounted for a significant share of the funding inflow.\nCtrlS leads funding surge, top 10 deals account for 91% of capital\nThe 10 largest funding rounds accounted for $664 million, or 91% of Telangana’s total technology funding during 9M 2026.\nCtrlS’s $423 million Series B round in June, backed by CPP Investments, was the largest transaction of the period. The round alone represented 58% of total funding and 80% of the $527 million increase over the year-ago period. The company had also raised $28.2 million in a Series A round in February. Other significant transactions included a $60 million Series C round by space launch company Skyroot Aerospace in May and a $50 million Series B round by Edubuk in March.\nMeanwhile, Series A and later-stage funding rounds declined 18% to 23 from 28. The number of first-time funded companies also fell 31% to 20 from 29.\nEarly-stage funding jumps 334% to $622 million\nEarly-stage investments accounted for the bulk of funding, rising 334% to $622 million from $143 million in 9M 2025. The segment contributed 86% of total funding during the period, although the number of early-stage rounds declined 27% to 19.\nThe CtrlS Series B transaction alone accounted for 68% of early-stage funding. Late-stage funding increased 426% to $78.1 million from $14.8 million, with four rounds compared with two in the year-ago period. However, it remained 84% below the $482 million raised in 9M 2024. In contrast, seed-stage funding declined 35% to $26.4 million, accounting for just 4% of the total. The number of seed rounds also fell 35% to 50 from 77.\nInvestor participation weakened during the period. The number of active investors declined 22% to 61 from 78. International investors fell 43% to 13 from 23, while first-time investors dropped 36% to 30 from 47.\nAmong investors, Aum Ventures and V3 Ventures made two seed-stage investments each. Prosus led early-stage investors with two investments in Equal and Deccan AI.\nEnterprise infrastructure attracts $454 million\nEnterprise infrastructure emerged as the largest-funded technology segment, attracting $454 million in 9M 2026, nearly 35 times the $13 million raised in the corresponding period last year. The segment accounted for 63% of Telangana’s total technology funding.\nEnterprise applications ranked second, attracting $142 million, up 79% from $79.4 million in 9M 2025. Aerospace, maritime and defence technology companies raised $78.5 million, a 445% increase from $14.4 million a year earlier.\nHyderabad account"
+    }
+   ]
+  },
+  {
+   "group_key": "balfour beatty",
+   "company_guess": "Balfour Beatty",
+   "amount_hint_usd": 600000000,
+   "articles": [
+    {
+     "id": "b92c79e0f522",
+     "group_key": "balfour beatty",
+     "title": "Balfour Beatty raises its 2026 outlook and books about $600 million of US data centre orders",
+     "publisher": "MLQ.ai",
+     "url": "https://mlq.ai/news/balfour-beatty-raises-its-2026-outlook-and-books-about-600-million-of-us-data-centre-orders/",
+     "published_at": "2026-11-24T09:46:27.000Z",
+     "amount_hint": "$600 million",
+     "snippet": "Balfour Beatty raises its 2026 outlook and books about $600 million of US data centre orders MLQ.ai",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  }
+ ]
+}

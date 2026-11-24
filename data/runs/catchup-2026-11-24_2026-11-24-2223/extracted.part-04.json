@@ -1,0 +1,85 @@
+{
+ "run_date": "catchup-2026-11-24_2026-11-24-2223",
+ "extractor": "claude-code routine",
+ "notes": "Noise groups (earnings, contracts, funds, grants, <$15M) skipped. Miami fintech $300M and Leash Bio unresolved/under threshold.",
+ "rows": [
+  {
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Idealist Capital"
+   ],
+   "investors": [
+    "Idealist Capital",
+    "Fusion Fund",
+    "Stormbreaker Ventures",
+    "Thin Line Capital",
+    "NBC",
+    "The Sitka Foundation"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "exclude_reason": null,
+   "confidence": 0.7,
+   "group_key": "sensenet",
+   "candidate_ids": [
+    "fa949a87cdae",
+    "ae2137ee6b3c"
+   ],
+   "company": "SenseNet",
+   "amount_usd": 43000000,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI-enabled cameras and predictive analytics for wildfire detection.",
+   "description": "Wildfire detection using sensors, AI-enabled cameras and predictive analytics.",
+   "evidence": {
+    "amount": "$43 million in Series B financing led by Idealist Capital",
+    "round": "Series B",
+    "lead": "led by Idealist Capital",
+    "investors": "Fusion Fund, Stormbreaker Ventures, Thin Line Capital, NBC, and The Sitka Foundation"
+   },
+   "source_urls": [
+    "https://wisevoter.com/world/us/ca/san-francisco/2026/11/24/sensenet-raises-43-million-series-b-wildfire"
+   ]
+  },
+  {
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "exclude_reason": null,
+   "confidence": 0.5,
+   "group_key": "cardinal",
+   "candidate_ids": [
+    "6c7de8bea612"
+   ],
+   "company": "Cardinal Operations",
+   "amount_usd": 45000000,
+   "round_type": "Series D",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-23",
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Decision AI.",
+   "description": "Chinese decision-AI company.",
+   "evidence": {
+    "amount": "raises $45M Series D",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/china-s-cardinal-operations-raises-45m-series-d-for-decision-ai"
+   ]
+  }
+ ]
+}

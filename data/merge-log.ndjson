@@ -1695,3 +1695,18 @@
 {"run":"2026-11-23-2350","action":"inserted","id":"be6002c42e","company":"Brunswick Exploration","in_view":false,"exclude_reason":"public-company"}
 {"run":"2026-11-23-2350","action":"inserted","id":"e70441df81","company":"Apricity","in_view":true,"exclude_reason":null}
 {"run":"2026-11-23-2350","action":"inserted","id":"fea885691e","company":"Unnamed 16-year-old's AI missile startup","in_view":false,"exclude_reason":"not-funding"}
+{"run":"catchup-2026-11-24_2026-11-24-2223","action":"merged","id":"ff743ed6b5","company":"Sierra","from":"Sierra"}
+{"run":"catchup-2026-11-24_2026-11-24-2223","action":"merged","id":"e0f627f31a","company":"Nano Core","from":"Nano Core"}
+{"run":"catchup-2026-11-24_2026-11-24-2223","action":"merged","id":"b64ab38547","company":"Science Corporation","from":"Science Corporation"}
+{"run":"catchup-2026-11-24_2026-11-24-2223","action":"merged","id":"667e2f152d","company":"Marlowe","from":"Marlowe"}
+{"run":"catchup-2026-11-24_2026-11-24-2223","action":"inserted","id":"25e371e786","company":"Peak Energy","in_view":false,"exclude_reason":"not-ai"}
+{"run":"catchup-2026-11-24_2026-11-24-2223","action":"inserted","id":"4bab7134f4","company":"Axelera AI","in_view":false,"exclude_reason":"not-funding"}
+{"run":"catchup-2026-11-24_2026-11-24-2223","action":"inserted","id":"2ccce0da3b","company":"Avicena","in_view":true,"exclude_reason":null}
+{"run":"catchup-2026-11-24_2026-11-24-2223","action":"merged","id":"5e69c9731b","company":"Simplexity Robotics","from":"Simplexity Robotics"}
+{"run":"catchup-2026-11-24_2026-11-24-2223","action":"inserted","id":"352f69d74a","company":"Harbinger","in_view":false,"exclude_reason":"not-ai"}
+{"run":"catchup-2026-11-24_2026-11-24-2223","action":"inserted","id":"84c36bfa11","company":"Trustly","in_view":false,"exclude_reason":"non-us"}
+{"run":"catchup-2026-11-24_2026-11-24-2223","action":"inserted","id":"9632bced10","company":"Zipher","in_view":false,"exclude_reason":"non-us"}
+{"run":"catchup-2026-11-24_2026-11-24-2223","action":"inserted","id":"3b43235a74","company":"SenseNet","in_view":true,"exclude_reason":null}
+{"run":"catchup-2026-11-24_2026-11-24-2223","action":"inserted","id":"a89fc610cc","company":"Cardinal Operations","in_view":false,"exclude_reason":"non-us"}
+{"run":"catchup-2026-11-24_2026-11-24-2223","action":"amount-conflict","id":"8fe4349209","company":"AidenAI","stored_amount":32000000,"incoming_amount":32000000,"incoming_sources":["https://m.economictimes.com/tech/startups/ex-infosys-veterans-enterprise-ai-startup-aiden-raises-32-million-from-a91-partners/articleshow/136110343.cms"]}
+{"run":"catchup-2026-11-24_2026-11-24-2223","action":"merged","id":"8fe4349209","company":"AidenAI","from":"Aiden AI"}

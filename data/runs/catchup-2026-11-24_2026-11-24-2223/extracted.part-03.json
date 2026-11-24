@@ -1,0 +1,203 @@
+{
+ "run_date": "catchup-2026-11-24_2026-11-24-2223",
+ "extractor": "claude-code routine",
+ "notes": "Noise groups (earnings, contracts, funds, grants, <$15M) skipped. Miami fintech $300M and Leash Bio unresolved/under threshold.",
+ "rows": [
+  {
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "InterVest"
+   ],
+   "investors": [
+    "InterVest",
+    "Tiger Global",
+    "Cerberus Capital Management",
+    "SK hynix Ventures",
+    "Samsung Catalyst Fund",
+    "AMD Ventures",
+    "Prosperity7 Ventures",
+    "Diamond Edge Ventures",
+    "Hitachi Ventures"
+   ],
+   "hq_city": "Sunnyvale",
+   "hq_state": "CA",
+   "exclude_reason": null,
+   "confidence": 0.8,
+   "group_key": "avicena",
+   "candidate_ids": [
+    "0554488e8c33",
+    "d8cf942263c6",
+    "14b37a50a9a7"
+   ],
+   "company": "Avicena",
+   "amount_usd": 100000000,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Optical interconnects for AI infrastructure.",
+   "description": "Sunnyvale startup linking AI chips with microLED optical interconnects.",
+   "evidence": {
+    "amount": "raised more than $100M in Series C funding",
+    "round": "Series C",
+    "lead": "InterVest led the round",
+    "investors": "Tiger Global, Cerberus Capital Management, SK hynix Ventures, Samsung Catalyst Fund and AMD Ventures"
+   },
+   "source_urls": [
+    "https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai"
+   ]
+  },
+  {
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "exclude_reason": null,
+   "confidence": 0.5,
+   "group_key": "simplexity",
+   "candidate_ids": [
+    "97c2b7775768"
+   ],
+   "company": "Simplexity Robotics",
+   "amount_usd": 100000000,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-24",
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Humanoid robotics.",
+   "description": "Chinese humanoid robot maker.",
+   "evidence": {
+    "amount": "Simplexity Robotics raised $100 million at a $1.6 billion valuation",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://theaiinsider.tech/2026/11/24/china-physical-ai-roundup-simplexity-robotics-raises-100m-pre-a-plus-x-square-model-oymotion-and-agibot-deployment/"
+   ]
+  },
+  {
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [
+    "Erebor Bank",
+    "Pinegrove Venture Partners"
+   ],
+   "hq_city": "Garden Grove",
+   "hq_state": "CA",
+   "exclude_reason": null,
+   "confidence": 0.8,
+   "group_key": "harbinger",
+   "candidate_ids": [
+    "42a22400697f"
+   ],
+   "company": "Harbinger",
+   "amount_usd": 100000000,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-24",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Electric vehicle maker; debt financing.",
+   "description": "Industrial technology company building electric medium-duty vehicles.",
+   "evidence": {
+    "amount": "financing agreements totaling more than $100 million",
+    "round": null,
+    "lead": null,
+    "investors": "Erebor Bank , co-founded by Palmer Luckey , and Pinegrove Venture Partners"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/harbinger-secures-more-than-100-million-in-debt-financing-from-erebor-bank-and-pinegrove-venture-partners-to-support-production-ramp-and-future-growth-302948754.html"
+   ]
+  },
+  {
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "exclude_reason": null,
+   "confidence": 0.3,
+   "group_key": "trustly",
+   "candidate_ids": [
+    "4733f726d30a"
+   ],
+   "company": "Trustly",
+   "amount_usd": 60000000,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-24",
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Payments firm; only headline available.",
+   "description": "Bank payments company.",
+   "evidence": {
+    "amount": "Trustly Raises $60 Million in Equity",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://ventureburn.com/trustly-raises-60-million-equity-ai-product-development/"
+   ]
+  },
+  {
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [
+    "TLV Partners",
+    "Maor Investments",
+    "Glilot Capital"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "exclude_reason": null,
+   "confidence": 0.5,
+   "group_key": "zipher",
+   "candidate_ids": [
+    "333788bea7dd",
+    "5ad9bd1fa17b",
+    "6f6536ae1073",
+    "7a8bc6640bc4",
+    "8a29bee4cb4a"
+   ],
+   "company": "Zipher",
+   "amount_usd": 53000000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "IL",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI agents automating data workloads.",
+   "description": "Automates enterprise cloud data workload execution; $53M across seed and Series A (Series A $45M per CTech).",
+   "evidence": {
+    "amount": "raised $53 million across its seed and Series A rounds",
+    "round": "Series A",
+    "lead": null,
+    "investors": "TLV Partners , Maor Investments and Glilot Capital"
+   },
+   "source_urls": [
+    "https://www.unite.ai/zipher-raises-53-million-to-automate-enterprise-data-infrastructure/",
+    "https://www.calcalistech.com/ctechnews/article/bkreuwq1xg"
+   ]
+  }
+ ]
+}

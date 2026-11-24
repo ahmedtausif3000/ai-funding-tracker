@@ -1,0 +1,85 @@
+{
+ "run_date": "catchup-2026-11-24_2026-11-24-2223",
+ "extractor": "claude-code routine",
+ "notes": "Noise groups (earnings, contracts, funds, grants, <$15M) skipped. Miami fintech $300M and Leash Bio unresolved/under threshold.",
+ "rows": [
+  {
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": "sierra.ai",
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Greenoaks",
+    "Lightspeed"
+   ],
+   "investors": [
+    "Greenoaks",
+    "Lightspeed",
+    "Benchmark",
+    "Sequoia",
+    "GV",
+    "Tiger Global"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "exclude_reason": null,
+   "confidence": 0.75,
+   "group_key": "sierra",
+   "candidate_ids": [
+    "4f1f265a3bb9"
+   ],
+   "company": "Sierra",
+   "amount_usd": 1750000000,
+   "round_type": "Series F",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-23",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI customer service agents.",
+   "description": "AI customer service agent platform co-founded by Bret Taylor and Clay Bavor, billing per resolved outcome.",
+   "evidence": {
+    "amount": "raising $1.75 billion at a $30 billion valuation",
+    "round": null,
+    "lead": "Greenoaks and Lightspeed are leading the round",
+    "investors": "Benchmark, Sequoia, GV and Tiger Global are investing more"
+   },
+   "source_urls": [
+    "https://www.techtimes.com/articles/331379/20261124/ai-customer-service-startup-sierra-raising-30b-valuation-75-times-revenue-billing-per-outcome.htm"
+   ]
+  },
+  {
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": "RMB 1B converted at ~0.14",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "exclude_reason": null,
+   "confidence": 0.5,
+   "group_key": "nano-core",
+   "candidate_ids": [
+    "bbbfdd67155b"
+   ],
+   "company": "Nano Core",
+   "amount_usd": 140000000,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-23",
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI chip developer.",
+   "description": "Chinese AI chip startup.",
+   "evidence": {
+    "amount": "over RMB 1 billion in Series C2 funding",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.analyticsinsight.net/tech-news/top-tech-news-nano-core-raises-usd-1-billion-akash-launches-gpu-marketplace"
+   ]
+  }
+ ]
+}

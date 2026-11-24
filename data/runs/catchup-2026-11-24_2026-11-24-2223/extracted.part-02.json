@@ -1,0 +1,175 @@
+{
+ "run_date": "catchup-2026-11-24_2026-11-24-2223",
+ "extractor": "claude-code routine",
+ "notes": "Noise groups (earnings, contracts, funds, grants, <$15M) skipped. Miami fintech $300M and Leash Bio unresolved/under threshold.",
+ "rows": [
+  {
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [
+    "Khosla Ventures",
+    "Ackman Oxman Institute",
+    "Tenet Healthcare",
+    "885 Capital"
+   ],
+   "hq_city": "Alameda",
+   "hq_state": "CA",
+   "exclude_reason": null,
+   "confidence": 0.7,
+   "group_key": "science-corp",
+   "candidate_ids": [
+    "33013ed06552"
+   ],
+   "company": "Science Corporation",
+   "amount_usd": 400000000,
+   "round_type": "Series D",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Brain-computer interface and retinal implant medtech; no AI claim in text.",
+   "description": "Brain-computer interface company developing the PRIMA retinal implant.",
+   "evidence": {
+    "amount": "raised $400 million in a Series D round",
+    "round": "Series D",
+    "lead": null,
+    "investors": "Khosla Ventures, Ackman Oxman Institute, Tenet Healthcare, 885 Capital"
+   },
+   "source_urls": [
+    "https://www.citybiz.co/article/937913/former-neuralink-co-founder-max-hodaks-science-corp-raises-400m-series-d/"
+   ]
+  },
+  {
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Accel"
+   ],
+   "investors": [
+    "Accel",
+    "Bessemer",
+    "Altimeter",
+    "Atreides",
+    "Eclipse",
+    "Journey",
+    "Valor",
+    "Emergence Capital",
+    "Pitango",
+    "Neo"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "exclude_reason": null,
+   "confidence": 0.7,
+   "group_key": "marlowe",
+   "candidate_ids": [
+    "44707dc93c22",
+    "cb8aa3e916bd"
+   ],
+   "company": "Marlowe",
+   "amount_usd": 277000000,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-24",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI inference infrastructure.",
+   "description": "AI infrastructure startup building multi-silicon inference data centers on non-Nvidia chips.",
+   "evidence": {
+    "amount": "raised a $277 million seed round led by Accel",
+    "round": "seed round",
+    "lead": "led by Accel",
+    "investors": "Accel, Bessemer, Altimeter, Atreides, Eclipse, Journey, Valor, Emergence Capital, Pitango and Neo"
+   },
+   "source_urls": [
+    "https://hedgeco.net/news/11/2026/accel-leads-a-277-million-seed-round-for-marlowe-valuing-the-non-nvidia-ai-inference-startup-at-1-15-billion.html"
+   ]
+  },
+  {
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": "peakenergy.com",
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "General Motors Ventures"
+   ],
+   "investors": [
+    "General Motors Ventures",
+    "Maverick Silicon",
+    "Infinite Capital",
+    "Eclipse",
+    "Xora Innovation",
+    "LG Technology Ventures",
+    "HSBC"
+   ],
+   "hq_city": "Burlingame",
+   "hq_state": "CA",
+   "exclude_reason": null,
+   "confidence": 0.8,
+   "group_key": "peak-energy",
+   "candidate_ids": [
+    "66108eab6133",
+    "62619aa865cd"
+   ],
+   "company": "Peak Energy",
+   "amount_usd": 157000000,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Sodium-ion energy storage; no AI claim.",
+   "description": "Developer of passively cooled sodium-ion grid energy storage systems.",
+   "evidence": {
+    "amount": "expanded its Series B financing to $157 million",
+    "round": "Series B",
+    "lead": "led by General Motors Ventures",
+    "investors": "Maverick Silicon, Infinite Capital, Eclipse, Xora Innovation and LG Technology Ventures"
+   },
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/peak-energy-expands-series-b-total-financing-to-157-million-to-accelerate-manufacturing-amid-growing-customer-backlog-302949087.html"
+   ]
+  },
+  {
+   "run_date": "catchup-2026-11-24_2026-11-24-2223",
+   "website": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "exclude_reason": "not-funding",
+   "confidence": 0.4,
+   "group_key": "axelera",
+   "candidate_ids": [
+    "bf1a491a00a6",
+    "e94ac9979c30",
+    "2021d4509930"
+   ],
+   "company": "Axelera AI",
+   "amount_usd": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-24",
+   "hq_country": "NL",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI chipmaker.",
+   "description": "Dutch AI semiconductor startup reportedly in talks to raise more.",
+   "evidence": {
+    "amount": "in talks to raise an additional $400 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://techfundingnews.com/dutch-ai-chipmaker-axelera-in-talks-to-raise-400m-and-eu-subsidies-to-take-on-nvidia/"
+   ]
+  }
+ ]
+}
