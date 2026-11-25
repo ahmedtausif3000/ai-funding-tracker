@@ -1710,3 +1710,23 @@
 {"run":"catchup-2026-11-24_2026-11-24-2223","action":"inserted","id":"a89fc610cc","company":"Cardinal Operations","in_view":false,"exclude_reason":"non-us"}
 {"run":"catchup-2026-11-24_2026-11-24-2223","action":"amount-conflict","id":"8fe4349209","company":"AidenAI","stored_amount":32000000,"incoming_amount":32000000,"incoming_sources":["https://m.economictimes.com/tech/startups/ex-infosys-veterans-enterprise-ai-startup-aiden-raises-32-million-from-a91-partners/articleshow/136110343.cms"]}
 {"run":"catchup-2026-11-24_2026-11-24-2223","action":"merged","id":"8fe4349209","company":"AidenAI","from":"Aiden AI"}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"merged","id":"3881eed54e","company":"DeepSeek","from":"DeepSeek"}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"inserted","id":"3e3a9368ab","company":"Ritzey Therapeutics","in_view":false,"exclude_reason":"non-us"}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"inserted","id":"911db33616","company":"Pliant","in_view":false,"exclude_reason":"not-funding"}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"merged","id":"5e69c9731b","company":"Simplexity Robotics","from":"Simplexity Robotics"}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"inserted","id":"d97af7441e","company":"Epochal","in_view":false,"exclude_reason":"non-us"}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"inserted","id":"74992ae383","company":"UK defence autonomy SME (unnamed)","in_view":false,"exclude_reason":"non-us"}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"inserted","id":"fb77cfe48b","company":"Bound","in_view":false,"exclude_reason":"non-us"}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"amount-conflict","id":"d3b63e627c","company":"Myriota","stored_amount":60000000,"incoming_amount":40000000,"incoming_sources":["https://telconews.com.au/story/myriota-secures-usd-40-million-in-series-c-funding"]}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"merged","id":"d3b63e627c","company":"Myriota","from":"Myriota"}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"inserted","id":"b7ee29ec60","company":"Capable","in_view":true,"exclude_reason":null}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"inserted","id":"d25d8806fb","company":"Lute","in_view":false,"exclude_reason":"non-us"}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"inserted","id":"541436ab94","company":"Youji Technology","in_view":false,"exclude_reason":"non-us"}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"inserted","id":"68a48e6fb8","company":"Atom","in_view":false,"exclude_reason":"non-us"}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"inserted","id":"0a5ce96974","company":"Sooner","in_view":false,"exclude_reason":"non-us"}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"inserted","id":"ee20192b48","company":"Every","in_view":true,"exclude_reason":null}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"inserted","id":"35e3343dbb","company":"Octopus Power","in_view":false,"exclude_reason":"non-us"}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"inserted","id":"d1b19166e9","company":"Jiutian Chuangzhi","in_view":false,"exclude_reason":"non-us"}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"inserted","id":"9e8f43607a","company":"MetaLenX","in_view":false,"exclude_reason":"non-us"}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"inserted","id":"e503b7fadb","company":"AtomCore Light","in_view":false,"exclude_reason":"non-us"}
+{"run":"catchup-2026-11-25_2026-11-25-2138","action":"merged","id":"8fe4349209","company":"AidenAI","from":"AidenAI"}

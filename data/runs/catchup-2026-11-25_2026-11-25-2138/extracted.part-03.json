@@ -1,0 +1,229 @@
+{
+ "run_date": "catchup-2026-11-25_2026-11-25-2138",
+ "extractor": "claude-code routine",
+ "notes": "Most groups were non-funding noise (contracts, debt, M&A) and were omitted. Dealroom/blocked sources used title only.",
+ "rows": [
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Ant Group"
+   ],
+   "investors": [
+    "Ant Group",
+    "Tencent Holdings",
+    "HSG",
+    "Lanchi Ventures"
+   ],
+   "hq_city": "Hangzhou",
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "ant group leads 100m",
+   "candidate_ids": [
+    "d4b1603d0103"
+   ],
+   "company": "Simplexity Robotics",
+   "amount_usd": 100000000,
+   "round_type": "Other",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "CN",
+   "ai_ml_rationale": "Embodied intelligence robotics.",
+   "description": "Chinese embodied intelligence robotics startup.",
+   "evidence": {
+    "amount": "$100-million pre-Series A funding round",
+    "round": "pre-Series A",
+    "lead": "led by Jack Ma-backed Ant Group",
+    "investors": "Existing backers Tencent Holdings, HSG and Lanchi Ventures participated"
+   },
+   "source_urls": [
+    "https://www.dealstreetasia.com/stories/ant-group-simplexity-robotics-502130"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.5,
+   "exclude_reason": null,
+   "group_key": "epochal",
+   "candidate_ids": [
+    "46bd840ef7ca"
+   ],
+   "company": "Epochal",
+   "amount_usd": 100000000,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "AI training tooling for predictive models.",
+   "description": "AI tooling startup by ex-xAI co-founders; Time Portal service for training predictive AI models.",
+   "evidence": {
+    "amount": "launched today with $100 million in funding",
+    "round": "The capital was provided by Chief Executive Officer Guodong Zhang",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.4,
+   "exclude_reason": null,
+   "group_key": "uk defence",
+   "candidate_ids": [
+    "608de6770ee5"
+   ],
+   "company": "UK defence autonomy SME (unnamed)",
+   "amount_usd": 70000000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-25",
+   "hq_country": "GB",
+   "ai_ml_rationale": "Autonomy company.",
+   "description": "UK defence autonomy company; name not in available text.",
+   "evidence": {
+    "amount": "raises USD70m in Series A funding round",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://dsei-gateway.com/en/news/sme/uk-defence-autonomy-sme-raises-usd70m-in-series-a-funding-round/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [
+    "Viola Credit"
+   ],
+   "hq_city": "London",
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "bound",
+   "candidate_ids": [
+    "08fc076082eb",
+    "3154551dc2aa"
+   ],
+   "company": "Bound",
+   "amount_usd": 50000000,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-25",
+   "hq_country": "GB",
+   "ai_ml_rationale": "AI-powered FX risk management.",
+   "description": "London FX risk management platform.",
+   "evidence": {
+    "amount": "$50 million revolving debt facility from Viola Credit",
+    "round": null,
+    "lead": null,
+    "investors": "from Viola Credit"
+   },
+   "source_urls": [
+    "https://pulse2.com/bound-secures-50-million-debt-facility-to-expand-automated-fx-risk-management/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Main Sequence Ventures",
+    "National Reconstruction Fund Corporation"
+   ],
+   "investors": [
+    "Main Sequence Ventures",
+    "National Reconstruction Fund Corporation",
+    "Hostplus",
+    "Funds SA"
+   ],
+   "hq_city": "Adelaide",
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "myriota",
+   "candidate_ids": [
+    "100134e241dd"
+   ],
+   "company": "Myriota",
+   "amount_usd": 40000000,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-25",
+   "hq_country": "AU",
+   "ai_ml_rationale": "Satellite IoT; no AI claim.",
+   "description": "Adelaide-based satellite IoT company.",
+   "evidence": {
+    "amount": "USD $40 million in Series C funding",
+    "round": "Series C",
+    "lead": "led by existing investors Main Sequence Ventures and the National Reconstruction Fund Corporation",
+    "investors": "Hostplus also participated in the round, while Funds SA joined as a new investor"
+   },
+   "source_urls": [
+    "https://telconews.com.au/story/myriota-secures-usd-40-million-in-series-c-funding"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [
+    "Cathay Innovation",
+    "Abstract Ventures",
+    "Fidji Simo",
+    "Joe Betts-LaCroix",
+    "Andrej Karpathy"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "capable",
+   "candidate_ids": [
+    "5381037094d0"
+   ],
+   "company": "Capable",
+   "amount_usd": 38000000,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-10-16",
+   "hq_country": "US",
+   "ai_ml_rationale": "AI-driven peptide drug discovery lab.",
+   "description": "San Francisco biotech using AI and automation to design and test peptide drugs.",
+   "evidence": {
+    "amount": "has raised a $38 million seed round",
+    "round": "seed round",
+    "lead": null,
+    "investors": "Cathay Innovation , Abstract Ventures, Fidji Simo, Joe Betts-LaCroix and Andrej Karpathy"
+   },
+   "source_urls": [
+    "https://en.wowtale.net/2026/11/25/236165/?utm_source=rss&utm_medium=rss&utm_campaign=ai-peptide-drug-lab-capable-raises-38m-seed-to-automate-drug-discovery"
+   ]
+  }
+ ]
+}

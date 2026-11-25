@@ -1,0 +1,701 @@
+{
+ "run_date": "catchup-2026-11-25_2026-11-25-2138",
+ "extractor": "parallel agents",
+ "notes": "[extracted.part-01.json] Most groups were non-funding noise (contracts, debt, M&A) and were omitted. Dealroom/blocked sources used title only.\n[extracted.part-02.json] Most groups were non-funding noise (contracts, debt, M&A) and were omitted. Dealroom/blocked sources used title only.\n[extracted.part-03.json] Most groups were non-funding noise (contracts, debt, M&A) and were omitted. Dealroom/blocked sources used title only.\n[extracted.part-04.json] Most groups were non-funding noise (contracts, debt, M&A) and were omitted. Dealroom/blocked sources used title only.\n[extracted.part-05.json] Most groups were non-funding noise (contracts, debt, M&A) and were omitted. Dealroom/blocked sources used title only.\n[extracted.part-06.json] Most groups were non-funding noise (contracts, debt, M&A) and were omitted. Dealroom/blocked sources used title only.",
+ "rows": [
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": "100 billion yuan ≈ $15B as stated",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Hangzhou",
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "deepseek founder liang wenfengs",
+   "candidate_ids": [
+    "4e11cfae90ab"
+   ],
+   "company": "DeepSeek",
+   "amount_usd": 15000000000,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "CN",
+   "ai_ml_rationale": "Builds AI foundation models.",
+   "description": "Chinese AI model developer.",
+   "evidence": {
+    "amount": "a $15 billion funding round values the Chinese AI company at approximately $86 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://the420.in/deepseek-founder-liang-wenfengs-wealth-hits-55-billion-after-massive-ai-funding-round/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Vida Ventures"
+   ],
+   "investors": [
+    "Vida Ventures",
+    "EcoR1 Capital",
+    "Fidelity Management & Research Company",
+    "Perceptive Advisors",
+    "Montanova",
+    "Alexandria Venture Investments",
+    "FMB Research"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.7,
+   "exclude_reason": null,
+   "group_key": "ritzey therapeutics",
+   "candidate_ids": [
+    "e39627f90486"
+   ],
+   "company": "Ritzey Therapeutics",
+   "amount_usd": 112500000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-25",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Clinical-stage biotech with no AI claim.",
+   "description": "Clinical-stage biotech developing treatments for chronic metabolic and neurological conditions.",
+   "evidence": {
+    "amount": "launched with a $112.5 million Series A",
+    "round": "$112.5 million Series A",
+    "lead": "Vida Ventures led the financing",
+    "investors": "Vida Ventures led the financing, with participation from EcoR1 Capital, Fidelity Management & Research Company, Perceptive Advisors, Montanova, Alexandria Venture Investments and FMB Research"
+   },
+   "source_urls": [
+    "https://pulse2.com/ritzey-therapeutics-debuts-with-112-5-million-and-a-drug-candidate-headed-for-phase-2/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": "EUR 200M, rough 1:1 as stated in hint",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Berlin",
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.6,
+   "exclude_reason": "not-funding",
+   "group_key": "pliant",
+   "candidate_ids": [
+    "8ed115e738d3",
+    "4abedbd370ca"
+   ],
+   "company": "Pliant",
+   "amount_usd": 200000000,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-24",
+   "hq_country": "DE",
+   "ai_ml_rationale": "Payments company; no AI claim in available text.",
+   "description": "Berlin-based B2B payments and card company.",
+   "evidence": {
+    "amount": "Pliant Secures €200 Million Debt Financing",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://ffnews.com/news/pliant-secures-more-than-200-million-in-additional-financing-capacity-to-support-4ca93d78",
+    "https://pulse2.com/pliant-adds-more-than-e200-million-in-debt-capacity-for-its-european-card-business/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Ant Group"
+   ],
+   "investors": [
+    "Ant Group",
+    "Tencent Holdings",
+    "HSG",
+    "Lanchi Ventures"
+   ],
+   "hq_city": "Hangzhou",
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "ant group leads 100m",
+   "candidate_ids": [
+    "d4b1603d0103"
+   ],
+   "company": "Simplexity Robotics",
+   "amount_usd": 100000000,
+   "round_type": "Other",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "CN",
+   "ai_ml_rationale": "Embodied intelligence robotics.",
+   "description": "Chinese embodied intelligence robotics startup.",
+   "evidence": {
+    "amount": "$100-million pre-Series A funding round",
+    "round": "pre-Series A",
+    "lead": "led by Jack Ma-backed Ant Group",
+    "investors": "Existing backers Tencent Holdings, HSG and Lanchi Ventures participated"
+   },
+   "source_urls": [
+    "https://www.dealstreetasia.com/stories/ant-group-simplexity-robotics-502130"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.5,
+   "exclude_reason": null,
+   "group_key": "epochal",
+   "candidate_ids": [
+    "46bd840ef7ca"
+   ],
+   "company": "Epochal",
+   "amount_usd": 100000000,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "AI training tooling for predictive models.",
+   "description": "AI tooling startup by ex-xAI co-founders; Time Portal service for training predictive AI models.",
+   "evidence": {
+    "amount": "launched today with $100 million in funding",
+    "round": "The capital was provided by Chief Executive Officer Guodong Zhang",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.4,
+   "exclude_reason": null,
+   "group_key": "uk defence",
+   "candidate_ids": [
+    "608de6770ee5"
+   ],
+   "company": "UK defence autonomy SME (unnamed)",
+   "amount_usd": 70000000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-25",
+   "hq_country": "GB",
+   "ai_ml_rationale": "Autonomy company.",
+   "description": "UK defence autonomy company; name not in available text.",
+   "evidence": {
+    "amount": "raises USD70m in Series A funding round",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://dsei-gateway.com/en/news/sme/uk-defence-autonomy-sme-raises-usd70m-in-series-a-funding-round/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [
+    "Viola Credit"
+   ],
+   "hq_city": "London",
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "bound",
+   "candidate_ids": [
+    "08fc076082eb",
+    "3154551dc2aa"
+   ],
+   "company": "Bound",
+   "amount_usd": 50000000,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-25",
+   "hq_country": "GB",
+   "ai_ml_rationale": "AI-powered FX risk management.",
+   "description": "London FX risk management platform.",
+   "evidence": {
+    "amount": "$50 million revolving debt facility from Viola Credit",
+    "round": null,
+    "lead": null,
+    "investors": "from Viola Credit"
+   },
+   "source_urls": [
+    "https://pulse2.com/bound-secures-50-million-debt-facility-to-expand-automated-fx-risk-management/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Main Sequence Ventures",
+    "National Reconstruction Fund Corporation"
+   ],
+   "investors": [
+    "Main Sequence Ventures",
+    "National Reconstruction Fund Corporation",
+    "Hostplus",
+    "Funds SA"
+   ],
+   "hq_city": "Adelaide",
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "myriota",
+   "candidate_ids": [
+    "100134e241dd"
+   ],
+   "company": "Myriota",
+   "amount_usd": 40000000,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-25",
+   "hq_country": "AU",
+   "ai_ml_rationale": "Satellite IoT; no AI claim.",
+   "description": "Adelaide-based satellite IoT company.",
+   "evidence": {
+    "amount": "USD $40 million in Series C funding",
+    "round": "Series C",
+    "lead": "led by existing investors Main Sequence Ventures and the National Reconstruction Fund Corporation",
+    "investors": "Hostplus also participated in the round, while Funds SA joined as a new investor"
+   },
+   "source_urls": [
+    "https://telconews.com.au/story/myriota-secures-usd-40-million-in-series-c-funding"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [
+    "Cathay Innovation",
+    "Abstract Ventures",
+    "Fidji Simo",
+    "Joe Betts-LaCroix",
+    "Andrej Karpathy"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "capable",
+   "candidate_ids": [
+    "5381037094d0"
+   ],
+   "company": "Capable",
+   "amount_usd": 38000000,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-10-16",
+   "hq_country": "US",
+   "ai_ml_rationale": "AI-driven peptide drug discovery lab.",
+   "description": "San Francisco biotech using AI and automation to design and test peptide drugs.",
+   "evidence": {
+    "amount": "has raised a $38 million seed round",
+    "round": "seed round",
+    "lead": null,
+    "investors": "Cathay Innovation , Abstract Ventures, Fidji Simo, Joe Betts-LaCroix and Andrej Karpathy"
+   },
+   "source_urls": [
+    "https://en.wowtale.net/2026/11/25/236165/?utm_source=rss&utm_medium=rss&utm_campaign=ai-peptide-drug-lab-capable-raises-38m-seed-to-automate-drug-discovery"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "OTB Ventures",
+    "FORWARD.one"
+   ],
+   "investors": [
+    "OTB Ventures",
+    "FORWARD.one",
+    "Seedcamp",
+    "Credo Ventures",
+    "Naval Ravikant",
+    "Inovo VC",
+    "ff Venture Capital",
+    "Borusan Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "lute",
+   "candidate_ids": [
+    "dae6202dbae4",
+    "2beb0b48f6ed"
+   ],
+   "company": "Lute",
+   "amount_usd": 20000000,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-25",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Touch-based foundation models for robots.",
+   "description": "Robotics startup building touch-focused foundation models and deployment software.",
+   "evidence": {
+    "amount": "combined pre-seed and seed funding to $20 million",
+    "round": "seed round",
+    "lead": "co-led a seed round for robotics startup Lute alongside FORWARD.one",
+    "investors": "Seedcamp, Credo Ventures, Naval Ravikant, Inovo VC, ff Venture Capital and Borusan Ventures"
+   },
+   "source_urls": [
+    "https://www.unite.ai/lute-raises-20m-across-pre-seed-and-seed-to-scale-physical-ai/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.5,
+   "exclude_reason": null,
+   "group_key": "youji",
+   "candidate_ids": [
+    "a4a279102a1c"
+   ],
+   "company": "Youji Technology",
+   "amount_usd": 30000000,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-25",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Embeds AI in machine tools.",
+   "description": "Embeds AI in machine tools.",
+   "evidence": {
+    "amount": "raises $30M Series B",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/youji-technology-raises-30m-series-b-to-embed-ai-in-machine-tools"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "japans atom",
+   "candidate_ids": [
+    "8c926742cec7"
+   ],
+   "company": "Atom",
+   "amount_usd": 28300000,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-24",
+   "hq_country": "JP",
+   "ai_ml_rationale": "Humanoid robots.",
+   "description": "Japanese humanoid robotics startup.",
+   "evidence": {
+    "amount": "4.5 billion yen (about $28.3 million)",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://theaiinsider.tech/2026/11/24/japans-atom-secures-28-3m-in-bank-credit-to-expand-humanoid-robot-production/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Nuwa Capital"
+   ],
+   "investors": [
+    "Nuwa Capital",
+    "500 Global",
+    "Amwal Capital Partners"
+   ],
+   "hq_city": "Dubai",
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "uaes sooner",
+   "candidate_ids": [
+    "b539d30d43d7",
+    "1b83a6936ee4",
+    "c32fa9d698d1"
+   ],
+   "company": "Sooner",
+   "amount_usd": 20000000,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-25",
+   "hq_country": "AE",
+   "ai_ml_rationale": "Home down-payment financing; no AI claim.",
+   "description": "UAE down payment support platform.",
+   "evidence": {
+    "amount": "a $20 million seed round",
+    "round": "seed round",
+    "lead": "Nuwa Capital led $5 million in equity",
+    "investors": "Nuwa Capital led $5 million in equity, with 500 Global and others joining"
+   },
+   "source_urls": [
+    "https://www.arageek.com/en/uaes-sooner-raises-20m-seed-to-help-dubai-renters-buy-homes-with-10-down"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "IA Ventures"
+   ],
+   "investors": [
+    "IA Ventures",
+    "Betaworks",
+    "Nicholas Thompson"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "is_ai_ml": true,
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "every",
+   "candidate_ids": [
+    "c8e9425d0c75"
+   ],
+   "company": "Every",
+   "amount_usd": 17500000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-25",
+   "hq_country": "US",
+   "ai_ml_rationale": "AI-focused media and software company shipping AI products.",
+   "description": "AI-focused media, software and consulting company.",
+   "evidence": {
+    "amount": "raised $17.5 million in Series A funding",
+    "round": "Series A",
+    "lead": "IA Ventures’s Jesse Beyroutey led the round",
+    "investors": "Betaworks and The Atlantic CEO Nicholas Thompson joining"
+   },
+   "source_urls": [
+    "https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.5,
+   "exclude_reason": null,
+   "group_key": "chinas octopus power",
+   "candidate_ids": [
+    "92b7950b86a5"
+   ],
+   "company": "Octopus Power",
+   "amount_usd": 15000000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "CN",
+   "ai_ml_rationale": "No AI claim in available text.",
+   "description": "Chinese startup backed by Midea.",
+   "evidence": {
+    "amount": "raises $15M Series A",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/china-s-octopus-power-raises-15m-series-a-from-midea"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.5,
+   "exclude_reason": null,
+   "group_key": "jiutian chuangzhi",
+   "candidate_ids": [
+    "69144bc87559"
+   ],
+   "company": "Jiutian Chuangzhi",
+   "amount_usd": 15000000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-25",
+   "hq_country": "CN",
+   "ai_ml_rationale": "Outdoor robots.",
+   "description": "Chinese outdoor robot maker.",
+   "evidence": {
+    "amount": "raises $15M Series A",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/jiutian-chuangzhi-raises-15m-series-a-for-outdoor-robots"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.4,
+   "exclude_reason": null,
+   "group_key": "metalenx",
+   "candidate_ids": [
+    "ac3790fabf85"
+   ],
+   "company": "MetaLenX",
+   "amount_usd": 15000000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-25",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Optical computing; no AI claim in available text.",
+   "description": "Optical computing startup.",
+   "evidence": {
+    "amount": "raises $15M Series A",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/metalenx-raises-15m-series-a-to-push-into-optical-computing"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.4,
+   "exclude_reason": null,
+   "group_key": "atomcore light",
+   "candidate_ids": [
+    "957ef306a551"
+   ],
+   "company": "AtomCore Light",
+   "amount_usd": 15000000,
+   "round_type": "Other",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-25",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Quantum computing; no AI claim.",
+   "description": "Distributed quantum computing startup.",
+   "evidence": {
+    "amount": "raises $15M angel round",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/atomcore-light-raises-15m-angel-round-for-distributed-quantum-computing"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "A91 Partners"
+   ],
+   "investors": [
+    "A91 Partners"
+   ],
+   "hq_city": "Princeton",
+   "hq_state": "NJ",
+   "is_ai_ml": true,
+   "confidence": 0.85,
+   "exclude_reason": null,
+   "group_key": "ex infosys execs enterprise",
+   "candidate_ids": [
+    "fe15e7702bbb"
+   ],
+   "company": "AidenAI",
+   "amount_usd": 32000000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-25",
+   "hq_country": "US",
+   "ai_ml_rationale": "Enterprise AI agent builder platform.",
+   "description": "Enterprise AI builder platform for deploying and managing AI agents.",
+   "evidence": {
+    "amount": "raised $32 million in a Series A funding round led by A91 Partners",
+    "round": "Series A",
+    "lead": "led by A91 Partners",
+    "investors": "led by A91 Partners"
+   },
+   "source_urls": [
+    "https://analyticsindiamag.com/ai-news/aidenai-raises-32-million-in-series-a-funding-led-by-a91-partners"
+   ]
+  }
+ ]
+}

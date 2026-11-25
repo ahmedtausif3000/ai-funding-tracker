@@ -1,0 +1,178 @@
+{
+ "run_date": "catchup-2026-11-25_2026-11-25-2138",
+ "extractor": "claude-code routine",
+ "notes": "Most groups were non-funding noise (contracts, debt, M&A) and were omitted. Dealroom/blocked sources used title only.",
+ "rows": [
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "IA Ventures"
+   ],
+   "investors": [
+    "IA Ventures",
+    "Betaworks",
+    "Nicholas Thompson"
+   ],
+   "hq_city": "New York",
+   "hq_state": "NY",
+   "is_ai_ml": true,
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "every",
+   "candidate_ids": [
+    "c8e9425d0c75"
+   ],
+   "company": "Every",
+   "amount_usd": 17500000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-25",
+   "hq_country": "US",
+   "ai_ml_rationale": "AI-focused media and software company shipping AI products.",
+   "description": "AI-focused media, software and consulting company.",
+   "evidence": {
+    "amount": "raised $17.5 million in Series A funding",
+    "round": "Series A",
+    "lead": "IA Ventures’s Jesse Beyroutey led the round",
+    "investors": "Betaworks and The Atlantic CEO Nicholas Thompson joining"
+   },
+   "source_urls": [
+    "https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.5,
+   "exclude_reason": null,
+   "group_key": "chinas octopus power",
+   "candidate_ids": [
+    "92b7950b86a5"
+   ],
+   "company": "Octopus Power",
+   "amount_usd": 15000000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "CN",
+   "ai_ml_rationale": "No AI claim in available text.",
+   "description": "Chinese startup backed by Midea.",
+   "evidence": {
+    "amount": "raises $15M Series A",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/china-s-octopus-power-raises-15m-series-a-from-midea"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.5,
+   "exclude_reason": null,
+   "group_key": "jiutian chuangzhi",
+   "candidate_ids": [
+    "69144bc87559"
+   ],
+   "company": "Jiutian Chuangzhi",
+   "amount_usd": 15000000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-25",
+   "hq_country": "CN",
+   "ai_ml_rationale": "Outdoor robots.",
+   "description": "Chinese outdoor robot maker.",
+   "evidence": {
+    "amount": "raises $15M Series A",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/jiutian-chuangzhi-raises-15m-series-a-for-outdoor-robots"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.4,
+   "exclude_reason": null,
+   "group_key": "metalenx",
+   "candidate_ids": [
+    "ac3790fabf85"
+   ],
+   "company": "MetaLenX",
+   "amount_usd": 15000000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-25",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Optical computing; no AI claim in available text.",
+   "description": "Optical computing startup.",
+   "evidence": {
+    "amount": "raises $15M Series A",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/metalenx-raises-15m-series-a-to-push-into-optical-computing"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.4,
+   "exclude_reason": null,
+   "group_key": "atomcore light",
+   "candidate_ids": [
+    "957ef306a551"
+   ],
+   "company": "AtomCore Light",
+   "amount_usd": 15000000,
+   "round_type": "Other",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-25",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Quantum computing; no AI claim.",
+   "description": "Distributed quantum computing startup.",
+   "evidence": {
+    "amount": "raises $15M angel round",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/atomcore-light-raises-15m-angel-round-for-distributed-quantum-computing"
+   ]
+  }
+ ]
+}

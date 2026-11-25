@@ -1,0 +1,85 @@
+{
+ "run_date": "catchup-2026-11-25_2026-11-25-2138",
+ "extractor": "claude-code routine",
+ "notes": "Most groups were non-funding noise (contracts, debt, M&A) and were omitted. Dealroom/blocked sources used title only.",
+ "rows": [
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Vida Ventures"
+   ],
+   "investors": [
+    "Vida Ventures",
+    "EcoR1 Capital",
+    "Fidelity Management & Research Company",
+    "Perceptive Advisors",
+    "Montanova",
+    "Alexandria Venture Investments",
+    "FMB Research"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.7,
+   "exclude_reason": null,
+   "group_key": "ritzey therapeutics",
+   "candidate_ids": [
+    "e39627f90486"
+   ],
+   "company": "Ritzey Therapeutics",
+   "amount_usd": 112500000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-25",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Clinical-stage biotech with no AI claim.",
+   "description": "Clinical-stage biotech developing treatments for chronic metabolic and neurological conditions.",
+   "evidence": {
+    "amount": "launched with a $112.5 million Series A",
+    "round": "$112.5 million Series A",
+    "lead": "Vida Ventures led the financing",
+    "investors": "Vida Ventures led the financing, with participation from EcoR1 Capital, Fidelity Management & Research Company, Perceptive Advisors, Montanova, Alexandria Venture Investments and FMB Research"
+   },
+   "source_urls": [
+    "https://pulse2.com/ritzey-therapeutics-debuts-with-112-5-million-and-a-drug-candidate-headed-for-phase-2/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": "EUR 200M, rough 1:1 as stated in hint",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Berlin",
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.6,
+   "exclude_reason": "not-funding",
+   "group_key": "pliant",
+   "candidate_ids": [
+    "8ed115e738d3",
+    "4abedbd370ca"
+   ],
+   "company": "Pliant",
+   "amount_usd": 200000000,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-24",
+   "hq_country": "DE",
+   "ai_ml_rationale": "Payments company; no AI claim in available text.",
+   "description": "Berlin-based B2B payments and card company.",
+   "evidence": {
+    "amount": "Pliant Secures €200 Million Debt Financing",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://ffnews.com/news/pliant-secures-more-than-200-million-in-additional-financing-capacity-to-support-4ca93d78",
+    "https://pulse2.com/pliant-adds-more-than-e200-million-in-debt-capacity-for-its-european-card-business/"
+   ]
+  }
+ ]
+}

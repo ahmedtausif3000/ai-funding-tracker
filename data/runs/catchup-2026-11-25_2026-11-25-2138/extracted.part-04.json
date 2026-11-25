@@ -1,0 +1,160 @@
+{
+ "run_date": "catchup-2026-11-25_2026-11-25-2138",
+ "extractor": "claude-code routine",
+ "notes": "Most groups were non-funding noise (contracts, debt, M&A) and were omitted. Dealroom/blocked sources used title only.",
+ "rows": [
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "OTB Ventures",
+    "FORWARD.one"
+   ],
+   "investors": [
+    "OTB Ventures",
+    "FORWARD.one",
+    "Seedcamp",
+    "Credo Ventures",
+    "Naval Ravikant",
+    "Inovo VC",
+    "ff Venture Capital",
+    "Borusan Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "lute",
+   "candidate_ids": [
+    "dae6202dbae4",
+    "2beb0b48f6ed"
+   ],
+   "company": "Lute",
+   "amount_usd": 20000000,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-25",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Touch-based foundation models for robots.",
+   "description": "Robotics startup building touch-focused foundation models and deployment software.",
+   "evidence": {
+    "amount": "combined pre-seed and seed funding to $20 million",
+    "round": "seed round",
+    "lead": "co-led a seed round for robotics startup Lute alongside FORWARD.one",
+    "investors": "Seedcamp, Credo Ventures, Naval Ravikant, Inovo VC, ff Venture Capital and Borusan Ventures"
+   },
+   "source_urls": [
+    "https://www.unite.ai/lute-raises-20m-across-pre-seed-and-seed-to-scale-physical-ai/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.5,
+   "exclude_reason": null,
+   "group_key": "youji",
+   "candidate_ids": [
+    "a4a279102a1c"
+   ],
+   "company": "Youji Technology",
+   "amount_usd": 30000000,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-25",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Embeds AI in machine tools.",
+   "description": "Embeds AI in machine tools.",
+   "evidence": {
+    "amount": "raises $30M Series B",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/youji-technology-raises-30m-series-b-to-embed-ai-in-machine-tools"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "japans atom",
+   "candidate_ids": [
+    "8c926742cec7"
+   ],
+   "company": "Atom",
+   "amount_usd": 28300000,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-24",
+   "hq_country": "JP",
+   "ai_ml_rationale": "Humanoid robots.",
+   "description": "Japanese humanoid robotics startup.",
+   "evidence": {
+    "amount": "4.5 billion yen (about $28.3 million)",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://theaiinsider.tech/2026/11/24/japans-atom-secures-28-3m-in-bank-credit-to-expand-humanoid-robot-production/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Nuwa Capital"
+   ],
+   "investors": [
+    "Nuwa Capital",
+    "500 Global",
+    "Amwal Capital Partners"
+   ],
+   "hq_city": "Dubai",
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "uaes sooner",
+   "candidate_ids": [
+    "b539d30d43d7",
+    "1b83a6936ee4",
+    "c32fa9d698d1"
+   ],
+   "company": "Sooner",
+   "amount_usd": 20000000,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-25",
+   "hq_country": "AE",
+   "ai_ml_rationale": "Home down-payment financing; no AI claim.",
+   "description": "UAE down payment support platform.",
+   "evidence": {
+    "amount": "a $20 million seed round",
+    "round": "seed round",
+    "lead": "Nuwa Capital led $5 million in equity",
+    "investors": "Nuwa Capital led $5 million in equity, with 500 Global and others joining"
+   },
+   "source_urls": [
+    "https://www.arageek.com/en/uaes-sooner-raises-20m-seed-to-help-dubai-renters-buy-homes-with-10-down"
+   ]
+  }
+ ]
+}

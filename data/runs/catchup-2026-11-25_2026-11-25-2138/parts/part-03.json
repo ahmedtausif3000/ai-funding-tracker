@@ -1,0 +1,208 @@
+{
+ "run_date": "catchup-2026-11-25_2026-11-25-2138",
+ "part": 3,
+ "groups": [
+  {
+   "group_key": "ant group leads 100m",
+   "company_guess": "Ant Group leads $100m",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "d4b1603d0103",
+     "group_key": "ant group leads 100m",
+     "title": "Ant Group leads $100m pre-Series A in Simplexity Robotics at $1.6b valuation: Report",
+     "publisher": "DealStreetAsia",
+     "url": "https://www.dealstreetasia.com/stories/ant-group-simplexity-robotics-502130",
+     "published_at": "2026-11-24T12:51:14.000Z",
+     "amount_hint": "$100m",
+     "snippet": "Ant Group leads $100m pre-Series A in Simplexity Robotics at $1.6b valuation: Report DealStreetAsia",
+     "text_status": "ok",
+     "text": "Chinese embodied intelligence startup Simplexity Robotics has closed a $100-million pre-Series A funding round led by Jack Ma-backed Ant Group, driving its post-money valuation to $1.6 billion, Bloomberg reported, quoting chairman and co-founder Wang Kai.\nExisting backers Tencent Holdings, HSG and Lanchi Ventures participated in the round.\nFor Ant Group, the investment expands its growing robotics portfolio of about a dozen companies, including STAR Market-listed Unitree, as well as Astribot, Galaxea, LinkerBot and Zeroth.\nThis new round builds on an aggressive early-stage fundraising pace for the Hangzhou-based startup only founded in July 2025.\nSet up by three former executives from Chinese electric vehicle (EV) maker Li Auto Inc – chairman Wang Kai, CEO & CTO Jia Peng and COO Wang Jiajia – Simplexity achieved a valuation of over $1 billion within 10 months of its inception.\nIn March, the startup announced its unicorn status after raising a combined 2 billion yuan ($300 million) across five funding rounds. Simplexity’s earlier cap table drew investments from Alibaba Group, Legend Capital, Gaorong Ventures, Vision Plus Capital, CAS Star, Lanchi Ventures, and HSG.\nSimplexity differentiates itself through a vertically integrated approach, developing both proprietary hardware and in-house software stacks from native AI world models to the real-world data used to train them. It has R&D teams in Beijing, Shanghai, and Suzhou, employing 116 full-time staff.\nIn early July, the startup delivered the first batch of 100 Simplexity i7 Pro robots, which are wheeled, dual-arm general-purpose embodied robots designed for industrial and logistics workflows.\nAlongside this delivery milestone, Simplexity also commissioned what it claimed to be the world’s first intelligent CNC robot production line for Leaderdrive, one of its main customers and a key supplier to US robot makers Tesla Inc and Figure AI Inc. Its embodied AI robots run round-the-clock production of precision motion-control components.\nOther customers include precision-parts maker Suzhou Dongshan Precision Manufacturing Co. as well as Hangcha.\nThe fresh capital follows the introduction of Simplexity’s second humanoid product dubbed iX, a wheeled service robot designed for commercial and hospitality environments to handle tasks like beverage preparation, item delivery, and guided tours. Its early customers include Korean robotics startup Rlwrld Inc., Tsinghua University, and forklift maker Hangcha Group Co."
+    }
+   ]
+  },
+  {
+   "group_key": "epochal",
+   "company_guess": "Epochal",
+   "amount_hint_usd": 100000000,
+   "articles": [
+    {
+     "id": "46bd840ef7ca",
+     "group_key": "epochal",
+     "title": "Epochal launches with $100M to help developers train predictive AI models",
+     "publisher": "SiliconANGLE",
+     "url": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
+     "published_at": "2026-11-25T01:30:00.000Z",
+     "amount_hint": "$100M",
+     "snippet": "Epochal launches with $100M to help developers train predictive AI models SiliconANGLE",
+     "text_status": "ok",
+     "text": "UPDATED 20:30 EST / NOVEMBER 24 2026\nAI\nEpochal launches with $100M to help developers train predictive AI models\nby Maria Deutscher\nArtificial intelligence tooling startup Epochal AI Inc. launched today with $100 million in funding.\nThe capital was provided by Chief Executive Officer Guodong Zhang, a machine learning researcher who earlier co-founded xAI Corp. He established Epochal earlier this year with two other xAI co-founders, Zihang Dai and Manuel Kroiss. The company’s staff also includes former researchers from Anthropic PBC, OpenAI Group PBC and Google DeepMind.\nEpochal’s first offering is a cloud service called the Epochal Time Portal. According to the company, it enables developers to train AI models that can predict future events. The service does so by providing models with access to historical web data from the past 30 years.\nIf a bank wishes to train an AI that can predict quarterly earnings, it could use the service to fetch financial results from the first three quarters of 2025. It could then ask the AI to estimate fourth-quarter results from the same year.\nAfter the model generates its predictions, developers can compare them against real fourth-quarter earnings to check the model’s accuracy. They can make adjustments if necessary and then repeat the training workflow until the model starts generating accurate forecasts.\nThe Epochal Time Portal features more than 1 trillion historical web pages on launch. Each entry includes a timestamp that indicates when it was created. According to the company, its timestamps make it possible to track how a web page changed over time.\nAI models access the content through a purpose-built search engine. It enables them to specify the time periods from which they wish to retrieve web pages. According to Epochal, its platform provides one-minute granularity for the most frequently updated pages.\nLike consumer search engines, the Epochal Time Portal prioritizes the web pages that are most relevant to each given query. The difference is that it considers web pages’ creation date when evaluating relevance. If a query contains the term “Meta” but asks for pages created before 2021, the year Facebook Inc. rebranded, the Epochal Time Portal will not bring up pages that relate to the social networking giant.\nToday’s frontier models can determine that they’re being trained on historical data rather than up-to-date information. For example, a model might compare the creation date of a web page to the virtual clock of the operating system on which it deployed. Such discrepancies can lower the effectiveness of training runs.\nAccording to Epochal, its service mitigates the issue by deploying AI models in sandboxes synced to their training data. If a company is training a model on we pages from 2025, the Epochal Time Portal will run it on a Linux version from that year. It applies the same precautions to the software tools and programming language versions that models use.\nThe Epochal Time Portal is initially available in a single free tier with low usage limits. Epochal plans to follow up the launch by sharing the results of several AI experiments that its researchers have carried out using the service.\nImage: Unsplash\nA message from John Furrier, co-founder of SiliconANGLE:\nSupport our mission to keep content open and free by engaging with theCUBE community. Join theCUBE’s Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities.\n15M+ viewers of theCUBE"
+    }
+   ]
+  },
+  {
+   "group_key": "mvp robotics",
+   "company_guess": "MVP Robotics",
+   "amount_hint_usd": 90100000,
+   "articles": [
+    {
+     "id": "e64c2c185c57",
+     "group_key": "mvp robotics",
+     "title": "MVP Robotics Receives $90.1 Million Air Force Contract Ceiling Increase",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/mvp-robotics-receives-90-1-million-air-force-contract-ceiling-increase/",
+     "published_at": "2026-11-25T16:53:14.000Z",
+     "amount_hint": "$90.1 Million",
+     "snippet": "MVP Robotics received a $90.1 million firm-fixed-price Air Force contract modification, raising the ceiling on its existing agreement from $4.9 million to $95 million.\nThe post MVP Robotics Receives $90.1 Million Air Force Contract Ceiling Increase appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "MVP Robotics Receives $90.1 Million Air Force Contract Ceiling Increase\nBy Amit Chowdhry\nToday at 11:53 AM\nMVP Robotics Receives $90.1 Million Air Force Contract Ceiling Increase\nMVP Robotics received a $90.1 million firm-fixed-price Air Force contract modification, raising the ceiling on its existing agreement from $4.9 million to $95 million.\nThe modification expands the contract’s maximum value. The increased ceiling is distinct from the amount of funding committed when the Air Force issued the award.\nThe Bradford, Vermont-based company will perform the work in Bradford. Completion is expected by September 24, 2031.\nAir Force Obligates Initial Funding\nThe Air Force obligated $4.335 million in fiscal 2026 research, development, test and evaluation funds at award.\nThat obligation represents approximately 4.6% of the revised $95 million ceiling. The ceiling establishes the maximum contract value, while the obligation identifies funds committed through this action.\nThe award notice described the ceiling increase but did not identify additional deliverables. It also did not provide a breakdown of the work, individual project milestones or a schedule for future funding commitments.\nAFWERX Issues Modification\nThe AFWERX Enterprise Contracting Branch at Wright-Patterson Air Force Base, Ohio, issued the action under modification P00002.\nThe underlying contract is FA2280-26-D-0001. The modification updates that existing agreement rather than establishing a separate contract, with the announced performance period extending through September 2031 and the work remaining in Bradford, Vermont.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "uk defence",
+   "company_guess": "UK defence",
+   "amount_hint_usd": 70000000,
+   "articles": [
+    {
+     "id": "608de6770ee5",
+     "group_key": "uk defence",
+     "title": "UK defence, autonomy SME raises USD70m in Series A funding round",
+     "publisher": "DSEI Gateway",
+     "url": "https://dsei-gateway.com/en/news/sme/uk-defence-autonomy-sme-raises-usd70m-in-series-a-funding-round/",
+     "published_at": "2026-11-25T11:05:17.000Z",
+     "amount_hint": "USD70m",
+     "snippet": "UK defence, autonomy SME raises USD70m in Series A funding round DSEI Gateway",
+     "text_status": "blocked:429",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "applied research associates",
+   "company_guess": "Applied Research Associates",
+   "amount_hint_usd": 65500000,
+   "articles": [
+    {
+     "id": "19424c3d5408",
+     "group_key": "applied research associates",
+     "title": "Applied Research Associates Receives $65.5 Million Air Force Safety Research Contract",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/applied-research-associates-receives-65-5-million-air-force-safety-research-contract/",
+     "published_at": "2026-11-25T17:02:16.000Z",
+     "amount_hint": "$65.5 Million",
+     "snippet": "Applied Research Associates has received a $65.51 million Air Force contract for optical radiation bioeffects and safety research.\nThe post Applied Research Associates Receives $65.5 Million Air Force Safety Research Contract appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Applied Research Associates Receives $65.5 Million Air Force Safety Research Contract\nBy Amit Chowdhry\nToday at 12:02 PM\nApplied Research Associates Receives $65.5 Million Air Force Safety Research Contract\nApplied Research Associates has received a $65.51 million Air Force contract for optical radiation bioeffects and safety research.\nThe award is structured as a cost-plus-fixed-fee contract, providing reimbursement for allowable costs alongside a fixed fee. The research concerns the biological effects of optical radiation and associated safety considerations.\nThe Albuquerque, New Mexico-based company will perform the work at Joint Base San Antonio–Fort Sam Houston in Texas. Completion is expected by December 1, 2029.\nInitial Funding Supports Research And Development\nThe Air Force obligated $1.235 million in fiscal 2027 research, development, test and evaluation funds when it issued the award.\nThat initial obligation represents approximately 1.9% of the announced $65.51 million contract value. The distinction separates funds committed at award from the broader value of the research contract.\nThe provided award details do not specify individual research milestones, experimental methods or a schedule for additional funding obligations.\nAir Force Research Laboratory Oversees Contract\nThe Air Force Research Laboratory at Wright-Patterson Air Force Base, Ohio, is the contracting activity responsible for the award.\nAlthough the contracting office is based in Ohio and Applied Research Associates is headquartered in New Mexico, the designated performance location is in Texas.\nThe contract is identified as FA2384-27-C-B002.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "bound",
+   "company_guess": "Bound",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "08fc076082eb",
+     "group_key": "bound",
+     "title": "Bound Secures $50 Million Debt Facility To Expand Automated FX Risk Management",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/bound-secures-50-million-debt-facility-to-expand-automated-fx-risk-management/",
+     "published_at": "2026-11-25T13:25:37.000Z",
+     "amount_hint": "$50 Million",
+     "snippet": "Bound has secured a three-year, $50 million revolving debt facility from Viola Credit to support its growing foreign exchange trading book and expand services for mid-market businesses.\nThe post Bound Secures $50 Million Debt Facility To Expand Automated FX Risk Management appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Bound Secures $50 Million Debt Facility To Expand Automated FX Risk Management\nBy Amit Chowdhry\nToday at 8:25 AM\nBound Secures $50 Million Debt Facility To Expand Automated FX Risk Management\nBound has secured a three-year, $50 million revolving debt facility from Viola Credit to support its growing foreign exchange trading book and expand services for mid-market businesses.\nThe facility will allow the London-based company to offer larger trading lines and more flexible credit terms as it adds customers. The financing provides debt capital to support trading capacity, separate from Bound’s equity fundraising.\nIn February 2026, Bound announced a $24.5 million Series A led by AlbionVC, with participation from Notion Capital, GoHub Ventures and existing investors.\nSupporting Mid-Market Currency Hedging\nBound serves midsized companies and funds handling approximately $10 million to $100 million in annual foreign exchange transactions. These organizations often rely on finance and treasury teams to manage currency exposure without dedicated FX specialists.\nIts platform automates trade execution and monitors markets for emerging risks that may require hedging. Customers can manage currency exposure, connect accounting software, adjust trades, make payments and access reporting through a self-service platform.\nThe company’s offering combines automated processes with pay-as-you-go pricing and expert support when needed. Bound currently helps more than 200 companies manage currency exposure.\nCredibur, which provides infrastructure for non-bank lenders to manage debt facilities, is also working with Bound in connection with the financing.\nTransaction Volume And Geographic Expansion\nBound processed approximately $1.5 billion in transactions in 2025 and says it is on track to exceed $6 billion in 2026. That would represent more than a fourfold increase in annual transaction volume.\nThe additional credit capacity is intended to support that expansion while improving trading terms available to customers.\nBound has submitted a regulatory application to expand into Europe. It also plans to develop its presence in Asia and North America and continue investing in its product.\nFounded in 2020 by Seth Phillips and Dan Kindler, Bound developed its platform to address manual processes, pricing opacity and limited flexibility in traditional corporate foreign exchange services.\nKEY QUOTES :\n“We’re really excited about this credit line as it fuels our ambitions and gives us the headroom to expand and onboard more customers. Many companies are still relying on outdated, manual, processes that are ill-equipped to handle the current volatility and demands of the FX market. This $50m advances our mission of transforming the way that FX risk is managed by mid-market corporates.”\n“As market volatility and geopolitical instability becomes the norm, FX risk management cannot be left to chance, or spreadsheets. The old ways of booking trades over the phone with a broker, and leaving the positions unmonitored, won’t cut it if businesses want to protect themselves from market movements. Emerging risks need to be continually monitored, in real-time, 24/7.”\nSeth Phillips, Co-Founder And CEO Of Bound\n“This facility bolsters our balance sheet so that we can support a larger trading book, and also offer better trading terms and protection for our customers. Bound has been growing rapidly in recent months and we’re excited to have the additional capital so we can expand further"
+    },
+    {
+     "id": "3154551dc2aa",
+     "group_key": "bound",
+     "title": "London-based Bound secures €45.68 million debt facility for its AI-powered FX risk management platform - EU-Startups",
+     "publisher": "EU-Startups",
+     "url": "https://www.eu-startups.com/2026/11/london-based-bound-secures-e45-68-million-debt-facility-for-its-ai-powered-fx-risk-management-platform/",
+     "published_at": "2026-11-25T06:17:36.000Z",
+     "amount_hint": "€45.68 million",
+     "snippet": "London-based Bound secures €45.68 million debt facility for its AI-powered FX risk management platform EU-Startups",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "london fx startup",
+   "company_guess": "London FX startup",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "ad56833b9418",
+     "group_key": "london fx startup",
+     "title": "London FX startup Bound picks the Netherlands for EU launch after $50M credit line",
+     "publisher": "Sofia Chesnokova",
+     "url": "https://techfundingnews.com/bound-50m-viola-credit-facility-fx-risk-management/",
+     "published_at": "2026-11-25T06:00:00.000Z",
+     "amount_hint": "$50M",
+     "snippet": "Bound, the AI-powered FX risk management platform founded in 2020, has secured a three-year, $50 million revolving debt…",
+     "text_status": "blocked:403",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "r squared",
+   "company_guess": "R-Squared",
+   "amount_hint_usd": 50000000,
+   "articles": [
+    {
+     "id": "bd5cb4d23ad2",
+     "group_key": "r squared",
+     "title": "R-Squared raises $50 million to build a bridge between Israeli startups and Silicon Valley",
+     "publisher": "CTech",
+     "url": "https://www.calcalistech.com/ctechnews/article/sjkqqb4jme",
+     "published_at": "2026-11-25T07:15:00.000Z",
+     "amount_hint": "$50 million",
+     "snippet": "R-Squared raises $50 million to build a bridge between Israeli startups and Silicon Valley CTech",
+     "text_status": "thin",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "myriota",
+   "company_guess": "Myriota",
+   "amount_hint_usd": 40000000,
+   "articles": [
+    {
+     "id": "100134e241dd",
+     "group_key": "myriota",
+     "title": "Myriota secures USD $40 million in Series C funding",
+     "publisher": "TelcoNews Australia",
+     "url": "https://telconews.com.au/story/myriota-secures-usd-40-million-in-series-c-funding",
+     "published_at": "2026-11-25T09:00:00.000Z",
+     "amount_hint": "$40 million",
+     "snippet": "Myriota secures USD $40 million in Series C funding TelcoNews Australia",
+     "text_status": "ok",
+     "text": "Agricultural Technology\nIoT\nIIoT\nMyriota secures USD $40 million in Series C funding\nWed, 25th Nov 2026 (Yesterday)\nKAREN JOY BACUDO\nFinance Editor\nMyriota has secured the first USD $40 million tranche of its Series C funding round, led by existing investors Main Sequence Ventures and the National Reconstruction Fund Corporation.\nThe Adelaide-based satellite internet of things company completed the first close in 100 days, taking total funding to more than USD $107.5 million. Hostplus also participated in the round, while Funds SA joined as a new investor.\nThe funding will support expansion into new industrial sectors and international markets, and help build out Myriota's satellite infrastructure, including development and launch work for a next generation of satellites.\nMyriota operates in industrial internet of things markets where customers need to track and monitor assets in remote areas. Its platform is used in applications including mining equipment, shipping containers, fuel tanks, livestock water supplies and off-grid solar systems.\nIt provides services directly in 57 markets and has teams across 19 locations globally.\nExpansion plans\nOver the past year, Myriota has added two products to its platform: HyperPulse, a 5G non-terrestrial network and terrestrial service, and AssetHawk, a tracker for industrial assets. It has also expanded further into industrial fuels, with fuel tank monitoring deployments growing across North America and Latin America.\nThe latest funding comes as the company scales up its satellite network. Myriota launched 16 satellites in 2026 and has further launches booked for 2027 and 2028.\nA larger constellation would give customers more network redundancy and greater service capacity for larger deployments. Myriota focuses on narrowband communications for industrial users operating beyond the reach of conventional terrestrial networks.\nBen Cade, Chief Executive Officer of Myriota, said the investment would support the company's next phase of growth.\n\"We're at the beginning of a fundamental shift in industrial IoT. Industries increasingly rely on data from the field to make decisions about their operations, assets and resources, and as AI moves into the physical world, that data becomes even more essential. Myriota is building the infrastructure to connect the physical world at unprecedented scale. Bringing forward the first close of our Series C reflects the strong confidence of our investors and enables us to accelerate our growth, expand into new markets and advance our technology. It also marks an important phase for Australia's defence industrial base, as Myriota consolidates its position as a true tier 1, global telco delivering secure, narrowband IoT communications from space,\" Cade said.\nInvestor backing\nThe National Reconstruction Fund Corporation had previously backed Myriota as part of its investment activity in the space sector. The company's origins lie in research at the University of South Australia.\n\"Myriota was one of the NRFC's earliest space sector investments, and its innovative technology was developed from research at UniSA. It is a powerful example of how space-enabled technologies play a key role in solving real-world challenges right here on Earth. Myriota's satellite-based industrial IoT provides critical, field-based intelligence for sectors operating in remote areas such as agriculture, utilities, logistics, mining, environmental monitoring and defence, and our decision to invest f"
+    }
+   ]
+  },
+  {
+   "group_key": "capable",
+   "company_guess": "Capable",
+   "amount_hint_usd": 38000000,
+   "articles": [
+    {
+     "id": "5381037094d0",
+     "group_key": "capable",
+     "title": "AI Peptide Drug Lab Capable Raises $38M Seed to Automate Drug Discovery",
+     "publisher": "Wowtale",
+     "url": "https://en.wowtale.net/2026/11/25/236165/?utm_source=rss&utm_medium=rss&utm_campaign=ai-peptide-drug-lab-capable-raises-38m-seed-to-automate-drug-discovery",
+     "published_at": "2026-11-25T13:38:21.000Z",
+     "amount_hint": "$38M",
+     "snippet": "AI Peptide Drug Lab Capable Raises $38M Seed to Automate Drug Discovery Wowtale",
+     "text_status": "ok",
+     "text": "Finding and refining a single drug candidate can take years. Capable , a San Francisco biotech, wants to cut that to months with a lab where AI designs molecules, automated equipment synthesizes them and cells and mice test them straight away. Its first drug candidate is a wakefulness peptide meant to reduce sleep and extend time awake. The company has raised a $38 million seed round.\nWhat Capable sells is not software or data but drugs. It finds its own candidates and takes them through animal testing, and it is preparing both to move a candidate into the clinic and to hand assets to pharma companies through deals. Peptides are drugs built as short chains of amino acids, small pieces of protein. Capable makes peptide and nucleotide therapeutics on automated synthesis equipment, and its in-house research AI agent designs candidates by pulling specialized models, such as a potency predictor, off the shelf like tools. The company says it has built a lab that can go from AI design to experimental data in 24 hours.\nCapable disclosed the seed round on its company blog on October 16 (US time). Cathay Innovation , Abstract Ventures, Fidji Simo, Joe Betts-LaCroix and Andrej Karpathy, among others, took part, bringing total funding to $50 million. Karpathy is the OpenAI co-founder who joined Anthropic in May. According to startup data firm Dealroom, the valuation and lead investor were not disclosed. Capable will use the money to scale its lab and platform. It grew from 2,000 square feet to 22,500 square feet in about three weeks and moved to Mission Bay, near UCSF.\nIts most advanced program is CAPABLE-002, a wakefulness drug candidate. The company produced its first batch, 180 grams, enough to dose hundreds of rats, dozens of dogs and a few dozen humans. The compound is entering preclinical safety testing, in which a drug is dosed repeatedly in a rodent and a non-rodent species while tissues and hundreds of biomarkers are examined, and Capable plans to dose the first dogs within a few weeks. In early mouse experiments it cut sleep by 30% to 50%. Efficacy and safety in people remain unproven.\nThe company has already found a follow-up molecule. It is similarly potent but 70% smaller, at roughly 750 daltons, which raises hopes of an oral drug after further optimization. It relies heavily on non-canonical amino acids, which are rare in nature, and the follow-up molecule is about 80% non-canonical. Because both versions are highly potent on the same pathway, the safety study will continue, and Capable will decide whether to take version one into the clinic or reset the timeline for a better version two.\nThe second program is an “exercise mimetic,” a drug meant to reproduce some benefits of exercise on the heart, liver, kidneys, brain and muscle preservation. The research agent has designed about 500 first candidates, and Capable wants a development candidate within three or four months, against two to five years for comparable stages in pharma, by its own comparison.\nAutomation drives the speed. Automated cell assays raised the number of compounds tested per day by more than 10 times and cut run-to-run scatter from 6% to about 1.75%, and drying can now handle up to 1,152 compounds at once. Steven Cao, formerly of Cognition and Redwood Research, joined with experience training large models, while Shane Lafayette, a former director of business development at sleep drug developer Centessa, and UCSF and Gladstone professor Vijay Ramani advise.\nSleep and"
+    }
+   ]
+  }
+ ]
+}

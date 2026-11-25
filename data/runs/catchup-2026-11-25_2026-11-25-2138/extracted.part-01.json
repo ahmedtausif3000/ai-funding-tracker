@@ -1,0 +1,40 @@
+{
+ "run_date": "catchup-2026-11-25_2026-11-25-2138",
+ "extractor": "claude-code routine",
+ "notes": "Most groups were non-funding noise (contracts, debt, M&A) and were omitted. Dealroom/blocked sources used title only.",
+ "rows": [
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": "100 billion yuan ≈ $15B as stated",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Hangzhou",
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "deepseek founder liang wenfengs",
+   "candidate_ids": [
+    "4e11cfae90ab"
+   ],
+   "company": "DeepSeek",
+   "amount_usd": 15000000000,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-24",
+   "hq_country": "CN",
+   "ai_ml_rationale": "Builds AI foundation models.",
+   "description": "Chinese AI model developer.",
+   "evidence": {
+    "amount": "a $15 billion funding round values the Chinese AI company at approximately $86 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://the420.in/deepseek-founder-liang-wenfengs-wealth-hits-55-billion-after-massive-ai-funding-round/"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "run_date": "catchup-2026-11-25_2026-11-25-2138",
+ "extractor": "claude-code routine",
+ "notes": "Most groups were non-funding noise (contracts, debt, M&A) and were omitted. Dealroom/blocked sources used title only.",
+ "rows": [
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "A91 Partners"
+   ],
+   "investors": [
+    "A91 Partners"
+   ],
+   "hq_city": "Princeton",
+   "hq_state": "NJ",
+   "is_ai_ml": true,
+   "confidence": 0.85,
+   "exclude_reason": null,
+   "group_key": "ex infosys execs enterprise",
+   "candidate_ids": [
+    "fe15e7702bbb"
+   ],
+   "company": "AidenAI",
+   "amount_usd": 32000000,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-25",
+   "hq_country": "US",
+   "ai_ml_rationale": "Enterprise AI agent builder platform.",
+   "description": "Enterprise AI builder platform for deploying and managing AI agents.",
+   "evidence": {
+    "amount": "raised $32 million in a Series A funding round led by A91 Partners",
+    "round": "Series A",
+    "lead": "led by A91 Partners",
+    "investors": "led by A91 Partners"
+   },
+   "source_urls": [
+    "https://analyticsindiamag.com/ai-news/aidenai-raises-32-million-in-series-a-funding-led-by-a91-partners"
+   ]
+  }
+ ]
+}
