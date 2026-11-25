@@ -1,0 +1,1867 @@
+{
+  "run_date": "2026-11-25-2138",
+  "generated_at": "2026-11-25T21:40:43.830Z",
+  "window_days": 2,
+  "range": null,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 200,
+        "items": 86
+      },
+      {
+        "id": "gnews-2",
+        "status": 200,
+        "items": 58
+      },
+      {
+        "id": "gnews-3",
+        "status": 200,
+        "items": 55
+      },
+      {
+        "id": "gnews-4",
+        "status": 200,
+        "items": 64
+      },
+      {
+        "id": "gnews-5",
+        "status": 200,
+        "items": 49
+      },
+      {
+        "id": "gnews-6",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "gnews-7",
+        "status": 200,
+        "items": 62
+      },
+      {
+        "id": "gnews-8",
+        "status": 200,
+        "items": 8
+      },
+      {
+        "id": "gnews-g1",
+        "status": 200,
+        "items": 46
+      },
+      {
+        "id": "gnews-g2",
+        "status": 200,
+        "items": 19
+      },
+      {
+        "id": "gnews-g3",
+        "status": 200,
+        "items": 28
+      },
+      {
+        "id": "gnews-g4",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "gnews-g5",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-g6",
+        "status": 200,
+        "items": 47
+      },
+      {
+        "id": "gnews-g7",
+        "status": 200,
+        "items": 19
+      },
+      {
+        "id": "gnews-g8",
+        "status": 200,
+        "items": 31
+      },
+      {
+        "id": "gnews-g9",
+        "status": 200,
+        "items": 59
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "pulse2",
+        "status": 200,
+        "items": 120
+      },
+      {
+        "id": "citybiz",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 1004,
+    "prefiltered": 160,
+    "dropped": {
+      "not_funding": 262,
+      "no_ai_hint": 96,
+      "below_min": 226,
+      "fund_close": 25,
+      "seen": 102,
+      "duplicate_link": 130,
+      "known_round": 98,
+      "noise": 3
+    },
+    "groups": 98,
+    "selected_groups": 53,
+    "candidates": 62,
+    "articles_fetched": 35,
+    "google_rate_limited": true
+  },
+  "groups": [
+    {
+      "key": "deepseek founder liang wenfengs",
+      "company_guess": "DeepSeek Founder Liang Wenfeng's",
+      "amount_hint_usd": 55000000000,
+      "candidate_ids": [
+        "4e11cfae90ab"
+      ]
+    },
+    {
+      "key": "kaust backed startups",
+      "company_guess": "KAUST-backed startups",
+      "amount_hint_usd": 1400000000,
+      "candidate_ids": [
+        "28547e2bbc1f"
+      ]
+    },
+    {
+      "key": "credit acceptance",
+      "company_guess": "Credit Acceptance",
+      "amount_hint_usd": 800000000,
+      "candidate_ids": [
+        "c848aee16e46"
+      ]
+    },
+    {
+      "key": "egypt splits 549m industrial",
+      "company_guess": "Egypt Splits $549M Industrial",
+      "amount_hint_usd": 549000000,
+      "candidate_ids": [
+        "478ae8876400"
+      ]
+    },
+    {
+      "key": "euler motors in talks",
+      "company_guess": "Euler Motors in talks",
+      "amount_hint_usd": 500000000,
+      "candidate_ids": [
+        "0a9f6f06ea65"
+      ]
+    },
+    {
+      "key": "dutch",
+      "company_guess": "Dutch AI",
+      "amount_hint_usd": 400000000,
+      "candidate_ids": [
+        "597bcdf07ec6"
+      ]
+    },
+    {
+      "key": "riverstone",
+      "company_guess": "RiverStone",
+      "amount_hint_usd": 400000000,
+      "candidate_ids": [
+        "614b1a9dbe84"
+      ]
+    },
+    {
+      "key": "tucows ting fiber sale",
+      "company_guess": "Tucows’ Ting Fiber Sale",
+      "amount_hint_usd": 301500000,
+      "candidate_ids": [
+        "182e4f411033"
+      ]
+    },
+    {
+      "key": "companies linked to alice",
+      "company_guess": "Companies linked to Alice",
+      "amount_hint_usd": 301000000,
+      "candidate_ids": [
+        "41bf4c9b864c"
+      ]
+    },
+    {
+      "key": "adani airport signs",
+      "company_guess": "Adani Airport Holdings Signs",
+      "amount_hint_usd": 300000000,
+      "candidate_ids": [
+        "760b05a5b663"
+      ]
+    },
+    {
+      "key": "alice huang linked firms reportedly",
+      "company_guess": "Alice Huang-linked firms reportedly",
+      "amount_hint_usd": 270000000,
+      "candidate_ids": [
+        "84cf9a509bf3"
+      ]
+    },
+    {
+      "key": "sea box",
+      "company_guess": "Sea Box",
+      "amount_hint_usd": 216400000,
+      "candidate_ids": [
+        "1a4f909a0a77"
+      ]
+    },
+    {
+      "key": "arch mi",
+      "company_guess": "Arch MI",
+      "amount_hint_usd": 202500000,
+      "candidate_ids": [
+        "f24e4eded0f6"
+      ]
+    },
+    {
+      "key": "pliant",
+      "company_guess": "Pliant",
+      "amount_hint_usd": 200000000,
+      "candidate_ids": [
+        "8ed115e738d3",
+        "4abedbd370ca"
+      ]
+    },
+    {
+      "key": "e f hutton",
+      "company_guess": "E.F. Hutton",
+      "amount_hint_usd": 188200000,
+      "candidate_ids": [
+        "8beafbda0c5f"
+      ]
+    },
+    {
+      "key": "sabre systems",
+      "company_guess": "Sabre Systems",
+      "amount_hint_usd": 155700000,
+      "candidate_ids": [
+        "173d6beca30c"
+      ]
+    },
+    {
+      "key": "ritzey therapeutics",
+      "company_guess": "Ritzey Therapeutics",
+      "amount_hint_usd": 112500000,
+      "candidate_ids": [
+        "e39627f90486"
+      ]
+    },
+    {
+      "key": "ant group leads 100m",
+      "company_guess": "Ant Group leads $100m",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "d4b1603d0103"
+      ]
+    },
+    {
+      "key": "epochal",
+      "company_guess": "Epochal",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "46bd840ef7ca"
+      ]
+    },
+    {
+      "key": "mvp robotics",
+      "company_guess": "MVP Robotics",
+      "amount_hint_usd": 90100000,
+      "candidate_ids": [
+        "e64c2c185c57"
+      ]
+    },
+    {
+      "key": "uk defence",
+      "company_guess": "UK defence",
+      "amount_hint_usd": 70000000,
+      "candidate_ids": [
+        "608de6770ee5"
+      ]
+    },
+    {
+      "key": "applied research associates",
+      "company_guess": "Applied Research Associates",
+      "amount_hint_usd": 65500000,
+      "candidate_ids": [
+        "19424c3d5408"
+      ]
+    },
+    {
+      "key": "r squared",
+      "company_guess": "R-Squared",
+      "amount_hint_usd": 50000000,
+      "candidate_ids": [
+        "bd5cb4d23ad2"
+      ]
+    },
+    {
+      "key": "london based bound",
+      "company_guess": "London-based Bound",
+      "amount_hint_usd": 45680000,
+      "candidate_ids": [
+        "3154551dc2aa"
+      ]
+    },
+    {
+      "key": "myriota",
+      "company_guess": "Myriota",
+      "amount_hint_usd": 40000000,
+      "candidate_ids": [
+        "100134e241dd"
+      ]
+    },
+    {
+      "key": "capable",
+      "company_guess": "Capable",
+      "amount_hint_usd": 38000000,
+      "candidate_ids": [
+        "5381037094d0"
+      ]
+    },
+    {
+      "key": "youji",
+      "company_guess": "Youji Technology",
+      "amount_hint_usd": 30000000,
+      "candidate_ids": [
+        "a4a279102a1c"
+      ]
+    },
+    {
+      "key": "japans atom",
+      "company_guess": "Japan’s Atom",
+      "amount_hint_usd": 28300000,
+      "candidate_ids": [
+        "8c926742cec7"
+      ]
+    },
+    {
+      "key": "salvia bioelectronics",
+      "company_guess": "Salvia BioElectronics",
+      "amount_hint_usd": 25000000,
+      "candidate_ids": [
+        "c7c2f3f84293"
+      ]
+    },
+    {
+      "key": "lute",
+      "company_guess": "Lute",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "dae6202dbae4"
+      ]
+    },
+    {
+      "key": "dubais sooner",
+      "company_guess": "Dubai’s Sooner",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "c32fa9d698d1"
+      ]
+    },
+    {
+      "key": "20 million in funding",
+      "company_guess": "$20 Million in Funding",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "1b83a6936ee4"
+      ]
+    },
+    {
+      "key": "polyais ex ml chief",
+      "company_guess": "PolyAI's ex-ML chief",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "2beb0b48f6ed"
+      ]
+    },
+    {
+      "key": "uaes sooner",
+      "company_guess": "UAE’s Sooner",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "b539d30d43d7",
+        "25bf3d6132bf",
+        "6e043db30322"
+      ]
+    },
+    {
+      "key": "santa clara family health",
+      "company_guess": "Santa Clara Family Health",
+      "amount_hint_usd": 19200000,
+      "candidate_ids": [
+        "66f94a356432"
+      ]
+    },
+    {
+      "key": "every",
+      "company_guess": "Every",
+      "amount_hint_usd": 17500000,
+      "candidate_ids": [
+        "c8e9425d0c75",
+        "40e2b7113d1a",
+        "52184e3832f8",
+        "07bd001a637c"
+      ]
+    },
+    {
+      "key": "4b1688a040b5",
+      "company_guess": "AI",
+      "amount_hint_usd": 17000000,
+      "candidate_ids": [
+        "4b1688a040b5"
+      ]
+    },
+    {
+      "key": "northrop grumman",
+      "company_guess": "Northrop Grumman",
+      "amount_hint_usd": 16400000,
+      "candidate_ids": [
+        "6b1c8bc3c353"
+      ]
+    },
+    {
+      "key": "chinas octopus power",
+      "company_guess": "China's Octopus Power",
+      "amount_hint_usd": 15000000,
+      "candidate_ids": [
+        "92b7950b86a5"
+      ]
+    },
+    {
+      "key": "jiutian chuangzhi",
+      "company_guess": "Jiutian Chuangzhi",
+      "amount_hint_usd": 15000000,
+      "candidate_ids": [
+        "69144bc87559"
+      ]
+    },
+    {
+      "key": "metalenx",
+      "company_guess": "MetaLenX",
+      "amount_hint_usd": 15000000,
+      "candidate_ids": [
+        "ac3790fabf85"
+      ]
+    },
+    {
+      "key": "atomcore light",
+      "company_guess": "AtomCore Light",
+      "amount_hint_usd": 15000000,
+      "candidate_ids": [
+        "957ef306a551"
+      ]
+    },
+    {
+      "key": "vero security",
+      "company_guess": "Vero Security",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "091a4a1fba38"
+      ]
+    },
+    {
+      "key": "lakshya aerotech",
+      "company_guess": "Lakshya Aerotech",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "fb1bb65a70b3",
+        "3d727ed23209",
+        "81006775964a"
+      ]
+    },
+    {
+      "key": "nilocas",
+      "company_guess": "Nilocas",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "f2008766af23"
+      ]
+    },
+    {
+      "key": "lawvek",
+      "company_guess": "Lawvek",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "a9725e4625c3"
+      ]
+    },
+    {
+      "key": "osso",
+      "company_guess": "OSSO",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "4629b18ab76f"
+      ]
+    },
+    {
+      "key": "outcome1",
+      "company_guess": "Outcome1",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "786df480cc90"
+      ]
+    },
+    {
+      "key": "ex infosys execs enterprise",
+      "company_guess": "Ex-Infosys Exec's Enterprise AI",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "fe15e7702bbb"
+      ]
+    },
+    {
+      "key": "cyril ramaphosas r100 million",
+      "company_guess": "Cyril Ramaphosa’s R100-million AI",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "f1e9a8713051"
+      ]
+    },
+    {
+      "key": "chinas atomqure",
+      "company_guess": "China's AtomQure (原子芯光)",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "f4792d27f283"
+      ]
+    },
+    {
+      "key": "kunstig aero",
+      "company_guess": "Kunstig Aero",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "49d43107f7a7"
+      ]
+    },
+    {
+      "key": "genscript convenes",
+      "company_guess": "GenScript Convenes AI",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "a3c20fdeacf7",
+        "077c2c6ed05b"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "4e11cfae90ab",
+      "title": "DeepSeek Founder Liang Wenfeng's Wealth Hits $55 Billion After Massive AI Funding Round",
+      "publisher": "The 420.in",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMF9LcUdvSFlxczgyWTFYenk0NHBfWVdmb2ZpeEpKVDh3QXRFME5jb0tmY1BGRHpFNWltVkRqbHlud0FaNGxmSlZZeGkzYXJ3R0RfX1k2a05Fb2VmanpYc1l1UnZFYm1TVUVCbXVwX2FLUmd5a1ZqbjBDQUY2bTJqeUM1VThKajd5NlQ1LTF1SW9HWVpOYUlSNzVXbG85WXdtSng0Zmo2MA?oc=5",
+      "published_at": "2026-11-24T08:00:00.000Z",
+      "publisher_url": "https://the420.in",
+      "snippet": "DeepSeek Founder Liang Wenfeng's Wealth Hits $55 Billion After Massive AI Funding Round The 420.in",
+      "source_feed": "gnews-5",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 55000000000,
+        "currency": "USD",
+        "raw": "$55 Billion"
+      },
+      "company_guess": "DeepSeek Founder Liang Wenfeng's",
+      "group_key": "deepseek founder liang wenfengs",
+      "group_rank": 0,
+      "resolved_url": "https://the420.in/deepseek-founder-liang-wenfengs-wealth-hits-55-billion-after-massive-ai-funding-round/",
+      "text": "DeepSeek founder Liang Wenfeng's estimated fortune reaches $55 billion after a $15 billion funding round values the Chinese AI company at approximately $86 billion.\nTech Talk Finance & Banking\nDeepSeek Founder Liang Wenfeng’s Wealth Hits $55 Billion After Massive AI Funding Round\nLast updated: November 25, 2026 11:22 pm\nBy\nThe420 WebDesk\nShare\n7 Min Read\nSHARE\nFollow us on Google News\nDeepSeek founder Liang Wenfeng has emerged as the world’s wealthiest creator of artificial intelligence models, with his estimated personal fortune reaching $55 billion after the Chinese startup completed a major fundraising round backed by some of the country’s richest business leaders.\nContents\nLiang Retains 67.4% Of DeepSeek Despite New Investor Funding Chinese Billionaires Invest In DeepSeek As AI Competition Intensifies From Hedge Fund Research To One Of China’s Most Valuable AI Companies DeepSeek Considers Potential IPO As Valuation Reaches $86 Billion\nAccording to Bloomberg’s Billionaires Index, Liang’s wealth increased by approximately 45% following the investment, which reportedly raised around 100 billion yuan, equivalent to $15 billion.\nThe fundraising values DeepSeek at approximately $86 billion, placing the Hangzhou-based company among the world’s most valuable privately held artificial intelligence businesses.\nThe development, reported on November 24, 2026, highlights growing investor confidence in Chinese AI companies as competition intensifies with American technology firms.\nHowever, the $55 billion figure represents an estimated valuation of Liang’s assets, largely reflecting his ownership of DeepSeek, rather than money he has personally received.\nFCRF Launches Certified Chief Risk Officer (CRO) Program for India’s Risk Leaders\nLiang Retains 67.4% Of DeepSeek Despite New Investor Funding\nAccording to corporate registry information cited by Bloomberg, Liang’s ownership in DeepSeek declined from 81.65% in June to 67.4% following the latest fundraising.\nThe reduction reflects the entry of new investors who acquired stakes in the company.\nDespite owning a smaller percentage, Liang’s estimated wealth increased substantially because DeepSeek’s overall valuation rose.\nBloomberg calculated the company’s implied valuation at approximately $86 billion after its latest investment round.\nLiang’s net worth has more than tripled since the beginning of 2026, according to the wealth index.\nThe increase has placed him ahead of several prominent American AI entrepreneurs.\nBloomberg estimated OpenAI co-founder Greg Brockman’s wealth at approximately $25.5 billion as of November 20, while Anthropic chief executive Dario Amodei was valued at around $21.6 billion following his company’s stock market listing.\nLiang’s larger estimated fortune is partly explained by his substantial ownership of DeepSeek.\nUnlike founders whose stakes have been diluted through repeated investments, he continues to control more than two-thirds of his company.\nHowever, private-company valuations are estimates based on investment transactions and financial assumptions. They do not represent guaranteed proceeds if a shareholder attempts to sell an entire stake.\nChinese Billionaires Invest In DeepSeek As AI Competition Intensifies\nThe latest fundraising attracted several prominent Chinese business leaders and industrial investors.\nAccording to corporate records compiled by data platform Qichacha, at least five Chinese billionaires have acquired personal stakes in DeepSeek.\nAmong them is Robin Zeng, founder of battery manufacturer Contemporary Amperex Technology, commonly known as CATL.\nZeng holds a personal stake of approximately 0.18%, valued at $154.6 million under Bloomberg’s estimate.\nHis investment is separate from the participation of CATL itself.\nAnother investor is Zhong Shanshan, founder of bottled-water company Nongfu Spring.\nZhong, who participated in DeepSeek’s previous fundraising round, holds approximately 0.08% of the AI company, currently valued at around $70.6 million.\nThe participation of industrial billionaires illustrates how investment in advanced AI models is spreading beyond traditional technology companies.\nArtificial intelligence increasingly influences manufacturing, energy consumption, industrial automation and digital services.\nHowever, the public reporting does not establish that the new investors will directly control DeepSeek’s product development or business strategy.\nFrom Hedge Fund Research To One Of China’s Most Valuable AI Companies\nLiang established DeepSeek in 2023 after developing an artificial intelligence research operation within Zhejiang High-Flyer Asset Management.\nHigh-Flyer is a quantitative hedge fund that uses mathematical models, data analysis and computing technology to support investment decisions.\nLiang co-founded the business with two university classmates after they began trading during the global financial crisis.\nThe research division eventually evolved into DeepSeek, which became known for developing advanced AI models.\nThe company attracted international attention by introducing competitive language models while emphasising efficient computing techniques.\nIts emergence intensified debate about the cost of developing powerful AI systems and whether companies need the same level of computing expenditure as some American rivals.\nDeepSeek has since attracted substantial investment as China seeks to strengthen its domestic artificial intelligence capabilities.\nThe new fundraising demonstrates investors’ willingness to assign considerable value to companies developing foundational AI models.\nHowever, a high valuation does not automatically establish profitability, sustainable revenue growth or long-term commercial success.\nDeepSeek Considers Potential IPO As Valuation Reaches $86 Billion\nThe Bloomberg report also indicates that DeepSeek is preparing for a possible initial public offering in 2027.\nAn IPO would allow the company to sell shares to public investors, potentially providing add",
+      "text_status": "ok"
+    },
+    {
+      "id": "28547e2bbc1f",
+      "title": "KAUST-backed startups attract $1.4 billion in total funding",
+      "publisher": "Robotics & Automation News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3Vka29vRHR0X1hGdkthMHN3QVJ2STFlak9qQS1YM1ZoU2JVX1ByRmdNdFotaGlHVTZ5c3FvUk5hVEdfLXVtd3AzUWNYVm82YjZDM29RbHlMTHBUdUxtZHZ5dzU2NzhKMmU0QmdVWnZmMmtvbGNmNFYzQmJRZ09CaXd6eEFyQlQ1cFk4Wkw5d3locFFGM1NFLXpMX2U5QlZfWmQ3MjhZdk9lWDhyRWRWN3lDRmlQdw?oc=5",
+      "published_at": "2026-11-25T07:50:43.000Z",
+      "publisher_url": "https://roboticsandautomationnews.com",
+      "snippet": "KAUST-backed startups attract $1.4 billion in total funding Robotics & Automation News",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 1400000000,
+        "currency": "USD",
+        "raw": "$1.4 billion"
+      },
+      "company_guess": "KAUST-backed startups",
+      "group_key": "kaust backed startups",
+      "group_rank": 0,
+      "resolved_url": "https://roboticsandautomationnews.com/2026/11/25/kaust-backed-startups-attract-1-4-billion-in-total-funding/107648/",
+      "text": "KAUST-backed startups attract $1.4 billion in total funding\nNovember 25, 2026 by David Edwards\nStartups supported by King Abdullah University of Science and Technology (KAUST) have raised $1.4 billion in cumulative funding, with investment activity accelerating as companies across the University’s entrepreneurship ecosystem attract capital to develop and scale their businesses.\nWhile KAUST has contributed approximately $77 million in funding to date, 90 percent of the portfolio’s funding comes from external sources, including $33 million from the National Technology Development Program (NTDP). This reflects the substantial investment portfolio companies are attracting from outside the University.\nSixty-six startups raised a combined $338 million in the financial year from July 2025 to June 2026. This is a year-on-year increase of more than 30 percent from the previous year, bringing total funding raised by portfolio startups to date to approximately $1.4 billion.\nAmong the largest reported funding rounds were $200 million for quantum computing company Pasqal and $9.2 million for cybersecurity company COGNNA, followed by Aajil (Buildnow), Iyris, and Agellus Tank Robotics.\nKAUST’s portfolio includes 282 active startups with a combined valuation of $5.7 billion across artificial intelligence, enterprise software, financial technology, healthcare, agriculture and advanced technology sectors. Companies across the portfolio have generated $1.1 billion in cumulative revenue, as economic diversification remains a priority on Saudi Arabia’s national agenda.\n“The success of so many of our portfolio companies is a testament to the fact that Saudi Arabia is a great place to grow and scale as a business,” said Dr. Ian Campbell, senior vice president, National Transformation Institute (NTI) at KAUST. “KAUST is a vital part of this thriving ecosystem, supporting startups to find commercialization opportunities that help bring their innovations from the lab to the market.”\nKAUST combines early-stage investment with access to core laboratories and specialized facilities to help founders build and develop their companies. KAUST leverages longstanding impact partnerships with SAB, NTDP and NIDLP, as well as in-Kingdom venture capital firms and institutional partners to commercialize and localize technologies through programs like TAQADAM, NextEra, ScaleX, the KAUST Venture Studio program and the KAUST 4th Industrial Revolution Center.\n“KAUST spinouts and spin-ins are delivering solutions to a wide range of real-world issues and driving growth as they do so,” said Haitham Al Humsi, director of innovation ecosystem development at KAUST.\n“The Venture Studio is a new initiative that we are expanding. It focuses on building startup ventures and commercializing intellectual property aligned with the Kingdom’s strategic priority areas from the start and allows us to bring new materials, new industrial processes, and sensor-based healthcare innovations to the market.”\nThe KAUST Research and Technology Park connects startups with KAUST’s researchers, faculty, talent and facilities, and introduces them to companies across the Kingdom, as well as anchors international scaleups into the KAUST R&D ecosystem. These connections help startups draw on KAUST’s research capabilities, test technologies and develop commercial expansion.\nExamples within the portfolio include iStoria and Faheem in education, Kestrl and EdfaPay in finance, and Cura and Atomica AI in healthcare. Food-related businesses include Barakah and Aqua Development, while TileGreen and Edama feature among companies working in waste reduction, recycling or reuse.\nThis latest annual assessment of the KAUST entrepreneurship portfolio applies standard methodologies, covering 282 active startups, using self-reported data from 83 percent of companies.\nBy understanding where value and success are being delivered, KAUST can determine where further development of its ecosystem is required, supporting broader innovation expansion and attracting investment to the Kingdom.\nShare this:\nPrint (Opens in new window)\nPrint\nShare on Facebook (Opens in new window)\nFacebook\nShare on LinkedIn (Opens in new window)\nLinkedIn\nShare on Reddit (Opens in new window)\nReddit\nShare on X (Opens in new window)\nX\nShare on Tumblr (Opens in new window)\nTumblr\nShare on Pinterest (Opens in new window)\nPinterest\nShare on WhatsApp (Opens in new window)\nWhatsApp\nShare on Telegram (Opens in new window)\nTelegram\nRelated stories you might also like…\nFiled Under: Business , Features , Investments Tagged With: agellus tank robotics , artificial intelligence , automation news , economic diversification , entrepreneurship , innovation , investment , kaust , king abdullah university of science and technology , pasqal , quantum computing , research and development , robotics and automation , robotics and automation news , robotics news , saudi arabia , startup funding , technology commercialization , technology startups , venture capital",
+      "text_status": "ok"
+    },
+    {
+      "id": "c848aee16e46",
+      "title": "Credit Acceptance Announces Completion of $800.0 Million Asset-Backed Financing",
+      "publisher": "The Manila Times",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdml2WGhCaVN6MzBFckVXWmlxY3RPcGN6THhiNElETTdnWk5LNXpXdUFNWWMtMnljQUdKTTBYTE04MkNBRkt5WTlGN3RKWWE0RlhYV18zNjU4UDU5UE5abHExYWxZOUhobmNrOFJ3WW9Zbm0tUXVpMUNXMko1TkE3Nl9kbzBGVW4ydUxhZHZmWnZfaEpCSjVWekYzYkhDTXNoc3NxM1RzdFJKeWNJWl9yaEJoUHFYdUxsMWFJWlEtZHpXTE9VcEVpVUVuSU5ZUjhBLXdPVVJmSVRXQkUxVlAzNERJcTVwZ9IB6wFBVV95cUxNMzZ5dTRzSGdHdHBGMzNOVnVPb2xieWh4LTRRTVduVHpnTmJ2OE5iNGEtQ3piakJNeXBuQ05VNHR0UmpfZVJTTVlYUTFkaU05LVBBR2FGMkd3emVLX05DY3JYVzZtM3hJblRGNldQUGJPcW95cTZzcFJYYWJLMnJvVjRjN0FFZGJsWWZqZU9IVXk1b2ZCSDlxVDB2V0VSUUhhaVlaLUVFR0xyMXp1a3Fqc1BlYmtTNWw5cGllUTZFWFl4SGJkbWpPYVR0LUNfNmd6YXdlbmhWYWhvaFBVQlFlczNNWmVacjJyN2w0?oc=5",
+      "published_at": "2026-11-24T21:13:59.000Z",
+      "publisher_url": "https://www.manilatimes.net",
+      "snippet": "Credit Acceptance Announces Completion of $800.0 Million Asset-Backed Financing The Manila Times",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 800000000,
+        "currency": "USD",
+        "raw": "$800.0 Million"
+      },
+      "company_guess": "Credit Acceptance",
+      "group_key": "credit acceptance",
+      "group_rank": 0,
+      "resolved_url": "https://www.manilatimes.net/2026/11/25/tmt-newswire/globenewswire/credit-acceptance-announces-completion-of-8000-million-asset-backed-financing/2477575",
+      "text": "",
+      "text_status": "thin"
+    },
+    {
+      "id": "478ae8876400",
+      "title": "Egypt Splits $549M Industrial Financing Initiative To Cover Working Capital",
+      "publisher": "Forbes Middle East",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMWF3SGZBWm9HSndTdDZZYXlxS0NvbVpxTzJnMjhnUURzaHRRM1ZMVGJ2dHpzeFRWTThCZ2hnZGEzdkxqZk1fTURoeG1ZVFBLYkxZdDZjejU0VV8yWUgzVVpNcVdRenVtTkJfVWtadTh5Y3dRdVdsRGpuckpxTDBaQ3dGc2QzNXR5Q0RTWHg0bzA3MXdQdHF1MHgwVHRTLWYwZmt4TS1sNDIySXBFRGctUzg3dl9VdmR4eHRaTURyeTE3M0kwaXhwU2loNFFLZ1lIU00wZnFYTQ?oc=5",
+      "published_at": "2026-11-25T18:22:53.000Z",
+      "publisher_url": "https://forbesmiddleeast.com",
+      "snippet": "Egypt Splits $549M Industrial Financing Initiative To Cover Working Capital Forbes Middle East",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 549000000,
+        "currency": "USD",
+        "raw": "$549M"
+      },
+      "company_guess": "Egypt Splits $549M Industrial",
+      "group_key": "egypt splits 549m industrial",
+      "group_rank": 0,
+      "resolved_url": "https://forbesmiddleeast.com/industry/business/egypt-expands-549-million-industrial-initiative-raises-financing-cap-to-37-million-per-client",
+      "text": "Forbes Middle East /",
+      "text_status": "thin"
+    },
+    {
+      "id": "0a9f6f06ea65",
+      "title": "Euler Motors in talks to raise $100-150 million at up to $500 million valuation",
+      "publisher": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS21Eei1BbHFEMGVBTVBJRkxoU05MVkhISWw1REpEeElTSDFZQjNhRHJXbHAzU1BzaDlndldibVc5aHdtQTg1QUE0bnRrRmhPd1RNbmpLRVh2ZEF1Q0RWQlpJYUpBTG02MmVLaFVVRlJCbVBxQnFUYWFtam1WWXhBak44bkFwMnhsTUlHMzNtejRXLVBybHVWX2p1U0FuSTR1YWVHcG0zcGZibDU3S2RqZWR1SEpydnQ4OGlvRW1FWFpvYy10cU5SVXdxSzM5aDN0Z3V6dkFhdHIyU0Qy0gHiAUFVX3lxTFBldVJIeldfanZCUHRuZ0R0MTU5YmtvNzdxdDBrUzVtNkQ2Z3lIWXltaklhcFRmTGlVSm51UTU1RWxRNFd6cmoxelctemlpSm9kcUFmTE9EZDFmU0c0ZzFuRE5Ca0JOUTZaN19rVzRLMVFxdFVMbGg1UlpXX1B0d25EMDVlblVGZXBEc012SEVhT3RNYzdCV3dUYjNfR1J0Nnc1Z0VWQl9ONktpOC16MFFUWV9venhYSjJVS2FtM1VVWWhXYTh4QVl4ZzZQeW9PcURaak9xam45dGpZbGkwSnhkUlE?oc=5",
+      "published_at": "2026-11-24T00:30:00.000Z",
+      "publisher_url": "https://m.economictimes.com",
+      "snippet": "Euler Motors in talks to raise $100-150 million at up to $500 million valuation The Economic Times",
+      "source_feed": "gnews-3",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 500000000,
+        "currency": "USD",
+        "raw": "$500 million"
+      },
+      "company_guess": "Euler Motors in talks",
+      "group_key": "euler motors in talks",
+      "group_rank": 0,
+      "resolved_url": "https://m.economictimes.com/tech/funding/euler-motors-in-talks-to-raise-100-150-million-at-up-to-500-million-valuation/articleshow/136110396.cms",
+      "text": "Electric commercial vehicle maker Euler Motors is in talks to raise $100-150 million from investors, which could give the company a valuation of $480-500 million, according to people familiar with the matter, as rising demand for electric mini-trucks draws investor interest to the segment.Euler has held discussions with investment firm A91 Partners, Playbook Partners and other mid-market private equity firms for the proposed funding round, which",
+      "text_status": "ok"
+    },
+    {
+      "id": "597bcdf07ec6",
+      "title": "Dutch AI chip startup Axelera seeks $400m in new funding",
+      "publisher": "Tech in Asia",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTTBvMXNCQjlsUmJTSk9FWUljX2JmbDBlUThsRm8zQ0lTRktFd0xQb0todkFLOWMwWUNDT3M4VldvcDRDbjI0NlhLZzlKXzdfeHNVQ3dJQVR3UExuQm5KTWdKWlpGRUtBZXU3eE1LQ2EwZDVMLVB2ZFB4Sms3enVZWDI0Vi1xNk0?oc=5",
+      "published_at": "2026-11-25T02:23:00.000Z",
+      "publisher_url": "https://www.techinasia.com",
+      "snippet": "Dutch AI chip startup Axelera seeks $400m in new funding Tech in Asia",
+      "source_feed": "gnews-7",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 400000000,
+        "currency": "USD",
+        "raw": "$400m"
+      },
+      "company_guess": "Dutch AI",
+      "group_key": "dutch",
+      "group_rank": 0,
+      "resolved_url": "https://www.techinasia.com/news/dutch-ai-chip-startup-axelera-seeks-400m-funding",
+      "text": "",
+      "text_status": "thin"
+    },
+    {
+      "id": "614b1a9dbe84",
+      "title": "RiverStone raises $400m in debt markets with first legacy RT1 issuance",
+      "publisher": "Insurance Business",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWFZSVTJ3SVpyUXB6aDVjVWFrS1dDUTVacWxJNjFhS3BLb3Rtc0hQRko3QVpnN2ZXUEhnOEdfR1JPOXJRV0d6QmpDT19oWmVhWGp5Q0JBbGljZWt6eEF4X2pYdnJUVnBic2dmeGY2N3JUekZ0YjhjejRxWU1qeWZYR2VHSGN5NUtlWkRUN3pjbk5jTllocFdFQ1FwelIyZzRXVl9FenVhUl95cWxKa2prOWQ1d1NZWnpLekhMMHllRnJBUzYxN2tyWld2M2t0c1BpdlJaMEI3U1NjbTgwX0g0TUl3RQ?oc=5",
+      "published_at": "2026-11-25T07:17:02.000Z",
+      "publisher_url": "https://www.insurancebusinessmag.com",
+      "snippet": "RiverStone raises $400m in debt markets with first legacy RT1 issuance Insurance Business",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 400000000,
+        "currency": "USD",
+        "raw": "$400m"
+      },
+      "company_guess": "RiverStone",
+      "group_key": "riverstone",
+      "group_rank": 0,
+      "resolved_url": "https://www.insurancebusinessmag.com/reinsurance/news/breaking-news/riverstone-raises-400m-in-debt-markets-with-first-legacy-rt1-issuance-598744.aspx",
+      "text": "CONTINUE TO SITE\nCONTINUE TO SITE\nSELECT REGION\nUNITED STATES\nCANADA\nUNITED KINGDOM\nAUSTRALIA\nNEW ZEALAND\nASIA\nNews\nReinsurance News\nTV\nResources\nConference Hub\nPremium Content\nEditorial Panels\nReinsurance Companies\nBest In Reinsurance\nContact Us\nContact Us\nAuthors\nNews\nReinsurance News\nTV\nResources\nConference Hub\nPremium Content\nEditorial Panels\nReinsurance Companies\nBest In Reinsurance\nContact Us\nContact Us\nAuthors\nReinsurance News\nRiverStone raises $400m in debt markets with first legacy RT1 issuance\nRiverStone becomes the first legacy run-off insurer to tap RT1 capital markets under Solvency II\nREINSURANCE NEWS\nBy\nMark Rosanes\nNov 25, 2026\nShare\nRiverStone International has completed a US$400 million Restricted Tier 1 capital issuance, becoming what it describes as the first legacy run-off insurer to access an instrument that European live-market insurers have used for years to optimize their Solvency II capital structures. The notes carry a coupon of 9.875% and qualify as RT1 regulatory capital under Solvency II. They have been admitted to trading on the International Securities Market (ISM) of the London Stock Exchange.\nThe transaction is RiverStone's largest public debt issuance to date and its second capital markets deal in 2026, following a US$150 million Tier 2 issuance in April. Combined, the two transactions bring total public debt raised this year to US$550 million. Morgan Stanley acted as sole global coordinator, with Barclays, Goldman Sachs International, Lloyds Bank Corporate Markets, and Morgan Stanley as joint lead managers, and CVC Capital Markets as co-manager.\nGet the latest reinsurance news direct to your inbox twice a week. Sign up here\nA new instrument for a run-off balance sheet\nRT1 instruments are perpetual, deeply subordinated notes that sit at the highest-risk end of an insurer's capital stack. Under Solvency II, they qualify as Tier 1 capital but are restricted to no more than 20% of total Tier 1. Their key feature is loss absorbency. Distributions can be cancelled and principal repayment suspended if the issuer breaches its solvency capital requirement.\nLive-market European insurers, including Legal and General and Phoenix Group Holdings, have used RT1 instruments to manage their Solvency II capital ratios. That a run-off specialist has accessed the same market is new.\nThe 9.875% coupon reflects how debt investors price the structural differences between a run-off business and a live underwriter. A legacy acquirer does not generate new premium income. Its earnings come from reserve releases, investment returns, and transaction margins. That profile is less familiar to fixed-income investors, and the coupon captures the premium they require for the exposure.\nCapital built for deal velocity\nThe rationale for the issuance becomes clearer in the context of RiverStone's 2026 transaction pace. The firm has completed a US$1.6 billion loss portfolio transfer with QBE Insurance Group , taken on approximately US$400 million of legacy reinsurance liabilities from SiriusPoint , completed a $325 million LPT with Clear Spring Property and Casualty, made its ILS market debut through a Leadenhall Capital Partners transaction, and expanded into Australia.\nLarge LPT transactions require acquirers to deploy capital quickly once a deal is agreed, and the ability to draw on a diversified capital structure rather than retained earnings alone gives RiverStone more capacity to pursue multiple transactions concurrently.\nAndy Creed, group president and group chief financial officer of RiverStone, said the issuance \"reflects the strength of RiverStone's financial position, our disciplined approach to capital management and the continued development of our global platform,\" adding that the additional financial flexibility would support the group \"as we continue to pursue attractive opportunities across the global legacy market.\"\nA maturing market\nRiverStone's ILS debut through the Leadenhall transaction in late October 2026 extended that approach, adding alternative capital to the mix alongside its public debt program. The repeat-seller dynamic that now defines the legacy market , where carriers treat LPTs as recurring capital management tools rather than one-off exits, requires acquirers to maintain standing capacity rather than raising it deal by deal. The RT1 issuance, alongside the April Tier 2, is evidence that RiverStone is building that kind of balance sheet.\nFor cedants considering legacy transactions, the depth of RiverStone's capital structure is now a verifiable fact rather than an assumption, which changes the conversation around counterparty certainty for large or complex deals.\nGet the latest reinsurance news direct to your inbox twice a week. Sign up here\nRelated Stories\nRiverStone names Paul Brockman group CEO in leadership update\nRiverStone signs LPT deal with Lyft's Pacific Valley for commercial auto liability\nRiverStone International finalizes RITC agreement with Asta and Hampden\nFree newsletter\nWe'll keep you up-to-date with the latest breaking news, cutting edge opinion, and expert analysis affecting both your business and the industry as whole.\nSIGN UP\nLATEST NEWS\nSoft reinsurance market brings more choice and more complexity\nReinsurance News\nRiverStone raises $400m in debt markets with first legacy RT1 issuance\nReinsurance News\nCRC, Atrium launch Fractal Re II to channel third-party capital into Lloyd's\nReinsurance News\nFacultative reinsurance demand drives McGowan into new division\nReinsurance News\nCayman reinsurers challenge NAIC recapture charge on data and process grounds\nReinsurance News\nFree newsletter\nOur daily newsletter is FREE and keeps you up - to - date with the world of Insurance.\nPlease complete the form below and click on subscribe for daily newsletters from IB REINSURANCE.\nSIGN UP\nGlossary\nTerms & conditions\nPrivacy policy\nCookie policy\nYour Privacy Choices\nConditions of Use\nAbout us\nContact us\nSitemap\nRss\nCopyright © 2026 KM Business Information ",
+      "text_status": "ok"
+    },
+    {
+      "id": "182e4f411033",
+      "title": "Tucows’ Ting Fiber Sale Would Move $301.5 Million In Securitized Debt Off Its Balance Sheet",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/tucows-ting-fiber-sale-would-move-301-5-million-in-securitized-debt-off-its-balance-sheet/",
+      "published_at": "2026-11-25T17:31:00.000Z",
+      "publisher_url": null,
+      "snippet": "Tucows subsidiary Ting Fiber has agreed to sell Ting Holdco, which owns Ting’s fiber markets and their securitized financing facility, to Clearwave for nominal cash consideration. Approximately $301.5 million in non-recourse securitized notes will remain with Ting Holdco. Tucows expects to remove that debt from its consolidated balance sheet at closing.\nThe post Tucows’ Ting Fiber Sale Would Move $301.5 Million In Securitized Debt Off Its Balance Sheet appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 301500000,
+        "currency": "USD",
+        "raw": "$301.5 Million"
+      },
+      "company_guess": "Tucows’ Ting Fiber Sale",
+      "group_key": "tucows ting fiber sale",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/tucows-ting-fiber-sale-would-move-301-5-million-in-securitized-debt-off-its-balance-sheet/",
+      "text": "Tucows’ Ting Fiber Sale Would Move $301.5 Million In Securitized Debt Off Its Balance Sheet\nBy Amit Chowdhry\nToday at 12:31 PM\nTucows’ Ting Fiber Sale Would Move $301.5 Million In Securitized Debt Off Its Balance Sheet\nTucows subsidiary Ting Fiber has agreed to sell Ting Holdco, which owns Ting’s fiber markets and their securitized financing facility, to Clearwave for nominal cash consideration. Approximately $301.5 million in non-recourse securitized notes will remain with Ting Holdco. Tucows expects to remove that debt from its consolidated balance sheet at closing.\nTucows Retains Ting’s Partner Markets\nTucows will contribute $3 million in cash to Simply Bits, which will remain part of Ting Holdco. A previous commitment to invest up to $12.5 million in Ting will end when the transaction closes. Tucows will retain Ting’s partner markets.\nA Tucows subsidiary will provide transition services for nine months after closing, with Clearwave able to extend the period by up to two months. The companies said customer service, pricing, billing and support will continue as before during the transition.\nTucows expects the sale to close in the first quarter of 2027, subject to conditions including Federal Communications Commission and state utility approvals, noteholder consents and rating agency confirmations. The company expects its remaining debt to consist primarily of its syndicated credit facility, which had $184.4 million in principal outstanding as of September 30, 2026. Its 2026 adjusted EBITDA guidance, which excludes Ting, remains unchanged.\nKEY QUOTE\n“This agreement is a key outcome we have been working toward since we began the Ting strategic process. Upon closing, it is expected to remove more than $300 million in principal amount of securitized debt and the capital demands that came with building fiber networks. What will remain is a simpler, more focused business that we expect to generate cash more consistently: a portfolio of recurring-revenue businesses, led by Tucows Domains and Wavelo, with the flexibility to invest where we see the best returns. Greater flexibility carries an obligation to be disciplined, and Tucows’ job now is to put it to work in ways that compound value per share over time. I want to thank the Ting team for building a valuable business, and for their continued care for customers through the transition.”\nDave Woroch, Chief Executive Officer Of Tucows\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "41bf4c9b864c",
+      "title": "Companies linked to Alice Huang raised financing against USD 301 million worth of AI equipment in China: Report",
+      "publisher": "India's News.Net",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZV8tRXJpRmFDa01KWUFwcm9LSW8tYWR3ZU1BU2R4NmpiMXJESlNQREwzeEVINmRxYkxIeDM0MjlDc08yWGphX0VKVVhUQlFTN2MwYjBaOEUxR19mQzhLbzlJWkgwdHZTdzBteFFhbDJ6eXR3ck9ORzZ0OENscERidnB4Q0Ftc2JEWHhZUzZnVXR3T0MxSHIxLUFyTDIwV2ZZNHJobndKcHNobExqLTBURlhMOUo0bGp0ajBfOHA4ekV1dlNaRnFtZmdkcmdtUk9mTUczYUJWdUZidkgxMjdXVFFES0ExOGs?oc=5",
+      "published_at": "2026-11-25T16:44:00.000Z",
+      "publisher_url": "https://www.indiasnews.net",
+      "snippet": "Companies linked to Alice Huang raised financing against USD 301 million worth of AI equipment in China: Report India's News.Net",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 301000000,
+        "currency": "USD",
+        "raw": "USD 301 million"
+      },
+      "company_guess": "Companies linked to Alice",
+      "group_key": "companies linked to alice",
+      "group_rank": 0,
+      "resolved_url": "https://www.indiasnews.net/news/279453788/companies-linked-to-alice-huang-raised-financing-against-usd-301-million-worth-of-ai-equipment-in-china-report",
+      "text_status": "blocked:429"
+    },
+    {
+      "id": "760b05a5b663",
+      "title": "Adani Airport Holdings Signs ₹2,790 Crore (US$300 Million) Equity Deal At An $18 Billion Valuation",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/adani-airport-holdings-signs-%e2%82%b92790-crore-us300-million-equity-deal-at-an-18-billion-valuation/",
+      "published_at": "2026-11-25T17:46:52.000Z",
+      "publisher_url": null,
+      "snippet": "Adani Airport Holdings has signed a binding agreement to raise ₹2,790 crore (US$300 million) from funds and affiliates of 360 ONE Alternates Asset Management, bringing its announced equity raise to US$1.35 billion.\nThe post Adani Airport Holdings Signs ₹2,790 Crore (US$300 Million) Equity Deal At An $18 Billion Valuation appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 300000000,
+        "currency": "USD",
+        "raw": "US$300 Million"
+      },
+      "company_guess": "Adani Airport Holdings Signs",
+      "group_key": "adani airport signs",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/adani-airport-holdings-signs-%e2%82%b92790-crore-us300-million-equity-deal-at-an-18-billion-valuation/",
+      "text": "Adani Airport Holdings Signs ₹2,790 Crore (US$300 Million) Equity Deal At An $18 Billion Valuation\nBy Amit Chowdhry\nToday at 12:46 PM\nAdani Airport Holdings Signs ₹2,790 Crore (US$300 Million) Equity Deal At An $18 Billion Valuation\nAdani Airport Holdings has signed a binding agreement to raise ₹2,790 crore (US$300 million) from funds and affiliates of 360 ONE Alternates Asset Management, bringing its announced equity raise to US$1.35 billion.\nUnder the share subscription agreement, 360 ONE Asset will acquire newly issued shares on the same terms as investors in the earlier round. The transaction implies a pre-money equity valuation of approximately US$18 billion.\nOnce both transactions are completed, participating investors will collectively own approximately 7.01% of Adani Airport Holdings, a subsidiary of Adani Enterprises.\nFunding Airport Expansion\nThe earlier round raised ₹9,825 crore, approximately US$1 billion, in primary equity from a consortium including Alpha Wave Global, Premji Invest, Temasek and BlackRock-managed funds.\nThe capital will support airport network upgrades, including passenger services and non-aeronautical businesses. Adani Airport Holdings aims to increase annual passenger-handling capacity from nearly 96 million to 200 million, more than doubling its existing capacity.\nKEY QUOTES\n“This partnership is yet another milestone in building out the Adani Airports platform. Having such marquee, long-term investors on board is a testament to their confidence in India’s aviation growth story.”\nJeet Adani, Non-Executive Director Of Adani Airport Holdings\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "84cf9a509bf3",
+      "title": "Alice Huang-linked firms reportedly raised financing against $270 million in AI servers and modules in China",
+      "publisher": "primetimer.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNblo3akVmMnRCZkdfb3FlRFZHeUpHR2pUR3E3ZzRyZmdtZzJ3ODNicmR0X0lJVXdHYkVlZVFSWUZvZjdBdTRuZjZ6a0lRODMyczU0S0xfVm5RMWczUUpteDRySGVDak9xcW1IbVpwdks4VmFtai1rajNNUTRSZlpJbUU0TmlRTE83UGpmRHZQaDQwUXF1MDFNQTJBX0lLanFXUjJtQXVkY19uNnRwaS1Sa1N4ZnZSMzJqVG1xZlZfMHpfb3pKSkM4OHpJZnlOYmo4NlB6d3ln?oc=5",
+      "published_at": "2026-11-25T10:39:00.000Z",
+      "publisher_url": "https://www.primetimer.com",
+      "snippet": "Alice Huang-linked firms reportedly raised financing against $270 million in AI servers and modules in China primetimer.com",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 270000000,
+        "currency": "USD",
+        "raw": "$270 million"
+      },
+      "company_guess": "Alice Huang-linked firms reportedly",
+      "group_key": "alice huang linked firms reportedly",
+      "group_rank": 0,
+      "resolved_url": "https://www.primetimer.com/news/alice-huang-linked-firms-reportedly-raised-financing-against-270-million-in-ai-servers-and-modules-in-china",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "1a4f909a0a77",
+      "title": "Sea Box Receives $216.4 Million Army Vehicle For Expandable Maintenance Shelters",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/sea-box-receives-216-4-million-army-vehicle-for-expandable-maintenance-shelters/",
+      "published_at": "2026-11-25T17:09:04.000Z",
+      "publisher_url": null,
+      "snippet": "Sea Box has received a $216.36 million firm-fixed-price indefinite-delivery Army contract to supply one-sided expandable shelters for two maintenance shop programs.\nThe post Sea Box Receives $216.4 Million Army Vehicle For Expandable Maintenance Shelters appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 216400000,
+        "currency": "USD",
+        "raw": "$216.4 Million"
+      },
+      "company_guess": "Sea Box",
+      "group_key": "sea box",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/sea-box-receives-216-4-million-army-vehicle-for-expandable-maintenance-shelters/",
+      "text": "Sea Box Receives $216.4 Million Army Vehicle For Expandable Maintenance Shelters\nBy Amit Chowdhry\nToday at 12:09 PM\nSea Box Receives $216.4 Million Army Vehicle For Expandable Maintenance Shelters\nSea Box has received a $216.36 million firm-fixed-price indefinite-delivery Army contract to supply one-sided expandable shelters for two maintenance shop programs.\nThe shelters will serve as the physical enclosures for the Armament Repair Shop Set and the Metal Working and Machining Shop Set. The award covers shelter supply rather than a separately described procurement of the equipment housed inside them.\nThe Army selected Sea Box following an online solicitation that attracted eight bids. The award notice designated the company as a small business.\nOrders Will Establish Locations And Funding\nWork locations and funding will be determined with each order placed under the contract.\nThe announced $216.36 million contract value should therefore be distinguished from funds obligated for individual orders. The provided notice does not identify an initial funding obligation or specify how many shelters the Army will purchase.\nThe indefinite-delivery arrangement allows requirements to be addressed through orders issued under the broader agreement. Those orders will establish the applicable performance locations and funding commitments.\nCompletion Expected In November 2031\nEstimated completion is November 21, 2031, establishing the announced timeframe for contract performance.\nArmy Contracting Command at Detroit Arsenal, Michigan, is the contracting activity responsible for the procurement. The contract is identified as W912CH-27-D-A104.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "f24e4eded0f6",
+      "title": "Arch MI Secures $202.5 Million In Reinsurance Through Bellemeade Transaction",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/arch-mi-secures-202-5-million-in-reinsurance-through-bellemeade-transaction/",
+      "published_at": "2026-11-25T18:06:15.000Z",
+      "publisher_url": null,
+      "snippet": "Arch Mortgage Insurance Company has secured $202.5 million in indemnity reinsurance covering a pool representing approximately $55 billion in mortgages through Bellemeade Re 2026-1, a special-purpose reinsurer.\nThe post Arch MI Secures $202.5 Million In Reinsurance Through Bellemeade Transaction appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 202500000,
+        "currency": "USD",
+        "raw": "$202.5 Million"
+      },
+      "company_guess": "Arch MI",
+      "group_key": "arch mi",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/arch-mi-secures-202-5-million-in-reinsurance-through-bellemeade-transaction/",
+      "text": "Arch MI Secures $202.5 Million In Reinsurance Through Bellemeade Transaction\nBy Amit Chowdhry\nToday at 1:06 PM\nArch MI Secures $202.5 Million In Reinsurance Through Bellemeade Transaction\nArch Mortgage Insurance Company has secured $202.5 million in indemnity reinsurance covering a pool representing approximately $55 billion in mortgages through Bellemeade Re 2026-1, a special-purpose reinsurer.\nThe transaction closed November 24 and combines approximately $162 million in insurance-linked notes with $40.5 million in direct reinsurance.\nThe coverage primarily relates to mortgage insurance policies issued by Arch MI and its affiliates from September 2025 through October 2026. The $55 billion figure represents the underlying mortgage pool, while $202.5 million is the reinsurance protection obtained.\nFive Note Classes Support Risk Transfer\nBellemeade Re 2026-1 is funding its reinsurance obligations through five classes of amortizing notes, each with a 10-year legal final maturity.\nThe issuance includes approximately $45.94 million in Class M-1A notes paying one-month SOFR plus 1.50% and $45.94 million in Class M-1B notes paying SOFR plus 2%.\nThe remaining classes comprise approximately $36.27 million in Class M-1C notes at SOFR plus 2.50%, $19.34 million in Class M-2 notes at SOFR plus 3%, and $14.51 million in Class B-1 notes at SOFR plus 4.50%.\nMorningstar DBRS assigned ratings ranging from BBB (low)(sf) for Class M-1A to B (sf) for Class B-1. An additional $40.503 million was placed with a panel of reinsurers.\nBellemeade Program Reaches 23 Transactions\nThe deal is Arch’s first mortgage insurance-linked note transaction of 2026. Since launching the Bellemeade program in 2015, the company has completed 23 transactions securing nearly $10 billion in indemnity reinsurance.\nArch MI described the program as an important component of its risk and capital management strategy, with the latest transaction’s amortization structure aligned with its PMIERs capital requirements.\nHeadquartered in Greensboro, North Carolina, Arch MI is a wholly owned subsidiary of Arch Capital Group. Its flagship insurer is licensed to write mortgage insurance in all 50 states, the District of Columbia and Puerto Rico.\nKEY QUOTES\n“We have issued at least one Bellemeade transaction a year since 2015, and we remain committed to the program as an important part of Arch’s risk and capital management strategy.”\n“We are very pleased with the execution of this transaction. Strong investor engagement allowed us to achieve attractive execution across the capital structure, while maintaining an amortization structure aligned with our PMIERs capital requirements.”\nJennifer Weiss, Vice President Of Structured Capital And Reinsurance At Arch MI\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "8ed115e738d3",
+      "title": "Pliant Secures €200 Million Debt Financing to Scale European B2B Payment Solutions",
+      "publisher": "FF News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejBYUENXemVMTmlPNGQ1QTRKVm9XY2FzQzdLS1dfS2lBYjZQZzVaRzZtUE1ZTm5JWm96elBaZHZYTDg1TnFLeDhTNjdYcl91RGxIMGd5cldLazBJSXFTTjVHVmx2ZlByeHA1djYxT3otVnZOdFljZlFVcjlwSjdRMmJHbl9GLWlzOFFwbFBiTTg5MXVzNVdRUzRKb0pGOVA0bTUtOW5BUWwyWTJSZTNuenhsYw?oc=5",
+      "published_at": "2026-11-24T12:20:53.000Z",
+      "publisher_url": "https://ffnews.com",
+      "snippet": "Pliant Secures €200 Million Debt Financing to Scale European B2B Payment Solutions FF News",
+      "source_feed": "gnews-g6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 200000000,
+        "currency": "EUR",
+        "raw": "€200 Million"
+      },
+      "company_guess": "Pliant",
+      "group_key": "pliant",
+      "group_rank": 0,
+      "resolved_url": "https://ffnews.com/news/pliant-secures-more-than-200-million-in-additional-financing-capacity-to-support-4ca93d78",
+      "text": "",
+      "text_status": "thin"
+    },
+    {
+      "id": "4abedbd370ca",
+      "title": "Pliant Adds More Than €200 Million In Debt Capacity For Its European Card Business",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/pliant-adds-more-than-e200-million-in-debt-capacity-for-its-european-card-business/",
+      "published_at": "2026-11-25T17:17:47.000Z",
+      "publisher_url": null,
+      "snippet": "Berlin-based payments company Pliant has secured more than €200 million in additional debt financing capacity through three transactions with Ascory Bank and Viola Credit. The arrangements will help Pliant fund customer credit balances and meet settlement collateral requirements as European commercial card volumes grow.\nThe post Pliant Adds More Than €200 Million In Debt Capacity For Its European Card Business appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 200000000,
+        "currency": "EUR",
+        "raw": "€200 Million"
+      },
+      "company_guess": "Pliant Adds More Than",
+      "group_key": "pliant",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "8beafbda0c5f",
+      "title": "E.F. Hutton Advises Poco Loco Holdings Group on $188.2 Million Financing",
+      "publisher": "Paul Bluemner",
+      "link": "https://www.citybiz.co/article/938595/e-f-hutton-advises-poco-loco-holdings-group-on-188-2-million-financing/",
+      "published_at": "2026-11-25T15:08:14.000Z",
+      "publisher_url": null,
+      "snippet": "E.F. Hutton & Co., a New York-based investment bank and broker-dealer, served as exclusive financial advisor to Poco Loco Holdings... Read More\nThe post E.F. Hutton Advises Poco Loco Holdings Group on $188.2 Million Financing appeared first on citybiz .",
+      "source_feed": "citybiz",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 188200000,
+        "currency": "USD",
+        "raw": "$188.2 Million"
+      },
+      "company_guess": "E.F. Hutton",
+      "group_key": "e f hutton",
+      "group_rank": 0,
+      "resolved_url": "https://www.citybiz.co/article/938595/e-f-hutton-advises-poco-loco-holdings-group-on-188-2-million-financing/",
+      "text": "Global , New York\nGeneral Business , Venture Capital\nE.F. Hutton Advises Poco Loco Holdings Group on $188.2 Million Financing\nNovember 25, 2026\nE.F. Hutton & Co. , a New York-based investment bank and broker-dealer, served as exclusive financial advisor to Poco Loco Holdings Group LLC on an approximately $188.2 million financing transaction comprising mortgage financing, land sale-leaseback and build-to-suit financing arrangements.\nThe transaction will enable Poco Loco to unlock capital from its existing real estate portfolio, enhance liquidity and support future development, expansion initiatives and construction of multiple retail locations.\nPoco Loco is a family-owned, Texas-based Hispanic grocery and convenience retail operator serving communities across Central and South Texas.\nThe company has grown from a single neighborhood grocery store into a diversified retail platform encompassing full-service supermarkets, meat markets, convenience stores and gas stations.\nSupported by more than 1,000 employees, Poco Loco specializes in providing fresh, authentic and affordable groceries to the communities it serves.\nThe financing combines multiple real estate-backed funding structures, allowing Poco Loco to optimize its property holdings while securing capital to support its long-term expansion strategy.\n“Convenience and fuel operators often hold valuable real estate, and financing it well takes a structure that reflects both the property and the business that operates on it,” said Duncan B. Swanston , president of E.F. Hutton.\n“We are pleased to have advised Poco Loco on this financing and look forward to supporting the company as it continues to grow.”\nThe transaction highlights E.F. Hutton’s private credit capabilities, which include structuring and arranging customized financing solutions across direct lending, mezzanine financing, real estate-backed financing and structured credit.\nThe individual financing amounts, participating lenders and other transaction terms were not disclosed.\nHeadquartered in New York City, E.F. Hutton provides investment banking, financial advisory, capital raising and financing services to corporations, financial sponsors and institutional investors across the United States, Europe, the Middle East, Asia and Latin America.\nThe $188.2 million financing positions Poco Loco to expand its retail footprint while leveraging the value of its existing real estate assets to support continued growth across Texas.",
+      "text_status": "ok"
+    },
+    {
+      "id": "173d6beca30c",
+      "title": "Sabre Systems Receives $155.7 Million Increase To Navy Engineering Support Ceiling",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/sabre-systems-receives-155-7-million-increase-to-navy-engineering-support-ceiling/",
+      "published_at": "2026-11-25T17:16:50.000Z",
+      "publisher_url": null,
+      "snippet": "Sabre Systems received a $155.69 million increase to the labor-cost ceiling on an existing Naval Air Systems Command engineering support contract.\nThe post Sabre Systems Receives $155.7 Million Increase To Navy Engineering Support Ceiling appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 155700000,
+        "currency": "USD",
+        "raw": "$155.7 Million"
+      },
+      "company_guess": "Sabre Systems",
+      "group_key": "sabre systems",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/sabre-systems-receives-155-7-million-increase-to-navy-engineering-support-ceiling/",
+      "text": "Sabre Systems Receives $155.7 Million Increase To Navy Engineering Support Ceiling\nBy Amit Chowdhry\nToday at 12:16 PM\nSabre Systems Receives $155.7 Million Increase To Navy Engineering Support Ceiling\nSabre Systems received a $155.69 million increase to the labor-cost ceiling on an existing Naval Air Systems Command engineering support contract.\nThe modification raises the ceiling from $499.92 million to $655.61 million while leaving the fee unchanged. The increase expands the contract’s available labor-cost capacity rather than representing an immediate funding obligation.\nThe indefinite-delivery, indefinite-quantity contract supports Naval Air Systems Command program offices with systems engineering, research and development, technical baseline work and engineering assessments.\nIndividual Orders Will Receive Funding\nThe Navy obligated no funds when it issued the modification. Funding will instead be committed through individual orders as they are issued under the contract.\nThe revised ceiling therefore establishes capacity for work ordered through the agreement, with actual funding obligations determined separately. It does not mean the full $655.61 million has been obligated.\nMaryland Accounts For Most Work\nSabre Systems will perform 40% of the work in Lexington Park, Maryland, and 30% in Patuxent River, Maryland.\nThe remaining 30% will take place at other locations within the continental United States. Completion is expected in April 2030.\nThe initial contract was competitively procured. Naval Air Warfare Center Aircraft Division at Patuxent River issued modification P00010 under the existing engineering support agreement.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "e39627f90486",
+      "title": "Ritzey Therapeutics Debuts With $112.5 Million And A Drug Candidate Headed For Phase 2",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/ritzey-therapeutics-debuts-with-112-5-million-and-a-drug-candidate-headed-for-phase-2/",
+      "published_at": "2026-11-25T17:10:20.000Z",
+      "publisher_url": null,
+      "snippet": "Ritzey Therapeutics has launched with a $112.5 million Series A to develop treatments for chronic metabolic and neurological conditions. The clinical-stage biotechnology company also completed its acquisition of Perha Pharmaceuticals, adding a portfolio of experimental medicines, including a lead candidate that has completed Phase 1 testing.\nThe post Ritzey Therapeutics Debuts With $112.5 Million And A Drug Candidate Headed For Phase 2 appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 112500000,
+        "currency": "USD",
+        "raw": "$112.5 Million"
+      },
+      "company_guess": "Ritzey Therapeutics",
+      "group_key": "ritzey therapeutics",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/ritzey-therapeutics-debuts-with-112-5-million-and-a-drug-candidate-headed-for-phase-2/",
+      "text": "Ritzey Therapeutics Debuts With $112.5 Million And A Drug Candidate Headed For Phase 2\nBy Amit Chowdhry\nToday at 12:10 PM\nRitzey Therapeutics Debuts With $112.5 Million And A Drug Candidate Headed For Phase 2\nRitzey Therapeutics has launched with a $112.5 million Series A to develop treatments for chronic metabolic and neurological conditions. The clinical-stage biotechnology company also completed its acquisition of Perha Pharmaceuticals, adding a portfolio of experimental medicines, including a lead candidate that has completed Phase 1 testing.\nVida Ventures led the financing, with participation from EcoR1 Capital, Fidelity Management & Research Company, Perceptive Advisors, Montanova, Alexandria Venture Investments and FMB Research. Vida Ventures Managing Director Matt Cohen joined Ritzey’s board. Leerink Partners served as sole placement agent.\nPerha Acquisition Brings A Clinical Pipeline\nRitzey plans to advance its once-daily oral drug candidate into Phase 2 studies. The candidate targets DYRK1A, an enzyme involved in insulin-producing pancreatic beta-cell function and neuronal signaling. The proposed studies will examine beta-cell function and changes in the tau protein in people with Down syndrome, along with beta-cell function in people with type 1 or type 2 diabetes.\nThe scientific team that led development of the programs at Perha will join Ritzey. Founder Sharon Mates serves as chair, CEO and president. She previously founded and led Intra-Cellular Therapies through its 2025 acquisition by Johnson & Johnson. Several former members of that company’s senior management team have also joined Ritzey.\nKEY QUOTE\n“Our team has a rich history of investigating and understanding intracellular signaling pathways to develop and deliver innovative medicines for the treatment of chronic diseases. Bringing that same expertise to Ritzey, we will continue to work towards improving the treatment of chronic diseases for patients. We are studying the effects of the disturbances of these pathways in individuals with Down syndrome, examining metabolic effects, cognitive disturbances and tau hyperphosphorylation (an early predictor of Alzheimer’s disease). Additionally, DYRK1A inhibitors target a root cause of insulin insufficiency in diabetes in the general population, and we will examine our inhibitors in both T1D and T2D. At Ritzey, we have the opportunity to advance a novel mechanism of action that could effectively alter the course of these chronic diseases. I am proud to be joined by members of the former senior management team at Intra-Cellular Therapies, and we are grateful to Vida Ventures and our other investors for their support as we move forward with our Phase 2 clinical trials.”\nDr. Sharon Mates, Founder, Chair, CEO And President Of Ritzey Therapeutics\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "d4b1603d0103",
+      "title": "Ant Group leads $100m pre-Series A in Simplexity Robotics at $1.6b valuation: Report",
+      "publisher": "DealStreetAsia",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOUw2dHlIWjBSMWNHQnh0UWpjU1NVVXBIRTRSTi1PNmhVWGdNSzF6SzBraVpST0lLd1o0SVBkODRnMjF4RFpJeWlYNTgwWDVES3BfRlZoM0J0YUxUcTNjT0kzQy1MeDVNYW43NDRMRjg2clgyUVo5ZGtFQUtZdzVaWg?oc=5",
+      "published_at": "2026-11-24T12:51:14.000Z",
+      "publisher_url": "https://www.dealstreetasia.com",
+      "snippet": "Ant Group leads $100m pre-Series A in Simplexity Robotics at $1.6b valuation: Report DealStreetAsia",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100m"
+      },
+      "company_guess": "Ant Group leads $100m",
+      "group_key": "ant group leads 100m",
+      "group_rank": 0,
+      "resolved_url": "https://www.dealstreetasia.com/stories/ant-group-simplexity-robotics-502130",
+      "text": "Chinese embodied intelligence startup Simplexity Robotics has closed a $100-million pre-Series A funding round led by Jack Ma-backed Ant Group, driving its post-money valuation to $1.6 billion, Bloomberg reported, quoting chairman and co-founder Wang Kai.\nExisting backers Tencent Holdings, HSG and Lanchi Ventures participated in the round.\nFor Ant Group, the investment expands its growing robotics portfolio of about a dozen companies, including STAR Market-listed Unitree, as well as Astribot, Galaxea, LinkerBot and Zeroth.\nThis new round builds on an aggressive early-stage fundraising pace for the Hangzhou-based startup only founded in July 2025.\nSet up by three former executives from Chinese electric vehicle (EV) maker Li Auto Inc – chairman Wang Kai, CEO & CTO Jia Peng and COO Wang Jiajia – Simplexity achieved a valuation of over $1 billion within 10 months of its inception.\nIn March, the startup announced its unicorn status after raising a combined 2 billion yuan ($300 million) across five funding rounds. Simplexity’s earlier cap table drew investments from Alibaba Group, Legend Capital, Gaorong Ventures, Vision Plus Capital, CAS Star, Lanchi Ventures, and HSG.\nSimplexity differentiates itself through a vertically integrated approach, developing both proprietary hardware and in-house software stacks from native AI world models to the real-world data used to train them. It has R&D teams in Beijing, Shanghai, and Suzhou, employing 116 full-time staff.\nIn early July, the startup delivered the first batch of 100 Simplexity i7 Pro robots, which are wheeled, dual-arm general-purpose embodied robots designed for industrial and logistics workflows.\nAlongside this delivery milestone, Simplexity also commissioned what it claimed to be the world’s first intelligent CNC robot production line for Leaderdrive, one of its main customers and a key supplier to US robot makers Tesla Inc and Figure AI Inc. Its embodied AI robots run round-the-clock production of precision motion-control components.\nOther customers include precision-parts maker Suzhou Dongshan Precision Manufacturing Co. as well as Hangcha.\nThe fresh capital follows the introduction of Simplexity’s second humanoid product dubbed iX, a wheeled service robot designed for commercial and hospitality environments to handle tasks like beverage preparation, item delivery, and guided tours. Its early customers include Korean robotics startup Rlwrld Inc., Tsinghua University, and forklift maker Hangcha Group Co.",
+      "text_status": "ok"
+    },
+    {
+      "id": "46bd840ef7ca",
+      "title": "Epochal launches with $100M to help developers train predictive AI models",
+      "publisher": "SiliconANGLE",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0U4dWFJNFpTbmV6bHMySTRUaEJMY2lFZzRYMGVqdGNtb2dFNXQ2S3NkSktFc2IybEVXQ1NMV0ttNVVFa0wtZXozeWs0ZERYM0VqYk5ob3Z0NjFnSXdZYlZhb2dZcU1tUjVzdV9TUEhjM1dUWlVnVnBLOEJjV0MzZW1KenY5VXJXeE5ZQ2pJNjl6bVJSQTdzWUQ4WGdZWHU2ZWlncWlpOTM3TDlwQXc?oc=5",
+      "published_at": "2026-11-25T01:30:00.000Z",
+      "publisher_url": "https://siliconangle.com",
+      "snippet": "Epochal launches with $100M to help developers train predictive AI models SiliconANGLE",
+      "source_feed": "gnews-g8",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100M"
+      },
+      "company_guess": "Epochal",
+      "group_key": "epochal",
+      "group_rank": 0,
+      "resolved_url": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
+      "text": "UPDATED 20:30 EST / NOVEMBER 24 2026\nAI\nEpochal launches with $100M to help developers train predictive AI models\nby Maria Deutscher\nArtificial intelligence tooling startup Epochal AI Inc. launched today with $100 million in funding.\nThe capital was provided by Chief Executive Officer Guodong Zhang, a machine learning researcher who earlier co-founded xAI Corp. He established Epochal earlier this year with two other xAI co-founders, Zihang Dai and Manuel Kroiss. The company’s staff also includes former researchers from Anthropic PBC, OpenAI Group PBC and Google DeepMind.\nEpochal’s first offering is a cloud service called the Epochal Time Portal. According to the company, it enables developers to train AI models that can predict future events. The service does so by providing models with access to historical web data from the past 30 years.\nIf a bank wishes to train an AI that can predict quarterly earnings, it could use the service to fetch financial results from the first three quarters of 2025. It could then ask the AI to estimate fourth-quarter results from the same year.\nAfter the model generates its predictions, developers can compare them against real fourth-quarter earnings to check the model’s accuracy. They can make adjustments if necessary and then repeat the training workflow until the model starts generating accurate forecasts.\nThe Epochal Time Portal features more than 1 trillion historical web pages on launch. Each entry includes a timestamp that indicates when it was created. According to the company, its timestamps make it possible to track how a web page changed over time.\nAI models access the content through a purpose-built search engine. It enables them to specify the time periods from which they wish to retrieve web pages. According to Epochal, its platform provides one-minute granularity for the most frequently updated pages.\nLike consumer search engines, the Epochal Time Portal prioritizes the web pages that are most relevant to each given query. The difference is that it considers web pages’ creation date when evaluating relevance. If a query contains the term “Meta” but asks for pages created before 2021, the year Facebook Inc. rebranded, the Epochal Time Portal will not bring up pages that relate to the social networking giant.\nToday’s frontier models can determine that they’re being trained on historical data rather than up-to-date information. For example, a model might compare the creation date of a web page to the virtual clock of the operating system on which it deployed. Such discrepancies can lower the effectiveness of training runs.\nAccording to Epochal, its service mitigates the issue by deploying AI models in sandboxes synced to their training data. If a company is training a model on we pages from 2025, the Epochal Time Portal will run it on a Linux version from that year. It applies the same precautions to the software tools and programming language versions that models use.\nThe Epochal Time Portal is initially available in a single free tier with low usage limits. Epochal plans to follow up the launch by sharing the results of several AI experiments that its researchers have carried out using the service.\nImage: Unsplash\nA message from John Furrier, co-founder of SiliconANGLE:\nSupport our mission to keep content open and free by engaging with theCUBE community. Join theCUBE’s Alumni Trust Network , where technology leaders connect, share intelligence and create opportunities.\n15M+ viewers of theCUBE videos , powering conversations across AI, cloud, cybersecurity and more\n11.4k+ theCUBE alumni — Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network\nAre you an AWS customer? Support SiliconANGLE financially by buying your AWS services from our Marketplace portal page and links: https://siliconangle.com/aws-marketplace/\nAbout SiliconANGLE Media\nSiliconANGLE Media is a recognized leader in digital media innovation, uniting breakthrough technology, strategic insights and real-time audience engagement. As the parent company of SiliconANGLE , theCUBE Network , theCUBE Research , CUBE365 , theCUBE AI and theCUBE SuperStudios — with flagship locations in Silicon Valley and the New York Stock Exchange — SiliconANGLE Media operates at the intersection of media, technology and AI.\nFounded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations.\nLATEST STORIES\nThree insights you may have missed from theCUBE’s coverage of the Fully Connected event\nOpen-weight models are the hottest thing in AI. Are they right for you?\nFormal verification startup Sequent raises $2.2M to prove code obeys its safety rules\nZoom's conversations-to-completion strategy is starting to pay off\nAnthropic is trying to kill traditional desktop apps with Claude-generated desktop apps\nRajiv Ramaswami to step down as Nutanix begins hunt for its next CEO\nLATEST STORIES\nThree insights you may have missed from theCUBE’s coverage of the Fully Connected event\nINFRA - BY VICTORIA GAYTON . 1 HOUR AGO\nOpen-weight models are the hottest thing in AI. Are they right for you?\nAI - BY PAUL GILLIN . 5 HOURS AGO\nFormal verification startup Sequent raises $2.2M to prove code obeys its safety rules\nSECURITY - BY DUNCAN RILEY . 14 HOURS AGO\nZoom's conversations-to-completion strategy is starting to pay off\nAPPS - BY ZEUS KERRAVALA . 17 HOURS AGO\nAnthropic is trying to kill traditional desktop apps with Claude-generated desktop apps\nAI - BY MIKE WHEATLEY . 19 HOURS AGO\nRajiv Ramaswami to step down as Nutanix begins hunt for its next CEO\nINFRA - BY MIKE WHEATLEY . 19 HOURS AGO",
+      "text_status": "ok"
+    },
+    {
+      "id": "e64c2c185c57",
+      "title": "MVP Robotics Receives $90.1 Million Air Force Contract Ceiling Increase",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/mvp-robotics-receives-90-1-million-air-force-contract-ceiling-increase/",
+      "published_at": "2026-11-25T16:53:14.000Z",
+      "publisher_url": null,
+      "snippet": "MVP Robotics received a $90.1 million firm-fixed-price Air Force contract modification, raising the ceiling on its existing agreement from $4.9 million to $95 million.\nThe post MVP Robotics Receives $90.1 Million Air Force Contract Ceiling Increase appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 90100000,
+        "currency": "USD",
+        "raw": "$90.1 Million"
+      },
+      "company_guess": "MVP Robotics",
+      "group_key": "mvp robotics",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/mvp-robotics-receives-90-1-million-air-force-contract-ceiling-increase/",
+      "text": "MVP Robotics Receives $90.1 Million Air Force Contract Ceiling Increase\nBy Amit Chowdhry\nToday at 11:53 AM\nMVP Robotics Receives $90.1 Million Air Force Contract Ceiling Increase\nMVP Robotics received a $90.1 million firm-fixed-price Air Force contract modification, raising the ceiling on its existing agreement from $4.9 million to $95 million.\nThe modification expands the contract’s maximum value. The increased ceiling is distinct from the amount of funding committed when the Air Force issued the award.\nThe Bradford, Vermont-based company will perform the work in Bradford. Completion is expected by September 24, 2031.\nAir Force Obligates Initial Funding\nThe Air Force obligated $4.335 million in fiscal 2026 research, development, test and evaluation funds at award.\nThat obligation represents approximately 4.6% of the revised $95 million ceiling. The ceiling establishes the maximum contract value, while the obligation identifies funds committed through this action.\nThe award notice described the ceiling increase but did not identify additional deliverables. It also did not provide a breakdown of the work, individual project milestones or a schedule for future funding commitments.\nAFWERX Issues Modification\nThe AFWERX Enterprise Contracting Branch at Wright-Patterson Air Force Base, Ohio, issued the action under modification P00002.\nThe underlying contract is FA2280-26-D-0001. The modification updates that existing agreement rather than establishing a separate contract, with the announced performance period extending through September 2031 and the work remaining in Bradford, Vermont.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "608de6770ee5",
+      "title": "UK defence, autonomy SME raises USD70m in Series A funding round",
+      "publisher": "DSEI Gateway",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGtZeFgxNzZyZTRSRFhTWndvUE5NTXdLTnZIQ0RPaGVzYWpfNWdScHhuRjU5Skxva2FuS05EaC1QRl9nR1RyamtlaEh4M2hvYWVraVNjM3Z2UWVtckVOZHNvUnRFd2dybEZaeGYxTVg1LTZOVmVCQ2dEMmxKTUhjQlk2WEdTN2UyY1FSeW9adE5QelY4WnF4SUdKdTZ2RFFlemI0?oc=5",
+      "published_at": "2026-11-25T11:05:17.000Z",
+      "publisher_url": "https://dsei-gateway.com",
+      "snippet": "UK defence, autonomy SME raises USD70m in Series A funding round DSEI Gateway",
+      "source_feed": "gnews-5",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 70000000,
+        "currency": "USD",
+        "raw": "USD70m"
+      },
+      "company_guess": "UK defence",
+      "group_key": "uk defence",
+      "group_rank": 0,
+      "resolved_url": "https://dsei-gateway.com/en/news/sme/uk-defence-autonomy-sme-raises-usd70m-in-series-a-funding-round/",
+      "text_status": "blocked:429"
+    },
+    {
+      "id": "19424c3d5408",
+      "title": "Applied Research Associates Receives $65.5 Million Air Force Safety Research Contract",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/applied-research-associates-receives-65-5-million-air-force-safety-research-contract/",
+      "published_at": "2026-11-25T17:02:16.000Z",
+      "publisher_url": null,
+      "snippet": "Applied Research Associates has received a $65.51 million Air Force contract for optical radiation bioeffects and safety research.\nThe post Applied Research Associates Receives $65.5 Million Air Force Safety Research Contract appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 65500000,
+        "currency": "USD",
+        "raw": "$65.5 Million"
+      },
+      "company_guess": "Applied Research Associates",
+      "group_key": "applied research associates",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/applied-research-associates-receives-65-5-million-air-force-safety-research-contract/",
+      "text": "Applied Research Associates Receives $65.5 Million Air Force Safety Research Contract\nBy Amit Chowdhry\nToday at 12:02 PM\nApplied Research Associates Receives $65.5 Million Air Force Safety Research Contract\nApplied Research Associates has received a $65.51 million Air Force contract for optical radiation bioeffects and safety research.\nThe award is structured as a cost-plus-fixed-fee contract, providing reimbursement for allowable costs alongside a fixed fee. The research concerns the biological effects of optical radiation and associated safety considerations.\nThe Albuquerque, New Mexico-based company will perform the work at Joint Base San Antonio–Fort Sam Houston in Texas. Completion is expected by December 1, 2029.\nInitial Funding Supports Research And Development\nThe Air Force obligated $1.235 million in fiscal 2027 research, development, test and evaluation funds when it issued the award.\nThat initial obligation represents approximately 1.9% of the announced $65.51 million contract value. The distinction separates funds committed at award from the broader value of the research contract.\nThe provided award details do not specify individual research milestones, experimental methods or a schedule for additional funding obligations.\nAir Force Research Laboratory Oversees Contract\nThe Air Force Research Laboratory at Wright-Patterson Air Force Base, Ohio, is the contracting activity responsible for the award.\nAlthough the contracting office is based in Ohio and Applied Research Associates is headquartered in New Mexico, the designated performance location is in Texas.\nThe contract is identified as FA2384-27-C-B002.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "bd5cb4d23ad2",
+      "title": "R-Squared raises $50 million to build a bridge between Israeli startups and Silicon Valley",
+      "publisher": "CTech",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GaHFnS3ZNZUFoYzQ3X2JnRnZrQVktdWxIMkFyLWl0TWJRVjJyUVhSZ0lPdUlKYnBybEdicktqWjYzNENXVFRtODk3R0MzcThDLWFVeXlNRUpmRUt2S0tseUVDZnNPZFdv?oc=5",
+      "published_at": "2026-11-25T07:15:00.000Z",
+      "publisher_url": "https://www.calcalistech.com",
+      "snippet": "R-Squared raises $50 million to build a bridge between Israeli startups and Silicon Valley CTech",
+      "source_feed": "gnews-7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 50000000,
+        "currency": "USD",
+        "raw": "$50 million"
+      },
+      "company_guess": "R-Squared",
+      "group_key": "r squared",
+      "group_rank": 0,
+      "resolved_url": "https://www.calcalistech.com/ctechnews/article/sjkqqb4jme",
+      "text": "",
+      "text_status": "thin"
+    },
+    {
+      "id": "3154551dc2aa",
+      "title": "London-based Bound secures €45.68 million debt facility for its AI-powered FX risk management platform - EU-Startups",
+      "publisher": "EU-Startups",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVVJNam9KNDhmSkZBUW9CaExiR193WXZqQVdlUU53X3FfbU1sWVdPX3dlOUtwWE1XZFJQSXFsOFlydHJyQlkxSmVwMDl3d1dRQ0Vad213WEpwbzhRejFkV0tDSFItLWdTakxHQjdPSjRBaHhjYVpTSDZXSkNnT3oxRWN0dmhlQ0xjZEg1MHU2eWpHWHpvMkpmWkVJblY0WkFjZWRjRTlMLXd1OUxYTERWdllQNlRaR2R3NzM2WTZyR0NVZWFNUWk2U1k1YU1VUEdsTUlDMGZ3?oc=5",
+      "published_at": "2026-11-25T06:17:36.000Z",
+      "publisher_url": "https://www.eu-startups.com",
+      "snippet": "London-based Bound secures €45.68 million debt facility for its AI-powered FX risk management platform EU-Startups",
+      "source_feed": "gnews-g6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 45680000,
+        "currency": "EUR",
+        "raw": "€45.68 million"
+      },
+      "company_guess": "London-based Bound",
+      "group_key": "london based bound",
+      "group_rank": 0,
+      "resolved_url": "https://www.eu-startups.com/2026/11/london-based-bound-secures-e45-68-million-debt-facility-for-its-ai-powered-fx-risk-management-platform/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "100134e241dd",
+      "title": "Myriota secures USD $40 million in Series C funding",
+      "publisher": "TelcoNews Australia",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSUJDbVB0dDUwMlVmWWZOdTZ5LWRlbFg2LTVsRDlPeUw0U19wbzFoak1wTWM1Z0NqQmtlSlhWWTF6VGM4YklveEdYSkxQaHd2OEJqeWNpNlZLbzJfYllNZzJRZ0RZWkRETm9icUVZRWJPNGQ0MUlGQUp3WEV0TmJjbmVHMGpCUzE0?oc=5",
+      "published_at": "2026-11-25T09:00:00.000Z",
+      "publisher_url": "https://telconews.com.au",
+      "snippet": "Myriota secures USD $40 million in Series C funding TelcoNews Australia",
+      "source_feed": "gnews-5",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 40000000,
+        "currency": "USD",
+        "raw": "$40 million"
+      },
+      "company_guess": "Myriota",
+      "group_key": "myriota",
+      "group_rank": 0,
+      "resolved_url": "https://telconews.com.au/story/myriota-secures-usd-40-million-in-series-c-funding",
+      "text": "Agricultural Technology\nIoT\nIIoT\nMyriota secures USD $40 million in Series C funding\nWed, 25th Nov 2026 (Yesterday)\nKAREN JOY BACUDO\nFinance Editor\nMyriota has secured the first USD $40 million tranche of its Series C funding round, led by existing investors Main Sequence Ventures and the National Reconstruction Fund Corporation.\nThe Adelaide-based satellite internet of things company completed the first close in 100 days, taking total funding to more than USD $107.5 million. Hostplus also participated in the round, while Funds SA joined as a new investor.\nThe funding will support expansion into new industrial sectors and international markets, and help build out Myriota's satellite infrastructure, including development and launch work for a next generation of satellites.\nMyriota operates in industrial internet of things markets where customers need to track and monitor assets in remote areas. Its platform is used in applications including mining equipment, shipping containers, fuel tanks, livestock water supplies and off-grid solar systems.\nIt provides services directly in 57 markets and has teams across 19 locations globally.\nExpansion plans\nOver the past year, Myriota has added two products to its platform: HyperPulse, a 5G non-terrestrial network and terrestrial service, and AssetHawk, a tracker for industrial assets. It has also expanded further into industrial fuels, with fuel tank monitoring deployments growing across North America and Latin America.\nThe latest funding comes as the company scales up its satellite network. Myriota launched 16 satellites in 2026 and has further launches booked for 2027 and 2028.\nA larger constellation would give customers more network redundancy and greater service capacity for larger deployments. Myriota focuses on narrowband communications for industrial users operating beyond the reach of conventional terrestrial networks.\nBen Cade, Chief Executive Officer of Myriota, said the investment would support the company's next phase of growth.\n\"We're at the beginning of a fundamental shift in industrial IoT. Industries increasingly rely on data from the field to make decisions about their operations, assets and resources, and as AI moves into the physical world, that data becomes even more essential. Myriota is building the infrastructure to connect the physical world at unprecedented scale. Bringing forward the first close of our Series C reflects the strong confidence of our investors and enables us to accelerate our growth, expand into new markets and advance our technology. It also marks an important phase for Australia's defence industrial base, as Myriota consolidates its position as a true tier 1, global telco delivering secure, narrowband IoT communications from space,\" Cade said.\nInvestor backing\nThe National Reconstruction Fund Corporation had previously backed Myriota as part of its investment activity in the space sector. The company's origins lie in research at the University of South Australia.\n\"Myriota was one of the NRFC's earliest space sector investments, and its innovative technology was developed from research at UniSA. It is a powerful example of how space-enabled technologies play a key role in solving real-world challenges right here on Earth. Myriota's satellite-based industrial IoT provides critical, field-based intelligence for sectors operating in remote areas such as agriculture, utilities, logistics, mining, environmental monitoring and defence, and our decision to invest further in this company is a testament to its potential to grow into a global, space-based Australian telecommunications company,\" said David Gall, Chief Executive Officer of NRFC.\nMain Sequence Ventures, which first invested in Myriota in 2018, said the company had reached a broader commercial stage for its technology.\n\"We first backed Myriota in 2018, and it was one of the first companies we helped grow. We believe strongly in the technology. Ultra-low-power satellite communications is unique, and it's now moving into wide use, from tracking shipping containers and mining equipment to monitoring fuel tanks and water supplies. Myriota delivers service directly in 57 markets, which makes it Australia's largest telco by geographic coverage. We're proud to lead this round and to keep backing Ben and the team,\" said Duursma.\nFunds SA said the business was an example of South Australian technology with international reach.\n\"Homegrown innovation and technology will play an increasingly important role in supporting the businesses and industries that underpin Australia's economy. Myriota is a pioneer in this space and an exciting example of South Australian innovation already competing on the global stage. We look forward to seeing what the company achieves in its next phase of growth,\" said Con Michalakis, Chief Investment Officer of Funds SA.\nMyriota has secured more than 170 patents since its launch in 2015 and has raised more than AUD $160 million in funding.\nExplore with AI\nChatGPT\nKey takeaways\nExplain why it matters\nCreate action plan\nFuture watch\nClaude\nKey takeaways\nExplain why it matters\nCreate action plan\nFuture watch\nPerplexity\nKey takeaways\nExplain why it matters\nCreate action plan\nFuture watch\nGrok\nKey takeaways\nExplain why it matters\nCreate action plan\nFuture watch\nShare\nShare\nAdd us as a preferred source on Google\nRelated stories\nMyriota secures AUD $60 million in Series C first close\nMyriota adds cellular to HyperPulse hybrid IoT network\nMyriota launches hybrid satellite & cellular tracking\nMyriota debuts AssetHawk satellite tracker for remote assets\nMyriota appoints Richard Leon as Chief Financial Officer\nTop stories\nSuds Digital demonstrates livestream tech at Laundry Summit\nCampanaOne adds browser video tools for incident fallback\nSona8 launches AI voice agents for staff interviews\nRAMaggedon: The AI Boom Is Deciding Who Gets a Smartphone\nPrivate 5G & 4G network projects pass 9,600 globally",
+      "text_status": "ok"
+    },
+    {
+      "id": "5381037094d0",
+      "title": "AI Peptide Drug Lab Capable Raises $38M Seed to Automate Drug Discovery",
+      "publisher": "Wowtale",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VWEVXa1VyZU8xQzBYLXlYR1ptRkZTSkQ0SUJHSDNXZEFLa0p2OHNGeXB5NlhZUFdRYmhQQ3AwSUJMLW1yNjcwTDh4TjhQd0J3NVlZ?oc=5",
+      "published_at": "2026-11-25T13:38:21.000Z",
+      "publisher_url": "https://en.wowtale.net",
+      "snippet": "AI Peptide Drug Lab Capable Raises $38M Seed to Automate Drug Discovery Wowtale",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 38000000,
+        "currency": "USD",
+        "raw": "$38M"
+      },
+      "company_guess": "Capable",
+      "group_key": "capable",
+      "group_rank": 0,
+      "resolved_url": "https://en.wowtale.net/2026/11/25/236165/?utm_source=rss&utm_medium=rss&utm_campaign=ai-peptide-drug-lab-capable-raises-38m-seed-to-automate-drug-discovery",
+      "text": "Finding and refining a single drug candidate can take years. Capable , a San Francisco biotech, wants to cut that to months with a lab where AI designs molecules, automated equipment synthesizes them and cells and mice test them straight away. Its first drug candidate is a wakefulness peptide meant to reduce sleep and extend time awake. The company has raised a $38 million seed round.\nWhat Capable sells is not software or data but drugs. It finds its own candidates and takes them through animal testing, and it is preparing both to move a candidate into the clinic and to hand assets to pharma companies through deals. Peptides are drugs built as short chains of amino acids, small pieces of protein. Capable makes peptide and nucleotide therapeutics on automated synthesis equipment, and its in-house research AI agent designs candidates by pulling specialized models, such as a potency predictor, off the shelf like tools. The company says it has built a lab that can go from AI design to experimental data in 24 hours.\nCapable disclosed the seed round on its company blog on October 16 (US time). Cathay Innovation , Abstract Ventures, Fidji Simo, Joe Betts-LaCroix and Andrej Karpathy, among others, took part, bringing total funding to $50 million. Karpathy is the OpenAI co-founder who joined Anthropic in May. According to startup data firm Dealroom, the valuation and lead investor were not disclosed. Capable will use the money to scale its lab and platform. It grew from 2,000 square feet to 22,500 square feet in about three weeks and moved to Mission Bay, near UCSF.\nIts most advanced program is CAPABLE-002, a wakefulness drug candidate. The company produced its first batch, 180 grams, enough to dose hundreds of rats, dozens of dogs and a few dozen humans. The compound is entering preclinical safety testing, in which a drug is dosed repeatedly in a rodent and a non-rodent species while tissues and hundreds of biomarkers are examined, and Capable plans to dose the first dogs within a few weeks. In early mouse experiments it cut sleep by 30% to 50%. Efficacy and safety in people remain unproven.\nThe company has already found a follow-up molecule. It is similarly potent but 70% smaller, at roughly 750 daltons, which raises hopes of an oral drug after further optimization. It relies heavily on non-canonical amino acids, which are rare in nature, and the follow-up molecule is about 80% non-canonical. Because both versions are highly potent on the same pathway, the safety study will continue, and Capable will decide whether to take version one into the clinic or reset the timeline for a better version two.\nThe second program is an “exercise mimetic,” a drug meant to reproduce some benefits of exercise on the heart, liver, kidneys, brain and muscle preservation. The research agent has designed about 500 first candidates, and Capable wants a development candidate within three or four months, against two to five years for comparable stages in pharma, by its own comparison.\nAutomation drives the speed. Automated cell assays raised the number of compounds tested per day by more than 10 times and cut run-to-run scatter from 6% to about 1.75%, and drying can now handle up to 1,152 compounds at once. Steven Cao, formerly of Cognition and Redwood Research, joined with experience training large models, while Shane Lafayette, a former director of business development at sleep drug developer Centessa, and UCSF and Gladstone professor Vijay Ramani advise.\nSleep and wakefulness medicine entered a new phase this year. In August, Takeda won FDA approval for Orzeyful (oveporexton) for narcolepsy type 1, the first drug of its kind that activates the orexin receptor, which governs wakefulness signals in the brain. Capable has not said whether it uses the same approach.\nStartups that pair AI with laboratories are multiplying, but they do different jobs. Capable handles AI design, synthesis, animal testing and its own drug candidates. Leash Biosciences positions itself as infrastructure selling experimental environments and data to other AI developers. Lila Sciences builds autonomous labs where AI runs experiments on drugs, catalysts and materials, and Periodic Labs focuses on discovering materials such as superconductors. Unlike them, Capable has tuned its synthesis line to a single field, peptide drugs. On the model side, Chai Discovery and Isomorphic Labs lead with AI that designs new molecules. Among companies chasing oral peptide drugs, Ambrosia Biosciences raised $100 million for a next-generation oral obesity treatment. Wowtale’s AI biotech landscape (in Korean) maps the wider field.",
+      "text_status": "ok"
+    },
+    {
+      "id": "a4a279102a1c",
+      "title": "Youji Technology raises $30M Series B to embed AI in machine tools",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMllJVVRSMWRxZmpfOUwwd1QteUlYVzduYTFrczM4aWw1TW16Mm9ST1ZTZnJFbEd6ZjFkSDZzSm9TQlhHM1ZnX19ONy1nd05Qdl9EUW45MGVPTEloMU1VRnNlQmhUV0c2UTdMQ1haWVM3Y3hib2I2R1R3SEtHcUdTa0RuUXE4eVNTMkMzSDltQWNrUFZYR2g2M3I0VXlxR0Fs?oc=5",
+      "published_at": "2026-11-25T13:02:02.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Youji Technology raises $30M Series B to embed AI in machine tools Dealroom",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 30000000,
+        "currency": "USD",
+        "raw": "$30M"
+      },
+      "company_guess": "Youji Technology",
+      "group_key": "youji",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/youji-technology-raises-30m-series-b-to-embed-ai-in-machine-tools",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "8c926742cec7",
+      "title": "Japan’s Atom Secures $28.3M in Bank Credit to Expand Humanoid Robot Production",
+      "publisher": "AI Insider",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXdCWkVsVUlOa3NaYmJEN2RfYTRhU3lsQm5JVEwtb2F3SE5YV2IyOUZEWUttS01ubzZxNW1uaDl4WXdzcDZfZUpydnNGczBSOUlhcjg5d3RtSE5iV1FkaDlBOTZZWEFHSVlNaGpaeVVBN1pvTGNORm5ES1Q4SzMxaGdPWklRdWVDVlNnYnFqcUdQVnY5ZHB1c1JsU2JyYnRBZXhzbW5aUmJ3QnVraGFycnVySVo?oc=5",
+      "published_at": "2026-11-24T07:02:21.000Z",
+      "publisher_url": "https://theaiinsider.tech",
+      "snippet": "Japan’s Atom Secures $28.3M in Bank Credit to Expand Humanoid Robot Production AI Insider",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 28300000,
+        "currency": "USD",
+        "raw": "$28.3M"
+      },
+      "company_guess": "Japan’s Atom",
+      "group_key": "japans atom",
+      "group_rank": 0,
+      "resolved_url": "https://theaiinsider.tech/2026/11/24/japans-atom-secures-28-3m-in-bank-credit-to-expand-humanoid-robot-production/",
+      "text": "Physical AI · Humanoids\nJapan’s Atom Secures $28.3M in Bank Credit to Expand Humanoid Robot Production\nBy Greg Bock · 24 November 2026 · 2 min read\nCredit: Atom\nInsider Brief\nJapanese humanoid robotics startup Atom has secured loan facilities totaling 4.5 billion yen (about $28.3 million) from three major Japanese banks to support physical AI development and prepare for mass production of humanoid robots.\nMizuho Bank, Sumitomo Mitsui Banking Corp. and Mitsubishi UFJ Bank provided the credit facilities, which represent borrowing limits rather than funds already disbursed.\nAtom plans to build its own GPU computing cluster for AI training and testing while developing a two-armed, bipedal humanoid robot, targeting annual deliveries of 200 units by 2027 and 10,000 by 2030.\nJapanese humanoid robotics startup Atom has signed loan agreements totaling about $28.3 million with three major Japanese banks to support development of its physical AI technology and prepare for mass production of humanoid robots.\nTokyo-based Atom is developing both a two-armed, bipedal humanoid robot and its own physical AI platform model, working on the hardware and software together so its robots can adapt to different working environments.\nAccording to the company , the agreements with Mizuho Bank, Sumitomo Mitsui Banking Corp. and Mitsubishi UFJ Bank establish the following borrowing limits:\nSumitomo Mitsui Banking Corp. — 2 billion yen, or about $12.6 million\nMizuho Bank — 1.5 billion yen, or about $9.4 million\nMitsubishi UFJ Bank — 1 billion yen, or about $6.3 million\nThe amounts represent maximum borrowing limits, not funds already disbursed, and Atom said the Mizuho facility includes revised agreements replacing loans signed in August 2026.\nThe company said it plans to use the financing to build its own GPU computing cluster for training and testing physical AI models and establish the manufacturing infrastructure needed to produce humanoid robots at scale.\nAtom set a goal to deliver 200 humanoid robots annually by 2027, increasing to 10,000 annually by 2030. The figures are production and delivery targets rather than confirmed orders. To meet those goals, the company said it plans to work with parts suppliers and manufacturing partners to establish processes covering design, procurement, assembly and inspection. Production is expected to expand gradually as Atom verifies safety and quality requirements at customer sites.\nThe planned GPU cluster will provide computing resources at Atom’s own facilities for developing AI models that allow robots to recognize their surroundings, make decisions and carry out physical movements.\n“ Japan has companies that produce excellent components, as well as technology and wisdom honed in manufacturing and logistics,” president and CEO Shunsuke Aok said. “We want to combine these strengths in the development and mass production of humanoid robots, and deliver robots that support workplaces facing labor shortages from Japan to the world.”\nFounded in November 2025, Atom opened its Physical AI Foundry in August 2026 to develop training data for its AI models. The company is working with Japanese hardware manufacturers and suppliers as it prepares to expand production.\nTopics AI funding humanoid robotics Japan Mitsubishi UFJ Bank Mizuho Bank Physical AI Sumitomo Mitsui\nAbout the author Greg Bock\nGreg Bock is an award-winning investigative journalist with more than 25\nyears of experience in print, digital, and broadcast news. His reporting\nhas spanned crime, politics, business and technology, earning multiple\nKeystone Awards and a Pennsylvania Association of Broadcasters honors. Through the Associated Press and Nexstar Media Group, his coverage has reached audiences across the United States.\nTrending today\n1\nBusiness & Markets Week Ahead in AI: AI Market Selloff, Claude Riemann Proof, OpenAI’s Development Limits, Plus, Upcoming Earnings and Events\n2\nBusiness & Markets · Enterprise Amazon and Google Set to Own Nearly 30% of Anthropic After IPO, Filing Shows\n3\nBusiness & Markets · Enterprise Spotify Opens Artist Profile Protection to All Artists as AI-Generated Slop Floods Streaming\n4\nBusiness & Markets Voyage Labs Secures $12M Seed Round to Build a Specialised AI Travel-Planning Agent\n5\nBusiness & Markets Arva AI Raises $20M Series A to Build the AI Models and Infrastructure Banks Trust to Run Their Critical Operations\nThe AI economy, every weekday morning\nThe daily briefing on LinkedIn. Free, one tap to follow.\nSubscribe on LinkedIn\nExclusives\nExclusive The AI Insider Funding Pulse\nExclusive Where AI Software Spending Could Go by 2035: Three Scenarios and the Assumptions Behind Them\nExclusive Anthropic’s S-1, Dissected, Part 2: The Offering and the Valuation\nExclusive The AI Insider Funding Pulse\nExclusive How Big Is the AI Software Market? A Bottom-Up Estimate Puts It Near $144B\nAll series",
+      "text_status": "ok"
+    },
+    {
+      "id": "c7c2f3f84293",
+      "title": "Salvia BioElectronics secures €25 million from EIB to tackle resistant migraine with ultra-thin implants - EU-Startups",
+      "publisher": "EU-Startups",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZzk2S1ZHSXBCdWQ0UG5yV2VOZlVfVTRMUm51anVjM1hMV2J1WmdtSXZ3RmlkUEk4UVo4bHlLTVNZZDhWVzQ2WUNKVUN3TGxDOHliNnp2UlRZdEl3aUdHR3FBbUZ4d3B1dXRLcFgyY0xseU15ZUJuRFZqOW5ablppSkJpS284ZEY5NWpQSF9BYVZRejhVVEE5bndteXVVR0xMVW1JT2wtb0x5QXhMNEIxWmJqMXE5OTRwQW5SS01iZXBSem5oemxxLWNoNy14RWt1QXRmcXZjRFZnZWljbDRLNGFyZV9DNWM?oc=5",
+      "published_at": "2026-11-25T11:55:23.000Z",
+      "publisher_url": "https://www.eu-startups.com",
+      "snippet": "Salvia BioElectronics secures €25 million from EIB to tackle resistant migraine with ultra-thin implants EU-Startups",
+      "source_feed": "gnews-g6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 25000000,
+        "currency": "EUR",
+        "raw": "€25 million"
+      },
+      "company_guess": "Salvia BioElectronics",
+      "group_key": "salvia bioelectronics",
+      "group_rank": 0,
+      "resolved_url": "https://www.eu-startups.com/2026/11/eindhovens-salvia-bioelectronics-secures-e25-million-from-eib-to-tackle-resistant-migraine-with-ultra-thin-implants/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "dae6202dbae4",
+      "title": "Lute Raises $20M Across Pre-Seed and Seed to Scale Physical AI",
+      "publisher": "Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbmUtM2xCNVhDYnptWkliZWhwdUNIZGQtbTF4cW1PLWlXcENYUjBSRWh2Mjg4b2ozZWJBa24zLVh1Z0JreHpxSDNwMGFWT3B5ZklKUXZkSVNwbU5rUXRiTWN3VTlwX24xYzVVRW15cmxWc21kcndOeTl0bDNZVWU0WEVsN3RJQV9zRGgw?oc=5",
+      "published_at": "2026-11-25T15:42:05.000Z",
+      "publisher_url": "https://www.unite.ai",
+      "snippet": "Lute Raises $20M Across Pre-Seed and Seed to Scale Physical AI Unite.AI",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20M"
+      },
+      "company_guess": "Lute",
+      "group_key": "lute",
+      "group_rank": 0,
+      "resolved_url": "https://www.unite.ai/lute-raises-20m-across-pre-seed-and-seed-to-scale-physical-ai/",
+      "text": "Funding\nLute Raises $20M Across Pre-Seed and Seed to Scale Physical AI\nPublished\nNovember 25, 2026\nBy\nEvan Mercer, AI Startups & Venture Capital AI Research Agent\nAdd Unite.AI to your preferred sources on Google\nAI-generated illustration\nKey Points Lute's touch-focused models learn physical properties like grip force and slipping that…\nView more\nLute's touch-focused models learn physical properties like grip force and slipping that vision alone cannot capture.\nLute-0 matched the leading open-source robot model using about one-twentieth of the data.\nLute's software turns each customer deployment into training data that carries learning across sites.\nOTB Ventures announced on November 25, 2026 that it co-led a seed round for robotics startup Lute alongside FORWARD.one, bringing the company’s combined pre-seed and seed funding to $20 million. The capital will expand tactile data collection, improve Lute’s models and support customer deployments.\nSeedcamp, Credo Ventures, Naval Ravikant, Inovo VC, ff Venture Capital and Borusan Ventures also participated. Lute is developing touch-focused foundation models and deployment software for robots, with the goal of making physical AI dependable in customer operations.\nTouch Sensors Supply a Different Training Signal\nRobots that depend mainly on vision can miss critical properties of the objects they handle. Grip force, the earliest signs of slipping, and softness or fragility all concern contact rather than appearance. Lute is building a new family of foundation models around touch to supply that additional signal.\nTo gather the necessary data, Lute co-designed compact, soft, skin-like touch sensors with a partner and incorporated them into a portable data-collection setup. Its first model, Lute-0, learns from video how scenes change and converts that learning into robot actions.\nOTB reports that Lute-0 matched Pi0.5, which it describes as the leading open-source robot model, on dexterous tasks after pre-training with about one-twentieth of the data and one-quarter of the training steps.\nSoftware Turns Deployments Into Training Data\nLute’s technology is not tied to one hardware platform and is designed for system integrators, the companies that put robots into operation. It guides them through hardware selection, task definition and on-site retraining, particularly where they want to deploy AI-driven robots without an in-house machine-learning team.\nIts software monitors each task, pauses when something goes wrong and transfers control to a remote operator. Successful tasks and corrected failures then become training data, with learning intended to carry from one site to the next. This gives each deployment two roles: completing customer work and generating data for later training.\nOTB says that, ten months after starting, Lute is deployed at what it calls Europe’s largest automotive retail distributor, a business with $6 billion in annual revenue. Its models also operate in hospital corridors, and Lute is working on site with large retailers.\nFounders Combine AI and Robotics Experience\nChief executive Paweł Budzianowski holds a machine-learning PhD from Cambridge and previously led PolyAI’s AI team, where he worked on taking conversational AI from research into production for global brands. He also co-founded K-Scale Labs, which built affordable open-source humanoid robots.\nChief technology officer Krzysztof Walas was an associate professor at Poznań University of Technology and headed the Physical Interaction Robotics team at IDEAS NCBR. His work covered tactile sensing, dexterous manipulation and cable handling; he also advised Nomagic and served on the board of the European AI, Data and Robotics Association.\nThe 16-person team is split between Warsaw and the Bay Area and includes four PhDs and two Informatics Olympiad laureates.\nOTB’s investment thesis treats dependable operation at customer sites as a source of value in its own right, alongside advances in model capability. For Lute, the ability to carry lessons from one deployment to the next is what connects that thesis to its product.\nEvan Mercer · AI Startups & Venture Capital AI Research Agent\nFollow\nEvan Mercer is an AI-generated research agent at Unite.AI , covering AI startups, venture capital, and the funding dynamics shaping the next generation of technology companies. His reporting focuses on early-stage innovation, capital flows, and the strategic decisions founders and investors make as AI companies scale from concept to global impact.\nWith a strategic and analytical lens, Evan examines funding rounds, market positioning, and emerging trends across the AI startup ecosystem. He tracks how venture capital, corporate investment, and public markets intersect with breakthroughs in artificial intelligence, separating durable signals from short-term hype.\nArticles authored by Evan Mercer are AI-generated and reviewed by Unite.AI’s editorial team to ensure accuracy, context, and responsible coverage of the global AI investment landscape\nDiscover More\nUlys Raises $4M to Market Its Investing App and Train AI Models\nEvery Raises $17.5M Series A at $110M Valuation to Help Teams Adopt AI\nXPENG Debuts IRON Humanoid and Outlines Store Training Plan\nXPENG WorldGPT Uses Shared Learning Across Cars, Robots and Drones\nXPENG Positions IRON Humanoid as an Autonomous Work Partner\nSiemens Expands Industrial AI Across Planning and Robot Unpacking",
+      "text_status": "ok"
+    },
+    {
+      "id": "c32fa9d698d1",
+      "title": "Dubai’s Sooner Raises $20M To Expand Homebuyer Financing Platform",
+      "publisher": "Forbes Middle East",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ0J0WXYxaklKZ1JLNGJubjZvZy1oaWxyZzU1UThZN2hXTVlkMVdGbEhTbGFXSHhYNVhXbllNdWhlN0xIMEctQ3VpM3h2T2ZoUURqTmJiYm1ZSHFOUmFrZnJsUm5wSXhCMUR3S2lubjNRTExPS1djZHo0c2x2MllSNUx0eER4clhncFBwZmE2MW9SSTlUYnd0ZHJ3RW9UMXFodVc0NkwxODBwUTdPeGxzQVd5YUJsWVlMUTlr?oc=5",
+      "published_at": "2026-11-25T18:22:30.000Z",
+      "publisher_url": "https://www.forbesmiddleeast.com",
+      "snippet": "Dubai’s Sooner Raises $20M To Expand Homebuyer Financing Platform Forbes Middle East",
+      "source_feed": "gnews-2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20M"
+      },
+      "company_guess": "Dubai’s Sooner",
+      "group_key": "dubais sooner",
+      "group_rank": 0,
+      "resolved_url": "https://www.forbesmiddleeast.com/innovation/startups/sooner-raises-$20m-in-seed-funding-to-expand-uae-homebuyer-support",
+      "text": "Forbes Middle East /",
+      "text_status": "thin"
+    },
+    {
+      "id": "1b83a6936ee4",
+      "title": "$20 Million in Funding for UAE-Based Sooner to Finance Home Down Payments",
+      "publisher": "entARABI",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbzJTOEhLT2NCOGV0Uzk2LTZmQ1dBM21NSmpHTERMZi0wVVgtNlVLMnREWkQxbGxBMXVnS2d4anIwdGh6bFc0N2NLa2FwZDBKMXJESkVJSE9JdVU2a3IyV21sUk96UUcwSktrUjdZcXpvWWZHZjVUM0VDLXY1RjA0SjRHRTBjVmlXSVhHRHFBdk9CWmZKMER5RGg4LXkydw?oc=5",
+      "published_at": "2026-11-25T10:08:38.000Z",
+      "publisher_url": "https://entarabi.com",
+      "snippet": "$20 Million in Funding for UAE-Based Sooner to Finance Home Down Payments entARABI",
+      "source_feed": "gnews-5",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20 Million"
+      },
+      "company_guess": "$20 Million in Funding",
+      "group_key": "20 million in funding",
+      "group_rank": 0,
+      "resolved_url": "https://entarabi.com/2026/11/20-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d8%aa%d9%85%d9%88%d9%8a%d9%84%d8%a7-%d9%84%d9%80sooner-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a%d8%a9-%d9%84%d8%aa%d9%82/",
+      "text": "20 مليون دولار تمويلا لـSooner الإماراتية لتقسيط الدفعة المقدمة لشراء المنازل\n25 نوفمبر، 2026\nجمعت شركة Sooner الإماراتية 20 مليون دولار في جولة تمويل تأسيسية، موزعة بين 5 ملايين دولار استثمارات في حقوق الملكية و15 مليون دولار تسهيل ائتماني، بهدف توسيع حلولها التمويلية لشراء العقارات في الإمارات\nجمعت شركة Sooner الإماراتية 20 مليون دولار في جولة تمويل تأسيسية، موزعة بين 5 ملايين دولار استثمارات في حقوق الملكية و15 مليون دولار تسهيل ائتماني، بهدف توسيع حلولها التمويلية لشراء العقارات في الإمارات\nوقادت Nuwa Capital استثمارات حقوق الملكية، بمشاركة 500 Global وAnnex Investments وPlus VC وSerkal Group وAxeed Group و21Ventures وIliad Partners ومستثمرين أفراد، فيما قدمت Amwal Capital Partners التسهيل الائتماني المتوافق مع أحكام الشريعة الإسلامية\nوتتيح الشركة للمشترين خفض الدفعة المقدمة لشراء المنازل إلى 10% من قيمة العقار بدلا من 20%، مع تقسيط النسبة المتبقية من الدفعة المقدمة على 60 شهر، وإمكانية الحصول على تمويل عقاري من البنوك\nوتستهدف Sooner تمويل مشتريات عقارية بقيمة مليار درهم، ما يعادل 272 مليون دولار، خلال 2027، بعدما تلقت نحو 9 آلاف طلب منذ إطلاقها في يوليو 2026، بقيمة طلبات محتملة تبلغ 4.5 مليار دولار، وساهمت في إتمام عمليات شراء عقارات بنحو 10 ملايين دولار\nوتخطط الشركة لإطلاق منتج تمويلي جديد خلال 2027، يتيح لأصحاب العقارات الحصول على خطوط ائتمان بضمان القيمة المتراكمة في ممتلكاتهم، بما يسمح باستخدام التمويل في شراء عقارات إضافية\nوسجل التمويل العقاري السكني في دبي نحو 5.9 مليار دولار خلال الربع الثالث من 2026، وفق بيانات Cavendish Maxwell، فيما تستهدف استراتيجية دبي العقارية 2033 رفع نسبة تملك المنازل إلى 33%\nوتأسست Sooner على يد محمد عزيز، الشريك المؤسس السابق لشركة Pluto، وغابرييل غارسيا ليفا، الذي سبق له العمل في Keyper، وفلاد تشيريفكوف، الذي عمل في تطوير المنتجات لدى Revolut وDeel\nلقراءة المقالة باللغة الإنجليزية اضغط هنا\nالإنجليزية\n#استثمار\n#تقنية عقارية\n#شركات ناشئة\nin تابعنا على LinkedIn 𝕏 تابعنا على X\nمشاركة\nنسخ الرابط\nبلغ عن خطأ\nإنت عربي\nابقَ على اطلاع دائم 🚀\nاشترك في نشرتنا البريدية لتصلك أهم الأخبار والتحليلات الخاصة بالشركات الناشئة في بريدك مباشرة.\nاشترك الآن",
+      "text_status": "ok"
+    },
+    {
+      "id": "2beb0b48f6ed",
+      "title": "PolyAI's ex-ML chief raises $20M for robotics startup Lute",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUWRZMllWdnBXYmVXNUh4MkIwVVpMU1ZzTjJFQ1Bzc1Q4cUdwN2pobkQtb2FJcHIwajFfZXR1UU83OVF3YjBudU1DWDhpOVEwSlNiT3hWQ1FUdXFvTUI1QjRfVzhfSUhsZXoydm1UYWp1T0VVWGd0d2R1NnpyM0VDd3hmVlVxZVBHQVVDenE4YTVQMkdTZmc?oc=5",
+      "published_at": "2026-11-25T15:38:29.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "PolyAI's ex-ML chief raises $20M for robotics startup Lute Dealroom",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20M"
+      },
+      "company_guess": "PolyAI's ex-ML chief",
+      "group_key": "polyais ex ml chief",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/polyai-s-ex-ml-chief-raises-20m-for-robotics-startup-lute",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "b539d30d43d7",
+      "title": "UAE’s Sooner Raises $20M Seed to Help Dubai Renters Buy Homes With 10% Down",
+      "publisher": "أراجيك",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkhGaUM5OUNEZWRhNzBVc3M2OHYtMlBQZGJUTjdSbWtlVzFiSlIwRVJ4QW5QN1N5ZzdqQklEVXExMlozcFVNNWNtdEpmTllpY0phT3FrNXpDOUNEMk5oRUlqekFhbGdNN0RUQlNwcGFfODl4Ri13Wkx3d2VjZHRWYU1wNGdFaXJXdThiTjd4U19qVHBKQkRhc3ZyOENCdkJG?oc=5",
+      "published_at": "2026-11-25T10:23:37.000Z",
+      "publisher_url": "https://www.arageek.com",
+      "snippet": "UAE’s Sooner Raises $20M Seed to Help Dubai Renters Buy Homes With 10% Down أراجيك",
+      "source_feed": "gnews-g4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20M"
+      },
+      "company_guess": "UAE’s Sooner",
+      "group_key": "uaes sooner",
+      "group_rank": 0,
+      "resolved_url": "https://www.arageek.com/en/uaes-sooner-raises-20m-seed-to-help-dubai-renters-buy-homes-with-10-down",
+      "text": "Latest 🚀\nUAE’s Sooner Raises $20M Seed to Help Dubai Renters Buy Homes With 10% Down\nSooner raises a $20M seed round, $5M equity led by Nuwa Capital and a $15M debt facility, to cut first-time buyers' upfront down payment in Dubai.\nBy Abdelrahman Amr 25 November 2026 · 4 min read\nSummary\nSooner has announced a $20 million seed round for its down payment platform.\nNuwa Capital led $5 million in equity, with 500 Global and others joining.\nAmwal Capital Partners provided a $15 million Shariah-compliant debt facility.\nBuyers pay 10% upfront instead of 20%, with the rest over 60 monthly instalments.\nThe startup plans to launch a home equity line of credit in 2027.\nSooner, a UAE down payment support platform licensed by the Dubai Land Department, has announced a $20 million seed round. The package combines $5 million in equity led by Nuwa Capital with a $15 million Shariah-compliant debt facility from Amwal Capital Partners, which gives the startup the capacity to support $272 million of home purchases in 2027.\nJoining Nuwa Capital on the equity side are 500 Global, Annex Investments, Plus VC, Serkal Group, Axeed Group, 21Ventures, Iliad Partners and angel investors, including operators from AWS, Lean Technologies and Sarwa.\nThe problem Sooner is going after is a familiar one. First-time homebuyers in Dubai usually have to find a 20% down payment plus 7 to 10% in closing fees, all in cash, upfront. Together that comes to 27 to 30% of the price: about $230,000 (AED 850K) on an $800,000 (AED 3M) home, against roughly 6 to 10% in the United States and the United Kingdom.\nMost of these buyers can afford the monthly mortgage payments. What holds them back is the cash on day one.\nSooner's model changes that maths. Buyers pick from Sooner-compatible homes and pay 10% instead of 20% upfront, with the remainder spread over 60 equal Shariah-compliant monthly instalments. They also get access to first-time homebuyer mortgages from all leading UAE banks, with a lowest mortgage rate guarantee. The company says its mission starts with helping renters become homeowners about two years sooner.\nThe early numbers are worth a look. Since its launch in July 2026, Sooner has received about 9,000 applications, representing $4.5 billion in buying demand, and has already supported around $10 million of home purchases.\nThe founding team will be familiar to anyone who follows the Gulf's fintech scene. CEO Mohammed Aziz exited his payments company Pluto to Tamara and was the first UAE-based founder to be backed by Y Combinator. Gabriel García Leyva launched rent now pay later at Keyper, and Vlad Cherevkov previously led products at Revolut and Deel.\n\"Every year a first-time buyer spends saving for a down payment, which is a year of rent paid towards someone else's mortgage. We are solving that problem and making sure that people in the UAE can realise their dream of home ownership sooner,\" said Mohammed Aziz, CEO and co-founder of Sooner.\nAziz said he went through the problem himself, saving towards the down payment on his first family home while also paying rent. García Leyva, for his part, said the UAE market \"has been historically undercredited and investor-focused\" and is now ripe for a shift to end-user homeowners. He added that Sooner uses technology to deliver instant mortgage and down payment pre-approvals, helping customers get keys in hand in as little as two weeks.\nNext up is a second product. In 2027, Sooner plans to launch what it describes as the UAE's first Home Equity Line of Credit (HELOC), allowing existing homeowners to unlock value from their current properties to secure financing for a new home. It is modelled on America's largest HELOC platforms, publicly listed Figure and Aven, a $2.2 billion unicorn. The company puts the UAE alone at a $4.1 billion revenue opportunity for its products and plans to expand to structurally similar markets, regionally and internationally.\nThe backers are reading the same trend. \"Down payment support and home equity release are standard in developed housing markets and still largely missing in the Gulf,\" said Arnav Danthi, partner at Nuwa Capital. Sharif Eid, Head of Fixed Income at Amwal Capital Partners, said the Dubai property story is shifting from investor speculation to resident ownership, and that the down payment is the biggest barrier to ownership, \"yet it measures savings, not affordability\".\nThe timing fits. Residential mortgage lending in Dubai hit a record $5.9 billion in the third quarter of 2026, according to Cavendish Maxwell, and Dubai's Real Estate Sector Strategy 2033 targets a home-ownership rate of 33%. Around Arageek, we often talk about fintech moving beyond payments into bigger-ticket lending, and I reckon housing is where that gets properly interesting. That said, pairing equity with a large debt facility at seed stage means execution and credit discipline will matter as much as demand. If Sooner gets that right, it could make the leap from renter to owner a lot less of a faff for the region's salaried professionals.\n🚀 Got exciting news to share?\nIf you're a startup founder, VC, or PR agency with big updates—funding rounds, product launches 📢, or company milestones 🎉 — AraGeek English wants to hear from you!\n✉️ Send Us Your Story 👇\nhttps://en.arageek.com/send-us-your-story-or-a-news-tip\nFollow Arageek on Google\nMake Arageek your preferred source, so our news shows first in your search results. Add Arageek as a preferred source\nNewsletter\nGet the Arageek newsletter\nJoin more than 60,000 subscribers and get the AI and tech news that matters, straight to your inbox. Your email Subscribe\nFree. Unsubscribe at any time. Read our privacy policy .\nLatest\n1\nAbu Dhabi’s ADI Foundation and Hashed Sign Term Sheet to Link Asian and MENA Digital Asset Markets\n2\nEgypt Opens Four Government AI Challenges to Startups, With Contracts on the Table\n3\nSaudi Racing Studio NJD Games Raises $1.1M Seed to Take Hajwala Culture Global\n4\nMNT-Halan and Azimut Open EG",
+      "text_status": "ok"
+    },
+    {
+      "id": "25bf3d6132bf",
+      "title": "UAE's Sooner raises $20 million to expand home financing solutions",
+      "publisher": "Wamda",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWpDWGpCbmdRbkVmcklDbHlUYk53TFlXX0VLM1o3UlBaUWhuZTNaV1J1aWs2NU1NVWJKQUh5RnhuT1ktT0NncDE5Rm1HSkdlNXlIZngtTjNDSDVJeVN0SWo2WnE0WEUyMGtTUjRCMDFhODFFVmstVXJQbkk4VjhBVmY5eFhUQ0dIdWJxdTFZV1BtWVFR?oc=5",
+      "published_at": "2026-11-25T06:03:36.000Z",
+      "publisher_url": "https://www.wamda.com",
+      "snippet": "UAE's Sooner raises $20 million to expand home financing solutions Wamda",
+      "source_feed": "gnews-g4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20 million"
+      },
+      "company_guess": "UAE's Sooner",
+      "group_key": "uaes sooner",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "6e043db30322",
+      "title": "UAE's Sooner raises $20 million in seed round",
+      "publisher": "jawlah.co",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBCUlQwU3FEUGhjalRmbjg2SDhOMThKTGFFUUdvYlBBblNFR2diN1lzd05tLWhndnJJLU53a0dFZw?oc=5",
+      "published_at": "2026-11-25T11:02:50.000Z",
+      "publisher_url": "https://jawlah.co",
+      "snippet": "UAE's Sooner raises $20 million in seed round jawlah.co",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20 million"
+      },
+      "company_guess": "UAE's Sooner",
+      "group_key": "uaes sooner",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "66f94a356432",
+      "title": "Santa Clara Family Health Plan invests $19.2 million to help Medi-Cal members retain healthcare coverage",
+      "publisher": "",
+      "link": "https://www.prnewswire.com/news-releases/santa-clara-family-health-plan-invests-19-2-million-to-help-medi-cal-members-retain-healthcare-coverage-302950703.html",
+      "published_at": "2026-11-25T20:06:00.000Z",
+      "publisher_url": null,
+      "snippet": "Funding expands outreach, renewal assistance, and community partnerships as new Medicaid requirements take effect SAN JOSÉ, Nov. 25, 2026 /PRNewswire/ -- Santa Clara Family Health Plan (SCFHP) has committed $19.2 million over the next two years to help Medi-Cal members maintain their...",
+      "source_feed": "prnewswire-vc",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 19200000,
+        "currency": "USD",
+        "raw": "$19.2 million"
+      },
+      "company_guess": "Santa Clara Family Health",
+      "group_key": "santa clara family health",
+      "group_rank": 0,
+      "resolved_url": "https://www.prnewswire.com/news-releases/santa-clara-family-health-plan-invests-19-2-million-to-help-medi-cal-members-retain-healthcare-coverage-302950703.html",
+      "text": "Santa Clara Family Health Plan invests $19.2 million to help Medi-Cal members retain healthcare coverage\nNews provided by\nSanta Clara Family Health Plan\nNov 25, 2026, 15:06 ET\nShare this article\nShare this article\nFunding expands outreach, renewal assistance, and community partnerships as new Medicaid requirements take effect\nSAN JOSÉ , Nov. 25, 2026 /PRNewswire/ -- Santa Clara Family Health Plan (SCFHP) has committed $19.2 million over the next two years to help Medi-Cal members maintain their healthcare coverage as significant state and federal Medicaid policy changes take effect in January 2027. The investment represents one of the largest local efforts to support coverage retention and ensure residents remain connected to critical healthcare services.\nApproved by the SCFHP Governing Board on October 22, the funding will strengthen community outreach, expand renewal assistance, and increase access to personalized support to help prevent eligible members from losing their healthcare coverage.\n\"No one should lose healthcare coverage because they missed a form, didn't understand a new requirement, or couldn't get help navigating the system,\" Chris Turner, SCFHP Chief Operating Officer said. \"This investment reflects our commitment to removing barriers and helping our members navigate changes that could affect their healthcare. We want every eligible member to remain covered and connected to the care they need.\"\nThe cornerstone of the $19.2 million investment is a $15 million commitment to Valley Health Foundation (VHF) to advance the work of the Santa Clara County Coverage Retention Collaborative. Since April, Santa Clara Family Health Plan has partnered with VHF, the County of Santa Clara agencies, safety-net healthcare providers, and community-based organizations to develop a shared approach to supporting individuals in maintaining continuous Medi-Cal enrollment. SCFHP's contribution to VHF will establish a grant program for community-based organizations, provide continued funding for community clinic patient enrollment, and launch a coordinated public information campaign. Learn more about the Coverage Retention Collaborative at: www.valleyhealthfoundtion.org/Coverage\n\"The partnership was forged on a shared belief that a coordinated, public-non-profit-community-philanthropy effort can make significant progress in reducing coverage losses, saving thousands of local families from hardship, and preserving essential safety-net health services,\" Michael Elliott, VHF President and Executive Director, said.\nThese investments come in response to H.R. 1, also known as the One Big Beautiful Bill Act, which introduces significant changes to Medicaid (Medi-Cal in California), including new work and community engagement requirements for certain adults, more frequent eligibility renewals for some beneficiaries, and additional administrative requirements. These changes could create new challenges for Medi-Cal members trying to maintain their healthcare coverage and access essential healthcare services.\nIn addition to the funding for VHF, SCFHP will invest $4.2 million in four key initiatives designed to strengthen support for its members. The largest portion, $3 million, will expand billable Medi-Cal Community Health Worker (CHW) services, increasing outreach and personalized assistance to help members navigate the Medi-Cal renewal process. This funding will enable SCFHP's network of contracted CHW providers to conduct outreach that may not qualify for reimbursement under current billing requirements.\nAn additional $400,000 will be invested in AI technology that will help members understand renewal requirements, receive timely reminders, and complete renewal forms. Building on SCFHP's existing AI chatbot Scout, these enhancements will create more opportunities for members to receive assistance throughout the renewal process.\nAnother $400,000 will support increased staffing at SCFHP's Blanca Alvarado and South County Community Resource Centers. For many members, these centers are trusted places to turn for guidance, resources, and one-on-one support, helping them overcome language, technology, and administrative barriers that could otherwise put their healthcare coverage at risk. By increasing staffing, SCFHP will be able to serve more members face-to-face.\nThe remaining $400,000 will fund a new partnership with the County Social Services Agency Department of Enrollment and Benefits Services, bringing their staff to SCFHP Community Resource Centers. By co-locating services, members will gain access to technical support with renewals in a trusted setting, reducing delays and helping resolve complex coverage issues more quickly.\nAs new Medicaid requirements reshape the coverage landscape, SCFHP is helping to mobilize resources across the county to ensure eligible residents do not lose healthcare coverage because of administrative barriers. Through expanded outreach, enhanced technology, strengthened community partnerships, and direct enrollment support, SCFHP is working to help members stay covered, stay informed, and stay connected to care. To learn more about Medi-Cal changes, visit https://www.scfhp.com/medi-cal-changes/ .\nAbout Santa Clara Family Health Plan\nSanta Clara Family Health Plan (SCFHP) is a local, community-based health plan dedicated to creating opportunities for better health and wellness for all. In partnership with providers and community organizations since 1997, SCFHP works to ensure everyone in Santa Clara County has access to equitable, high-quality health care. With a strong commitment to integrity, outstanding service, and support for the community, SCFHP serves more than 270,000 people through its Medi-Cal and Medicare health plans. For more information, visit www.scfhp.com .\nAbout Valley Health Foundation\nValley Health Foundation (VHF) is a non-profit leader in community health and healthcare that fundraises to support, innovate, and advocate better health for all. VHF helps ",
+      "text_status": "ok"
+    },
+    {
+      "id": "c8e9425d0c75",
+      "title": "Every raises $17.5 million at $110 million valuation, betting venture-backed media can work",
+      "publisher": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmxhY1N3VU9DcDBnYjhpWXlGQVRqd1ZZYVF5VVNWQWtYWS1pdnQ5c181b0V0aGdURUlvUE10RFFGX1Z3S1BuMGF2dUdUeElJbl9ZQVlBaUZ5TXY5RE5xUHY5QWdIb2MxcG8xZExoRlNmVEliUnotbW1HRVUtbzdBazVpUHEwX1F6ekRJUlcyQ0Q1d2ZMRkZIdlZoNzQ5WVNUdENHQmZHa3RZMG83ZmFWQVF2b2NMRmM2?oc=5",
+      "published_at": "2026-11-25T10:15:00.000Z",
+      "publisher_url": "https://fortune.com",
+      "snippet": "Every raises $17.5 million at $110 million valuation, betting venture-backed media can work Fortune",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 17500000,
+        "currency": "USD",
+        "raw": "$17.5 million"
+      },
+      "company_guess": "Every",
+      "group_key": "every",
+      "group_rank": 0,
+      "resolved_url": "https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work/",
+      "text": "Ask Dan Shipper how often venture-backed media startups succeed, and he’s candid.\nRecommended Video\n“My feeling about the history of media companies taking venture capital is that it doesn’t go very well,” he said. In other words, it usually doesn’t work out, I suggest. “It works out never, actually,” laughs Shipper, founder of AI-focused media and software company Every.\nShipper’s right: VC-backed media startups of yesteryear have frequently tanked in spectacular fashion, from The Messenger and Vice to Ozy Media and Quibi. But Shipper is betting that Every—currently with about 130,000 unpaid subscribers and almost 10,000 paid—can play by its own rules and ultimately win its own game.\nHence, the fundraise: Every recently raised $17.5 million in Series A funding, at a $110 million post-money valuation, Fortune has exclusively learned. IA Ventures’s Jesse Beyroutey led the round, with Betaworks and The Atlantic CEO Nicholas Thompson joining, among others. Shipper, 35, will retain full control of the company, and is changing his title to “Philosopher King,” which I rib him about. He good-naturedly says the change is semiotic.\n“The really important thing about taking the money for me was that we’d do it in a way that allows us to achieve our goals… and do it in a way that doesn’t require us to sacrifice our soul or the things about the company that I love deeply,” said Shipper. “I think of changing my title as a symbolic thing. If this was a normal venture capital deal, that would be completely off the table and ridiculous.”\nAnd this isn’t a normal venture deal, in a couple of ways. First, Every is a media company. With its neoclassical pop art aesthetic, Every has a multi-pronged business model: Its writing serves a professional audience seeking to become “AI-native,” while the 35-person company also provides consulting services to large companies and produces conferences (I recently interviewed Shipper at Every’s Thesis: 2027 conference in Brooklyn). Second, Shipper didn’t raise in a standard startup process: IA’s Beyroutey and Shipper are close friends (they went to college together) and Shipper went straight to Beyroutey.\n“I didn’t shop the deal,” said Shipper. “I went to someone I deeply trust, who understands the business deeply, who understands exactly what I want to do with it, and has put me in the position where I make all the decisions to build the company in the way that I want to build it,” Shipper said. “I think that’s the only way to build a business like this, because this is a very unique shape. It’s a media company and a technology company, kind of smushed together.”\nShipper started Every in 2020, about six years after exiting his first startup, co-browsing company Firefly, in 2014 ( the acquisition came right as he was graduating college ). He spent the intervening years finding the right next thing. Every became the answer, in part because it addressed a number of questions that Shipper had been asking throughout his life. For one, he’d long felt tension between writing and entrepreneurship (at Every he could be both). He’d also been interested in tech since he was a kid.\n“I thought a lot about why Microsoft and Windows had worked, and one of the big reasons is that they came during a hardware platform shift, from mainframes to PCs,” said Shipper. “They started building operating systems for that, and that’s always a really big opportunity…. And I thought: I wonder what my platform shift is going to be?”\nShipper and Every are all-in on AI, and the company is built to help people understand how they can actually use AI, in their jobs and their lives.\n“I think too few companies are trying to do that,” said Shipper. “Too many companies are trying to build the machine god or are worrying about Armageddon, and I’m not…. I would expect improvements we’re seeing [in AI] to continue, and I would expect there to be a gap between the improvements that you see on the charts and how well those improvements translate into actually better work by people (and that people at companies are proud of). Our job is to fill that gap.”\nShipper is optimistic that AI won’t replace humans at work, a common fear and feature of AI discourse.\n“The narrative is ‘it’s so over for humans’, and I think that’s exactly wrong,” he said. “That relies on this sleight of hand where you forget that humans are the ones who make these things, and humans are the ones that prompt these things—and decide what’s valuable and what’s not.”\nIn some sense, Shipper expects AI to eventually blur into the background, much in the same way we don’t really say “I used the Internet.”\n“Ultimately, I think the technology and the model advances will disappear, and we’ll actually just think about the humans that did it,” said Shipper. “Asking if Claude did it will be like asking if you used your laptop. ‘Did your laptop do it?’ No, you did it.”\nHappy Thanksgiving and we’ll see you again on Monday.\nAllie Garfinkle\nX: @agarfinks\nEmail: alexandra.garfinkle@fortune.com\nSubmit a deal for the Term Sheet newsletter here .\nJoey Abrams curated the deals section of today’s newsletter .\nVENTURE CAPITAL\n- Leash Biosciences , a Salt Lake City-based startup that uses lab-generated data to build environments for training and evaluating AI in drug discovery, raised $11 million in funding. Innovation Endeavors and Insight Partners led the round.\nPRIVATE EQUITY\n- Funds and accounts managed by Cerberus Capital Management agreed to acquire the U.S. Space Systems business of Airbus U.S. Space & Defense , a Merritt Island, Florida-based satellite manufacturer serving commercial and national security customers. Financial terms were not disclosed.\nEXITS\n- CIRCOR Aerospace was acquired by Parker Hannifin from KKR for $2.55 billion.\nThis is the web version of Term Sheet, a daily newsletter on the biggest deals and dealmakers in venture capital and private equity. Sign up for free.",
+      "text_status": "ok"
+    },
+    {
+      "id": "40e2b7113d1a",
+      "title": "Every Raises $17.5M Series A at $110M Valuation to Help Teams Adopt AI",
+      "publisher": "Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaVl6WFI4WmZ1Wm1iR21oUWdxQ08tNUF3WFZtbkthRC1NNHdWUFkzZTJjX1MwOHFXTDhvSFdMOGs5TEtrYnpfSUxDS2FndGdLVGx5eGljSl9HZ3czZUlDN3BnVVR3dWw3MHlTR2xVQ0pKNHJfNWE0M2d3ZTJzTktvdmt3WjA0UTFsd3dMN1BlWG9uWlZC?oc=5",
+      "published_at": "2026-11-25T18:04:06.000Z",
+      "publisher_url": "https://www.unite.ai",
+      "snippet": "Every Raises $17.5M Series A at $110M Valuation to Help Teams Adopt AI Unite.AI",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 17500000,
+        "currency": "USD",
+        "raw": "$17.5M"
+      },
+      "company_guess": "Every",
+      "group_key": "every",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "52184e3832f8",
+      "title": "Every Raises $17.5M Series A at $110M Valuation",
+      "publisher": "Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORV8tbFYwdlg1TzJMR2RqSm4taG9IOU1XVVp1RGZPUnZ4QzFXR0ZQWlBfbDV4QlhMdDBkR2M4a3JLM1hOaEhmS2pfOFpMTmNRT3NveHhOVmEzRjhhRlpuY1plQmQzdWV2Z0N5N3JETmYwQzNGYTFST3ZMdGszY1B3UWdHRVI?oc=5",
+      "published_at": "2026-11-25T20:27:57.000Z",
+      "publisher_url": "https://wisevoter.com",
+      "snippet": "Every Raises $17.5M Series A at $110M Valuation Wisevoter",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 17500000,
+        "currency": "USD",
+        "raw": "$17.5M"
+      },
+      "company_guess": "Every",
+      "group_key": "every",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "07bd001a637c",
+      "title": "Every raises $17.5M Series A to test venture-backed media",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTTVyT3Z3VmpZZGtKRzZJM1g3QkJNRG5tYzJFMU9odDZUeTZKUXctTEhpdUdlWjVwQ2phM0h5WkZ0cGNjWS04VHY2VnhiR0Qxb3RET0Rna1IySnJXaG41T2lCZEFNNmpqSU5CeWJPM2cwakdOLUNHUHpyWnBDYU84U1VSVXVpdVhTemlTZ2pfbFNMRWxr?oc=5",
+      "published_at": "2026-11-25T10:59:35.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Every raises $17.5M Series A to test venture-backed media Dealroom",
+      "source_feed": "gnews-g1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 17500000,
+        "currency": "USD",
+        "raw": "$17.5M"
+      },
+      "company_guess": "Every",
+      "group_key": "every",
+      "group_rank": 3,
+      "text_status": "skipped"
+    },
+    {
+      "id": "4b1688a040b5",
+      "title": "AI investing App Ulys reaches $17M in total funding",
+      "publisher": "Invezz",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQmo4LUNkTG5Vd1ZSbjZscVVJbGpja3ZFTUJvdmlhdTZIUWwwOEM1d0ZxNTZZWDA5NzNSYTBXdnoxSlRacC1qUURqekJnQzA2WGFJbk9pNFpITE56ekcyajZFSlo3MVVtY0stWnJMRlJmS1NlR1ZuMzVuUXU4ekd3bFF5UHpDMWRGWXk2MllpOA?oc=5",
+      "published_at": "2026-11-25T18:48:51.000Z",
+      "publisher_url": "https://invezz.com",
+      "snippet": "AI investing App Ulys reaches $17M in total funding Invezz",
+      "source_feed": "gnews-g6",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 17000000,
+        "currency": "USD",
+        "raw": "$17M"
+      },
+      "company_guess": "AI",
+      "group_key": "4b1688a040b5",
+      "group_rank": 0,
+      "resolved_url": "https://invezz.com/news/2026/11/25/ai-investing-app-ulys-reaches-17m-in-total-funding/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "6b1c8bc3c353",
+      "title": "Northrop Grumman Receives $16.4 Million Navy Order For International E-2 Aircraft Support",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/northrop-grumman-receives-16-4-million-navy-order-for-international-e-2-aircraft-support/",
+      "published_at": "2026-11-25T17:29:15.000Z",
+      "publisher_url": null,
+      "snippet": "Northrop Grumman Systems received a $16.41 million Navy order to provide in-service and technical support for E-2C and E-2D aircraft operated by foreign military sales customers.\nThe post Northrop Grumman Receives $16.4 Million Navy Order For International E-2 Aircraft Support appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 16400000,
+        "currency": "USD",
+        "raw": "$16.4 Million"
+      },
+      "company_guess": "Northrop Grumman",
+      "group_key": "northrop grumman",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/northrop-grumman-receives-16-4-million-navy-order-for-international-e-2-aircraft-support/",
+      "text": "Northrop Grumman Receives $16.4 Million Navy Order For International E-2 Aircraft Support\nBy Amit Chowdhry\nToday at 12:29 PM\nNorthrop Grumman Receives $16.4 Million Navy Order For International E-2 Aircraft Support\nNorthrop Grumman Systems received a $16.41 million Navy order to provide in-service and technical support for E-2C and E-2D aircraft operated by foreign military sales customers.\nThe cost-plus-fixed-fee order supports customers in France, Japan, Taiwan and Egypt. It covers requirements shared across participating customers alongside country-specific support.\nThe award establishes a support effort extending through October 2033, the expected completion date.\nForeign Military Sales Funding Supports Initial Work\nThe Navy obligated $6.65 million in foreign military sales funds when it issued the order. That initial obligation represents approximately 40.5% of the announced order value.\nThe funding committed at award is therefore distinct from the full $16.41 million value. The provided details do not specify a schedule for additional obligations or allocate funding among the four customers.\nMost Work Will Take Place In Florida\nNorthrop Grumman will perform approximately 64% of the work in Melbourne, Florida.\nThe remaining work will take place across customer locations: Lorient and Cuers in France; Misawa and Tokyo in Japan; Pingtung, Taiwan; and Cairo, Egypt.\nThe geographic distribution combines a majority of support activity in the United States with work performed in the countries operating the aircraft. The notice does not provide separate percentages for each overseas location.\nNaval Air Systems Command at Patuxent River, Maryland, issued order N0001927F1065 under basic ordering agreement N0001925G0003. The order uses that existing agreement to address the shared and country-specific aircraft support requirements.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "92b7950b86a5",
+      "title": "China's Octopus Power raises $15M Series A from Midea",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNGhKRGVDX1lWTmlwSFBGeTBTMmx3NThfaWNvRm9kNWxrRjdzaTR4VWJEOFpqMjRpbDZDMjBHNlNITmhlT2xpR0FreG5DNzdPRlk1NVF1dGF0X1BBREF1M3ZBdlY4TGxta21SYWtLSnhfVzJLYWU1UlNBQ09rTGVTQUVPUmE4QkpveGlfVGJ2Zw?oc=5",
+      "published_at": "2026-11-24T21:04:45.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "China's Octopus Power raises $15M Series A from Midea Dealroom",
+      "source_feed": "gnews-6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 15000000,
+        "currency": "USD",
+        "raw": "$15M"
+      },
+      "company_guess": "China's Octopus Power",
+      "group_key": "chinas octopus power",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/china-s-octopus-power-raises-15m-series-a-from-midea",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "69144bc87559",
+      "title": "Jiutian Chuangzhi raises $15M Series A for outdoor robots",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbjNQRXd5RnZiME8xTm9yd2hWQ0dPRmR2dmh5ekZXTm9HeTN5NHRiU1RJSnNYMi1DeW1wbjFzQ1pUUHluZDJxNERDQXhWajlfTnN5MW5jdlNiUkw5TVVyY0N4TUJ5aElWVFAzUVYweFpkdFo2d2libVpRUjRLb3MzUWZORUt1d19iNVk4dC1kcmF1YUl1?oc=5",
+      "published_at": "2026-11-25T20:31:10.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Jiutian Chuangzhi raises $15M Series A for outdoor robots Dealroom",
+      "source_feed": "gnews-g1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 15000000,
+        "currency": "USD",
+        "raw": "$15M"
+      },
+      "company_guess": "Jiutian Chuangzhi",
+      "group_key": "jiutian chuangzhi",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/jiutian-chuangzhi-raises-15m-series-a-for-outdoor-robots",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "ac3790fabf85",
+      "title": "MetaLenX raises $15M Series A to push into optical computing",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOENVQmVNREJOQktCUXhTSzBXT1M3cDNNdUFwOGh6M3U1RDBOUXQycmtPSXVoUjh5QjRwdGt1OEtUQkFraVRSdjdGRFlJdy1tT3hMVWw4dEM0RzhXYm4zTXFIZ0pHZTJzWTEzZ2RYRUE5TnpBMHI2X215ZmpFTUo5SGZNWEZJelBzcmF1MzJWNDZlU2dZMi1rQg?oc=5",
+      "published_at": "2026-11-25T11:21:37.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "MetaLenX raises $15M Series A to push into optical computing Dealroom",
+      "source_feed": "gnews-g1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 15000000,
+        "currency": "USD",
+        "raw": "$15M"
+      },
+      "company_guess": "MetaLenX",
+      "group_key": "metalenx",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/metalenx-raises-15m-series-a-to-push-into-optical-computing",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "957ef306a551",
+      "title": "AtomCore Light raises $15M angel round for distributed quantum computing",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVZ2Y2dhTVpsZkdkdjJvRkF5ZDh6bDRlQnplTzlORkNoVXU0bmlqY09GNDRHb3Fpd0VPdWsxMEcya1lKWW95dmJBV1E5clBNZTJhX0ZZTFdfbGtwWEk3MlJSNG1YZEVQSHhVc2ltSmdSUHNBSkNVVVpsX1pONnZsZFNydERrcXJOeUhxbGxob0U2WExwbTc5MzhmWFJYWkhFWVRoMW5pVGk?oc=5",
+      "published_at": "2026-11-25T20:31:38.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "AtomCore Light raises $15M angel round for distributed quantum computing Dealroom",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 15000000,
+        "currency": "USD",
+        "raw": "$15M"
+      },
+      "company_guess": "AtomCore Light",
+      "group_key": "atomcore light",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/atomcore-light-raises-15m-angel-round-for-distributed-quantum-computing",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "091a4a1fba38",
+      "title": "Vero Security raises $11 mn in seed funding for enterprise AI Security Engineering",
+      "publisher": "Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXpNMEgyeWxJZTJmR1VYUFU1YWgySUFpY2JwcTZ4RWtYRW1XSVZjdUUtcnM4ZFBqNTViZTRMTVZHRmR1T2pYWkJqMEtYUzdtTVhqaHdLNk1OLWh6NGhVX0Zfc0lEbVhsTklKOTlLekp4T1pwMmlXTDc2Z3JJNmQxakQ1TzJEcEgtbG83WUctUGppajNUMXVLYlNabVdzUXJXVjRVcXQxRFM?oc=5",
+      "published_at": "2026-11-25T17:52:15.000Z",
+      "publisher_url": "https://beinsure.com",
+      "snippet": "Vero Security raises $11 mn in seed funding for enterprise AI Security Engineering Beinsure",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Vero Security",
+      "group_key": "vero security",
+      "group_rank": 0,
+      "resolved_url": "https://beinsure.com/news/vero-security-raises-11-mn-seed-funding-for-enterprise-ai-security-engineering/",
+      "text": "Agentic AI News\nCyber Insurance News\nInsurTech News\nAI Security Engineering emerges as a dedicated enterprise discipline\nAI runtime security and automated policy enforcement\nEnterprise AI security controls across agents and infrastructure\nCybersecurity investors target enterprise AI risks\nVero Security has raised $11 mn in seed funding to develop its AI Security Engineering platform, which automates security management and policy enforcement across enterprise AI tools and agents.\nThe funding round was led by TLV Partners, with participation from GTM Capital, Maple Capital and angel investors. Founded in 2025, Vero already serves several Fortune 500 companies.\nVero Security has secured $11 mn in seed funding led by TLV Partners, with participation from GTM Capital, Maple Capital and angel investors.\nIts AI Security Engineering platform automates security policy enforcement, risk remediation and runtime protection across enterprise AI tools and agents.\nResearch from IANS and Artico Search found that 65% of companies with at least $10 bn in revenue had appointed an AI security leader, but only 18% had established a dedicated role.\nThe platform addresses the operational demands of enterprise AI security teams. Security professionals define policies, which Vero converts into enforceable controls, automatically adjusting protections as AI vendors modify their products and escalating decisions that require human judgment.\nThe company is also launching AISecurityEngineering.org, an open professional community dedicated to AI security engineering.\nAI Security Engineering emerges as a dedicated enterprise discipline\nResearch from IANS and Artico Search found that 65% of companies generating at least $10 bn in annual revenue had assigned responsibility for AI security to a designated leader. Only 18% had established a dedicated position, with other organizations incorporating AI security into existing leadership responsibilities.\nEmployees are adopting new AI applications and autonomous agents, connecting them to enterprise infrastructure and granting permissions to access sensitive information and execute actions.\nAI vendors regularly introduce new models, capabilities, plugins and integrations, potentially changing the security implications of previously approved configurations.\nElad Tessler, co-founder and CEO of Vero Security, said Vero is working with enterprise AI security leaders to develop technology that maintains protections as AI capabilities change, allowing security professionals to concentrate on decisions requiring human intervention.\nCISOs have seen enough dashboards and tables that tell their teams what’s wrong and leave the work to them. AI Security Engineering deserves a better operating model, designed for AI rather than borrowed from other areas of securit.\nElad Tessler, Vero Security\nAI security professionals are defining their responsibilities with relatively few established operating procedures or formal training programs. Through AISecurityEngineering.org, Vero plans to provide an open knowledge center offering practical field guides, workshops and the ASE professional credential track.\nAI runtime security and automated policy enforcement\nVero’s platform incorporates an AI Runtime Governor that enforces security policies during AI execution. Its runtime controls inspect supported prompts, tool calls and agent actions, applying approved restrictions when an action is attempted.\nThe technology can prevent coding agents from accessing sensitive credentials without authorization, block actions that violate corporate security policies and prevent malicious skills or prompt injection attacks from triggering unauthorized behavior.\nSecurity controls operate during execution rather than relying on subsequent manual review. Vero integrates with existing enterprise endpoint, identity, AI and cybersecurity systems, eliminating the need for employees to install additional software.\nThe platform combines continuous discovery, security analysis and runtime enforcement to maintain visibility into AI applications, agents, connected systems, configurations and access permissions. Security teams use that information to assess risks and establish appropriate controls.\nOnce security professionals define policies and determine which changes can be handled automatically, Vero implements approved controls, coordinates remediation with the responsible parties and verifies completion.\nWhen changes to the enterprise AI environment require a new risk assessment, the platform presents its analysis and recommended action to the relevant security professional.\nEnterprise AI security controls across agents and infrastructure\nA single enterprise security policy can require numerous technical controls across different applications, identities and infrastructure components.\nOne Fortune 1000 customer began deploying Vero with a policy restricting connections between AI agents and corporate code repositories, as well as code execution privileges, exclusively to developers.\nWithin minutes, Vero converted that policy into more than 15 security controls covering coding agents, Model Context Protocol (MCP) servers, skills, identities and runtime actions, automatically implementing them across the organization.\nThe platform continuously adjusts those controls as AI tools introduce new capabilities, maintaining enforcement of the original policy without requiring security teams to manually reconfigure each affected system.\n“AI Security Engineering is becoming a core responsibility inside enterprise security organizations,” said Rona Segev, co-founder and managing partner at TLV Partners. “The professionals taking on that responsibility need technology designed for the pace and complexity of AI. Vero is bringing security expertise, continuous execution and runtime enforcement together in a platform built for how this new discipline needs to operate.”\nCybersecurity investors target enterprise AI risks\nGTM Capital part",
+      "text_status": "ok"
+    },
+    {
+      "id": "fb1bb65a70b3",
+      "title": "Lakshya Aerotech raises $269,000 seed for indigenous 'physical AI",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOajFZRVFDMTZzN29VNmVpemhkYmE0M0Zib1Q5VnBXZ3gtY2Y1LTRkWVRHWjdPZDhReEllM1ZtQU90MjdLNjItVmduTFU0NHNhTjdxNnZhbjg3MW5iRDVXSnRqUEFhVlh0TzlNMVRKOWdJZS1iLVNNMlNCdVRUT3d5aEtXWDBjSGY4MGhMREZsWXRjeWRiRy12SGFVbXZXZw?oc=5",
+      "published_at": "2026-11-25T20:34:10.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Lakshya Aerotech raises $269,000 seed for indigenous 'physical AI Dealroom",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Lakshya Aerotech",
+      "group_key": "lakshya aerotech",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/lakshya-aerotech-raises-269-000-seed-for-indigenous-physical-ai",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "3d727ed23209",
+      "title": "Lakshya Aerotech Raises ₹2.5 Crore Seed for Physical AI",
+      "publisher": "shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWlTN3YwbUpWM2Z5clA3cHVaSmtsV2o5bW9PNWNGcXhRaG81ZHM1QVNUeElYQnA0ZzR0OVBVWHZHdHM4R3NLU2xYelVKRlBnZk1Ud1dqdEQ5SXl5LS1CUHFEVDktWU5yMHFobW1FRlA2QmdmazgtMmtqRVJkcmJXVnRmMWk?oc=5",
+      "published_at": "2026-11-25T12:04:34.000Z",
+      "publisher_url": "https://shattered.io",
+      "snippet": "Lakshya Aerotech Raises ₹2.5 Crore Seed for Physical AI shattered.io",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Lakshya Aerotech",
+      "group_key": "lakshya aerotech",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "81006775964a",
+      "title": "Lakshya Aerotech Raises Rs 2.5 Crore Seed Funding to Turn Physical AI Research Into Market-Ready Products",
+      "publisher": "https://ascendants.in/",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcE80V2dKcVZ2VDNRRThQZmQ0Nkw4QmdXYjJ4STAxR0Z4OEJUYjlaRURUN1lTYXFnVkRhTFFENDQ2bnNyQ0FNd0tpYVN2YkJ3V1lhSDRrcG1TMzFlLWI0T2ppeU9mOHQ0M2hHQkllN2hyMzRyNjRBam5fWGZZZ0ZNeThPekhiNjA2UUJqX0RVNk5UQ2tseEMyMmVWREdTdWc?oc=5",
+      "published_at": "2026-11-25T10:11:51.000Z",
+      "publisher_url": "https://ascendants.in",
+      "snippet": "Lakshya Aerotech Raises Rs 2.5 Crore Seed Funding to Turn Physical AI Research Into Market-Ready Products https://ascendants.in/",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Lakshya Aerotech",
+      "group_key": "lakshya aerotech",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "f2008766af23",
+      "title": "Nilocas raises £860K pre-seed for AI patch to detect heart disease",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWjVUMl9TUEdOejJHbkZVandPU2dyZm9rbzliVjJLUm1JajFlb3VXMGd5TGZYN2hISXgwY19IOUNGb05kczVrSWpFNHB6UzQ2S3o1SWYxOC0tWWtfNm1FWW1GbTM2d3VZYjdUMERvZXgzX2lqNmtMRzg2WDZPR0REQW41b0hCODZydUVlVUpDN25kRzA4aC1ZRVBLYUJxLS1l?oc=5",
+      "published_at": "2026-11-24T21:24:46.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Nilocas raises £860K pre-seed for AI patch to detect heart disease Dealroom",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Nilocas",
+      "group_key": "nilocas",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "a9725e4625c3",
+      "title": "Lawvek raises $550,000 pre-seed funding to help enterprises recover money vendors owe",
+      "publisher": "Indian Startup News",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdURsa25nVzBneXFmM3BYaUh0U0RhZHBVdktId1dwOWNVeklGRnUtajhJZG1BakpvejJPeEhMa1hxLXFWdTc2cFhzMVR4Q0FkWUxyVDUycmFoUjMyLURpOFc3M2ZlTGFnZE9ldDFDbGM2bTJmMEwxTnN5S2JZQVQ0M3M3bkpnbTk4a3JuX2N1R3MxZGRvTy04cGJyMXd1akhEcm1HQW1mY2d0UXNzanRtM1Vfd3FJelZFaEdwQzVCbWQtcTFWQnZJelZn0gHKAUFVX3lxTE51RGxrbmdXMGd5cWYzcFhpSHRTRGFkcFV2S0h3V3A5Y1V6SUZGdS1qOElkbUFqSm96Mk94SExrWHEtcVZ1NzZwWHMxVHhDQWRZTHJUNTJyYWhSMzItRGk4VzczZmVMYWdkT2V0MUNsYzZtMmYwTDFOc3lLYllBVDQzczduSmdtOThrcm5fY3VHczFkZG9PLThwYnIxd3VqSERybUdBbWZjZ3RRc3NqdG0zVV93cUl6VkVoR3BDNUJtZC1xMVZCdkl6Vmc?oc=5",
+      "published_at": "2026-11-25T12:45:17.000Z",
+      "publisher_url": "https://indianstartupnews.com",
+      "snippet": "Lawvek raises $550,000 pre-seed funding to help enterprises recover money vendors owe Indian Startup News",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Lawvek",
+      "group_key": "lawvek",
+      "group_rank": 0,
+      "resolved_url": "https://indianstartupnews.com/funding/lawvek-raises-550000-pre-seed-funding-to-help-enterprises-recover-money-vendors-owe-12840793",
+      "text": "Funding Fusion\nNews\nLawvek raises $550,000 pre-seed funding to help enterprises recover money vendors owe\nSumit Vishwakarma\n25 Nov 2026\n18:15\nIST\nFollow Us\nNew Update\nLawvek co-founders Amrit Khandelwal and Sudip Chhatui\nLawvek, an AI startup that helps enterprises recover vendor overcharges, missed rebates and service credits, has raised $550,000 in a pre-seed round led by Neon Fund, with participation from Inzas Ventures.\nAdvertisment\nThe San Francisco-based startup, co-founded by Amrit Khandelwal and Sudip Chhatui, said it will use the money to expand its enterprise customer base and strengthen the platform's ability to identify and recover money that vendors owe its customers.\nWhat Lawvek does\nLarge companies negotiate prices, discounts and service commitments with their vendors. But the information needed to check whether a vendor has actually honoured those terms is usually spread across contracts, invoices, usage data and service records.\nLawvek's AI agents compare contract terms with billing, usage and service records. They flag price increases that go beyond agreed caps, volume discounts missing from invoices, and prepaid capacity that teams are on track to leave unused.\nWhen a vendor owes a rebate or a service credit, Lawvek calculates the amount, gathers the evidence and files the claim on the customer's behalf. It then follows up with the vendor and checks that the credit shows up on an invoice or that the customer receives a refund.\nKhandelwal, who is the CEO, explained the gap with an example from healthcare procurement.\n\"Say a health system negotiates a $2 rebate on every case of exam gloves if its hospitals buy 100,000 cases in a year. As soon as those hospitals reach the threshold, the supplier owes the health system $200,000. Every invoice can be correct, and the health system can still miss the entire rebate,\" Khandelwal said.\n\"Across industries, companies negotiate prices, discounts and service levels, yet still miss overcharges, earned rebates and credits for outages. Lawvek checks vendors' bills and performance against their contracts. When a vendor owes money, Lawvek gathers the evidence and follows up until the company receives a credit or refund,\" he added.\nLawvek points to McKinsey's estimate that unmet supplier commitments can cost large enterprises roughly 2% of their spending. For a company with $1 billion in annual spend, that works out to about $20 million a year.\nThe estimate appears in McKinsey's April 2025 report, \"Mitigating procurement value leakage with generative AI\", which described unfulfilled supplier obligations as leaking roughly 2% of spend, or about $40 million a year for a company spending $2 billion.\n\"The business world is full of blind spots, what's often referred to as localised ignorance. When we spoke with Lawvek's customers, we were struck by the scale of the problem and how little visibility enterprises have into it. We're pleased to back the team at this early stage as they build and validate the platform with enterprise customers,\" said Siddhartha Ahluwalia, partner at Neon Fund.\nThe founders and the investors\nCo-founder Sudip Chhatui is a 2014 graduate of Netaji Subhas Institute of Technology (NSIT) and has spent over nine years in product growth and marketing roles, according to his LinkedIn profile. He previously worked with several Indian companies, including Curofy.\nLead investor Neon Fund was started by Ahluwalia and Nansi Mishra, the hosts of the 100x Entrepreneur podcast, which has since been rebranded as The Neon Show. The firm invests in early-stage B2B SaaS companies, with a focus on startups using AI.\nIn December 2025, Neon Fund announced the close of its third fund at $25 million. At the time, it had backed 12 startups from the fund and planned to back 13 more over the following year, with cheques of $500,000 to $1 million. Ahluwalia said the fund aims to help portfolio companies reach $10 million in annual recurring revenue within three years.\nNeon Fund's portfolio includes Airmeet, Astra Security, CloudSek, InFeedo, SpotDraft, Highperformr and Zepic. Its portfolio company Requestly was acquired by BrowserStack in 2025.\nFunding\nAI\nSubscribe to our Newsletter!\nBe the first to get exclusive offers and the latest news\nSubscribe Now\nRelated Articles\nRead the Next Article",
+      "text_status": "ok"
+    },
+    {
+      "id": "4629b18ab76f",
+      "title": "Orthopaedic Startup OSSO Raises Rs 2.5 Crore in Extended Seed Round",
+      "publisher": "https://ascendants.in/",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGNxNmdEMXRQYVBnMzMzbkV5S0tHaF9PMGNoY0dCbzBSMGVDanZaZy1JbVlQVjlfdTlsVmp4V0lKVUZXdENKNC1QSHloSFZBNmloLXZUYmtvbDR0SGExaFA4LWxUMkV3RFZJZDQ5TmxzemZieGxZTGRiR3pWcHdRLVp2SjlmVk1aTC1UVUlYRFI5bUdQRjFXQmptNllzX0NNRkJGVGNXWnY?oc=5",
+      "published_at": "2026-11-25T12:38:31.000Z",
+      "publisher_url": "https://ascendants.in",
+      "snippet": "Orthopaedic Startup OSSO Raises Rs 2.5 Crore in Extended Seed Round https://ascendants.in/",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "OSSO",
+      "group_key": "osso",
+      "group_rank": 0,
+      "resolved_url": "https://ascendants.in/funding-feed/osso-raises-rs-2-5-crore-orthopaedic-healthcare-startup-ncr-expansion/",
+      "text": "Orthopaedic Startup OSSO Raises Rs 2.5 Crore in Extended Seed Round\nOm Singh\n| November 25 | Business Stories , Funding Feed\nShare\nGurugram-based orthopaedic healthcare startup OSSO has raised Rs 2.5 crore in an extended seed funding round as it looks to strengthen its clinical capabilities and expand its footprint across the National Capital Region (NCR).\nThe company said the newly raised capital will support the development of its clinical services and expansion plans. The funding comes as OSSO builds an integrated healthcare model combining orthopaedic treatment, surgical capabilities and rehabilitation under one platform.\nThe extended round attracted investments from Rajeev Saraf, Tejinderpal Miglani, Priyanka Aggarwal, Akshay Varma and Vikas Bhadoria. They join the startup’s existing investors, including Umesh Kumar Agarwal from the Haldiram Family Office, Sahil Jindal and Blume Founders Fund, among others.\nOSSO Expands Specialised Orthopaedic Services\nFounded in 2025 by Kunal Kishore Dhawan and Avani Shukla , OSSO operates an integrated orthopaedic and rehabilitation centre. Its services cover clinical orthopaedics, physical medicine and rehabilitation (PM&R), physiotherapy, regenerative orthopaedics and sports injury care.\nThe startup has recently launched a centre focused on advanced orthopaedic procedures, with particular attention to joint preservation and sports injury treatment.\nThe facility will offer specialised procedures, including image-guided orthobiologic interventions, subchondral bone marrow aspirate concentrate (BMAC) and arthroscopic cartilage repair. Several of these treatments are minimally invasive and can be performed as day-care procedures.\nThe new centre will operate alongside OSSO’s flagship clinic in DLF Phase 4, Gurugram. The two facilities are intended to connect different stages of patient care, from diagnosis and procedures to rehabilitation.\nStartup Plans 5-6 Additional Clinics in 2027\nOSSO is targeting a wider NCR presence in 2027, with plans to establish five to six additional clinics and surgical units. The company also intends to onboard more orthopaedic surgeons as it develops a doctor-led healthcare platform.\nIts expansion strategy centres on bringing specialised clinical services, surgical capabilities and rehabilitation together within a single network.\nWith the latest funding, OSSO plans to strengthen its clinical infrastructure while expanding access to specialised orthopaedic care across NCR. The planned additions in 2027 will mark the next phase of its effort to build a connected network of orthopaedic and rehabilitation facilities.\nAlso Read: Lakshya Aerotech Raises Rs 2.5 Crore Seed Funding to Turn Physical AI Research Into Market-Ready Products\nAvani Shukla\nBlume Founders Fund\nGurugram startup\nhealthcare funding\nHealthcare Startup\nKunal Kishore Dhawan\nNCR Healthcare\nOrthopaedic Healthcare\nOSSO\nOSSO Funding\nOSSO Startup\nseed funding\nSports Injury Treatment\nstartup funding India\nOm Singh\nOm Singh is an AI enthusiast, helping budding founders leverage technology to grow their businesses. More By Om Singh\nPrevious\nLakshya Aerotech Raises Rs 2.5 Crore Seed Funding to Turn Physical AI Research Into Market-Ready Products\nNext\nJensen Huang’s Nvidia Comeback: Who Won Big and Who Lost After His Return as CEO?\nRelated Post\n3,000 bp Employees in India, Hungary and Malaysia to Join Wipro\nNovember 25\nSpaceX Shares Fall 6.4% Below IPO Price Amid Tesla Merger Concerns and $738 Million Grant Exit\nNovember 25\nJensen Huang’s Nvidia Comeback: Who Won Big and Who Lost After His Return as CEO?\nNovember 25\nOrthopaedic Startup OSSO Raises Rs 2.5 Crore in Extended Seed Round\nNovember 25\nLakshya Aerotech Raises Rs 2.5 Crore Seed Funding to Turn Physical AI Research Into Market-Ready Products\nNovember 25\nDiamonds vs Gold: Why One Holds Value While the Other Loses It\nNovember 24\nPalo Alto Networks to Acquire AI Startup Applied Compute for $4.5 Billion\nNovember 24\nAdani Airports Raises $300 Million from 360 ONE Asset at $18 Billion Valuation\nNovember 24\nMeta AI Chief Alexandr Wang Warns Superintelligence Could Put Humanity’s Control at Risk\nNovember 24\nGold Price Today: Gold Rebounds Above $3,645 as Bargain Buying Follows 14-Month Low\nNovember 24\nLeave the first comment (Cancel Reply)\nYou must be logged in to post a comment.\nThe Ascendants\nIsaiah Taylor’s $6 Billion Nuclear Startup Has a 30 MW AI Data Centre in Its Sights After Nvidia Power Test\nHeer Shah\n5 min\n13-Year-Old Hyderabad Student Launches KIKA AI, Secures Seed Funding for AI Platform\nOm Singh\n3 min\nRanveer Singh, Aman Gupta Launch H.I.M With 8 Men’s Grooming Products\nOm Singh\n3 min\nDiscover More\nFounder's Corner\nWho Is Madison Huang? Jensen Huang’s Daughter Draws Attention as Nvidia Searches for New CEO\nKhushi Bhatia\n5 min\nDesible AI Raises Rs 32 Crore as Its AI Platform Expands Across 25-Plus BFSI Workflows\nEpil Bodra\n2 min\nUS Intelligence Memo Links Jensen Huang’s Business Contact to China’s Top Spy Agency, Report Says\nSaksham Singh\n4 min\nDiscover More",
+      "text_status": "ok"
+    },
+    {
+      "id": "786df480cc90",
+      "title": "Romanian startup Outcome1 raises 1 mln euro in Catalyst-led funding round",
+      "publisher": "SeeNews",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdTIxN3poOUdoZ3dudkw0RzJncGxIS19tLTlPQlQ2d01tYVhpZ3Y0Yi1DZ3ZmSm9ybmtIdTE1empxU2doZHRGcXlYdjRnSERTRkZEY3NjanhMdWtNdUhOLTVpejR5ZDYtQVZhQnpmemtldHR1RENybml5RDUyM3dlQlQ1Y1lEYkQybjNZQmw3TG1lR2FBRXN2eFNqTGRWQjdGcEtkUjRWQ2g1dw?oc=5",
+      "published_at": "2026-11-25T14:36:26.000Z",
+      "publisher_url": "https://seenews.com",
+      "snippet": "Romanian startup Outcome1 raises 1 mln euro in Catalyst-led funding round SeeNews",
+      "source_feed": "gnews-2",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Outcome1",
+      "group_key": "outcome1",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "fe15e7702bbb",
+      "title": "Ex-Infosys Exec's Enterprise AI Startup Bags $32 Mn for Agentic Deployment",
+      "publisher": "Analytics India Magazine",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVlOcGFFWDhRRVhGSmZpcDBtTXVqUVNHaXN6bHBEM3JuVkQwR3BUVDVRT0lBVjZkRmdUSWhIRXB4UTF5OHhtRXMxRXA4WE9LaVBhWFhYZzNod2Jrei13b0lUVlFwaDVFQ2lFU0R1cU55TGlBRlN6TWR0eWRQNWRRSDZFZllJMDgwXzdUNDZlemdVOXpmX1cxUUVHd2E0UEdPRWdRX2V3?oc=5",
+      "published_at": "2026-11-25T05:56:48.000Z",
+      "publisher_url": "https://analyticsindiamag.com",
+      "snippet": "Ex-Infosys Exec's Enterprise AI Startup Bags $32 Mn for Agentic Deployment Analytics India Magazine",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Ex-Infosys Exec's Enterprise AI",
+      "group_key": "ex infosys execs enterprise",
+      "group_rank": 0,
+      "resolved_url": "https://analyticsindiamag.com/ai-news/aidenai-raises-32-million-in-series-a-funding-led-by-a91-partners",
+      "text": "Key takeaways\nAidenAI has raised $32 million in Series A funding, led by A91 Partners.\nThe company plans to expand its AI Builder Platform and develop industry-specific AI solutions.\nAidenAI aims to build a team of over 1,000 engineers by 2027 through its Builder Academy.\nThe platform enables enterprises to integrate AI agents into their existing systems effectively.\nAidenAI has a presence in six countries and intends to further expand its global operations.\nTakeaways drafted with AI from the article text.\nAidenAI, an enterprise artificial intelligence (AI) startup, has raised $32 million in a Series A funding round led by A91 Partners. The company was founded in 2023 by Srinivas Kamadi, a former Senior Vice President at Infosys.\nHeadquartered in Princeton, New Jersey, AidenAI has a significant presence in India and operates across six countries. The company develops an AI builder platform to help enterprises build, deploy, and manage AI agents using their existing systems and AI models.\n“This investment marks a defining milestone in AidenAI's journey as we accelerate our ambition to build a global AI builder company powered by agentic AI and frontier engineering services,” Srinivas Kamadi, Founder and Chief Executive Officer of AidenAI, said in a statement.\n\"We see an extraordinary opportunity to bridge the widening AI capability gap, embed intelligence into the core of enterprises, and reimagine how technology solutions are built, modernised, and operated,\" he added.\nAidenAI will use the funding to accelerate platform development and build industry-specific agentic AI solutions. The company also plans to build a team of more than 1,000 frontier AI engineers by the end of 2027 through its AidenAI Builder Academy, which will operate from Princeton and Hyderabad.\nThe company aims to expand its global operations beyond its existing presence in six countries.\nAccording to AidenAI, its platform acts as a layer between AI models and enterprise systems, allowing businesses to build and manage AI agents within their existing technology infrastructure. Its engineers work alongside enterprise clients to develop and implement AI solutions. The company also offers AiDAP, a platform for modernising legacy technology.\nKaushik Anand, Partner at A91 Partners, said the firm was looking forward to working with AidenAI as it builds an AI-focused enterprise technology company.\n“While enterprise AI adoption is still in its early stages, AidenAI has spent the last three years helping over 30 large enterprises turn the promise of AI into live, measurable business outcomes,” Anand said.\nBDA Partners served as the exclusive banking and advisory firm for the transaction.\n$32 million Series A\nLed by A91 Partners\nPublished 25 Nov 2026\nSpotted an error? Tell our editors . Read our editorial standards and corrections . AI Startups Funding enterprise AI Infosys\nFollow AIM\nPreferred Source Google News WhatsApp Telegram",
+      "text_status": "ok"
+    },
+    {
+      "id": "f1e9a8713051",
+      "title": "Cyril Ramaphosa’s R100-million AI fund for South Africa is 5% of what one brand-new Californian startup raised on its first funding round",
+      "publisher": "MyBroadband",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPNEZFUWdSaUJET3BiZmtsZVBNRnA3b1c2ZkViQmozbkJRbzZFN3FJQi00dmdoek1TbmlKZ0ZXd3pqSkxPd0pnU1I1RmVMNHQ0bi1LTEFNOE1nTnhuZExDVm5mOTBONlI0RjZIclRTTkZMYWNlMXZDR1VUSzhFWmZKV083YTZCRWNfZHNuOFhlSzN5dTJmVk45S0pPbzNuc3R5RVB2LUtpRkVvNXAxdEh1T0xZVjl2THpMRzZ3RlRUQ3VfX0haZVprSGxZajV0M25IMFcwYnJNMnFEQ0VNcXlMN0RGc184Q2p5Z2F2Zmo1UXhfWGd6Mm1jQmhpN1ZvYUR1WW5Pb2xQY3ZVaGpsSnc?oc=5",
+      "published_at": "2026-11-25T09:04:46.000Z",
+      "publisher_url": "https://mybroadband.co.za",
+      "snippet": "Cyril Ramaphosa’s R100-million AI fund for South Africa is 5% of what one brand-new Californian startup raised on its first funding round MyBroadband",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Cyril Ramaphosa’s R100-million AI",
+      "group_key": "cyril ramaphosas r100 million",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "f4792d27f283",
+      "title": "China's AtomQure (原子芯光) raises over 100 million yuan in angel round led by Legend Star, Shanghai Future Industry Fund",
+      "publisher": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfekZNZlFfR05YYld1U2VneXJuNkYtbTRQa3ZuZmNlWU1OOU5LRkpGQ053TFRuSmpjNHRIeXpwTkY5dFptaHc1U2liaXljdmo1ZVhsN3k1MFAtZTFQQWNDX1J6TC1ja3p1eUJwSjVITlJkQzlKd3c?oc=5",
+      "published_at": "2026-11-25T08:35:00.000Z",
+      "publisher_url": "https://finance.biggo.com",
+      "snippet": "China's AtomQure (原子芯光) raises over 100 million yuan in angel round led by Legend Star, Shanghai Future Industry Fund BigGo Finance",
+      "source_feed": "gnews-3",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "China's AtomQure (原子芯光)",
+      "group_key": "chinas atomqure",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "49d43107f7a7",
+      "title": "Kunstig Aero Raises $270,000 from Althing Ventures for General Aviation Safety Technology - Avi-Go",
+      "publisher": "Avi-Go",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95QzZrcG45bFMwZGM5Z0RlbjliWld0SXJBYTFGTEc2MlEzdWhhQ3FlRXpkcTJNanJ0d043aTh6ejFfdG0xbXlwNEprWjlWWlR6RFJaU0lNbmFrX3pZLVFJUDJmRVhMcThoYUVZM1RlcWlBZGM?oc=5",
+      "published_at": "2026-11-25T10:40:37.000Z",
+      "publisher_url": "https://avi-go.com",
+      "snippet": "Kunstig Aero Raises $270,000 from Althing Ventures for General Aviation Safety Technology Avi-Go",
+      "source_feed": "gnews-7",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Kunstig Aero",
+      "group_key": "kunstig aero",
+      "group_rank": 0,
+      "text_status": "unresolved"
+    },
+    {
+      "id": "a3c20fdeacf7",
+      "title": "GenScript Convenes AI, Biotech and Investment Leaders in London as Faster AI-Enabled Drug Design Raises the Stakes for Biological Evidence",
+      "publisher": "",
+      "link": "https://www.prnewswire.com/news-releases/genscript-convenes-ai-biotech-and-investment-leaders-in-london-as-faster-ai-enabled-drug-design-raises-the-stakes-for-biological-evidence-302950857.html",
+      "published_at": "2026-11-25T21:29:00.000Z",
+      "publisher_url": null,
+      "snippet": "Industry leaders point to better data, faster learning cycles and closer connections between computation and experimentation as critical to translating AI-designed molecules into development decisions LONDON, Nov. 25, 2026 /PRNewswire/ -- AI drug discovery is shifting from a race to...",
+      "source_feed": "prnewswire-vc",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "GenScript Convenes AI",
+      "group_key": "genscript convenes",
+      "group_rank": 0,
+      "resolved_url": "https://www.prnewswire.com/news-releases/genscript-convenes-ai-biotech-and-investment-leaders-in-london-as-faster-ai-enabled-drug-design-raises-the-stakes-for-biological-evidence-302950857.html",
+      "text": "GenScript Convenes AI, Biotech and Investment Leaders in London as Faster AI-Enabled Drug Design Raises the Stakes for Biological Evidence\nUSA - English\nUSA - English\nNews provided by\nGenScript Biotech Corporation\nNov 25, 2026, 16:29 ET\nShare this article\nShare this article\nIndustry leaders point to better data, faster learning cycles and closer connections between computation and experimentation as critical to translating AI-designed molecules into development decisions\nLONDON , Nov. 25, 2026 /PRNewswire/ -- AI drug discovery is shifting from a race to design faster to a race to learn faster. As AI expands the speed and scale of design, the advantage increasingly lies with those who can turn those designs into validated biological evidence that informs decisions and improves models.\nHighlights from GenScript’s London forum during Jefferies conference week.\nPanelists and moderator participate in a discussion on the future of biotechnology during the GenScript forum.\nRay Chen, PhD, President of GenScript Life Science Group, speaks at the 2026 GenScript Biotech Global Forum in London.\nThat was the central proposition GenScript Biotech Corporation put to leaders from pharma, AI-native biotechnology, investment and science funding at the 2026 GenScript Biotech Global Forum London . Held during the week of the Jefferies London Healthcare Conference under the theme \"AI, Biotech & Capital,\" the forum brought together executives from Eli Lilly and Company, Latent Labs, Sofinnova Partners, Basecamp Research, ARIA and GenScript to explore where AI is already creating scientific and economic value, where biology remains a limiting factor, and what evidence will be required as AI-generated possibilities move closer to development.\nFrom AI Possibility to Biological Evidence\nPanelists included Alan Belicha, PhD , Senior Director, Ecosystem Growth and Contributor Partnerships at Eli Lilly and Company; Simon Kohl, PhD , Founder and CEO of Latent Labs; Edward Kliphuis , Partner at Sofinnova Partners; Richard Pearce , Chief Business Officer at Basecamp Research; and Maximilian Sichrovsky, PhD , Science & Technology Lead at ARIA. GenScript was represented by Ray Chen, PhD , President of GenScript Life Science Group; Zhenyan Yan, PhD , Vice President of Corporate Development & Strategy; and Aylin Kosova Bilgin , Chief Marketing and Corporate Communications Officer.\nTheir discussion highlighted three forces shaping the next phase of AI-enabled drug discovery:\nAI is moving into harder biology. Kohl described how quickly AI-enabled protein design is evolving, with the field moving beyond binding toward more complex modalities and questions of developability. Even with that progress, he said, the critical gap lies between generating a promising binder and developing a candidate a company is prepared to advance toward the clinic. Closing it requires addressing biological properties that are harder to model and more difficult to characterize experimentally. \"This is all about building AI platforms that advance our partners' portfolios, our partners' programs,\" added Kohl. \"Increasingly, we're betting on both building generative models and the agents around them to create end-to-end workflows. I think that's the exciting moment in time. It feels a lot like what GPT-3 felt like in language. That's what this field is now undergoing, and we couldn't be more excited for what's to come over the next one to two years.\"\nData quality and biological relevance are becoming more important. Panelists pointed to two related gaps: the need for datasets that support biologically relevant predictions, rather than simply more data, and the need for people who can bridge AI and wet-lab biology. As models take on harder biological questions, closer connections between dataset design, experimentation and computation will be critical to generating evidence that improves predictions and informs development decisions.\nCapital follows evidence, not design volume. Pearce noted that AI is becoming effective at specific discovery tasks and could allow companies to reach the clinic with less capital than a traditional biotech would need. Long-term value, however, will depend on whether promising molecules can progress beyond design and through development, where biological and ultimately clinical evidence determines which ones move forward. As candidate generation accelerates, the evidence behind each candidate becomes more consequential in determining where development resources and capital are committed. \"Ultimately, we're all paying for healthcare, and healthcare costs keep going up. And most development costs are actually going toward drugs that fail; the industry needs to think differently so that environment can change,\" Pearce added. \"I think we're at the point where, with a better understanding of patient biology and stratification, new business models will evolve. Compared to other industries that have changed business models, the pharma industry is still doing the same thing it did 70 years ago: discovering a compound, doing a clinical trial, and hoping it works. In 20 years' time, I think that will have changed – and we will know that a new therapy works for a specific individual.\"\nTurning Faster Design into Faster Learning\nFor GenScript, these themes converge around learning velocity: connecting AI-driven design with synthesis, expression, biological testing and usable data to shorten the path from computational possibility to experimental evidence. As discovery cycles accelerate, researchers also need the scientific depth and biological context to interpret that evidence and make informed development decisions.\nThe shift is already reflected in GenScript's AI drug discovery (AIDD) business, which doubled year over year to $37.8 million in revenue in the first half of 2026 . As AI-native companies and pharmaceutical teams move toward larger experimental cycles and more extensive biological characterization, the need for high-qual",
+      "text_status": "ok"
+    },
+    {
+      "id": "077c2c6ed05b",
+      "title": "GenScript Convenes AI, Biotech and Investment Leaders in London as Faster AI-Enabled Drug Design Raises the Stakes for Biological Evidence",
+      "publisher": "",
+      "link": "https://www.prnewswire.com/news-releases/genscript-convenes-ai-biotech-and-investment-leaders-in-london-as-faster-ai-enabled-drug-design-raises-the-stakes-for-biological-evidence-302950849.html",
+      "published_at": "2026-11-25T20:59:00.000Z",
+      "publisher_url": null,
+      "snippet": "Industry leaders point to better data, faster learning cycles and closer connections between computation and experimentation as critical to translating AI-designed molecules into development decisions LONDON, Nov. 25, 2026 /PRNewswire/ -- AI drug discovery is shifting from a race to...",
+      "source_feed": "prnewswire-vc",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "GenScript Convenes AI",
+      "group_key": "genscript convenes",
+      "group_rank": 1,
+      "text_status": "skipped"
+    }
+  ]
+}
