@@ -1,0 +1,397 @@
+{
+  "run_date": "2026-11-25",
+  "generated_at": "2026-11-25T14:25:06.785Z",
+  "window_days": 2,
+  "range": null,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 503,
+        "items": 0
+      },
+      {
+        "id": "gnews-2",
+        "status": 503,
+        "items": 0
+      },
+      {
+        "id": "gnews-3",
+        "status": 503,
+        "items": 0
+      },
+      {
+        "id": "gnews-4",
+        "status": 503,
+        "items": 0
+      },
+      {
+        "id": "gnews-5",
+        "status": 503,
+        "items": 0
+      },
+      {
+        "id": "gnews-6",
+        "status": 503,
+        "items": 0
+      },
+      {
+        "id": "gnews-7",
+        "status": 503,
+        "items": 0
+      },
+      {
+        "id": "gnews-8",
+        "status": 503,
+        "items": 0
+      },
+      {
+        "id": "gnews-g1",
+        "status": 503,
+        "items": 0
+      },
+      {
+        "id": "gnews-g2",
+        "status": 503,
+        "items": 0
+      },
+      {
+        "id": "gnews-g3",
+        "status": 503,
+        "items": 0
+      },
+      {
+        "id": "gnews-g4",
+        "status": 503,
+        "items": 0
+      },
+      {
+        "id": "gnews-g5",
+        "status": 503,
+        "items": 0
+      },
+      {
+        "id": "gnews-g6",
+        "status": 503,
+        "items": 0
+      },
+      {
+        "id": "gnews-g7",
+        "status": 503,
+        "items": 0
+      },
+      {
+        "id": "gnews-g8",
+        "status": 503,
+        "items": 0
+      },
+      {
+        "id": "gnews-g9",
+        "status": 503,
+        "items": 0
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "pulse2",
+        "status": 200,
+        "items": 120
+      },
+      {
+        "id": "citybiz",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 257,
+    "prefiltered": 26,
+    "dropped": {
+      "not_funding": 169,
+      "no_ai_hint": 19,
+      "below_min": 18,
+      "fund_close": 4,
+      "seen": 18,
+      "duplicate_link": 1,
+      "known_round": 18,
+      "noise": 2
+    },
+    "groups": 25,
+    "selected_groups": 8,
+    "candidates": 8,
+    "articles_fetched": 6,
+    "google_rate_limited": false
+  },
+  "groups": [
+    {
+      "key": "boeing",
+      "company_guess": "Boeing",
+      "amount_hint_usd": 3030000000,
+      "candidate_ids": [
+        "bc49ca21318c"
+      ]
+    },
+    {
+      "key": "biontech founders in talks",
+      "company_guess": "BioNTech founders in talks",
+      "amount_hint_usd": 1000000000,
+      "candidate_ids": [
+        "aa829bcda328"
+      ]
+    },
+    {
+      "key": "walker & dunlop",
+      "company_guess": "Walker & Dunlop",
+      "amount_hint_usd": 122100000,
+      "candidate_ids": [
+        "122f27182965"
+      ]
+    },
+    {
+      "key": "bound",
+      "company_guess": "Bound",
+      "amount_hint_usd": 50000000,
+      "candidate_ids": [
+        "08fc076082eb"
+      ]
+    },
+    {
+      "key": "london fx startup",
+      "company_guess": "London FX startup",
+      "amount_hint_usd": 50000000,
+      "candidate_ids": [
+        "ad56833b9418"
+      ]
+    },
+    {
+      "key": "kbr",
+      "company_guess": "KBR",
+      "amount_hint_usd": 25500000,
+      "candidate_ids": [
+        "c6200c64113d"
+      ]
+    },
+    {
+      "key": "yales sonnenfeld",
+      "company_guess": "Yale’s Sonnenfeld",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "05f887d0221c"
+      ]
+    },
+    {
+      "key": "your",
+      "company_guess": "Your AI",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "0875be0ec1db"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "bc49ca21318c",
+      "title": "Boeing Receives $3.03 Billion Across Air Force And Special Operations Aircraft Awards",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/boeing-receives-3-03-billion-across-air-force-and-special-operations-aircraft-awards/",
+      "published_at": "2026-11-25T13:42:08.000Z",
+      "publisher_url": null,
+      "snippet": "Boeing received three contract modifications valued at a combined $3.03 billion for KC-46A tanker production, MH-47G helicopter procurement and VC-25B parts repair. The $2.819 billion tanker modification accounts for most of the combined value.\nThe post Boeing Receives $3.03 Billion Across Air Force And Special Operations Aircraft Awards appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 3030000000,
+        "currency": "USD",
+        "raw": "$3.03 Billion"
+      },
+      "company_guess": "Boeing",
+      "group_key": "boeing",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/boeing-receives-3-03-billion-across-air-force-and-special-operations-aircraft-awards/",
+      "text": "Boeing Receives $3.03 Billion Across Air Force And Special Operations Aircraft Awards\nBy Amit Chowdhry\nToday at 8:42 AM\nBoeing Receives $3.03 Billion Across Air Force And Special Operations Aircraft Awards\nBoeing received three contract modifications valued at a combined $3.03 billion for KC-46A tanker production, MH-47G helicopter procurement and VC-25B parts repair. The $2.819 billion tanker modification accounts for most of the combined value.\nThe Air Force award covers 15 KC-46A Lot 13 production aircraft, along with G081, subscriptions and licenses. The Air Force obligated the entire $2.819 billion at award from fiscal 2027 aircraft procurement funds. Boeing will perform the work in Seattle, with completion expected by June 30, 2030. The Air Force Life Cycle Management Center at Wright-Patterson Air Force Base, Ohio, issued the modification to FA8625-11-C-6600 under administrative contract FA8609-27-C-B002.\nU.S. Special Operations Command awarded Boeing a $197.28 million firm-fixed-price order modification for MH-47G helicopters. The command obligated the full amount using fiscal 2027 defense-wide and Army aircraft procurement funds. Boeing will perform most of the work in Ridley Park, Pennsylvania, through September 2031. The action was issued under W91215-16-G-0001 and order H9224126FE001.\nThe Air Force also awarded Boeing an $11.74 million modification for VC-25B parts repair at Joint Base San Antonio, Texas, before aircraft delivery. The Air Force obligated $750,000 in fiscal 2027 research, development, test and evaluation funds. The modification, P00194 under FA8625-16-C-6599, raised that contract’s cumulative face value to $4.52 billion.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "aa829bcda328",
+      "title": "Report: BioNTech founders in talks to raise $1B for Arife, a new mRNA cancer startup led by Plural",
+      "publisher": "Abhinaya Prabhu",
+      "link": "https://techfundingnews.com/report-biontech-founders-in-talks-to-raise-1b-for-arife-a-new-mrna-cancer-startup-led-by-plural/",
+      "published_at": "2026-11-25T09:00:00.000Z",
+      "publisher_url": null,
+      "snippet": "Uğur Şahin and Özlem Türeci, the husband-and-wife co-founders of BioNTech, are in talks to raise approximately $1 billion…",
+      "source_feed": "techfundingnews",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 1000000000,
+        "currency": "USD",
+        "raw": "$1B"
+      },
+      "company_guess": "BioNTech founders in talks",
+      "group_key": "biontech founders in talks",
+      "group_rank": 0,
+      "resolved_url": "https://techfundingnews.com/report-biontech-founders-in-talks-to-raise-1b-for-arife-a-new-mrna-cancer-startup-led-by-plural/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "122f27182965",
+      "title": "Walker & Dunlop Secures $122.1 Million Loan On Fully Leased Fifth Avenue Retail Property",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/walker-dunlop-secures-122-1-million-loan-on-fully-leased-fifth-avenue-retail-property/",
+      "published_at": "2026-11-25T04:21:48.000Z",
+      "publisher_url": null,
+      "snippet": "Walker & Dunlop arranged a $122.1 million refinancing for 530 Fifth Avenue, a fully leased retail condominium in Midtown Manhattan. Rialto Capital Management provided the floating-rate, interest-only loan.\nThe post Walker & Dunlop Secures $122.1 Million Loan On Fully Leased Fifth Avenue Retail Property appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 122100000,
+        "currency": "USD",
+        "raw": "$122.1 Million"
+      },
+      "company_guess": "Walker & Dunlop",
+      "group_key": "walker & dunlop",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/walker-dunlop-secures-122-1-million-loan-on-fully-leased-fifth-avenue-retail-property/",
+      "text": "Walker & Dunlop Secures $122.1 Million Loan On Fully Leased Fifth Avenue Retail Property\nBy Amit Chowdhry\nYesterday at 11:21 PM\nWalker & Dunlop Secures $122.1 Million Loan On Fully Leased Fifth Avenue Retail Property\nWalker & Dunlop arranged a $122.1 million refinancing for 530 Fifth Avenue, a fully leased retail condominium in Midtown Manhattan. Rialto Capital Management provided the floating-rate, interest-only loan.\nWalker & Dunlop’s Capital Markets Institutional Advisory team served as exclusive adviser to Aurora Capital Associates and AVRS Partners. Aaron Appel, Dustin Stolly, Jonathan Schwartz, Keith Kurland, Adam Schwartz, Sean Reimer, Jordan Casella and Stanley Cayre arranged the financing.\nFive Tenants Occupy The Three-Level Property\nThe 58,989-square-foot condominium spans the west side of Fifth Avenue between 44th and 45th streets, with approximately 200 feet of storefront frontage. Its five tenants are Chase Bank, Walgreens, Five Below, Vans and UGG.\nThe property sits between Upper Fifth Avenue’s luxury retail corridor and shopping destinations farther south. Nearby offices, hotels and transit connections bring foot traffic to the area, as do Grand Central Terminal, Bryant Park, Times Square and Rockefeller Center.\nWalker & Dunlop said its Capital Markets team sourced more than $13.9 billion from non-agency capital providers in the first half of 2026, including nearly $9.6 billion for multifamily properties.\nKEY QUOTES:\n“530 Fifth Avenue’s combination of prime frontage, established tenancy, and location within one of the world’s most recognized shopping destinations make it a highly attractive asset. With the property fully leased and benefiting from strong in-place cash flow, this refinancing positions our client to capitalize on the long-term value of the asset. We appreciate the opportunity to work with Aurora Capital, AVRS Partners, and Rialto Capital Management on this transaction.”\nAaron Appel, Senior Managing Director Of Capital Markets And Co-Head Of Institutional Advisory At Walker & Dunlop\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "08fc076082eb",
+      "title": "Bound Secures $50 Million Debt Facility To Expand Automated FX Risk Management",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/bound-secures-50-million-debt-facility-to-expand-automated-fx-risk-management/",
+      "published_at": "2026-11-25T13:25:37.000Z",
+      "publisher_url": null,
+      "snippet": "Bound has secured a three-year, $50 million revolving debt facility from Viola Credit to support its growing foreign exchange trading book and expand services for mid-market businesses.\nThe post Bound Secures $50 Million Debt Facility To Expand Automated FX Risk Management appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 50000000,
+        "currency": "USD",
+        "raw": "$50 Million"
+      },
+      "company_guess": "Bound",
+      "group_key": "bound",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/bound-secures-50-million-debt-facility-to-expand-automated-fx-risk-management/",
+      "text": "Bound Secures $50 Million Debt Facility To Expand Automated FX Risk Management\nBy Amit Chowdhry\nToday at 8:25 AM\nBound Secures $50 Million Debt Facility To Expand Automated FX Risk Management\nBound has secured a three-year, $50 million revolving debt facility from Viola Credit to support its growing foreign exchange trading book and expand services for mid-market businesses.\nThe facility will allow the London-based company to offer larger trading lines and more flexible credit terms as it adds customers. The financing provides debt capital to support trading capacity, separate from Bound’s equity fundraising.\nIn February 2026, Bound announced a $24.5 million Series A led by AlbionVC, with participation from Notion Capital, GoHub Ventures and existing investors.\nSupporting Mid-Market Currency Hedging\nBound serves midsized companies and funds handling approximately $10 million to $100 million in annual foreign exchange transactions. These organizations often rely on finance and treasury teams to manage currency exposure without dedicated FX specialists.\nIts platform automates trade execution and monitors markets for emerging risks that may require hedging. Customers can manage currency exposure, connect accounting software, adjust trades, make payments and access reporting through a self-service platform.\nThe company’s offering combines automated processes with pay-as-you-go pricing and expert support when needed. Bound currently helps more than 200 companies manage currency exposure.\nCredibur, which provides infrastructure for non-bank lenders to manage debt facilities, is also working with Bound in connection with the financing.\nTransaction Volume And Geographic Expansion\nBound processed approximately $1.5 billion in transactions in 2025 and says it is on track to exceed $6 billion in 2026. That would represent more than a fourfold increase in annual transaction volume.\nThe additional credit capacity is intended to support that expansion while improving trading terms available to customers.\nBound has submitted a regulatory application to expand into Europe. It also plans to develop its presence in Asia and North America and continue investing in its product.\nFounded in 2020 by Seth Phillips and Dan Kindler, Bound developed its platform to address manual processes, pricing opacity and limited flexibility in traditional corporate foreign exchange services.\nKEY QUOTES :\n“We’re really excited about this credit line as it fuels our ambitions and gives us the headroom to expand and onboard more customers. Many companies are still relying on outdated, manual, processes that are ill-equipped to handle the current volatility and demands of the FX market. This $50m advances our mission of transforming the way that FX risk is managed by mid-market corporates.”\n“As market volatility and geopolitical instability becomes the norm, FX risk management cannot be left to chance, or spreadsheets. The old ways of booking trades over the phone with a broker, and leaving the positions unmonitored, won’t cut it if businesses want to protect themselves from market movements. Emerging risks need to be continually monitored, in real-time, 24/7.”\nSeth Phillips, Co-Founder And CEO Of Bound\n“This facility bolsters our balance sheet so that we can support a larger trading book, and also offer better trading terms and protection for our customers. Bound has been growing rapidly in recent months and we’re excited to have the additional capital so we can expand further.”\nMarita Cavalcanti, Chief Financial Officer Of Bound\n“We’re excited to partner with the Bound team through this $50m warehouse facility. Our investment reflects our confidence in the business, its technology and the team’s vision of how businesses can optimise foreign exchange risk management. We look forward to supporting Bound as it continues to scale its platform.”\nConor Sheehy, Head Of Asset Backed Lending, Europe At Viola Credit\n“The FX market is fast-moving and credit operations need to keep pace. Every facility needs to be resilient and trusted by the company and the lender. We’re delighted to work with the excellent team at Bound, and to prove that trust layer for Bound and Viola Credit.”\nNicolas Kipp, Founder And CEO Of Credibur\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "ad56833b9418",
+      "title": "London FX startup Bound picks the Netherlands for EU launch after $50M credit line",
+      "publisher": "Sofia Chesnokova",
+      "link": "https://techfundingnews.com/bound-50m-viola-credit-facility-fx-risk-management/",
+      "published_at": "2026-11-25T06:00:00.000Z",
+      "publisher_url": null,
+      "snippet": "Bound, the AI-powered FX risk management platform founded in 2020, has secured a three-year, $50 million revolving debt…",
+      "source_feed": "techfundingnews",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 50000000,
+        "currency": "USD",
+        "raw": "$50M"
+      },
+      "company_guess": "London FX startup",
+      "group_key": "london fx startup",
+      "group_rank": 0,
+      "resolved_url": "https://techfundingnews.com/bound-50m-viola-credit-facility-fx-risk-management/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "c6200c64113d",
+      "title": "KBR Receives $25.5 Million Bridge Modification For Navy Base Services In Bahrain",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/kbr-receives-25-5-million-bridge-modification-for-navy-base-services-in-bahrain/",
+      "published_at": "2026-11-25T14:14:34.000Z",
+      "publisher_url": null,
+      "snippet": "KBR Services has received a $25.46 million firm-fixed-price contract modification to continue providing base operating support at Naval Support Activity Bahrain and outlying locations in the country.\nThe post KBR Receives $25.5 Million Bridge Modification For Navy Base Services In Bahrain appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 25500000,
+        "currency": "USD",
+        "raw": "$25.5 Million"
+      },
+      "company_guess": "KBR",
+      "group_key": "kbr",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/kbr-receives-25-5-million-bridge-modification-for-navy-base-services-in-bahrain/",
+      "text": "KBR Receives $25.5 Million Bridge Modification For Navy Base Services In Bahrain\nBy Amit Chowdhry\nToday at 9:14 AM\nKBR Receives $25.5 Million Bridge Modification For Navy Base Services In Bahrain\nKBR Services has received a $25.46 million firm-fixed-price contract modification to continue providing base operating support at Naval Support Activity Bahrain and outlying locations in the country.\nThe award is the second bridge modification under an existing indefinite-delivery, indefinite-quantity contract. It extends support under the current contracting arrangement, with work expected to continue through November 30, 2027.\nThe modification brings the contract’s cumulative value to $253.92 million. That total reflects the value of the broader contract following this action, rather than the amount awarded through the latest modification alone.\nFunding Will Be Obligated Through Task Orders\nThe Navy did not obligate funds when it issued the modification. Instead, fiscal 2027 Navy operations and maintenance funding will be obligated on individual task orders before services begin.\nThe distinction separates the modification’s stated contract value from funds committed for specific work. Individual task orders will carry the funding obligations associated with the services being ordered.\nSupport Covers Bahrain And Outlying Sites\nThe work encompasses base operating support at Naval Support Activity Bahrain and additional sites within Bahrain.\nNaval Facilities Engineering Systems Command in Naples, Italy, is the contracting activity responsible for the award. The underlying indefinite-delivery, indefinite-quantity contract is identified as N6247017D4007.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "05f887d0221c",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "publisher": "Connie Loizos",
+      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "published_at": "2026-11-25T00:12:02.000Z",
+      "publisher_url": null,
+      "snippet": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+      "source_feed": "techcrunch-ai",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Yale’s Sonnenfeld",
+      "group_key": "yales sonnenfeld",
+      "group_rank": 0,
+      "resolved_url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "text": "Investors cheered Jensen Huang’s return as Nvidia’s CEO on Monday, but renowned business academic Jeffrey Sonnenfeld of Yale thinks they’re celebrating a mistake. He sees a company that is largely responsible for putting sophisticated technology in the hands of the country’s adversaries, at a moment when the risks couldn’t be higher . Far from a champion of American industry, he says, Nvidia is “a detriment to U.S. global industrial might.”\nAs evidence, Sonnenfeld points to research suggesting Nvidia’s most advanced chips have reached China despite U.S. export controls and to sinking shares of Anthropic, which he links to the realization that China’s seemingly miraculous open source AI models are, in a sense, copies of top U.S. labs’ work, even as Nvidia has insisted that smuggling is a “non-factor.”\nIndeed, Huang’s return was greeted with just as much enthusiasm in Asia, The Washington Post reported. “The king is back!” read one headline from China’s state-affiliated Star Market Daily.\nThe reinstatement itself followed heavy pressure from Washington. Nvidia’s chairman had effectively ruled out Huang’s return just last week. Then, in a torrent of private weekend calls led by Vice President JD Vance, top administration officials leaned on the board to welcome Huang back, with President Trump calling the board directly to vouch for him. “ I made the deal ,” Trump told CNBC on Monday.\nSonnenfeld says the directors who went along, and who returned Huang to the board even as it investigates whether foreign intelligence efforts targeted him, now face a “historic level of individual liability.”\nThe legal deluge has already begun. As we noted a couple of weeks ago , a potential class-action lawsuit was filed almost immediately. Days later, a shareholder derivative suit followed. Filed on Nvidia’s behalf against the directors themselves, the suit alleges the board ignored red flags about Huang’s relationship with suspected Chinese spy Alice Huang.\nThe class action is very much aimed at making Nvidia and Huang compensate investors for their losses, while the derivative suit puts the directors’ own behavior on trial, with any recovery going to Nvidia. Three more suits followed on November 18, the day after Nvidia’s most recent earnings call; all five were filed in Northern California, where Nvidia is based.\nHuang and Nvidia are also juggling a Justice Department antitrust investigation, a reported SEC probe into Nvidia’s accounting, a possible FBI review, a California subpoena , an export-control case that landed partner Megaspeed on the U.S. trade blacklist on Monday, and congressional inquiries, including a Senate Banking hearing next week at which Huang has agreed to testify.\nHere’s more of what Sonnenfeld had to say, in a Q&A that’s been edited for length and clarity.\nSo much has happened since we last talked . Huang was ousted, he’s come back. Do you think the board’s reliance on government assurances here is defensible or an abdication of its own duties?\nThey failed to rely on experts. That’s one of the reasons this board is going to be sued and lose, and these directors are likely to face a historic level of individual liability. They have a very inadequate directors and officers liability policy . They have also just failed in their diligence. They hired the Wachtell [law] firm. The Wachtell firm barely got off the blocks to do an investigation. And then they have already reversed themselves, so they didn’t use the expertise needed.\nIt’s wild that they also put Huang right back on the board of directors.\nThe board showed, in addition to incompetence and collaboration, just cowardice in their capitulation because Trump has nothing to wave over them. If this was SpaceX, where 46% of its business comes from the government [you could maybe see the case for Trump’s involvement]. For Nvidia, it’s not even 1% of its business that comes from the U.S. government, so [the board] didn’t have that threat. [Trump] can call off [federal] investigations, but he can’t call off the shareholder litigation. Some are already filed, and the estimates are there’ll probably be 30 of them, and they’re going to be extremely costly.\nAnd this is not, by the way, just a blue or red state issue. We already have 14 GOP senators who’ve already come out against this, and very prominent conservatives, like Pete Ricketts and Josh Hawley and Tom Cotton and John Cornyn. Those are some issues that may help explain why Nvidia’s stock is tumbling today.\nMight the board say, “We saw the classified intelligence findings, and they assure us Jensen will be absolved of wrongdoing”?\nThey haven’t seen those findings, and we also haven’t seen what will be the result of the Senate Intelligence Committee, the Senate Special Committee on Investigations, the Senate Banking Committee, and all their House counterparts. The board hasn’t seen any of that, and even if they saw it, which they have not yet, that still wouldn’t matter.\nDo you think the Commerce Department will continue to tighten its chip export controls to keep China from accessing so much compute or walk back some of those recent moves ?\nWe already see that Megaspeed has finally been put on the sanctions list , as it should have been before. And we have documentation now that Nvidia, rather than a champion of U.S. global industrial might, is actually a detriment to U.S. global industrial might, because their chips have now turned out to be in the hands and in the systems of not just the Chinese military , as they got channeled to Northwestern Polytechnical University, which is a military institution — this is going into weapons that will, of course, be funneled to Iran and Russia, and they didn’t have access to that a year ago. [Editor’s note: China has long denied supplying weapons to either country. Nvidia chips have been found in Russian drones , however, and the U.S. ambassador to China said in September that President Trump had discussed selling arms to China , an account Tr",
+      "text_status": "ok"
+    },
+    {
+      "id": "0875be0ec1db",
+      "title": "Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today",
+      "publisher": "Guest Author",
+      "link": "https://news.crunchbase.com/ma/your-ai-startups-exit-is-being-shaped-by-the-deals-you-sign-today/",
+      "published_at": "2026-11-25T12:00:09.000Z",
+      "publisher_url": null,
+      "snippet": "By Aaron Rubin and Greg Volkmar Valuations for AI companies have soared, and the companies are moving faster than ever. In the financings our firm has worked on so far in 2026, AI companies raised at median pre-money valuations up to 2.5 times those of non-AI companies from seed through Series C. Across the broader […]",
+      "source_feed": "crunchbase-news",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Your AI",
+      "group_key": "your",
+      "group_rank": 0,
+      "resolved_url": "https://news.crunchbase.com/ma/your-ai-startups-exit-is-being-shaped-by-the-deals-you-sign-today/",
+      "text": "Artificial intelligence &bull; Business &bull; M&A &bull; Startups &bull; Venture\nYour AI Startup’s Exit Is Being Shaped By The Deals You Sign Today\nGuest Author\nNovember 25, 2026\nGuest Author\n0\nShares\nEmail\nFacebook\nX\nLinkedIn\nBy Aaron Rubin and Greg Volkmar\nValuations for AI companies have soared, and the companies are moving faster than ever. In the financings our firm has worked on so far in 2026, AI companies raised at median pre-money valuations up to 2.5 times those of non-AI companies from seed through Series C.\nAcross the broader private market, Crunchbase’s Current Valuation Model estimates that the more than 1,900 startups on its Unicorn Board are worth about $2 trillion more collectively than their last reported funding-round valuations.\nWhen everything moves that fast, the terms of your financings and of your contracts for compute, data and distribution get set early and in a hurry. Some of those terms will later slow a sale, add cost and erode value. The key is making sure you take long enough to consider what a deal does to your exit before you sign.\nYour investors may have a larger say in a sale\nTake license-and-hire deals, where a buyer licenses your technology and hires your team instead of acquiring the company. They’ve become more common in AI, and the National Venture Capital Association has responded by updating its model charter. In 2025, it added an optional investor approval right over these deals, and sign-off by the board, including the investors’ directors, was enough to satisfy it.\nThe November 2026 update requires a vote of the preferred stockholders instead. Investors are often reluctant to use an approval right to block a deal. But it puts them at the negotiating table when an offer arrives, with a voice in how the proceeds are split between retention packages for the team and the cap table.\nThe stakes are higher when an investor is also a strategic partner. Nvidia and its NVentures investment arm alone have invested in more than 260 startups since the beginning of 2024, including 121 this year alone, Crunchbase data shows .\nStrategic capital often comes tied to compute, cloud or distribution agreements. Those agreements can carry exclusivity, change-of-control and right-of-first-negotiation terms, and a right of first negotiation can force you to put a competing bidder on ice while you talk to your strategic investor first.\nBe realistic about your leverage. Terms from the hottest AI rounds get cited as “market,” but what you can get depends on how much investors want your deal. Spend your negotiating capital on the few provisions that will matter most in a sale instead of trying to optimize on marginal topics.\nBuyers will dig into your data, code and compute\nAn AI company’s most valuable assets are often the hardest to diligence.\nStart with data. A buyer will want to know where your training data came from and whether your contractual rights cover how you use it and how the buyer plans to use it. Publicly available data isn’t necessarily licensed data. And permission to use a customer’s data to serve that customer doesn’t always cover training models for everyone else. If you fine-tuned on customer data under contracts that limit its use to serving those customers, a buyer may not be able to fold your models into its own products. The buyer may ask for a special indemnity, a larger escrow or a lower purchase price.\nYour code gets similar scrutiny. In our deals, investors, and especially acquirers, now ask how much of the codebase was written with AI tools and whether those tools pulled in copyleft or commercially licensed code. We tell clients to audit their code regularly and fix issues as they surface. It makes that diligence conversation far easier.\nCompute and model-provider contracts raise a different problem: a buyer may inherit a commitment it doesn’t want. Minimum-spend commitments, reserved capacity and exclusivity terms generally stay with the company in a sale. A buyer with its own GPUs may have no use for three more years of your reserved capacity, and it will factor the remaining payments into its offer.\nAll of this is easier to fix at the negotiating table than in the middle of a buyer’s diligence.\nFive things to do now\n• Map who decides on a sale. Know which board and investor approvals it would trigger, including any approval right over a license-and-hire deal.\n• Track your data and code rights. Record data sources and use restrictions and audit AI-generated code periodically.\n• Stress-test your infrastructure commitments. Run cloud, GPU and model-provider obligations against slower growth and a sale.\n• Keep strategic rights narrow. Limit the scope, duration and triggers of any right of first offer or negotiation you give a strategic investor.\n• Read commercial contracts with an exit in mind. Check the change-of-control and termination rights before you sign.\nFew founders are thinking about a sale when they close a seed round or sign their first GPU contract. You don’t have to predict the exit. You do have to know what you’re giving up each time you sign, so the speed that got you funded doesn’t cost you flexibility when the right acquisition offer arrives.\nAaron Rubin is a partner in Gunderson Dettmer’s Strategic Transactions & Licensing group and a leader of the firm’s artificial intelligence practice. He advises AI companies on strategic partnerships, technology and data licensing, and the development, commercialization, and deployment of AI products and services. His practice spans complex commercial transactions, intellectual property and data rights, and the evolving legal and regulatory issues shaping the AI industry. He also advises leading investors in industry-defining AI financings, including investments in Anthropic, OpenAI, and Databricks.\nGreg Volkmar is head of Gunderson Dettmer’s New York corporate group and co-chairs the firm’s growth equity practice. For more than 20 years, Volkmar has focused on advising early- and late-",
+      "text_status": "ok"
+    }
+  ]
+}
