@@ -1,0 +1,355 @@
+{
+ "run_date": "2026-11-26",
+ "extractor": "claude-code routine",
+ "notes": "Lookups: Pulley, VitriVax, Peak Energy (web search; investors from search not included since not in source text).",
+ "rows": [
+  {
+   "website": null,
+   "amount_usd": 46000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": "not-funding",
+   "group_key": "indias protein ecosystem",
+   "candidate_ids": [
+    "ee673a9c5cd5"
+   ],
+   "company": "India protein ecosystem",
+   "description": "Aggregate funding statistic for India protein sector.",
+   "announced_date": "2026-11-26",
+   "evidence": {
+    "amount": "raises $46 million in 2026 so far",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.fortuneindia.com/startups-news/indias-protein-ecosystem-raises-46-million-in-2026-so-far-gurugram-leads-fund"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Grant",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "GB",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": "not-funding",
+   "group_key": "over 45 million in",
+   "candidate_ids": [
+    "67de0315d631"
+   ],
+   "company": "UKRI Creative Industries Sector Plan",
+   "description": "UK government grants to gaming studios and creative clusters.",
+   "announced_date": "2026-11-25",
+   "evidence": {
+    "amount": "Over £45 million in funding",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://wnhub.io/news/other/item-52823"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 43800000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "finnable",
+   "candidate_ids": [
+    "d3750fd1090e"
+   ],
+   "company": "Finnable",
+   "announced_date": "2026-11-26",
+   "description": "Indian digital lending firm.",
+   "evidence": {
+    "amount": "raises $43.8m in series C",
+    "round": "series C",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.techinasia.com/news/indian-digital-lending-firm-finnable-raises-438m-series"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 41000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Search coverage describes it as an AI-powered real estate development and permitting platform.",
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "pulley",
+   "candidate_ids": [
+    "e928bc8e1ea6"
+   ],
+   "company": "Pulley",
+   "announced_date": "2026-11-26",
+   "description": "AI-powered construction permitting and real estate development platform.",
+   "evidence": {
+    "amount": "raises $41M Series B",
+    "round": "Series B",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/pulley-raises-41m-series-b-to-speed-up-construction-permitting",
+    "https://pulse2.com/pulley-raises-64-million-to-accelerate-real-estate-development/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 40000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "lead_investors": [
+    "Main Sequence Ventures",
+    "National Reconstruction Fund Corporation"
+   ],
+   "investors": [
+    "Main Sequence Ventures",
+    "National Reconstruction Fund Corporation",
+    "Hostplus",
+    "Funds SA"
+   ],
+   "hq_city": "Adelaide",
+   "hq_state": null,
+   "hq_country": "AU",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "myriota",
+   "candidate_ids": [
+    "c9d6c9447f09"
+   ],
+   "company": "Myriota",
+   "announced_date": "2026-11-25",
+   "description": "Satellite IoT connectivity provider for industrial users.",
+   "evidence": {
+    "amount": "USD $40 million tranche of its Series C",
+    "round": "Series C",
+    "lead": "led by existing investors Main Sequence Ventures and the National Reconstruction Fund Corporation",
+    "investors": "Hostplus also participated in the round, while Funds SA joined as a new investor"
+   },
+   "source_urls": [
+    "https://channellife.com.au/story/myriota-secures-usd-40-million-in-series-c-funding"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 25000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Grant",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "NG",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": "not-funding",
+   "group_key": "smedan",
+   "candidate_ids": [
+    "77b39d4811e2"
+   ],
+   "company": "SMEDAN / AGRA",
+   "announced_date": "2026-11-26",
+   "description": "Nigerian agency financing programme for agribusiness.",
+   "evidence": {
+    "amount": "at least $25 million in financing",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.nigeriastartupact.ng/smedan-announces-25-million-funding-plan-for-nigerians-in-agriculture-see-who-can-benef"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": "Article states $15 million; AUD/USD not specified",
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "lead_investors": [
+    "King River",
+    "Reinventure"
+   ],
+   "investors": [
+    "King River",
+    "Reinventure",
+    "Carthona Capital",
+    "Flying Fox Ventures",
+    "Admiralty Capital Group"
+   ],
+   "hq_city": "Sydney",
+   "hq_state": null,
+   "hq_country": "AU",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "online estate planner safewill",
+   "candidate_ids": [
+    "1b84bb5ece3a"
+   ],
+   "company": "Safewill",
+   "announced_date": "2026-11-26",
+   "description": "Online will and estate planning platform sold to super funds, banks and insurers.",
+   "evidence": {
+    "amount": "raised $15 million in a Series C",
+    "round": "Series C",
+    "lead": "King River and Reinventure co-led that round",
+    "investors": "Carthona Capital and Flying Fox Ventures also returned, with Admiralty Capital Group"
+   },
+   "source_urls": [
+    "https://www.startupdaily.net/topic/funding/online-estate-planner-safewill-raises-15-million-series-c/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Mumbai",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": "not-funding",
+   "group_key": "electric tractor startup",
+   "candidate_ids": [
+    "29edec5b7557"
+   ],
+   "company": "Autonxt Automation",
+   "announced_date": "2026-11-26",
+   "description": "Electric tractor maker, reportedly raising $15M.",
+   "evidence": {
+    "amount": "is raising $15 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://m.economictimes.com/tech/funding/electric-tractor-startup-autonxt-eyes-15-million-raise-for-expansion/articlesho"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Gurugram",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Operates an AI powered quotation platform.",
+   "confidence": 0.8,
+   "exclude_reason": "not-funding",
+   "group_key": "elecbits in talks to",
+   "candidate_ids": [
+    "11c2978b2fd0"
+   ],
+   "company": "Elecbits",
+   "announced_date": "2026-11-26",
+   "description": "Electronics design and manufacturing startup; in talks to raise $12-15M.",
+   "evidence": {
+    "amount": "raise $12 million to $15 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.equitypandit.com/elecbits-in-talks-to-raise-up-to-15-million-from-xponentia-capital/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "SA",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Titled a Saudi AI startup.",
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "mawj",
+   "candidate_ids": [
+    "84073fd6661f"
+   ],
+   "company": "Mawj",
+   "announced_date": "2026-11-26",
+   "description": "Saudi AI customer-service startup.",
+   "evidence": {
+    "amount": "Saudi AI startup Mawj raises Series A",
+    "round": "Series A",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.fwdstart.me/p/saudi-ai-startup-mawj-raises-series-a-as-customer-service-competition-grows"
+   ]
+  }
+ ]
+}

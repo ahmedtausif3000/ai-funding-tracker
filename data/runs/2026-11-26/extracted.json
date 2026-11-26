@@ -1,0 +1,960 @@
+{
+ "run_date": "2026-11-26",
+ "extractor": "parallel agents",
+ "notes": "[extracted.part-01.json] Lookups: Pulley, VitriVax, Peak Energy (web search; investors from search not included since not in source text).\n[extracted.part-02.json] Lookups: Pulley, VitriVax, Peak Energy (web search; investors from search not included since not in source text).\n[extracted.part-03.json] Lookups: Pulley, VitriVax, Peak Energy (web search; investors from search not included since not in source text).",
+ "rows": [
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": "fund",
+   "group_key": "eu proposes 50b sovereign",
+   "candidate_ids": [
+    "7d4b171294f5"
+   ],
+   "company": "EU Sovereign Tech Equity Fund",
+   "description": "Proposed EUR 50 billion European Commission fund for quantum/deep tech.",
+   "announced_date": "2026-11-26",
+   "evidence": {
+    "amount": "€50 billion Sovereign Tech Equity Fund",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://techfundingnews.com/eu-proposes-e50b-sovereign-tech-equity-fund-to-close-europes-quantum-funding-gap-with-us-and-china/"
+   ]
+  },
+  {
+   "website": "elevenlabs.io",
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Builds AI voice models and agents.",
+   "confidence": 0.5,
+   "exclude_reason": "not-funding",
+   "group_key": "elevenlabs in early talks",
+   "candidate_ids": [
+    "cfaa98e88bcc",
+    "6ebbfd036270",
+    "075f01ae17fc"
+   ],
+   "company": "ElevenLabs",
+   "announced_date": "2026-11-26",
+   "description": "AI voice models and agents; only early talks reported at $33B valuation, no round closed.",
+   "evidence": {
+    "amount": "target valuation of $33 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://m.economictimes.com/tech/artificial-intelligence/elevenlabs-in-early-talks-for-funding-at-33-billion-valuation/articleshow/136177198.cms",
+    "https://techfundingnews.com/report-elevenlabs-in-early-talks-to-raise-at-33b-valuation-as-annualised-revenue-hits-700m/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 20000000000,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": "fund",
+   "group_key": "a16z in talks to",
+   "candidate_ids": [
+    "9fbaf2f5c005"
+   ],
+   "company": "Andreessen Horowitz",
+   "description": "VC firm reportedly in talks to raise about $20B across new funds.",
+   "announced_date": "2026-11-26",
+   "evidence": {
+    "amount": "$20 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://techfundingnews.com/a16z-talks-raise-20b-new-funds/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 650000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": "fund",
+   "group_key": "kaszek",
+   "candidate_ids": [
+    "af1b9f760196"
+   ],
+   "company": "Kaszek",
+   "description": "Latin America VC firm raising $650M fund for AI startups.",
+   "announced_date": "2026-11-24",
+   "evidence": {
+    "amount": "Kaszek raises $650 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://digg.com/ai/m9yd6yel"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "SPAC merger, not a venture round.",
+   "confidence": 0.8,
+   "exclude_reason": "public-company",
+   "group_key": "frenchfry sets 500 million",
+   "candidate_ids": [
+    "e7e57d5d212b"
+   ],
+   "company": "FrenchFry",
+   "announced_date": "2026-11-26",
+   "description": "FrenchFry Acquisitions combining with Tavia Acquisition Corp. (SPAC) at $500M enterprise value.",
+   "evidence": {
+    "amount": "values FrenchFry at $500 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/frenchfry-sets-500-million-enterprise-value-in-deal-to-go-public-with-tavia/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 385000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Chicago",
+   "hq_state": "IL",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Public company; debt facility.",
+   "confidence": 0.8,
+   "exclude_reason": "public-company",
+   "group_key": "tempus",
+   "candidate_ids": [
+    "802c37c5035b"
+   ],
+   "company": "Tempus AI",
+   "announced_date": "2026-11-25",
+   "description": "Public AI precision medicine company; $385M term loan to fund Personalis acquisition.",
+   "evidence": {
+    "amount": "$385 million of term-loan commitments",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.unite.ai/tempus-ai-secures-385m-term-loan-facility-to-fund-personalis-deal/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 113000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "SG",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": "not-funding",
+   "group_key": "vena energy",
+   "candidate_ids": [
+    "929aad9203f5"
+   ],
+   "company": "Vena Energy",
+   "announced_date": "2026-11-26",
+   "description": "Renewable energy developer; $113M green loan refinancing Indonesian projects.",
+   "evidence": {
+    "amount": "$113 million green loan",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/vena-energy-locks-in-long-term-fixed-rates-for-five-indonesian-projects-with-113-million-green-loan/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 87000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Boulder",
+   "hq_state": "CO",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "Vaccine biotech with no AI claim.",
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "boulder based biotech",
+   "candidate_ids": [
+    "0f583e6906db",
+    "5bb261f20fe3"
+   ],
+   "company": "VitriVax",
+   "announced_date": "2026-11-25",
+   "description": "Boulder biotech developing thermostable vaccines and a Lyme disease vaccine candidate.",
+   "evidence": {
+    "amount": "raises $87 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.9news.com/article/news/local/boulder-based-biotech-company-vitrivax-funding/73-fce9ea38-c509-40b5-a30e-1d11b9c3d0a0",
+    "https://pulse2.com/vitrivax-raises-87-million-to-advance-lyme-disease-vaccine/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 80000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": "not-funding",
+   "group_key": "blulabs moves to bank backed",
+   "candidate_ids": [
+    "b8b68315b747"
+   ],
+   "company": "Blulabs",
+   "announced_date": "2026-11-26",
+   "description": "Supply chain company; $80M asset-based revolving credit facility from Wells Fargo.",
+   "evidence": {
+    "amount": "$80 million asset-based revolving credit facility",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/blulabs-moves-to-bank-backed-financing-with-an-80-million-wells-fargo-facility/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.4,
+   "exclude_reason": "not-funding",
+   "group_key": "peak energy",
+   "candidate_ids": [
+    "9c6bff6ff651"
+   ],
+   "company": "Peak Energy",
+   "announced_date": "2026-11-25",
+   "description": "Sodium-ion battery storage maker; article concerns a $71M Sacramento factory, round itself reported earlier.",
+   "evidence": {
+    "amount": "$71M Sacramento battery factory",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.bizjournals.com/sacramento/news/2026/11/25/peak-energy-more-venture-capital.html"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 46000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": "not-funding",
+   "group_key": "indias protein ecosystem",
+   "candidate_ids": [
+    "ee673a9c5cd5"
+   ],
+   "company": "India protein ecosystem",
+   "description": "Aggregate funding statistic for India protein sector.",
+   "announced_date": "2026-11-26",
+   "evidence": {
+    "amount": "raises $46 million in 2026 so far",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.fortuneindia.com/startups-news/indias-protein-ecosystem-raises-46-million-in-2026-so-far-gurugram-leads-fund"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Grant",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "GB",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": "not-funding",
+   "group_key": "over 45 million in",
+   "candidate_ids": [
+    "67de0315d631"
+   ],
+   "company": "UKRI Creative Industries Sector Plan",
+   "description": "UK government grants to gaming studios and creative clusters.",
+   "announced_date": "2026-11-25",
+   "evidence": {
+    "amount": "Over £45 million in funding",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://wnhub.io/news/other/item-52823"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 43800000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "finnable",
+   "candidate_ids": [
+    "d3750fd1090e"
+   ],
+   "company": "Finnable",
+   "announced_date": "2026-11-26",
+   "description": "Indian digital lending firm.",
+   "evidence": {
+    "amount": "raises $43.8m in series C",
+    "round": "series C",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.techinasia.com/news/indian-digital-lending-firm-finnable-raises-438m-series"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 41000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Search coverage describes it as an AI-powered real estate development and permitting platform.",
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "pulley",
+   "candidate_ids": [
+    "e928bc8e1ea6"
+   ],
+   "company": "Pulley",
+   "announced_date": "2026-11-26",
+   "description": "AI-powered construction permitting and real estate development platform.",
+   "evidence": {
+    "amount": "raises $41M Series B",
+    "round": "Series B",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/pulley-raises-41m-series-b-to-speed-up-construction-permitting",
+    "https://pulse2.com/pulley-raises-64-million-to-accelerate-real-estate-development/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 40000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "lead_investors": [
+    "Main Sequence Ventures",
+    "National Reconstruction Fund Corporation"
+   ],
+   "investors": [
+    "Main Sequence Ventures",
+    "National Reconstruction Fund Corporation",
+    "Hostplus",
+    "Funds SA"
+   ],
+   "hq_city": "Adelaide",
+   "hq_state": null,
+   "hq_country": "AU",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "myriota",
+   "candidate_ids": [
+    "c9d6c9447f09"
+   ],
+   "company": "Myriota",
+   "announced_date": "2026-11-25",
+   "description": "Satellite IoT connectivity provider for industrial users.",
+   "evidence": {
+    "amount": "USD $40 million tranche of its Series C",
+    "round": "Series C",
+    "lead": "led by existing investors Main Sequence Ventures and the National Reconstruction Fund Corporation",
+    "investors": "Hostplus also participated in the round, while Funds SA joined as a new investor"
+   },
+   "source_urls": [
+    "https://channellife.com.au/story/myriota-secures-usd-40-million-in-series-c-funding"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 25000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Grant",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "NG",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": "not-funding",
+   "group_key": "smedan",
+   "candidate_ids": [
+    "77b39d4811e2"
+   ],
+   "company": "SMEDAN / AGRA",
+   "announced_date": "2026-11-26",
+   "description": "Nigerian agency financing programme for agribusiness.",
+   "evidence": {
+    "amount": "at least $25 million in financing",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.nigeriastartupact.ng/smedan-announces-25-million-funding-plan-for-nigerians-in-agriculture-see-who-can-benef"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": "Article states $15 million; AUD/USD not specified",
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "lead_investors": [
+    "King River",
+    "Reinventure"
+   ],
+   "investors": [
+    "King River",
+    "Reinventure",
+    "Carthona Capital",
+    "Flying Fox Ventures",
+    "Admiralty Capital Group"
+   ],
+   "hq_city": "Sydney",
+   "hq_state": null,
+   "hq_country": "AU",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "online estate planner safewill",
+   "candidate_ids": [
+    "1b84bb5ece3a"
+   ],
+   "company": "Safewill",
+   "announced_date": "2026-11-26",
+   "description": "Online will and estate planning platform sold to super funds, banks and insurers.",
+   "evidence": {
+    "amount": "raised $15 million in a Series C",
+    "round": "Series C",
+    "lead": "King River and Reinventure co-led that round",
+    "investors": "Carthona Capital and Flying Fox Ventures also returned, with Admiralty Capital Group"
+   },
+   "source_urls": [
+    "https://www.startupdaily.net/topic/funding/online-estate-planner-safewill-raises-15-million-series-c/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Mumbai",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": "not-funding",
+   "group_key": "electric tractor startup",
+   "candidate_ids": [
+    "29edec5b7557"
+   ],
+   "company": "Autonxt Automation",
+   "announced_date": "2026-11-26",
+   "description": "Electric tractor maker, reportedly raising $15M.",
+   "evidence": {
+    "amount": "is raising $15 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://m.economictimes.com/tech/funding/electric-tractor-startup-autonxt-eyes-15-million-raise-for-expansion/articlesho"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Gurugram",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Operates an AI powered quotation platform.",
+   "confidence": 0.8,
+   "exclude_reason": "not-funding",
+   "group_key": "elecbits in talks to",
+   "candidate_ids": [
+    "11c2978b2fd0"
+   ],
+   "company": "Elecbits",
+   "announced_date": "2026-11-26",
+   "description": "Electronics design and manufacturing startup; in talks to raise $12-15M.",
+   "evidence": {
+    "amount": "raise $12 million to $15 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.equitypandit.com/elecbits-in-talks-to-raise-up-to-15-million-from-xponentia-capital/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "SA",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Titled a Saudi AI startup.",
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "mawj",
+   "candidate_ids": [
+    "84073fd6661f"
+   ],
+   "company": "Mawj",
+   "announced_date": "2026-11-26",
+   "description": "Saudi AI customer-service startup.",
+   "evidence": {
+    "amount": "Saudi AI startup Mawj raises Series A",
+    "round": "Series A",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.fwdstart.me/p/saudi-ai-startup-mawj-raises-series-a-as-customer-service-competition-grows"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "lead_investors": [
+    "Terra Industries"
+   ],
+   "investors": [
+    "Terra Industries"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "ZA",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI models structure user crime reports.",
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "sas community wolf",
+   "candidate_ids": [
+    "2c77a076b293"
+   ],
+   "company": "Community Wolf",
+   "announced_date": "2026-11-26",
+   "description": "South African public safety app using AI to structure crime reports.",
+   "evidence": {
+    "amount": "the amount of which is undisclosed",
+    "round": "seed round",
+    "lead": "seed round led by Terra Industries",
+    "investors": "seed round led by Terra Industries"
+   },
+   "source_urls": [
+    "https://disruptafrica.com/2026/11/26/sas-community-wolf-raises-seed-funding-round-led-by-terra-industries/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 755000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "retrievant",
+   "candidate_ids": [
+    "265a47aadbbf"
+   ],
+   "company": "Retrievant",
+   "announced_date": "2026-11-25",
+   "description": "Medical records retrieval startup.",
+   "evidence": {
+    "amount": "raises $755K seed",
+    "round": "seed",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/retrievant-raises-755k-seed-to-tame-scattered-medical-records"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "lead_investors": [],
+   "investors": [
+    "Kakao Ventures",
+    "The Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "KR",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Pitches AX (AI transformation) for food manufacturing.",
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "ax for the food",
+   "candidate_ids": [
+    "49166e0ac288"
+   ],
+   "company": "NCredible",
+   "announced_date": "2026-11-25",
+   "description": "Korean startup for AI transformation of food manufacturing.",
+   "evidence": {
+    "amount": "NCredible Raises Seed Funding",
+    "round": "Seed Funding",
+    "lead": null,
+    "investors": "Seed Funding from Kakao Ventures and The Ventures"
+   },
+   "source_urls": [
+    "https://www.asiae.co.kr/en/article/stock-etc/2026112608283353403"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 550000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Pre-Seed",
+   "stage_bucket": "Seed",
+   "lead_investors": [
+    "Neon Fund"
+   ],
+   "investors": [
+    "Neon Fund",
+    "Inzas Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI agents recover vendor overcharges.",
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "lawvek",
+   "candidate_ids": [
+    "8af3a596a47d"
+   ],
+   "company": "Lawvek",
+   "announced_date": "2026-11-25",
+   "description": "AI platform helping enterprises recover vendor overcharges and rebates.",
+   "evidence": {
+    "amount": "raised $550,000 in a pre-seed round",
+    "round": "pre-seed round",
+    "lead": "led by Neon Fund",
+    "investors": "led by Neon Fund with participation from Inzas Ventures"
+   },
+   "source_urls": [
+    "https://smestreet.in/infocus/lawvek-raises-pre-seed-funding-to-help-enterprises-recover-vendor-dues-12840299"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 10000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "lead_investors": [
+    "Vertex Ventures SEA & India",
+    "Prosus"
+   ],
+   "investors": [
+    "Vertex Ventures SEA & India",
+    "Prosus",
+    "Elevation Capital",
+    "Eximius Ventures"
+   ],
+   "hq_city": "Mumbai",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "vegapay",
+   "candidate_ids": [
+    "3bf196636fcf"
+   ],
+   "company": "Vegapay",
+   "announced_date": "2026-11-26",
+   "description": "Issuer processing and credit lifecycle platform for credit line on UPI.",
+   "evidence": {
+    "amount": "raised $10 million in a series A",
+    "round": "series A",
+    "lead": "co-led by Vertex Ventures SEA & India and Prosus",
+    "investors": "existing investors Elevation Capital and Eximius Ventures"
+   },
+   "source_urls": [
+    "https://entrepreneur.economictimes.indiatimes.com/news/funding/vegapay-raises-10-mn-series-a-funding-led-by-vertex-ventu"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 14000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "lead_investors": [
+    "Crane Ventures"
+   ],
+   "investors": [
+    "Crane Ventures",
+    "3one4 Capital",
+    "Antler Elevate",
+    "pi Ventures",
+    "Antler India",
+    "Rebalance"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Develops autonomous drones and aircraft.",
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "green aero",
+   "candidate_ids": [
+    "e30484d0c6a7",
+    "af1ec33c1543",
+    "8695db48035b",
+    "c6b784865cbd"
+   ],
+   "company": "Green Aero",
+   "announced_date": "2026-11-26",
+   "description": "Indian jet engine and autonomous drone developer.",
+   "evidence": {
+    "amount": "raised $14 million in a series A",
+    "round": "series A",
+    "lead": "led by Crane Ventures",
+    "investors": "3one4 Capital, Antler Elevate, and existing investors pi Ventures , Antler India, and Rebalance"
+   },
+   "source_urls": [
+    "https://entrepreneur.economictimes.indiatimes.com/news/funding/green-aero-raises-14-mn-series-a-funding-led-by-crane-ven"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "lead_investors": [
+    "Boyu Venture Capital"
+   ],
+   "investors": [
+    "Boyu Venture Capital",
+    "Bright Vision Capital",
+    "Plum Ventures",
+    "Xiuyuan Capital"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI acoustic perception company.",
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "36kr exclusive ex anker senior",
+   "candidate_ids": [
+    "96c323b7f4ff"
+   ],
+   "company": "HearWell",
+   "announced_date": "2026-11-26",
+   "description": "AI audio equipment startup founded by ex-Anker executive.",
+   "evidence": {
+    "amount": "tens of millions of yuan",
+    "round": "seed round",
+    "lead": "Seed Funding Led by Boyu Venture Capital",
+    "investors": "Boyu Venture Capital, Bright Vision Capital, Plum Ventures, and Xiuyuan Capital"
+   },
+   "source_urls": [
+    "https://eu.36kr.com/en/p/4085971424995714"
+   ]
+  }
+ ]
+}

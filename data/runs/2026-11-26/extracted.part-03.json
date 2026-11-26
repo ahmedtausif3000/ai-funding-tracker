@@ -1,0 +1,277 @@
+{
+ "run_date": "2026-11-26",
+ "extractor": "claude-code routine",
+ "notes": "Lookups: Pulley, VitriVax, Peak Energy (web search; investors from search not included since not in source text).",
+ "rows": [
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "lead_investors": [
+    "Terra Industries"
+   ],
+   "investors": [
+    "Terra Industries"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "ZA",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI models structure user crime reports.",
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "sas community wolf",
+   "candidate_ids": [
+    "2c77a076b293"
+   ],
+   "company": "Community Wolf",
+   "announced_date": "2026-11-26",
+   "description": "South African public safety app using AI to structure crime reports.",
+   "evidence": {
+    "amount": "the amount of which is undisclosed",
+    "round": "seed round",
+    "lead": "seed round led by Terra Industries",
+    "investors": "seed round led by Terra Industries"
+   },
+   "source_urls": [
+    "https://disruptafrica.com/2026/11/26/sas-community-wolf-raises-seed-funding-round-led-by-terra-industries/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 755000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "retrievant",
+   "candidate_ids": [
+    "265a47aadbbf"
+   ],
+   "company": "Retrievant",
+   "announced_date": "2026-11-25",
+   "description": "Medical records retrieval startup.",
+   "evidence": {
+    "amount": "raises $755K seed",
+    "round": "seed",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/retrievant-raises-755k-seed-to-tame-scattered-medical-records"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "lead_investors": [],
+   "investors": [
+    "Kakao Ventures",
+    "The Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "KR",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Pitches AX (AI transformation) for food manufacturing.",
+   "confidence": 0.6,
+   "exclude_reason": null,
+   "group_key": "ax for the food",
+   "candidate_ids": [
+    "49166e0ac288"
+   ],
+   "company": "NCredible",
+   "announced_date": "2026-11-25",
+   "description": "Korean startup for AI transformation of food manufacturing.",
+   "evidence": {
+    "amount": "NCredible Raises Seed Funding",
+    "round": "Seed Funding",
+    "lead": null,
+    "investors": "Seed Funding from Kakao Ventures and The Ventures"
+   },
+   "source_urls": [
+    "https://www.asiae.co.kr/en/article/stock-etc/2026112608283353403"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 550000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Pre-Seed",
+   "stage_bucket": "Seed",
+   "lead_investors": [
+    "Neon Fund"
+   ],
+   "investors": [
+    "Neon Fund",
+    "Inzas Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI agents recover vendor overcharges.",
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "lawvek",
+   "candidate_ids": [
+    "8af3a596a47d"
+   ],
+   "company": "Lawvek",
+   "announced_date": "2026-11-25",
+   "description": "AI platform helping enterprises recover vendor overcharges and rebates.",
+   "evidence": {
+    "amount": "raised $550,000 in a pre-seed round",
+    "round": "pre-seed round",
+    "lead": "led by Neon Fund",
+    "investors": "led by Neon Fund with participation from Inzas Ventures"
+   },
+   "source_urls": [
+    "https://smestreet.in/infocus/lawvek-raises-pre-seed-funding-to-help-enterprises-recover-vendor-dues-12840299"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 10000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "lead_investors": [
+    "Vertex Ventures SEA & India",
+    "Prosus"
+   ],
+   "investors": [
+    "Vertex Ventures SEA & India",
+    "Prosus",
+    "Elevation Capital",
+    "Eximius Ventures"
+   ],
+   "hq_city": "Mumbai",
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI claim in available text.",
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "vegapay",
+   "candidate_ids": [
+    "3bf196636fcf"
+   ],
+   "company": "Vegapay",
+   "announced_date": "2026-11-26",
+   "description": "Issuer processing and credit lifecycle platform for credit line on UPI.",
+   "evidence": {
+    "amount": "raised $10 million in a series A",
+    "round": "series A",
+    "lead": "co-led by Vertex Ventures SEA & India and Prosus",
+    "investors": "existing investors Elevation Capital and Eximius Ventures"
+   },
+   "source_urls": [
+    "https://entrepreneur.economictimes.indiatimes.com/news/funding/vegapay-raises-10-mn-series-a-funding-led-by-vertex-ventu"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": 14000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "lead_investors": [
+    "Crane Ventures"
+   ],
+   "investors": [
+    "Crane Ventures",
+    "3one4 Capital",
+    "Antler Elevate",
+    "pi Ventures",
+    "Antler India",
+    "Rebalance"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Develops autonomous drones and aircraft.",
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "green aero",
+   "candidate_ids": [
+    "e30484d0c6a7",
+    "af1ec33c1543",
+    "8695db48035b",
+    "c6b784865cbd"
+   ],
+   "company": "Green Aero",
+   "announced_date": "2026-11-26",
+   "description": "Indian jet engine and autonomous drone developer.",
+   "evidence": {
+    "amount": "raised $14 million in a series A",
+    "round": "series A",
+    "lead": "led by Crane Ventures",
+    "investors": "3one4 Capital, Antler Elevate, and existing investors pi Ventures , Antler India, and Rebalance"
+   },
+   "source_urls": [
+    "https://entrepreneur.economictimes.indiatimes.com/news/funding/green-aero-raises-14-mn-series-a-funding-led-by-crane-ven"
+   ]
+  },
+  {
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "lead_investors": [
+    "Boyu Venture Capital"
+   ],
+   "investors": [
+    "Boyu Venture Capital",
+    "Bright Vision Capital",
+    "Plum Ventures",
+    "Xiuyuan Capital"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CN",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI acoustic perception company.",
+   "confidence": 0.8,
+   "exclude_reason": null,
+   "group_key": "36kr exclusive ex anker senior",
+   "candidate_ids": [
+    "96c323b7f4ff"
+   ],
+   "company": "HearWell",
+   "announced_date": "2026-11-26",
+   "description": "AI audio equipment startup founded by ex-Anker executive.",
+   "evidence": {
+    "amount": "tens of millions of yuan",
+    "round": "seed round",
+    "lead": "Seed Funding Led by Boyu Venture Capital",
+    "investors": "Boyu Venture Capital, Bright Vision Capital, Plum Ventures, and Xiuyuan Capital"
+   },
+   "source_urls": [
+    "https://eu.36kr.com/en/p/4085971424995714"
+   ]
+  }
+ ]
+}

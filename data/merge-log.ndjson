@@ -1730,3 +1730,32 @@
 {"run":"catchup-2026-11-25_2026-11-25-2138","action":"inserted","id":"9e8f43607a","company":"MetaLenX","in_view":false,"exclude_reason":"non-us"}
 {"run":"catchup-2026-11-25_2026-11-25-2138","action":"inserted","id":"e503b7fadb","company":"AtomCore Light","in_view":false,"exclude_reason":"non-us"}
 {"run":"catchup-2026-11-25_2026-11-25-2138","action":"merged","id":"8fe4349209","company":"AidenAI","from":"AidenAI"}
+{"run":"2026-11-26","action":"inserted","id":"57cdc6bc0f","company":"EU Sovereign Tech Equity Fund","in_view":false,"exclude_reason":"fund"}
+{"run":"2026-11-26","action":"inserted","id":"0b63957a41","company":"ElevenLabs","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-26","action":"inserted","id":"07f82d4d7b","company":"Andreessen Horowitz","in_view":false,"exclude_reason":"fund"}
+{"run":"2026-11-26","action":"inserted","id":"d552f84341","company":"Kaszek","in_view":false,"exclude_reason":"fund"}
+{"run":"2026-11-26","action":"inserted","id":"54e030e69a","company":"FrenchFry","in_view":false,"exclude_reason":"public-company"}
+{"run":"2026-11-26","action":"inserted","id":"20fe00bc6b","company":"Tempus AI","in_view":false,"exclude_reason":"public-company"}
+{"run":"2026-11-26","action":"inserted","id":"e75ec2d8c3","company":"Vena Energy","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-26","action":"merged","id":"3fb1893c1f","company":"VitriVax","from":"VitriVax"}
+{"run":"2026-11-26","action":"inserted","id":"5883dda58b","company":"Blulabs","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-26","action":"merged","id":"25e371e786","company":"Peak Energy","from":"Peak Energy"}
+{"run":"2026-11-26","action":"inserted","id":"f8fd482b05","company":"India protein ecosystem","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-26","action":"inserted","id":"f9347e3d78","company":"UKRI Creative Industries Sector Plan","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-26","action":"inserted","id":"d26667aa2d","company":"Finnable","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-26","action":"amount-conflict","id":"97e121e477","company":"Pulley","stored_amount":64000000,"incoming_amount":41000000,"incoming_sources":["https://app.dealroom.co/news/note/pulley-raises-41m-series-b-to-speed-up-construction-permitting","https://pulse2.com/pulley-raises-64-million-to-accelerate-real-estate-development/"]}
+{"run":"2026-11-26","action":"merged","id":"97e121e477","company":"Pulley","from":"Pulley"}
+{"run":"2026-11-26","action":"amount-conflict","id":"d3b63e627c","company":"Myriota","stored_amount":60000000,"incoming_amount":40000000,"incoming_sources":["https://channellife.com.au/story/myriota-secures-usd-40-million-in-series-c-funding"]}
+{"run":"2026-11-26","action":"merged","id":"d3b63e627c","company":"Myriota","from":"Myriota"}
+{"run":"2026-11-26","action":"inserted","id":"f88ea4b4be","company":"SMEDAN / AGRA","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-26","action":"inserted","id":"f2e6429b64","company":"Safewill","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-26","action":"inserted","id":"f0cd4341bc","company":"Autonxt Automation","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-26","action":"inserted","id":"9130f2f863","company":"Elecbits","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-26","action":"inserted","id":"c9795d4af1","company":"Mawj","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-26","action":"inserted","id":"0ad586fe6f","company":"Community Wolf","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-26","action":"inserted","id":"955623debb","company":"Retrievant","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-26","action":"inserted","id":"49ce78cd9b","company":"NCredible","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-26","action":"inserted","id":"38f1184c5a","company":"Lawvek","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-26","action":"inserted","id":"80065c2f71","company":"Vegapay","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-26","action":"inserted","id":"97d2322f27","company":"Green Aero","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-26","action":"inserted","id":"4a788db6e9","company":"HearWell","in_view":false,"exclude_reason":"non-us"}
