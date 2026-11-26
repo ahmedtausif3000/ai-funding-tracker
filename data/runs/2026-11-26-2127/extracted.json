@@ -1,0 +1,557 @@
+{
+ "run_date": "2026-11-26-2127",
+ "extractor": "parallel agents",
+ "notes": "[extracted.part-01.json] Mostly non-startup or non-funding items; AI-agent roundup not split (no HQ/dates).\n[extracted.part-02.json] Altair row used search to confirm Series A; names of investors omitted (not in fetched text). Boden amount from headline.",
+ "rows": [
+  {
+   "website": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.6,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "exclude_reason": "public-company",
+   "evidence": {
+    "amount": "Energy Vault backlog hits US$2.3 billion as it closes financing for 150MW Texas BESS",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "group_key": "energy vault backlog hits",
+   "candidate_ids": [
+    "9c492daabd12"
+   ],
+   "company": "Energy Vault",
+   "amount_usd": null,
+   "announced_date": "2026-11-26",
+   "hq_country": "US",
+   "ai_ml_rationale": "Public energy storage company; project financing.",
+   "description": "Battery energy storage developer; closes financing for 150MW Texas BESS.",
+   "ev": "Energy Vault backlog hits US$2.3 billion as it closes financing for 150MW Texas BESS",
+   "source_urls": [
+    "https://www.energy-storage.news/energy-vault-backlog-hits-us2-3-billion-as-it-closes-financing-for-150mw-texas-bess/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.9,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "exclude_reason": "not-funding",
+   "evidence": {
+    "amount": "The Democratic Republic of the Congo will receive $965 million in mining-sector investment",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "group_key": "congo mining forum",
+   "candidate_ids": [
+    "f5f4e135af4e"
+   ],
+   "company": "Makutano Mining Forum",
+   "amount_usd": 965000000,
+   "announced_date": "2026-11-25",
+   "hq_country": "CD",
+   "ai_ml_rationale": "Mining sector financing; no AI.",
+   "description": "Sector financing commitments announced at a mining forum.",
+   "ev": "The Democratic Republic of the Congo will receive $965 million in mining-sector investment",
+   "source_urls": [
+    "https://www.kitco.com/news/off-the-wire/2026-11-25/congo-mining-forum-announces-965-million-sector-financing"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.9,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "exclude_reason": "not-funding",
+   "evidence": {
+    "amount": "advises on approximately $944 million in assets",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "group_key": "carson group adds 944",
+   "candidate_ids": [
+    "63f005c945d4"
+   ],
+   "company": "Carson Group",
+   "amount_usd": null,
+   "announced_date": "2026-11-26",
+   "hq_country": "US",
+   "ai_ml_rationale": "Advisory firm acquisition; not AI.",
+   "description": "Wealth advisory network; Pinney & Scofield joined, advising ~$944M in assets.",
+   "ev": "advises on approximately $944 million in assets",
+   "source_urls": [
+    "https://pulse2.com/carson-group-adds-944-million-firm-pinney-scofield/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": "EUR 720M converted at 1.08",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.6,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "exclude_reason": "not-funding",
+   "evidence": {
+    "amount": "Allego closes record €720 million green financing to grow EV charging",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "group_key": "allego",
+   "candidate_ids": [
+    "6722b5c34805",
+    "ad14279cfb76",
+    "acc4ca44da8b"
+   ],
+   "company": "Allego",
+   "amount_usd": 778000000,
+   "announced_date": "2026-11-26",
+   "hq_country": "NL",
+   "ai_ml_rationale": "EV charging; no AI claim.",
+   "description": "EV charging operator; green financing facility.",
+   "ev": "Allego closes record €720 million green financing to grow EV charging",
+   "source_urls": [
+    "https://mlq.ai/news/allego-closes-record-720-million-green-financing-to-grow-ev-charging/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.9,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "exclude_reason": "not-funding",
+   "evidence": {
+    "amount": "66 startups within the King Abdullah University of Science and Technology (KAUST) portfolio raised $338 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "group_key": "saudi startups",
+   "candidate_ids": [
+    "6078c83a0469"
+   ],
+   "company": "KAUST portfolio startups",
+   "amount_usd": 338000000,
+   "announced_date": "2026-11-26",
+   "hq_country": "SA",
+   "ai_ml_rationale": "Aggregate portfolio statistic.",
+   "description": "Aggregate annual funding of 66 KAUST portfolio startups.",
+   "ev": "66 startups within the King Abdullah University of Science and Technology (KAUST) portfolio raised $338 million",
+   "source_urls": [
+    "https://entarabi.com/en/2026/11/saudi-startups-raise-338-million-with-kaust-support/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.9,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "exclude_reason": "duplicate",
+   "evidence": {
+    "amount": "66 startups in KAUST's portfolio raised $338M between July 2025 and June 2026",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "group_key": "kaust backed startups",
+   "candidate_ids": [
+    "31b487055003"
+   ],
+   "company": "KAUST portfolio startups",
+   "amount_usd": 338000000,
+   "announced_date": "2026-11-26",
+   "hq_country": "SA",
+   "ai_ml_rationale": "Aggregate portfolio statistic.",
+   "description": "Duplicate of KAUST portfolio aggregate (group saudi startups).",
+   "ev": "66 startups in KAUST's portfolio raised $338M between July 2025 and June 2026",
+   "source_urls": [
+    "https://www.arageek.com/en/kaust-backed-startups-raise-338m-in-a-year-up-more-than-30"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.6,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "exclude_reason": "not-funding",
+   "evidence": {
+    "amount": "raised financing against USD 301 million worth of AI equipment in China",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "group_key": "companies linked to alice",
+   "candidate_ids": [
+    "64160f0b2b25"
+   ],
+   "company": "Alice Huang-linked companies",
+   "amount_usd": 301000000,
+   "announced_date": "2026-11-25",
+   "hq_country": "CN",
+   "ai_ml_rationale": "Financing secured against AI servers; not a venture round.",
+   "description": "Companies linked to Alice Huang financed against AI servers in China.",
+   "ev": "raised financing against USD 301 million worth of AI equipment in China",
+   "source_urls": [
+    "https://www.bignewsnetwork.com/news/279453788/companies-linked-to-alice-huang-raised-financing-against-usd-301-million-worth-of-ai-equipment-in-china-report"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.6,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "exclude_reason": "duplicate",
+   "evidence": {
+    "amount": "raised financing against up to $270 million worth of artificial intelligence servers",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "group_key": "alice huang linked firms",
+   "candidate_ids": [
+    "0d2fa20b5297",
+    "bc2227b6ca97"
+   ],
+   "company": "Alice Huang-linked companies",
+   "amount_usd": 270000000,
+   "announced_date": "2026-11-25",
+   "hq_country": "CN",
+   "ai_ml_rationale": "Financing secured against AI servers; not a venture round.",
+   "description": "Same story as group 'companies linked to alice': AI-server-backed financing in China.",
+   "ev": "raised financing against up to $270 million worth of artificial intelligence servers",
+   "source_urls": [
+    "https://www.arise.tv/alice-huang-linked-firms-secured-270m-in-ai-servers-in-china/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.9,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "exclude_reason": "not-funding",
+   "evidence": {
+    "amount": "India Startup Funding reached $104.4 million across 10 funding rounds",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "group_key": "india startup",
+   "candidate_ids": [
+    "a70c5d2ee77f"
+   ],
+   "company": "India weekly funding roundup",
+   "amount_usd": 104400000,
+   "announced_date": "2026-11-26",
+   "hq_country": "IN",
+   "ai_ml_rationale": "Weekly aggregate; not a single round.",
+   "description": "Weekly tracker of Indian startup funding (10 rounds); Finnable $43.8M Series C is the largest.",
+   "ev": "India Startup Funding reached $104.4 million across 10 funding rounds",
+   "source_urls": [
+    "https://sahyadristartups.com/spotlight/india-startup-funding-weekly-tracker-november/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.5,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "exclude_reason": "not-funding",
+   "evidence": {
+    "amount": "Four startups raised a combined $515 million to build infrastructure for AI agents",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "group_key": "four startups",
+   "candidate_ids": [
+    "cdae1ccd1092",
+    "26e28f08b50d"
+   ],
+   "company": "AI agent infrastructure roundup (Exa, Parallel, Firecrawl, Linq)",
+   "amount_usd": 515000000,
+   "announced_date": "2026-11-25",
+   "hq_country": "unknown",
+   "ai_ml_rationale": "Roundup of earlier AI agent infra rounds.",
+   "description": "Recap of rounds raised Apr-Sep 2026; article gives no HQs or exact dates, so individual rounds not extracted.",
+   "ev": "Four startups raised a combined $515 million to build infrastructure for AI agents",
+   "source_urls": [
+    "https://wisevoter.com/world/2026/11/25/startups-raise-515m-ai-agent-infrastructure"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.7,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "exclude_reason": null,
+   "evidence": {
+    "amount": "Israeli chipmaker Altair raises $100 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "group_key": "sony spin off altair",
+   "candidate_ids": [
+    "e98168e5d837",
+    "1613e1c0e058"
+   ],
+   "company": "Altair Semiconductor",
+   "amount_usd": 100000000,
+   "announced_date": "2026-11-26",
+   "hq_country": "IL",
+   "ai_ml_rationale": "Low-power 5G modems for AI wearables; no AI claim about product itself.",
+   "description": "Sony spin-off chipmaker building low-power 5G/LTE modems for wearables and AI glasses.",
+   "ev": "Israeli chipmaker Altair raises $100 million",
+   "source_urls": [
+    "https://www.calcalistech.com/ctechnews/article/m3h4xzamw",
+    "https://mlq.ai/news/sony-spin-off-altair-raises-100m-to-mass-produce-a-5g-modem-for-wearables/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.7,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "exclude_reason": "duplicate",
+   "evidence": {
+    "amount": "Israeli chipmaker Altair raises $100 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "group_key": "israeli chipmaker altair",
+   "candidate_ids": [
+    "1613e1c0e058"
+   ],
+   "company": "Altair Semiconductor",
+   "amount_usd": 100000000,
+   "announced_date": "2026-11-26",
+   "hq_country": "IL",
+   "ai_ml_rationale": "Duplicate of Altair row.",
+   "description": "Duplicate of group 'sony spin off altair'.",
+   "ev": "Israeli chipmaker Altair raises $100 million",
+   "source_urls": [
+    "https://www.calcalistech.com/ctechnews/article/m3h4xzamw"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": "EUR 70.6M converted at 1.08",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.9,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "exclude_reason": "fund",
+   "evidence": {
+    "amount": "INVL Asset Management has secured €70.6 million in commitments at the first close",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "group_key": "invl",
+   "candidate_ids": [
+    "520b59e9fad2"
+   ],
+   "company": "INVL European Banking Opportunities Fund",
+   "amount_usd": 76000000,
+   "announced_date": "2026-11-26",
+   "hq_country": "LT",
+   "ai_ml_rationale": "Fund close.",
+   "description": "First close of a fund investing in Central and Eastern European banks.",
+   "ev": "INVL Asset Management has secured €70.6 million in commitments at the first close",
+   "source_urls": [
+    "https://pulse2.com/invl-secures-e70-6-million-to-start-investing-in-central-and-eastern-european-banks/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Los Angeles",
+   "hq_state": "CA",
+   "is_ai_ml": false,
+   "confidence": 0.9,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "exclude_reason": "not-funding",
+   "evidence": {
+    "amount": "The nonprofit is raising $50 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "group_key": "latham & watkins partner",
+   "candidate_ids": [
+    "e02f2cc48774"
+   ],
+   "company": "Ronald McDonald House Westside Los Angeles",
+   "amount_usd": 50000000,
+   "announced_date": "2026-11-26",
+   "hq_country": "US",
+   "ai_ml_rationale": "Nonprofit campaign.",
+   "description": "Nonprofit raising funds for a new family house.",
+   "ev": "The nonprofit is raising $50 million",
+   "source_urls": [
+    "https://pulse2.com/latham-watkins-partner-josh-hamilton-joins-westside-ronald-mcdonald-house-board/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": "EUR 20M converted at 1.08",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.9,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "exclude_reason": null,
+   "evidence": {
+    "amount": "providing €20 million in venture debt to Swiss materials company Bcomp",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "group_key": "bcomp",
+   "candidate_ids": [
+    "be5e4f166649"
+   ],
+   "company": "Bcomp",
+   "amount_usd": 21600000,
+   "announced_date": "2026-11-26",
+   "hq_country": "CH",
+   "ai_ml_rationale": "Flax composites; no AI.",
+   "description": "Swiss natural-fibre composites maker; EIB venture debt for Romanian plant.",
+   "ev": "providing €20 million in venture debt to Swiss materials company Bcomp",
+   "source_urls": [
+    "https://pulse2.com/bcomp-secures-e20-million-in-eib-venture-debt-for-romanian-flax-composite-plant/"
+   ]
+  },
+  {
+   "website": null,
+   "amount_disclosed": true,
+   "currency_note": "approx. CNY 100M; sources differ (US$13.8M to $15M)",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Ningbo",
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.7,
+   "round_type": "Series B",
+   "stage_bucket": "Early Stage Venture",
+   "exclude_reason": null,
+   "evidence": {
+    "amount": "Boden AI raises $15M Series B for AI data infrastructure",
+    "round": "Boden AI raises $15M Series B for AI data infrastructure",
+    "lead": null,
+    "investors": null
+   },
+   "group_key": "boden",
+   "candidate_ids": [
+    "c9ead90f4fa3"
+   ],
+   "company": "Boden AI",
+   "amount_usd": 15000000,
+   "announced_date": "2026-11-26",
+   "hq_country": "CN",
+   "ai_ml_rationale": "AI data annotation and infrastructure.",
+   "description": "Chinese AI data infrastructure and annotation provider.",
+   "ev": "Boden AI raises $15M Series B for AI data infrastructure",
+   "source_urls": [
+    "https://app.dealroom.co/news/note/boden-ai-raises-15m-series-b-for-ai-data-infrastructure"
+   ]
+  }
+ ]
+}
