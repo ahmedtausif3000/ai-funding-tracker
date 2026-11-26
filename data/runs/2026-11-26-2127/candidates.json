@@ -1,0 +1,726 @@
+{
+  "run_date": "2026-11-26-2127",
+  "generated_at": "2026-11-26T21:28:37.812Z",
+  "window_days": 2,
+  "range": null,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 200,
+        "items": 69
+      },
+      {
+        "id": "gnews-2",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-3",
+        "status": 200,
+        "items": 31
+      },
+      {
+        "id": "gnews-4",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "gnews-5",
+        "status": 200,
+        "items": 42
+      },
+      {
+        "id": "gnews-6",
+        "status": 200,
+        "items": 28
+      },
+      {
+        "id": "gnews-7",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-8",
+        "status": 200,
+        "items": 4
+      },
+      {
+        "id": "gnews-g1",
+        "status": 200,
+        "items": 22
+      },
+      {
+        "id": "gnews-g2",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "gnews-g3",
+        "status": 200,
+        "items": 13
+      },
+      {
+        "id": "gnews-g4",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "gnews-g5",
+        "status": 200,
+        "items": 57
+      },
+      {
+        "id": "gnews-g6",
+        "status": 200,
+        "items": 26
+      },
+      {
+        "id": "gnews-g7",
+        "status": 200,
+        "items": 53
+      },
+      {
+        "id": "gnews-g8",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "gnews-g9",
+        "status": 200,
+        "items": 62
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "pulse2",
+        "status": 200,
+        "items": 120
+      },
+      {
+        "id": "citybiz",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 840,
+    "prefiltered": 82,
+    "dropped": {
+      "not_funding": 250,
+      "no_ai_hint": 129,
+      "below_min": 169,
+      "fund_close": 22,
+      "seen": 134,
+      "duplicate_link": 51,
+      "known_round": 62,
+      "noise": 3
+    },
+    "groups": 52,
+    "selected_groups": 16,
+    "candidates": 20,
+    "articles_fetched": 11,
+    "google_rate_limited": false
+  },
+  "groups": [
+    {
+      "key": "energy vault backlog hits",
+      "company_guess": "Energy Vault backlog hits",
+      "amount_hint_usd": 2300000000,
+      "candidate_ids": [
+        "9c492daabd12"
+      ]
+    },
+    {
+      "key": "congo mining forum",
+      "company_guess": "Congo mining forum",
+      "amount_hint_usd": 965000000,
+      "candidate_ids": [
+        "f5f4e135af4e"
+      ]
+    },
+    {
+      "key": "carson group adds 944",
+      "company_guess": "Carson Group Adds $944",
+      "amount_hint_usd": 944000000,
+      "candidate_ids": [
+        "63f005c945d4"
+      ]
+    },
+    {
+      "key": "allego",
+      "company_guess": "Allego",
+      "amount_hint_usd": 720000000,
+      "candidate_ids": [
+        "6722b5c34805",
+        "ad14279cfb76",
+        "acc4ca44da8b"
+      ]
+    },
+    {
+      "key": "four startups",
+      "company_guess": "Four Startups",
+      "amount_hint_usd": 515000000,
+      "candidate_ids": [
+        "cdae1ccd1092",
+        "26e28f08b50d"
+      ]
+    },
+    {
+      "key": "saudi startups",
+      "company_guess": "Saudi Startups",
+      "amount_hint_usd": 338000000,
+      "candidate_ids": [
+        "6078c83a0469"
+      ]
+    },
+    {
+      "key": "kaust backed startups",
+      "company_guess": "KAUST-Backed Startups",
+      "amount_hint_usd": 338000000,
+      "candidate_ids": [
+        "31b487055003"
+      ]
+    },
+    {
+      "key": "companies linked to alice",
+      "company_guess": "Companies linked to Alice",
+      "amount_hint_usd": 301000000,
+      "candidate_ids": [
+        "64160f0b2b25"
+      ]
+    },
+    {
+      "key": "alice huang linked firms",
+      "company_guess": "Alice Huang-Linked Firms",
+      "amount_hint_usd": 270000000,
+      "candidate_ids": [
+        "0d2fa20b5297",
+        "bc2227b6ca97"
+      ]
+    },
+    {
+      "key": "india startup",
+      "company_guess": "India Startup",
+      "amount_hint_usd": 104400000,
+      "candidate_ids": [
+        "a70c5d2ee77f"
+      ]
+    },
+    {
+      "key": "sony spin off altair",
+      "company_guess": "Sony spin-off Altair",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "e98168e5d837"
+      ]
+    },
+    {
+      "key": "israeli chipmaker altair",
+      "company_guess": "Israeli chipmaker Altair",
+      "amount_hint_usd": 100000000,
+      "candidate_ids": [
+        "1613e1c0e058"
+      ]
+    },
+    {
+      "key": "invl",
+      "company_guess": "INVL",
+      "amount_hint_usd": 70600000,
+      "candidate_ids": [
+        "520b59e9fad2"
+      ]
+    },
+    {
+      "key": "latham & watkins partner",
+      "company_guess": "Latham & Watkins Partner",
+      "amount_hint_usd": 50000000,
+      "candidate_ids": [
+        "e02f2cc48774"
+      ]
+    },
+    {
+      "key": "bcomp",
+      "company_guess": "Bcomp",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "be5e4f166649"
+      ]
+    },
+    {
+      "key": "boden",
+      "company_guess": "Boden AI",
+      "amount_hint_usd": 15000000,
+      "candidate_ids": [
+        "c9ead90f4fa3"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "9c492daabd12",
+      "title": "Energy Vault backlog hits US$2.3 billion as it closes financing for 150MW Texas BESS - Energy-Storage.News",
+      "publisher": "Energy-Storage.News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTF91bXhRaWF3aEFoS28xaVZpNWM1MDJHQlFua2NCcDRjMjJPbjlPVzRIRVN1c2hiUUpiOTJ0dl9qcmg4X2xldS1uV0NreW13NUJSZGM0NU05Y2phZkZKX3JpOGRzOTlVRzRySXM2U0VaM2dzWWZkZ201NV8zdGhaUkxJd1pHRl9OdjFreHhReE44bjNlWnloNmJFRjNGOTAxT0otb2FvWXY3SzRId3ZfWmZHSS1KU1k?oc=5",
+      "published_at": "2026-11-26T13:03:53.000Z",
+      "publisher_url": "https://www.energy-storage.news",
+      "snippet": "Energy Vault backlog hits US$2.3 billion as it closes financing for 150MW Texas BESS Energy-Storage.News",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 2300000000,
+        "currency": "USD",
+        "raw": "US$2.3 billion"
+      },
+      "company_guess": "Energy Vault backlog hits",
+      "group_key": "energy vault backlog hits",
+      "group_rank": 0,
+      "resolved_url": "https://www.energy-storage.news/energy-vault-backlog-hits-us2-3-billion-as-it-closes-financing-for-150mw-texas-bess/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "f5f4e135af4e",
+      "title": "Congo mining forum announces $965 million in sector financing",
+      "publisher": "Kitco",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSnJfbm9VSHVUVHFhUXRGMUowdF9URGhDNFlEcnRZM1VTNW9NdjBMNzEzakRhaElqaFIzR3dHN05jZ1JBUm5OYTJPSVB6MUlvV1FXb2pDR0FPeEJiMVpjYktuZHN0RGVwRmRvN1g3amduYm9tSmhIcGxOdTNMN2ltZzc4cUp1YU85STg5UFNhdUw5enpjUHpKMDFjSnVyY3ZZNFFYT1I0Q2tIWmMx?oc=5",
+      "published_at": "2026-11-25T21:08:12.000Z",
+      "publisher_url": "https://www.kitco.com",
+      "snippet": "Congo mining forum announces $965 million in sector financing Kitco",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 965000000,
+        "currency": "USD",
+        "raw": "$965 million"
+      },
+      "company_guess": "Congo mining forum",
+      "group_key": "congo mining forum",
+      "group_rank": 0,
+      "resolved_url": "https://www.kitco.com/news/off-the-wire/2026-11-25/congo-mining-forum-announces-965-million-sector-financing",
+      "text": "The Democratic Republic of the Congo will receive $965 million in mining-sector investment, organizers announced at the opening of the Makutano Mining Forum in Kinshasa.\nOf that total, $700 million is earmarked for financing in the Congolese mining sector, with financial institutions committing to support the sector and its entire value chain.\nThe remaining $265 million is being provided through the International Finance Corporation (IFC) to support the private sector in the DRC.\nThe financing will support small and medium-sized enterprises, mining subcontracting, local processing of resources and trade finance.\nPresident Felix Tshisekedi used the opening ceremony to reaffirm the DRC’s aim to move beyond extracting resources to creating added value through local processing, saying this would bring “lasting prosperity for the people.”\n(Reporting by Congo newsroom. Editing by Ayen Deng Bior and Mark Potter)\nReuters\nDisclaimer: The views expressed in this article are those of the author and may not reflect those of Kitco Metals Inc. The author has made every effort to ensure accuracy of information provided; however, neither Kitco Metals Inc. nor the author can guarantee such accuracy. This article is strictly for informational purposes only. It is not a solicitation to make any exchange in commodities, securities or other financial instruments. Kitco Metals Inc. and the author of this article do not accept culpability for losses and/ or damages arising from the use of this publication.\nTrending News\nGold\nGold prices drop another 1% as US Q3 GDP revised to 4.3% with contained PCE inflation\nNov 25, 2026 - 8:51 AM\nGold\nGold, silver reverse early losses as Wall Street rebounds ahead of Thanksgiving - Kitco PM Report\nNov 25, 2026 - 4:55 PM\nGold\nGold, silver prices see sharp rebounds as AI shares rally, renewed Fed uncertainty - Kitco PM Report\nNov 23, 2026 - 6:04 PM\nGold\nGold's recovery may be short-lived as Natixis warns of drop to $3,340\nNov 23, 2026 - 12:49 PM\nGold\nGold price rallies above $3,600 as AI selloff reshapes Fed outlook - Kitco AM Report\nNov 23, 2026 - 9:18 AM",
+      "text_status": "ok"
+    },
+    {
+      "id": "63f005c945d4",
+      "title": "Carson Group Adds $944 Million Firm Pinney & Scofield",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/carson-group-adds-944-million-firm-pinney-scofield/",
+      "published_at": "2026-11-26T13:58:50.000Z",
+      "publisher_url": null,
+      "snippet": "Pinney & Scofield has joined Carson Group’s integrated advisor channel, expanding Carson’s presence in Greater Boston. The Cambridge, Massachusetts, firm advises on approximately $944 million in assets and will gain access to Carson’s technology, tax and estate planning specialists, and operational support.\nThe post Carson Group Adds $944 Million Firm Pinney & Scofield appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 944000000,
+        "currency": "USD",
+        "raw": "$944 Million"
+      },
+      "company_guess": "Carson Group Adds $944",
+      "group_key": "carson group adds 944",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/carson-group-adds-944-million-firm-pinney-scofield/",
+      "text": "Carson Group Adds $944 Million Firm Pinney & Scofield\nBy Amit Chowdhry\nToday at 8:58 AM\nCarson Group Adds $944 Million Firm Pinney & Scofield\nPinney & Scofield has joined Carson Group’s integrated advisor channel, expanding Carson’s presence in Greater Boston. The Cambridge, Massachusetts, firm advises on approximately $944 million in assets and will gain access to Carson’s technology, tax and estate planning specialists, and operational support.\nThe firm began in 1984 as a tax practice founded by Jim Pinney and George Kinder. Dean Scofield joined in 1986, and the practice later shifted toward financial planning and investment management. With the founders retired, the team includes managing partners and wealth advisors John Goddard and Richard Seeley, wealth advisor Mary Evans, and senior relationship and operations manager Ryan McCarthy.\nPinney & Scofield plans to retain its investment models, client fee structure and autonomy. The four-person team chose Carson after evaluating how to expand its resources while keeping advisors’ time focused on clients. MarshBerry advised Pinney & Scofield on the transaction. Carson reports more than $66 billion in assets under management.\nKEY QUOTES\n“Pinney & Scofield has built something remarkable: nearly $1 billion in assets under management, a loyal multigenerational client base and a deeply personal approach to advice, all with a team of four. John, Richard and their team have been intentional about preserving what makes their firm special while preparing for its future. We’re excited to provide the technology, expertise and infrastructure to help them continue growing while staying focused on the clients and relationships that have made them successful.”\nBurt White, CEO Of Carson Group\n“We’ve been fortunate to grow almost entirely through referrals, but we reached a point where continuing to build everything ourselves would take time and attention away from what we love most: working with clients.”\nJohn Goddard, Managing Partner And Wealth Advisor At Pinney & Scofield\n“I’ve described our expertise as being a mile wide but in some places only a few feet deep. With Carson’s network of expertise and resources, we think we will be a mile wide and a mile deep while preserving the Pinney & Scofield DNA established by our founders. We think it’s a win-win.”\nRichard Seeley, Managing Partner And Wealth Advisor At Pinney & Scofield\n“Pinney & Scofield is a great example of a successful independent firm making a proactive decision about its future. MarshBerry did an excellent job understanding what mattered most to the team and recognizing the cultural fit with Carson from the outset. We’re excited to build on the strong foundation Pinney & Scofield has established and help position the firm for continued growth.”\nMichael Belluomini, Senior Vice President Of Mergers & Acquisitions At Carson Group\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "6722b5c34805",
+      "title": "Allego closes record €720 million green financing to grow EV charging",
+      "publisher": "MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSWFqWkoxUUFCai0xQjhEYVF6dGFyMklEeHJkazRCdGUxUGE4MUtrcGx6ZmdJcEtiaHNGSVpVMHVOY0pQZ2N4TVhXdmEyVUdTTHBDMXpNbmx1WkFlWmJ3RzhWUFRqR1p4RlBQUGp2S3V1WTJRMG1iazFfN21GajVEaTcyTWJlVUZGeEJiQ3J4bV85Zjg?oc=5",
+      "published_at": "2026-11-26T16:26:28.000Z",
+      "publisher_url": "https://mlq.ai",
+      "snippet": "Allego closes record €720 million green financing to grow EV charging MLQ.ai",
+      "source_feed": "gnews-g7",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 720000000,
+        "currency": "EUR",
+        "raw": "€720 million"
+      },
+      "company_guess": "Allego",
+      "group_key": "allego",
+      "group_rank": 0,
+      "resolved_url": "https://mlq.ai/news/allego-closes-record-720-million-green-financing-to-grow-ev-charging/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "ad14279cfb76",
+      "title": "Allego secures financing package of up to €720 million euros",
+      "publisher": "electrive.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXFicEZUaHpsMjV5OFRaQ1N6ZlRBSk5EN2NNN0NVVW1kaVZVT3U5YV9McW1zYWNaMmlnRWNQRWNEbmtlaHE2TllsWTZpRU5SU21wZnBDbTJfVzdGRjFCeWpNaXVSYkEyZWNOTklpWTZ6SndVd1p0eHZ2b3I4bmtEVERZTzFvRHE4VFF5OHlzQjBhVDZGVWY4RWNjTVotWHM?oc=5",
+      "published_at": "2026-11-26T16:30:00.000Z",
+      "publisher_url": "https://www.electrive.com",
+      "snippet": "Allego secures financing package of up to €720 million euros electrive.com",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 720000000,
+        "currency": "EUR",
+        "raw": "€720 million"
+      },
+      "company_guess": "Allego",
+      "group_key": "allego",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "acc4ca44da8b",
+      "title": "Allego closes €720M green facility, biggest for a European charging operator",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc0FrcnlXdFJLNWRzdzVabmpIRG8yeG44N1V6V0FPN29HSWVubUgyUEZMYW1FZWJOa3JJM0I5b0dTekk3eXdnNF9mRFBMcHFvd2t0bDB4Mm1OSktaWFJQU2l5cVdmeHMzcFFkOWY2NE9ac1ktMV9TWUN4S09KUURXcnVGcHNkMWJMZDRIeVFZSzgxUkQ3cG5jSHdiY09QUWt5UkhUOWpZTVlZSl96?oc=5",
+      "published_at": "2026-11-26T13:29:13.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Allego closes €720M green facility, biggest for a European charging operator Dealroom",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 720000000,
+        "currency": "EUR",
+        "raw": "€720M"
+      },
+      "company_guess": "Allego",
+      "group_key": "allego",
+      "group_rank": 2,
+      "text_status": "skipped"
+    },
+    {
+      "id": "cdae1ccd1092",
+      "title": "Four Startups Raise $515 Million for AI Agent Tools",
+      "publisher": "Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc1ZlQmxMakNYMk9MMC1YV1pXN3VHblZQbGNXSFd3ZFdBWXdGYXllMjZ5ZjktWm93bzc4WVU0MjU1N3FIOWhFV0NtR0FrTVAwSENseHVXYXVvRUx6R09zdGdBSkFIUmpvTm45UzAtVmtYeVlWX05oTzlWYmtSVnNaVW52a2pZZ3NxN2c?oc=5",
+      "published_at": "2026-11-26T01:42:31.000Z",
+      "publisher_url": "https://wisevoter.com",
+      "snippet": "Four Startups Raise $515 Million for AI Agent Tools Wisevoter",
+      "source_feed": "gnews-2",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 515000000,
+        "currency": "USD",
+        "raw": "$515 Million"
+      },
+      "company_guess": "Four Startups",
+      "group_key": "four startups",
+      "group_rank": 0,
+      "resolved_url": "https://wisevoter.com/world/2026/11/25/startups-raise-515m-ai-agent-infrastructure",
+      "text": "Home\n› World\n› Tech\n› Artificial Intelligence\nFour Startups Raise $515 Million for AI Agent Tools\nFunding flows to companies building search, messaging, browsing and data infrastructure that AI agents use to act on the web.\nUpdated on Nov. 25, 2026 in Artificial Intelligence\nFour startups raised a combined $515 million to build infrastructure for AI agents, which increasingly search, text and browse on behalf of users. Exa raised $250 million in May at a $2.2 billion valuation and has passed $100 million in annualized revenue.\nWhy it matters\nAutomated systems already account for 57.4% of web requests worldwide, and investors are betting that agent traffic will outpace human activity online. Companies are also adjusting contracts to clarify who is responsible when agents act for a customer.\nExa handles two billion requests a month from more than 200,000 teams, while Linq has processed more than 1 billion messages for customers. Firecrawl's Alexandria library and Parallel Web Systems' search tools are still early, and the stub does not report their usage levels.\nThe players\nWells Fargo\nWells Fargo is a major U.S. bank that updated its online access agreement to make customers responsible for AI agents acting on their behalf.\nCloudflare\nCloudflare is an internet infrastructure company that launched Kitesurf, a cloud-hosted browser designed for AI agents instead of people.\nAndreessen Horowitz\nAndreessen Horowitz is a venture capital firm that led Linq's $90 million funding round.\nParag Agrawal\nParag Agrawal is the former CEO of Twitter who launched Parallel Web Systems.\nThe details\nExa raised $250 million in May, Parallel Web Systems raised $100 million in April, Firecrawl raised $75 million in September, and Linq raised $90 million in a round led by Andreessen Horowitz. Linq lets AI agents text and call people, Cloudflare launched Kitesurf in August as a cloud-hosted browser built for agents rather than people, and Exa said its funding would help it scale to hundreds of thousands of searches per second.\nTimeline\nApril 2026: Parallel Web Systems raised $100 million.\nMay 2026: Exa raised $250 million at a $2.2 billion valuation.\nAugust 2026: Cloudflare launched Kitesurf for AI agents.\nSeptember 2026: Firecrawl raised $75 million.\nNovember 24, 2026: Wells Fargo updated its online access agreement for AI agents.\nThe Tech Race\nCloudflare's Kitesurf, a cloud-hosted browser built for AI agents rather than people, signals that major infrastructure providers now treat agent traffic as a distinct market. The four funding rounds show rival startups racing to supply the search, messaging and data layers those agents depend on.\nWells Fargo's updated agreement makes customers responsible for any AI agent that acts on their behalf, so people using agents for banking tasks should review the terms before delegating access. As agents begin texting, calling and browsing for users, the choices people make about which tools to trust will shape their daily privacy and convenience.\nThe takeaway\nAgents now act on behalf of their users in ways that carry financial and legal responsibility, so checking how a provider assigns liability is worth the time before granting access. Reviewing those terms early helps users keep control over what their agents do.\nFurther reading\nFor more on how these agent tools are reshaping the web, see Artificial Intelligence .\nSource note: This article includes information reported by PYMNTS.\nWE Participate i\nUpload story photo ↗\nUpdate this story ↗\nSubmit a new story ↗\nToday's stories\nArtificial Intelligence 1\nU.S. Blocks Chinese Remote Access to Nvidia AI Chips\nArtificial Intelligence 2\nRussia Today Puts AI Dostoevsky on Air\nArtificial Intelligence 3\nUNESCO, WAN-IFRA Develop AI Blueprint for Media\nArtificial Intelligence 4\nMusk Backs Huang's Warning on AI and Jobs\nArtificial Intelligence 5\nMarlinspike Warns AI Misuse Policing Is Mass Surveillance\nArtificial Intelligence 6\nAI Coding Agents Rewrite Rules to Reach Secrets\nTrending polls\nEnvironmental\nShould your government push harder to phase out coal, oil and gas?\n▲ Yes ▼ No\nInternational Trade\nDo you expect the new tariffs to raise prices on goods you buy?\n▲ Yes ▼ No\nData Centers\nDo you expect the growing demand for AI computing to raise your everyday costs?\n▲ Yes ▼ No\nPublic Companies\nDo you think now is a good time to invest in the stock market?\n▲ Yes ▼ No",
+      "text_status": "ok"
+    },
+    {
+      "id": "26e28f08b50d",
+      "title": "Startups Raise $515 Million to Build AI Agents Their Own Internet",
+      "publisher": "PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa3pLdlhzQUJsNXJBVUItc2x5LXloOHEzbjF0djIweU9scDNyMkNPVjVUMWFoanhIaGhQc0dlcG1IcjhQUV9BY3lCZlpuU0ZfSFhuZWxIZkhLUUVsSmZISVZRbXp1UG5Ua3laMVM2Y3NjZXhHd0ZyMlZ2cFgwQ093cjVQcWYtS0VsQzF1a0VCcEliRTlhbV9GeDRzcENZVDNFaTNDLWoteVllaGNzbkpYSXNzTDU1QmRsNzRFTld2dw?oc=5",
+      "published_at": "2026-11-25T19:25:52.000Z",
+      "publisher_url": "https://www.pymnts.com",
+      "snippet": "Startups Raise $515 Million to Build AI Agents Their Own Internet PYMNTS.com",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 515000000,
+        "currency": "USD",
+        "raw": "$515 Million"
+      },
+      "company_guess": "Startups",
+      "group_key": "four startups",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "6078c83a0469",
+      "title": "Saudi Startups Raise $338 Million with KAUST Support",
+      "publisher": "entARABI",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUHhhcE1LVkVqLVJwcDZpSnFkTm5YZDRwVGFuWnVsN29lTW1mSl8zM3VoRUJSaXk2RDNLcS1CWWZnYlphakVrUnUyV1FhbFU0NHMwbFVwZ25HLXhVZlc1UXAtUzVqY2tnMERDdlV0ZFk3R3hwOUZ2cXI1Rk9XQU9WQW1TcFZPNFZnRWlDag?oc=5",
+      "published_at": "2026-11-26T11:52:14.000Z",
+      "publisher_url": "https://entarabi.com",
+      "snippet": "Saudi Startups Raise $338 Million with KAUST Support entARABI",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 338000000,
+        "currency": "USD",
+        "raw": "$338 Million"
+      },
+      "company_guess": "Saudi Startups",
+      "group_key": "saudi startups",
+      "group_rank": 0,
+      "resolved_url": "https://entarabi.com/en/2026/11/saudi-startups-raise-338-million-with-kaust-support/",
+      "text": "Saudi Startups Raise $338 Million with KAUST Support\nNovember 26, 2026\nFrom quantum computing and cybersecurity to fintech and healthcare, Saudi startups are expanding across diverse tech sectors, benefiting from a research ecosystem aimed at turning scientific innovations into commercial products and attracting new investments.\n66 startups within the King Abdullah University of Science and Technology (KAUST) portfolio raised $338 million in funding during the fiscal year spanning from July 2025 to June 2026, achieving a year-on-year growth exceeding 30%, which brings the total funding attracted by portfolio companies to $1.4 billion, while their total valuation stands at $5.7 billion.\nThe KAUST portfolio includes 282 active startups that have generated cumulative revenues of $1.1 billion, while attracting 90% of their funding from sources outside the university, reflecting the expanding investor base in companies supported by the university’s ecosystem.\nKAUST provided about $77 million in funding, while external funding sources included the National Technology Development Program (NTDP), which contributed approximately $33 million.\nPasqal, a company specializing in quantum computing, topped the most prominent funding rounds during the period after raising $200 million, followed by COGNNA, which operates in cybersecurity with a funding of $9.2 million, alongside Aajil, Iyris, and Agellus Tank Robotics.\nKAUST portfolio companies are distributed across multiple sectors including artificial intelligence, enterprise software, financial technology, healthcare, agriculture, and advanced technologies, as part of developing companies based on technical innovation and scientific research.\nIan Campbell, Senior Vice President of the National Transformation Institute (NTI) at KAUST, stated that the success of the portfolio companies reflects the environment provided by the Kingdom for the growth and expansion of companies, pointing out the university’s role in helping entrepreneurs turn their innovations into commercial products and transfer them from labs to markets.\nIn supporting companies, KAUST relies on combining early-stage funding with access to specialized laboratories and facilities, alongside partnerships with The Saudi Awwal Bank (SAB), the National Technology Development Program, the National Industrial Development and Logistics Program (NIDLP), venture capital firms, and private sector partners.\nCompany support programs include the TAQADAM accelerator, NextEra, ScaleX, the Venture Studio program, and the KAUST Center for the Fourth Industrial Revolution, while the university is working to expand the venture building program aimed at establishing new companies, developing intellectual property, and transforming it into commercial projects linked to the Kingdom’s strategic priorities.\nHaitham Al-Homsi, Director of Innovation Ecosystem Development at KAUST, said that the companies associated with the university provide solutions to various economic and industrial challenges, explaining that the venture building program focuses on developing new technologies and materials, industrial innovations, and sensor-based healthcare solutions, in preparation for commercial launch.\nThe KAUST Research and Technology Park enables startups to collaborate with researchers and faculty members, benefit from specialized laboratories and facilities, and build relationships with companies within the Kingdom. The park also aims to attract international companies in the expansion phase and connect them to the university’s research and development ecosystem.\nThe portfolio includes companies operating in various sectors, including iStoria and Faheem in education, Kestrl and EdfaPay in financial services, Cura and Atomica AI in healthcare, Barakah and Aqua Development in food, alongside TileGreen and Edama in waste management, recycling, and resource recovery.\nThe figures are based on the annual evaluation of the KAUST entrepreneurship portfolio, which included 282 active startups and relied on data provided by 83% of the companies, alongside standard evaluation methodologies.\nRead the article in\nArabic\nin Follow us on LinkedIn 𝕏 Follow us on X\nShare\nCopy link\nReport an issue\nإنت عربي\nابقَ على اطلاع دائم 🚀\nاشترك في نشرتنا البريدية لتصلك أهم الأخبار والتحليلات الخاصة بالشركات الناشئة في بريدك مباشرة.\nاشترك الآن",
+      "text_status": "ok"
+    },
+    {
+      "id": "31b487055003",
+      "title": "KAUST-Backed Startups Raise $338M in a Year, Up More Than 30% - أراجيك",
+      "publisher": "أراجيك - Arageek",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzZyNmVBcFU2TllCWDh0enZoWGl6OWEzV2xmT0Eybm9xUnZ5cENsUGVZUDVTUEs0dU9qOHFGRFdxUWRLaFYyZzR0ZERSWXdkZnA2LW5zN3dlTndDTTU2aEp5Rnd5M0czR3YzeUZsdG85VEk2Z2JiZzVlMVdTek1FQ0gyQkt3YUxaUWt1d2lB?oc=5",
+      "published_at": "2026-11-26T17:55:36.000Z",
+      "publisher_url": "https://www.arageek.com",
+      "snippet": "KAUST-Backed Startups Raise $338M in a Year, Up More Than 30% أراجيك - Arageek",
+      "source_feed": "gnews-g5",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 338000000,
+        "currency": "USD",
+        "raw": "$338M"
+      },
+      "company_guess": "KAUST-Backed Startups",
+      "group_key": "kaust backed startups",
+      "group_rank": 0,
+      "resolved_url": "https://www.arageek.com/en/kaust-backed-startups-raise-338m-in-a-year-up-more-than-30",
+      "text": "Latest 🚀\nKAUST-Backed Startups Raise $338M in a Year, Up More Than 30%\n66 startups in KAUST's portfolio raised $338M between July 2025 and June 2026, lifting the portfolio's total funding to $1.4 billion.\nBy Abdelrahman Amr 26 November 2026 · 3 min read\nSummary\nSixty-six KAUST portfolio startups raised $338 million in the year to June 2026.\nThat marks growth of more than 30% on the previous year.\nThe portfolio's cumulative funding has now passed the billion-dollar mark.\nQuantum computing company Pasqal led the year with a $200 million round.\nAround 90% of the portfolio's funding came from outside the university.\nSixty-six startups in the portfolio of King Abdullah University of Science and Technology (KAUST) raised $338 million in the financial year that ran from July 2025 to June 2026. That is growth of more than 30% year on year, and it lifts the total funding raised by the university's portfolio companies to $1.4 billion, with a combined value of $5.7 billion.\nThe numbers come from KAUST's annual assessment of its entrepreneurship portfolio, which covered 282 active startups and drew on data supplied by 83% of them, alongside standard valuation methods. Between them, those 282 companies have generated cumulative revenue of $1.1 billion.\nPerhaps the most telling figure is where the money came from. Around 90% of the portfolio's funding was raised from sources outside the university. KAUST itself put in roughly $77 million, while the National Technology Development Program (NTDP) contributed about $33 million among the outside backers.\nThe biggest round of the period went to Pasqal, the quantum computing company, which raised $200 million. Cybersecurity firm COGNNA followed with $9.2 million, and Aajil, Iyris and Agellus Tank Robotics were also among the notable raises.\nThe spread of sectors is wide: AI, enterprise software, fintech, healthcare, agriculture and advanced technologies. The portfolio includes iStoria and Faheem in education, Kestrl and EdfaPay in financial services, Cura and Atomica AI in healthcare, Barakah and Aqua Development in food, and TileGreen and Edama in waste management, recycling and resource use.\nIan Campbell, Senior Vice President of KAUST's National Transformation Institute (NTI), said the portfolio's success reflects the environment the Kingdom offers for companies to grow and expand, and pointed to the university's role in helping entrepreneurs turn their innovations into commercial products and move them from the lab to the market.\nSo how does the support actually work? KAUST pairs early-stage funding with access to its laboratories and specialised facilities, and it works with partners including SAB, the NTDP, the National Industrial Development and Logistics Program (NIDLP), venture capital firms and private-sector partners. Its programmes include the TAQADAM accelerator, NextEra, ScaleX, the Venture Studio company-building programme and the KAUST Center for the Fourth Industrial Revolution.\nThe university is also expanding the Venture Studio to found new companies and turn intellectual property into businesses tied to the Kingdom's strategic priorities. Haitham Al-Homsi, Director of Innovation Ecosystem Development at KAUST, said the university's companies offer solutions to a range of economic and industrial challenges, and that the Venture Studio focuses on new technologies and materials, industrial innovations and sensor-based healthcare solutions on their way to commercialisation.\nMeanwhile, the KAUST Research and Technology Park lets startups work with researchers and faculty, use specialised labs and build ties with companies inside the Kingdom. It also aims to attract international companies at the expansion stage and connect them to the university's research and development.\nAround Arageek, we often talk about deep tech being the slow, expensive corner of the startup world, and to be fair, a $200 million quantum round does a lot of the heavy lifting in this year's total. That said, I reckon the more interesting number is the 90% of funding coming from outside the university. If research-born companies in Saudi Arabia can keep pulling in outside capital at that rate, the lab-to-market pipeline starts to look less like a programme and more like a proper part of the region's startup ecosystem.\n🚀 Got exciting news to share?\nIf you're a startup founder, VC, or PR agency with big updates—funding rounds, product launches 📢, or company milestones 🎉 — AraGeek English wants to hear from you!\n✉️ Send Us Your Story 👇\nhttps://en.arageek.com/send-us-your-story-or-a-news-tip\nDeal Tracker 2026\nMENA startups raised $4.73B across 387 rounds this year, led by Fintech . See every deal, investor and sector →\nFollow Arageek on Google\nMake Arageek your preferred source, so our news shows first in your search results. Add Arageek as a preferred source\nNewsletter\nGet the Arageek newsletter\nJoin more than 60,000 subscribers and get the AI and tech news that matters, straight to your inbox. Your email Subscribe\nFree. Unsubscribe at any time. Read our privacy policy .\nLatest\n1\nGITEX GLOBAL 2026 Brings 6,000 Exhibitors to Dubai With a New AI Summit\n2\nMerak Capital’s Exel Accelerator Puts $6.3M Into 21 Saudi Gaming Startups\n3\nIHC-Backed Zelo Passes $500M in SME Advances and Targets $1B by 2028\n4\nAbu Dhabi’s ADI Foundation and Hashed Sign Term Sheet to Link Asian and MENA Digital Asset Markets\nDiscover more\nDeal Tracker\nGITEX Dubai\nAi Everything\nLEAP26\nAI\nSaudi Arabia\nUAE\nEgypt\nMasterMinds\nRelated\nGITEX GLOBAL 2026 Brings 6,000 Exhibitors to Dubai With a New AI Summit\nZand Launches UAE’s First Regulated Dirham-Backed Stablecoin on Public Blockchains\nKFED and Keeta Join Forces to Boost Emirati F&B Entrepreneurs’ Digital Reach\nUAE’s Silal and Limagrain Launch High-Tech Crop Genomics Hub in Al Ain\nI am Lucy Aziz. I stopped saying yes to everything, which made me lead!\nShipBee Secures $500K to Fuel AI-Powered Logistics in Qatar\nForas.ai Backs WAYA Media to Ignite MENA’s Bil",
+      "text_status": "ok"
+    },
+    {
+      "id": "64160f0b2b25",
+      "title": "Companies linked to Alice Huang raised financing against USD 301 million worth of AI equipment in China: Report",
+      "publisher": "Big News Network.com",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQck5tM2xtci0yOTlnVjZfdVRSSy1nUkoxRlprZ1Y0SlgtWGtVRnhDNERmcmtOMWl0UnhUV1pPSjNBYzVhUEVuM2g3WDZEdTBpUXdkQUI5WDM1Y2JxV2VwdXJXckJJeFJHX2Q0TkNGMzVkNklKX0g5QlE1LTJOREFxVHQ3TExlRzZaYVBTLV81UlplTncwSEF0bjMzSlpYNEloWUVRQy1aTmIwbS1tQm5vV0Z3MnlZQTJmUVVlTVJxcFh6UDU3M2pDdFZOcV9YUEQ1X3hPd1IwUVdVc0VmT3BMVXV5dk9rZFhhVkRoNQ?oc=5",
+      "published_at": "2026-11-25T11:14:00.000Z",
+      "publisher_url": "https://www.bignewsnetwork.com",
+      "snippet": "Companies linked to Alice Huang raised financing against USD 301 million worth of AI equipment in China: Report Big News Network.com",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 301000000,
+        "currency": "USD",
+        "raw": "USD 301 million"
+      },
+      "company_guess": "Companies linked to Alice",
+      "group_key": "companies linked to alice",
+      "group_rank": 0,
+      "resolved_url": "https://www.bignewsnetwork.com/news/279453788/companies-linked-to-alice-huang-raised-financing-against-usd-301-million-worth-of-ai-equipment-in-china-report",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "0d2fa20b5297",
+      "title": "Alice Huang-Linked Firms Secured $270M In AI Servers In China",
+      "publisher": "Arise News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeUxFMUhxb2lITHliV0I1dHl0bjRqY3hLMUJiTmg1VmRIRzNiUnR2UWlyQmF0Y3ZMVHJabmtrQVdVQ01pV25ETHltR1R6Qk1sQklYckprZ1NXRlZfRHBka09OU1ZCa1RBcF9Na0tsMDd6STR5MnB2bnVKNVRWbWtVNGM0WGNjRVdzc2c?oc=5",
+      "published_at": "2026-11-25T08:19:51.000Z",
+      "publisher_url": "https://www.arise.tv",
+      "snippet": "Alice Huang-Linked Firms Secured $270M In AI Servers In China Arise News",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 270000000,
+        "currency": "USD",
+        "raw": "$270M"
+      },
+      "company_guess": "Alice Huang-Linked Firms",
+      "group_key": "alice huang linked firms",
+      "group_rank": 0,
+      "resolved_url": "https://www.arise.tv/alice-huang-linked-firms-secured-270m-in-ai-servers-in-china/",
+      "text": "09:02, 25th Nov, 2026 by AriseNews\nAlice Huang-Linked Firms Secured $270M In AI Servers In China\nGlobal\nChinese records reveal how companies linked to Alice Huang’s family used hundreds of AI servers to secure financing.\n\">\nFollow ARISE News on Google Add us as a preferred source to see more of our stories in Google\nFollow us on Google\nCompanies linked to Chinese businesswoman Alice Huang raised financing against up to $270 million worth of artificial intelligence servers and computing modules in China, according to records reviewed by Reuters.\nThe documents, drawn from a Chinese central-bank credit registry, identify up to 764 servers and computing modules, alongside $31 million in networking equipment.\nThe findings come as US authorities investigate whether Megaspeed, a Singapore-based company formerly controlled by Huang, helped Chinese buyers obtain restricted Nvidia technology.\nThe US Commerce Department added Megaspeed to its trade blacklist on Monday. The company has denied wrongdoing and said Huang left in August 2025.\nA major player in the financing arrangements was Century Litong, an Nvidia preferred cloud partner that rents computing servers to customers.\nRecords show the company entered five equipment-leasing arrangements covering up to 512 servers valued at approximately $200 million between May and December 2024.\nRelated News:\nYemen Military Says It Has 'Secured' Red Sea Strait\nIsrael Pounds Gaza with Fiercest Air Strikes Ever, Says Border Secured\nChina Threatens Countermeasures Over US Restrictions on Telecom Firms\nFour of the arrangements listed equipment at the Yangtze River Delta AI supercomputing centre in Shanghai, a facility developed by gaming company Century Huatong.\nTencent, which holds approximately 10 per cent of Century Huatong, said it never owned or operated the data centre and had no commercial relationship with Megaspeed or its subsidiaries.\nThe records also link several companies involved in the arrangements to Huang’s sister, Huang Yu, and her husband, Kang Wei. A separate company connected to Huang’s sister pledged 252 AI computing modules as collateral for a $70 million loan in April 2026.\nHowever, the records do not establish that the identified servers contained chips prohibited from export to China or explain how the equipment entered the country.\nThe dollar figures represent the value of assets covered by financing arrangements, not necessarily new spending or separate purchases.\nExcerpt: Chinese records reveal how companies linked to Alice Huang’s family used hundreds of AI servers to secure financing.\nCompanies linked to Chinese businesswoman Alice Huang raised financing against up to $270 million worth of artificial intelligence servers and computing modules in China, according to records reviewed by Reuters.\nThe documents, drawn from a Chinese central-bank credit registry, identify up to 764 servers and computing modules, alongside $31 million in networking equipment.\nThe findings come as US authorities investigate whether Megaspeed, a Singapore-based company formerly controlled by Huang, helped Chinese buyers obtain restricted Nvidia technology.\nThe US Commerce Department added Megaspeed to its trade blacklist on Monday. The company has denied wrongdoing and said Huang left in August 2025.\nA major player in the financing arrangements was Century Litong, an Nvidia preferred cloud partner that rents computing servers to customers.\nRecords show the company entered five equipment-leasing arrangements covering up to 512 servers valued at approximately $200 million between May and December 2024.\nFour of the arrangements listed equipment at the Yangtze River Delta AI supercomputing centre in Shanghai, a facility developed by gaming company Century Huatong.\nTencent, which holds approximately 10 per cent of Century Huatong, said it never owned or operated the data centre and had no commercial relationship with Megaspeed or its subsidiaries.\nThe records also link several companies involved in the arrangements to Huang’s sister, Huang Yu, and her husband, Kang Wei. A separate company connected to Huang’s sister pledged 252 AI computing modules as collateral for a $70 million loan in April 2026.\nHowever, the records do not establish that the identified servers contained chips prohibited from export to China or explain how the equipment entered the country.\nThe dollar figures represent the value of assets covered by financing arrangements, not necessarily new spending or separate purchases.\nCatherine Okonkwo\nFollow us on:",
+      "text_status": "ok"
+    },
+    {
+      "id": "bc2227b6ca97",
+      "title": "Alice Huang AI Servers: Firms Linked to Her Raised $270 Million Financing for AI Data Centres in China",
+      "publisher": "theopenpress.in",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOUV1QW1UbzMyNFEyQ29CazkxRW1PaU5HLW5WLWhncmJQLUIzbVdzMl82MV9STHQ3ZFhIU0FIdkpZT1hWV192ZzVxMmRWVUJhQTZKZTVJbXhOam9wUFNhSVdBOWNIbE1NdE56UGpRWDhPX0FDRzFxS3BSWW1EUjJOSEgtbk9sWW1LUEE?oc=5",
+      "published_at": "2026-11-26T15:35:35.000Z",
+      "publisher_url": "https://theopenpress.in",
+      "snippet": "Alice Huang AI Servers: Firms Linked to Her Raised $270 Million Financing for AI Data Centres in China theopenpress.in",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 270000000,
+        "currency": "USD",
+        "raw": "$270 Million"
+      },
+      "company_guess": "Alice Huang AI",
+      "group_key": "alice huang linked firms",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "a70c5d2ee77f",
+      "title": "India Startup Funding Tracker: Where Did The $104.4 Million Raised This Week Go?",
+      "publisher": "Sahyadri Startups",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLWJ3a01zZHRjS3ZDNHpqbXpGS1ppbHB1NnhqMGFTYkhoOVh5QWMwY3ByN19UdV9HbTZ4c0dTcDlTUHhrcy1fMW9iUEZTQl9JQ1o2VG1xcmd0QlFOQjhOT3k4V3ZXcG5SaEJvZnZtNjRvTmdFd215Y2ItYXN1TWEwOWR2aFUwTjBiUVJqcHJR?oc=5",
+      "published_at": "2026-11-26T17:40:18.000Z",
+      "publisher_url": "https://sahyadristartups.com",
+      "snippet": "India Startup Funding Tracker: Where Did The $104.4 Million Raised This Week Go? Sahyadri Startups",
+      "source_feed": "gnews-g5",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 104400000,
+        "currency": "USD",
+        "raw": "$104.4 Million"
+      },
+      "company_guess": "India Startup",
+      "group_key": "india startup",
+      "group_rank": 0,
+      "resolved_url": "https://sahyadristartups.com/spotlight/india-startup-funding-weekly-tracker-november/",
+      "text": "Home &rsaquo; Spotlight &rsaquo; India Startup Funding Tracker: Where Did the $104.4 Million Raised This Week Go?\nIndia Startup Funding Tracker: Where Did the $104.4 Million Raised This Week Go?\nSpotlight Posted on November 26, 2026 &bull; Updated November 26, 2026 &mdash;by Salil Urunkar\nShare\nShare on WhatsApp\nShare on X\nShare on LinkedIn\nShare on Telegram\nPune: India Startup Funding reached $104.4 million across 10 funding rounds between 20 and 26 November 2026, but the headline growth figure masks a more concentrated funding environment.\nFive transactions accounted for more than 93% of the capital raised, while seed-stage investments contributed just 6.6% of the weekly total.\nJoin our WhatsApp community Subscribe to our email newsletter\nThe latest India Startup Funding Tracker by Tracxn and Sahyadri Startups recorded a 46.85% increase in funding compared with the $71.1 million raised in the previous week across 11 rounds.\nHowever, the composition of this week’s investments is more revealing than the increase itself. A single Series C transaction by Bengaluru-based Finnable contributed $43.8 million, accounting for nearly 42% of all capital raised. Without this deal, the weekly funding total would have been approximately $60.6 million.\nIndia Startup Funding: Early-Stage Companies Attract Capital, But Seed Funding Remains Small\nThe stage-wise distribution reveals an interesting shift in the funding mix.\nStage Funding Share of weekly funding Rounds\nEarly stage (Series A and B) $53.7M 51.4% 4\nLate stage (Series C and above) $43.8M 42% 1\nSeed and angel $6.9M 6.6% 5 Source: Tracxn\nEarly-stage companies attracted the largest share, raising $53.7 million across four Series A and B transactions. This represents 51.4% of the weekly funding.\nThe continued presence of Series A and B investments is significant for founders building businesses beyond the initial product-development stage.\nThese companies are typically seeking capital to strengthen their technology, expand operations and move towards larger commercial opportunities.\nHowever, the relatively small seed-stage allocation presents a different picture. Five companies raised a combined $6.9 million, accounting for only 6.6% of the capital deployed.\nFor early founders, this highlights the difference between the number of funding opportunities and the actual availability of capital.\nSeed-stage activity continued, but the bulk of investor money went to businesses that had progressed further along the fundraising cycle.\nLate-stage funding, meanwhile, was entirely driven by Finnable’s Series C transaction. The $43.8 million investment accounted for 42% of the weekly total, illustrating how one sizeable growth-stage deal can significantly influence India’s weekly funding numbers.\nEmerging Key Destinations: Fintech, Aerospace and AI\nBeyond the overall numbers, the sectoral spread of the investments offers a glimpse into the different technology and business opportunities attracting capital.\nFintech remained prominent, with two significant transactions. Finnable raised $43.8 million in a Series C round, while Mumbai-based Vegapay secured $10 million in Series A funding.\nThe two businesses operate at different parts of the financial services ecosystem. Finnable provides instant personal loans and financial management tools, while Vegapay develops B2B technology infrastructure for credit, cards, lending and banking products.\nFor the fintech ecosystem, these investments demonstrate that funding activity is not restricted to consumer-facing financial services. Infrastructure providers building technology for financial institutions are also attracting investor participation.\nAnother notable development was the $14 million Series A funding raised by Delhi-based Green Aero Propulsion.\nThe company’s focus on fuel-agnostic gas turbine engines for civilian and defence applications places it in a different category from conventional consumer internet startups.\nIts funding, led by Crane Venture Partners, brings attention to the capital requirements and investor participation emerging around specialised aerospace and engineering technologies.\nBengaluru-based SatSure’s $17.7 million Series B investment adds another dimension. Its decision intelligence solutions use satellite imagery and aerial data to generate actionable analytics.\nMeanwhile, Matters raised $12 million in Series A funding for its AI-powered data security and risk management platform.\nTaken together, these transactions suggest that investors are backing businesses operating across financial infrastructure, aerospace engineering, satellite-data intelligence and enterprise security rather than concentrating exclusively on conventional consumer technology models.\nRobotics, Jewellery and Digital Asset Management\nThe seed-stage deals offer a separate perspective on the range of businesses finding early investor support.\nBengaluru-based Cosine Robots raised $2.4 million in a round led by Avaana Capital. The company manufactures high-precision robotic actuators and hardware for automation.\nThe investment is notable for the presence of industrial hardware in a week otherwise dominated by larger fintech and technology transactions.\nUnlike software-led businesses, robotics manufacturers also need to develop physical products and hardware capabilities.\nGurugram-based Zavya, an internet-first precious jewellery brand, secured $2.5 million in seed round.\nMumbai-based Umber raised $2 million from angel investor Nimesh Vora. The company provides digital asset management services for remote file hosting.\nTwo other companies raised seed funding without disclosing the amounts.\nDelhi-based CYRAN, which develops hardware and software AI solutions for geospatial technology and education, secured funds from Singularity AMC.\nPune-based IYNS Tech Solutions also raised an undisclosed seed round. The company is developing modular nuclear reactors and thermal-hydraulic simulation software, with Speciale Invest, Navam Cap",
+      "text_status": "ok"
+    },
+    {
+      "id": "e98168e5d837",
+      "title": "Sony spin-off Altair raises $100M to mass-produce a 5G modem for wearables",
+      "publisher": "MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUEZROG5CaU5abF9MMDNBcy1qbmVrNm5XeXExa0k5TndfUlVaRm13ZG83S3RtZU1pcU85NUlGSXhWOFFxMlZnLVFLV3NMNmNwenJEXzA2RzA0ME5aaktIZ2J3ejVIZTFKYkk2ZEkxeEQyZmFXUXJXRGZHTnRBbFpyVDkxRnRTSWczQmZaRnpwV0VtOVlqMlZHTnZn?oc=5",
+      "published_at": "2026-11-26T19:39:14.000Z",
+      "publisher_url": "https://mlq.ai",
+      "snippet": "Sony spin-off Altair raises $100M to mass-produce a 5G modem for wearables MLQ.ai",
+      "source_feed": "gnews-3",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100M"
+      },
+      "company_guess": "Sony spin-off Altair",
+      "group_key": "sony spin off altair",
+      "group_rank": 0,
+      "resolved_url": "https://mlq.ai/news/sony-spin-off-altair-raises-100m-to-mass-produce-a-5g-modem-for-wearables/",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "1613e1c0e058",
+      "title": "Israeli chipmaker Altair raises $100 million to connect the next generation of AI devices",
+      "publisher": "CTech",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12bldreE1tekVTeW1lM00tUE1kUzRTcUFiSHdkWExiVkNCcHozLVg0VndTNENqUUxDVXozRW5sNVlvZlFjbHh1YmFPMWpacTVKcGlqd0dtNGFMX0FhaVJIcURfamhXT1k?oc=5",
+      "published_at": "2026-11-26T15:34:00.000Z",
+      "publisher_url": "https://www.calcalistech.com",
+      "snippet": "Israeli chipmaker Altair raises $100 million to connect the next generation of AI devices CTech",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 100000000,
+        "currency": "USD",
+        "raw": "$100 million"
+      },
+      "company_guess": "Israeli chipmaker Altair",
+      "group_key": "israeli chipmaker altair",
+      "group_rank": 0,
+      "resolved_url": "https://www.calcalistech.com/ctechnews/article/m3h4xzamw",
+      "text": "Mark Nomdar",
+      "text_status": "thin"
+    },
+    {
+      "id": "520b59e9fad2",
+      "title": "INVL Secures €70.6 Million To Start Investing In Central And Eastern European Banks",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/invl-secures-e70-6-million-to-start-investing-in-central-and-eastern-european-banks/",
+      "published_at": "2026-11-26T18:00:42.000Z",
+      "publisher_url": null,
+      "snippet": "INVL Asset Management has secured €70.6 million in commitments at the first close of its European Banking Opportunities Fund, giving it capital to begin investing in banks across Central and Eastern Europe. The fund attracted 41 investors from Lithuania, Latvia and Estonia, and Invalda INVL is committing €10 million. The first close came earlier than planned. INVL is targeting up to €200 million and plans further closes in 2027.\nThe post INVL Secures €70.6 Million To Start Investing In Central And Eastern European Banks appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 70600000,
+        "currency": "EUR",
+        "raw": "€70.6 Million"
+      },
+      "company_guess": "INVL",
+      "group_key": "invl",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/invl-secures-e70-6-million-to-start-investing-in-central-and-eastern-european-banks/",
+      "text": "INVL Secures €70.6 Million To Start Investing In Central And Eastern European Banks\nBy Amit Chowdhry\nToday at 1:00 PM\nINVL Secures €70.6 Million To Start Investing In Central And Eastern European Banks\nINVL Asset Management has secured €70.6 million in commitments at the first close of its European Banking Opportunities Fund, giving it capital to begin investing in banks across Central and Eastern Europe. The fund attracted 41 investors from Lithuania, Latvia and Estonia, and Invalda INVL is committing €10 million. The first close came earlier than planned. INVL is targeting up to €200 million and plans further closes in 2027.\nA Mandate For Controlling And Minority Stakes\nThe closed-end fund will focus on lenders in Central and Eastern European countries that are European Union members or pursuing EU membership. INVL says it will seek out banks where it can help support growth. The fund can acquire controlling or minority stakes and participate in capital increases, allowing it to invest in existing shares or provide fresh equity to a bank.\nThe Bank of Lithuania approved the fund’s rules in October 2026. Individual investments may also require approval from the relevant banking supervisors, depending on the size of the stake and the laws that apply to the transaction.\nBuilding On Existing Regional Banking Investments\nInvalda INVL has operated in the financial sector for more than three decades and already holds stakes in two regional lenders. Together with an INVL fund, it owns more than 14% of maib, Moldova’s largest bank. It is also the largest shareholder in Lithuania’s Artea, with a stake of almost 20%.\nINVL Family Office distributed the fund’s units. Its head, Asta Jovaišienė, said demand from Baltic investors helped bring the first close forward. She expects the next close in 2027 to draw new investors and sees room for some existing investors to increase their commitments.\nKEY QUOTE\n“Baltic investors showed keen interest in the opportunity to take part in private equity transactions in the banking sector, which meant the first close was completed earlier than planned. We believe that the second close in 2027 will attract new investors, and that some existing investors will increase their commitments.”\nAsta Jovaišienė, Head Of INVL Family Office\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "e02f2cc48774",
+      "title": "Latham & Watkins Partner Josh Hamilton Joins Westside Ronald McDonald House Board",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/latham-watkins-partner-josh-hamilton-joins-westside-ronald-mcdonald-house-board/",
+      "published_at": "2026-11-26T16:10:54.000Z",
+      "publisher_url": null,
+      "snippet": "Josh Hamilton, a Latham & Watkins partner and trial lawyer, has been elected to the board of trustees of Ronald McDonald House Westside Los Angeles. The nonprofit is raising $50 million to turn a former boutique hotel in Westwood Village into a four-story, 33,000-square-foot house for families of hospitalized children.\nThe post Latham & Watkins Partner Josh Hamilton Joins Westside Ronald McDonald House Board appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 50000000,
+        "currency": "USD",
+        "raw": "$50 million"
+      },
+      "company_guess": "Latham & Watkins Partner",
+      "group_key": "latham & watkins partner",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/latham-watkins-partner-josh-hamilton-joins-westside-ronald-mcdonald-house-board/",
+      "text": "Latham & Watkins Partner Josh Hamilton Joins Westside Ronald McDonald House Board\nBy Amit Chowdhry\nToday at 11:10 AM\nLatham & Watkins Partner Josh Hamilton Joins Westside Ronald McDonald House Board\nJosh Hamilton, a Latham & Watkins partner and trial lawyer, has been elected to the board of trustees of Ronald McDonald House Westside Los Angeles. The nonprofit is raising $50 million to turn a former boutique hotel in Westwood Village into a four-story, 33,000-square-foot house for families of hospitalized children.\nThe planned facility will provide lodging, meals, laundry facilities and communal spaces at no cost. It will serve families whose children receive treatment at UCLA Children’s Hospital and Cedars-Sinai Guerin Children’s. The Westside house is the seventh in the Southern California chapter.\nHamilton previously co-chaired Latham’s Los Angeles litigation and trial department. His practice covers complex commercial, securities and corporate governance disputes, and he advises companies and their boards on governance and disclosure. He also serves on the board of trustees of Crossroads School for Arts & Sciences and previously served on the boards of the Western Center on Law and Poverty and the Independent School Alliance for Minority Affairs.\nKEY QUOTE\n“Josh’s background, expertise and enthusiastic support of our mission makes him a wonderful addition to our board of trustees. His love for the Los Angeles community and his dedication to support children and their families perfectly aligns with our objective of removing barriers so families of hospitalized children can focus on what matters most: their child.”\nKelly Herman, Executive Director Of Ronald McDonald House Westside Los Angeles\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "be5e4f166649",
+      "title": "Bcomp Secures €20 Million In EIB Venture Debt For Romanian Flax Composite Plant",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/bcomp-secures-e20-million-in-eib-venture-debt-for-romanian-flax-composite-plant/",
+      "published_at": "2026-11-26T16:09:52.000Z",
+      "publisher_url": null,
+      "snippet": "The European Investment Bank is providing €20 million in venture debt to Swiss materials company Bcomp to help build a high-volume manufacturing plant in Timișoara, Romania, and expand research and development in Fribourg, Switzerland.\nThe post Bcomp Secures €20 Million In EIB Venture Debt For Romanian Flax Composite Plant appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "EUR",
+        "raw": "€20 Million"
+      },
+      "company_guess": "Bcomp",
+      "group_key": "bcomp",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/bcomp-secures-e20-million-in-eib-venture-debt-for-romanian-flax-composite-plant/",
+      "text": "Bcomp Secures €20 Million In EIB Venture Debt For Romanian Flax Composite Plant\nBy Amit Chowdhry\nToday at 11:09 AM\nBcomp Secures €20 Million In EIB Venture Debt For Romanian Flax Composite Plant\nThe European Investment Bank is providing €20 million in venture debt to Swiss materials company Bcomp to help build a high-volume manufacturing plant in Timișoara, Romania, and expand research and development in Fribourg, Switzerland.\nThe financing, backed by the European Union’s InvestEU program, supports a €47.6 million investment program planned for 2027 through 2030. Approximately 61% of the investment will take place in Romania’s Vest region, where Bcomp expects the new plant to drive workforce growth.\nBcomp makes lightweight reinforcement materials primarily from flax fibers. Its products are designed as alternatives to conventional carbon fiber, glass fiber and plastics in applications including automotive parts, motorsport and recreational equipment. The Romanian facility will increase manufacturing capacity while Bcomp continues to develop its materials and manufacturing processes in Switzerland.\nKEY QUOTES\n“Europe needs to turn technological innovation into industrial production if we are to strengthen our competitiveness and accelerate the green transition. By supporting Bcomp in Romania and Switzerland, we are helping European innovation reach industrial scale and unlock new opportunities for sustainable growth.”\nIoannis Tsakiris, Vice President Of The European Investment Bank\n“Scaling up our natural fibre composites production is an important step towards making these materials available to more manufacturers and applications, while supporting the EU’s transition towards a circular economy. The EIB’s support will allow us to expand production and continue investing in R&D, strengthening our ability to serve industrial customers and accelerating the adoption of our high-performance natural fibre materials.”\nChristian Fischer, Chief Executive Officer Of Bcomp\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "c9ead90f4fa3",
+      "title": "Boden AI raises $15M Series B for AI data infrastructure",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLTZGUFVTNW5Nc1FqMGlJQlFtZVBwakNFY3NmYjVOVldCSkNqLUhjVFB6Rmo2bWQyc2lld1o2Wk5MMEdEMHdmX0lzNklIazROSHdsc0lPanU0Tk5OQnE4cU9iNU9jZ2VHSDFnUGk1Mm05NkpBWTZJTm5PWFVIekhIODhORXA4YWFlRWtvSTBlTS1DSzg?oc=5",
+      "published_at": "2026-11-26T14:27:26.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Boden AI raises $15M Series B for AI data infrastructure Dealroom",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 15000000,
+        "currency": "USD",
+        "raw": "$15M"
+      },
+      "company_guess": "Boden AI",
+      "group_key": "boden",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/boden-ai-raises-15m-series-b-for-ai-data-infrastructure",
+      "text_status": "blocked:403"
+    }
+  ]
+}
