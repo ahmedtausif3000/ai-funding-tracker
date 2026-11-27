@@ -1,7 +1,176 @@
 {
  "version": 1,
- "updated_at": "2026-11-26T23:07:40.472Z",
+ "updated_at": "2026-11-27T14:08:09.633Z",
  "rounds": [
+  {
+   "id": "f2c722dbc5",
+   "group_key": "china shenhua",
+   "candidate_ids": [
+    "6bc5ae536d3f"
+   ],
+   "website": null,
+   "amount_usd": 860000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.95,
+   "source_urls": [
+    "https://m.economictimes.com/markets/us-stocks/wall-street-guide/china-shenhua-raises-860-million-in-hong-kong-share-sale-to-repay-debt/articleshow/136213111.cms"
+   ],
+   "exclude_reason": "public-company",
+   "company": "China Shenhua Energy",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-27",
+   "ai_ml_rationale": "Coal producer, listed company.",
+   "description": "Coal producer; Hong Kong share sale.",
+   "hq_country": "CN",
+   "evidence": {
+    "amount": "$860 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "transaction_name": "Other - China Shenhua Energy",
+   "first_seen_run": "2026-11-27",
+   "runs": [
+    "2026-11-27"
+   ],
+   "created_at": "2026-11-27T14:08:09.601Z",
+   "updated_at": "2026-11-27T14:08:09.601Z",
+   "in_view": false
+  },
+  {
+   "id": "f48cc011b5",
+   "group_key": "evoken",
+   "candidate_ids": [
+    "a19c50950aac"
+   ],
+   "website": null,
+   "amount_usd": 200000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.6,
+   "source_urls": [
+    "https://www.kucoin.com/news/flash/ai-creative-platform-evoken-secures-200m-in-new-funding-valuation-rises-to-3-2b"
+   ],
+   "exclude_reason": null,
+   "company": "Evoken",
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-27",
+   "ai_ml_rationale": "AI creative platforms Liblib, Lovart, LibTV.",
+   "description": "Parent of AI creative platforms Liblib, Lovart and LibTV.",
+   "hq_country": "CN",
+   "evidence": {
+    "amount": "nearly $200 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "transaction_name": "Venture - Unspecified - Evoken",
+   "first_seen_run": "2026-11-27",
+   "runs": [
+    "2026-11-27"
+   ],
+   "created_at": "2026-11-27T14:08:09.605Z",
+   "updated_at": "2026-11-27T14:08:09.605Z",
+   "in_view": false
+  },
+  {
+   "id": "e77c89d08d",
+   "group_key": "photonicx",
+   "candidate_ids": [
+    "6c6de9c7d347"
+   ],
+   "website": null,
+   "amount_usd": 21800000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Suzhou",
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.6,
+   "source_urls": [
+    "https://app.dealroom.co/news/note/photonicx-ai-raises-21-8m-series-a-for-optical-chips-at-266m-valuation",
+    "https://pitchbook.com/profiles/company/820234-18"
+   ],
+   "exclude_reason": null,
+   "company": "PhotonicX AI",
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-27",
+   "ai_ml_rationale": "Optical chips for AI.",
+   "description": "Optical chip developer for AI workloads.",
+   "hq_country": "CN",
+   "evidence": {
+    "amount": "$21.8M Series A",
+    "round": "Series A",
+    "lead": null,
+    "investors": null
+   },
+   "transaction_name": "Series A - PhotonicX AI",
+   "first_seen_run": "2026-11-27",
+   "runs": [
+    "2026-11-27"
+   ],
+   "created_at": "2026-11-27T14:08:09.612Z",
+   "updated_at": "2026-11-27T14:08:09.612Z",
+   "in_view": false
+  },
+  {
+   "id": "024860a593",
+   "group_key": "trudoc",
+   "candidate_ids": [
+    "f0b9b223ae39"
+   ],
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Dubai",
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.7,
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/trudoc-names-dr-tarek-turk-md-phd-as-chief-executive-officer-to-continue-leading-its-rapid-multinational-growth-302951600.html"
+   ],
+   "exclude_reason": null,
+   "company": "TruDoc Healthcare",
+   "round_type": "Other",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-27",
+   "ai_ml_rationale": "No AI claim in text.",
+   "description": "Virtual-first healthcare provider in UAE and Saudi Arabia.",
+   "hq_country": "AE",
+   "evidence": {
+    "amount": "$15 million Pre-Series B funding round",
+    "round": "Pre-Series B",
+    "lead": null,
+    "investors": null
+   },
+   "transaction_name": "Other - TruDoc Healthcare",
+   "first_seen_run": "2026-11-27",
+   "runs": [
+    "2026-11-27"
+   ],
+   "created_at": "2026-11-27T14:08:09.617Z",
+   "updated_at": "2026-11-27T14:08:09.617Z",
+   "in_view": false
+  },
   {
    "id": "07f82d4d7b",
    "website": null,
@@ -223,12 +392,17 @@
    "website": null,
    "amount_disclosed": true,
    "currency_note": null,
-   "lead_investors": [],
-   "investors": [],
+   "lead_investors": [
+    "Maverick Silicon"
+   ],
+   "investors": [
+    "Maverick Silicon",
+    "Pitango"
+   ],
    "hq_city": null,
    "hq_state": null,
-   "is_ai_ml": false,
-   "confidence": 0.7,
+   "is_ai_ml": true,
+   "confidence": 0.8,
    "round_type": "Series A",
    "stage_bucket": "Early Stage Venture",
    "exclude_reason": null,
@@ -247,20 +421,23 @@
    "amount_usd": 100000000,
    "announced_date": "2026-11-26",
    "hq_country": "IL",
-   "ai_ml_rationale": "Low-power 5G modems for AI wearables; no AI claim about product itself.",
+   "ai_ml_rationale": "Chips connecting AI wearables to cloud AI services; borderline.",
    "description": "Sony spin-off chipmaker building low-power 5G/LTE modems for wearables and AI glasses.",
    "ev": "Israeli chipmaker Altair raises $100 million",
    "source_urls": [
     "https://www.calcalistech.com/ctechnews/article/m3h4xzamw",
-    "https://mlq.ai/news/sony-spin-off-altair-raises-100m-to-mass-produce-a-5g-modem-for-wearables/"
+    "https://mlq.ai/news/sony-spin-off-altair-raises-100m-to-mass-produce-a-5g-modem-for-wearables/",
+    "https://www.asiabusinessoutlook.com/news/israeli-chipmaker-altair-raises-100m-in-series-a-funding-round-nwid-12859.html",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxONmhad0JiOUxlM3dkT181aHFnWlp6U2JKN0FKZG1TbU1iQWpOOVRLa0phVG81cXExX1E3N3FYYzZGT1dZeXBxUmFxQ3hwMlpmbS1rSFRUQ1VWanAwYWJQajBzbjU1VG52THJIbUpWYTV2SVJOdXdOYTF2cHJSVWF4UGNSZk9IYVUzb2RuR3AxWVpLSC1neWk2cDB3bUxyQQ?oc=5"
    ],
    "transaction_name": "Series A - Altair Semiconductor",
    "first_seen_run": "2026-11-26-2127",
    "runs": [
-    "2026-11-26-2127"
+    "2026-11-26-2127",
+    "2026-11-27"
    ],
    "created_at": "2026-11-26T23:07:40.454Z",
-   "updated_at": "2026-11-26T23:07:40.457Z",
+   "updated_at": "2026-11-27T14:08:09.606Z",
    "in_view": false
   },
   {
@@ -349,6 +526,54 @@
    "in_view": false
   },
   {
+   "id": "5f80660be7",
+   "group_key": "scapia",
+   "candidate_ids": [
+    "bb9902482321"
+   ],
+   "website": null,
+   "amount_usd": 63000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "General Catalyst"
+   ],
+   "investors": [
+    "General Catalyst",
+    "Peak XV Partners",
+    "Z47"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.75,
+   "source_urls": [
+    "https://safariindia.com/scapia-secures-63-million-funding/"
+   ],
+   "exclude_reason": null,
+   "company": "Scapia",
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-26",
+   "ai_ml_rationale": "Travel fintech developing AI-powered products.",
+   "description": "Travel-focused fintech and credit card platform for Indian travellers.",
+   "hq_country": "IN",
+   "evidence": {
+    "amount": "$63 million",
+    "round": "funding round",
+    "lead": "led by General Catalyst",
+    "investors": "led by General Catalyst , with participation from existing investors Peak XV Partners and Z47"
+   },
+   "transaction_name": "Venture - Unspecified - Scapia",
+   "first_seen_run": "2026-11-27",
+   "runs": [
+    "2026-11-27"
+   ],
+   "created_at": "2026-11-27T14:08:09.609Z",
+   "updated_at": "2026-11-27T14:08:09.609Z",
+   "in_view": false
+  },
+  {
    "id": "99db93df81",
    "website": null,
    "amount_disclosed": true,
@@ -389,6 +614,48 @@
    ],
    "created_at": "2026-11-26T23:07:40.461Z",
    "updated_at": "2026-11-26T23:07:40.461Z",
+   "in_view": false
+  },
+  {
+   "id": "f4ea50a3a0",
+   "group_key": "atlantic growth pilot",
+   "candidate_ids": [
+    "e38144a5332a"
+   ],
+   "website": null,
+   "amount_usd": 50000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.95,
+   "source_urls": [
+    "https://wisevoter.com/world/ca/nb/2026/11/26/atlantic-growth-capital-pilot-launches-new-brunswick"
+   ],
+   "exclude_reason": "not-funding",
+   "company": "Atlantic Growth Capital Pilot (ACOA)",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-26",
+   "ai_ml_rationale": "Government program.",
+   "description": "Canadian federal $50M repayable capital pilot.",
+   "hq_country": "CA",
+   "evidence": {
+    "amount": "$50 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "transaction_name": "Other - Atlantic Growth Capital Pilot (ACOA)",
+   "first_seen_run": "2026-11-27",
+   "runs": [
+    "2026-11-27"
+   ],
+   "created_at": "2026-11-27T14:08:09.621Z",
+   "updated_at": "2026-11-27T14:08:09.621Z",
    "in_view": false
   },
   {
@@ -882,51 +1149,6 @@
    ],
    "created_at": "2026-11-26T14:08:27.975Z",
    "updated_at": "2026-11-26T14:08:27.975Z",
-   "in_view": false
-  },
-  {
-   "id": "0b63957a41",
-   "website": "elevenlabs.io",
-   "amount_usd": null,
-   "amount_disclosed": false,
-   "currency_note": null,
-   "round_type": "Venture - Unspecified",
-   "stage_bucket": "Other",
-   "lead_investors": [],
-   "investors": [],
-   "hq_city": null,
-   "hq_state": null,
-   "hq_country": "US",
-   "is_ai_ml": true,
-   "ai_ml_rationale": "Builds AI voice models and agents.",
-   "confidence": 0.5,
-   "exclude_reason": "not-funding",
-   "group_key": "elevenlabs in early talks",
-   "candidate_ids": [
-    "cfaa98e88bcc",
-    "6ebbfd036270",
-    "075f01ae17fc"
-   ],
-   "company": "ElevenLabs",
-   "announced_date": "2026-11-26",
-   "description": "AI voice models and agents; only early talks reported at $33B valuation, no round closed.",
-   "evidence": {
-    "amount": "target valuation of $33 billion",
-    "round": null,
-    "lead": null,
-    "investors": null
-   },
-   "source_urls": [
-    "https://m.economictimes.com/tech/artificial-intelligence/elevenlabs-in-early-talks-for-funding-at-33-billion-valuation/articleshow/136177198.cms",
-    "https://techfundingnews.com/report-elevenlabs-in-early-talks-to-raise-at-33b-valuation-as-annualised-revenue-hits-700m/"
-   ],
-   "transaction_name": "Venture - Unspecified - ElevenLabs",
-   "first_seen_run": "2026-11-26",
-   "runs": [
-    "2026-11-26"
-   ],
-   "created_at": "2026-11-26T14:08:27.979Z",
-   "updated_at": "2026-11-26T14:08:27.979Z",
    "in_view": false
   },
   {
@@ -1549,6 +1771,48 @@
    "in_view": false
   },
   {
+   "id": "fba3748830",
+   "group_key": "hunt capital",
+   "candidate_ids": [
+    "7c471371d77b"
+   ],
+   "website": null,
+   "amount_usd": 22000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Denton",
+   "hq_state": "TX",
+   "is_ai_ml": false,
+   "confidence": 0.95,
+   "source_urls": [
+    "https://www.citybiz.co/article/938782/hunt-capital-partners-and-partners-close-financing-for-22-million-denton-supportive-housing-development/"
+   ],
+   "exclude_reason": "not-funding",
+   "company": "McAdams Haven (Hunt Capital Partners)",
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-25",
+   "ai_ml_rationale": "Housing development financing.",
+   "description": "Supportive housing development financing in Denton, Texas.",
+   "hq_country": "US",
+   "evidence": {
+    "amount": "$22 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "transaction_name": "Debt - McAdams Haven (Hunt Capital Partners)",
+   "first_seen_run": "2026-11-27",
+   "runs": [
+    "2026-11-27"
+   ],
+   "created_at": "2026-11-27T14:08:09.625Z",
+   "updated_at": "2026-11-27T14:08:09.625Z",
+   "in_view": false
+  },
+  {
    "id": "d25d8806fb",
    "website": null,
    "amount_disclosed": true,
@@ -1917,6 +2181,53 @@
    "in_view": false
   },
   {
+   "id": "0b63957a41",
+   "website": "elevenlabs.io",
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Other",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Builds AI voice models and agents.",
+   "confidence": 0.7,
+   "exclude_reason": "not-funding",
+   "group_key": "elevenlabs in early talks",
+   "candidate_ids": [
+    "cfaa98e88bcc",
+    "6ebbfd036270",
+    "075f01ae17fc"
+   ],
+   "company": "ElevenLabs",
+   "announced_date": "2026-11-25",
+   "description": "AI voice models and agents; only early talks reported at $33B valuation, no round closed.",
+   "evidence": {
+    "amount": "target valuation of $33 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://m.economictimes.com/tech/artificial-intelligence/elevenlabs-in-early-talks-for-funding-at-33-billion-valuation/articleshow/136177198.cms",
+    "https://techfundingnews.com/report-elevenlabs-in-early-talks-to-raise-at-33b-valuation-as-annualised-revenue-hits-700m/",
+    "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/"
+   ],
+   "transaction_name": "Venture - Unspecified - ElevenLabs",
+   "first_seen_run": "2026-11-26",
+   "runs": [
+    "2026-11-26",
+    "2026-11-27"
+   ],
+   "created_at": "2026-11-26T14:08:27.979Z",
+   "updated_at": "2026-11-27T14:08:09.596Z",
+   "in_view": false
+  },
+  {
    "id": "f9347e3d78",
    "website": null,
    "amount_usd": null,
@@ -2001,6 +2312,48 @@
    ],
    "created_at": "2026-11-26T14:08:28.033Z",
    "updated_at": "2026-11-26T14:08:28.033Z",
+   "in_view": false
+  },
+  {
+   "id": "cf56b53667",
+   "group_key": "omni x",
+   "candidate_ids": [
+    "72207f9c8559"
+   ],
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.4,
+   "source_urls": [
+    "https://finance.yahoo.com/technology/ai/articles/omni-x-emerges-stealth-ai-171600839.html"
+   ],
+   "exclude_reason": "not-funding",
+   "company": "Omni X",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-25",
+   "ai_ml_rationale": "AI against drone threats.",
+   "description": "Stealth-emerging AI company protecting cities and soldiers from drone threats.",
+   "hq_country": "unknown",
+   "evidence": {
+    "amount": "Omni X Emerges From Stealth",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "transaction_name": "Other - Omni X",
+   "first_seen_run": "2026-11-27",
+   "runs": [
+    "2026-11-27"
+   ],
+   "created_at": "2026-11-27T14:08:09.614Z",
+   "updated_at": "2026-11-27T14:08:09.614Z",
    "in_view": false
   },
   {
@@ -3610,7 +3963,8 @@
    "source_urls": [
     "https://www.smartcompany.com.au/startupsmart/adelaide-satellite-maker-myriota-raises-60-million-in-100-days/",
     "https://telconews.com.au/story/myriota-secures-usd-40-million-in-series-c-funding",
-    "https://channellife.com.au/story/myriota-secures-usd-40-million-in-series-c-funding"
+    "https://channellife.com.au/story/myriota-secures-usd-40-million-in-series-c-funding",
+    "https://www.smartcompany.com.au/startupsmart/eight-aussie-startups-that-raised-111-2-million-this-week/"
    ],
    "group_key": "myriota",
    "company": "Myriota",
@@ -3620,10 +3974,11 @@
    "runs": [
     "2026-11-23-2350",
     "catchup-2026-11-25_2026-11-25-2138",
-    "2026-11-26"
+    "2026-11-26",
+    "2026-11-27"
    ],
    "created_at": "2026-11-24T14:10:45.449Z",
-   "updated_at": "2026-11-26T14:08:28.016Z",
+   "updated_at": "2026-11-27T14:08:09.610Z",
    "in_view": false,
    "alt_amounts": [
     40000000
@@ -63432,5 +63787,5 @@
    "in_view": true
   }
  ],
- "last_run": "2026-11-26-2127"
+ "last_run": "2026-11-27"
 }

@@ -1,0 +1,218 @@
+{
+ "run_date": "2026-11-27",
+ "extractor": "claude-code routine",
+ "notes": "Techloy regional roundups (Africa/ME, Asia, LatAm) are paywalled and all non-US; not extracted. Evoken amount from LatePost via KuCoin.",
+ "rows": [
+  {
+   "group_key": "voice",
+   "candidate_ids": [
+    "e43a76e1e262"
+   ],
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.7,
+   "source_urls": [
+    "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/"
+   ],
+   "exclude_reason": "not-funding",
+   "company": "ElevenLabs",
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-25",
+   "ai_ml_rationale": "Builds AI audio models.",
+   "description": "Voice AI developer of speech, transcription and music models.",
+   "hq_country": "unknown",
+   "evidence": {
+    "amount": "seeking new funding at $33B valuation",
+    "round": null,
+    "lead": null,
+    "investors": null
+   }
+  },
+  {
+   "group_key": "china shenhua",
+   "candidate_ids": [
+    "6bc5ae536d3f"
+   ],
+   "website": null,
+   "amount_usd": 860000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.95,
+   "source_urls": [
+    "https://m.economictimes.com/markets/us-stocks/wall-street-guide/china-shenhua-raises-860-million-in-hong-kong-share-sale-to-repay-debt/articleshow/136213111.cms"
+   ],
+   "exclude_reason": "public-company",
+   "company": "China Shenhua Energy",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-27",
+   "ai_ml_rationale": "Coal producer, listed company.",
+   "description": "Coal producer; Hong Kong share sale.",
+   "hq_country": "CN",
+   "evidence": {
+    "amount": "$860 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   }
+  },
+  {
+   "group_key": "evoken",
+   "candidate_ids": [
+    "a19c50950aac"
+   ],
+   "website": null,
+   "amount_usd": 200000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.6,
+   "source_urls": [
+    "https://www.kucoin.com/news/flash/ai-creative-platform-evoken-secures-200m-in-new-funding-valuation-rises-to-3-2b"
+   ],
+   "exclude_reason": null,
+   "company": "Evoken",
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-27",
+   "ai_ml_rationale": "AI creative platforms Liblib, Lovart, LibTV.",
+   "description": "Parent of AI creative platforms Liblib, Lovart and LibTV.",
+   "hq_country": "CN",
+   "evidence": {
+    "amount": "nearly $200 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   }
+  },
+  {
+   "group_key": "israeli chipmaker altair",
+   "candidate_ids": [
+    "278c509b474c",
+    "d7196905bc4c"
+   ],
+   "website": null,
+   "amount_usd": 100000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "Maverick Silicon"
+   ],
+   "investors": [
+    "Maverick Silicon",
+    "Pitango"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.8,
+   "source_urls": [
+    "https://www.asiabusinessoutlook.com/news/israeli-chipmaker-altair-raises-100m-in-series-a-funding-round-nwid-12859.html",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxONmhad0JiOUxlM3dkT181aHFnWlp6U2JKN0FKZG1TbU1iQWpOOVRLa0phVG81cXExX1E3N3FYYzZGT1dZeXBxUmFxQ3hwMlpmbS1rSFRUQ1VWanAwYWJQajBzbjU1VG52THJIbUpWYTV2SVJOdXdOYTF2cHJSVWF4UGNSZk9IYVUzb2RuR3AxWVpLSC1neWk2cDB3bUxyQQ?oc=5"
+   ],
+   "exclude_reason": null,
+   "company": "Altair Semiconductor",
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-26",
+   "ai_ml_rationale": "Chips connecting AI wearables to cloud AI services; borderline.",
+   "description": "Israeli fabless chipmaker developing low-power modems for smart glasses and wearables.",
+   "hq_country": "IL",
+   "evidence": {
+    "amount": "$100 million in a Series A funding round",
+    "round": "Series A funding round",
+    "lead": "The investment was led by Maverick Silicon",
+    "investors": "led by Maverick Silicon , the semiconductor investment arm of Maverick Capital, with participation from Israeli venture capital firm Pitango"
+   }
+  },
+  {
+   "group_key": "scapia",
+   "candidate_ids": [
+    "bb9902482321"
+   ],
+   "website": null,
+   "amount_usd": 63000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [
+    "General Catalyst"
+   ],
+   "investors": [
+    "General Catalyst",
+    "Peak XV Partners",
+    "Z47"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.75,
+   "source_urls": [
+    "https://safariindia.com/scapia-secures-63-million-funding/"
+   ],
+   "exclude_reason": null,
+   "company": "Scapia",
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-26",
+   "ai_ml_rationale": "Travel fintech developing AI-powered products.",
+   "description": "Travel-focused fintech and credit card platform for Indian travellers.",
+   "hq_country": "IN",
+   "evidence": {
+    "amount": "$63 million",
+    "round": "funding round",
+    "lead": "led by General Catalyst",
+    "investors": "led by General Catalyst , with participation from existing investors Peak XV Partners and Z47"
+   }
+  },
+  {
+   "group_key": "eight aussie startups that",
+   "candidate_ids": [
+    "b4823233e25f"
+   ],
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": "AUD 60M per SmartCompany, not converted",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Adelaide",
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.5,
+   "source_urls": [
+    "https://www.smartcompany.com.au/startupsmart/eight-aussie-startups-that-raised-111-2-million-this-week/"
+   ],
+   "exclude_reason": null,
+   "company": "Myriota",
+   "round_type": "Series C",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-27",
+   "ai_ml_rationale": "Satellite IoT; no AI claim.",
+   "description": "Adelaide satellite IoT startup.",
+   "hq_country": "AU",
+   "evidence": {
+    "amount": "$60 million",
+    "round": "Series C",
+    "lead": null,
+    "investors": null
+   }
+  }
+ ]
+}

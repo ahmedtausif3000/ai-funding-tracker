@@ -1,0 +1,173 @@
+{
+ "run_date": "2026-11-27",
+ "extractor": "claude-code routine",
+ "notes": "Skipped non-rounds/sub-$15M: Musk satellites, Discovery Bank, Aeon ($2M), Chinese AI centers, Dealroom items blocked. Kin item is a 2019 round re-surfaced.",
+ "rows": [
+  {
+   "group_key": "photonicx",
+   "candidate_ids": [
+    "6c6de9c7d347"
+   ],
+   "website": null,
+   "amount_usd": 21800000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Suzhou",
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.6,
+   "source_urls": [
+    "https://app.dealroom.co/news/note/photonicx-ai-raises-21-8m-series-a-for-optical-chips-at-266m-valuation",
+    "https://pitchbook.com/profiles/company/820234-18"
+   ],
+   "exclude_reason": null,
+   "company": "PhotonicX AI",
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-27",
+   "ai_ml_rationale": "Optical chips for AI.",
+   "description": "Optical chip developer for AI workloads.",
+   "hq_country": "CN",
+   "evidence": {
+    "amount": "$21.8M Series A",
+    "round": "Series A",
+    "lead": null,
+    "investors": null
+   }
+  },
+  {
+   "group_key": "omni x",
+   "candidate_ids": [
+    "72207f9c8559"
+   ],
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": true,
+   "confidence": 0.4,
+   "source_urls": [
+    "https://finance.yahoo.com/technology/ai/articles/omni-x-emerges-stealth-ai-171600839.html"
+   ],
+   "exclude_reason": "not-funding",
+   "company": "Omni X",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-25",
+   "ai_ml_rationale": "AI against drone threats.",
+   "description": "Stealth-emerging AI company protecting cities and soldiers from drone threats.",
+   "hq_country": "unknown",
+   "evidence": {
+    "amount": "Omni X Emerges From Stealth",
+    "round": null,
+    "lead": null,
+    "investors": null
+   }
+  },
+  {
+   "group_key": "trudoc",
+   "candidate_ids": [
+    "f0b9b223ae39"
+   ],
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Dubai",
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.7,
+   "source_urls": [
+    "https://www.prnewswire.com/news-releases/trudoc-names-dr-tarek-turk-md-phd-as-chief-executive-officer-to-continue-leading-its-rapid-multinational-growth-302951600.html"
+   ],
+   "exclude_reason": null,
+   "company": "TruDoc Healthcare",
+   "round_type": "Other",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-27",
+   "ai_ml_rationale": "No AI claim in text.",
+   "description": "Virtual-first healthcare provider in UAE and Saudi Arabia.",
+   "hq_country": "AE",
+   "evidence": {
+    "amount": "$15 million Pre-Series B funding round",
+    "round": "Pre-Series B",
+    "lead": null,
+    "investors": null
+   }
+  },
+  {
+   "group_key": "atlantic growth pilot",
+   "candidate_ids": [
+    "e38144a5332a"
+   ],
+   "website": null,
+   "amount_usd": 50000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "is_ai_ml": false,
+   "confidence": 0.95,
+   "source_urls": [
+    "https://wisevoter.com/world/ca/nb/2026/11/26/atlantic-growth-capital-pilot-launches-new-brunswick"
+   ],
+   "exclude_reason": "not-funding",
+   "company": "Atlantic Growth Capital Pilot (ACOA)",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-26",
+   "ai_ml_rationale": "Government program.",
+   "description": "Canadian federal $50M repayable capital pilot.",
+   "hq_country": "CA",
+   "evidence": {
+    "amount": "$50 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   }
+  },
+  {
+   "group_key": "hunt capital",
+   "candidate_ids": [
+    "7c471371d77b"
+   ],
+   "website": null,
+   "amount_usd": 22000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Denton",
+   "hq_state": "TX",
+   "is_ai_ml": false,
+   "confidence": 0.95,
+   "source_urls": [
+    "https://www.citybiz.co/article/938782/hunt-capital-partners-and-partners-close-financing-for-22-million-denton-supportive-housing-development/"
+   ],
+   "exclude_reason": "not-funding",
+   "company": "McAdams Haven (Hunt Capital Partners)",
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-25",
+   "ai_ml_rationale": "Housing development financing.",
+   "description": "Supportive housing development financing in Denton, Texas.",
+   "hq_country": "US",
+   "evidence": {
+    "amount": "$22 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   }
+  }
+ ]
+}
