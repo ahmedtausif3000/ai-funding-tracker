@@ -1,0 +1,613 @@
+{
+ "run_date": "2026-11-27-2113",
+ "extractor": "parallel agents",
+ "notes": "[extracted.part-01.json] Mostly non-startup/non-US items; no web lookups needed (all below threshold, non-US or non-funding).\n[extracted.part-02.json] Mostly non-startup/non-US items; no web lookups needed (all below threshold, non-US or non-funding).",
+ "rows": [
+  {
+   "group_key": "boeing",
+   "candidate_ids": [
+    "2e285a0500e5"
+   ],
+   "company": "Boeing",
+   "website": null,
+   "amount_usd": 2820000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-27",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Seattle",
+   "hq_state": "WA",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "US Air Force contract modification for 15 KC-46A tankers.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$2.82 billion U.S. Air Force contract modification",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/boeing-receives-2-82-billion-air-force-modification-for-15-kc-46a-tankers/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "rtxs pratt & whitney",
+   "candidate_ids": [
+    "f9e24169c88a"
+   ],
+   "company": "Pratt & Whitney",
+   "website": null,
+   "amount_usd": 2530000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-27",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "East Hartford",
+   "hq_state": "CT",
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "US Navy F135 engine sustainment contract action.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$2.53 billion U.S. Navy contract action",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/rtxs-pratt-whitney-receives-2-53-billion-navy-action-for-f-35-engine-su"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "group_key": "vinci takes majority stake",
+   "candidate_ids": [
+    "abbb008c1796"
+   ],
+   "company": "LISEA",
+   "website": null,
+   "amount_usd": 2290000000,
+   "amount_disclosed": true,
+   "currency_note": "EUR 2.1B equity valuation converted at ~1.09; stake purchase, not a funding round",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-27",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "FR",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "Concession holder of the France South Europe Atlantic high-speed rail line.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "€2.1 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/vinci-takes-majority-stake-in-lisea-at-e2-1-billion-valuation/"
+   ],
+   "exclude_reason": "acquisition"
+  },
+  {
+   "group_key": "northrop grumman",
+   "candidate_ids": [
+    "4980297d788d"
+   ],
+   "company": "Northrop Grumman",
+   "website": null,
+   "amount_usd": 1147000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-27",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "Two US Navy aircraft contract awards.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$1.147 billion",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/northrop-grumman-receives-1-147-billion-across-two-navy-aircraft-awards"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "group_key": "ebrd",
+   "candidate_ids": [
+    "461f3f617ab3"
+   ],
+   "company": "Aqaba-Amman Water Desalination and Conveyance project",
+   "website": null,
+   "amount_usd": 520000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-26",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "JO",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "EBRD loan package for Jordan desalination and water carrier project.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "financing of up to $520 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.londondaily.news/ebrd-announces-up-to-520m-for-jordans-desalination-and-water-"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "ethiopia",
+   "candidate_ids": [
+    "3af30616ee6a"
+   ],
+   "company": "Ethiopia RMNCH Compact",
+   "website": null,
+   "amount_usd": 342400000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Grant",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-26",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "ET",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "Government and donor health financing mobilised for maternal and child health.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "342.4 million US dollars",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://birrmetrics.com/ethiopia-secures-342-4-million-health-financing/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "phinia",
+   "candidate_ids": [
+    "7ed7ec887161"
+   ],
+   "company": "PHINIA",
+   "website": null,
+   "amount_usd": 160000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-27",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "Acquisition of FMP Group Asia-Pacific brake parts business.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "approximately $160 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/phinia-acquires-fmp-groups-asia-pacific-brake-parts-business-in-160-mil"
+   ],
+   "exclude_reason": "acquisition"
+  },
+  {
+   "group_key": "definity financial",
+   "candidate_ids": [
+    "baa3aebe5304"
+   ],
+   "company": "Definity Financial",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-27",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CA",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "Canadian P&C insurer; synergy target news, not funding.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "CAD 125 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.tradingview.com/news/marketbeat:5794bbdcf094b:0-definity-financial-raises-trav"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "group_key": "greeces first life sciences fund",
+   "candidate_ids": [
+    "90ef3e6c8f0d"
+   ],
+   "company": "Greece's first life-sciences fund",
+   "website": null,
+   "amount_usd": 120000000,
+   "amount_disclosed": true,
+   "currency_note": "EUR 111M converted at ~1.08",
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-26",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "GR",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "Life-sciences venture fund close.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "raises €111M",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://app.dealroom.co/news/note/greece-s-first-life-sciences-fund-raises-111m-to-fight-b"
+   ],
+   "exclude_reason": "fund"
+  },
+  {
+   "group_key": "axo metals",
+   "candidate_ids": [
+    "8bed1af81988"
+   ],
+   "company": "Axo Metals",
+   "website": null,
+   "amount_usd": 63250000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-27",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "Mining company bought deal financing.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "$63.25 Million Bought Deal Financing",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.tipranks.com/news/company-announcements/axo-metals-closes-63-25-million-bought-deal-financing"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "group_key": "mayfair gold",
+   "candidate_ids": [
+    "2ab08c258985"
+   ],
+   "company": "Mayfair Gold",
+   "website": null,
+   "amount_usd": 37200000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-26",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CA",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "Gold developer financing for Fenn-Gib project.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "raises $37.2 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://mining.com.au/mayfair-gold-raises-37-2-million-for-fenn-gib/"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "group_key": "capri global",
+   "candidate_ids": [
+    "e924a2fa4853",
+    "eb314840802c"
+   ],
+   "company": "Capri Global",
+   "website": null,
+   "amount_usd": 30000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-26",
+   "lead_investors": [],
+   "investors": [
+    "BlueOrchard Microfinance"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "Indian lender raising bonds from BlueOrchard Microfinance.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "raises $30M in bonds",
+    "round": null,
+    "lead": null,
+    "investors": "BlueOrchard Microfinance"
+   },
+   "source_urls": [
+    "https://yourstory.com/2026/11/capri-global-raises-30-million-in-bonds-from-blueorchard-microfinance"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "salvia bioelectronics",
+   "candidate_ids": [
+    "4d578661b100"
+   ],
+   "company": "Salvia BioElectronics",
+   "website": null,
+   "amount_usd": 27000000,
+   "amount_disclosed": true,
+   "currency_note": "EUR 25M converted at ~1.08",
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-27",
+   "lead_investors": [],
+   "investors": [
+    "European Investment Bank"
+   ],
+   "hq_city": "Eindhoven",
+   "hq_state": null,
+   "hq_country": "NL",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "Clinical-stage migraine neuromodulation implant developer.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "€25 million venture debt agreement",
+    "round": "venture debt",
+    "lead": null,
+    "investors": "European Investment Bank"
+   },
+   "source_urls": [
+    "https://pulse2.com/salvia-bioelectronics-secures-e25-million-from-the-eib-to-advance-its-migraine-implant/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "trudoc promotes dr tarek",
+   "candidate_ids": [
+    "d98d7dcd0215"
+   ],
+   "company": "TruDoc Healthcare",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-27",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Dubai",
+   "hq_state": null,
+   "hq_country": "AE",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "Dubai-based virtual-first healthcare provider.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "$15 million pre-Series B funding round",
+    "round": "pre-Series B",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/trudoc-promotes-dr-tarek-turk-to-ceo/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "ax for the food",
+   "candidate_ids": [
+    "81d318e9e77a"
+   ],
+   "company": "NCredible",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-26",
+   "lead_investors": [],
+   "investors": [
+    "Kakao Ventures",
+    "The Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "KR",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Title describes AX (AI transformation) for food manufacturing.",
+   "description": "Korean AI transformation startup for the food manufacturing industry.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "NCredible Raises Seed Funding",
+    "round": "Seed Funding",
+    "lead": null,
+    "investors": "Kakao Ventures and The Ventures"
+   },
+   "source_urls": [
+    "https://www.asiae.co.kr/en/article/2026112608283353403"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "juuuno group",
+   "candidate_ids": [
+    "187ce47b8c52"
+   ],
+   "company": "Juuuno Group",
+   "website": null,
+   "amount_usd": 2000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-27",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Marketing AI businesses.",
+   "description": "Consumer technology and marketing AI group.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Raises $2 Mn",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.bwdisrupt.com/article/juuuno-group-raises-2-mn-to-expand-consumer-technology-and-marketing-ai-businesses-635585"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "glasgow",
+   "candidate_ids": [
+    "572d456e7c73"
+   ],
+   "company": "Glasgow AI Breakfast",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-27",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "GB",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "Charity fundraising seminar, not funding.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "raises £1,500 for cancer charity",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://securitybrief.co.uk/story/glasgow-ai-breakfast-raises-1-500-for-cancer-charity"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "lupa robotics",
+   "candidate_ids": [
+    "eec9bcbb1446"
+   ],
+   "company": "Lupa Robotics",
+   "website": null,
+   "amount_usd": 1670000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-26",
+   "lead_investors": [
+    "Long Journey Ventures"
+   ],
+   "investors": [
+    "Long Journey Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI models for robot dexterity.",
+   "description": "Trains AI models to transfer human dexterity to robots.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$1.67 million in seed funding",
+    "round": "seed funding",
+    "lead": "The funding round was led by Long Journey Ventures",
+    "investors": "led by Long Journey Ventures"
+   },
+   "source_urls": [
+    "https://innovation-village.com/lupa-robotics-secures-seed-funding-to-train-robots-using-human-hand-movements/"
+   ],
+   "exclude_reason": null
+  }
+ ]
+}

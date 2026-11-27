@@ -1786,3 +1786,21 @@
 {"run":"2026-11-27","action":"inserted","id":"024860a593","company":"TruDoc Healthcare","in_view":false,"exclude_reason":"non-us"}
 {"run":"2026-11-27","action":"inserted","id":"f4ea50a3a0","company":"Atlantic Growth Capital Pilot (ACOA)","in_view":false,"exclude_reason":"not-funding"}
 {"run":"2026-11-27","action":"inserted","id":"fba3748830","company":"McAdams Haven (Hunt Capital Partners)","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-27-2113","action":"inserted","id":"52a652701c","company":"Boeing","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-27-2113","action":"inserted","id":"da67fa93de","company":"Pratt & Whitney","in_view":false,"exclude_reason":"public-company"}
+{"run":"2026-11-27-2113","action":"inserted","id":"6a70688e82","company":"LISEA","in_view":false,"exclude_reason":"acquisition"}
+{"run":"2026-11-27-2113","action":"inserted","id":"f03a1990b7","company":"Northrop Grumman","in_view":false,"exclude_reason":"public-company"}
+{"run":"2026-11-27-2113","action":"inserted","id":"f497040f6e","company":"Aqaba-Amman Water Desalination and Conveyance project","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-27-2113","action":"inserted","id":"7a4802d40b","company":"Ethiopia RMNCH Compact","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-27-2113","action":"inserted","id":"295b9a04cc","company":"PHINIA","in_view":false,"exclude_reason":"acquisition"}
+{"run":"2026-11-27-2113","action":"inserted","id":"01d2274475","company":"Definity Financial","in_view":false,"exclude_reason":"public-company"}
+{"run":"2026-11-27-2113","action":"inserted","id":"5dc87722b4","company":"Greece's first life-sciences fund","in_view":false,"exclude_reason":"fund"}
+{"run":"2026-11-27-2113","action":"inserted","id":"93216b2584","company":"Axo Metals","in_view":false,"exclude_reason":"public-company"}
+{"run":"2026-11-27-2113","action":"inserted","id":"a064fba6d1","company":"Mayfair Gold","in_view":false,"exclude_reason":"public-company"}
+{"run":"2026-11-27-2113","action":"inserted","id":"6f4f564135","company":"Capri Global","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-27-2113","action":"inserted","id":"0ce7669d3c","company":"Salvia BioElectronics","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-27-2113","action":"merged","id":"024860a593","company":"TruDoc Healthcare","from":"TruDoc Healthcare"}
+{"run":"2026-11-27-2113","action":"merged","id":"49ce78cd9b","company":"NCredible","from":"NCredible"}
+{"run":"2026-11-27-2113","action":"inserted","id":"f6aa00b1c1","company":"Juuuno Group","in_view":false,"exclude_reason":"non-us"}
+{"run":"2026-11-27-2113","action":"inserted","id":"4ffeeb09e3","company":"Glasgow AI Breakfast","in_view":false,"exclude_reason":"not-funding"}
+{"run":"2026-11-27-2113","action":"inserted","id":"efd2717301","company":"Lupa Robotics","in_view":false,"exclude_reason":"non-us"}

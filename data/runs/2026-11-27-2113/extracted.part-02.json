@@ -1,0 +1,283 @@
+{
+ "run_date": "2026-11-27-2113",
+ "extractor": "claude-code routine",
+ "notes": "Mostly non-startup/non-US items; no web lookups needed (all below threshold, non-US or non-funding).",
+ "rows": [
+  {
+   "group_key": "mayfair gold",
+   "candidate_ids": [
+    "2ab08c258985"
+   ],
+   "company": "Mayfair Gold",
+   "website": null,
+   "amount_usd": 37200000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-26",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "CA",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "Gold developer financing for Fenn-Gib project.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "raises $37.2 million",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://mining.com.au/mayfair-gold-raises-37-2-million-for-fenn-gib/"
+   ],
+   "exclude_reason": "public-company"
+  },
+  {
+   "group_key": "capri global",
+   "candidate_ids": [
+    "e924a2fa4853",
+    "eb314840802c"
+   ],
+   "company": "Capri Global",
+   "website": null,
+   "amount_usd": 30000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-26",
+   "lead_investors": [],
+   "investors": [
+    "BlueOrchard Microfinance"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "IN",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "Indian lender raising bonds from BlueOrchard Microfinance.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "raises $30M in bonds",
+    "round": null,
+    "lead": null,
+    "investors": "BlueOrchard Microfinance"
+   },
+   "source_urls": [
+    "https://yourstory.com/2026/11/capri-global-raises-30-million-in-bonds-from-blueorchard-microfinance"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "salvia bioelectronics",
+   "candidate_ids": [
+    "4d578661b100"
+   ],
+   "company": "Salvia BioElectronics",
+   "website": null,
+   "amount_usd": 27000000,
+   "amount_disclosed": true,
+   "currency_note": "EUR 25M converted at ~1.08",
+   "round_type": "Debt",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-27",
+   "lead_investors": [],
+   "investors": [
+    "European Investment Bank"
+   ],
+   "hq_city": "Eindhoven",
+   "hq_state": null,
+   "hq_country": "NL",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "Clinical-stage migraine neuromodulation implant developer.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "€25 million venture debt agreement",
+    "round": "venture debt",
+    "lead": null,
+    "investors": "European Investment Bank"
+   },
+   "source_urls": [
+    "https://pulse2.com/salvia-bioelectronics-secures-e25-million-from-the-eib-to-advance-its-migraine-implant/"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "trudoc promotes dr tarek",
+   "candidate_ids": [
+    "d98d7dcd0215"
+   ],
+   "company": "TruDoc Healthcare",
+   "website": null,
+   "amount_usd": 15000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-27",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "Dubai",
+   "hq_state": null,
+   "hq_country": "AE",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "Dubai-based virtual-first healthcare provider.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "$15 million pre-Series B funding round",
+    "round": "pre-Series B",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://pulse2.com/trudoc-promotes-dr-tarek-turk-to-ceo/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "ax for the food",
+   "candidate_ids": [
+    "81d318e9e77a"
+   ],
+   "company": "NCredible",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-26",
+   "lead_investors": [],
+   "investors": [
+    "Kakao Ventures",
+    "The Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "KR",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Title describes AX (AI transformation) for food manufacturing.",
+   "description": "Korean AI transformation startup for the food manufacturing industry.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "NCredible Raises Seed Funding",
+    "round": "Seed Funding",
+    "lead": null,
+    "investors": "Kakao Ventures and The Ventures"
+   },
+   "source_urls": [
+    "https://www.asiae.co.kr/en/article/2026112608283353403"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "juuuno group",
+   "candidate_ids": [
+    "187ce47b8c52"
+   ],
+   "company": "Juuuno Group",
+   "website": null,
+   "amount_usd": 2000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-27",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Marketing AI businesses.",
+   "description": "Consumer technology and marketing AI group.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "Raises $2 Mn",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://www.bwdisrupt.com/article/juuuno-group-raises-2-mn-to-expand-consumer-technology-and-marketing-ai-businesses-635585"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "glasgow",
+   "candidate_ids": [
+    "572d456e7c73"
+   ],
+   "company": "Glasgow AI Breakfast",
+   "website": null,
+   "amount_usd": null,
+   "amount_disclosed": false,
+   "currency_note": null,
+   "round_type": "Other",
+   "stage_bucket": "Other",
+   "announced_date": "2026-11-27",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "GB",
+   "is_ai_ml": false,
+   "ai_ml_rationale": "No AI/ML claim in the article.",
+   "description": "Charity fundraising seminar, not funding.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "raises £1,500 for cancer charity",
+    "round": null,
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://securitybrief.co.uk/story/glasgow-ai-breakfast-raises-1-500-for-cancer-charity"
+   ],
+   "exclude_reason": "not-funding"
+  },
+  {
+   "group_key": "lupa robotics",
+   "candidate_ids": [
+    "eec9bcbb1446"
+   ],
+   "company": "Lupa Robotics",
+   "website": null,
+   "amount_usd": 1670000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Seed",
+   "stage_bucket": "Seed",
+   "announced_date": "2026-11-26",
+   "lead_investors": [
+    "Long Journey Ventures"
+   ],
+   "investors": [
+    "Long Journey Ventures"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "unknown",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "AI models for robot dexterity.",
+   "description": "Trains AI models to transfer human dexterity to robots.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "$1.67 million in seed funding",
+    "round": "seed funding",
+    "lead": "The funding round was led by Long Journey Ventures",
+    "investors": "led by Long Journey Ventures"
+   },
+   "source_urls": [
+    "https://innovation-village.com/lupa-robotics-secures-seed-funding-to-train-robots-using-human-hand-movements/"
+   ],
+   "exclude_reason": null
+  }
+ ]
+}
