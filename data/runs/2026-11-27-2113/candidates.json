@@ -1,0 +1,709 @@
+{
+  "run_date": "2026-11-27-2113",
+  "generated_at": "2026-11-27T21:14:30.868Z",
+  "window_days": 2,
+  "range": null,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 200,
+        "items": 38
+      },
+      {
+        "id": "gnews-2",
+        "status": 200,
+        "items": 57
+      },
+      {
+        "id": "gnews-3",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-4",
+        "status": 200,
+        "items": 65
+      },
+      {
+        "id": "gnews-5",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-6",
+        "status": 200,
+        "items": 59
+      },
+      {
+        "id": "gnews-7",
+        "status": 200,
+        "items": 32
+      },
+      {
+        "id": "gnews-8",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "gnews-g1",
+        "status": 200,
+        "items": 23
+      },
+      {
+        "id": "gnews-g2",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "gnews-g3",
+        "status": 200,
+        "items": 18
+      },
+      {
+        "id": "gnews-g4",
+        "status": 200,
+        "items": 41
+      },
+      {
+        "id": "gnews-g5",
+        "status": 200,
+        "items": 55
+      },
+      {
+        "id": "gnews-g6",
+        "status": 200,
+        "items": 55
+      },
+      {
+        "id": "gnews-g7",
+        "status": 200,
+        "items": 56
+      },
+      {
+        "id": "gnews-g8",
+        "status": 200,
+        "items": 26
+      },
+      {
+        "id": "gnews-g9",
+        "status": 200,
+        "items": 28
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "pulse2",
+        "status": 200,
+        "items": 120
+      },
+      {
+        "id": "citybiz",
+        "status": 200,
+        "items": 0
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 795,
+    "prefiltered": 84,
+    "dropped": {
+      "not_funding": 203,
+      "no_ai_hint": 128,
+      "below_min": 176,
+      "fund_close": 12,
+      "seen": 118,
+      "duplicate_link": 70,
+      "known_round": 65,
+      "noise": 4
+    },
+    "groups": 62,
+    "selected_groups": 18,
+    "candidates": 19,
+    "articles_fetched": 15,
+    "google_rate_limited": false
+  },
+  "groups": [
+    {
+      "key": "boeing",
+      "company_guess": "Boeing",
+      "amount_hint_usd": 2820000000,
+      "candidate_ids": [
+        "2e285a0500e5"
+      ]
+    },
+    {
+      "key": "rtxs pratt & whitney",
+      "company_guess": "RTX’s Pratt & Whitney",
+      "amount_hint_usd": 2530000000,
+      "candidate_ids": [
+        "f9e24169c88a"
+      ]
+    },
+    {
+      "key": "vinci takes majority stake",
+      "company_guess": "VINCI Takes Majority Stake",
+      "amount_hint_usd": 2100000000,
+      "candidate_ids": [
+        "abbb008c1796"
+      ]
+    },
+    {
+      "key": "northrop grumman",
+      "company_guess": "Northrop Grumman",
+      "amount_hint_usd": 1147000000,
+      "candidate_ids": [
+        "4980297d788d"
+      ]
+    },
+    {
+      "key": "ebrd",
+      "company_guess": "EBRD",
+      "amount_hint_usd": 520000000,
+      "candidate_ids": [
+        "461f3f617ab3"
+      ]
+    },
+    {
+      "key": "ethiopia",
+      "company_guess": "Ethiopia",
+      "amount_hint_usd": 342400000,
+      "candidate_ids": [
+        "3af30616ee6a"
+      ]
+    },
+    {
+      "key": "phinia",
+      "company_guess": "PHINIA",
+      "amount_hint_usd": 160000000,
+      "candidate_ids": [
+        "7ed7ec887161"
+      ]
+    },
+    {
+      "key": "definity financial",
+      "company_guess": "Definity Financial",
+      "amount_hint_usd": 125000000,
+      "candidate_ids": [
+        "baa3aebe5304"
+      ]
+    },
+    {
+      "key": "greeces first life sciences fund",
+      "company_guess": "Greece's first life-sciences fund",
+      "amount_hint_usd": 111000000,
+      "candidate_ids": [
+        "90ef3e6c8f0d"
+      ]
+    },
+    {
+      "key": "axo metals",
+      "company_guess": "Axo Metals",
+      "amount_hint_usd": 63250000,
+      "candidate_ids": [
+        "8bed1af81988"
+      ]
+    },
+    {
+      "key": "mayfair gold",
+      "company_guess": "Mayfair Gold",
+      "amount_hint_usd": 37200000,
+      "candidate_ids": [
+        "2ab08c258985"
+      ]
+    },
+    {
+      "key": "capri global",
+      "company_guess": "Capri Global",
+      "amount_hint_usd": 30000000,
+      "candidate_ids": [
+        "e924a2fa4853",
+        "eb314840802c"
+      ]
+    },
+    {
+      "key": "salvia bioelectronics",
+      "company_guess": "Salvia BioElectronics",
+      "amount_hint_usd": 25000000,
+      "candidate_ids": [
+        "4d578661b100"
+      ]
+    },
+    {
+      "key": "trudoc promotes dr tarek",
+      "company_guess": "TruDoc Promotes Dr. Tarek",
+      "amount_hint_usd": 15000000,
+      "candidate_ids": [
+        "d98d7dcd0215"
+      ]
+    },
+    {
+      "key": "ax for the food",
+      "company_guess": "'AX for the Food",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "81d318e9e77a"
+      ]
+    },
+    {
+      "key": "juuuno group",
+      "company_guess": "Juuuno Group",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "187ce47b8c52"
+      ]
+    },
+    {
+      "key": "glasgow",
+      "company_guess": "Glasgow AI",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "572d456e7c73"
+      ]
+    },
+    {
+      "key": "lupa robotics",
+      "company_guess": "Lupa Robotics",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "eec9bcbb1446"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "2e285a0500e5",
+      "title": "Boeing Receives $2.82 Billion Air Force Modification For 15 KC-46A Tankers",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/boeing-receives-2-82-billion-air-force-modification-for-15-kc-46a-tankers/",
+      "published_at": "2026-11-27T19:42:30.000Z",
+      "publisher_url": null,
+      "snippet": "Boeing Defense, Space & Security received a $2.82 billion U.S. Air Force contract modification covering 15 KC-46A Pegasus aerial refueling aircraft. The aircraft are part of Lot 13, a production batch under Boeing’s existing KC-46A contract. The modification also covers G081, subscriptions and licenses.\nThe post Boeing Receives $2.82 Billion Air Force Modification For 15 KC-46A Tankers appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 2820000000,
+        "currency": "USD",
+        "raw": "$2.82 Billion"
+      },
+      "company_guess": "Boeing",
+      "group_key": "boeing",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/boeing-receives-2-82-billion-air-force-modification-for-15-kc-46a-tankers/",
+      "text": "Boeing Receives $2.82 Billion Air Force Modification For 15 KC-46A Tankers\nBy Amit Chowdhry\nToday at 2:42 PM\nBoeing Receives $2.82 Billion Air Force Modification For 15 KC-46A Tankers\nBoeing Defense, Space & Security received a $2.82 billion U.S. Air Force contract modification covering 15 KC-46A Pegasus aerial refueling aircraft. The aircraft are part of Lot 13, a production batch under Boeing’s existing KC-46A contract. The modification also covers G081, subscriptions and licenses.\nThe Air Force obligated the full $2,819,046,560 at award using fiscal 2027 aircraft procurement funds. That amount covers the entire package, including the items awarded alongside the aircraft. The announcement did not break out the cost of the aircraft or the other items, so it provides no standalone price per tanker.\nBoeing will perform the work in Seattle, Washington, with completion expected by June 30, 2030. That date applies to the work covered by the modification. The award announcement did not provide a delivery schedule for individual aircraft or identify the units that will receive them.\nThe KC-46A Pegasus is an aerial refueling aircraft that allows other aircraft to take on fuel in flight. Lot 13 adds another batch to the Air Force’s acquisition of the tanker. The fiscal 2027 funding identifies the appropriation used for the award, while the June 2030 completion date reflects the work schedule.\nThe Air Force identified FA8625-11-C-6600 as the existing contract being modified and assigned FA8609-27-C-B002 to the action for administrative purposes. Both numbers refer to the same $2.82 billion action. The original number identifies the underlying KC-46A contract, and the new number identifies the Lot 13 modification in the award notice.\nThe Air Force Life Cycle Management Center at Wright-Patterson Air Force Base, Ohio, is the contracting activity. Boeing Defense, Space & Security, a division of The Boeing Company, is the contractor responsible for the Seattle work. The announced award value applies specifically to the 15-aircraft production lot and its accompanying items, and the notice did not give a new cumulative value for the underlying KC-46A contract.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "f9e24169c88a",
+      "title": "RTX’s Pratt & Whitney Receives $2.53 Billion Navy Action For F-35 Engine Sustainment",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/rtxs-pratt-whitney-receives-2-53-billion-navy-action-for-f-35-engine-sustainment/",
+      "published_at": "2026-11-27T19:40:02.000Z",
+      "publisher_url": null,
+      "snippet": "RTX's Pratt & Whitney received a $2.53 billion U.S. Navy contract action to sustain the F135 engines that power F-35 Lightning II aircraft. The award covers maintenance and repair at operating units and depots, as well as services and spare parts for U.S. military branches, international program partners and Foreign Military Sales customers.\nThe post RTX’s Pratt & Whitney Receives $2.53 Billion Navy Action For F-35 Engine Sustainment appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 2530000000,
+        "currency": "USD",
+        "raw": "$2.53 Billion"
+      },
+      "company_guess": "RTX’s Pratt & Whitney",
+      "group_key": "rtxs pratt & whitney",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/rtxs-pratt-whitney-receives-2-53-billion-navy-action-for-f-35-engine-sustainment/",
+      "text": "RTX’s Pratt & Whitney Receives $2.53 Billion Navy Action For F-35 Engine Sustainment\nBy Amit Chowdhry\nToday at 2:40 PM\nRTX’s Pratt & Whitney Receives $2.53 Billion Navy Action For F-35 Engine Sustainment\nRTX’s Pratt & Whitney received a $2.53 billion U.S. Navy contract action to sustain the F135 engines that power F-35 Lightning II aircraft. The award covers maintenance and repair at operating units and depots, as well as services and spare parts for U.S. military branches, international program partners and Foreign Military Sales customers.\nThe work includes engineering, logistics, software sustainment and technical data updates. Pratt & Whitney will also provide training, manage support equipment and supply replenishment spare parts. The Navy expects the work to conclude in November 2027.\nThe Navy identified $436.67 million in funding to be obligated at award, about 17% of the announced contract action value. Fiscal 2027 operations and maintenance accounts will provide $147.49 million from the Air Force, $33.91 million from the Navy and $80.46 million from the Marine Corps. F-35 cooperative program partners will provide $99.43 million, and Foreign Military Sales funds will account for another $75.38 million.\nEast Hartford, Connecticut, accounts for the largest share of the work at 40%, followed by Oklahoma City at 21% and Indianapolis at 12%. Together, the three sites account for 73% of the effort. Additional U.S. work will take place in West Palm Beach, Florida, Windsor Locks, Connecticut, and Fort Worth, Texas. Overseas work will take place in Norway, the Netherlands, Japan, Australia, Italy and the United Kingdom.\nThe Navy issued the award as an undefinitized contract action, which allows work to begin while the parties finalize contract terms. The contract contains cost-plus-fixed-fee, cost-plus-incentive-fee, cost and fixed-price-incentive-fee line items. Those arrangements allow the Navy to apply different payment and incentive terms to different portions of the sustainment work.\nThe Navy issued the action without competition. Naval Air Systems Command at Patuxent River, Maryland, is the contracting activity. The contract number is N0001926C0112.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "abbb008c1796",
+      "title": "VINCI Takes Majority Stake In LISEA At €2.1 Billion Valuation",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/vinci-takes-majority-stake-in-lisea-at-e2-1-billion-valuation/",
+      "published_at": "2026-11-27T19:38:45.000Z",
+      "publisher_url": null,
+      "snippet": "VINCI Concessions has acquired an additional 8% stake in LISEA, raising its ownership to 50.04% and making it the majority shareholder in the company that holds the concession for France’s South Europe Atlantic high-speed rail line. The acquisition follows Caisse des Dépôts et Consignations’ decision to sell its stake.\nThe post VINCI Takes Majority Stake In LISEA At €2.1 Billion Valuation appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 2100000000,
+        "currency": "EUR",
+        "raw": "€2.1 Billion"
+      },
+      "company_guess": "VINCI Takes Majority Stake",
+      "group_key": "vinci takes majority stake",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/vinci-takes-majority-stake-in-lisea-at-e2-1-billion-valuation/",
+      "text": "VINCI Takes Majority Stake In LISEA At €2.1 Billion Valuation\nBy Amit Chowdhry\nToday at 2:38 PM\nVINCI Takes Majority Stake In LISEA At €2.1 Billion Valuation\nVINCI Concessions has acquired an additional 8% stake in LISEA, raising its ownership to 50.04% and making it the majority shareholder in the company that holds the concession for France’s South Europe Atlantic high-speed rail line. The acquisition follows Caisse des Dépôts et Consignations’ decision to sell its stake.\nThe transaction values all of LISEA’s equity at €2.1 billion. VINCI said it will continue to account for its stake under the equity method, which records its share of LISEA’s earnings without consolidating the concessionaire’s results line by line.\nLISEA Builds Maintenance Capacity For New Rail Operators\nMore than 175 million passenger journeys have been made on the line since it opened in July 2017. VINCI sees room for growth as France opens its rail services market to greater competition. For LISEA, that means preparing to serve new train operators, including providing a place to maintain and store their fleets.\nLISEA has begun construction on what VINCI describes as France’s first independent train maintenance and stabling facility. The site is in Marcheprime, near Bordeaux, and is scheduled for completion at the end of 2027. It will service and store rail operator Velvet’s new trainsets starting in 2028. The facility will give new operators access to a depot for work and storage between passenger services.\nVINCI Expects Limited Impact From Potential Tax Increase\nVINCI said a potential increase in France’s tax on the operation of long-distance transport infrastructure would have a limited impact on the concession. The increase is under consideration as part of France’s 2027 finance bill.\nThe additional stake gives VINCI Concessions a narrow majority in an operating rail asset as LISEA builds the depot for new operators. The ownership change and the depot project are separate developments, with the new facility expected to begin supporting Velvet the year after construction is scheduled to finish.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "4980297d788d",
+      "title": "Northrop Grumman Receives $1.147 Billion Across Two Navy Aircraft Awards",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/northrop-grumman-receives-1-147-billion-across-two-navy-aircraft-awards/",
+      "published_at": "2026-11-27T19:33:31.000Z",
+      "publisher_url": null,
+      "snippet": "Northrop Grumman Systems received two U.S. Navy contract actions with a combined announced value of $1.147 billion. The larger award funds development work for the E-130J strategic communications aircraft, while a separate order provides technical support for E-2C and E-2D aircraft operated by international customers.\nThe post Northrop Grumman Receives $1.147 Billion Across Two Navy Aircraft Awards appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 1147000000,
+        "currency": "USD",
+        "raw": "$1.147 Billion"
+      },
+      "company_guess": "Northrop Grumman",
+      "group_key": "northrop grumman",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/northrop-grumman-receives-1-147-billion-across-two-navy-aircraft-awards/",
+      "text": "Northrop Grumman Receives $1.147 Billion Across Two Navy Aircraft Awards\nBy Amit Chowdhry\nToday at 2:33 PM\nNorthrop Grumman Receives $1.147 Billion Across Two Navy Aircraft Awards\nNorthrop Grumman Systems received two U.S. Navy contract actions with a combined announced value of $1.147 billion. The larger award funds development work for the E-130J strategic communications aircraft, while a separate order provides technical support for E-2C and E-2D aircraft operated by international customers.\nThe $1.130 billion cost-plus-incentive-fee modification exercises options for Northrop Grumman to design, develop and deliver three E-130J system demonstration test articles and initial spare parts. The work supports the program’s engineering and manufacturing development phase. The E-130J will use government-furnished C-130J-30 aircraft to modernize the Navy’s Take Charge and Move Out strategic communications mission.\nThe Navy will initially obligate $4.18 million for the E-130J work from fiscal 2027 research, development, test and evaluation funds. Melbourne, Florida, accounts for 35% of the work, followed by Marietta, Georgia, at 23% and Richardson, Texas, at 15%. Those three locations account for 73% of the effort. The Navy expects work under the modification to conclude in January 2030 and issued it as P00018 under contract N0001925C0130.\nThe separate $16.41 million cost-plus-fixed-fee order covers in-service and technical support for E-2C and E-2D aircraft for Foreign Military Sales customers in France, Japan, Taiwan and Egypt. Its scope covers requirements shared across the aircraft as well as those specific to individual customers. The Navy will obligate approximately $6.65 million in Foreign Military Sales funds at award.\nNorthrop Grumman will perform about 64% of the E-2 work in Melbourne. The remaining work will take place in Lorient and Cuers, France, Misawa and Tokyo, Japan, Pingtung, Taiwan, and Cairo, Egypt. The Navy expects the support work to continue through October 2033.\nNaval Air Systems Command at Patuxent River, Maryland, is the contracting activity for both actions. Initial funding across the two awards totals approximately $10.83 million. The E-2 support order, N0001927F1065, was issued under basic ordering agreement N0001925G0003.\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "461f3f617ab3",
+      "title": "EBRD announces up to $520m for Jordan’s desalination and water carrier project",
+      "publisher": "London Daily News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXlkUjI3aTlINm1JcVRqZjM0ZkxlcFRvTUJ2emluTzVsamZTcDNKT0F2T0NNcU1VaVJqNWJOYlJTNU5VdlB1eTdNUEpVZXItU3Bjc0Mzc2FEWmpLTEpWeHRqSkFzck5ZekMzRlp0bFdLcEVDY09Yb0xITVg3Q0NJS0hxTUhCdzdPSGM1SF8teVFycXZOSzlDSGFXVDk0Mm1kOW1NYTNaeXN1QQ?oc=5",
+      "published_at": "2026-11-27T17:41:30.000Z",
+      "publisher_url": "https://www.londondaily.news",
+      "snippet": "EBRD announces up to $520m for Jordan’s desalination and water carrier project London Daily News",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 520000000,
+        "currency": "USD",
+        "raw": "$520m"
+      },
+      "company_guess": "EBRD",
+      "group_key": "ebrd",
+      "group_rank": 0,
+      "resolved_url": "https://www.londondaily.news/ebrd-announces-up-to-520m-for-jordans-desalination-and-water-carrier-project/",
+      "text": "Listen to this article\nThe European Bank for Reconstruction and Development has announced financing of up to $520 million for a desalination and water transport project intended to strengthen Jordan’s drinking water supply.\nThe package, announced on 26 November, combines a senior loan of up to $475 million from the bank with a loan of up to $45 million from ILX Fund. It will support the Aqaba-Amman Water Desalination and Conveyance project, also known as the National Water Carrier.\nThe EBRD values the overall scheme at $6.7 billion. Its lending package forms part of a wider $4.5 billion debt financing arrangement involving international financial institutions and local banks, rather than covering the full cost of the project.\nOnce operational, the infrastructure is expected to meet about 40% of Jordan’s municipal water needs and directly benefit approximately 4.3 million people, according to the EBRD. Those figures describe the bank’s expected impact, not water already being delivered.\nDesalination plant and a route to Amman\nThe financing will contribute to a seawater desalination plant in Aqaba with planned annual capacity of 300 million cubic metres. A 438km conveyance system will carry drinking water from the coastal city to Amman.\nThe project also includes a dedicated solar photovoltaic plant with peak generating capacity of 281 megawatts. The EBRD said this would meet about 30% of the scheme’s electricity requirements, integrating renewable energy into the operation without providing all of its power needs.\nThe borrower is the National Carrier Project Company, owned by infrastructure investor Meridiam, Suez International and Jordan’s Social Security Investment Fund. The company signed a 30-year project agreement with the Ministry of Water and Irrigation in January 2025.\nThe EBRD described the scheme as its first water-desalination public-private partnership. The International Finance Corporation, which is also involved in financing the project, said the company would construct, operate and maintain the infrastructure.\nAffordability and pressure on freshwater supplies\nCanada is contributing $30 million and Finland €7 million in concessional financing through the EBRD’s High-Impact Partnership on Climate Action. The bank said these contributions were intended to support affordable water charges for end-users.\nThe announcement does not set out a household tariff or promise a particular reduction in bills. The affordability objective sits alongside the wider aim of creating a more reliable water source and reducing pressure on depleted aquifers.\nThe International Finance Corporation described Jordan as one of the world’s most water-scarce countries. It put annual available water at 61 cubic metres per person, compared with an absolute water scarcity threshold of 500 cubic metres.\nIn its separate announcement on 26 November, the corporation said climate pressures and population growth were adding to the strain on existing supplies. The desalination scheme is intended to address that shortage by bringing a new source of drinking water into the system.\nJordan’s water and irrigation minister, Raed Abu Soud, said the government would work with partners to keep implementation on the approved schedule and meet technical and environmental requirements. He placed the project alongside efforts to improve supply efficiency, reduce water losses and diversify sources.\nInternational lenders and training plans\nOther financing partners named by the EBRD include the European Investment Bank, the International Finance Corporation, the Green Climate Fund and the US International Development Finance Corporation, alongside commercial Jordanian banks.\nThe EBRD also outlined an employment and training programme aimed particularly at women and young people. Planned technical assistance will help develop national skills standards and courses for priority roles in the water sector.\nThe bank’s president, Odile Renaud-Basso, said the project brought together Jordan’s government, private investors, international financial institutions and donors to address the country’s water security needs. She said it built on the EBRD’s involvement in Jordan’s water sector since 2012.",
+      "text_status": "ok"
+    },
+    {
+      "id": "3af30616ee6a",
+      "title": "Ethiopia Secures $342.4 Million Health Financing as UAE Foundation Expands Africa Investment",
+      "publisher": "Birr Metrics",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HMkxBekd5cGpQd3JWazJsOUp0YVBiNk1ROUlySmxkajZUSnBvcTBFd0k3QnFHRUc2TnZrMWl3dlMyWG9jUUdyQUtSenlOdGY5VVZLVHIybllNMkVGUlhxTXNFd0JWRTQ1eU9FbFc4M0g4NVl5ZUVYVjNCREo?oc=5",
+      "published_at": "2026-11-26T18:46:09.000Z",
+      "publisher_url": "https://birrmetrics.com",
+      "snippet": "Ethiopia Secures $342.4 Million Health Financing as UAE Foundation Expands Africa Investment Birr Metrics",
+      "source_feed": "gnews-g6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 342400000,
+        "currency": "USD",
+        "raw": "$342.4 Million"
+      },
+      "company_guess": "Ethiopia",
+      "group_key": "ethiopia",
+      "group_rank": 0,
+      "resolved_url": "https://birrmetrics.com/ethiopia-secures-342-4-million-health-financing/",
+      "text": "Ethiopia Secures $342.4 Million Health Financing as UAE Foundation Expands Africa Investment\nYared Seyoum\nNovember 26, 2026\nMohamed bin Zayed Foundation’s 20 million US dollars commitment helped mobilise 322.4 US dollars million in additional government and development partner funding, with 120 health facilities set to receive equipment and essential medicines over three years.\nEthiopia has mobilised 342.4 million US dollars to strengthen maternal, newborn and child healthcare services, following a 20 million US dollars commitment from the Mohamed bin Zayed Foundation for Humanity that helped unlock additional financing from the government and development partners.\nThe financing forms part of a broader $135 million investment announced by the UAE-based foundation on November 26, targeting more than 500 health facilities across nine African countries, including Ethiopia, Kenya, Nigeria, Rwanda, Ghana, Liberia, Malawi, Sierra Leone and Mozambique.\nAnnounced at the International Conference on Public Health in Africa (CPHIA) in Addis Ababa, the continental initiative is expected to attract more than 550 million US dollars in additional funding through matching contributions from participating governments and donors.\nEthiopia accounts for a significant share of the programme's announced commitments. The foundation's 20 million US dollars pledge to the country's Reproductive, Maternal, Newborn and Child Health (RMNCH) Compact helped secure a further 151.2 million US dollars from development partners, which was matched by an equivalent contribution from the Ethiopian government.\nThe resulting $342.4 million financing package will support around 120 health facilities over three years, providing essential medicines, medical equipment and technologies aimed at improving maternal and newborn care.\nPlanned investments include artificial intelligence-enabled ultrasound equipment to help healthcare workers identify pregnancy complications, alongside antibiotics to prevent and treat infections, including sepsis.\nThe financing comes as Ethiopia seeks to strengthen access to essential healthcare services and reduce preventable deaths among mothers, newborns and children. The availability of medical supplies and diagnostic equipment remains a constraint across many African health systems, with only 35 percent of essential medicines available in public health facilities and fewer than one-third of facilities equipped to conduct basic diagnostic tests, according to figures cited by the foundation.\nThe programme uses a co-financing model that links donor commitments with government spending, requiring participating governments to contribute at least an equivalent amount to the foundation's investment. The approach is intended to align external financing with national health priorities while increasing domestic funding for essential medical supplies.\nEthiopia's Health Minister Mekdes Daba said the compact would strengthen service delivery, improve the availability of essential medicines and reinforce healthcare services for women, newborns and children.\nShe said the arrangement builds on the government's broader health sector transformation agenda through shared investment and accountability between the government and its development partners.\nThe foundation's wider 135 million US dollars commitment also includes 15 million US dollars for Rwanda, expected to support 170 health facilities and mobilise an additional 40 million US dollars. The investment will cover equipment for managing complications during childbirth, incubators and respiratory support for premature and critically ill newborns.\nIn Liberia, a $10 million commitment, alongside matching donor funding, will support the country's national referral teaching hospital and associated facilities. The programme will finance equipment for complicated births, newborn care and faster diagnosis, as well as clinical training and biomedical engineering expertise to maintain medical equipment.\nThe nine-country initiative is expected to extend access to essential medicines, equipment and medical technologies across more than 500 healthcare facilities, with the foundation's funding designed to attract substantially larger contributions from governments and development partners.\nFor Ethiopia, the $342.4 million compact represents a financing package extending beyond the foundation's initial 20 million US dollars pledge, with implementation expected to cover 120 facilities over the next three years.\nShare:\nMore News\nWhy Africa Still Needs America’s Money to Pay Itself\nLong before Africa had central banks, a trader would take cowry shells harvested hundreds of miles away. The shells were not backed by any institution\nRead More",
+      "text_status": "ok"
+    },
+    {
+      "id": "7ed7ec887161",
+      "title": "PHINIA Acquires FMP Group’s Asia-Pacific Brake Parts Business In $160 Million Deal Expected To Close In 2027",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/phinia-acquires-fmp-groups-asia-pacific-brake-parts-business-in-160-million-deal-expected-to-close-in-2027/",
+      "published_at": "2026-11-27T19:23:28.000Z",
+      "publisher_url": null,
+      "snippet": "PHINIA has agreed to acquire the core operating assets and brand rights of FMP Group’s automotive aftermarket business in Australia, Thailand and Malaysia for approximately $160 million. The deal would expand PHINIA’s brake components portfolio and give it the right to use the Bendix brand in Australia and certain other Asia-Pacific markets.\nThe post PHINIA Acquires FMP Group’s Asia-Pacific Brake Parts Business In $160 Million Deal Expected To Close In 2027 appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 160000000,
+        "currency": "USD",
+        "raw": "$160 Million"
+      },
+      "company_guess": "PHINIA",
+      "group_key": "phinia",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/phinia-acquires-fmp-groups-asia-pacific-brake-parts-business-in-160-million-deal-expected-to-close-in-2027/",
+      "text": "PHINIA Acquires FMP Group’s Asia-Pacific Brake Parts Business In $160 Million Deal Expected To Close In 2027\nBy Amit Chowdhry\nToday at 2:23 PM\nPHINIA Acquires FMP Group’s Asia-Pacific Brake Parts Business In $160 Million Deal Expected To Close In 2027\nPHINIA has agreed to acquire the core operating assets and brand rights of FMP Group’s automotive aftermarket business in Australia, Thailand and Malaysia for approximately $160 million. The deal would expand PHINIA’s brake components portfolio and give it the right to use the Bendix brand in Australia and certain other Asia-Pacific markets.\nBrake Components For A Range Of Vehicle Types\nFMP designs, manufactures and sells brake components for passenger vehicles, commercial vehicles, motorcycles and specialty applications. The acquisition would give PHINIA established relationships with customers in the region and expand its range of products that can be used across different propulsion types.\nThe assets include in-house product development, testing, manufacturing and distribution capabilities. PHINIA expects the addition of FMP’s engineering team to speed up brake product development, support expansion into related categories and help it sell aftermarket products in more markets. The Bendix rights also give PHINIA an established brand among mechanics and distributors in the markets covered by the agreement.\nExpected Financial Contribution And Closing Conditions\nPHINIA expects the acquired operations to contribute approximately $120 million in annual revenue and $23 million in annual adjusted EBITDA. It also expects the deal to increase earnings and plans to fund the purchase with available liquidity.\nUnder the asset purchase agreement, PHINIA will assume specified liabilities associated with the acquired operations. Historical asbestos liabilities and certain other legacy liabilities of the sellers are excluded. The company expects the deal to close in the first half of 2027, subject to regulatory approvals, confirmatory insolvency proceedings and other customary closing conditions.\nPHINIA is headquartered in Auburn Hills, Michigan. Its existing businesses include fuel systems, electrical systems, precision-machined components and aftermarket products. The company employs approximately 13,500 people across more than 40 locations in 21 countries.\nKEY QUOTE :\n“In line with our stated strategy, we continue to be disciplined and focused on acquisitions that strengthen our business at the right price. This transaction meets that standard and is an attractive business acquired at a compelling valuation. This acquisition gives our aftermarket business a strong regional platform, while preserving the financial flexibility to support our other capital allocation priorities. We look forward to welcoming the FMP Group team to PHINIA.”\nBrady Ericson, President And Chief Executive Officer Of PHINIA\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "baa3aebe5304",
+      "title": "Definity Financial Raises Travelers Synergy Target to $125 Million, Eyes Top-Three Spot",
+      "publisher": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYTBfUkJOVUZZS0RIdnNDc2lkZkZOaUtEZGw4MUpuMi1ydWVBaVNrOTVRU3NiS2FtMXRQNFVCakVYTzBoRE55aWxOZnIxNFliM2FQR3FURXhBUm5JczRxVWs0eWNvOGE3ZmpUMk94akRKVkE4cEtNaVV5djEyemZCNTNJbkJmODlvQWowNXA0V0FfWGpyZzZ2eG9BRWFrUGJNYTRydmdCU3UySVZFdzNYSDBTUERCYjhMeU85bnZhUWZlemxSN0c1YzdiSERTaFFldnhzNE1WeUJFdGxNeC1V?oc=5",
+      "published_at": "2026-11-27T08:12:19.000Z",
+      "publisher_url": "https://www.tradingview.com",
+      "snippet": "Definity Financial Raises Travelers Synergy Target to $125 Million, Eyes Top-Three Spot TradingView",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 125000000,
+        "currency": "USD",
+        "raw": "$125 Million"
+      },
+      "company_guess": "Definity Financial",
+      "group_key": "definity financial",
+      "group_rank": 0,
+      "resolved_url": "https://www.tradingview.com/news/marketbeat:5794bbdcf094b:0-definity-financial-raises-travelers-synergy-target-to-125-million-eyes-top-three-spot/",
+      "text": "News\n/ MarketBeat\n/ Definity Financial Raises Travelers Synergy Target to $125 Million, Eyes Top-Three Spot\nDefinity Financial Raises Travelers Synergy Target to $125 Million, Eyes Top-Three Spot\n3 min read\nDefinity Financial (TSE:DFY) is slightly ahead of its long-term growth plan as it integrates its Travelers acquisition and pursues a place among Canada’s top three property and casualty insurers, CEO and President Rowan Saunders said.\nSaunders said Definity has reached its initial goal of becoming a top-five insurer and wants to grow organically at roughly twice the industry rate while using acquisitions to expand further. The company has also maintained its core business performance during the integration, he said.\nTravelers integration and returns\nSaunders described the Travelers acquisition as transformational and said operational progress was slightly ahead of expectations. Definity raised its anticipated synergies from CAD 100 million to CAD 125 million and has already triggered 45% of that amount, he said.\nThe CEO confirmed that shutting down the remaining Travelers systems is the next major integration milestone. He said Definity expects to complete that work by the end of 2027.\nSaunders said the biggest positive surprise was how well Definity’s technology platforms handled the transfer. He said brokers had described it as an unusually smooth acquisition, which helps retain business and realize synergies.\nOne less favorable development was that the acquired portfolio had contracted from approximately CAD 1.6 billion when discussions began to about CAD 1.5 billion when the deal was completed. Saunders said pricing actions taken before closing should earn through over time, although they came with some revenue cost.\nOver the next three to four years, Saunders said he would judge the deal by whether Definity retains and expands its market share and brings the acquired business’s combined ratio, which was roughly 100, down to the low 90s. He said the acquisition is also expected to lift operating return on equity by more than a couple of hundred basis points.\nGrowth and acquisition priorities\nDefinity’s long-term ambition is to reach at least 15% market share, up from approximately 5% a couple of years ago. Saunders said Travelers moved the company a couple of percentage points toward that goal.\nCanada remains the principal focus for acquisitions, he said, because transactions within the market are easier to integrate. Definity would prioritize commercial and specialty insurance, although it would also consider a large acquisition spanning multiple product lines.\nThe company is reducing personal auto’s share of its portfolio, from about 55% before its strategic shift to 41% now, with a further decline into the high 30s envisioned. Saunders said the Travelers acquisition advanced Definity’s commercial capabilities by at least five years, but that there is room to grow in areas including specialty financial lines and ocean marine.\nAfter spending CAD 3.3 billion on Travelers, Definity had CAD 1.2 billion of financial capacity, Saunders said. He added that the company continues to make broker-platform acquisitions and evaluate other opportunities.\nSonnet and insurance market outlook\nSaunders said direct insurer Sonnet has reached a profitable run rate, though its expense ratio remains above target. Definity expects to focus more on reigniting Sonnet’s growth as it enters 2027.\nHe also said the group and affinity business has performed well, accounting for more than 55% of new business. Saunders cited longer customer retention, higher average premiums and cross-selling opportunities among its attractions.\nAcross the broader market, Saunders said Canadian personal auto insurers are closer to charging rates adequate for their costs. He expects industry auto premiums to be flat in 2027 while profits rise, helped by stable costs and Alberta reforms.\nPersonal property pricing should remain firm because insurers retain substantial exposure to natural catastrophes, he said. In commercial insurance, Saunders described large accounts as highly competitive but said smaller business remains stable, with Definity achieving upper-single-digit pricing changes as recently as the last quarter.\nAbout Definity Financial (TSE:DFY)\nDefinity Financial Corporation ('Definity', which includes its subsidiaries where the context so requires) is one of the leading property and casualty insurers in Canada, with approximately $6.4 billion in gross written premiums (pro forma with the Travelers Transaction 1 ) for the 12 months ended June 30, 2026 and $4.2 billion in equity attributable to common shareholders as at June 30, 2026.\nThis instant news alert was generated by narrative science technology and financial data from MarketBeat in order to provide readers with the fastest reporting and unbiased coverage. Please send any questions or comments about this story to contact@marketbeat.com.\nMarketBeat\nRead more from MarketBeat\nCompare charts\nAnalyze on Supercharts\nLatest news\nMore news from MarketBeat",
+      "text_status": "ok"
+    },
+    {
+      "id": "90ef3e6c8f0d",
+      "title": "Greece's first life-sciences fund raises €111M to fight brain drain",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMTA2azFDdGNqVGFWQ3Njak5ncVg2SjNCcVc1M0RGN19RMTJTclJCdDd0ZzkzT1lMRW1CR19sVUNOVHlKUHhrRGFOVE5KUkNhNl9Kd0ItWmstUDZWLUtINFZ0RUdjaWxvak5CeThoUktjVGoyenZaZ2RzSy1ReVp5bzVfUWdqUWdNQ3hEekw1dkJWUXhnbzh5WjQ4Z1A3SmNiWkE?oc=5",
+      "published_at": "2026-11-26T18:03:53.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Greece's first life-sciences fund raises €111M to fight brain drain Dealroom",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 111000000,
+        "currency": "EUR",
+        "raw": "€111M"
+      },
+      "company_guess": "Greece's first life-sciences fund",
+      "group_key": "greeces first life sciences fund",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/greece-s-first-life-sciences-fund-raises-111m-to-fight-brain-drain",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "8bed1af81988",
+      "title": "Axo Metals Closes $63.25 Million Bought Deal Financing",
+      "publisher": "TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVZVd0FMcDM1X0NVelBDYnpGVWNSSk55bzExNG5Qc0lzM183Y0k4d3lsQmFSMl95dkRrN19zYzJ3dTY1eDVlUy1JQ3djRjJnRUd2VGdZcnFnZ2k4MVlxQ0kwU2FEWEZUS3FVNFd5UnR6NU9QXzBfemFWQk1lN3JJLVVXVU1HdWhVb1I4OEwwWlQ4RUNycHVUdGRONG41SWlLeEZnVVctdkI?oc=5",
+      "published_at": "2026-11-27T14:02:27.000Z",
+      "publisher_url": "https://www.tipranks.com",
+      "snippet": "Axo Metals Closes $63.25 Million Bought Deal Financing TipRanks",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 63250000,
+        "currency": "USD",
+        "raw": "$63.25 Million"
+      },
+      "company_guess": "Axo Metals",
+      "group_key": "axo metals",
+      "group_rank": 0,
+      "resolved_url": "https://www.tipranks.com/news/company-announcements/axo-metals-closes-63-25-million-bought-deal-financing",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "2ab08c258985",
+      "title": "Mayfair Gold raises $37.2 million for Fenn-Gib",
+      "publisher": "Mining.com.au",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91bzZKMXNVaHY4X3VCM2FaMElkSTQ3a2hwUktULTRRTmN3UUstYzhvUFYzb2o0VEVQWDcyeHlDSExUVmNJWGxHNmVhejc5RmtUVEk4V1RVYi0xcjUwQkRQTDlveEpHSmZMeFI5Ry1laGFteVJQdEx3?oc=5",
+      "published_at": "2026-11-26T05:37:20.000Z",
+      "publisher_url": "https://mining.com.au",
+      "snippet": "Mayfair Gold raises $37.2 million for Fenn-Gib Mining.com.au",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 37200000,
+        "currency": "USD",
+        "raw": "$37.2 million"
+      },
+      "company_guess": "Mayfair Gold",
+      "group_key": "mayfair gold",
+      "group_rank": 0,
+      "resolved_url": "https://mining.com.au/mayfair-gold-raises-37-2-million-for-fenn-gib/",
+      "text": "",
+      "text_status": "thin"
+    },
+    {
+      "id": "e924a2fa4853",
+      "title": "Capri Global raises $30M in bonds from BlueOrchard Microfinance",
+      "publisher": "YourStory.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjJnU3lWQ3d2NTlOWnlOQzZnY0tDZnIwOVlFaTBaNll4ZE1oQ3AyVHlTUm02NDVPWVdwMm9yS3MxNjhIdURLRWkwSFhaRF91dl9DV3I1WUxXT3FpenhTTnpqUjY5WDBnMTRVaDFXTzVlWFNtN0dSaXBmVmRlbDlkMm5YWHF1R0VkTnppWXBMczRyYVVjRlllR1Z0QmNxcS1G?oc=5",
+      "published_at": "2026-11-26T11:51:13.000Z",
+      "publisher_url": "https://yourstory.com",
+      "snippet": "Capri Global raises $30M in bonds from BlueOrchard Microfinance YourStory.com",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 30000000,
+        "currency": "USD",
+        "raw": "$30M"
+      },
+      "company_guess": "Capri Global",
+      "group_key": "capri global",
+      "group_rank": 0,
+      "resolved_url": "https://yourstory.com/2026/11/capri-global-raises-30-million-in-bonds-from-blueorchard-microfinance",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "eb314840802c",
+      "title": "Capri Global raises US$ 30 million from BlueOrchard Microfinance Fund",
+      "publisher": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLWNySzlHNUg3NmhhS1BoXzNDdW9tUXNIQS1NS1dzSjBFUWMyd1g0Sm5JdFF6RnBRQUZMZFc4OGQzcXlOZDhkQXZDTEkxUURCYVlGMERMZnpSdnhsY210NzdoenhydDJjUmUwMGNkQ3AxRFJQd3gya1A0cmFMNHJWWmdqUk1NREhjLWNwNjh1Zk4za3RMTDFHb0xZZ0hGTUN2eHBhOEdoR1BsVnVUdFlEVTFUWVo0Z3Z0UlgxMDJwbzlBanRGbkE0ZGU1TVN1cmo30gHWAUFVX3lxTE5oSjFETlV5Y19QSmV5TFVRVzZJS2h5NHZGdGJaeXRNSEJXVkVkZ1JPLVBtdFFhSTNLR2FoNktqNTlUcWt2WXF6N0NRSjMtcXZpYk5mSzk2cGZrVXE5WXotMzJiV0RsOHZZZDZaaEZMbHdRaGhldjYwNnpVSThZdGNrWVlVUjdQVEVCY0tlMU5XUElmR09wTXc1TlNsTVcteWlUNkNZZEdzdFUyZGhUOU5xVVg2Mm4yc0EtQjVkNlFmLW9pcWpRaVNJbFB5N3hGSF9kbzlZRlE?oc=5",
+      "published_at": "2026-11-26T05:36:21.000Z",
+      "publisher_url": "https://www.moneycontrol.com",
+      "snippet": "Capri Global raises US$ 30 million from BlueOrchard Microfinance Fund Moneycontrol.com",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 30000000,
+        "currency": "USD",
+        "raw": "US$ 30 million"
+      },
+      "company_guess": "Capri Global",
+      "group_key": "capri global",
+      "group_rank": 1,
+      "text_status": "skipped"
+    },
+    {
+      "id": "4d578661b100",
+      "title": "Salvia BioElectronics Secures €25 Million From The EIB To Advance Its Migraine Implant",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/salvia-bioelectronics-secures-e25-million-from-the-eib-to-advance-its-migraine-implant/",
+      "published_at": "2026-11-27T19:54:43.000Z",
+      "publisher_url": null,
+      "snippet": "Salvia BioElectronics has signed a €25 million venture debt agreement with the European Investment Bank to advance clinical development of MySalvia, an investigational device for people with resistant migraine. The financing is backed by the European Commission’s InvestEU program and will support Salvia’s ongoing clinical work in Europe and the United States.\nThe post Salvia BioElectronics Secures €25 Million From The EIB To Advance Its Migraine Implant appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 25000000,
+        "currency": "EUR",
+        "raw": "€25 Million"
+      },
+      "company_guess": "Salvia BioElectronics",
+      "group_key": "salvia bioelectronics",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/salvia-bioelectronics-secures-e25-million-from-the-eib-to-advance-its-migraine-implant/",
+      "text": "Salvia BioElectronics Secures €25 Million From The EIB To Advance Its Migraine Implant\nBy Amit Chowdhry\nToday at 2:54 PM\nSalvia BioElectronics Secures €25 Million From The EIB To Advance Its Migraine Implant\nSalvia BioElectronics has signed a €25 million venture debt agreement with the European Investment Bank to advance clinical development of MySalvia, an investigational device for people with resistant migraine. The financing is backed by the European Commission’s InvestEU program and will support Salvia’s ongoing clinical work in Europe and the United States.\nSalvia, a clinical-stage medical device company founded in 2017 in Eindhoven, the Netherlands, is developing MySalvia for patients who continue to experience significant disability despite trying multiple preventive treatments. The system pairs two thin implants placed beneath the skin with a small wearable device. It uses targeted electrical stimulation of nerves involved in migraine, with the aim of reducing the frequency and severity of attacks.\nSalvia recently initiated RECLAIM-II, a pivotal U.S. study that will evaluate the system’s safety, effectiveness and durability in adults with resistant migraine. The study is designed to generate evidence that could support future regulatory submissions. MySalvia remains limited to investigational use in the United States and Europe. Separately, Salvia is exploring whether its neuromodulation technology could be used to treat chronic cluster headache.\nThe European Investment Bank is the European Union’s long-term lending institution and is owned by its member states. InvestEU uses an EU budget guarantee to help participating institutions finance projects that support priorities such as innovation and competitiveness. The bank has made more than €36 billion in financing available for Dutch projects across sectors including healthcare, research and development, and infrastructure.\nKEY QUOTES\n“People living with resistant migraine need new options when existing therapies have not provided adequate relief. We believe implantable neuromodulation can become an important new option for migraine care. The agreement with the EIB supports the continued development of MySalvia, our investigational neuromodulation technology designed specifically for the treatment of migraine, and our work toward a potential new option for these patients.”\nHubert Martens, Co-Founder And Chief Executive Officer Of Salvia BioElectronics\n“Salvia is yet another example of cutting-edge European innovation aimed at improving the lives of people, originating in the Netherlands. Living with migraine, a chronic disease that places a substantial burden on patients and families, affects quality of life, education and employment. The EIB Group supports research and development to make sure that innovators have the access to finance they need to grow and thrive in Europe.”\nRobert de Groot, Vice President Of The European Investment Bank\n“Through InvestEU, the European Union is backing innovation that can make a real difference to people living with chronic migraine and cluster headaches. This financing will help advance much-needed solutions in an area of high unmet medical need, while strengthening Europe’s health innovation ecosystem. It will help accelerate the clinical development of an innovative European medical technology aimed at offering new hope to people living with resistant migraine, a condition that continues to cause significant disability despite existing preventive treatments.”\nCecilia Thorfinn, Head Of The Representation Of The European Commission In The Netherlands\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "d98d7dcd0215",
+      "title": "TruDoc Promotes Dr. Tarek Turk To CEO",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/trudoc-promotes-dr-tarek-turk-to-ceo/",
+      "published_at": "2026-11-27T20:00:36.000Z",
+      "publisher_url": null,
+      "snippet": "TruDoc Healthcare has appointed Dr. Tarek Turk as chief executive officer to lead its expansion in the United Arab Emirates, Saudi Arabia and other international markets. The appointment follows a $15 million pre-Series B funding round. The Dubai-based healthcare provider says it has served more than 2.5 million people over 15 years.\nThe post TruDoc Promotes Dr. Tarek Turk To CEO appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 15000000,
+        "currency": "USD",
+        "raw": "$15 million"
+      },
+      "company_guess": "TruDoc Promotes Dr. Tarek",
+      "group_key": "trudoc promotes dr tarek",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/trudoc-promotes-dr-tarek-turk-to-ceo/",
+      "text": "TruDoc Promotes Dr. Tarek Turk To CEO\nBy Amit Chowdhry\nToday at 3:00 PM\nTruDoc Promotes Dr. Tarek Turk To CEO\nTruDoc Healthcare has appointed Dr. Tarek Turk as chief executive officer to lead its expansion in the United Arab Emirates, Saudi Arabia and other international markets. The appointment follows a $15 million pre-Series B funding round. The Dubai-based healthcare provider says it has served more than 2.5 million people over 15 years.\nTurk joined TruDoc in 2022 and has held roles spanning product development, clinical leadership and operations. He served as product owner, chief medical officer, chief medical and operations officer, and chief of staff before becoming CEO.\nAs chief executive, Turk will focus on strengthening relationships with governments, insurers, healthcare institutions and corporate organizations. He will also oversee the continued development of TruDoc’s Super Health App and its virtual-first care model, which combines remote access to care with services delivered in the home.\nThe model spans primary care and chronic disease management, along with home diagnostics, pharmacy services and medical travel. It also includes hospital-at-home services, which bring elements of hospital care into a patient’s home. TruDoc has identified the UAE and Saudi Arabia as priorities for operational expansion, while Turk has said he intends to deepen partnerships across the wider Gulf Cooperation Council.\nTurk brings more than 15 years of international experience in medicine, research and digital health. He earned his medical degree from Damascus University and a PhD from the University of Alberta in Canada. Before joining TruDoc, he served as an adviser to the World Health Organization in Switzerland, a senior research lead at the University of Alberta and medical director at Medicus AI. He also worked as a referee and author for the Cochrane Collaboration in the United Kingdom. TruDoc’s Announcement\nKEY QUOTES\n“Dr. Tarek has been instrumental in shaping TruDoc into the healthcare organization it is today. He is more of a cofounder to this great company.”\nVish Narain, Executive Chairman Of TruDoc\n“I am honored to take on the role of CEO at such an important moment in TruDoc’s journey. My priority is to build on the strong foundation we have established, deepen our partnerships across the GCC, and scale solutions that deliver sustainable improvements in patient outcomes and healthcare accessibility.”\nDr. Tarek Turk, Chief Executive Officer Of TruDoc\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "81d318e9e77a",
+      "title": "'AX for the Food Manufacturing Industry' NCredible Raises Seed Funding from Kakao Ventures and The Ventures",
+      "publisher": "아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wWHFFYjVTUzRIS3JfVTV5bUNqMlA2ZUJlVVFGNmt0NnM5SjNHMndTOUdJdm8ybXhiTjNrbXpoX1BqNktIMVFuU1pFZ0VySk16Q3dpMVpTekRneG84aFU3MENJRVU?oc=5",
+      "published_at": "2026-11-25T23:28:33.000Z",
+      "publisher_url": "https://www.asiae.co.kr",
+      "snippet": "'AX for the Food Manufacturing Industry' NCredible Raises Seed Funding from Kakao Ventures and The Ventures 아시아경제",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "'AX for the Food",
+      "group_key": "ax for the food",
+      "group_rank": 0,
+      "resolved_url": "https://www.asiae.co.kr/en/article/2026112608283353403",
+      "text": "Open Navigation\nStock\nEconomy\nReal estate\nIndustry · IT\nPolitics\nSociety\nWorld\nCulture·Life\nOpinion·Editorial\nVisual-News",
+      "text_status": "thin"
+    },
+    {
+      "id": "187ce47b8c52",
+      "title": "Juuuno Group Raises $2 Mn To Expand Consumer Technology And Marketing AI Businesses",
+      "publisher": "BW Disrupt",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQzlaY2xha0o2ZXY4RG5iajItWHNGamFnOXdPZVpJM3JOTWYzY2tMby10aTB4cE9EQ01fSGVxRWhNb2V5ZzRZS21xaEFFbGVxdjFmNXl5NFNfYVNSSjdUVWRDOFhTa1FiNElKMVQydGVyNWNuR1VTVGR6Z3NHVmluV3U3UGRpSV9tSDEzNkFIc21DNGJXUFR5bUNVYi1vQ1gxMXZpaUFFbThhT1JFZGUzWjZsSG5tS2dLYlJ5aG5DTC0?oc=5",
+      "published_at": "2026-11-27T19:06:20.000Z",
+      "publisher_url": "https://www.bwdisrupt.com",
+      "snippet": "Juuuno Group Raises $2 Mn To Expand Consumer Technology And Marketing AI Businesses BW Disrupt",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Juuuno Group",
+      "group_key": "juuuno group",
+      "group_rank": 0,
+      "resolved_url": "https://www.bwdisrupt.com/article/juuuno-group-raises-2-mn-to-expand-consumer-technology-and-marketing-ai-businesses-635585",
+      "text": "Juuuno Group Raises $2 Mn To Expand Consumer Technology And Marketing AI Businesses\nBW Online Bureau\nNov 28, 2026\n# Funding\n# AI driven marketing solutions\n# JUUUNO Group\n# 2 million USD\n# JUUUNO Group funding\n# consumer technology investment\n# marketing technology ecosystem\n# QuantumQuake app studio\n# Kaaliber marketing\nJUUUNO Group said it plans to expand its technology and AI capabilities, grow QuantumQuake’s application portfolio, develop Kaaliber’s technology and increase Project GrowthX’s client base",
+      "text_status": "ok"
+    },
+    {
+      "id": "572d456e7c73",
+      "title": "Glasgow AI breakfast raises £1,500 for cancer charity",
+      "publisher": "SecurityBrief UK",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWs5UmlLTE9VazNJMnBtc1NQQmlWaXdaZjRFMDd6Z1lTN2V1aFNqTkE3Sk9qUlQ0X0FWak5ZLXJBdC1SQVI4bnhHUVBxVkxyT1NzMkNzX2tacmM5dU0zdVY0aDZ3U1ZIUmE4YXBwcnhlNEF5clExVEx6YWxRSTJsckw3cE5CVkk1LVFhUzZVOA?oc=5",
+      "published_at": "2026-11-27T17:30:09.000Z",
+      "publisher_url": "https://securitybrief.co.uk",
+      "snippet": "Glasgow AI breakfast raises £1,500 for cancer charity SecurityBrief UK",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Glasgow AI",
+      "group_key": "glasgow",
+      "group_rank": 0,
+      "resolved_url": "https://securitybrief.co.uk/story/glasgow-ai-breakfast-raises-1-500-for-cancer-charity",
+      "text": "Digital Transformation\nHCM\nAI\nGlasgow AI breakfast raises £1,500 for cancer charity\nFri, 27th Nov 2026 (Today)\nSOFIAH NICHOLE SALIVIO\nNews Editor\nA business seminar on artificial intelligence in Glasgow has raised &pound;1,500 for Cancer Research UK Ayrshire through the Business Beats Cancer Ayrshire fundraising campaign.\nMore than 50 entrepreneurs, directors and senior decision-makers attended the AI Breakfast, organised by Kathryn Hume of Evolution Partnering and Brian Valentine of PeakRatio. The event brought together business leaders from across Scotland to discuss how artificial intelligence is being used in strategy, recruitment, marketing, finance, people management and cyber security.\nProceeds from the seminar will support Cancer Research UK's work in the prevention, diagnosis and treatment of cancer. Business Beats Cancer Ayrshire is part of the charity's wider national network, which raises money and awareness through the business community.\nPresentations were given by Brian Valentine of PeakRatio, Sandy Dick of Halo GRW, David Charles of Accountants Plus, Alan Fair of Contact, Paul Blair of BC Technologies and HR Director Vic Foster. A later panel session on the use of artificial intelligence in the workplace featured Brian Williamson of Synlata, John Rhodes, Group CIO at Nexos Group, Jo Macsween, a Vistage UK Leadership Coach, and Deborah Rodgers, HR Director at Evolution Partnering.\nDiscussion focused on how companies can move from trial use of artificial intelligence to wider adoption while addressing governance, security and workforce engagement. The aim, organisers said, was to offer practical examples from businesses already using the technology.\nLorna Dempsey, Chair of Business Beats Cancer Ayrshire, welcomed the donation. She has raised more than &pound;1 million for Cancer Research UK during her career.\n\"We are grateful to everyone involved in the AI Breakfast for choosing to support our campaign group, Business Beats Cancer Ayrshire, which exists because local business leaders want to make a tangible difference. It is fantastic to see innovative events like this combining learning, networking and fundraising for such an important cause,\" said Dempsey.\nHume said the organisers wanted to combine business discussion with fundraising.\n\"We set out to create a morning that delivered genuine value to businesses while also supporting a cause that affects so many families and communities,\" she said. \"It was hugely encouraging to see the level of engagement in the room, and we're delighted that together we've been able to raise &pound;1,500 for Cancer Research UK through Business Beats Cancer Ayrshire and support the incredible work being carried out by the charity.\"\nThe breakfast was backed by sponsors including Evolution Partnering, PeakRatio, Accountants Plus, BC Technologies, Blueprint Media, GRW Scout, Jo Macsween Leadership Coaching, Nexos Group, MacKay Corporate Insurance Brokers and Contact. Their support helped stage an event linking a current business topic with charitable fundraising.\nArtificial intelligence is a growing area of interest for companies looking at how tools and systems can be applied in day-to-day operations. Speakers at the Glasgow event drew on their own business experience to outline practical uses rather than engage in theoretical debate.\nValentine said the pace of change in artificial intelligence was a recurring theme throughout the morning's discussions.\n\"One of the clearest messages from the morning was that we're only scratching the surface of AI's potential,\" he said. \"The technology is moving at extraordinary speed and the capabilities available to businesses today are already dramatically different from those of even 12 months ago.\n\"What is becoming increasingly clear is that businesses that embrace AI and learn how to apply it effectively will create significant advantages in productivity, decision-making and growth. Those that choose to ignore it risk finding themselves left behind by competitors who are moving faster and working smarter.\n\"The discussions throughout the event showed there is a real appetite among Scottish business leaders to understand AI, cut through the hype and focus on practical applications that can deliver measurable results.\"\nExplore with AI\nChatGPT\nKey takeaways\nExplain why it matters\nCreate action plan\nFuture watch\nClaude\nKey takeaways\nExplain why it matters\nCreate action plan\nFuture watch\nPerplexity\nKey takeaways\nExplain why it matters\nCreate action plan\nFuture watch\nGrok\nKey takeaways\nExplain why it matters\nCreate action plan\nFuture watch\nShare\nShare\nAdd us as a preferred source on Google\nImage: Supplied\nRelated stories\nAI is rewriting the CIO job description\nVection Technologies posts record FY26 profit on AI growth\nSecurity Journey launches AI training for wider workforce\nSecure Code Warrior launches Citizen AI training programme\nProofpoint names legal & people chiefs for global push\nTop stories\nThe implications of automation and AI for building engineering\nYour first buyer is now a machine, and most UK tech startups are writing for someone else\nEnterprise Tech in 2027: Rising Hardware Costs, Stealth Cyberattacks, and Data Sovereignty Blind Spots\nCybersecurity's burnout problem is about to become a workforce crisis\nThe hidden risk of notification fatigue",
+      "text_status": "ok"
+    },
+    {
+      "id": "eec9bcbb1446",
+      "title": "Lupa Robotics secures seed funding to train robots using human hand movements",
+      "publisher": "Innovation Village",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSEdac3Rxb2t0WU1BQkMtWGtXSEo2UzRzY3VZQzh6eWFXMHZ2SkJmVG16Y2ZmSFRHZS1HODNBd0JVU2JsczA4a1RTVzd1Um9mQi1SOG10MXJyVTVmVTV6aVNYVEZzRGdEOTVlTGtHenNqT0JTOEkxbXlqSDcyb1RGM29Zc0R6ZDFpclZmSWc0NXI5SVJkcTRqc0kzclpzQURtWW1nRnNRNU9DSzlyR2c?oc=5",
+      "published_at": "2026-11-26T09:51:18.000Z",
+      "publisher_url": "https://innovation-village.com",
+      "snippet": "Lupa Robotics secures seed funding to train robots using human hand movements Innovation Village",
+      "source_feed": "gnews-g6",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Lupa Robotics",
+      "group_key": "lupa robotics",
+      "group_rank": 0,
+      "resolved_url": "https://innovation-village.com/lupa-robotics-secures-seed-funding-to-train-robots-using-human-hand-movements/",
+      "text": "Nureldin Mohamed, founder of Lupa Robotics\nLupa Robotics secures seed funding to train robots using human hand movements\n0\nBy\nTapiwa Matthew Mutisi\non\nNovember 26, 2026\nArtificial Intelligence , Funding , Investments , News , Robotics , Startups\nLupa Robotics, a robotics and artificial intelligence startup founded by South African entrepreneur and Harvard University engineering student Nureldin Mohamed , has secured $1.67 million in seed funding to advance the development of AI models designed to teach robots how humans interact with and manipulate physical objects.\nThe funding round was led by Long Journey Ventures, an early-stage venture capital firm whose partners have invested in globally recognized technology companies including Uber, SpaceX, and Crusoe. The round also attracted participation from a number of undisclosed venture capital firms and angel investors.\nThe investment comes at a time when the global robotics industry is accelerating research and commercialization efforts in areas such as automation, humanoid robots, and physical AI systems capable of performing increasingly complex real-world tasks.\nDespite growing interest in robotics, Africa remains significantly behind global averages in industrial robot adoption. According to the African Robotics Network’s (AfROB) State of Robotics in Africa 2026 report , the continent has an average industrial robot density of just 10 robots per 10,000 manufacturing workers. By comparison, data from the International Federation of Robotics (IFR) shows the global average reached 152 robots per 10,000 employees in 2025 .\nRather than focusing on building robot hardware, Lupa Robotics is targeting what it believes is one of the industry’s most significant bottlenecks: enabling robots to understand how to physically interact with the world in a human-like manner.\nThe company plans to use the newly raised capital to expand its engineering team, improve its tactile sensing technology, develop large-scale systems for collecting human manipulation data, and train sophisticated AI models capable of transferring human dexterity to robotic systems.\nExplaining the company’s mission, founder Nureldin Mohamed said:\nWe’re teaching robots human dexterity. We collect data on how humans use their hands, including movement, touch, and force, to train AI models that allow robots to perform complex physical tasks, ideally across different robot designs.\nFounded in 2026, Lupa Robotics is focused on solving a long-standing challenge in robotics known as dexterous manipulation. The problem involves enabling robots to use their fingers and hands with precision when grasping, holding, moving, and manipulating objects while accurately controlling the amount of pressure and the points of contact applied.\nAlthough modern robots can perform repetitive tasks effectively in structured environments such as factories, they often struggle when dealing with unfamiliar objects, changing conditions, or unexpected situations. A robot trained to lift a particular item in a controlled environment may fail when the object’s shape, texture, size, or weight changes.\nMohamed argues that the robotics industry has historically approached dexterity as a hardware challenge, investing heavily in robotic arms, grippers, and mechanical systems. However, he believes the real obstacle is intelligence rather than machinery.\nIt’s primarily an intelligence problem, something good datasets can help solve.\nLupa Robotics’ Approach\nAt the core of Lupa’s technology strategy is a data collection system designed to capture how humans perform physical tasks in the real world.\nThe company is developing specialized sensor-equipped gloves capable of recording detailed information about hand movements, finger positioning, pressure, touch, and force application while people manipulate objects. These gloves are paired with head-mounted cameras that capture tasks from the user’s perspective, creating a synchronized record of both what the person sees and how they physically interact with objects.\nBy combining these two streams of information, Lupa aims to create large-scale datasets that provide robots with a deeper understanding of human manipulation techniques.\nThe resulting training data can then be used to develop AI models that learn not only how an object should be handled but also the appropriate amount of force and contact required to complete a task successfully.\nFor example, when handling a paper cup, Lupa’s system could learn where a robot should place its fingers and how much pressure it should apply to avoid crushing the cup while maintaining a secure grip.\nA key differentiator of the company’s approach is its focus on creating intelligence that can work across different robot designs rather than being tied to a single machine or hardware platform.\nAccording to Mohamed, the AI model would generate predictions about how an object should be manipulated, while individual robots would use their own control systems to translate those instructions into physical movements tailored to their specific hardware.\nEach robot would still need a controller to translate those predictions into movements its hardware can perform. The aim is to share what can be learned about handling an object while accounting for the differences between machines.\nThis hardware-agnostic approach could potentially make Lupa’s technology valuable across a wide range of robotic systems, reducing the need for companies to train separate models for every robot platform.\nCurrent Development Stage\nLupa Robotics remains in the research and development phase, with the company currently prioritizing advancements in three key areas:\nTactile sensing technology\nSynchronized human behavioral data collection\nRobotics learning and model training\nOver the coming months, the startup aims to scale its data collection capabilities, validate the performance of its AI models across multiple robot platforms, and move toward pilot deployments with com",
+      "text_status": "ok"
+    }
+  ]
+}

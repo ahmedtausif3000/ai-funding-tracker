@@ -1,0 +1,170 @@
+{
+ "run_date": "2026-11-27-2113",
+ "part": 2,
+ "groups": [
+  {
+   "group_key": "mayfair gold",
+   "company_guess": "Mayfair Gold",
+   "amount_hint_usd": 37200000,
+   "articles": [
+    {
+     "id": "2ab08c258985",
+     "group_key": "mayfair gold",
+     "title": "Mayfair Gold raises $37.2 million for Fenn-Gib",
+     "publisher": "Mining.com.au",
+     "url": "https://mining.com.au/mayfair-gold-raises-37-2-million-for-fenn-gib/",
+     "published_at": "2026-11-26T05:37:20.000Z",
+     "amount_hint": "$37.2 million",
+     "snippet": "Mayfair Gold raises $37.2 million for Fenn-Gib Mining.com.au",
+     "text_status": "thin",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "capri global",
+   "company_guess": "Capri Global",
+   "amount_hint_usd": 30000000,
+   "articles": [
+    {
+     "id": "e924a2fa4853",
+     "group_key": "capri global",
+     "title": "Capri Global raises $30M in bonds from BlueOrchard Microfinance",
+     "publisher": "YourStory.com",
+     "url": "https://yourstory.com/2026/11/capri-global-raises-30-million-in-bonds-from-blueorchard-microfinance",
+     "published_at": "2026-11-26T11:51:13.000Z",
+     "amount_hint": "$30M",
+     "snippet": "Capri Global raises $30M in bonds from BlueOrchard Microfinance YourStory.com",
+     "text_status": "blocked:403",
+     "text": null
+    },
+    {
+     "id": "eb314840802c",
+     "group_key": "capri global",
+     "title": "Capri Global raises US$ 30 million from BlueOrchard Microfinance Fund",
+     "publisher": "Moneycontrol.com",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLWNySzlHNUg3NmhhS1BoXzNDdW9tUXNIQS1NS1dzSjBFUWMyd1g0Sm5JdFF6RnBRQUZMZFc4OGQzcXlOZDhkQXZDTEkxUURCYVlGMERMZnpSdnhsY210NzdoenhydDJjUmUwMGNkQ3AxRFJQd3gya1A0cmFMNHJWWmdqUk1NREhjLWNwNjh1Zk4za3RMTDFHb0xZZ0hGTUN2eHBhOEdoR1BsVnVUdFlEVTFUWVo0Z3Z0UlgxMDJwbzlBanRGbkE0ZGU1TVN1cmo30gHWAUFVX3lxTE5oSjFETlV5Y19QSmV5TFVRVzZJS2h5NHZGdGJaeXRNSEJXVkVkZ1JPLVBtdFFhSTNLR2FoNktqNTlUcWt2WXF6N0NRSjMtcXZpYk5mSzk2cGZrVXE5WXotMzJiV0RsOHZZZDZaaEZMbHdRaGhldjYwNnpVSThZdGNrWVlVUjdQVEVCY0tlMU5XUElmR09wTXc1TlNsTVcteWlUNkNZZEdzdFUyZGhUOU5xVVg2Mm4yc0EtQjVkNlFmLW9pcWpRaVNJbFB5N3hGSF9kbzlZRlE?oc=5",
+     "published_at": "2026-11-26T05:36:21.000Z",
+     "amount_hint": "US$ 30 million",
+     "snippet": "Capri Global raises US$ 30 million from BlueOrchard Microfinance Fund Moneycontrol.com",
+     "text_status": "skipped",
+     "text": null
+    }
+   ]
+  },
+  {
+   "group_key": "salvia bioelectronics",
+   "company_guess": "Salvia BioElectronics",
+   "amount_hint_usd": 25000000,
+   "articles": [
+    {
+     "id": "4d578661b100",
+     "group_key": "salvia bioelectronics",
+     "title": "Salvia BioElectronics Secures €25 Million From The EIB To Advance Its Migraine Implant",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/salvia-bioelectronics-secures-e25-million-from-the-eib-to-advance-its-migraine-implant/",
+     "published_at": "2026-11-27T19:54:43.000Z",
+     "amount_hint": "€25 Million",
+     "snippet": "Salvia BioElectronics has signed a €25 million venture debt agreement with the European Investment Bank to advance clinical development of MySalvia, an investigational device for people with resistant migraine. The financing is backed by the European Commission’s InvestEU program and will support Salvia’s ongoing clinical work in Europe and the United States.\nThe post Salvia BioElectronics Secures €25 Million From The EIB To Advance Its Migraine Implant appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "Salvia BioElectronics Secures €25 Million From The EIB To Advance Its Migraine Implant\nBy Amit Chowdhry\nToday at 2:54 PM\nSalvia BioElectronics Secures €25 Million From The EIB To Advance Its Migraine Implant\nSalvia BioElectronics has signed a €25 million venture debt agreement with the European Investment Bank to advance clinical development of MySalvia, an investigational device for people with resistant migraine. The financing is backed by the European Commission’s InvestEU program and will support Salvia’s ongoing clinical work in Europe and the United States.\nSalvia, a clinical-stage medical device company founded in 2017 in Eindhoven, the Netherlands, is developing MySalvia for patients who continue to experience significant disability despite trying multiple preventive treatments. The system pairs two thin implants placed beneath the skin with a small wearable device. It uses targeted electrical stimulation of nerves involved in migraine, with the aim of reducing the frequency and severity of attacks.\nSalvia recently initiated RECLAIM-II, a pivotal U.S. study that will evaluate the system’s safety, effectiveness and durability in adults with resistant migraine. The study is designed to generate evidence that could support future regulatory submissions. MySalvia remains limited to investigational use in the United States and Europe. Separately, Salvia is exploring whether its neuromodulation technology could be used to treat chronic cluster headache.\nThe European Investment Bank is the European Union’s long-term lending institution and is owned by its member states. InvestEU uses an EU budget guarantee to help participating institutions finance projects that support priorities such as innovation and competitiveness. The bank has made more than €36 billion in financing available for Dutch projects across sectors including healthcare, research and development, and infrastructure.\nKEY QUOTES\n“People living with resistant migraine need new options when existing therapies have not provided adequate relief. We believe implantable neuromodulation can become an important new option for migraine care. The agreement with the EIB supports the continued development of MySalvia, our investigational neuromodulation technology designed specifically for the treatment of migraine, and our work toward a potential new option for these patients.”\nHubert Martens, Co-Founder And Chief Executive Officer Of Salvia BioElectronics\n“Salvia is yet another example of cutting-edge European innovation aimed at improving the lives of people, originating in the Netherlands. Living with migraine, a chronic disease that places a substantial burden on patients and families, affects quality of life, education and employment. The EIB Group supports research and development to make sure that innovators have the access to finance they need to grow and thrive in Europe.”\nRobert de Groot, Vice President Of The European Investment Bank\n“Through InvestEU, the European Union is backing innovation that can make a real difference to people living with chronic migraine and cluster headaches. This financing will help advance much-needed solutions in an area of high unmet medical need, while strengthening Europe’s health innovation ecosystem. It will help accelerate the clinical development of an innovative European medical technology aimed at offering new hope to people living with resistant migraine, a condition that continues to cause significant disability despite existing pre"
+    }
+   ]
+  },
+  {
+   "group_key": "trudoc promotes dr tarek",
+   "company_guess": "TruDoc Promotes Dr. Tarek",
+   "amount_hint_usd": 15000000,
+   "articles": [
+    {
+     "id": "d98d7dcd0215",
+     "group_key": "trudoc promotes dr tarek",
+     "title": "TruDoc Promotes Dr. Tarek Turk To CEO",
+     "publisher": "Amit Chowdhry",
+     "url": "https://pulse2.com/trudoc-promotes-dr-tarek-turk-to-ceo/",
+     "published_at": "2026-11-27T20:00:36.000Z",
+     "amount_hint": "$15 million",
+     "snippet": "TruDoc Healthcare has appointed Dr. Tarek Turk as chief executive officer to lead its expansion in the United Arab Emirates, Saudi Arabia and other international markets. The appointment follows a $15 million pre-Series B funding round. The Dubai-based healthcare provider says it has served more than 2.5 million people over 15 years.\nThe post TruDoc Promotes Dr. Tarek Turk To CEO appeared first on Pulse 2.0 .",
+     "text_status": "ok",
+     "text": "TruDoc Promotes Dr. Tarek Turk To CEO\nBy Amit Chowdhry\nToday at 3:00 PM\nTruDoc Promotes Dr. Tarek Turk To CEO\nTruDoc Healthcare has appointed Dr. Tarek Turk as chief executive officer to lead its expansion in the United Arab Emirates, Saudi Arabia and other international markets. The appointment follows a $15 million pre-Series B funding round. The Dubai-based healthcare provider says it has served more than 2.5 million people over 15 years.\nTurk joined TruDoc in 2022 and has held roles spanning product development, clinical leadership and operations. He served as product owner, chief medical officer, chief medical and operations officer, and chief of staff before becoming CEO.\nAs chief executive, Turk will focus on strengthening relationships with governments, insurers, healthcare institutions and corporate organizations. He will also oversee the continued development of TruDoc’s Super Health App and its virtual-first care model, which combines remote access to care with services delivered in the home.\nThe model spans primary care and chronic disease management, along with home diagnostics, pharmacy services and medical travel. It also includes hospital-at-home services, which bring elements of hospital care into a patient’s home. TruDoc has identified the UAE and Saudi Arabia as priorities for operational expansion, while Turk has said he intends to deepen partnerships across the wider Gulf Cooperation Council.\nTurk brings more than 15 years of international experience in medicine, research and digital health. He earned his medical degree from Damascus University and a PhD from the University of Alberta in Canada. Before joining TruDoc, he served as an adviser to the World Health Organization in Switzerland, a senior research lead at the University of Alberta and medical director at Medicus AI. He also worked as a referee and author for the Cochrane Collaboration in the United Kingdom. TruDoc’s Announcement\nKEY QUOTES\n“Dr. Tarek has been instrumental in shaping TruDoc into the healthcare organization it is today. He is more of a cofounder to this great company.”\nVish Narain, Executive Chairman Of TruDoc\n“I am honored to take on the role of CEO at such an important moment in TruDoc’s journey. My priority is to build on the strong foundation we have established, deepen our partnerships across the GCC, and scale solutions that deliver sustainable improvements in patient outcomes and healthcare accessibility.”\nDr. Tarek Turk, Chief Executive Officer Of TruDoc\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter."
+    }
+   ]
+  },
+  {
+   "group_key": "ax for the food",
+   "company_guess": "'AX for the Food",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "81d318e9e77a",
+     "group_key": "ax for the food",
+     "title": "'AX for the Food Manufacturing Industry' NCredible Raises Seed Funding from Kakao Ventures and The Ventures",
+     "publisher": "아시아경제",
+     "url": "https://www.asiae.co.kr/en/article/2026112608283353403",
+     "published_at": "2026-11-25T23:28:33.000Z",
+     "amount_hint": null,
+     "snippet": "'AX for the Food Manufacturing Industry' NCredible Raises Seed Funding from Kakao Ventures and The Ventures 아시아경제",
+     "text_status": "thin",
+     "text": "Open Navigation\nStock\nEconomy\nReal estate\nIndustry · IT\nPolitics\nSociety\nWorld\nCulture·Life\nOpinion·Editorial\nVisual-News"
+    }
+   ]
+  },
+  {
+   "group_key": "juuuno group",
+   "company_guess": "Juuuno Group",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "187ce47b8c52",
+     "group_key": "juuuno group",
+     "title": "Juuuno Group Raises $2 Mn To Expand Consumer Technology And Marketing AI Businesses",
+     "publisher": "BW Disrupt",
+     "url": "https://www.bwdisrupt.com/article/juuuno-group-raises-2-mn-to-expand-consumer-technology-and-marketing-ai-businesses-635585",
+     "published_at": "2026-11-27T19:06:20.000Z",
+     "amount_hint": null,
+     "snippet": "Juuuno Group Raises $2 Mn To Expand Consumer Technology And Marketing AI Businesses BW Disrupt",
+     "text_status": "ok",
+     "text": "Juuuno Group Raises $2 Mn To Expand Consumer Technology And Marketing AI Businesses\nBW Online Bureau\nNov 28, 2026\n# Funding\n# AI driven marketing solutions\n# JUUUNO Group\n# 2 million USD\n# JUUUNO Group funding\n# consumer technology investment\n# marketing technology ecosystem\n# QuantumQuake app studio\n# Kaaliber marketing\nJUUUNO Group said it plans to expand its technology and AI capabilities, grow QuantumQuake’s application portfolio, develop Kaaliber’s technology and increase Project GrowthX’s client base"
+    }
+   ]
+  },
+  {
+   "group_key": "glasgow",
+   "company_guess": "Glasgow AI",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "572d456e7c73",
+     "group_key": "glasgow",
+     "title": "Glasgow AI breakfast raises £1,500 for cancer charity",
+     "publisher": "SecurityBrief UK",
+     "url": "https://securitybrief.co.uk/story/glasgow-ai-breakfast-raises-1-500-for-cancer-charity",
+     "published_at": "2026-11-27T17:30:09.000Z",
+     "amount_hint": null,
+     "snippet": "Glasgow AI breakfast raises £1,500 for cancer charity SecurityBrief UK",
+     "text_status": "ok",
+     "text": "Digital Transformation\nHCM\nAI\nGlasgow AI breakfast raises £1,500 for cancer charity\nFri, 27th Nov 2026 (Today)\nSOFIAH NICHOLE SALIVIO\nNews Editor\nA business seminar on artificial intelligence in Glasgow has raised &pound;1,500 for Cancer Research UK Ayrshire through the Business Beats Cancer Ayrshire fundraising campaign.\nMore than 50 entrepreneurs, directors and senior decision-makers attended the AI Breakfast, organised by Kathryn Hume of Evolution Partnering and Brian Valentine of PeakRatio. The event brought together business leaders from across Scotland to discuss how artificial intelligence is being used in strategy, recruitment, marketing, finance, people management and cyber security.\nProceeds from the seminar will support Cancer Research UK's work in the prevention, diagnosis and treatment of cancer. Business Beats Cancer Ayrshire is part of the charity's wider national network, which raises money and awareness through the business community.\nPresentations were given by Brian Valentine of PeakRatio, Sandy Dick of Halo GRW, David Charles of Accountants Plus, Alan Fair of Contact, Paul Blair of BC Technologies and HR Director Vic Foster. A later panel session on the use of artificial intelligence in the workplace featured Brian Williamson of Synlata, John Rhodes, Group CIO at Nexos Group, Jo Macsween, a Vistage UK Leadership Coach, and Deborah Rodgers, HR Director at Evolution Partnering.\nDiscussion focused on how companies can move from trial use of artificial intelligence to wider adoption while addressing governance, security and workforce engagement. The aim, organisers said, was to offer practical examples from businesses already using the technology.\nLorna Dempsey, Chair of Business Beats Cancer Ayrshire, welcomed the donation. She has raised more than &pound;1 million for Cancer Research UK during her career.\n\"We are grateful to everyone involved in the AI Breakfast for choosing to support our campaign group, Business Beats Cancer Ayrshire, which exists because local business leaders want to make a tangible difference. It is fantastic to see innovative events like this combining learning, networking and fundraising for such an important cause,\" said Dempsey.\nHume said the organisers wanted to combine business discussion with fundraising.\n\"We set out to create a morning that delivered genuine value to businesses while also supporting a cause that affects so many families and communities,\" she said. \"It was hugely encouraging to see the level of engagement in the room, and we're delighted that together we've been able to raise &pound;1,500 for Cancer Research UK through Business Beats Cancer Ayrshire and support the incredible work being carried out by the charity.\"\nThe breakfast was backed by sponsors including Evolution Partnering, PeakRatio, Accountants Plus, BC Technologies, Blueprint Media, GRW Scout, Jo Macsween Leadership Coaching, Nexos Group, MacKay Corporate Insurance Brokers and Contact. Their support helped stage an event linking a current business topic with charitable fundraising.\nArtificial intelligence is a growing area of interest for companies looking at how tools and systems can be applied in day-to-day operations. Speakers at the Glasgow event drew on their own business experience to outline practical uses rather than engage in theoretical debate.\nValentine said the pace of change in artificial intelligence was a recurring theme throughout the morning's discussions.\n\"One of the clearest messages from the "
+    }
+   ]
+  },
+  {
+   "group_key": "lupa robotics",
+   "company_guess": "Lupa Robotics",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "eec9bcbb1446",
+     "group_key": "lupa robotics",
+     "title": "Lupa Robotics secures seed funding to train robots using human hand movements",
+     "publisher": "Innovation Village",
+     "url": "https://innovation-village.com/lupa-robotics-secures-seed-funding-to-train-robots-using-human-hand-movements/",
+     "published_at": "2026-11-26T09:51:18.000Z",
+     "amount_hint": null,
+     "snippet": "Lupa Robotics secures seed funding to train robots using human hand movements Innovation Village",
+     "text_status": "ok",
+     "text": "Nureldin Mohamed, founder of Lupa Robotics\nLupa Robotics secures seed funding to train robots using human hand movements\n0\nBy\nTapiwa Matthew Mutisi\non\nNovember 26, 2026\nArtificial Intelligence , Funding , Investments , News , Robotics , Startups\nLupa Robotics, a robotics and artificial intelligence startup founded by South African entrepreneur and Harvard University engineering student Nureldin Mohamed , has secured $1.67 million in seed funding to advance the development of AI models designed to teach robots how humans interact with and manipulate physical objects.\nThe funding round was led by Long Journey Ventures, an early-stage venture capital firm whose partners have invested in globally recognized technology companies including Uber, SpaceX, and Crusoe. The round also attracted participation from a number of undisclosed venture capital firms and angel investors.\nThe investment comes at a time when the global robotics industry is accelerating research and commercialization efforts in areas such as automation, humanoid robots, and physical AI systems capable of performing increasingly complex real-world tasks.\nDespite growing interest in robotics, Africa remains significantly behind global averages in industrial robot adoption. According to the African Robotics Network’s (AfROB) State of Robotics in Africa 2026 report , the continent has an average industrial robot density of just 10 robots per 10,000 manufacturing workers. By comparison, data from the International Federation of Robotics (IFR) shows the global average reached 152 robots per 10,000 employees in 2025 .\nRather than focusing on building robot hardware, Lupa Robotics is targeting what it believes is one of the industry’s most significant bottlenecks: enabling robots to understand how to physically interact with the world in a human-like manner.\nThe company plans to use the newly raised capital to expand its engineering team, improve its tactile sensing technology, develop large-scale systems for collecting human manipulation data, and train sophisticated AI models capable of transferring human dexterity to robotic systems.\nExplaining the company’s mission, founder Nureldin Mohamed said:\nWe’re teaching robots human dexterity. We collect data on how humans use their hands, including movement, touch, and force, to train AI models that allow robots to perform complex physical tasks, ideally across different robot designs.\nFounded in 2026, Lupa Robotics is focused on solving a long-standing challenge in robotics known as dexterous manipulation. The problem involves enabling robots to use their fingers and hands with precision when grasping, holding, moving, and manipulating objects while accurately controlling the amount of pressure and the points of contact applied.\nAlthough modern robots can perform repetitive tasks effectively in structured environments such as factories, they often struggle when dealing with unfamiliar objects, changing conditions, or unexpected situations. A robot trained to lift a particular item in a controlled environment may fail when the object’s shape, texture, size, or weight changes.\nMohamed argues that the robotics industry has historically approached dexterity as a hardware challenge, investing heavily in robotic arms, grippers, and mechanical systems. However, he believes the real obstacle is intelligence rather than machinery.\nIt’s primarily an intelligence problem, something good datasets can help solve.\nLupa Robotics’ Approach\nAt the core "
+    }
+   ]
+  }
+ ]
+}
