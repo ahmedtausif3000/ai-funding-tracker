@@ -1,0 +1,50 @@
+{
+ "run_date": "2026-11-28",
+ "extractor": "claude-code routine",
+ "notes": "Mostly non-funding/debt/fund items. Roundup (Tech.eu) rows for non-US startups (Agon, Bound, Pliant) not emitted.",
+ "rows": [
+  {
+   "group_key": "sierra doubles valuation to",
+   "candidate_ids": [
+    "96f6cbf3a545"
+   ],
+   "company": "Sierra",
+   "website": "sierra.ai",
+   "amount_usd": 1750000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series F",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-27",
+   "lead_investors": [
+    "Greenoaks",
+    "Lightspeed Venture Partners"
+   ],
+   "investors": [
+    "Greenoaks",
+    "Lightspeed Venture Partners",
+    "Benchmark",
+    "Sequoia",
+    "GV",
+    "Tiger Global"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Builds enterprise AI agents for customer experience.",
+   "description": "Enterprise customer experience platform for building AI agents, co-founded by Bret Taylor.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "secured $1.75 billion in a Series F round",
+    "round": "Series F",
+    "lead": "Greenoaks and Lightspeed Venture Partners led the round",
+    "investors": "existing investors including Benchmark, Sequoia, GV and Tiger Global"
+   },
+   "source_urls": [
+    "https://theaiinsider.tech/2026/11/27/sierra-doubles-valuation-to-30b-with-1-75b-series-f-as-enterprise-ai-agent-demand-surges/"
+   ],
+   "exclude_reason": null
+  }
+ ]
+}

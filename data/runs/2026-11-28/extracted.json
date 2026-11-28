@@ -1,0 +1,121 @@
+{
+ "run_date": "2026-11-28",
+ "extractor": "parallel agents",
+ "notes": "[extracted.part-01.json] Mostly non-funding/debt/fund items. Roundup (Tech.eu) rows for non-US startups (Agon, Bound, Pliant) not emitted.\n[extracted.part-02.json] Skipped: Newron (Italy pharma), China Carbon Neutral, AirEdge (CNY 100M, China, via web search), Vector Singularity/Cangchao (China, yuan), Audun (<$15M), non-funding items. Healthleap announced Oct 7 per article; HQ San Francisco per web search (Fierce Healthcare snippet) - moderate confidence.\n[extracted.part-03.json] Starforge (EUR 6.6M) and Future Sequence (undisclosed 'millions USD') below threshold/unclear; no rows.",
+ "rows": [
+  {
+   "group_key": "sierra doubles valuation to",
+   "candidate_ids": [
+    "96f6cbf3a545"
+   ],
+   "company": "Sierra",
+   "website": "sierra.ai",
+   "amount_usd": 1750000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series F",
+   "stage_bucket": "Late Stage Venture",
+   "announced_date": "2026-11-27",
+   "lead_investors": [
+    "Greenoaks",
+    "Lightspeed Venture Partners"
+   ],
+   "investors": [
+    "Greenoaks",
+    "Lightspeed Venture Partners",
+    "Benchmark",
+    "Sequoia",
+    "GV",
+    "Tiger Global"
+   ],
+   "hq_city": null,
+   "hq_state": null,
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Builds enterprise AI agents for customer experience.",
+   "description": "Enterprise customer experience platform for building AI agents, co-founded by Bret Taylor.",
+   "confidence": 0.9,
+   "evidence": {
+    "amount": "secured $1.75 billion in a Series F round",
+    "round": "Series F",
+    "lead": "Greenoaks and Lightspeed Venture Partners led the round",
+    "investors": "existing investors including Benchmark, Sequoia, GV and Tiger Global"
+   },
+   "source_urls": [
+    "https://theaiinsider.tech/2026/11/27/sierra-doubles-valuation-to-30b-with-1-75b-series-f-as-enterprise-ai-agent-demand-surges/"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "healthleap",
+   "candidate_ids": [
+    "f782d89402c7"
+   ],
+   "company": "Healthleap",
+   "website": null,
+   "amount_usd": 38000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Series A",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-10-07",
+   "lead_investors": [],
+   "investors": [
+    "Sequoia Capital",
+    "First Round Capital",
+    "Hummingbird Ventures"
+   ],
+   "hq_city": "San Francisco",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Clinical AI platform screening patient records.",
+   "description": "Clinical AI platform that screens hospital inpatients for undiagnosed conditions.",
+   "confidence": 0.7,
+   "evidence": {
+    "amount": "$38 million in combined seed and Series A funding",
+    "round": "combined seed and Series A funding",
+    "lead": null,
+    "investors": "Sequoia Capital, First Round Capital, and Hummingbird Ventures"
+   },
+   "source_urls": [
+    "https://www.healthcareittoday.com/2026/11/27/healthleap-raises-38m-symmetric-health-solutions-secures-significant-growth-investment/",
+    "https://www.fiercehealthcare.com/finance/healthleap-banks-38m-funding-backed-sequoia-capital-first-round-capital-and-hummingbird"
+   ],
+   "exclude_reason": null
+  },
+  {
+   "group_key": "icarus",
+   "candidate_ids": [
+    "ed96764233eb"
+   ],
+   "company": "Icarus",
+   "website": null,
+   "amount_usd": 25000000,
+   "amount_disclosed": true,
+   "currency_note": null,
+   "round_type": "Venture - Unspecified",
+   "stage_bucket": "Early Stage Venture",
+   "announced_date": "2026-11-26",
+   "lead_investors": [],
+   "investors": [],
+   "hq_city": "El Segundo",
+   "hq_state": "CA",
+   "hq_country": "US",
+   "is_ai_ml": true,
+   "ai_ml_rationale": "Autonomous solar-powered unmanned aircraft for reconnaissance.",
+   "description": "Builds autonomous solar-powered stratospheric unmanned aircraft for reconnaissance and communications.",
+   "confidence": 0.6,
+   "evidence": {
+    "amount": "has raised $25 million",
+    "round": "the round’s stage and the valuation were not disclosed",
+    "lead": null,
+    "investors": null
+   },
+   "source_urls": [
+    "https://en.wowtale.net/2026/11/27/236180/"
+   ],
+   "exclude_reason": null
+  }
+ ]
+}
