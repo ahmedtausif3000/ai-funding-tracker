@@ -1,0 +1,796 @@
+{
+  "run_date": "2026-11-28",
+  "generated_at": "2026-11-28T13:00:11.655Z",
+  "window_days": 2,
+  "range": null,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 200,
+        "items": 28
+      },
+      {
+        "id": "gnews-2",
+        "status": 200,
+        "items": 28
+      },
+      {
+        "id": "gnews-3",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "gnews-4",
+        "status": 200,
+        "items": 65
+      },
+      {
+        "id": "gnews-5",
+        "status": 200,
+        "items": 23
+      },
+      {
+        "id": "gnews-6",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-7",
+        "status": 200,
+        "items": 60
+      },
+      {
+        "id": "gnews-8",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "gnews-g1",
+        "status": 200,
+        "items": 24
+      },
+      {
+        "id": "gnews-g2",
+        "status": 200,
+        "items": 9
+      },
+      {
+        "id": "gnews-g3",
+        "status": 200,
+        "items": 12
+      },
+      {
+        "id": "gnews-g4",
+        "status": 200,
+        "items": 21
+      },
+      {
+        "id": "gnews-g5",
+        "status": 200,
+        "items": 50
+      },
+      {
+        "id": "gnews-g6",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-g7",
+        "status": 200,
+        "items": 58
+      },
+      {
+        "id": "gnews-g8",
+        "status": 200,
+        "items": 21
+      },
+      {
+        "id": "gnews-g9",
+        "status": 200,
+        "items": 59
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "pulse2",
+        "status": 200,
+        "items": 80
+      },
+      {
+        "id": "citybiz",
+        "status": 200,
+        "items": 0
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 650,
+    "prefiltered": 75,
+    "dropped": {
+      "not_funding": 169,
+      "no_ai_hint": 87,
+      "below_min": 144,
+      "fund_close": 8,
+      "seen": 76,
+      "duplicate_link": 87,
+      "known_round": 53,
+      "noise": 4
+    },
+    "groups": 61,
+    "selected_groups": 22,
+    "candidates": 22,
+    "articles_fetched": 19,
+    "google_rate_limited": false
+  },
+  "groups": [
+    {
+      "key": "europes tech ecosystem demands",
+      "company_guess": "Europe's tech ecosystem demands",
+      "amount_hint_usd": 50000000000,
+      "candidate_ids": [
+        "da08fc56aaf0"
+      ]
+    },
+    {
+      "key": "sierra doubles valuation to",
+      "company_guess": "Sierra Doubles Valuation to",
+      "amount_hint_usd": 30000000000,
+      "candidate_ids": [
+        "96f6cbf3a545"
+      ]
+    },
+    {
+      "key": "tristan",
+      "company_guess": "Tristan",
+      "amount_hint_usd": 1850000000,
+      "candidate_ids": [
+        "d24c12961e28"
+      ]
+    },
+    {
+      "key": "acer gaming fy2026 q3",
+      "company_guess": "[Acer Gaming FY2026 Q3",
+      "amount_hint_usd": 1264000000,
+      "candidate_ids": [
+        "55ec9167545d"
+      ]
+    },
+    {
+      "key": "ripples 900 million revenue",
+      "company_guess": "Ripple’s $900 Million Revenue",
+      "amount_hint_usd": 900000000,
+      "candidate_ids": [
+        "fe5bb158fa3b"
+      ]
+    },
+    {
+      "key": "flatiron energy",
+      "company_guess": "Flatiron Energy",
+      "amount_hint_usd": 850000000,
+      "candidate_ids": [
+        "2868f2f42b97"
+      ]
+    },
+    {
+      "key": "30c2c40b8585",
+      "company_guess": "AI",
+      "amount_hint_usd": 700000000,
+      "candidate_ids": [
+        "30c2c40b8585"
+      ]
+    },
+    {
+      "key": "uni fuels",
+      "company_guess": "Uni-Fuels",
+      "amount_hint_usd": 430000000,
+      "candidate_ids": [
+        "e088de2f9430"
+      ]
+    },
+    {
+      "key": "mexican airport operator gap",
+      "company_guess": "Mexican Airport Operator GAP",
+      "amount_hint_usd": 398000000,
+      "candidate_ids": [
+        "c899ff87ec30"
+      ]
+    },
+    {
+      "key": "ff eai robotics",
+      "company_guess": "FF EAI Robotics",
+      "amount_hint_usd": 41000000,
+      "candidate_ids": [
+        "f67440d280e0"
+      ]
+    },
+    {
+      "key": "newron amends terms of",
+      "company_guess": "Newron Amends Terms of",
+      "amount_hint_usd": 38000000,
+      "candidate_ids": [
+        "b1c299bf78cb"
+      ]
+    },
+    {
+      "key": "healthleap",
+      "company_guess": "Healthleap",
+      "amount_hint_usd": 38000000,
+      "candidate_ids": [
+        "f782d89402c7"
+      ]
+    },
+    {
+      "key": "china carbon neutral",
+      "company_guess": "China Carbon Neutral",
+      "amount_hint_usd": 27100000,
+      "candidate_ids": [
+        "fb9084ec3004"
+      ]
+    },
+    {
+      "key": "icarus",
+      "company_guess": "Icarus",
+      "amount_hint_usd": 25000000,
+      "candidate_ids": [
+        "ed96764233eb"
+      ]
+    },
+    {
+      "key": "airedge",
+      "company_guess": "AirEdge",
+      "amount_hint_usd": 15000000,
+      "candidate_ids": [
+        "2732f6d24344"
+      ]
+    },
+    {
+      "key": "audun",
+      "company_guess": "Audun",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "a9c2eae0285b"
+      ]
+    },
+    {
+      "key": "vector singularity",
+      "company_guess": "Vector Singularity",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "77f8dd980196"
+      ]
+    },
+    {
+      "key": "discovery bank",
+      "company_guess": "Discovery Bank",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "66151a26fb63"
+      ]
+    },
+    {
+      "key": "why elon musks plan",
+      "company_guess": "Why Elon Musk's plan",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "00bdd05d546d"
+      ]
+    },
+    {
+      "key": "waterborne autonomous driving startup",
+      "company_guess": "Waterborne Autonomous Driving Startup",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "db85cb909355"
+      ]
+    },
+    {
+      "key": "starforge",
+      "company_guess": "Starforge",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "df48e42b52be"
+      ]
+    },
+    {
+      "key": "future sequence",
+      "company_guess": "Future Sequence",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "e6a0c64708a5"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "da08fc56aaf0",
+      "title": "Europe's tech ecosystem demands decisive action on Ukraine, EU proposes €50BN equity fund, and Pliant secures over €200M",
+      "publisher": "Tech.eu",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMzYtbS1FOWlzUmdncnduZ2Y3ZGNzbGJpSlNzZV9GTDZOOVJHQnB1QnZ2WEk5YVNzWXVTSXduR0w4aENGRFE4SXp1dWdaMERWNW5kX2taWFRNREVnVy1FYlRId1VsZDZuWVM5cTBQSmNmcmRIQmZ4ZEx1Y0VCWjM2eVYxdzBHUVZ6QkJUOElTWEtwR3ZreUZoWW1USkUwajVzWnd2cldQOEJ2TGpPWkRwdmNWLXdSbFBodFI3b1RyWk1oeXBIaWNFU0lFbTA4Y1I5N2diVXBmakxyUTlU?oc=5",
+      "published_at": "2026-11-27T15:20:27.000Z",
+      "publisher_url": "https://tech.eu",
+      "snippet": "Europe's tech ecosystem demands decisive action on Ukraine, EU proposes €50BN equity fund, and Pliant secures over €200M Tech.eu",
+      "source_feed": "gnews-g6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 50000000000,
+        "currency": "EUR",
+        "raw": "€50BN"
+      },
+      "company_guess": "Europe's tech ecosystem demands",
+      "group_key": "europes tech ecosystem demands",
+      "group_rank": 0,
+      "resolved_url": "https://tech.eu/2026/11/27/europe-s-tech-ecosystem-demands-decisive-action-on-ukraine-eu-proposes-50bn-equity-fund-and-pliant-secures-over-200m/",
+      "text": "General\nEurope's tech ecosystem demands decisive action on Ukraine, EU proposes €50BN equity fund, and Pliant secures over €200M\nThis week, we tracked more than 60 tech funding deals worth over €559 million and over 5 exits, M&A transactions, rumours, and related news stories across Europe.\nCate Lawrence\n21 hours ago\nShare\nFacebook\nTwitter\nLinkedin\nShare\nSend email\nCopy link\nThis week, we tracked more than 60 tech funding deals worth over €559 million and over 5 exits, M&A transactions, rumours , and related news stories across Europe.\nWant to stay in the know? If email is more your thing, you can always subscribe to our newsletter and receive a more robust version of this round-up delivered to your inbox.\n❗ Want to explore the data in more detail? The free, open-access Tech.eu Funding Explorer offers deeper insights into funding rounds, investor activity, company profiles and market trends.\nEither way, let's get you up to speed.\n💸 Notable and big funding rounds\n🇩🇪 Pliant secures over €200M in debt financing to scale European payments business\n🇬🇧 Defence startup Agon raises $70M with uk sovai and nssif investing\n🇬🇧 Bound secures $50M to advance fx risk management for mid market companies\n💰 Trouva co-founder Mandeep Singh joins Tapestry VC as General Partner\n🗞️ In other (important) news\n🇺🇦 ‘Europe must do whatever it takes ’: Tech founders and political leaders demand decisive action on Ukraine\n🚗 Transportation: Europe’s 10 most-funded companies in H1 2026\n🤖 Tom Blomfield has left Anthropic after less than six months\n🍕 Papa John’s pizza order first UK cardless payment by AI agent\n📡 Recommended reads and listens\n💡 Build, back or partner: how Fortum is investing in the future of energy\n⚡ Cutting the cord: How Willo is taking wireless power into the third dimension\n🚗 From €10,000 to 6 million connected cars: The bootstrapped rise of Lithuania's OBDeleven\n🚀 Interesting moves from investors\n💵 Payhawk backer Eleven secures €57M first close for Fund IV\n💸 CommerzVentures launches €50M Fund IV targeting early-stage AI and fintech startups\n💰 Pronto Ventures launches in Turin to accelerate startup growth across Europe\n🇪🇺 EU proposes €50BN equity fund to support quantum and essential sovereign tech\n🫱🏽‍🫲🏻 Noteworthy acquisitions and mergers\n🇪🇸 Holidu acquires CasasRurales.Net\n🇨🇭 The Berlin-based vacation property startup MYNE is acquiring its Swiss competitor beyoul\n🇹🇷 Arvato acquires Ekol Logistics\n🇬🇧 Berlin-based tax unicorn Taxfix is ​​ acquiring London-based fintech Countingup\n🔭 European tech startups to watch\n🇬🇧 Sequent has secured $2.2M in pre-seed funding\n🇳🇱 Good Heat secures €2M to expand industrial heat battery solutions across Europe\n🇵🇹 Lampsy Health raises €1.1M to shine a light on undetected night-time seizures\n🇮🇪 EU-INC is in crisis but $1M- backed Shuttle isn’t waiting for Europe to fix cross-border fundraising\n🇪🇸 Reversa raises €750,000 to automate regulatory processes with ai agents\n🇬🇧 Beyond the taboo: Polari Labs brings biotech innovation to anorectal health\ndaily roundup\nweekly roundup\neuropean tech news\nWrite Comment\nEurope's tech ecosystem demands decisive action on Ukraine, EU proposes €50BN equity fund, and Pliant secures over €200M\nComments\nWould you like to write the first comment?\nLogin to post comments\nFollow the developments in the technology world. What would you like us to deliver to you?\nWeekly Newsletter\nDaily Newsletter\nEvent Announcements\nSave my choices\nYour subscription registration has been successfully created.",
+      "text_status": "ok"
+    },
+    {
+      "id": "96f6cbf3a545",
+      "title": "Sierra Doubles Valuation to $30B With $1.75B Series F as Enterprise AI Agent Demand Surges",
+      "publisher": "AI Insider",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN0pwcnFxQ3lBZUJfT1pyNmZBSzNXNVpKcmZWYWNVUW1UMUZvb0ZONk9MRDFKOEEyTU9qLUtYM1VCYTZMOU1GX3RrUmp4NzkySXAxQkhmbWxLT3Q2U2l2MjZYdFI4Zkk3MmVQcVJxWWg3akdBdEdiRDMyY0VZUExzWU84R19oaW9RNGRvX0dYTU5kalZseE5qbVNvZGdOcEtBYnNCV243MVRxZmd1OWR5Y3hVMHZvMHpqUmxqQ2wzR21zb1dV?oc=5",
+      "published_at": "2026-11-27T08:42:05.000Z",
+      "publisher_url": "https://theaiinsider.tech",
+      "snippet": "Sierra Doubles Valuation to $30B With $1.75B Series F as Enterprise AI Agent Demand Surges AI Insider",
+      "source_feed": "gnews-8",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 30000000000,
+        "currency": "USD",
+        "raw": "$30B"
+      },
+      "company_guess": "Sierra Doubles Valuation to",
+      "group_key": "sierra doubles valuation to",
+      "group_rank": 0,
+      "resolved_url": "https://theaiinsider.tech/2026/11/27/sierra-doubles-valuation-to-30b-with-1-75b-series-f-as-enterprise-ai-agent-demand-surges/",
+      "text": "Business & Markets\nSierra Doubles Valuation to $30B With $1.75B Series F as Enterprise AI Agent Demand Surges\nBy James Dargan · 27 November 2026 · 1 min read\nSierra , the enterprise customer experience company co-founded by former Salesforce co-CEO Bret Taylor, has secured $1.75 billion in a Series F round that doubles its valuation to $30 billion. The deal comes less than six months after a previous round valued it at $15 billion .\nGreenoaks and Lightspeed Venture Partners led the round, joined by existing investors including Benchmark, Sequoia, GV and Tiger Global.\nSierra said it serves nearly half of Fortune 50 companies, including BNY, HSBC, Wells Fargo and JPMorganChase, and that its outcome-based pricing helped double run-rate revenue to $400 million in five months . The company is building a platform for creating agents and developing agent protocol definitions with Meta, Stripe and Walmart. The new capital will fund further agent development and expanded sales teams.\nCustomer experience AI startups are commanding soaring valuations, with ElevenLabs at $22 billion, Wonderful at $5 billion and Decagon at $4.5 billion.\nCo-founder Clay Bavor has argued that most Sierra customers are reassigning contact center staff rather than replacing them.\nTopics AI capital markets funding funding round Greenoaks Series F Sierra\nAbout the author James Dargan\nJames Dargan is a writer and researcher at The AI Insider. His focus is on the AI startup ecosystem and he writes articles on the space that have a tone accessible to the average reader.\nTrending today\n1\nBusiness & Markets Pedestal AI Emerges From Stealth With $4.7M to Bring Agentic AI to Delivery Supply Chains\n2\nBusiness & Markets Progressive Ventures Closes $12.24M Debut Fund Backing B2B AI Founders\n3\nPhysical AI · Humanoids South Korea Plans Next-X Humanoid Challenge to Select National Robot Platform\n4\nBusiness & Markets Payhawk Raises $280M Series C at $2B Valuation to Build an AI-Era Finance Operating System\n5\nPolicy & Government · AI Safety UK Cyber Agency Warns of Sharp Increase in AI-Driven Cyberattacks\nThe AI economy, every weekday morning\nThe daily briefing on LinkedIn. Free, one tap to follow.\nSubscribe on LinkedIn\nExclusives\nExclusive Anthropic’s S-1, Dissected, Part 3: Business Performance So Far\nDecision Models How AI Decision Models Work: Inside the Technology That Learns to Make Decisions\nExclusive Japan’s Humanoid Robot Restart in 2026: From HRP Heritage to the Factory Floor\nExclusive The AI Insider Funding Pulse\nExclusive Where AI Software Spending Could Go by 2035: Three Scenarios and the Assumptions Behind Them\nAll series",
+      "text_status": "ok"
+    },
+    {
+      "id": "d24c12961e28",
+      "title": "Tristan raises $1.85bn for European real estate credit strategy",
+      "publisher": "PERE",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmliQWx3c2xBOVBWWEh4ZVhkRjhyUUZva3ppb2o2MERuVV9zbnFiLTA1a011LVJVdU00cy1Jb2V1MGd6UGVPRnM4OG1ZSUJaRlZEZlFlY1MyLXpsRjNEem1oMERsWUpiNTM3RVRLN0FFaXRuX3NQOU9SRy1neFlweS1fdi1YbldLY3RKSHp4d2hJY1NjTEFpYXZQeGxBdXZyNDYtX3RMdEpfZDJV?oc=5",
+      "published_at": "2026-11-27T16:02:06.000Z",
+      "publisher_url": "https://www.pei-privaterealestate.com",
+      "snippet": "Tristan raises $1.85bn for European real estate credit strategy PERE",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 1850000000,
+        "currency": "USD",
+        "raw": "$1.85bn"
+      },
+      "company_guess": "Tristan",
+      "group_key": "tristan",
+      "group_rank": 0,
+      "resolved_url": "https://www.pei-privaterealestate.com/credit/tristan-raises-1-85bn-for-european-real-estate-credit-strategy/",
+      "text": "Exclusive News & Analysis\nTristan raises $1.85bn for European real estate credit strategy\nThe capital has been amassed during 2026 and includes the final close of the manager’s TIPS 2 fund.\nBy Daniel Cunningham\n21 hours ago • 3 mins read\nEurope United Kingdom Western Europe Hospitality Industrial Office Debt Senior debt Whole loans Insurance Investors Managers Alternative lenders Fundraising Investors\nLatest news\nNews & Analysis\nDelancey’s Evermill adds infra debt to existing real estate credit offering\n27 November 2026 · 2 mins read\nNews & Analysis\nUS affordable housing lenders are rewriting the playbook as costs soar\n26 November 2026 · 3 mins read\nNews & Analysis\nFiera continues Spain push with €34m Madrid PBSA development loan\n25 November 2026 · 2 mins read\nView all",
+      "text_status": "ok"
+    },
+    {
+      "id": "55ec9167545d",
+      "title": "[Acer Gaming FY2026 Q3 Earnings Call] Q3 Revenue Hits NT$1.264 Billion, a Record for the Period; GTA VI Launches With $3.79 Billion, Management Calls 2027 \"Quite Optimistic\"",
+      "publisher": "finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1laHBvU3d3WWxJZThLc0R6R2tTMUtoYWVDSlRXSGRCZWJFQVdadnVrWF9zdFNWNUhINzAzdzAxSXRmRzZ5Ny15djNJUDJGcjFjc2VzSHIwd3JxWXBVNElsRzFn?oc=5",
+      "published_at": "2026-11-27T09:34:00.000Z",
+      "publisher_url": "https://finance.biggo.com",
+      "snippet": "[Acer Gaming FY2026 Q3 Earnings Call] Q3 Revenue Hits NT$1.264 Billion, a Record for the Period; GTA VI Launches With $3.79 Billion, Management Calls 2027 \"Quite Optimistic\" finance.biggo.com",
+      "source_feed": "gnews-g8",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 1264000000,
+        "currency": "USD",
+        "raw": "$1.264 Billion"
+      },
+      "company_guess": "[Acer Gaming FY2026 Q3",
+      "group_key": "acer gaming fy2026 q3",
+      "group_rank": 0,
+      "resolved_url": "https://finance.biggo.com/news/TW_6908.TW_2026-11-26",
+      "text": "[Acer Gaming FY2026 Q3 Earnings Call] Q3 Revenue Hits NT$1.264 Billion, a Record for the Period; GTA VI Launches With $3.79 Billion, Management Calls 2027 \"Quite Optimistic\"\nAdd preferred source\nAcer Gaming (6908.TW) reported consolidated revenue of NT$1.264 billion (approximately $38.4 million) for the third quarter of 2026, up 5.6% quarter over quarter and marking the highest third-quarter figure since the company's founding. September revenue came in at NT$497 million (approximately $15.1 million), up 12.5% year over year, and climbed further to NT$550 million (approximately $16.7 million) in October, a 10.4% monthly gain. On the earnings call, management characterized 2027 as \"quite optimistic,\" driven chiefly by GTA VI — an annual blockbuster for which Acer Gaming holds exclusive PlayStation distribution rights — which generated $3.79 billion in revenue on its first day, more than four times the $800 million posted by predecessor GTA V at launch, with a long-tail effect expected to last a full year. A dense slate of PS5 exclusives in 2027 adds to the outlook, with Acer Gaming as the exclusive seller in Taiwan. Its game-art outsourcing subsidiary Winking Studios has formally entered Europe and North America following its acquisition of Canada's Ampera Studios, with indicative bookings of $51.6 million over the next 24 months. Consolidated operating income is currently negative; management attributed this to non-cash transitional expenses from restricted stock units (RSUs) used to retain talent at the overseas acquisition, stressing that the distribution business itself is healthy and that results will return to a growth trajectory once the acquisition's benefits materialize.\nKey Elements\nAcer Gaming Winking Studios GTA VI PlayStation Sony Ampera Studios Claude Bordeleau Keywords Studios iQOO Taiwan Puyu Index Until Dawn 2 God of War Laufey GTA V\nAcer Gaming Q3 Revenue Hits Record for the Period; Management: 2027 \"Quite Optimistic\"\nAcer Gaming (6908.TW) has reported consolidated revenue of NT$1.264 billion (approximately $38.4 million) for the third quarter of 2026, up 5.6% from NT$1.197 billion (approximately $36.3 million) in the second quarter and marking the highest third-quarter revenue since the company's founding. September revenue came in at NT$497 million (approximately $15.1 million), up 12.5% year over year; October revenue climbed further to NT$550 million (approximately $16.7 million), a 10.4% monthly increase, signaling that channel-stocking momentum ahead of GTA VI's launch is already underway.\n\"GTA has already set the highest record in the history of entertainment — $3.79 billion in revenue on its first day on the market,\" Acer Gaming management said in opening the earnings call, framing what this year's blockbuster means for the company's distribution business. Compared with the $800 million posted by predecessor GTA V on its first day, the new title's launch scale is more than four times larger, and management expects network effects to expand rapidly, boosting full-year demand for consoles, software, peripherals and point cards.\nFinancial Performance at a Glance\nItem Current Period Prior Period Change\n2026 Q3 consolidated revenue NT$1.264 billion NT$1.197 billion (Q2) +5.6%\nSeptember 2026 revenue NT$497 million — +12.5% YoY\nOctober 2026 revenue NT$550 million NT$497 million (September) +10.4%\nFirst three quarters of 2026 revenue NT$3.78 billion — —\nConsolidated operating income Negative — Affected by RSU expenses\nNote: First-three-quarter revenue is the sum of monthly revenue; 2026 is complete through September (9 of 12 months).\nTwin Engines Firing: Distribution Gets a GTA VI Boost, Outsourcing Expands Into Europe and North America\nAcer Gaming currently operates two major business units. On game distribution, the company is PlayStation's exclusive distributor in Taiwan, Hong Kong, Singapore and the Philippines, and its Hong Kong subsidiary in November further secured general distribution rights across all channels. Management noted that GTA VI is currently being released on only two major platforms, with PlayStation dominant in the Asian market, and that Acer Gaming holds exclusive distribution rights across all four territories, with peripheral and point-card sales benefiting as well.\nNotably, PlayStation raised prices in May due to rising costs for key components, and while the market initially worried that price elasticity would dampen demand, the result was the opposite — demand rose rather than fell. \"This shows it's a rigid demand,\" management said in interpreting the trend.\nThe distribution lineup also continues to expand, with the company this year adding distribution for iQOO, vivo's esports phone brand, aiming to more fully meet gamers' varied needs.\nOn game outsourcing, subsidiary Winking Studios has become one of the world's top four game-art outsourcing firms. First-half 2026 revenue was $23.5 million, up 21.1% year over year. In April it completed its acquisition of Canada's Ampera Studios, establishing its first North American base and marking Winking's formal expansion from the Asian market into Europe and North America.\nCiting disclosure standards from London and Singapore brokerages, management said that based on an estimate of client artists' manpower as of June 30, 2026, Winking's indicative bookings over the next 24 months amount to $51.6 million, providing visibility into future revenue.\nWinking has also recruited former Keywords Studios senior executive Claude Bordeleau as chief revenue officer (CRO). Management said Claude has more than 20 years of experience in the gaming industry and a strong network, and is expected to quickly convert partnerships into revenue.\nThe Truth Behind Negative Operating Income: Non-Cash RSU Expenses\nThe item that drew the most analyst attention on the call was the negative operating income in the consolidated statements. Management proactively explained that the main cause was Winking's use of restricted stock un",
+      "text_status": "ok"
+    },
+    {
+      "id": "fe5bb158fa3b",
+      "title": "Ripple’s $900 Million Revenue Target Raises Questions About XRP’s Stagnant Price",
+      "publisher": "ZyCrypto",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlViNERyWDdxVU9hSndSYVc0U2x2bWJJN01SUHd0ZzhKMld3UDNnODl0M19jMndkLWlYUzZBVkI3MDRjb1JrLS1zeHYxVGo4SW44TzRrbmZPbFJjaWR5QnE3MGc0cGpWR3FDSmpOUE5HU3JQaFV0S3YxdmJJN1BhN0RRWWl0WGRLUTdLdWUwZ0xTc3VsM2NIT1hFZGd3Q3Yt0gGmAUFVX3lxTE1DajZ1T3JSV0VIM2k0dWlWd2xzS3F2N05oREYwdHA4ZHlZX0gyVUg1RGp5OEhqV0hkQTZQMmhRd0x3QzVQOGVMY0FvRU96UlpjakpNOUliU3ZiSnpVRDk4azJrTkRIbHJhMUcxRDdCd3ZydE9leEo0THhoc1ZsU2Ntd3I4REdtcnlwSk9YS0ZqT2t0eEhrTG9XXy1neEJiQURXZUE3V0E?oc=5",
+      "published_at": "2026-11-26T19:28:41.000Z",
+      "publisher_url": "https://zycrypto.com",
+      "snippet": "Ripple’s $900 Million Revenue Target Raises Questions About XRP’s Stagnant Price ZyCrypto",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 900000000,
+        "currency": "USD",
+        "raw": "$900 Million"
+      },
+      "company_guess": "Ripple’s $900 Million Revenue",
+      "group_key": "ripples 900 million revenue",
+      "group_rank": 0,
+      "resolved_url": "https://zycrypto.com/ripples-900-million-revenue-target-raises-questions-about-xrps-stagnant-price/",
+      "text": "Please wait while your request is being verified...",
+      "text_status": "thin"
+    },
+    {
+      "id": "2868f2f42b97",
+      "title": "Flatiron Energy Closes $850M for Chelsea Battery",
+      "publisher": "Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQWFzZ1NrSUh0U3ZYaHpZWEE1RmFLLWpXc2VNYmtCQkI0c2NHcUtuOTRZVVBSVnBGN1Y5WDNkbFlkMGNhRENPZTJSRlBWMnNlQUxlS2w0X0M2QlVvTGpDVVM0MHQwbWFKMDJ1M3JkbWtxSTBvdFZSOEIwZnRZZTZUVDZldmdfeWJ1WVRTSnVxelRqZk5NaG5FM21uUHJGQlBU?oc=5",
+      "published_at": "2026-11-27T21:23:14.000Z",
+      "publisher_url": "https://wisevoter.com",
+      "snippet": "Flatiron Energy Closes $850M for Chelsea Battery Wisevoter",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 850000000,
+        "currency": "USD",
+        "raw": "$850M"
+      },
+      "company_guess": "Flatiron Energy",
+      "group_key": "flatiron energy",
+      "group_rank": 0,
+      "resolved_url": "https://wisevoter.com/world/us/ma/chelsea/2026/11/27/flatiron-energy-850m-energizar-chelsea-battery",
+      "text": "Home\n› World\n› U.S.\n› Massachusetts\n› Chelsea\n› Science\n› Energy\nFlatiron Energy Closes $850M for Chelsea Battery\nFlatiron Energy has closed on $850 million in commitments for the 1,200-MWh Energizar battery storage project in Chelsea, Massachusetts.\nUpdated on Nov. 27, 2026 in Energy\nFlatiron Energy closed $850 million in construction and financing commitments for the 1,200-MWh Energizar battery project in Chelsea, Massachusetts, expected to be the East Coast's largest battery system. AI Illustration. Upload story photo >\nLive Poll\nDo you think your area's electricity supply is getting more reliable?\n▲ Yes ▼ No\nFlatiron Energy closed on $850 million of construction and financing commitments for the Energizar Project, a 1,200-MWh battery energy storage system. The project will be built in Chelsea, Massachusetts, and is expected to be the largest battery system on the East Coast.\nWhy it matters\nEnergizar is designed to provide grid stability, capacity and peaking energy to the Boston area during high-demand periods. The project reflects rapid growth in battery storage, with US capacity at 17 GW at the end of last year.\nEnergizar's maximum power capacity is 250 megawatts with 1,200 MWh of storage, while the related Trimount facility will hold 2,800 MWh. Whether the Energizar timeline holds through commercial operation in the fourth quarter of 2027 has not been confirmed.\nThe players\nFlatiron Energy\nFlatiron Energy is the company that closed the $850 million in construction and financing commitments for the Energizar Project.\nThe details\nFlatiron Energy closed on the commitments to support the Energizar Project in Chelsea, Massachusetts. A separate Trimount Energy Storage Facility in the Boston area is expected to be completed in 2028-2029 with a 2,800 MWh capacity.\nTimeline\nEnd of last year (2025): US storage capacity reached 17 GW.\nFourth quarter 2027: Energizar expected to reach commercial operation.\n2028-2029: Trimount Energy Storage Facility expected to be completed.\n2030: US storage capacity projected to reach 31 GW.\nRoadmap\nEnergizar is one of the projects driving US storage capacity from 17 GW toward a projected 31 GW by 2030. Its scale fits a broader global expansion in battery storage, which is growing 45% year-over-year.\nStorage projects like Energizar are designed to keep the grid stable during peak demand, which can support reliability for households and businesses in the Boston area. The project's commercial start date is set for late 2027.\nThe takeaway\nLarge battery projects such as Energizar show how storage is becoming a core part of grid planning, not just a supplement to generation. Watch for the 2027 commercial start to see whether the schedule holds.\nWhat happens next\nEnergizar is expected to reach commercial operation in the fourth quarter of 2027, and the Trimount Energy Storage Facility is expected to be completed in 2028-2029.\nFurther reading\nExplore more on Energy developments in the Chelsea area.\nSource note: This article includes information reported by WAMC/Northeast Public Radio.\nLive Poll\nDo you think your area's electricity supply is getting more reliable?\n▲ Yes ▼ No\nWE Participate i\nUpload story photo ↗\nUpdate this story ↗\nSubmit a new story ↗\nToday's stories\nCity Hall 1\nChelsea Planning Board Backs Arlington St. Event Venue\nCity Hall 2\nChelsea Council Advances Scooter and E-Bike Ordinance\nCity Hall 3\nChelsea Closes City Buildings Early on Thanksgiving Eve\nBusiness 4\nChelsea Council Approves Two Board Appointments\nCity Hall 5\nChelsea Proposes Downtown Street Sweeping Shift to Mondays\nLifestyle 6\nKiss 108 Names Chelsea Teacher a Local Legend\nTrending polls\nEnvironmental\nShould your government push harder to phase out coal, oil and gas?\n▲ Yes ▼ No\nData Centers\nDo you expect the growing demand for AI computing to raise your everyday costs?\n▲ Yes ▼ No\nInternational Trade\nDo you expect the new tariffs to raise prices on goods you buy?\n▲ Yes ▼ No\nPublic Companies\nDo you think now is a good time to invest in the stock market?\n▲ Yes ▼ No",
+      "text_status": "ok"
+    },
+    {
+      "id": "30c2c40b8585",
+      "title": "AI Funding: Ottawa Boosts Its Fund by $700 Million",
+      "publisher": "Brief IA",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeEs2Nm9hNGxkdGlGUGVoMmRUdlFHSG9aQ25DdGVNMFc3NTFtam5WZFQxVHlTNzc0dGJOT3RUUnltVGU2cFhBbXJiWHR1OFBDWW1aTUUycllQODVoMWN3OU84Y2NQaHVoZGlBRHpwS1dFU2g2MkJNQmlGd3A2N3l3RmVSUDVuZ0s3dktj?oc=5",
+      "published_at": "2026-11-26T21:04:54.000Z",
+      "publisher_url": "https://www.briefia.fr",
+      "snippet": "AI Funding: Ottawa Boosts Its Fund by $700 Million Brief IA",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 700000000,
+        "currency": "USD",
+        "raw": "$700 Million"
+      },
+      "company_guess": "AI",
+      "group_key": "30c2c40b8585",
+      "group_rank": 0,
+      "resolved_url": "https://www.briefia.fr/en/article/calcul-ia-ottawa-abonde-son-fonds-de-700-millions",
+      "text": "Business & Startups · Tom Levy · November 26, 2026\nAI Funding: Ottawa Boosts Its Fund by $700 Million\nKey Takeaways\n1 Canada adds 700 million Canadian dollars to its AI computing fund, reaching 1 billion.\n2 Increased support is planned for companies using infrastructure owned and operated in Canada.\n3 The first new call focuses on health and life sciences.\nWhy it matters : the initiative aims to direct computing demand towards local providers.\nCanada is contributing an additional 700 million Canadian dollars to its AI Computing Access Fund. Its total now reaches 1 billion Canadian dollars.\nOttawa Promises 500 Megawatts of Capacity\nOttawa plans to deploy its own AI-dedicated computing capacity, amounting to 500 megawatts. The announced credits for the fund stem from the Canadian national AI strategy presented in June.\nIn October, the government also supported the raising of 7 billion dollars by Cohere. The country is also attracting interest from foreign companies: OpenAI claims it has the necessary energy resources and land for establishing data centers.\nIncreased Support for Computing in Canada\nThe new phase allocates higher support to companies using computing infrastructures owned and operated in Canada. This enhancement aims to generate demand from local providers. According to Evan Solomon, Canada's Minister of Artificial Intelligence and Digital Innovation, \"Canadian ideas need Canadian computing power.\"\nThe evening letter Free · 7 pm\nThe AI brief the pros read every evening\nThe 7 best AI stories, the essentials in 5 min. Free.\nIncluded when you join: our pick of the best AI guides & comparisons.\nChoose your rhythm\nDaily Weekly Both Get tonight's brief\nFree · No spam · Unsubscribe in 1 click\nThe government presents this initiative as support for small businesses to cover their computing needs. The assistance applies to both the development of AI products and their execution.\nA New Call for Health and Life Sciences\nThe new initial call targets projects related to health or life sciences. Under the first phase, 45 additional companies benefit from over 52 million dollars. The total for this phase thus reaches over 118 million dollars, distributed among 89 companies.\nLast month, Ottawa also allocated 2.5 million dollars to support the adoption of AI by 25 companies in the Prairies.\nTwitter LinkedIn Slack Teams Copy\nRead on Brief AI\nBrief AI — AI news in French\nThe essentials of artificial intelligence news, decoded and explained every day.\nSee all AI news →",
+      "text_status": "ok"
+    },
+    {
+      "id": "e088de2f9430",
+      "title": "Uni-Fuels Raises FY2026 Revenue Guidance to $430 Million",
+      "publisher": "grafa.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQalJRR1djRmhfcU9tQVBGc09Telo2WU9aMGIzV05LQ3pNLWFRdDhhQW1ra0VUOERiRG1iMURtRmN2Z25FNDRWT3RQQkNfX2xfRlphVWU3VEEyc2RNWG5pY2dxMjdydEl4dklhTzMyaU5BaFU1X242YjBHM0tTaVg1V2hYMUNIUk5aRDlpdDBwM2JkWER1T3dz?oc=5",
+      "published_at": "2026-11-27T21:08:00.000Z",
+      "publisher_url": "https://grafa.com",
+      "snippet": "Uni-Fuels Raises FY2026 Revenue Guidance to $430 Million grafa.com",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 430000000,
+        "currency": "USD",
+        "raw": "$430 Million"
+      },
+      "company_guess": "Uni-Fuels",
+      "group_key": "uni fuels",
+      "group_rank": 0,
+      "resolved_url": "https://grafa.com/en/news/united-states/uni-fuels-raises-fy2026-revenue-guidance-430-million?utm_source=rss&utm_medium=feed",
+      "text": "Energy\nImage for illustrative purposes only. Not a real photo.\nUni-Fuels raises FY2026 revenue guidance to $430M as nine-month revenue jumps 62%\nBy Isaac Francis Nov 27, 2026, 4:08 PM\nAssets related to this article\nDiscover more\nUnited States News\nUnited States Signals\nUnited States Market\nGrafa Channel\nKey points\nUni-Fuels Holdings (NASDAQ:UFG) increased its fiscal 2026 revenue outlook to US$410 million–US$430 million from US$340 million–US$360 million.\nGross profit increased 128% to US$7.5 million, while gross margin expanded to 2.4% from 1.7%.\nNet income reached US$1.5 million, compared with a US$30,000 loss a year earlier.\nUni-Fuels Holdings ( NASDAQ:UFG ) raised its fiscal 2026 revenue guidance after reporting strong growth in revenue and profitability during the first nine months of the year, supported by business expansion and its outlook for the fourth quarter.\nThe marine fuel supplier now expects full-year revenue of between US$410 million and US$430 million, compared with its previous forecast of US$340 million to US$360 million.\nFor the nine months ended September 30, 2026, revenue increased 62% year over year to US$307.8 million.\nGross profit rose 128% to US$7.5 million, while gross margin improved to 2.4% from 1.7% in the corresponding period last year.\nUni-Fuels reported net income of US$1.5 million, reversing a net loss of approximately US$30,000 a year earlier.\nOperating income increased 1,293% to US$2.1 million, while EBITDA climbed 622% to US$2.6 million.\nThe company's operating margin, measured against gross profit rather than revenue, increased to 28.7% from 4.7%.\nFrequently asked questions\nWhat is Uni-Fuels Holdings' (NASDAQ:UFG) new FY2026 revenue guidance?\nHow much revenue did Uni-Fuels Holdings (NASDAQ:UFG) generate in the first nine months of 2026?\nDid Uni-Fuels Holdings (NASDAQ:UFG) return to profitability?\nHow much did Uni-Fuels Holdings' (NASDAQ:UFG) EBITDA increase?\nWhy did Uni-Fuels Holdings (NASDAQ:UFG) raise its revenue guidance?\nDoes your company have news to share? Contact our Editorial desk at our editorial contact page .\nMore from United States\nTiziana Life Sciences reports no serious adverse events in foralumab safety update to FDA 21 hours ago\nSemiLEDs reports fiscal 2026 profit despite 56% annual revenue decline 21 hours ago\nForesight Autonomous secures conditional $1.3 million drone technology order in India a day ago\nNvidia Blackwell chips reportedly found in Chinese data centre linked to Megaspeed a day ago\nSAP reportedly considers at least 10,000 job cuts amid AI restructuring a day ago\nX Financial swings to third-quarter loss as revenue and loan volume plunge a day ago\nView more\nMore ways to discover\nBrowse United States news Discover NYSE signals Browse all NYSE stocks Browse all NYSE ETFs Explore United States companies Find the right NYSE index Manage your alerts",
+      "text_status": "ok"
+    },
+    {
+      "id": "c899ff87ec30",
+      "title": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
+      "publisher": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUml6azA3cmo5Z3dRajMwY1h2LWpPSnluQ2FoajJ5ZE02cGlLa1RwbzZYeVJud0QxWDZFSjhTVy1UT0tDZFlOM1FzMnp5TFhURmh6NUJrX1pCYU1WY0dRZnBZb3VLUUVUYU5GMGhhbFNaeXF5OXpSWnlJb2RsYm9FTVdCS0NLZlV6N0tubi1pUllPYTJzSDRVdXVJOVBMVHZXM0JsWlMwdnJ1anF2OGJhN2I5bzM?oc=5",
+      "published_at": "2026-11-27T21:05:05.000Z",
+      "publisher_url": "https://www.bloomberg.com",
+      "snippet": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust Bloomberg.com",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 398000000,
+        "currency": "USD",
+        "raw": "$398 Million"
+      },
+      "company_guess": "Mexican Airport Operator GAP",
+      "group_key": "mexican airport operator gap",
+      "group_rank": 0,
+      "resolved_url": "https://www.bloomberg.com/news/articles/2026-11-27/mexican-airport-operator-gap-raises-398-million-for-fibra-trust",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "f67440d280e0",
+      "title": "FF EAI Robotics Ecosystem (FFR) Announces parent company Faraday Future (FFAI) Ownership of Approximately $41 Million in FFR Equity",
+      "publisher": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOenozMERXVXlXeXpacUNlOUQ4YUd1WGdCRks0SlFDU3dwbWU1YUtXckFFOEY2OGYwRWxKVnB0bWV4Uk5rWFlfMVFMWmY4dzNnVllJR3Y5NU55U3RVZGZUcUVhaXBVaXo3bUFXcXpFSTZzNTg0VTVSYXlEaGJPT0lqejNoMFVieU1jUUhhUHVySnJXb3FybVJLTTgwcnE2WE9tNVhJNXY1c3ZoV1NGZ25sRDNTSUx3TTdjeU44VEMtNlc2T011el90NHV2YVhTQ2p4UkZDTmYtVUNkd2xfRTRKUlU1aUtNVEFxcWJOVDhJcEI0S2xIcWhrWS1PZHFKdmpMbEpjajJrTF9zWHZzbWhCWFpjLUFXUQ?oc=5",
+      "published_at": "2026-11-27T13:30:00.000Z",
+      "publisher_url": "https://www.tradingview.com",
+      "snippet": "FF EAI Robotics Ecosystem (FFR) Announces parent company Faraday Future (FFAI) Ownership of Approximately $41 Million in FFR Equity TradingView",
+      "source_feed": "gnews-g7",
+      "ai_hint": true,
+      "amount_hint": {
+        "amount": 41000000,
+        "currency": "USD",
+        "raw": "$41 Million"
+      },
+      "company_guess": "FF EAI Robotics",
+      "group_key": "ff eai robotics",
+      "group_rank": 0,
+      "resolved_url": "https://www.tradingview.com/news/prnewswire:e3e9b31d8b63d:0-ff-eai-robotics-ecosystem-ffr-announces-parent-company-faraday-future-ffai-ownership-of-approximately-41-million-in-ffr-equity/",
+      "text": "News\n/ PR Newswire\n/ FF EAI Robotics Ecosystem (FFR) Announces parent company Faraday Future (FFAI) Ownership of Approximately $41 Million in FFR Equity\nFF EAI Robotics Ecosystem (FFR) Announces parent company Faraday Future (FFAI) Ownership of Approximately $41 Million in FFR Equity\n4 min read\nFFR FFAI\nReinforcing Long-Term Commitment to the Growth of FFR and filed a Schedule 14C with the Securities and Exchange Commission\nLOS ANGELES, Nov. 27, 2026 /PRNewswire/ -- FF EAI Robotics Ecosystem Inc. ( FFR ) (\"FFR\" or the \"Company\"), a U.S.-based Embodied AI (\"EAI\") robotics company, today announced it had filed a preliminary Schedule 14C with the Securities and Exchange Commission, which includes pro forma financial information for the acquired robotics business, as well as additional disclosures related to FFR's acquisition of the robotics business of Faraday Future ( FFAI ), including transaction details, ownership structure, and other relevant information for stockholders and investors, marking the completion of all material matters required of both parties post deal closing.\nAs of November 25, 2026, FFAI beneficially owned approximately 14.7 million shares of FFR common stock, representing approximately 53% of FFR's 27.7 million shares currently outstanding. Following the issuance of shares contemplated by FFR's acquisition of the robotics business, FFAI is expected to own approximately 80.1 million shares, or approximately 75% of FFR's anticipated 106.2 million outstanding shares. All newly issued FFR shares received by FFAI in the transaction are subject to an 18‑month lock-up period. Based on FFR's closing market price on November 25, 2026, the implied value of FFAI's expected ownership position would be approximately $41 million.\nThe holding reflects Faraday Future's continued commitment to supporting the development of the FF EAI Robotics Ecosystem and aligns FFAI's interests with those of FFR stockholders as the company advances the commercialization of its robotics, AI, and intelligent automation solutions.\n\"FFAI's substantial ownership position reflects its continuing strategic alignment with FFR,\" said YT Jia, Global CEO of FFAI and FFR. \"We believe FFR is uniquely positioned at the intersection of artificial intelligence and robotics, with a growing portfolio of technologies, products, strategic partnerships, and commercialization initiatives designed to create long-term shareholder value.\"\nFFR has continued to expand its robotics ecosystem through advancements across its key business pillars, including Physical AI Devices, the Physical AI Brain and Developer Platform, Industry Productivity Solutions, and the Physical AI Data Factory. The company has also been pursuing commercialization opportunities across enterprise, education, service, and industrial applications.\nFFR's strategy is supported by several key factors:\nExpanding market demand for intelligent robotics and AI-enabled automation solutions;\nContinued development of FFR's integrated robotics ecosystem;\nGrowth in strategic partnerships and commercial deployments;\nIncreasing opportunities to monetize robotics solutions in K-12 education sector, security and surveillance among others; and\nThe potential for long-term value creation as the robotics industry continues to mature globally.\nFFAI will continue to evaluate opportunities to further support FFR's strategic initiatives, subject to market conditions, corporate requirements, and applicable regulations.\nAbout FF EAI Robotics Ecosystem Inc.\nFF EAI Robotics Ecosystem Inc. ( FFR ) is a U.S.-based Embodied AI robotics company focused on the research and development, manufacturing, commercialization and deployment of intelligent robotic technologies, products and industry solutions. FFR is building a \"Four-Core Full-Stack\" AI ecosystem covering the full lifecycle of robotics, consisting of Physical AI Brain & Developer Platform, Physical AI Devices, Physical AI Industry Productivity Solutions, and Physical AI Data Factory. Guided by the technology and product philosophy of \"One Brain, Multi-forms, Multi-capabilities,\" FFR aims to empower humanoid, biomimetic, and other robotic form factors through a unified Physical AI Brain, while continuously expanding their multi-task and multi-scenario capabilities. The ecosystem is designed to support the full robotics lifecycle, including R&D, deployment, data collection and training, operations, and commercial applications. FFR also operates RoboShare, a robot-sharing and services platform. To learn more, visit www.ff.com.\nForward-Looking Statements\nThis press release contains \"forward-looking statements\" within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, as amended, and other applicable securities laws. Statements other than historical facts, including statements regarding the standalone full-year 2026 guidance for the acquired robotics business, expected sales and shipments, projected revenue and unit sales under the five-year business plan, expected gross margins, planned partnerships and access to government procurement opportunities, FFR's business strategy, commercialization plans, robotics operations, anticipated benefits of the acquisition, future growth opportunities and development and deployment of robotics technologies, are forward-looking statements. You can often identify forward-looking statements by words such as \"may,\" \"might,\" \"will,\" \"shall,\" \"should,\" \"expects,\" \"plans,\" \"anticipates,\" \"could,\" \"intends,\" \"targets,\" \"projects,\" \"contemplates,\" \"believes,\" \"estimates,\" \"predicts,\" \"potential,\" \"goal,\" \"objective,\" \"seeks,\" \"likely,\" or \"continue,\" or the negative of these terms or other similar expressions; the absence of these words does not mean a statement is not forward-looking.\nThese statements are based on current expectations, estimates and assumptions and involve risks and uncertainties that could cause actual results to differ materially from those ",
+      "text_status": "ok"
+    },
+    {
+      "id": "b1c299bf78cb",
+      "title": "Newron Amends Terms of EUR 38 Million Financing",
+      "publisher": "Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTl5Z2VkMzM0dUxLY1ZsMDdzN3FYdWRsVUp2TTUwMmk1aE9tOHh0clo5NXdWQmh1TWkzNWNIaV9hYlZJRndVWnNNNnhEUXFyVktJek52WmUyak9fdTNSekNsbm90eEItaVBsdV83VzV1YzA2QVFpSnZobnlDZXE2Y19jNmR4QTdvMlR3?oc=5",
+      "published_at": "2026-11-27T17:20:56.000Z",
+      "publisher_url": "https://wisevoter.com",
+      "snippet": "Newron Amends Terms of EUR 38 Million Financing Wisevoter",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 38000000,
+        "currency": "EUR",
+        "raw": "EUR 38 Million"
+      },
+      "company_guess": "Newron Amends Terms of",
+      "group_key": "newron amends terms of",
+      "group_rank": 0,
+      "resolved_url": "https://wisevoter.com/world/2026/11/27/newron-amends-eur-38-million-financing-terms",
+      "text": "Home\n› World\n› Finance\n› Corporate Finance\nNewron Amends Terms of EUR 38 Million Financing\nThe Italian pharmaceutical company has agreed with its investor group to modify the third tranche of its up to EUR 38 million financing agreement.\nUpdated on Nov. 27, 2026 in Corporate Finance\nNewron has agreed with the investor group participating in its up to EUR 38 million financing to amend certain terms of the third tranche, corresponding to gross proceeds of EUR 5.5 million. Under the amendment, the investor group will subscribe to the third tranche no later than December 31, 2026, with shares issued at a formula-based price.\nWhy it matters\nThe amendment adjusts how a portion of Newron's funding is raised while the company continues developing evenamide in its global pivotal ENIGMA-TRS Phase 3 program. The changes bear on the company's capital position as it advances a late-stage clinical program.\nThe third tranche carries gross proceeds of EUR 5.5 million, with a subscription deadline of December 31, 2026, and a further EUR 12 million expected only if ENIGMA-TRS results are positive. The subscription price follows an agreed formula, and the final share count is not specified in the announcement.\nThe players\nNewron Pharmaceuticals S.p.A.\nNewron is a Bresso, Italy-based pharmaceutical company developing evenamide for schizophrenia and marketing safinamide under the Xadago brand for Parkinson's disease.\nThe details\nNewron's investor group will settle the third tranche through newly issued shares, priced under an agreed formula. The amendment modifies certain terms of the financing agreement originally signed in February 2026, and the company says the proceeds are expected to fund global ENIGMA-TRS studies and extend its cash runway beyond the pivotal 12- and 26-week results.\nTimeline\nFebruary 2026: Original up to EUR 38 million financing agreement signed.\nNovember 27, 2026: Newron announces the amended financing terms.\nDecember 31, 2026: Deadline for the investor group to subscribe to the third tranche.\nMarket Dynamics\nThe financing structure ties additional investor capital to the readout of the ENIGMA-TRS Phase 3 program, so the company's funding depends in part on that trial's outcome. The EUR 12 million conditional subscription makes the trial result a direct driver of the company's near-term capital.\nShareholders in Newron should note that new shares will be issued to the investor group under the formula-based price, which may dilute existing holdings. The conditional EUR 12 million tranche means future share issuance also depends on trial results.\nThe takeaway\nFinancing tied to clinical milestones shifts risk onto both the company and its investors, so the outcome of the ENIGMA-TRS study will determine whether the additional capital is raised. Readers following Newron should track the trial readout and the subscription deadline.\nWhat happens next\nThe investor group's subscription to the third tranche is due by December 31, 2026, and the additional EUR 12 million subscription is expected once ENIGMA-TRS results are disclosed.\nFurther reading\nExplore more on Corporate Finance for context on how biotech companies structure equity financing around clinical milestones.\nSource note: This article includes information reported by Firstwordpharma.\nWE Participate i\nUpload story photo ↗\nUpdate this story ↗\nSubmit a new story ↗\nToday's stories\nCorporate Finance 1\nAave Horizon Raises JAAA Cap to $80 Million\nCorporate Finance 2\nKeel Infrastructure Sells All Bitcoin Holdings\nCorporate Finance 3\nAirtel Africa Launches Buyback of Up to 1% Shares\nCorporate Finance 4\nFenix Resources Shifts Iron Ore Output to Beebyn\nCorporate Finance 5\nRio Tinto Signs Modernised Pilbara Deal With Yinhawangka\nCorporate Finance 6\nVedanta Resources Posts Record Half-Year EBITDA\nTrending polls\nEnvironmental\nShould your government push harder to phase out coal, oil and gas?\n▲ Yes ▼ No\nData Centers\nDo you expect the growing demand for AI computing to raise your everyday costs?\n▲ Yes ▼ No\nInternational Trade\nDo you expect the new tariffs to raise prices on goods you buy?\n▲ Yes ▼ No\nPublic Companies\nDo you think now is a good time to invest in the stock market?\n▲ Yes ▼ No",
+      "text_status": "ok"
+    },
+    {
+      "id": "f782d89402c7",
+      "title": "Healthleap Raises $38M | Symmetric Health Solutions Secures Significant Growth Investment",
+      "publisher": "Healthcare IT Today",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd3hmSHdickdTd2VIcFhsVVgzYzJ6d2QyeUhwZElYMW1qTldmTXdpZ2Q4UThFRnlucXc0STEzaTdwLTlvRlJxdHNodEZ0eExoaTNNaWNtdGJnbEtvc0JJVm9QLTEyQ1JjQ0dNWVN3QUtpbkEya3I4dk9mYzByYXJPZTZ1Y0F6WXNVYi0xbmFWeGFHUDlLNjNLTFpNOG1TRUM4OC04SVI3d1VEeUdKS0wxb0RYMGxyalZmdmUtZGZzRVNWd1JmS2lmUDdzRE4?oc=5",
+      "published_at": "2026-11-27T14:35:36.000Z",
+      "publisher_url": "https://www.healthcareittoday.com",
+      "snippet": "Healthleap Raises $38M | Symmetric Health Solutions Secures Significant Growth Investment Healthcare IT Today",
+      "source_feed": "gnews-g9",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 38000000,
+        "currency": "USD",
+        "raw": "$38M"
+      },
+      "company_guess": "Healthleap",
+      "group_key": "healthleap",
+      "group_rank": 0,
+      "resolved_url": "https://www.healthcareittoday.com/2026/11/27/healthleap-raises-38m-symmetric-health-solutions-secures-significant-growth-investment/",
+      "text": "Healthleap Raises $38M | Symmetric Health Solutions Secures Significant Growth Investment\nNovember 27, 2026\nHealthcare IT News\n4 Min Read\nHealthcare IT News\nShare This!\nFacebook X Pinterest LinkedIn\nCheck out today’s featured companies who have recently raised a round of funding, and be sure to check out the full list of past healthcare IT fundings .\nHealthleap Raises $38M to Help Hospitals Find Patients with Undiagnosed Conditions\nHealthleap Screens Every Adult Inpatient, Every Day, at More Than 50 Hospitals, Including Penn Medicine, Houston Methodist, Cedars-Sinai, and Emory Healthcare\nHealthleap , a clinical AI platform that screens patients for conditions that often go undiagnosed, today announced $38 million in combined seed and Series A funding from Sequoia Capital, First Round Capital, and Hummingbird Ventures. Healthleap reads each patient’s full record every morning and shows the care team who needs attention first. Patients who would have been missed get seen, and get seen earlier. The funding will help the company to expand to more conditions and grow its engineering, sales, customer success, and product teams.\nThe Problem: Millions of Patients Leave Hospitals with Undiagnosed Conditions\nHospitals today are overwhelmed with understaffed clinical teams and manual screening processes. This creates a cycle of worse health outcomes and systemic financial loss. Consider malnutrition: Most hospitals still screen for it with two questions that a nurse asks once, at admission. Patients who are sedated, confused, or too sick to answer are the ones most likely to be missed. Up to half of hospitalized patients are at risk , yet fewer than 9% are formally diagnosed , contributing to increased morbidity, mortality, length of hospital stay, and cost. When malnutrition is diagnosed and treated, it leads to better health outcomes, and hospitals can claim ~$11,000 in reimbursement for each severe malnutrition diagnosis. One Penn Medicine hospital observed that Healthleap drove $23.8M a year from a combination of incremental reimbursement revenue and the financial impact of length-of-stay reductions.\n“Every week, millions of patients leave hospitals with unresolved health conditions that will erode their health and cost up to 10x more to treat later,” explained Josiah Meyer, Co-Founder and CEO at Healthleap…\nFull release here , originally announced October 7th, 2026.\nSymmetric Health Solutions Secures Significant Growth Investment From Spectrum Equity to Sharpen the Data Layer for Hospital Supply Chains\nAfter Eight Years of Growth Without Institutional Capital, Symmetric Has Become the Supply Chain Item Data Foundation for Health Systems Nationwide, Most of Which Switched From an Incumbent Provider; The Investment Will Fund New and Expansive Product Innovations and Strategic Hiring Initiatives\nHealthcare supply chain intelligence provider Symmetric today announced a strategic growth investment from Spectrum Equity, a growth equity firm focused on artificial intelligence, software, and data businesses. This marks the first institutional capital raised by Symmetric, which has been profitable since its founding in 2018 by Rich Kucera, TJ Dardet, Jon Boerner, and Ryan Kissell.\nEvery hospital supply chain runs on an item master: a catalog as large as 500,000 rows containing every single product it procures. Though the data in this catalog changes daily, no one in the supply chain – including manufacturers, distributors, and group purchasing organizations – bears full responsibility for keeping it up to date. Consequently, supply chain, value analysis, and finance teams struggle with inaccurate visibility into their spend, while catalog errors cause revenue leakage, drive excess cost, and impact patient safety: an implant goes unscanned in the OR and never gets reimbursed, contracted pricing tiers and supplier rebates are missed, or a recalled device unnecessarily stays on the shelf.\nSymmetric solves this by maintaining the world’s largest database of continuously updated item data, composed of nearly 20 million healthcare items, each carrying up to 1,800 metadata attributes (such as GTIN, UNSPSC, HCPCS, and item descriptions), alongside five million verified substitutes. Its data pipeline draws on hundreds of sources, from regulatory registries to manufacturer catalogs to GPO contracts, reconciling conflicting product data into a single record that gets pushed directly into a hospital’s ERP. Staff at over 45 leading health systems verify this data, and the network is growing. The company reports an average match rate of 96%, a figure that has risen every year since founding.\nSymmetric’s customers span the full breadth of U.S. healthcare – from some of the nation’s largest and most prestigious health systems and academic medical centers to small community and critical access hospitals with fewer than 25 beds. A majority switched to Symmetric from an incumbent provider, and 98% of customers have stayed with the company since its founding…\nFull release here , originally announced October 6th, 2026.\nGet Fresh Healthcare & IT Stories Delivered Daily\nJoin thousands of your healthcare & HealthIT peers who subscribe to our daily newsletter.\nWe respect your privacy and will never sell or give out your contact information\nYou may also like\nBeyond the Scribe: The “360 Clinic Visit” & Ontario’s Centralized EMR Push for Primary Care",
+      "text_status": "ok"
+    },
+    {
+      "id": "fb9084ec3004",
+      "title": "China Carbon Neutral raises $27.1M in discounted share sale",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORE1IWWdWR2o3NjFIRkwxQjFUWXExQVVzUS1EdWw0OV9aTzNBZ2NvTXZ4RTFsTWl2a2FSUUYyRFFKdEhucUxRYUpseW9JX0JGSGZ5bHhfNUVqRENWU2dSSG9DWmh1MHlRemVva1RScHJKVjNFU2lnRnl6TklKczNOei1hZDUwbXI5UWw5cDlkM2REUVE5aXRJ?oc=5",
+      "published_at": "2026-11-27T13:06:35.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "China Carbon Neutral raises $27.1M in discounted share sale Dealroom",
+      "source_feed": "gnews-g7",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 27100000,
+        "currency": "USD",
+        "raw": "$27.1M"
+      },
+      "company_guess": "China Carbon Neutral",
+      "group_key": "china carbon neutral",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/china-carbon-neutral-raises-27-1m-in-discounted-share-sale",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "ed96764233eb",
+      "title": "Icarus Raises $25M for Solar-Powered Stratospheric Aircraft It Calls a Modern-Day U-2",
+      "publisher": "Wowtale",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnSEdHNFJhU25EaG5mdFB2eXE2cmpKQ0pNXzVMLU5Ib01BUDBVVzBzNWJmZTlUSV9fdnRWOUNtdUVrT19yRE1vR3hUZk9aZ1g2STdJ?oc=5",
+      "published_at": "2026-11-26T22:06:48.000Z",
+      "publisher_url": "https://en.wowtale.net",
+      "snippet": "Icarus Raises $25M for Solar-Powered Stratospheric Aircraft It Calls a Modern-Day U-2 Wowtale",
+      "source_feed": "gnews-g1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 25000000,
+        "currency": "USD",
+        "raw": "$25M"
+      },
+      "company_guess": "Icarus",
+      "group_key": "icarus",
+      "group_rank": 0,
+      "resolved_url": "https://en.wowtale.net/2026/11/27/236180/?utm_source=rss&utm_medium=rss&utm_campaign=icarus-raises-25m-for-solar-powered-stratospheric-aircraft-it-calls-a-modern-day-u-2",
+      "text": "Icarus , a U.S. startup that builds solar-powered unmanned aircraft to fly in the stratosphere for reconnaissance and communications, has raised $25 million. In a LinkedIn post on Thanksgiving, November 26, CEO Henry Kwan announced the round and described the company as building “the modern-day U2 spy plane,” pitched as autonomous, solar-powered and low-cost. The U-2 is the high-altitude reconnaissance aircraft the United States has flown since the Cold War. The investors, the round’s stage and the valuation were not disclosed.\nKwan thanked investors, the team, partners and customers in turn, and gave the credit to his team. After late nights, 4 a.m. starts for Mojave and deployments around the world, he wrote, it was the team that built the aircraft and put it at 70,000 feet (about 21,000 meters). The money will go toward Phase 1 of what he called the “Secret Icarus Master Plan”: building small, affordable solar-powered aircraft for intelligence and communications. Phases 2 to 4 were left unexplained (“If you know, you know”). The company says it wants more builders, more production and more flights, with better reliability, faster deployments and lower costs, and it is still hiring.\nThe gap that satellites, balloons and aircraft leave open\nIcarus’s aircraft is called APOLLO. It is a solar-powered unmanned aircraft designed to fly at 60,000 feet (about 18,000 meters) and above. According to a U.S. Army newsletter, it is a low-cost, mass-producible platform that stays aloft for long periods to provide persistent sensing, communications relay and data backhaul. The company says a single aircraft can monitor up to 7,500 square kilometers and send data with a latency of 5 to 10 milliseconds.\nThe technology targets the space that satellites, balloons and ordinary aircraft leave open. A satellite follows a fixed orbit, so an adversary knows when it passes overhead. A balloon drifts with the wind. A conventional aircraft burns fuel for as long as it is in the air. A solar-powered stratospheric aircraft can stay over one area for a long time. Taro Fukuyama, an Icarus investor, made the same argument in a post on X explaining why he invested , and put the price of an aircraft at around $100,000.\nIcarus was founded in 2023, started out in a garage in El Segundo, near Los Angeles, and joined Y Combinator’s Fall 2025 batch. Its record with the U.S. Army stands out. According to an Army FUZE newsletter , Icarus took first place and a $25,000 prize at the Army’s xTech|Live competition at SOF Week in 2025 and won another $30,000 at xTech|Search 9. It then landed a Phase I Army Small Business Innovation Research (SBIR) contract worth up to $250,000 and took part in the Valiant Shield exercise in Guam in June. Along the way APOLLO moved from Technology Readiness Level (TRL) 3 to 7, on a scale where 1 is basic research and 9 is fielded operation, and the four engineers who entered the competition grew into a team of about 50.\nKwan, the founder, studied aerospace engineering at Georgia Tech. According to his YC profile , he built drones for NASA and worked on satellites at Orbital.\nMoney is already pouring into reconnaissance and surveillance\nIcarus is not alone in the stratosphere. Sceye received an investment from SoftBank as the first tranche of its Series C to scale its stratospheric platform, and Skydweller, which builds solar-powered long-endurance aircraft, and Airbus-backed AALTO compete in the same field.\nLooking across defense and reconnaissance technology, even more capital is flowing. Anduril raised a $5 billion Series H in May at a $61 billion valuation, and AI reconnaissance drone maker TEKEVER raised a $580 million Series D in September.\nThe $25 million, however, is so far confirmed only by the CEO’s post. The investors have not been named, and most of the flight performance figures are the company’s own, leaving outside verification still to come. The question is whether Icarus can build at real scale the small, affordable aircraft it calls Phase 1.",
+      "text_status": "ok"
+    },
+    {
+      "id": "2732f6d24344",
+      "title": "AirEdge raises $15M Series A for cloud-native industrial software",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUWpPQjRQRDdhUjJadktzdzVHSGx1VFZQelNvQlNrRnN6Wkl3Zk1Tc0RiRHRpYzdRSWdRZnI3N2M4bFRrdzFWT21DY1M2bkJfeFZ4ZEwzZnhxQzRTbEJjS2RQQVd4R2phdElRV1RCOFFlTEdLUXJON3BxVDVlcFFMSmVjVERXMk9HUHF5QTF4YUZvS09EVXpJRWoxSUhqUDQ?oc=5",
+      "published_at": "2026-11-26T15:31:42.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "AirEdge raises $15M Series A for cloud-native industrial software Dealroom",
+      "source_feed": "gnews-g1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 15000000,
+        "currency": "USD",
+        "raw": "$15M"
+      },
+      "company_guess": "AirEdge",
+      "group_key": "airedge",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/airedge-raises-15m-series-a-for-cloud-native-industrial-software",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "a9c2eae0285b",
+      "title": "Audun Raises 3 Million Dollars to Automate Debt Collection",
+      "publisher": "n24.com.tr",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnVnY1JQR2liTXRKVDdTWHpQcmZJRVFBMDk2QllLR0hmNnhCT0h0OHZlWWF6eXZrMjMtWGp4WVlrdmhPZ19TdzNtS1BfODJDYkhqaDRXY2hQX1RhVWZDNElkLWw0NmlqUnRzbEc0cXdvdUQxZjdfSlc0cThDRTNQZXZEM3ZlOHgtYk5tMk1jWEduWjhI?oc=5",
+      "published_at": "2026-11-28T10:16:43.000Z",
+      "publisher_url": "https://n24.com.tr",
+      "snippet": "Audun Raises 3 Million Dollars to Automate Debt Collection n24.com.tr",
+      "source_feed": "gnews-2",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Audun",
+      "group_key": "audun",
+      "group_rank": 0,
+      "resolved_url": "https://n24.com.tr/en/companies/audun-raises-3-million-dollars-to-automate-debt-collection",
+      "text": "Please wait while your request is being verified...",
+      "text_status": "thin"
+    },
+    {
+      "id": "77f8dd980196",
+      "title": "Vector Singularity raises second round within six months as Alibaba makes first quantum computing investment",
+      "publisher": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VVndPdzdLU0oxNU1POUdOVkFmZDBYaUt0SDBSSWJXU3kzSTFGbm5YRXd0blM5YlBkclg0V2dCOGNGbmk0NkNGV3NfLW5rTEdmVkZCUklGQUM5MmFrTW81RllYcXA5X21nNE9GMkFrcVhyLUpEM3c?oc=5",
+      "published_at": "2026-11-28T06:25:00.000Z",
+      "publisher_url": "https://finance.biggo.com",
+      "snippet": "Vector Singularity raises second round within six months as Alibaba makes first quantum computing investment BigGo Finance",
+      "source_feed": "gnews-3",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Vector Singularity",
+      "group_key": "vector singularity",
+      "group_rank": 0,
+      "resolved_url": "https://finance.biggo.com/news/caed6d55-8e8c-43f0-b51b-d54065f126d8",
+      "text": "Vector Singularity raises second round within six months as Alibaba makes first quantum computing investment\nAdd preferred source\nVector Singularity, a neutral-atom quantum computing company founded just six months ago, announced the completion of a several-hundred-million-yuan Series A round led by the Beijing Artificial Intelligence Industry Investment Fund and Beijing Industrial Development Investment Management, with participation from Alibaba Group and China Merchants Venture Capital. It marks Alibaba's first investment in a quantum computing company. Founder Li Xiangliang studied under a scholar in cold-atom quantum simulation, and the team now has nearly 20 full-time PhDs. The company is pursuing rubidium and ytterbium atomic routes in parallel and plans to release its first-generation prototype and a QAgent product in the first half of 2027. Since November, the neutral-atom sector has seen multiple hundred-million-yuan financings, as the industry shifts from hype to rational scrutiny.\nKey Elements\nVector Singularity Li Xiangliang Alibaba Beijing Artificial Intelligence Industry Investment Fund Beijing Academy of Quantum Information Sciences China Merchants Venture Capital China Telecom Quantum Information Technology Group neutral-atom quantum computing Yuanji Quantum Atom Matrix\nAmid a capital winter, the quantum computing sector has drawn a headline-grabbing deal. Beijing Vector Singularity Technology Co. (Vector Singularity), founded just six months ago, announced the completion of a Series A round worth several hundred million yuan (approximately $45 million), led by the Beijing Artificial Intelligence Industry Investment Fund, Beijing Industrial Development Investment Management and its Beijing Industrial Quantum Fund, Beijing Wanxin Rongzhi, and the Zhongguancun Science City Fund, with participation from Alibaba Group, China Merchants Venture Capital, Qifu Capital, Hunan Caixin, Beiyang Haitang Fund, and Yarui Capital. It is Alibaba's first foray into quantum computing, and Vector Singularity's second funding round in less than six months, following an angel round of more than 100 million yuan (approximately $15 million) in August.\nVector Singularity was incubated by the Beijing Academy of Quantum Information Sciences and focuses on complete neutral-atom quantum computing systems, measurement and control systems, and supporting algorithms. Founder and CEO Li Xiangliang studied at Tsinghua University for his bachelor's and master's degrees and earned his doctorate at ETH Zurich under Tilman Esslinger, a scholar in cold-atom quantum simulation. After returning to China at the end of 2021, he joined the Beijing academy to lead construction of a ytterbium-atom quantum computing platform. According to the company, nearly 20 PhDs have joined full time, covering key areas including atom manipulation, precision optics, experimental control, and quantum error correction.\nNeutral atoms are one of the main technical routes in quantum computing, using lasers to trap and manipulate atoms so they serve as qubits. Atoms of the same species are naturally identical, and optical tweezers can flexibly arrange and move them, offering room to scale up computing power, though the system still must address computational errors and stability. Vector Singularity is pursuing rubidium and ytterbium routes in parallel: the rubidium route has a relatively mature engineering system and can be used first for system building and algorithm validation, while the ytterbium route requires solving more optical engineering challenges and is intended to reuse error-correction capabilities built up earlier.\nThe investor lineup reflects a mix of local state capital, central state-owned enterprise funds, market-oriented institutions, and industrial capital. The Beijing Artificial Intelligence Industry Investment Fund, the Beijing Future Quantum Fund, Beijing Industrial Development Investment Management, and Zhongguancun Science City form a local industrial fund matrix anchored to Beijing's quantum industry buildout. China Merchants Venture Capital is approaching from the angle of central state-owned enterprise industrial scenario resources; it said the neutral-atom route is one of the fastest-evolving quantum computing technologies globally, with international leaders still temporarily ahead in high-fidelity manipulation, error correction and logical-qubit validation, and the industrial ecosystem. That requires Chinese teams both to keep tracking global frontier technology and to possess strong systematic engineering capabilities.\nAlibaba's entry is particularly noteworthy. Alibaba Group's strategic investment department said quantum computing technology has accelerated in recent years, especially as routes such as neutral atoms keep making breakthroughs in scaling and quantum error correction, showing broad industrialization prospects, and that the Vector Singularity team has deep scientific research accumulation, outstanding technological innovation capability, and a clear industrialization path.\nAt the industry level, since November the neutral-atom quantum computing field has seen successive hundred-million-yuan financings, with local state capital and market-oriented institutions often participating together.\nDate Company Round Amount Main investors\nNov. 11 Yuanji Quantum Angel 100 million yuan level China Internet Investment Fund, Muhua Kechuang\nNov. 20 Atom Matrix Series B Several hundred million yuan Hangzhou Industrial Investment Group, Hangzhou High-Tech Jintou, Chengdu Kechuang Investment, Bosch Ventures\nNov. 25 Yuanzhi Xinguang Angel Over 100 million yuan Legend Star, Shanghai Future Industry Fund\nRecent Vector Singularity Series A Several hundred million yuan Beijing Artificial Intelligence Industry Investment Fund, Alibaba Group, China Merchants Venture Capital, etc.\nNote: The above financing information is compiled from public disclosures by each company.\nAlthough the companies belong to the same broa",
+      "text_status": "ok"
+    },
+    {
+      "id": "66151a26fb63",
+      "title": "Discovery Bank raises 2029 client target to three million as expansion gathers pace",
+      "publisher": "businessreport.co.za",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON2JobUdEbEUxamJyT1VMbEdHZWhya0dyUEFvUC1iMzQ3TlMwdy05Sm5mVDRCWEZqN1hhNkhQanZwc2ZUaFdGNHdGSGp6Z1FRYlZCUXVLTThTeEl6SDFIc1VtSXVhM1AtTzBpT3VtSjJibDctaWZZdFdJNkx3VTNQUVJYRmlJd0NPTF9IWkltOG0zS2VULTdtZDRBNERmS3pwa3d5ZlRsdlAxdXk0OGdaQ3ZKTzEwZVZGLTc4UDd6VjZhZF9maUFQTlR5aXdzWkU?oc=5",
+      "published_at": "2026-11-27T13:34:39.000Z",
+      "publisher_url": "https://businessreport.co.za",
+      "snippet": "Discovery Bank raises 2029 client target to three million as expansion gathers pace businessreport.co.za",
+      "source_feed": "gnews-4",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Discovery Bank",
+      "group_key": "discovery bank",
+      "group_rank": 0,
+      "resolved_url": "https://businessreport.co.za/companies/2026-11-27-discovery-bank-raises-2029-client-target-to-three-million-as-expansion-gathers-pace/",
+      "text": "Companies\nEconomy\nEnergy\nMarkets\nEntrepreneurs\nBusiness Report Companies\nDiscovery Bank raises 2029 client target to three million as expansion gathers pace\nZanele Songo | Published 1 day ago\nAsk AI\nDiscovery Bank is targeting three million clients by 2029 as it prepares to expand into family and SME banking in 2027.\nImage: Discovery Bank\nDiscovery Bank has raised its customer growth ambitions after exceeding expectations, with the lender now targeting three million clients by 2029 as it prepares to expand into family and small and medium-sized enterprise (SME) banking in 2027.\nThe bank expects to reach two million clients by the end of its 2027 financial year, two years ahead of its original target, according to Discovery’s Capital Markets Day presentation on Thursday.\nThe financial services group has consequently increased its 2029 client target from two million to three million, an increase of 50%, as it looks to capitalise on the growing adoption of its digital banking platform.\nDiscovery Group chief executive Adrian Gore said the bank’s performance had exceeded expectations, with customer acquisition accelerating as the business gained scale.\n“The performance of the bank has been quite staggering,” Gore said. “We think we will get to the two million customers by the end of this financial year, by June 2027.”\nGore added that the group was increasing its client target to three million by 2029, while retaining its R3 billion operating profit ambition.\nCustomer growth drives expansion\nDiscovery Bank had close to 1.6 million clients at the end of its 2026 financial year, with retail deposits of R27 billion and advances of just under R13 billion.\nThe bank is currently onboarding approximately 1,800 new clients daily, with about 70% of them coming from outside the Discovery Group.\nDiscovery Bank CEO Hylton Kallner said the bank’s growth strategy was supported by its full-service digital banking model, which combines transactional banking, savings, investments and lending with Discovery’s broader financial services offering.\n\"We were very explicit. Discovery Bank would be built on a full-service offering,\" Kallner said.\nThe bank’s strategy also relies on using data and artificial intelligence to personalise banking experiences, improve customer service and strengthen protection against fraud.\nKallner said one of the bank’s priorities was to use its technology capabilities to deliver a more personalised experience.\n“To utilise the data and the AI and the capabilities that we’ve built to personalise the entire bank, to personalise the experience, to scale it efficiently, to protect clients, and to offer best-in-class service to our banking clients,” he said.\nFamily and SME banking planned for 2027\nThe bank plans to expand its product offering into family banking and SME banking during 2027, opening up additional customer segments beyond its existing retail banking market.\n“Over the course of the next year, we will be expanding in areas of family banking. We will be expanding into areas like SME banking. We see significant opportunities in these adjacencies,” Kallner added.\nThe move into SME banking could position Discovery to compete more directly in the small-business banking market, where businesses require transactional accounts, payment solutions and access to finance.\nHowever, the bank has not yet detailed the specific products, services or financing facilities that will form part of its SME offering.\nIts planned family banking proposition will similarly extend its retail offering to households, although further details about the product features are yet to be announced.\nProfitability and the Superbank strategy\nDiscovery Bank’s expansion comes as it continues to improve its financial performance.\nThe bank achieved a normalised operating profit of R370 million in the 2026 financial year, compared with a loss of R68 million in the previous year.\nOperating profit before new business acquisition costs was approximately R860 million.\nThe group is now positioning the bank at the centre of its broader Superbank strategy, which aims to integrate its health, insurance, investment and banking products through a single digital platform.\nGore said the strategy was built on the belief that combining the group’s different businesses could improve its ability to serve customers and compete.\n“The key issue here is the additive nature of them,” he said, referring to the integration of shared-value benefits across different product areas.\nDiscovery is also targeting an additional one million policies across new and existing customers by 2029 as it seeks to increase cross-selling opportunities through the banking platform.\nAlongside its three-million-client ambition, Discovery Bank is targeting operating profit of more than R3 billion before new business acquisition costs by 2029.\nThe bank is also targeting a return on equity of 30% and a cost-to-income ratio of 40% or below.\nKallner said the group remained confident in its ability to achieve the targets, with the bank’s growth creating potential upside to its profitability ambitions.\nBusiness Report\nRelated Topics:\ndiscovery bank capital markets fy2026 sme banking\nRelated Articles\n1.\nInside Discovery’s R4billion decision to buy, not lease, in Sandton\nIOL Reporter | Published 9 months ago\n2.\nAdrian Gore leaves Business Unity South Africa\nNicola Mawson | Published 6 months ago\n3.\nDiscovery reports 30% increase in normalised headline earnings after strong growth ...\nEdward West | Published 1 year ago\n4.\nDiscovery runs with the young and healthy\nPublished 27 years ago\nServes as the essential economic radar for executives, entrepreneurs, and investors alike. The IOL business\nplatform ensures that critical financial intelligence is seamlessly delivered to business leaders nationwide.\nRead more\nSections on Business Report\nCompanies\nEconomy\nEnergy\nMarkets\nEntrepreneurs\nOur network\nBusiness Report\nCape Argus\nCape Times\nDaily Voice\nDaily News\nIndependent on Saturda",
+      "text_status": "ok"
+    },
+    {
+      "id": "00bdd05d546d",
+      "title": "Why Elon Musk's plan for 1 million AI satellites is raising concerns",
+      "publisher": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbml4RU1Iakl2SUFkcGNJbVhySGp1c1pQWVJWc0hrbWZfRmt0U2h0X1FrS2dSZDF1TGwtT1RXdVNQV2FYMGZwYUpLajdreWltS0xTcWRyMHY5eVNTeEdhZUYyTkdhSi1lcjJmV0ZpbnhRSmxzNElRa0t5b0JyWmEzVll4d0oxeGt3OWIzSllqUTVaaEpkWk9wUTFoS1hUQUZqTld4WExRZWtZY044RnpDSEhNNklVQnNqUWRGdi1LWTJtUWpnRks1NVVjQUo5OTZ0WkU00gHYAUFVX3lxTE1VY3h3S3NNdHl4eHFDYjIyZ3R2NDR3cjQxS3doa0tweXE3X04yZlFPNU53dmRaQUNQY29Da2UtZE16dDBld1JaWlFGTlJHNUd2YUV0b2hFOGNXSGJWSTItRklMMHR3dldXR2pnMUVxcDFrbkF1NTJIbEQteXFDbG9hNGdSU2J3MUJBazBIWXU3aFBlX1V5Yko3bndMZ3MteHByRS1uanpINC1vTjVFdmJyWHRyTDZLbzZCRTdzVF9PdkNqWWdXVlNlSndBOThkNjA0ZGVlSUVXTA?oc=5",
+      "published_at": "2026-11-28T06:16:12.000Z",
+      "publisher_url": "https://m.economictimes.com",
+      "snippet": "Why Elon Musk's plan for 1 million AI satellites is raising concerns The Economic Times",
+      "source_feed": "gnews-4",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Why Elon Musk's plan",
+      "group_key": "why elon musks plan",
+      "group_rank": 0,
+      "resolved_url": "https://m.economictimes.com/tech/technology/why-elon-musks-plan-for-1-million-ai-satellites-is-raising-concerns/articleshow/136240198.cms",
+      "text": "Synopsis\nSpaceX's pitch is to take the impact of data centres away from Earth, using a million solar-powered satellites to do AI data crunching in space and beam the results to Earth. But what is the impact of one million satellites, both in space and on Earth? Why has the Federal Communications Commission made this decision? And will a million satellites actually end up in orbit?\nListen to this article in summarized format Listen\nAgencies\nThis week, on the eve the Thanksgiving holiday, the United States Federal Communications Commission approved SpaceX 's plan to launch one million \" Starmind \" artificial intelligence (AI) data centre satellites .\nThis decision reflects the convergence of a satellite boom, an AI bubble and the Trump administration's disregard for environmental regulation.\nIf Starmind proceeds in full, the number of operational satellites will be multiplied by a factor of 50. Space and our night skies will become vastly busier places.\nSpaceX's pitch is to take the impact of data centres away from Earth, using a million solar-powered satellites to do AI data crunching in space and beam the results to Earth.\nBut what is the impact of one million satellites, both in space and on Earth? Why has the Federal Communications Commission made this decision? And will a million satellites actually end up in orbit?\nUps and downs\nWe are currently in a satellite boom, and constellations of hundreds or thousands of satellites are a key feature.\nThe Starlink internet satellites (another SpaceX project) is the best known example of such a constellation. Orbital rocket launches have increased to almost one per day, while the number of operational satellites is creeping towards 20,000.\nBut Starmind represents something else. A million satellites.\nTo get so many satellites into orbit would be a vast undertaking. If the satellites have a lifetime of five years (similar to Starlink satellites), then roughly 500 satellites would need to be launched every day.\nThis also implies that roughly 500 satellites would eventually need to be disposed of every day. For satellites less than 2,000 kilometres above Earth, disposal usually means reentry and burning up in the atmosphere. And this has consequences.\nWhen satellites burn up in the atmosphere, their materials react with and are deposited into the upper atmosphere. We now have satellites depositing far more aluminium, titanium, copper and lead into the atmosphere than the natural quantities from meteors.\nAluminium is of particular concern, as alumina can lead to the destruction of ozone in the upper atmosphere. This could increase ultraviolet light on Earth and the risk of skin cancers.\nIt's getting busy\nIncreasing the number of satellites by a factor of 50 is going to change our view of the sky.\nIf you look up during the early evening, you will see the stars your ancestors saw. But within a minute or two you will see a satellite. A point of light silently moving from horizon to horizon.\nOur view of the night skies could fundamentally change.\nEach satellite would be 75 metres wide and in the early evening they will be brighter than any star. And with a million satellites in orbit, there will be hundreds of Starmind satellites above the horizon irrespective of where you are.\nThe orbital clutter comes with real risks.\nSatellites travel at speeds of roughly seven kilometres per second, and collisions produce clouds of debris that can produce further collisions. A nightmare scenario is the Kessler Syndrome - a runaway cascade of debris producing collisions that render low Earth orbit unusable.\nOf course, SpaceX is aware of the risks of orbital collisions, and it already mitigates this risk with Starlink by manoeuvring satellites away from potential collisions. However, such manoeuvres require operational satellites and it is inevitable some satellites will fail.\nThose uncontrolled satellites will pose a real danger.\nRegulator or promoter?\nThe Federal Communications Commission has been a key regulator for American satellites. This has included regulating the radio frequencies that satellites use for communications to and from Earth, the disposal of satellites at the end of their useful lives and environmental impacts.\nHowever, under the Trump administration, the commission is taking a looser approach to regulating satellites. This includes no consideration of environmental impacts, which is reflected in the commission's decision on Starmind. It says the commission \"will not require further environmental review under the National Environmental Policy Act [...] for SpaceX's Starmind system\".\nThere are also some statements from the commission on Starmind that are, quite frankly, bizarre. For example, it claims Starmind \"promises to bring the human race closer to a Kardashev II civilization - one that can harness the full power of the sun\".\nThis is sci-fi silliness. A Kardashev II civilisation would need many trillions of square kilometres of technology in orbit around the Sun. Starmind is not a stepping stone to a vast \"Dyson sphere\" - a hypothetical megastrucutre that would surround the Sun and capture its energy.\nBut can it work?\nOne reason data centres are so unpopular on Earth is their use of precious resources, including water for cooling hot computer processors. But cooling in space is harder still. When stuck in a vacuum, one can only radiate heat away. And if you are familiar with vacuum flasks, you will know this can be a slow process.\nOf course, it is possible to regulate heat in space, and satellites do it all the time. But they typically aren't pouring out heat like data centres do.\nGoogle recently launched an AI demonstrator satellite into orbit and tasked it with undertaking AI calculations. But it had to have downtime between calculations to dispose of excess heat.\nAnd apart from the physics there's the finance.\nRight now we are in an AI boom , with the inflow of investment being vastly higher than revenues. And the cost of deploying AI in o",
+      "text_status": "ok"
+    },
+    {
+      "id": "db85cb909355",
+      "title": "Waterborne Autonomous Driving Startup Secures Tens of Millions Yuan Financing to Accelerate Nearshore Unmanned Operation Platform Rollout | HardKr Exclusive Premiere",
+      "publisher": "36Kr",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DTUVYeG1kUTVud0YzdzdTaThSbUtwc3ZYV3dLVUVSc21kLXUyWWY4RU1DZmVWekMtVm1rd3lqTW1DSDRtd3p6UXdnT3E3ck1zbVkw?oc=5",
+      "published_at": "2026-11-28T02:11:59.000Z",
+      "publisher_url": "https://eu.36kr.com",
+      "snippet": "Waterborne Autonomous Driving Startup Secures Tens of Millions Yuan Financing to Accelerate Nearshore Unmanned Operation Platform Rollout | HardKr Exclusive Premiere 36Kr",
+      "source_feed": "gnews-6",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Waterborne Autonomous Driving Startup",
+      "group_key": "waterborne autonomous driving startup",
+      "group_rank": 0,
+      "resolved_url": "https://eu.36kr.com/en/p/4081887385817988",
+      "text": "English\n中文\nDeutsch\nHome\nArticle\nA waterborne autonomous driving company has raised tens of millions of yuan in financing, accelerating the rollout of nearshore unmanned operation platforms | HardKr Exclusive First Release\n黄 楠 2026-11-28 10:00\nWe have cumulatively completed deliveries to nearly 100 customers.\nWritten by Huang Nan\nEdited by Yuan Silai\n36Kr has learned that Cangchao Technology, a surface intelligent driving company, recently closed a tens of millions of yuan Angel++ round of financing, co-invested by Industrial Securities' subsidiary Industrial Securities Capital and listed company Gaohua Technology. This marks the third round of financing completed by the company in 2026. The funds will be mainly invested in digitalization and product implementation of offshore operation and maintenance scenarios, marine physics AI technology R&D, classification society certification and industry standard formulation, while promoting cutting-edge exploration of the offshore world model.\nAfter the completion of this round of financing, together with the previous series of seed round, Angel round and Angel+ round financing, Cangchao Technology's total financing amount has reached nearly 100 million yuan. The seed round was funded by Lianyungang Ocean Fund, the investors of the Angel round include Yungang Group, Tianhui Capital and Lianyungang Financial Holding Group, and the investor of the Angel+ round is Haizhou Bay Development Group.\nCangchao Technology was established at the end of 2023, with its headquarters located in Lianyungang. The company focuses on the offshore embodied intelligent track, takes \"marine physics AI\" as its technical base, and has built a three-layer product architecture covering underlying algorithms, full-vessel products and shore-based control. The bottom layer is the self-developed marine physics AI system, with the intelligent navigation AI brain \"OceanHub\" as the core; on this basis, three series of unmanned vessels including Lan, Yu and Yao, as well as the OceanHub on-board intelligent driving solution have been derived. This architecture enables the surface intelligent driving capability to adapt to different ship types, sea areas and operation scenarios.\nThe team is composed of professionals in cutting-edge technical fields such as ship engineering, underwater robots and commercial aerospace, and the core members have cross-professional backgrounds in both ship design and surface autonomous driving. Cheng Chen, founder and CEO of the company, holds a doctorate degree from Hohai University, once served as an external technical consultant for multiple local maritime administrations, and deeply participated in a number of national key R&D projects.\nIntelligent transformation of ships by Cangchao Technology (Source/Enterprise)\nMarine intelligent driving has long faced an unavoidable real-sea verification bottleneck.\nThe hydrology, wind and waves, ocean currents and visibility conditions in offshore waters are dynamically changing, with discrete and non-reproducible working conditions, so it is not easy to carry out stable and controllable offshore measurement continuously. The acquisition of effective samples under real marine working conditions features high cost and long collection cycle, and without sufficient on-site data covering various extreme working conditions, it is difficult for the model to carry out continuous iterative optimization; without normalized offshore field verification, the reliability and fault tolerance of the algorithm in the face of complex sea conditions can hardly be fully polished.\n\"Finding a suitable sea area to continuously carry out standardized field tests is a very difficult task in itself,\" Cheng Chen, CEO of Cangchao Technology, told 36Kr. The exploration of Cangchao Technology starts from solving this industry pain point. In the seed round stage, with the support of Lianyungang Ocean Fund, the company entered the initial test sea area to carry out multi-working condition and long-cycle real-sea tests, and completed the early algorithm and system verification work.\nCheng Chen pointed out that the core threshold of offshore intelligent algorithms is far more than the sea area environment itself. The deeper test lies in whether the team can build a complete closed-loop verification system of \"data-model-scenario\" to continuously precipitate exclusive data of marine scenarios; at the same time, based on system engineering capabilities, ensure the stable and reliable operation of unmanned navigation equipment in complex and changeable marine working conditions such as wind, wave and disturbance.\nSpecifically in terms of the design of underlying algorithms, the team deeply integrates the ship dynamics model with deep learning, and proposes a \"physics-driven neural network control algorithm\". By taking the physical motion law of the ship as the \"pre-constraint\" of the neural network, the model can further learn and understand how the hull is stressed and responds in wind, wave and water flow while absorbing data.\nFull-stack capability of surface intelligence (Source/Enterprise)\nThis \"physics + data\" two-wheel drive mode enables Cangchao Technology's unmanned vessels to have higher-precision maneuvering control and trajectory tracking capabilities even in the face of complex sea conditions.\nOn this basis, Cangchao Technology simultaneously builds a domain world model for offshore areas. Different from the land road environment, there are no fixed lanes on the sea surface, and markers will continue to change with tides and water currents. The positions of buoys, navigation ships and underwater obstacles are all dynamic, and static electronic nautical charts are no longer sufficient to support real-time navigation decisions.\nThe value of the offshore world model is to upgrade the static nautical chart to a dynamic environment base that can perceive and deduce environmental changes. 36Kr learned that relying on the full-domain environ",
+      "text_status": "ok"
+    },
+    {
+      "id": "df48e42b52be",
+      "title": "Starforge Raises 6.6 Million Euros for Modular Fusion Reactors",
+      "publisher": "n24.com.tr",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQk12dTdYekdtLWtZY2dvMjBRRURkeHFMendaRHlzX2RuVUFCQXR3U2pVdEpWSnJ6RE9lbF84dEcxRkd5V3RMd3g0aGdQNjFpZnBlZjRrUDR5SEZFN1otWWdldkQzT2dkNnZIUzNOcHNCXzRUVHRkZmI4X2pzdENKUEZNU1F3ZEJka24xRTY4MDBhc2Q5WFhjVzhmVS00Zw?oc=5",
+      "published_at": "2026-11-26T13:15:11.000Z",
+      "publisher_url": "https://n24.com.tr",
+      "snippet": "Starforge Raises 6.6 Million Euros for Modular Fusion Reactors n24.com.tr",
+      "source_feed": "gnews-7",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Starforge",
+      "group_key": "starforge",
+      "group_rank": 0,
+      "resolved_url": "https://n24.com.tr/en/companies/starforge-raises-66-million-euros-for-modular-fusion-reactors-797",
+      "text": "Please wait while your request is being verified...",
+      "text_status": "thin"
+    },
+    {
+      "id": "e6a0c64708a5",
+      "title": "Future Sequence Raises Millions USD Financing to Enable Everyone to Own Their Personal AI Interactive Games",
+      "publisher": "36Kr",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00b0FiN3phbWQ3N1g3RUNGRWNiOWhKSVFLcnQ2emFaWGZpN1F4U2tOWXMwYmdZcU04d2lUXzA3SUN5TzVSbGVGcXRGUWxILWRET1c0?oc=5",
+      "published_at": "2026-11-28T09:22:25.000Z",
+      "publisher_url": "https://eu.36kr.com",
+      "snippet": "Future Sequence Raises Millions USD Financing to Enable Everyone to Own Their Personal AI Interactive Games 36Kr",
+      "source_feed": "gnews-g7",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Future Sequence",
+      "group_key": "future sequence",
+      "group_rank": 0,
+      "resolved_url": "https://eu.36kr.com/en/p/4089194455513731",
+      "text": "English\n中文\nDeutsch\nHome\nArticle\nHaving raised millions of US dollars in financing, Future Sequence aims to enable everyone to own their own AI interactive games.\n赵芮Jacklin 2026-11-28 17:05\nJust because AI can generate games doesn't mean it can make good games.\nText by Zhao Rui\nEdited by Zhang Yuxin\nIn September, an interactive visual novel themed on \"strong female lead's counterattack\" named *Yao Zhi Chun Xue* on Douyin's game platform attracted more than 1.2 million players to experience within two weeks.\nThis game was created by a recent female graduate with no game development background, who usually loves writing novels. With the help of NEX, the AI interactive content creation tool developed by Future Sequence, she turned her own novel into a playable interactive visual novel. In the game, players can make choices at key nodes of the story, and different choices lead to different fate trajectories of the characters.\nDemo version of *Yao Zhi Chun Xue*\nIn the past, developing such an interactive visual novel required collaboration of more than a dozen professional positions including game planners, artists and developers, and the development cycle was often calculated in years. Adding each additional story branch also meant hundreds of thousands of production costs.\nGenerative AI is changing this situation. However, while AI lowers the threshold of game production, it does not guarantee that fun games can be produced.\nIn addition to generating characters and scenes, to attract players to keep investing in a game, professional gameplay design, operation feedback and reasonable difficulty are also required to cooperate. For interactive visual novels, on this basis, it is also necessary to balance the attractiveness of the story and the playability of the game. How can each choice of the player reasonably drive the direction of the plot? How can the gameplay such as combat and puzzle solving that appear in it be naturally integrated with the story?\nIn October 2025, Qin Kai founded Future Sequence and developed NEX, an AI interactive content creation tool. The team started with interactive visual novels, and transformed the experience of professional game teams in plot branching, gameplay design, audio-visual production and other aspects into expert models and creation processes that AI can call, helping ordinary creators turn stories into playable works.\nQin Kai graduated from the Department of Computer Science of Peking University with a postgraduate degree. He worked on VR and video creation tools for ordinary users in the early stage. During his tenure as GM of Content Ecology of Mini World, he was responsible for the creation engine, creator operation and content distribution. During his tenure, the monthly active creators on the platform increased from 20,000 to 1.2 million, and the daily active users of games increased from more than 4 million to 22 million. After that, he served as the product lead of the GiiNEX engine at Tencent AI Lab, promoting AI creation tools and Agents into the actual production process. Now working on NEX, he hopes to first smooth out the creation process of interactive visual novels, and then hand over the tool to more creators.\nAt present, Future Sequence has received millions of US dollars in seed round financing, led by Lighthouse Founders' Fund. The team has nearly 20 people, including former screenwriters and lead planners of games such as *The Invisible Guardian* and *Flourishing Age: All Under Heaven*, as well as members from teams such as Tencent AI and Mini World. The company plans to first attract creators and accumulate interactive works through NEX, and then gradually build an overseas mobile interactive entertainment platform connecting creators and users.\nStarting from interactive visual novels to build an AI fully dynamic interactive content platform\nFuture Sequence is currently mainly focused on AI interactive visual novels. This is a content form between TV series and games: players can experience the story like watching a movie, and they can also influence the ending of the story through operations such as plot selection, combat, and puzzle solving.\nThis type of work particularly tests the design of multi-branch plots, and how to integrate gameplay such as combat and puzzle solving into the story to assist story progression and deepen immersion. The audience is not limited to traditional game players, but also covers people who like short dramas, novels and casual mini-games.\nFocusing on this direction, NEX targets novel authors, comic authors, screenwriters and ordinary creation enthusiasts, and integrates the production process that used to require collaboration of professionals into a set of AI tools. Qin Kai describes it as a \"virtual game R&D team\".\nAfter users submit their stories to NEX, the AI will first adapt the single-line story into an interactive script with multiple branches, different endings and changing character relationships, and then design gameplay such as combat, puzzle solving and character development based on the interactive script, so that players' operations can also push the story forward. Then it generates corresponding storyboards, characters, scenes and videos, and finally integrates these contents into the game system. Creators can configure payment nodes that match the plot rhythm through Agent, complete testing and one-click packaging, to support multi-platform release.\nDifferent links are completed by the collaboration of Agents for creation, branch design, art, directing and game development. Creators can put forward modification requirements during the process to adjust the plot, pictures and gameplay.\nActual machine demonstration of the working process of the branching writing agent\nQin Kai said that by the end of October 2026, cooperative professional creators have used NEX to produce more than a dozen games, as well as two officially produced IP adaptation works, covering different themes such as a",
+      "text_status": "ok"
+    }
+  ]
+}

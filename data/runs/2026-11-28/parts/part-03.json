@@ -1,0 +1,44 @@
+{
+ "run_date": "2026-11-28",
+ "part": 3,
+ "groups": [
+  {
+   "group_key": "starforge",
+   "company_guess": "Starforge",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "df48e42b52be",
+     "group_key": "starforge",
+     "title": "Starforge Raises 6.6 Million Euros for Modular Fusion Reactors",
+     "publisher": "n24.com.tr",
+     "url": "https://n24.com.tr/en/companies/starforge-raises-66-million-euros-for-modular-fusion-reactors-797",
+     "published_at": "2026-11-26T13:15:11.000Z",
+     "amount_hint": null,
+     "snippet": "Starforge Raises 6.6 Million Euros for Modular Fusion Reactors n24.com.tr",
+     "text_status": "thin",
+     "text": "Please wait while your request is being verified..."
+    }
+   ]
+  },
+  {
+   "group_key": "future sequence",
+   "company_guess": "Future Sequence",
+   "amount_hint_usd": null,
+   "articles": [
+    {
+     "id": "e6a0c64708a5",
+     "group_key": "future sequence",
+     "title": "Future Sequence Raises Millions USD Financing to Enable Everyone to Own Their Personal AI Interactive Games",
+     "publisher": "36Kr",
+     "url": "https://eu.36kr.com/en/p/4089194455513731",
+     "published_at": "2026-11-28T09:22:25.000Z",
+     "amount_hint": null,
+     "snippet": "Future Sequence Raises Millions USD Financing to Enable Everyone to Own Their Personal AI Interactive Games 36Kr",
+     "text_status": "ok",
+     "text": "English\n中文\nDeutsch\nHome\nArticle\nHaving raised millions of US dollars in financing, Future Sequence aims to enable everyone to own their own AI interactive games.\n赵芮Jacklin 2026-11-28 17:05\nJust because AI can generate games doesn't mean it can make good games.\nText by Zhao Rui\nEdited by Zhang Yuxin\nIn September, an interactive visual novel themed on \"strong female lead's counterattack\" named *Yao Zhi Chun Xue* on Douyin's game platform attracted more than 1.2 million players to experience within two weeks.\nThis game was created by a recent female graduate with no game development background, who usually loves writing novels. With the help of NEX, the AI interactive content creation tool developed by Future Sequence, she turned her own novel into a playable interactive visual novel. In the game, players can make choices at key nodes of the story, and different choices lead to different fate trajectories of the characters.\nDemo version of *Yao Zhi Chun Xue*\nIn the past, developing such an interactive visual novel required collaboration of more than a dozen professional positions including game planners, artists and developers, and the development cycle was often calculated in years. Adding each additional story branch also meant hundreds of thousands of production costs.\nGenerative AI is changing this situation. However, while AI lowers the threshold of game production, it does not guarantee that fun games can be produced.\nIn addition to generating characters and scenes, to attract players to keep investing in a game, professional gameplay design, operation feedback and reasonable difficulty are also required to cooperate. For interactive visual novels, on this basis, it is also necessary to balance the attractiveness of the story and the playability of the game. How can each choice of the player reasonably drive the direction of the plot? How can the gameplay such as combat and puzzle solving that appear in it be naturally integrated with the story?\nIn October 2025, Qin Kai founded Future Sequence and developed NEX, an AI interactive content creation tool. The team started with interactive visual novels, and transformed the experience of professional game teams in plot branching, gameplay design, audio-visual production and other aspects into expert models and creation processes that AI can call, helping ordinary creators turn stories into playable works.\nQin Kai graduated from the Department of Computer Science of Peking University with a postgraduate degree. He worked on VR and video creation tools for ordinary users in the early stage. During his tenure as GM of Content Ecology of Mini World, he was responsible for the creation engine, creator operation and content distribution. During his tenure, the monthly active creators on the platform increased from 20,000 to 1.2 million, and the daily active users of games increased from more than 4 million to 22 million. After that, he served as the product lead of the GiiNEX engine at Tencent AI Lab, promoting AI creation tools and Agents into the actual production process. Now working on NEX, he hopes to first smooth out the creation process of interactive visual novels, and then hand over the tool to more creators.\nAt present, Future Sequence has received millions of US dollars in seed round financing, led by Lighthouse Founders' Fund. The team has nearly 20 people, including former screenwriters and lead planners of games such as *The Invisible Guardian* and *Flourishing Age: All Under Hea"
+    }
+   ]
+  }
+ ]
+}
