@@ -1,0 +1,510 @@
+{
+  "run_date": "2026-11-28-1957",
+  "generated_at": "2026-11-28T19:58:33.437Z",
+  "window_days": 2,
+  "range": null,
+  "min_amount_usd": 15000000,
+  "stats": {
+    "feeds": [
+      {
+        "id": "gnews-1",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "gnews-2",
+        "status": 200,
+        "items": 28
+      },
+      {
+        "id": "gnews-3",
+        "status": 200,
+        "items": 55
+      },
+      {
+        "id": "gnews-4",
+        "status": 200,
+        "items": 54
+      },
+      {
+        "id": "gnews-5",
+        "status": 200,
+        "items": 15
+      },
+      {
+        "id": "gnews-6",
+        "status": 200,
+        "items": 30
+      },
+      {
+        "id": "gnews-7",
+        "status": 200,
+        "items": 48
+      },
+      {
+        "id": "gnews-8",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "gnews-g1",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "gnews-g2",
+        "status": 200,
+        "items": 8
+      },
+      {
+        "id": "gnews-g3",
+        "status": 200,
+        "items": 9
+      },
+      {
+        "id": "gnews-g4",
+        "status": 200,
+        "items": 18
+      },
+      {
+        "id": "gnews-g5",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "gnews-g6",
+        "status": 200,
+        "items": 27
+      },
+      {
+        "id": "gnews-g7",
+        "status": 200,
+        "items": 55
+      },
+      {
+        "id": "gnews-g8",
+        "status": 200,
+        "items": 16
+      },
+      {
+        "id": "gnews-g9",
+        "status": 200,
+        "items": 29
+      },
+      {
+        "id": "prnewswire-vc",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "alleywatch",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "pulse2",
+        "status": 200,
+        "items": 120
+      },
+      {
+        "id": "citybiz",
+        "status": 200,
+        "items": 0
+      },
+      {
+        "id": "techcrunch-venture",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-funding",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techcrunch-ai",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "techfundingnews",
+        "status": 200,
+        "items": 20
+      },
+      {
+        "id": "crunchbase-news",
+        "status": 200,
+        "items": 10
+      },
+      {
+        "id": "crunchbase-news-ai",
+        "status": 200,
+        "items": 10
+      }
+    ],
+    "raw_items": 617,
+    "prefiltered": 53,
+    "dropped": {
+      "not_funding": 202,
+      "no_ai_hint": 70,
+      "below_min": 137,
+      "fund_close": 8,
+      "seen": 79,
+      "duplicate_link": 63,
+      "known_round": 41,
+      "noise": 5
+    },
+    "groups": 42,
+    "selected_groups": 12,
+    "candidates": 12,
+    "articles_fetched": 11,
+    "google_rate_limited": false
+  },
+  "groups": [
+    {
+      "key": "apis",
+      "company_guess": "Apis",
+      "amount_hint_usd": 1230000000,
+      "candidate_ids": [
+        "b6b8a45d6e8a"
+      ]
+    },
+    {
+      "key": "trump accounts draw more",
+      "company_guess": "Trump Accounts Draw More",
+      "amount_hint_usd": 1000000000,
+      "candidate_ids": [
+        "b0121c95bf0a"
+      ]
+    },
+    {
+      "key": "harbinger",
+      "company_guess": "Harbinger",
+      "amount_hint_usd": 340000000,
+      "candidate_ids": [
+        "3ab3dce058a5"
+      ]
+    },
+    {
+      "key": "qianshu",
+      "company_guess": "Qianshu",
+      "amount_hint_usd": 31200000,
+      "candidate_ids": [
+        "af81604ded0e"
+      ]
+    },
+    {
+      "key": "lutes ceo calls touch",
+      "company_guess": "Lute’s CEO calls touch",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "d7a5413fbe13"
+      ]
+    },
+    {
+      "key": "sooners 20m seed gives",
+      "company_guess": "Sooner’s $20M Seed Gives",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "f3a80cf242b6"
+      ]
+    },
+    {
+      "key": "us firm",
+      "company_guess": "US firm",
+      "amount_hint_usd": 20000000,
+      "candidate_ids": [
+        "dc72eae56c47"
+      ]
+    },
+    {
+      "key": "telus backed taulia",
+      "company_guess": "TELUS-Backed Taulia",
+      "amount_hint_usd": 18000000,
+      "candidate_ids": [
+        "4daad78af8b6"
+      ]
+    },
+    {
+      "key": "reversa",
+      "company_guess": "Reversa",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "1ba3da3cd83b"
+      ]
+    },
+    {
+      "key": "lakshya aerotech",
+      "company_guess": "Lakshya Aerotech",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "621b2015005e"
+      ]
+    },
+    {
+      "key": "lakshya smartguard systems",
+      "company_guess": "Lakshya SmartGuard Systems",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "c65cfbddbb69"
+      ]
+    },
+    {
+      "key": "sep2",
+      "company_guess": "SEP2",
+      "amount_hint_usd": null,
+      "candidate_ids": [
+        "a0d2189747f7"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "b6b8a45d6e8a",
+      "title": "Apis Partners Takes Majority Stake In Korridor To Expand Financial Services For African Freight Operators",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/apis-partners-takes-majority-stake-in-korridor-to-expand-financial-services-for-african-freight-operators/",
+      "published_at": "2026-11-28T15:35:20.000Z",
+      "publisher_url": null,
+      "snippet": "Apis Partners has acquired a majority stake in Korridor, a Mauritius-based financial technology company that helps freight operators pay for cross-border journeys in Sub-Saharan Africa. Apis made the investment through Apis Growth Fund III, which held its final close at $1.23 billion in May 2026. The announcement did not disclose the purchase price.\nThe post Apis Partners Takes Majority Stake In Korridor To Expand Financial Services For African Freight Operators appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 1230000000,
+        "currency": "USD",
+        "raw": "$1.23 billion"
+      },
+      "company_guess": "Apis",
+      "group_key": "apis",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/apis-partners-takes-majority-stake-in-korridor-to-expand-financial-services-for-african-freight-operators/",
+      "text": "Apis Partners Takes Majority Stake In Korridor To Expand Financial Services For African Freight Operators\nBy Amit Chowdhry\nToday at 10:35 AM\nApis Partners Takes Majority Stake In Korridor To Expand Financial Services For African Freight Operators\nApis Partners has acquired a majority stake in Korridor, a Mauritius-based financial technology company that helps freight operators pay for cross-border journeys in Sub-Saharan Africa. Apis made the investment through Apis Growth Fund III, which held its final close at $1.23 billion in May 2026. The announcement did not disclose the purchase price.\nFounded in 2007, Korridor operates across 13 countries with more than 360 network points. More than 2,200 customers and nearly 50,000 trucks use its network to handle costs that arise during freight journeys, including tolls, border fees, fuel, insurance and parking. Its platform also helps operators manage foreign exchange and track spending across their fleets.\nDrivers have traditionally carried cash to cover expenses on multiday trips. Korridor gives fleet operators a way to make and track payments digitally in multiple currencies. It also offers tools for planning routes and gives participating suppliers access to customers traveling across borders.\nApis said it has followed Korridor since 2024 and will work with management to accelerate the company’s transition from a physical payments network to a digital platform. The investment will also support plans to expand credit and insurance services for fleet operators. Korridor’s existing role in managing routine freight payments gives it a way to offer those services to customers already using the platform.\nKEY QUOTES\n“Korridor already supports more than 2,200 customers and nearly 50,000 trucks across 13 countries, with a network of more than 360 network points built over nineteen years. What particularly attracted us was the opportunity to build on this established infrastructure and customer base by expanding the range of services available to fleet operators. By reducing reliance on cash, improving visibility and helping operators run their businesses more efficiently, Korridor is already delivering meaningful benefits to its customers today. For Apis, there is no trade-off between impact and financial returns, and we believe supporting businesses that solve real operational challenges creates the foundation for long-term growth.”\nUdayan Goyal, Co-Founder And Managing Partner Of Apis Partners\n“We’re delighted to partner with Korridor and build on the relationship we’ve developed with its management team over the past few years. The team has built a strong position in the market and driven the business’s digitalisation. Cross-border freight underpins trade across Africa, and Korridor has built a unique position within that ecosystem. This is exactly the kind of opportunity Apis looks for: a business delivering essential services today, with a clear opportunity to deepen its relationships with customers over time. We’ve successfully applied this playbook across multiple portfolio companies, helping businesses leverage trusted customer relationships and existing distribution networks to expand the services they provide. We look forward to supporting the team as they continue to grow the platform and broaden its impact across the region.”\nHossam Abou Moussa, Partner And Deputy CEO Of Apis Partners\n“Korridor started by solving one problem: how a transporter pays for a journey across borders, which in an African context is anything but simple. Offering a platform that gives transporters transparency and control, and ultimately saves them time and money, we have built deep, long-standing relationships with a growing customer base. We have done the same on the other side, giving our supplier network coordinated access to cross-border customers they would never otherwise reach. That trust, from both customers and suppliers, gives us a rare opportunity to play a much bigger role in how our customers manage their payments and access financial services. When we looked for a partner to help us realise that, Apis stood out for its experience and capability in African markets, and every engagement with the team has confirmed we share the same vision. Most of all, I am proud of the Korridor team, who built this business, and excited for the next chapter alongside them.”\nAlistair Potgieter, CEO Of Korridor\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "b0121c95bf0a",
+      "title": "Trump Accounts Draw More Than $1 Billion In Contributions From Friends And Family",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/trump-accounts-draw-more-than-1-billion-in-contributions-from-friends-and-family/",
+      "published_at": "2026-11-28T14:57:38.000Z",
+      "publisher_url": null,
+      "snippet": "Trump Accounts has reported more than $1 billion in contributions from friends and family members to individual children’s accounts. More than 3 million people contributed, according to the program’s November 24 announcement. Total deposits exceeded $9 billion, including contributions from individual donors, major philanthropic gifts and federal seed funding.\nThe post Trump Accounts Draw More Than $1 Billion In Contributions From Friends And Family appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 1000000000,
+        "currency": "USD",
+        "raw": "$1 Billion"
+      },
+      "company_guess": "Trump Accounts Draw More",
+      "group_key": "trump accounts draw more",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/trump-accounts-draw-more-than-1-billion-in-contributions-from-friends-and-family/",
+      "text": "Trump Accounts Draw More Than $1 Billion In Contributions From Friends And Family\nBy Amit Chowdhry\nToday at 9:57 AM\nTrump Accounts Draw More Than $1 Billion In Contributions From Friends And Family\nTrump Accounts has reported more than $1 billion in contributions from friends and family members to individual children’s accounts. More than 3 million people contributed. Total deposits exceeded $9 billion, including contributions from individual donors, major philanthropic gifts, and federal seed funding.\nThe $1 billion figure measures contributions made by friends and relatives to individual accounts. The broader deposit figure also includes philanthropic donations from organizations such as the Michael & Susan Dell Foundation and one-time contributions from the U.S. Department of the Treasury.\nTrump Accounts are tax-advantaged investment accounts established for eligible children under 18 with a valid Social Security number. Children born from January 1, 2025, through December 31, 2028, are also eligible for a one-time $1,000 Treasury contribution.\nA parent or guardian must claim a child’s account before managing it or enabling contributions from friends, relatives and employers. The program uses its official app to verify the adult’s identity and relationship to the child. The adult then reviews the child’s information and accepts the account terms. Once the account is claimed, friends and family members can use a QR code in the app to contribute directly.\nThe program’s announcement said friends and families can contribute up to $5,000 per year. Employers can contribute up to $2,500 per year within the overall $5,000 annual limit. Treasury Secretary Scott Bessent said President Donald Trump had also made personal donations to individual accounts during the week of the announcement.\nKEY QUOTES\n“Trump Accounts are a transformative government program for American children. It is the largest government start-up in American history. Adding to this effort is the extraordinary response from friends and family members of individual Trump Account holders, whose contributions have now surpassed $1 billion nationwide. Parents should download the Trump Accounts app today and claim their child’s account to watch their financial future grow.”\nFrank J. Bisignano, Chief Executive Officer Of The Internal Revenue Service\n“The American people are investing in Trump Accounts with a generosity that represents the finest instincts of our national character. President Trump wanted to make it especially easy to contribute to Trump Accounts, and friends and families across the country are seizing that opportunity to help the next generation build wealth from day one. This week, the President himself joined the millions of Americans who have made personal donations to individual Trump Accounts. With every contribution, we are bringing the promise of long-term financial security within reach of American children.”\nScott Bessent, U.S. Secretary Of The Treasury\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    },
+    {
+      "id": "3ab3dce058a5",
+      "title": "Harbinger scores $340M in latest funding rounds [update]",
+      "publisher": "Electrek",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUllOUVUwMlhqVjVNdU00OVo4ZjY2clh4OHJPRjRvV1RIZndYX19RN2p1eWkyV0hzamM5Y0h3NGo3X2owSG1aVjhxbXRhWm9IS2JfVlBGZlp5MTdLN05HUUpPSGR0RWJpSW81elFkYTE0TERvU0xPbHd5TkdqcGZsQ1I4Q0FZSW5VZTlRdXVzWHRmQQ?oc=5",
+      "published_at": "2026-11-28T13:40:00.000Z",
+      "publisher_url": "https://electrek.co",
+      "snippet": "Harbinger scores $340M in latest funding rounds [update] Electrek",
+      "source_feed": "gnews-g3",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 340000000,
+        "currency": "USD",
+        "raw": "$340M"
+      },
+      "company_guess": "Harbinger",
+      "group_key": "harbinger",
+      "group_rank": 0,
+      "resolved_url": "https://electrek.co/2026/11/28/harbinger-scores-another-240m-in-latest-investment-round/",
+      "text": "Used Tesla Cybertruck prices jump after Musk kills it, one asks $150K\nFred Lambert\nNov 27 2026",
+      "text_status": "thin"
+    },
+    {
+      "id": "af81604ded0e",
+      "title": "Qianshu raises $31.2M to build driverless trucks for China's freight routes",
+      "publisher": "Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUc1am5OcmZINUJzeWhVanFpRlQzYkZvNkRNcFAzM3NTZ1VZemZFZUZiTXRJV1FnU3g5a2tPd0dxVE9SYnFsOUxDazMxaW04YlNTUXZFSGgxS1BhZEUzZWxmMk5hRVluOVhQaVFjbEpLZzVQcUN5djJXSTlObHlGekYwcU9LVWo3d0xJX29aaDdQcTNON2lUUlVTZU1DbWVKZlJNSWUyYlpRWmVW?oc=5",
+      "published_at": "2026-11-27T18:08:47.000Z",
+      "publisher_url": "https://app.dealroom.co",
+      "snippet": "Qianshu raises $31.2M to build driverless trucks for China's freight routes Dealroom",
+      "source_feed": "gnews-6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 31200000,
+        "currency": "USD",
+        "raw": "$31.2M"
+      },
+      "company_guess": "Qianshu",
+      "group_key": "qianshu",
+      "group_rank": 0,
+      "resolved_url": "https://app.dealroom.co/news/note/qianshu-raises-31-2m-to-build-driverless-trucks-for-china-s-freight-routes",
+      "text_status": "blocked:403"
+    },
+    {
+      "id": "d7a5413fbe13",
+      "title": "Lute’s CEO calls touch ‘the missing signal’ as it raises $20M",
+      "publisher": "The Next Web",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EZ0VkdzdvSzFiU2xsZm9sWGRGRlFJR1dScHptakItRGF6cjltcEp4MlBnWFFjUmRxbVlOZnZKS282MVFMaWdsRkgxZk9oUlh2U0NneldZM2RNVTFBWU1BWnV0VU5RR29DM2I2dE9XcGw4NW00?oc=5",
+      "published_at": "2026-11-27T11:32:49.000Z",
+      "publisher_url": "https://thenextweb.com",
+      "snippet": "Lute’s CEO calls touch ‘the missing signal’ as it raises $20M The Next Web",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20M"
+      },
+      "company_guess": "Lute’s CEO calls touch",
+      "group_key": "lutes ceo calls touch",
+      "group_rank": 0,
+      "resolved_url": "https://thenextweb.com/news/lute-20m-seed-robots-touch-physical-ai",
+      "text": "The Lute team with one of its robots.\nCredit: Lute\nLute, a Warsaw physical AI startup founded in January, has raised $20M to build robot models trained on touch. The pre-seed and seed money was announced on Tuesday . OTB Ventures and FORWARD.one co-led the seed round, and Credo Ventures and Seedcamp led the pre-seed. Inovo VC, Borusan Ventures, ff Venture Capital and angel investor Naval Ravikant also took part.\nLute will spend the money on touch data, model training and new customers. It is hiring in Warsaw and San Mateo, California.\nWhy touch\nMost robots and physical AI models rely on cameras alone. Vision shows a robot where things are, Lute’s founders wrote. It does not show how firmly the robot holds an item, whether the item is slipping or how fragile it is.\n“We believe touch is the missing signal that lets robots handle real work reliably,” chief executive Paweł Budzianowski said in a statement published by FORWARD.one .\nWith partners, Lute co-designed small, soft tactile sensors and built them into a portable rig. That lets it collect touch data anywhere. Zurich’s Enact is chasing the same idea, and raised $30M in October to give robots a sense of touch.\nLute-0 against π0.5\nLute also released its first model, Lute-0. It learns from video how a scene changes and turns that into robot movements. It is the first of a family of models Lute plans to train on touch as well as vision.\nIn Lute’s own retail tests, Lute-0 matched or beat π0.5, the open-source model from Physical Intelligence . It handled vegetables successfully 76% of the time, against 22% for π0.5. With soft snacks, the score was 98% against 70%. Lute says it also responds twice as fast. The figures come from Lute’s internal evaluation, and TNW has seen no independent results.\nLute says Lute-0 was pre-trained on far less data than π0.5, and trained much faster. Its two lead investors give different figures. It used about a twentieth of the data and a quarter of the training steps, OTB Ventures wrote . FORWARD.one puts it at about a tenth of the pre-training data.\nRobots on real sites\nTen months in, Lute’s models already work at what it calls Europe’s largest automotive parts distributor. OTB puts that company’s annual revenue at $6bn. Lute also works on site with large retailers, and its models run in hospital corridors, according to OTB. The startup also partners with integrators, the firms that install robots for clients, starting with healthcare and manufacturing.\nOn site, the robots work on their own where they can, and a remote operator steps in when one needs help. They run unattended about 90% of the time, according to FORWARD.one. Failures and fixes then go back into training, so each deployment improves the next.\n“In physical AI, the slow and the perfect will both lose,” said Boy de Jonge, investment manager at FORWARD.one.\nBudzianowski has a machine learning PhD from Cambridge and led the machine learning team at PolyAI. He also co-founded K-Scale Labs, which built low-cost open-source humanoid robots. Co-founder Krzysztof Walas, the chief technology officer, was an associate professor at Poznań University of Technology and advised the Polish warehouse robotics company Nomagic . The team has 16 people in Warsaw and the Bay Area.\nStory by\nCristian Dina\nCristian Dina is the CRO at The Next Web. He has interviewed 300+ industry leaders and authored the book King of Networking, establishing hi (show all)\nCristian Dina is the CRO at The Next Web. He has interviewed 300+ industry leaders and authored the book King of Networking, establishing himself as one of the most connected and respected voices in the ecosystem. At just 23 years old, Cristian was included in the Forbes 30 Under 30 2025 list, representing a new generation of tech builders, bold thinkers who move fast, build with purpose, and create real impact.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.\nEmail address\nSubscribe\nWebsite\nThanks! Check your inbox to confirm your subscription.\nBy subscribing you agree to our Privacy Statement .\nPublished November 27, 2026 - 11:31 am UTC\nBack to top\nGet more TNW on Google\nAdd as a preferred source\nRead more TNW news\nFollow on Google\n@thenextweb\nStory by a\nCristian Dina\nPopular articles\n1\nWarsaw startup Lute raises $20M to build robot AI that learns from touch\n2\nCanada adds C$700M to its AI compute fund, favouring home-grown clouds\n3\nMunich fusion startup Starforge raises €6.6M to build reactors in factories\n4\nElevenLabs is in early talks to raise at a $33B valuation, Bloomberg says\n5\nAI media company Every raises $17.5M to help teams become AI-native\nGet the TNW newsletter\n✕ Close\nGet the TNW newsletter\nGet the most important tech news in your inbox each week.\nEmail address\nSubscribe\nWebsite\nThanks! Check your inbox to confirm your subscription.\nBy subscribing you agree to our Privacy Statement .",
+      "text_status": "ok"
+    },
+    {
+      "id": "f3a80cf242b6",
+      "title": "Sooner’s $20M Seed Gives Dubai First-Time Buyers Room for $272M in Home Purchases - أراجيك",
+      "publisher": "أراجيك - Arageek",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2NDSjNKaTE5dmhkYnlydUVMcDZUU2EwMmdUYTJBeURCaWwxVTA4NWhJQzBpZElOMmRUT0tFMTBRb3V3SEJXV0Itbnh0RU1DN1c2RGtYT2xFRzhjZkV0YmhFRHNZaU1OclFKWi0taTFmb3Q0aDVHemo2Y2xHN3U1YUU0N0lheU5RV0R4ZENDT1FLY3MwS1o5MFF1QVVHYlhiTjRPNDRMSEk?oc=5",
+      "published_at": "2026-11-28T12:38:04.000Z",
+      "publisher_url": "https://www.arageek.com",
+      "snippet": "Sooner’s $20M Seed Gives Dubai First-Time Buyers Room for $272M in Home Purchases أراجيك - Arageek",
+      "source_feed": "gnews-3",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20M"
+      },
+      "company_guess": "Sooner’s $20M Seed Gives",
+      "group_key": "sooners 20m seed gives",
+      "group_rank": 0,
+      "resolved_url": "https://www.arageek.com/en/sooners-20m-seed-gives-dubai-first-time-buyers-room-for-272m-in-home-purchases",
+      "text": "Latest 🚀\nSooner’s $20M Seed Gives Dubai First-Time Buyers Room for $272M in Home Purchases\nDubai fintech Sooner raises $20M, led by Nuwa Capital and Amwal Capital Partners, to let first-time buyers pay 10% upfront instead of 20%.\nBy Abdelrahman Amr 28 November 2026 · 3 min read\nSummary\nDubai fintech Sooner has raised $20 million in seed funding.\nNuwa Capital led $5 million in equity, with Amwal adding $15 million in debt.\nEligible buyers pay 10% upfront, with the rest spread over 60 monthly instalments.\nThe money can support around $272 million in home purchases during 2027.\nA home equity line of credit and wider expansion are planned next.\nDubai-based fintech Sooner has raised $20 million in seed funding to grow its home financing service, which helps first-time buyers get onto the property ladder with a smaller upfront down payment. The round combines $5 million in equity led by Nuwa Capital with a $15 million Shariah-compliant debt facility from Amwal Capital Partners.\nThe idea is simple enough. Instead of finding the usual 20% of a property's value on day one, eligible buyers using Sooner's platform pay 10% upfront. The rest of the down payment is then spread across 60 equal Shariah-compliant monthly instalments, so over five years.\nJoining Nuwa Capital on the equity side are 500 Global, Annex Investments, Plus VC, Serkal Group, Axeed Group, 21Ventures, Iliad Partners and a group of angel investors. That is a fairly broad table for a company that is still very young.\nSooner was founded in 2026 by Mohammed Aziz, Gabriel García Leyva and Vlad Cherevkov, and its platform is licensed by the Dubai Land Department. Alongside the down payment support, it offers digital mortgage pre-approvals and help with the property buying process itself.\nThe numbers since launch are worth a look. Sooner went live in July 2026 and has since received around 9,000 applications, representing $4.5 billion in prospective property purchases. It has already supported approximately $10 million in completed home purchases.\nThe new financing, the company says, gives it the capacity to support approximately $272 million in home purchases during 2027. That is a big jump from where it stands today, and the debt facility is clearly what makes that scale possible.\nWhy does this matter? First-time buyers in Dubai typically face a 20% down payment, plus closing costs of roughly 7% to 10%. For plenty of salaried residents, saving that lump sum is the real hurdle, not the monthly mortgage. To be fair, that is exactly the gap Sooner is going after.\nNext on the roadmap is a home equity line of credit in 2027, which would let existing homeowners borrow against the equity in their properties. Further regional and international expansion is also planned.\nThe timing lines up with a busy market. Dubai's residential mortgage lending reached $5.9 billion in the third quarter of 2026, while the emirate's Real Estate Sector Strategy 2033 targets a 33% home-ownership rate.\nAround Arageek, we often talk about fintechs that pick one painful moment in a customer's life and fix it properly. I reckon Sooner fits that pattern nicely. Pairing a regulated product with Shariah-compliant debt is a sensible way to grow a lending business in the Gulf, and if the 9,000 applications turn into completed purchases, this could become a useful model for housing finance across the region.\n🚀 Got exciting news to share?\nIf you're a startup founder, VC, or PR agency with big updates—funding rounds, product launches 📢, or company milestones 🎉 — AraGeek English wants to hear from you!\n✉️ Send Us Your Story 👇\nhttps://en.arageek.com/send-us-your-story-or-a-news-tip\nDeal Tracker 2026\nMENA startups raised $4.73B across 387 rounds this year, led by Fintech . See every deal, investor and sector →\nFollow Arageek on Google\nMake Arageek your preferred source, so our news shows first in your search results. Add Arageek as a preferred source\nNewsletter\nGet the Arageek newsletter\nJoin more than 60,000 subscribers and get the AI and tech news that matters, straight to your inbox. Your email Subscribe\nFree. Unsubscribe at any time. Read our privacy policy .\nLatest\n1\nEgypt’s Entrepreneur Awards Names Nine Winners at Its Sixth Edition\n2\nArabic.AI Sits Alongside Microsoft and IBM in UAE FedAI First Cohort of 17 Partners\n3\nUAE’s Esyasoft Completes CyanConnode Acquisition to Push Into AMI 2.0 Smart Metering\n4\nBrazil and Canada Bring Startups Worth a Combined $797B to Dubai’s Expand North Star\nDiscover more\nDeal Tracker\nGITEX Dubai\nAi Everything\nLEAP26\nAI\nSaudi Arabia\nUAE\nEgypt\nMasterMinds\nRelated\nUAE’s Esyasoft Completes CyanConnode Acquisition to Push Into AMI 2.0 Smart Metering\nKarm Ventures Into European Market with Cyprus Solar Power Expansion\nEFG Hermes ONE and Bank NXT Launch Egypt’s First Bank-Brokerage Credit Card\nStandard Chartered Revives Women in Tech Accelerator in Egypt with $35K Grants\nSaudi Arabia’s ?STUCK Secures Six-Figure Boost to Bridge Linguistic Gaps\nSaudi Arabia Unveils Strategic Guide to Revolutionise Healthcare with AI by 2030\nEgypt’s Digital Real Estate Platforms Gear Up for FRA-Endorsed Investment Funds\nDarwinz AI Secures $325K to Propel Global Growth for Its AI Copilot\nMake Arageek your preferred source on Google",
+      "text_status": "ok"
+    },
+    {
+      "id": "dc72eae56c47",
+      "title": "US firm secures $20 million to advance deep-borehole nuclear waste disposal",
+      "publisher": "Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTHR6SzR3VE50c3ZRd1pwdF9ZRlNBTGpFcWhjQ1FISDRNUnNmZFBBY0hNZXN1TmQ1aXBCSmxhREE3cXg0dTlvQjlPSUNKT1ZQd05fUGQ2TDBNTERMbkkxVUw4UjRjS3NzRm83ZXROLWJxbV81N2lDMVhteW8xM0hYbXJIU1RJV1JVOXBMaXNNMkpjdw?oc=5",
+      "published_at": "2026-11-28T15:13:00.000Z",
+      "publisher_url": "https://interestingengineering.com",
+      "snippet": "US firm secures $20 million to advance deep-borehole nuclear waste disposal Interesting Engineering",
+      "source_feed": "gnews-g6",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 20000000,
+        "currency": "USD",
+        "raw": "$20 million"
+      },
+      "company_guess": "US firm",
+      "group_key": "us firm",
+      "group_rank": 0,
+      "resolved_url": "https://interestingengineering.com/energy/us-nuclear-waste-startup-commercial-deployment",
+      "text": "Energy Chinese automaker GAC shows new EV battery pack that survives hand grenade detonation",
+      "text_status": "thin"
+    },
+    {
+      "id": "4daad78af8b6",
+      "title": "TELUS-Backed Taulia Raises $18M Series C Round",
+      "publisher": "PEI Private Equity",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHpBSUhRQndEOWVraXdZbWJSMWlRdGhSN1ViR1hLVlhFNTlDYWNwWm1KMFRlUnAtaE1WM2UyZVVkLVl2cm1tNTE5bEVuMXVkTFh1OHRsS084MEFlNWt6US05MTVULWE5REJRcjlIRHlSTW9McWt5N19iMll1MTJqSHJRZEdzcGRkU2NfUmotVWRlUmJRSnFhZ0p0alpPSkE?oc=5",
+      "published_at": "2026-11-27T14:59:27.000Z",
+      "publisher_url": "https://www.privateequityinternational.com",
+      "snippet": "TELUS-Backed Taulia Raises $18M Series C Round PEI Private Equity",
+      "source_feed": "gnews-g3",
+      "ai_hint": false,
+      "amount_hint": {
+        "amount": 18000000,
+        "currency": "USD",
+        "raw": "$18M"
+      },
+      "company_guess": "TELUS-Backed Taulia",
+      "group_key": "telus backed taulia",
+      "group_rank": 0,
+      "resolved_url": "https://www.privateequityinternational.com/telus-ventures-backed-taulia-raises-18m-series-c-round/",
+      "text": "TELUS-Backed Taulia Raises $18M Series C Round\nSan Francisco-based Taulia Inc., a cloud-based payment and discounting solutions provider, has raised US$18 million in Series C financing. The deal involved an initial close of US$12.5 million led by German investor Klaus Hommels and Lakestar, with the participation of existing investors, including Matrix Partners, Trinity Ventures, TELUS Ventures and DAG Ventures. A secondary closing of US$5.5 million is underway. Earlier in August, Taulia entered into a strategic partnership with TELUS Corp. and its venture capital arm to expand the company's presence in Canada.\nBy Brad Meikle\n31 August 2013 • 3 mins read\nCanada North America Briefs\nKey mentions\nFirm\nLakestar\nFirm\nTelus Corporation\nFirm\nDAG Ventures\nFirm\nMatrix\nLatest news\nDeals\nEQT Healthcare Growth to acquire Kelso Pharma from Apposite Capital; Ardian’s Fermax looks to expand in France with Noralsy deal\n27 November 2026 · 4 mins read\nDeals\nArgos acquires majority stake in Étoile Secours from Crédit Mutuel Equity\n27 November 2026 · 2 mins read\nDeals\nArdian's Fermax agrees to acquire family-owned French access control firm Noralsy\n27 November 2026 · 1 min read\nView all",
+      "text_status": "ok"
+    },
+    {
+      "id": "1ba3da3cd83b",
+      "title": "Reversa raises €750K to develop AI agents for regulatory compliance",
+      "publisher": "Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVjVSeGZ1RWtRLUxILV95dnBYMjZHd2RqeDB4eHlKYjFFakc0TXJaZVBlRGRJWmZyb3hzOHNuLUVsSkx6SVlJeld1WU9LWDNTX0dCdzA3Sjl3T1VLRHhiMWFpd3daVTJqWHR3Z29na2VoQ0pPR3RmS2RHaHNSUkZGZ1VaN3NIa2dxc3ZVX0ExR001eGREVHFmMnlR?oc=5",
+      "published_at": "2026-11-27T16:59:19.000Z",
+      "publisher_url": "https://beinsure.com",
+      "snippet": "Reversa raises €750K to develop AI agents for regulatory compliance Beinsure",
+      "source_feed": "gnews-1",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "Reversa",
+      "group_key": "reversa",
+      "group_rank": 0,
+      "resolved_url": "https://beinsure.com/news/reversa-raises-e750k-to-develop-ai-agents-for-regulatory-compliance/",
+      "text": "InsurTech News\n🇪🇸 Spain Insurance News\n🇪🇺 Europe Insurance News\nAI agents automate regulatory compliance and legal workflows\nRegulatory compliance costs and financial exposure\nRegulatory barriers delay energy and housing development\nReversa targets international expansion and sector-specific AI solutions\nReversa, a technology startup developing artificial intelligence agents for corporate and public-sector regulatory operations, has raised €750,000 in funding, including a pre-seed round led by Itnig, the investment fund established by Factorial’s founders.\nInvestors include the co-founders of Jobandtalent and business angels from the technology and legal sectors, including executives from HappyRobot, Fuse Energy, multinational banks and energy groups. The company also receives support from Enisa and CDTI’s Neotec programme.\nMadrid-based Reversa has secured €750,000 in funding, including a pre-seed round led by Itnig, the investment fund of Factorial’s founders.\nThe company’s AI agents automate regulatory monitoring, legal research, compliance reviews and public affairs, reducing time spent on regulatory monitoring by 90% and regulatory analysis by 80%.\nReversa plans to expand its international regulatory infrastructure and develop specialized AI solutions for financial services, energy, real estate and urban planning.\nReversa solves regulatory problems for large companies and public institutions. To do so, it structures the regulation of each jurisdiction from its official sources, keeps it up to date and, on top of that infrastructure, builds specific solutions with artificial intelligence agents for different use cases.\nIñigo Martín Llorente, co-founder and CEO of Reversa\nFounded in Madrid in 2025 by Tomás Burgaleta Alonso, Iñigo Martín Llorente and Santiago Aliaga Estella, Reversa describes its technology category as regulatory superintelligence.\nAI agents automate regulatory compliance and legal workflows\nReversa’s regulatory radar connects AI agents directly to official regulatory sources, identifies how legislative changes affect individual companies and helps manage the steps required for implementation.\nThe platform addresses operational and commercial requirements, including identifying applicable legislation when entering new markets and automating compliance reviews for new products.\nOther applications include jurisdiction-specific legal research, contract drafting and updates to corporate policies. Public affairs teams can anticipate regulatory developments, monitor legislative procedures in real time and participate in the legislative process.\nReversa’s customers include multinational corporations operating across multiple jurisdictions, Ibex 35 companies, public affairs consultancies and law firms.\nReversa is a regulatory system of action. It does not just capture information; it delivers the finished work. We build a digital replica of each jurisdiction, with its laws, institutions and procedures, and on top of it we automate workflows with agents that resolve our customers’ tasks end to end.\nSantiago Aliaga Estella, co-founder and CTO\nMultinational clients use the platform to coordinate regulatory monitoring across their markets, reduce compliance risks and generate a return on investment through a 90% reduction in time spent on regulatory monitoring and an 80% reduction in regulatory analysis time.\nRegulatory compliance costs and financial exposure\nRegulatory requirements affect businesses across industries and jurisdictions. PwC’s global CEO survey identifies the regulatory environment as one of the principal barriers to corporate transformation.\nBusinesses face substantial expenditure both in meeting regulatory obligations and in addressing the financial consequences of non-compliance.\nIn the UK financial services sector, regulatory compliance accounts for more than 13% of operating costs, according to research by TheCityUK and PwC.\nFederal regulation costs US businesses an estimated $3.08 tn annually, equivalent to 12% of GDP, according to the National Association of Manufacturers. The study found that smaller companies bear a disproportionately higher regulatory burden. European authorities imposed approximately €1.2 bn in fines for data protection violations in 2025 alone, according to DLA Piper’s research.\nRegulatory barriers delay energy and housing development\nLengthy regulatory and administrative procedures also restrict investment and project delivery in infrastructure, energy and construction.\nElectricity transmission projects in the European Union can take up to 10 years to complete, with permitting procedures accounting for more than half of that period, according to the European Parliamentary Research Service.\nThe application phase for building permits takes between 3 and 24 months across EU member states, depending on the jurisdiction. These administrative requirements coincide with a substantial housing shortage. The European Commission estimates that the EU needs an additional 650,000 homes annually, while the Bank of Spain puts Spain’s housing shortfall at approximately 750,000 properties.\nReversa is developing AI agents for urban planning that simplify land-use permitting, addressing one of the administrative bottlenecks restricting residential construction.\nReversa targets international expansion and sector-specific AI solutions\nThe startup will use the funding to extend the geographical coverage of its regulatory infrastructure and develop specialized applications for financial services, energy and real estate. Investment will also support the expansion of its engineering, product development and commercial teams.\nReversa’s long-term strategy is based on the premise that effective regulation can contribute to economic prosperity and national competitiveness. The company points to Singapore and Luxembourg as examples of jurisdictions that have turned their regulatory frameworks into competitive advantages.\nA country’s laws shape the structure of i",
+      "text_status": "ok"
+    },
+    {
+      "id": "621b2015005e",
+      "title": "Lakshya Aerotech raises ₹2.5 Cr seed funding from Samkhyaa Group promoter",
+      "publisher": "ET Entrepreneur",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcXdTRE9wMUZhWXRhd1ZYNHRxRHNQSC1zeUcxMkxqdGFYRm5UbkxIWTlfM19CYTNXMUxlZHZMSkdaRlhhMGk0M2RNT0VscE9IWEV4NUpxcnp2U0dwNjhxRHd1MkI3UXVSYVl6VFJmS3psRlJPb1lUUE1XTFFPMzRzcmpPS0NCblhIWEdoc2FqR1FnUU9YM0FadzBYUElsQXpVUUd2eE5CZkNDUUJIZEF4TE12al9VR1lReExtUFhXMnBFdF93X2NxUlFiYlpZZ1phQ29mNWFnU013OTlMQkHSAeMBQVVfeXFMT2dqMl81YWRlVXhyRFVtT053WE05QUJJejRaM2NDc1JfeUxqQlpjdGJjMFNHeTdyVFlfTF9DTmk3UEcwZF93S1MwRFI2aU4xV0NSVTZ3eHZVejhlSGtkbWVySnBrbEM1Ym03Q0Fvb1FlUWtUZE9TYldqMnpTbFJDM3h0dHJrY2Z2Rk9nN05KVWxwdjVMZ2ljUXVkQXpRRGNrM3NVejkzelFZY3BZa1ZORFh2dkpKVGRYUHlCRDRseVNKWkZJY2hMbjZJRTlVUDVBMUpOTGRxa3V1aXFVR25hZHlXT1E?oc=5",
+      "published_at": "2026-11-27T08:17:20.000Z",
+      "publisher_url": "https://entrepreneur.economictimes.indiatimes.com",
+      "snippet": "Lakshya Aerotech raises ₹2.5 Cr seed funding from Samkhyaa Group promoter ET Entrepreneur",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Lakshya Aerotech",
+      "group_key": "lakshya aerotech",
+      "group_rank": 0,
+      "resolved_url": "https://entrepreneur.economictimes.indiatimes.com/news/funding/lakshya-aerotech-raises-2-5-cr-seed-funding-from-samkhyaa-group-promoter/136153037",
+      "text": "Funding\n1 min Read\nLakshya Aerotech raises ₹2.5 Cr seed funding from Samkhyaa Group promoter\nThe company will use the investment to strengthen its research and development, engineering infrastructure, product development and indigenous manufacturing capabilities.\nETEntrepreneur Desk\nETEntrepreneur\nUpdated On Nov 25, 2026 at 02:32 PM IST\nShare Icon\nCopy Link Share on Whatsapp Share on Linkedin Share on X Share on Telegram Share on Facebook\nBookmark\nComment\nLakshya Aerotech , the brand under which Lakshya SmartGuard Systems Private Limited operates, has raised ₹2.5 crore in seed funding from Santosh Kumar, promoter of Samkhyaa Group .\nThe company will use the investment to strengthen its research and development , engineering infrastructure, product development and indigenous manufacturing capabilities.\nThe company is focused on developing what it describes as indigenous physical intelligence technologies, which enable machines to perceive their surroundings, make decisions and interact autonomously with the physical world. Its work spans advanced engineering, embedded intelligence and autonomous systems, with an emphasis on converting core technologies into commercially deployable products.\nFounded by Lokesh Popuri, Lakshya aims to build an engineering-driven deeptech business that develops and owns critical technologies for next-generation intelligent machines. Its stated areas of focus include research, embedded engineering, autonomous control, intellectual property development and domestic product manufacturing.\n&ldquo;Our decision to invest in Lakshya is driven by our conviction in the team's engineering capabilities, technological vision and ability to translate innovative ideas into tangible products,&rdquo; said Santosh Kumar, promoter of Samkhyaa Group.\nComments\nWhat are your thoughts?",
+      "text_status": "ok"
+    },
+    {
+      "id": "c65cfbddbb69",
+      "title": "Lakshya SmartGuard Systems Raises ₹2.5 Crore in Seed Funding",
+      "publisher": "TechGraph",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWEVSbmI2UktjUlpadmw2X2tMek1VM0FEWnVVQWhfcW5CdGFNWWY1VHJqRF9xWXVFQnhoVXYxcFZlT0lkd0kxWVdPdWd6UVhXQ0RXSWNtcWJjVVo2RmItR1JZUFhkYlFwcFVpaHFvTDhoSkNldTJpVE1wUWdNNXpmVHNZUkJhODdyWktHbGs3T2NsZ3NRTzBsb3N6NWhlTmM?oc=5",
+      "published_at": "2026-11-27T17:57:51.000Z",
+      "publisher_url": "https://techgraph.co",
+      "snippet": "Lakshya SmartGuard Systems Raises ₹2.5 Crore in Seed Funding TechGraph",
+      "source_feed": "gnews-1",
+      "ai_hint": false,
+      "amount_hint": null,
+      "company_guess": "Lakshya SmartGuard Systems",
+      "group_key": "lakshya smartguard systems",
+      "group_rank": 0,
+      "resolved_url": "https://techgraph.co/startup/lakshya-smartguard-systems-raises-%e2%82%b92-5-crore-in-seed-funding/",
+      "text": "Startup\nLakshya SmartGuard Systems Raises ₹2.5 Crore in Seed Funding\nThe seed funding will support Lakshya Aerotech's research, engineering and manufacturing capabilities as it works on technologies that enable machines to operate autonomously in the physical world.\nBy Krishna Mali Follow us on Google News Follow on Google News\nPublished 27 Nov 2026 , 11:27 pm Audio Listen\nLakshya Aerotech Founding Team\nShare this story\ntg ! Add TechGraph as a preferred source\nLakshya SmartGuard Systems Private Limited, operating under the brand Lakshya Aerotech, has raised ₹2.5 crore in a seed funding round from Samkhyaa Group’s promoter, Santosh Kumar.\nThe company plans to use the investment to support its research and development activities, strengthen its engineering infrastructure , advance product development, and expand its indigenous manufacturing capabilities as it works on technologies focused on physical intelligence and autonomous systems.\nCommenting on the investment, Santosh Kumar, Promoter of Samkhyaa Group, said, “Our decision to invest in Lakshya is driven by our conviction in the team’s engineering capabilities, technological vision and ability to translate innovative ideas into tangible products. We believe the future of deep-tech lies in building indigenous capabilities and developing technologies that address real-world challenges. We are excited to be part of Lakshya’s growth journey.”\nAdvertisement\nSpeaking about the funding, Lokesh Popuri, Founder of Lakshya Aerotech, said, “We believe the next phase of technological innovation will extend beyond software into the physical world, where machines can perceive, reason and act autonomously.”\n“This investment strengthens our ability to pursue that vision through focused research, product engineering and development of core technologies. We are grateful for the confidence placed in our team and the opportunity to build technologies with long-term impact,” he added.\nThe company focuses on developing technologies that enable machines to perceive their surroundings, make decisions and interact autonomously with the physical world. Its work centres on building indigenous capabilities and developing core technologies that can be translated into commercially deployable products.\nAlso read The Death of India’s Unicorn Obsession\nHave a tip? Send it securely Spotted an error? Tell us\nWritten by\nKrishna Mali\nFounder & Group Editor of TechGraph. Latest stories by Krishna Mali\nAdvertisement\nTrending stocks\nVGL.NS Varvee Global Ltd · NSE ₹21.07 ▼ 60.10%\nCADSYS.NS Cadsys (India) Ltd · NSE ₹43.80 ▲ 27.14%\n514028.BO Rajkamal Synthetics Ltd · NSE ₹22.14 ▲ 20.00%\n526251.BO Mideast Portfolio Management Ltd · NSE ₹32.55 ▲ 19.98%\nACCORD.NS Accord Synergy Ltd · NSE ₹107.40 ▼ 14.22%\nKLAC KLA · US $137.61 ▼ 2.31%\nTrending crypto\nBTC Bitcoin $59,303.39 ▼ 0.99%\nETH Ethereum $1,645.35 ▼ 1.54%\nSOL Solana $70.45 ▼ 2.46%\nXRP XRP $0.9371 ▼ 1.40%\nBNB BNB $550.55 ▼ 0.56%\nHYPE Hyperliquid $62.47 ▼ 2.44%\nTrending now\nMost read on TechGraph\n1 Startup Lakshya SmartGuard Systems Raises ₹2.5 Crore in Seed Funding\n2 Tech How to Evaluate Cloud Security Platforms Using Real Attack Paths\n3 Tech The Integration Work Behind Selling Building Software\n4 Apps Are Dating Apps Making It Harder to Find Long Term Relationships?\n5 Cryptocurrency ClearMountCap Explained: The Platform Behind “Read the Room Before You Trade”\nFree newsletter The Morning Graph\nThe five stories that move tech, business and markets. Every weekday, 7 AM IST.\nThe Morning Graph Daily Market Close Weekdays Email Sign up Free. Unsubscribe any time. Privacy\nAdvertisement",
+      "text_status": "ok"
+    },
+    {
+      "id": "a0d2189747f7",
+      "title": "SEP2 Secures FPE Investment To Expand Its UK Managed Cybersecurity Business",
+      "publisher": "Amit Chowdhry",
+      "link": "https://pulse2.com/sep2-secures-fpe-investment-to-expand-its-uk-managed-cybersecurity-business/",
+      "published_at": "2026-11-28T13:23:20.000Z",
+      "publisher_url": null,
+      "snippet": "SEP2 has secured a strategic investment from FPE Capital to expand its managed cybersecurity business in the UK. The Leeds-based company plans to grow its operations and develop its security operations center services, including its use of agentic AI. The announcement did not disclose the size or financial terms of the investment.\nThe post SEP2 Secures FPE Investment To Expand Its UK Managed Cybersecurity Business appeared first on Pulse 2.0 .",
+      "source_feed": "pulse2",
+      "ai_hint": true,
+      "amount_hint": null,
+      "company_guess": "SEP2",
+      "group_key": "sep2",
+      "group_rank": 0,
+      "resolved_url": "https://pulse2.com/sep2-secures-fpe-investment-to-expand-its-uk-managed-cybersecurity-business/",
+      "text": "SEP2 Secures FPE Investment To Expand Its UK Managed Cybersecurity Business\nBy Amit Chowdhry\nToday at 8:23 AM\nSEP2 Secures FPE Investment To Expand Its UK Managed Cybersecurity Business\nSEP2 has secured a strategic investment from FPE Capital to expand its managed cybersecurity business in the UK. The Leeds-based company plans to grow its operations and develop its security operations center services, including its use of agentic AI. The announcement did not disclose the size or financial terms of the investment.\nFounded in 2016, SEP2 provides cybersecurity services to more than 300 businesses and employs over 100 people. Its CREST-accredited security operations center in Leeds monitors threats for customers around the clock. SEP2 also works with technology vendors including Google Cloud, Wiz and Check Point to deliver cybersecurity services. Its engineers, analysts and consultants serve customers across multiple sectors.\nFPE invests in lower mid-market software, data and services companies headquartered in the UK and Ireland. Partner Chris Kay cited SEP2’s technical staff, managed services and relationships with cybersecurity vendors as reasons for the investment. SEP2 said the backing would help it reach more customers while continuing to invest in its services.\nSam Greenberg and Chris Kay led the investment for FPE. BDO advised FPE on financial and tax matters, Squire Patton Boggs provided legal counsel, and Rothschild & Co advised on corporate finance. Kernel provided commercial and technical advice, and AJ Gallagher advised on insurance. Clearwater, Freeths and Claritas advised SEP2 shareholders on corporate finance, legal and tax matters, respectively.\nKEY QUOTES\n“We have spent 10 years building an incredible business that we are extremely proud of. This is a testament to the SEP2 team and the strong culture we have; we are proud to be Tech Driven. People Powered. By partnering with FPE and the expertise they bring we can take the business to the next level and achieve our goal of becoming the number one MSSP in the UK.”\nPaul Starr, CEO Of SEP2\n“SEP2 has built an impressive business, combining deep technical expertise with strong relationships across the cyber security technology ecosystem and a clear commitment to its customers.\n“We were particularly attracted to the strength of the team, the quality of its managed services offering and the opportunities for further growth in the UK market. Paul and the team have established a strong foundation, and we look forward to supporting them as they continue to scale the business.”\nChris Kay, Partner At FPE\n“Partners are at the heart of everything we do at Wiz, and SEP2 has consistently stood out as a leader in delivering exceptional cloud security outcomes for organisations across EMEA. Their deep technical capability, customer-centric focus, and ability to help businesses rapidly identify and remediate complex cyber risk make them an invaluable partner in our ecosystem. We congratulate the entire team at SEP2 on this milestone, and look forward to continuing our collaboration to protect even more organisations as they innovate in the cloud.”\nNick Ross, VP Of EMEA & LATAM Channels & Alliances At Wiz\n“SEP2 has long been one of our standout partners, consistently proving over the last 10-years what can be achieved when deep technical excellence meets an uncompromising commitment to customer security. In an era where organisations face an increasingly sophisticated threat landscape, having a trusted advisor who can effectively deliver comprehensive, AI-powered cybersecurity is invaluable. This investment is well-deserved recognition of the strength of their business and their vision for the future. We congratulate Paul, Mike and Tim and the entire SEP2 team on this milestone and are excited to continue driving joint innovation and protection for our shared customers across the region.”\nMartin Rutterford, Channel Director UK And Ireland At Check Point Software Technologies\nThank you for visiting Pulse 2.0. We work hard every day to bring leaders and decision makers like you the latest intelligence on business, finance, capital markets, deal flow, law, tech, and AI. Click here to subscribe to the Pulse 2.0 Newsletter.",
+      "text_status": "ok"
+    }
+  ]
+}
